@@ -6,6 +6,7 @@ from requests import Response
 import time
 import os
 import json
+
 # sample curl request of a playlist
 """
 curl --request GET \
@@ -16,6 +17,7 @@ curl --request GET \
 SPOTIFY_PLAYLISTS_PATH = f"{var.DATA_PATH}/spotify_playlists"
 PLAYLISTS_DATA_PATH = f"{SPOTIFY_PLAYLISTS_PATH}/playlist_data"
 PLAYLISTS_CSV_PATH = f"{SPOTIFY_PLAYLISTS_PATH}/playlists.csv"
+
 
 def scrape_playlists():
     """
@@ -31,18 +33,19 @@ def scrape_playlists():
             continue
         # if we exceed time limit, re scrape after time sleep
         res = scrape_single_playlist(playlist_id)
-        while(res.status_code == var.SPOTIFY_RATE_LIMIT_RESPONSE_CODE):
+        while (res.status_code == var.SPOTIFY_RATE_LIMIT_RESPONSE_CODE):
             print(f"INFO: Exceeded rate limit, sleeping for {res.headers['Retry-After']} seconds")
-            time.sleep(seconds = res.headers['Retry-After'])
-        
+            time.sleep(seconds=res.headers['Retry-After'])
+
         # check if we still have a success code
         if not is_success_code(res.status_code):
             raise Exception(f"Status error code while fetching {playlist_id}: {res.status_code}")
-        
+
         print(f"Successfully scraped {playlist_id}: {res.status_code}")
         # dump playlist data in its own file
         with open(playlist_path, "w") as f:
             json.dump(res.json(), f, indent=2)
+
 
 def scrape_single_playlist(playlist_id) -> Response:
     """
@@ -53,5 +56,3 @@ def scrape_single_playlist(playlist_id) -> Response:
     }
     res = requests.get(url=URL, headers=headers)
     return res
-
-        

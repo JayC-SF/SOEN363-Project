@@ -15,7 +15,6 @@ SPOTIFY_AUTH_URL = 'https://accounts.spotify.com/api/token'
 
 SPOTIFY_AUTH_TOKEN = AuthToken(SPOTIFY_AUTH_URL, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET)
 DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../data"))
-TEMP_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__),"../../tmp"))
-
+TEMP_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../tmp"))
 
 SPOTIFY_RATE_LIMIT_RESPONSE_CODE = 429

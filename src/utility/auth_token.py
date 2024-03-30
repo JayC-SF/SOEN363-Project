@@ -1,10 +1,14 @@
-import requests
 from datetime import datetime
 from datetime import timedelta
-import os
+
+import requests
+
 from utility.utility import is_success_code
+
+
 class AuthToken:
     seconds_bias = 3
+
     def __init__(self, auth_url: str, client_id: str, client_secret: str):
         """
         """
@@ -22,7 +26,7 @@ class AuthToken:
         """
         self.refresh_token()
         return f"{self.token_type} {self.access_token}"
-        
+
     def is_expired(self) -> bool:
         """
         Check whether the token is about to expire, in case it is, return true.
@@ -43,7 +47,7 @@ class AuthToken:
         headers = {'Content-Type': 'application/x-www-form-urlencoded'}
         # setup request body
         body = {
-            'grant_type':'client_credentials',
+            'grant_type': 'client_credentials',
             'client_id': self.client_id,
             'client_secret': self.client_secret
         }
@@ -58,4 +62,3 @@ class AuthToken:
         self.token_type = json_res['token_type']
         # set the time of expiration to be now + seconds until expiration
         self.expires_in = datetime.now() + timedelta(seconds=json_res['expires_in'])
-
