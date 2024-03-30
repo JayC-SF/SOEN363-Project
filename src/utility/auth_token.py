@@ -1,25 +1,30 @@
 from datetime import datetime
 from datetime import timedelta
-
 import requests
-
 from utility.utility import is_success_code
-
+import json
+import os
 
 class AuthToken:
     seconds_bias = 3
 
-    def __init__(self, auth_url: str, client_id: str, client_secret: str):
+    def __init__(self, auth_url: str, client_id: str, client_secret: str, local_storage_path: str):
         """
         """
         self.auth_url: str = auth_url
         self.client_id: str = client_id
         self.client_secret: str = client_secret
-        self.access_token: str = None
-        self.token_type: str = None
-        # expiration date should always start as expired
-        self.expires_in = datetime.fromtimestamp(0)
-
+        self.local_storage_path = local_storage_path
+        
+        # load from localstorage, otherwise initialize with null values
+        if os.path.exists(local_storage_path):
+            self.loadToken()
+        else:
+            self.access_token: str = ""
+            self.token_type: str = ""
+            # expiration date should always start as expired
+            self.expires_in = datetime.fromtimestamp(0)
+        
     def get_authorization(self):
         """
         This function refreshes the token before returning the authorization information.
@@ -62,3 +67,23 @@ class AuthToken:
         self.token_type = json_res['token_type']
         # set the time of expiration to be now + seconds until expiration
         self.expires_in = datetime.now() + timedelta(seconds=json_res['expires_in'])
+        
+        # store the token to be reused if not expired
+        self.storeTokenToFile()
+    
+    def loadToken(self):
+        with open(self.local_storage_path, "r") as f:
+            token = json.load(f)
+        # load information from the token
+        self.access_token = token['access_token']
+        self.token_type = token['token_type']
+        self.expires_in = datetime.fromisoformat(token['expires_in'])
+    
+    def storeTokenToFile(self):
+        with open(self.local_storage_path, "w") as f:
+            store = {
+                'access_token': self.access_token,
+                'token_type': self.token_type,
+                'expires_in': self.expires_in.isoformat()
+            }
+            json.dump(store, f)

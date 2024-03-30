@@ -3,8 +3,9 @@ from spotify_scraper import playlists
 
 
 def main():
-    auth = var.SPOTIFY_AUTH_TOKEN.get_authorization()
+    # auth = var.SPOTIFY_AUTH_TOKEN.get_authorization()
     # print(auth)
+    # print(var.SPOTIFY_AUTH_TOKEN.is_expired())
     # print(var.SPOTIFY_AUTH_TOKEN.get_authorization())
     playlists.scrape_playlists()
 
