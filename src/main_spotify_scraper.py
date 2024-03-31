@@ -1,5 +1,5 @@
 # from utility import variables as var
-from spotify_scraper import playlists
+from spotify_scraper import playlists, tracks
 from argparse import ArgumentParser
 
 
@@ -11,7 +11,7 @@ def main(args):
     if args.scrape_playlists:
         playlists.scrape_playlists()
     if args.scrape_tracks:
-        pass
+        tracks.scrape_tracks()
 
 
 if __name__ == "__main__":
