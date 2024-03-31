@@ -1,9 +1,9 @@
 from utility import variables as var
-from utility.utility import is_success_code
+from utility.auth_token import SPOTIFY_AUTH_TOKEN
+from utility.utility import is_success_code, send_request_with_wait
 import pandas as pd
 import requests
 from requests import Response
-import time
 import os
 import json
 
@@ -15,7 +15,7 @@ curl --request GET \
 """
 
 SPOTIFY_PLAYLISTS_PATH = f"{var.DATA_PATH}/spotify_playlists"
-PLAYLISTS_DATA_PATH = f"{SPOTIFY_PLAYLISTS_PATH}/playlist_data"
+PLAYLISTS_DATA_PATH = f"{SPOTIFY_PLAYLISTS_PATH}/playlists_data"
 PLAYLISTS_CSV_PATH = f"{SPOTIFY_PLAYLISTS_PATH}/playlists.csv"
 
 
@@ -32,10 +32,7 @@ def scrape_playlists():
             print(f"Playlist {playlist_id} is cached, skip scraping.")
             continue
         # if we exceed time limit, re scrape after time sleep
-        res = scrape_single_playlist(playlist_id)
-        while (res.status_code == var.SPOTIFY_RATE_LIMIT_RESPONSE_CODE):
-            print(f"INFO: Exceeded rate limit, sleeping for {res.headers['Retry-After']} seconds")
-            time.sleep(seconds=res.headers['Retry-After'])
+        res = send_request_with_wait(scrape_single_playlist, playlist_id)
 
         # check if we still have a success code
         if not is_success_code(res.status_code):
@@ -52,7 +49,7 @@ def scrape_single_playlist(playlist_id) -> Response:
     """
     URL = f"{var.SPOTIFY_API_URL}/{var.SPOTIFY_PLAYLIST_ENDPOINT}/{playlist_id}"
     headers = {
-        'Authorization': f"{var.SPOTIFY_AUTH_TOKEN.get_authorization()}"
+        'Authorization': f"{SPOTIFY_AUTH_TOKEN.get_authorization()}"
     }
     res = requests.get(url=URL, headers=headers)
     return res

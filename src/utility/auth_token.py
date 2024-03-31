@@ -4,6 +4,10 @@ import requests
 from utility.utility import is_success_code
 import json
 import os
+from os.path import abspath, join
+
+from utility.variables import SPOTIFY_AUTH_URL, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, TEMP_PATH
+
 
 class AuthToken:
     seconds_bias = 3
@@ -15,7 +19,7 @@ class AuthToken:
         self.client_id: str = client_id
         self.client_secret: str = client_secret
         self.local_storage_path = local_storage_path
-        
+
         # load from localstorage, otherwise initialize with null values
         if os.path.exists(local_storage_path):
             self.loadToken()
@@ -24,7 +28,7 @@ class AuthToken:
             self.token_type: str = ""
             # expiration date should always start as expired
             self.expires_in = datetime.fromtimestamp(0)
-        
+
     def get_authorization(self):
         """
         This function refreshes the token before returning the authorization information.
@@ -67,10 +71,10 @@ class AuthToken:
         self.token_type = json_res['token_type']
         # set the time of expiration to be now + seconds until expiration
         self.expires_in = datetime.now() + timedelta(seconds=json_res['expires_in'])
-        
+
         # store the token to be reused if not expired
         self.storeTokenToFile()
-    
+
     def loadToken(self):
         with open(self.local_storage_path, "r") as f:
             token = json.load(f)
@@ -78,7 +82,7 @@ class AuthToken:
         self.access_token = token['access_token']
         self.token_type = token['token_type']
         self.expires_in = datetime.fromisoformat(token['expires_in'])
-    
+
     def storeTokenToFile(self):
         with open(self.local_storage_path, "w") as f:
             store = {
@@ -87,3 +91,11 @@ class AuthToken:
                 'expires_in': self.expires_in.isoformat()
             }
             json.dump(store, f)
+
+
+SPOTIFY_AUTH_TOKEN = AuthToken(
+    SPOTIFY_AUTH_URL,
+    SPOTIFY_CLIENT_ID,
+    SPOTIFY_CLIENT_SECRET,
+    abspath(join(TEMP_PATH, "spotify_auth_token.json")),
+)
