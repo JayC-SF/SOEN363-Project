@@ -17,7 +17,7 @@ curl --request GET \
 """
 
 
-def scrape_scrape_items(items_folder: str, item_type: str):
+def scrape_items(items_folder: str, endpoint: str, item_type: str):
     """
     """
     # setup path string of where the json items are stored
@@ -28,7 +28,7 @@ def scrape_scrape_items(items_folder: str, item_type: str):
     # add a .gitkeep file if it doesn't exist
     open(f"{items_data_path}/.gitkeep", "a")
     # log info
-    print(f'SCRAPING {item_type.upper()}')
+    print(f'SCRAPING {item_type.upper()}S')
     # create csv file if doesn't exist
     if not os.path.exists(csv_file_path):
         with open(csv_file_path, "w") as f:
@@ -44,7 +44,7 @@ def scrape_scrape_items(items_folder: str, item_type: str):
             print(f"{item_type} {id} is cached, skip scraping.")
             continue
         # if we exceed time limit, re scrape after time sleep
-        res = send_request_with_wait(scrape_single_item, id)
+        res = send_request_with_wait(scrape_single_item, id, endpoint)
 
         # check if we still have a success code
         if not is_success_code(res.status_code):
