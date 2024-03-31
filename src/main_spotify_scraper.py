@@ -2,23 +2,39 @@
 from spotify_scraper import scraper
 from argparse import ArgumentParser
 
-from utility.variables import SPOTIFY_PLAYLIST_ENDPOINT, SPOTIFY_PLAYLISTS_PATH, SPOTIFY_TRACK_ENDPOINT, SPOTIFY_TRACKS_PATH
+from utility.auth_token import SPOTIFY_AUTH_TOKEN
 
 
 def main(args):
-    # auth = var.SPOTIFY_AUTH_TOKEN.get_authorization()
+    auth = SPOTIFY_AUTH_TOKEN.get_authorization()
     # print(auth)
-    # print(var.SPOTIFY_AUTH_TOKEN.is_expired())
-    # print(var.SPOTIFY_AUTH_TOKEN.get_authorization())
     if args.scrape_playlists:
-        scraper.scrape_items(SPOTIFY_PLAYLISTS_PATH, SPOTIFY_PLAYLIST_ENDPOINT, 'Playlist')
+        # spotify doesn't scrape playlists with batchmode
+        playlists_scraper = scraper.SpotifyScraper("playlists")
+        playlists_scraper.scrape_items()
+        pass
+    if args.load_tracks_from_playlists:
+        pass
     if args.scrape_tracks:
-        scraper.scrape_items(SPOTIFY_TRACKS_PATH, SPOTIFY_TRACK_ENDPOINT, 'Track')
+        tracks_scraper = scraper.SpotifyScraper("tracks")
+        tracks_scraper.scrape_items(batchmode=True)
+    if args.load_artists_from_tracks:
+        pass
+    if args.scrape_artists:
+        artists_scraper = scraper.SpotifyScraper("artists")
+        artists_scraper.scrape_items(batchmode=True)
+    if args.scrape_audiobooks:
+        audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
+        audiobooks_scraper.scrape_items(batchmode=True)
 
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('-sp', '--scrape-playlists', help='Scrapes playlists defined in playlists.csv', action='store_true')
-    parser.add_argument('-st', '--scrape-tracks', help='Scrapes tracks defined ', action='store_true')
+    parser.add_argument('-p', '--scrape-playlists', help=f'Scrapes playlists defined in csv file', action='store_true')
+    parser.add_argument('-t', '--scrape-tracks', help=f'Scrapes tracks defined in csv file', action='store_true')
+    parser.add_argument('-a', '--scrape-artists', help=f'Scrapes artists defined in csv file', action='store_true')
+    parser.add_argument('-b', '--scrape-audiobooks', help=f'Scrapes audiobooks defined in csv file', action='store_true')
+    parser.add_argument('-l', '--load-tracks-from-playlists', help=f'Loads tracks from playlists', action='store_true')
+    parser.add_argument('-g', '--load-artists-from-tracks', help=f'Loads artists from tracks', action='store_true')
     args = parser.parse_args()
     main(args)
