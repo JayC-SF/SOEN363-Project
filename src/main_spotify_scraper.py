@@ -24,6 +24,9 @@ def main(args):
     if args.scrape_audiobooks:
         audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
         audiobooks_scraper.scrape_items()
+    if args.generate_artist_ids:
+        artists_generate = scraper.SpotifyScraper("artists")
+        artists_generate.generate_artists_ids()
 
 
 if __name__ == '__main__':
@@ -34,5 +37,6 @@ if __name__ == '__main__':
     parser.add_argument('-b', '--scrape-audiobooks', help=f'Scrapes audiobooks defined in csv file', action='store_true')
     parser.add_argument('-l', '--load-tracks-from-playlists', help=f'Loads tracks from playlists', action='store_true')
     parser.add_argument('-g', '--load-artists-from-tracks', help=f'Loads artists from tracks', action='store_true')
+    parser.add_argument('-al', '--generate-artist-ids', help=f'Populates `ids.csv` of artists/ with list of ids', action='store_true')
     args = parser.parse_args()
     main(args)

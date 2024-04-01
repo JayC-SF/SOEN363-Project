@@ -1,3 +1,4 @@
+import string
 from typing import Iterable
 from spotify.util import setup_spotify_folders
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
@@ -9,6 +10,7 @@ import os
 from os.path import join as joinpath, abspath
 import json
 from pathlib import Path
+import random
 
 from utility.variables import DATA_PATH, SPOTIFY_API_URL, SPOTIFY_BATCH_MAX_ITEMS, SPOTIFY_DATA_PATH
 
@@ -159,3 +161,48 @@ class SpotifyScraper:
         }
         res = requests.get(url=URL, headers=headers, params=PARAMS)
         return res
+    
+    def generate_random_string(self, length):
+        letters = string.ascii_lowercase
+        return ''.join(random.choice(letters) for i in range(length))
+    
+    def generate_artists_ids(self):
+        print("PRINTING LIST OF ARTIST IDS:")
+
+        # Spotify API endpoint
+        URL = "https://api.spotify.com/v1/search"
+
+        # Search query for artists
+        search_query = "artist:"
+
+        # Parameters for the request
+        params = {
+            "q": search_query,
+            "type": "artist",
+            "limit": 40,  # Adjust the limit as per your requirement
+            "market": "US",  # Specify the market for better results
+            "include_external": "audio",  # Include external content like popularity metrics
+            "offset": 0,  # Offset for pagination, if needed
+            "sort": "popularity"  # Sort by popularity
+        }
+
+
+        headers = {
+            'Authorization': f"{SPOTIFY_AUTH_TOKEN.get_authorization()}"
+        }
+        # Make a GET request to Spotify API
+        response = requests.get(URL, params=params, headers=headers)
+
+        if response.status_code == 200:
+            # Extract artist IDs from the response
+            artists = response.json()["artists"]["items"]
+            artist_ids = [artist["id"] for artist in artists]
+
+            # Print the list of artist IDs
+            print("List of Artist IDs:")
+            for artist_id in artist_ids:
+                print(artist_id)
+        else:
+            print(response.json())
+    
+    

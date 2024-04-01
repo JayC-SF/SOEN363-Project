@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 from os import getenv
 from os.path import abspath, join, dirname
 
-load_dotenv("../.env")
+load_dotenv(".env")
 
 # LOAD ENVIRONMENT VARIABLES
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID")
