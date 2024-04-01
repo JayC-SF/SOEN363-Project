@@ -9,7 +9,7 @@ from os.path import join as joinpath, abspath
 import json
 from pathlib import Path
 
-from utility.variables import DATA_PATH, SPOTIFY_ITEMS_CSV_NAME, SPOTIFY_ITEMS_FOLDER_NAME
+from utility.variables import DATA_PATH, SPOTIFY_API_URL, SPOTIFY_BATCH_MAX_ITEMS, SPOTIFY_DATA_PATH
 
 # sample curl request of a playlist
 """
@@ -17,9 +17,6 @@ curl --request GET \
   --url https://api.spotify.com/v1/playlists/3cEYpjA9oz9GiPac4AsH4n \
   --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
 """
-SPOTIFY_API_URL = "https://api.spotify.com/v1"
-SPOTIFY_DATA_PATH = abspath(joinpath(DATA_PATH, 'spotify'))
-SPOTIFY_BATCH_MAX_ITEMS = 100
 
 
 class SpotifyScraper:
@@ -66,6 +63,7 @@ class SpotifyScraper:
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = pd.read_csv(self.__csv_file_path)
+        error_request = set()
         for _, row in df.iterrows():
             id = row['ID']
             item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
@@ -79,12 +77,19 @@ class SpotifyScraper:
 
             # check if we still have a success code
             if not is_success_code(res.status_code):
-                raise Exception(f"Status error code while fetching {id}: {res.status_code}")
+                error_request.add(id)
+                print(f"Status error code while fetching {id}: {res.status_code}\n{res.json()}")
+                continue
 
             print(f"Successfully scraped {id}: {res.status_code}")
             # dump playlist data in its own file
             with open(item_file_path, "w") as f:
                 json.dump(res.json(), f, indent=2)
+
+        df = df[~df['ID'].isin(error_request)]
+        df.to_csv(self.__csv_file_path, index=False)
+        print(f"\nScraping complete, total ids with error: {len(error_request)}")
+        print(f"IDS with error request: {'\n'.join(error_request)}")
 
     def scrape_single_id(self, id: str) -> Response:
         """Scrapes the response of a single id for an item
@@ -132,13 +137,17 @@ class SpotifyScraper:
             # send the batch request and check status codes
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_df)
             if not is_success_code(res.status_code):
-                raise Exception(f"Status error code {res.status_code} while fetching:\n{"\n".join(batch_df)}")
+                raise Exception(f"Status error code {res.status_code} while fetching:\n{str(res.content)}\n{"\n".join(batch_df)}")
 
             # get the json response
             items = res.json()
-
+            with open("out.json", "w") as f:
+                json.dump(items, f, indent=2)
             # store each scraped item in its folder.
             for item in items[self.__endpoint]:
+                # skip the null ones
+                if (item is None):
+                    continue
                 id = item['id']
                 item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
                 print(f"Successfully scraped {id}: {res.status_code}.")

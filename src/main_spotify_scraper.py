@@ -23,7 +23,7 @@ def main(args):
         artists_scraper.scrape_items(batchmode=True)
     if args.scrape_audiobooks:
         audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
-        audiobooks_scraper.scrape_items(batchmode=True)
+        audiobooks_scraper.scrape_items()
 
 
 if __name__ == '__main__':
