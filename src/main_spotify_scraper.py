@@ -15,12 +15,12 @@ def main(args):
         pass
     if args.scrape_tracks:
         tracks_scraper = scraper.SpotifyScraper("tracks")
-        tracks_scraper.scrape_items(batchmode=True)
+        tracks_scraper.scrape_items()
     if args.load_artists_from_tracks:
         pass
     if args.scrape_artists:
         artists_scraper = scraper.SpotifyScraper("artists")
-        artists_scraper.scrape_items(batchmode=True)
+        artists_scraper.scrape_items()
     if args.scrape_audiobooks:
         audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
         audiobooks_scraper.scrape_items()
