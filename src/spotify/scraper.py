@@ -1,4 +1,5 @@
 from typing import Iterable
+from spotify.util import setup_spotify_folders
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
 from utility.utility import is_success_code, send_request_with_wait
 import pandas as pd
@@ -23,23 +24,7 @@ class SpotifyScraper:
 
     def __init__(self, endpoint: str):
         self.__endpoint = endpoint
-        self.__data_path = abspath(joinpath(SPOTIFY_DATA_PATH, endpoint))
-        self.__csv_file_path = abspath(joinpath(SPOTIFY_DATA_PATH, f"{endpoint}/ids.csv"))
-        self.__items_folder_path = joinpath(self.__data_path, 'items')
-        self.setup_folders()
-
-    def setup_folders(self):
-        # Create folders if they don't exist
-        Path(self.__items_folder_path).mkdir(parents=True, exist_ok=True)
-        # add a .gitkeep file if it doesn't exist
-        open(joinpath(self.__items_folder_path, ".gitkeep"), "a")
-        # log info
-
-        # create csv file if doesn't exist
-        if not os.path.exists(self.__csv_file_path):
-            with open(self.__csv_file_path, "w") as f:
-                f.write('ID')
-            print(f"No data currently stored for {self.__endpoint}, successfully created folders and file.")
+        self.__data_path, self.__csv_file_path, self.__items_folder_path = setup_spotify_folders(endpoint)
 
     def scrape_items(self, batchmode: bool = False):
         """Scrapes items using ids defined in csv file
