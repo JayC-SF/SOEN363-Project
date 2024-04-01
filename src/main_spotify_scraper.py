@@ -1,13 +1,11 @@
 # from utility import variables as var
-from spotify_scraper import scraper
+from spotify import scraper
 from argparse import ArgumentParser
 
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
 
 
 def main(args):
-    auth = SPOTIFY_AUTH_TOKEN.get_authorization()
-    # print(auth)
     if args.scrape_playlists:
         # spotify doesn't scrape playlists with batchmode
         playlists_scraper = scraper.SpotifyScraper("playlists")
