@@ -166,6 +166,35 @@ class SpotifyScraper:
         letters = string.ascii_lowercase
         return ''.join(random.choice(letters) for i in range(length))
     
+    def generate_playlist_ids(self):
+        print("PRINTING LIST OF PLAYLIST IDS:")
+
+        # Spotify API endpoint
+        URL = "https://api.spotify.com/v1/browse/featured-playlists?offset=99&limit=50"
+        playlist_list = []
+        headers = {
+            'Authorization': f"{SPOTIFY_AUTH_TOKEN.get_authorization()}"
+        }
+        # Make a GET request to Spotify API
+        response = requests.get(URL, headers=headers)
+
+        if response.status_code == 200:
+            # Extract playlist IDs from the response
+            playlists = response.json()["playlists"]["items"]
+            for playlist in playlists:
+                uri = playlist["uri"]
+                if uri is not None:
+                    clean_uri = uri.replace('spotify:playlist:', '')
+                    playlist_list.append(clean_uri)
+
+            # Print the list of playlist IDs
+            print("List of Playlist IDs:")
+            for playlist_id in playlist_list:
+                print(playlist_id)
+        else:
+            print(response.json())
+
+
     def generate_artists_ids(self):
         print("PRINTING LIST OF ARTIST IDS:")
 

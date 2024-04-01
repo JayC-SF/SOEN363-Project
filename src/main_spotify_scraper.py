@@ -27,6 +27,9 @@ def main(args):
     if args.generate_artist_ids:
         artists_generate = scraper.SpotifyScraper("artists")
         artists_generate.generate_artists_ids()
+    if args.generate_playlist_ids:
+        playlists_generate = scraper.SpotifyScraper("playlists")
+        playlists_generate.generate_playlist_ids()
 
 
 if __name__ == '__main__':
@@ -38,5 +41,6 @@ if __name__ == '__main__':
     parser.add_argument('-l', '--load-tracks-from-playlists', help=f'Loads tracks from playlists', action='store_true')
     parser.add_argument('-g', '--load-artists-from-tracks', help=f'Loads artists from tracks', action='store_true')
     parser.add_argument('-al', '--generate-artist-ids', help=f'Populates `ids.csv` of artists/ with list of ids', action='store_true')
+    parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
     args = parser.parse_args()
     main(args)
