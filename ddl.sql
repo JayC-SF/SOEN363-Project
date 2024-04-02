@@ -102,7 +102,7 @@ CREATE TABLE Album
     spotify_id   VARCHAR(200),
     total_tracks INT,
     popularity   INT,
-    release_date DATETIME,
+    release_date VARCHAR(10),
     label        VARCHAR(200),
     external_url VARCHAR(200),
     href         VARCHAR(200),

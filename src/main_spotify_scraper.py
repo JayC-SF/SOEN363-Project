@@ -1,9 +1,11 @@
 # from utility import variables as var
+from database.inserter import DatabaseInserter
 from musicbrainz.loader import AliasLoader
 from spotify import loader, scraper
 from argparse import ArgumentParser
 
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
+from utility.variables import DATA_CHOICES
 
 
 def main(args):
@@ -29,7 +31,6 @@ def main(args):
         audiobooks_scraper.scrape_items(batchmode=True)
     if args.load_genres:
         loader.load_genres()
-
     if args.generate_artist_ids:
         artists_generate = scraper.SpotifyScraper("artists")
         artists_generate.generate_artists_ids()
@@ -48,6 +49,14 @@ def main(args):
         loader.load_chapters_from_audiobooks()
 
 
+def insert_to_database(args):
+    if args.list:
+        print(DATA_CHOICES)
+    if args.data_type:
+        inserter = DatabaseInserter(data_type=args.data_type)
+        inserter.insert_data()
+
+
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('-p', '--scrape-playlists', help=f'Scrapes playlists defined in csv file', action='store_true')
@@ -62,9 +71,13 @@ if __name__ == '__main__':
     parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
     parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `artist_names.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
     parser.add_argument('-ml', '--generate-musicbrainz-aliases-json', help=f'Fetch MusicBrainz API for every artist name', action='store_true')
-
     parser.add_argument('-o', '--load-authors-from-audiobooks', help=f'Loads authors from audiobooks', action='store_true')
     parser.add_argument('-c', '--load-chapters-from-audiobooks', help=f'Loads chapters from audiobooks', action='store_true')
+    subparsers = parser.add_subparsers(dest='command', help='Sub-command help')
+    insert_parser = subparsers.add_parser('insert-to-database', help='Insert data to the database')
+    insert_parser.add_argument('-l', '--list', help='Show the list of possible data choices', action='store_true')
+    insert_parser.add_argument('-d', '--data-type', choices=DATA_CHOICES, help='Specify the type of data to insert')
+    insert_parser.set_defaults(func=insert_to_database)
 
     # Run below if token expires at root dir through src/main_spotify_scraper.py
     # SPOTIFY_AUTH_TOKEN.refresh_token()
@@ -73,5 +86,7 @@ if __name__ == '__main__':
     
 
     args = parser.parse_args()
-    
-    main(args)
+    if hasattr(args, 'func'):
+        args.func(args)
+    else:
+        main(args)
