@@ -146,8 +146,6 @@ class SpotifyScraper:
                 # get the json response
                 items = res.json()
 
-            with open("out.json", "w") as f:
-                json.dump(items, f, indent=2)
             # store each scraped item in its folder.
             for item in items[self.__endpoint]:
                 # skip the null ones
