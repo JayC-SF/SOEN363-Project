@@ -13,31 +13,42 @@ class JsonToObjectMapper:
         """
         self.mapping = mapping
 
-    def map(self, json_data: str | Dict[str, Any], cls: Type[T]) -> T:
+    def extract_value(self, data, path):
+        """
+        Extracts a value from the nested JSON data based on the given path.
+
+        :param data: The JSON data as a nested dictionary.
+        :param path: The string path representing where to look for the desired data.
+        :return: The extracted data.
+        """
+        keys = path.split('.')
+        for key in keys:
+            if '[]' in key:
+                key, subkey = key.replace('[]', ''), None
+                if '.' in key:
+                    key, subkey = key.split('.')
+                value = data.get(key, [])
+                if isinstance(value, list) and subkey:
+                    return [subitem.get(subkey, None) for subitem in value if subitem and subkey in subitem]
+                return [subitem for subitem in value if subitem]
+            else:
+                if isinstance(data, dict):
+                    data = data.get(key, {})
+                else:
+                    return None
+        return data
+
+    def map(self, json_data: Dict[str, Any], cls: Type[T]) -> T:
         """
         Maps JSON data to an object of the specified class based on the provided mapping.
 
-        :param json_data: A string containing JSON or a dictionary representing an object.
+        :param json_data: A dictionary representing an object.
         :param cls: The class type to which the JSON data is to be mapped.
         :return: An instance of cls filled with data from the json_data.
         """
-        if isinstance(json_data, str):
-            data = json.loads(json_data)
-        else:
-            data = json_data
-
-        # Process each mapping and extract the corresponding value from JSON.
         obj_data = {}
         for attr, json_path in self.mapping.items():
-            keys = json_path.split('.')
-            value = data
-            for key in keys:
-                if isinstance(value, dict) and key in value:
-                    value = value[key]
-                else:
-                    value = None
-                    break
+            value = self.extract_value(json_data, json_path)
             obj_data[attr] = value
 
-        obj = cls(**obj_data)
-        return obj
+        return cls(**obj_data)
