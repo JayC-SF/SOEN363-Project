@@ -110,8 +110,8 @@ class SpotifyScraper:
         while (len(uncached_items_df) != 0):
             # get the batch of ids to send in request
             batch_items_df = uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]
-            batch_ids = set(uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]['ID'].to_list())
-            uncached_items_df.drop(uncached_items_df.index[:SPOTIFY_BATCH_MAX_ITEMS], inplace=True)
+            batch_ids = set(batch_items_df['ID'].to_list())
+            uncached_items_df.drop(batch_items_df.index, inplace=True)
 
             # send the batch request and check status codes
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
@@ -146,7 +146,6 @@ class SpotifyScraper:
                 with open(item_file_path, "w") as f:
                     json.dump(item, f, indent=2)
                 batch_ids.remove(id)
-            batch_items_df = batch_items_df
             # log all missing ids from that batch request
             for missing_id in batch_ids:
                 f"Response is missing {missing_id} in batch request."
