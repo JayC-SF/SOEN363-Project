@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KTykbPcDB4GYS49jcHbWh",
+      "id": "5KTykbPcDB4GYS49jcHbWh",
+      "name": "Jessica Pratt",
+      "type": "artist",
+      "uri": "spotify:artist:5KTykbPcDB4GYS49jcHbWh"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2024 Mexican Summer, LLC.",
+      "type": "C"
+    },
+    {
+      "text": "2024 Mexican Summer, LLC.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "184923132540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/54eLc8KKiIJcWmrkQV3A2b",
+  "id": "54eLc8KKiIJcWmrkQV3A2b",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f38ebecb5a0aa92bbefd5832",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f38ebecb5a0aa92bbefd5832",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f38ebecb5a0aa92bbefd5832",
+      "width": 64
+    }
+  ],
+  "label": "Mexican Summer",
+  "name": "Life Is",
+  "popularity": 44,
+  "release_date": "2024-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/54eLc8KKiIJcWmrkQV3A2b/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KTykbPcDB4GYS49jcHbWh",
+            "id": "5KTykbPcDB4GYS49jcHbWh",
+            "name": "Jessica Pratt",
+            "type": "artist",
+            "uri": "spotify:artist:5KTykbPcDB4GYS49jcHbWh"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aJrUfPxOANdzY1weAqrgH",
+        "id": "3aJrUfPxOANdzY1weAqrgH",
+        "is_local": false,
+        "name": "Life Is",
+        "preview_url": "https://p.scdn.co/mp3-preview/c3de78a9e2c2bfc2555ce97f213e314c52a35106?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3aJrUfPxOANdzY1weAqrgH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:54eLc8KKiIJcWmrkQV3A2b"
+}

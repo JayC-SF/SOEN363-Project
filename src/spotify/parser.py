@@ -10,9 +10,9 @@ T = TypeVar('T')
 
 class SpotifyParser:
     """
-    A parser class for Spotify data, specifically for parsing audiobook information.
+    A parser class for Spotify data, specifically for parsing spotify information.
 
-    This class is responsible for parsing JSON files that contain audiobook data, converting
+    This class is responsible for parsing JSON files that contain spotify data, converting
     them into instances of a specified model class.
 
     Attributes:
@@ -80,13 +80,13 @@ class SpotifyParser:
             print(f"No data was found at {self.__items_folder_path}")
             return
 
-        audiobook_list = []
+        object_list = []
         for file in files:
             file_path = os.path.join(self.__items_folder_path, file)
-            audiobook = self.parse_single(file_path)
-            if audiobook:
-                audiobook_list.append(audiobook)
-        return audiobook_list
+            mapped_object = self.parse_single(file_path)
+            if mapped_object:
+                object_list.append(mapped_object)
+        return object_list
 
     def parse_single(self, file_path) -> T:
         """
