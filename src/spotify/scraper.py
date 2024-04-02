@@ -70,10 +70,9 @@ class SpotifyScraper:
             # dump playlist data in its own file
             with open(item_file_path, "w") as f:
                 json.dump(res.json(), f, indent=2)
-            # update dataframe
-            df.loc[idx, 'CACHED'] = True
 
         df = df[~df['ID'].isin(error_request)]
+        df['CACHED'] = True
         df.to_csv(self.__csv_file_path, index=False)
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
         print(f"Removed ids with error request: {'\n'.join(error_request)}")
@@ -156,6 +155,7 @@ class SpotifyScraper:
 
         df = df[~df['ID'].isin(error_request)]
         df.to_csv(self.__csv_file_path, index=False)
+        df['CACHED'] = True
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
         print(f"Removed ids with error request: {'\n'.join(error_request)}")
 
