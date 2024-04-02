@@ -1,41 +1,61 @@
--- Active: 1711898359458@@walidoow.com@3306@project
+-- Active: 1712015075548@@walidoow.com@3306@project
 -- Drop existing tables if they exist
-
-DROP TABLE IF EXISTS Author;
-DROP TABLE IF EXISTS Chapters;
-
-DROP TABLE IF EXISTS Genre;
 
 DROP TABLE IF EXISTS Audiobooks_Chapters;
 DROP TABLE IF EXISTS Audiobooks_Authors;
 DROP TABLE IF EXISTS Available_Markets_Albums;
 DROP TABLE IF EXISTS Available_Markets_Tracks;
 DROP TABLE IF EXISTS Albums_Genres;
-DROP TABLE IF EXISTS Albums;
-DROP TABLE IF EXISTS Tracks_Albums;
-DROP TABLE IF EXISTS Audiobooks;
-DROP TABLE IF EXISTS Audio;
-DROP TABLE IF EXISTS Alias;
-DROP TABLE IF EXISTS Artists_Aliases;
-DROP TABLE IF EXISTS Artist;
+DROP TABLE IF EXISTS Audiobook;
 DROP TABLE IF EXISTS Tracks_Artists;
+DROP TABLE IF EXISTS Artists_Aliases;
+
+DROP TABLE IF EXISTS Alias;
+DROP TABLE IF EXISTS Artist;
+
+DROP TABLE IF EXISTS Track;
+DROP TABLE IF EXISTS Audio;
+DROP TABLE IF EXISTS Playlist;
+DROP TABLE IF EXISTS Album;
+DROP TABLE IF EXISTS Market;
+DROP TABLE IF EXISTS Chapter;
+DROP TABLE IF EXISTS Author;
+DROP TABLE IF EXISTS Genre;
+DROP TABLE IF EXISTS Chapters;
 
 -- CREATE ALL TABLES
 
+CREATE TABLE Audio (
+    audio_id INT AUTO_INCREMENT,
+    audio_name VARCHAR(100) NOT NULL,
+    spotify_url VARCHAR(200),
+    href VARCHAR(200),
+    explicit BIT,
+    PRIMARY KEY (audio_id)
+);
+
 CREATE TABLE Track(
     track_id INT AUTO_INCREMENT,
-    track_name VARCHAR(100) NOT NULL,
     popularity INT,
     type VARCHAR(100),
     duration_ms INT,
-    href VARCHAR(200),
     external_url VARCHAR(200),
-    spotify_uri VARCHAR(200),
-    explicit BIT,
     is_playable BIT,
     preview_url VARCHAR(200),
     disc_number INT,
-    PRIMARY KEY (track_id)
+    PRIMARY KEY (track_id),
+    FOREIGN KEY (track_id) REFERENCES Audio(audio_id) ON DELETE CASCADE
+);
+
+CREATE TABLE Audiobook (
+    audiobook_id INT AUTO_INCREMENT,
+    description TEXT,
+    edition VARCHAR(200),
+    publisher VARCHAR(200),
+    total_chapters INT,
+    media_type VARCHAR(200),
+    PRIMARY KEY (audiobook_id),
+    FOREIGN KEY (audiobook_id) REFERENCES Audio(audio_id) ON DELETE CASCADE
 );
 
 CREATE TABLE Artist(
@@ -43,9 +63,9 @@ CREATE TABLE Artist(
     artist_name VARCHAR(200) NOT NULL,
     nb_followers INT,
     popularity INT,
-    spotify_uri VARCHAR(200),
+    spotify_url VARCHAR(200),
     href VARCHAR(200),
-    PRIMARY KEY (artist_id),
+    PRIMARY KEY (artist_id)
 );
 
 CREATE TABLE Playlist(
@@ -55,7 +75,7 @@ CREATE TABLE Playlist(
     nb_followers INT,
     collaborative BIT,
     snapshot_id INT,
-    spotify_uri VARCHAR(200),
+    spotify_url VARCHAR(200),
     href VARCHAR(200),
     external_url VARCHAR(200),
     PRIMARY KEY (playlist_id)
@@ -64,7 +84,7 @@ CREATE TABLE Playlist(
 CREATE TABLE Alias(
     alias_id INT AUTO_INCREMENT,
     alias_name VARCHAR(200) NOT NULL,
-    PRIMARY KEY (alias_id, alias_name)
+    PRIMARY KEY (alias_id)
 );
 
 CREATE TABLE Album(
@@ -92,25 +112,6 @@ CREATE TABLE Market (
     PRIMARY KEY (market_id)
 );
 
-CREATE TABLE Audio (
-    audio_id INT AUTO_INCREMENT,
-    PRIMARY KEY (audio_id)
-);
-
-CREATE TABLE Audiobooks (
-    audiobook_name INT AUTO_INCREMENT,
-    description TEXT,
-    edition VARCHAR(200),
-    explicit BIT,
-    spotify_url VARCHAR(200),
-    publisher VARCHAR(200),
-    total_chapters INT,
-    media_type VARCHAR(200),
-    href VARCHAR(200),
-    PRIMARY KEY (audiobook_name),
-    FOREIGN KEY (audio_id) REFERENCES Audio(audio_id)
-)
-
 CREATE TABLE Author(
     author_id INT AUTO_INCREMENT,
     author_name VARCHAR(200),
@@ -122,7 +123,7 @@ CREATE TABLE Chapter(
     chapter_number INT,
     description TEXT,
     chapter_name VARCHAR(200),
-    PRIMARY KEY (chapter_name, chapter_number)
+    PRIMARY KEY (chapter_id)
 );
 
 CREATE TABLE Tracks_Artists(
@@ -146,7 +147,7 @@ CREATE TABLE Tracks_Albums(
     album_id INT NOT NULL,
     PRIMARY KEY (track_id, album_id),
     FOREIGN KEY (track_id) REFERENCES Track(track_id) ON DELETE CASCADE,
-    FOREIGN KEY (alias_id) REFERENCES Alias(alias_id) ON DELETE CASCADE
+    FOREIGN KEY (album_id) REFERENCES Album(album_id) ON DELETE CASCADE
 );
 
 CREATE TABLE Albums_Genres(
@@ -160,7 +161,7 @@ CREATE TABLE Albums_Genres(
 CREATE TABLE Available_Markets_Albums(
     album_id INT NOT NULL,
     market_id INT NOT NULL,
-    PRIMARY KEY (album_id, genre_id),
+    PRIMARY KEY (album_id, market_id),
     FOREIGN KEY (album_id) REFERENCES Album(album_id) ON DELETE CASCADE,
     FOREIGN KEY (market_id) REFERENCES Market(market_id) ON DELETE CASCADE
 );
@@ -168,8 +169,8 @@ CREATE TABLE Available_Markets_Albums(
 CREATE TABLE Available_Markets_Tracks(
     track_id INT NOT NULL,
     market_id INT NOT NULL,
-    PRIMARY KEY (album_id, genre_id),
-    FOREIGN KEY (album_id) REFERENCES Album(album_id) ON DELETE CASCADE,
+    PRIMARY KEY (track_id, market_id),
+    FOREIGN KEY (track_id) REFERENCES Track(track_id) ON DELETE CASCADE,
     FOREIGN KEY (market_id) REFERENCES Market(market_id) ON DELETE CASCADE
 );
 
@@ -178,7 +179,7 @@ CREATE TABLE Playlists_Tracks(
     playlist_id INT NOT NULL,
     PRIMARY KEY (track_id, playlist_id),
     FOREIGN KEY (track_id) REFERENCES Track(track_id) ON DELETE CASCADE,
-    FOREIGN KEY (playlist_id) REFERENCES Playlist(maplaylist_idrket_id) ON DELETE CASCADE
+    FOREIGN KEY (playlist_id) REFERENCES Playlist(playlist_id) ON DELETE CASCADE
 );
 
 CREATE TABLE Audiobooks_Authors (
@@ -190,9 +191,8 @@ CREATE TABLE Audiobooks_Authors (
 );
 
 CREATE TABLE Audiobooks_Chapters (
-    chapter_id INT NOT NULL,
+    chapter_id INT AUTO_INCREMENT,
     audiobook_id INT NOT NULL,
-    PRIMARY KEY (chapter_id, audiobook_id),
-    FOREIGN KEY (chapter_id) REFERENCES Chapter(chapter_id) ON DELETE CASCADE,
+    PRIMARY KEY (chapter_id),
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook(audiobook_id) ON DELETE CASCADE 
 );

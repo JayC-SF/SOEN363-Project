@@ -20,3 +20,9 @@ SPOTIFY_ITEMS_CSV_NAME = "ids.csv"
 SPOTIFY_ITEMS_FOLDER_NAME = "items"
 SPOTIFY_API_URL = "https://api.spotify.com/v1"
 SPOTIFY_DATA_PATH = abspath(join(DATA_PATH, 'spotify'))
+
+# DEFINE MUSICBRAINZ CONSTANTS
+MUSICBRAINZ_DATA_PATH = abspath(join(DATA_PATH, 'musicbrainz'))
+MUSICBRAINZ_ITEMS_CSV_NAME = "alias_ids.csv"
+MUSICBRAINZ_ITEMS_FOLDER_NAME = "items"
+MUSICBRAINZ_API_URL = "https://musicbrainz.org/ws/2/release"

@@ -1,5 +1,6 @@
 # from utility import variables as var
 from spotify import loader, scraper
+from musicbrainz.util import setup_musicbrainz_folders
 from argparse import ArgumentParser
 
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
@@ -45,5 +46,12 @@ if __name__ == '__main__':
     parser.add_argument('-g', '--load-artists-from-tracks', help=f'Loads artists from tracks', action='store_true')
     parser.add_argument('-al', '--generate-artist-ids', help=f'Populates `ids.csv` of artists/ with list of ids', action='store_true')
     parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
+    parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `ids.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
+
+
+    # Run below if token expires at root dir through src/main_spotify_scraper.py
+    # SPOTIFY_AUTH_TOKEN.refresh_token()
+    # parser.add_argument('')
     args = parser.parse_args()
+    
     main(args)
