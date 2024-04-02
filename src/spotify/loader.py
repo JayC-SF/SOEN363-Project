@@ -97,30 +97,71 @@ def load_authors_from_audiobooks():
     for file in files:
         file_path = os.path.join(items_audiobooks_folder_path, file)
         with open(file_path, 'r') as f:
-            load_authors_from_audiobook(f, file_path, items_authors_folder_path)
+            load_authors_from_single_audiobook(f, file_path, items_authors_folder_path)
 
     author_files = [f for f in os.listdir(items_authors_folder_path) if
                     os.path.isfile(os.path.join(items_authors_folder_path, f)) and f.endswith('.json')]
     print(f"Added {len(author_files) - authors_size} new audiobooks with authors.")
 
 
-def load_authors_from_audiobook(file, file_path, items_authors_folder_path):
+def load_authors_from_single_audiobook(file, file_path, items_authors_folder_path):
     data = json.load(file)
     if data:
         audiobook_id = data['id']
         authors = data['authors']
 
         author = {'authors': authors, 'audiobook_id': audiobook_id}
-        write_authors_per_audiobook(author, items_authors_folder_path)
+        if os.path.isfile(f'{items_authors_folder_path}/{author['audiobook_id']}.json'):
+            return
+        with open(f'{items_authors_folder_path}/{author['audiobook_id']}.json', 'w') as f:
+            json.dump(author, f, ensure_ascii=False, indent=2)
     else:
         print(f"Warning: Empty JSON file skipped - {file_path}")
 
 
-def write_authors_per_audiobook(author, items_authors_folder_path):
-    if os.path.isfile(f'{items_authors_folder_path}/{author['audiobook_id']}.json'):
+def load_chapters_from_audiobooks():
+    _, _, items_audiobooks_folder_path, _ = setup_spotify_folders('audiobooks')
+    _, _, items_chapters_folder_path, _ = setup_spotify_folders('chapters')
+
+    if not os.path.exists(items_audiobooks_folder_path):
+        print(f"No directory was found at {items_audiobooks_folder_path}")
         return
-    with open(f'{items_authors_folder_path}/{author['audiobook_id']}.json', 'w') as f:
-        json.dump(author, f, ensure_ascii=False, indent=2)
+
+    files = [f for f in os.listdir(items_audiobooks_folder_path) if
+             os.path.isfile(os.path.join(items_audiobooks_folder_path, f)) and f.endswith('.json')]
+
+    chapter_files = [f for f in os.listdir(items_chapters_folder_path) if
+                     os.path.isfile(os.path.join(items_chapters_folder_path, f)) and f.endswith('.json')]
+    chapters_size = len(chapter_files)
+
+    if not files:
+        print(f"No data was found at {items_audiobooks_folder_path}")
+        return
+    for file in files:
+        file_path = os.path.join(items_audiobooks_folder_path, file)
+        with open(file_path, 'r') as f:
+            load_chapters_from_single_audiobook(f, file_path, items_chapters_folder_path)
+
+    chapter_files = [f for f in os.listdir(items_chapters_folder_path) if
+                     os.path.isfile(os.path.join(items_chapters_folder_path, f)) and f.endswith('.json')]
+    print(f"Added {len(chapter_files) - chapters_size} new chapters.")
+
+
+def load_chapters_from_single_audiobook(file, file_path, items_chapters_folder_path):
+    data = json.load(file)
+    if data:
+        chapter_items = data['chapters']['items']
+        audiobook = data.copy()
+        del audiobook['chapters']
+
+        for chapter in chapter_items:
+            chapter['audiobook'] = audiobook
+            if os.path.isfile(f'{items_chapters_folder_path}/{chapter['id']}.json'):
+                return
+            with open(f'{items_chapters_folder_path}/{chapter['id']}.json', 'w') as f:
+                json.dump(chapter, f, ensure_ascii=False, indent=2)
+    else:
+        print(f"Warning: Empty JSON file skipped - {file_path}")
 
 
 def load_genres():

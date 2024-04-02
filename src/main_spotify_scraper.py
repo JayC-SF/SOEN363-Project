@@ -41,6 +41,8 @@ def main(args):
         loader_musicbrainz.write_artist_names_to_csv()
     if args.load_authors_from_audiobooks:
         loader.load_authors_from_audiobooks()
+    if args.load_chapters_from_audiobooks:
+        loader.load_chapters_from_audiobooks()
 
 
 if __name__ == '__main__':
@@ -57,10 +59,11 @@ if __name__ == '__main__':
     parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
     parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `ids.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
     parser.add_argument('-o', '--load-authors-from-audiobooks', help=f'Loads authors from audiobooks', action='store_true')
+    parser.add_argument('-c', '--load-chapters-from-audiobooks', help=f'Loads chapters from audiobooks', action='store_true')
 
     # Run below if token expires at root dir through src/main_spotify_scraper.py
     # SPOTIFY_AUTH_TOKEN.refresh_token()
     # parser.add_argument('')
     args = parser.parse_args()
-
+    
     main(args)
