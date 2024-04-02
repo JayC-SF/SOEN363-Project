@@ -74,9 +74,10 @@ class SpotifyScraper:
                 json.dump(res.json(), f, indent=2)
 
         df = df[~df['ID'].isin(error_request)]
+        df.drop_duplicates(inplace=True)
         df.to_csv(self.__csv_file_path, index=False)
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
-        print(f"IDS with error request: {'\n'.join(error_request)}")
+        print(f"Removed ids with error request: {'\n'.join(error_request)}")
 
     def scrape_single_id(self, id: str) -> Response:
         """Scrapes the response of a single id for an item
@@ -161,11 +162,11 @@ class SpotifyScraper:
         }
         res = requests.get(url=URL, headers=headers, params=PARAMS)
         return res
-    
+
     def generate_random_string(self, length):
         letters = string.ascii_lowercase
         return ''.join(random.choice(letters) for i in range(length))
-    
+
     def generate_playlist_ids(self):
         print("PRINTING LIST OF PLAYLIST IDS:")
 
@@ -194,7 +195,6 @@ class SpotifyScraper:
         else:
             print(response.json())
 
-
     def generate_artists_ids(self):
         print("PRINTING LIST OF ARTIST IDS:")
 
@@ -215,7 +215,6 @@ class SpotifyScraper:
             "sort": "popularity"  # Sort by popularity
         }
 
-
         headers = {
             'Authorization': f"{SPOTIFY_AUTH_TOKEN.get_authorization()}"
         }
@@ -233,5 +232,3 @@ class SpotifyScraper:
                 print(artist_id)
         else:
             print(response.json())
-    
-    
