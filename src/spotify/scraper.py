@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 from requests import Response
 import os
-from os.path import join as joinpath, abspath
+from os.path import join as joinpath
 import json
 from pathlib import Path
 import random
@@ -39,6 +39,22 @@ class SpotifyScraper:
         else:
             self.scrape_nonbatch_items()
 
+    def __update_df_with_fs(self):
+        # read from csv
+        df = pd.read_csv(self.__csv_file_path)
+        # drop duplicates
+        df.drop_duplicates(subset=['ID'], inplace=True)
+        # find all uncached items
+        not_cached = set()
+        for _, row in df.iterrows():
+            if not os.path.exists(joinpath(self.__items_folder_path, f"{row['ID']}.json")):
+                not_cached.add(row['ID'])
+
+        df.loc[df['ID'].isin(not_cached), 'CACHED'] = False
+        df.loc[~df['ID'].isin(not_cached), 'CACHED'] = True
+        df.to_csv(self.__csv_file_path, index=False)
+        return df
+
     def scrape_nonbatch_items(self):
         """Scrapes items without using batchmode requests. Performs a request for each ids in the csv file.
         The function stores the output of the request in a json file.
@@ -49,11 +65,11 @@ class SpotifyScraper:
         """
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
-        df = pd.read_csv(self.__csv_file_path)
-        df.drop_duplicates(subset=['ID'], inplace=True)
+        df = self.__update_df_with_fs()
+        # get all uncached items
         uncached_items_df = df[df['CACHED'] == False]
         error_request = set()
-        for idx, row in uncached_items_df.iterrows():
+        for _, row in uncached_items_df.iterrows():
             id = row['ID']
             item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
 
@@ -101,9 +117,7 @@ class SpotifyScraper:
         """
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
-        df = pd.read_csv(self.__csv_file_path)
-        # drop duplicates
-        df.drop_duplicates(subset=['ID'], inplace=True)
+        df = self.__update_df_with_fs()
         # get the uncached items
         uncached_items_df = df[df['CACHED'] == False].copy()
         error_request = set()
@@ -153,8 +167,8 @@ class SpotifyScraper:
             error_request.union(batch_ids)
 
         df = df[~df['ID'].isin(error_request)]
-        df.to_csv(self.__csv_file_path, index=False)
         df['CACHED'] = True
+        df.to_csv(self.__csv_file_path, index=False)
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
         print(f"Removed ids with error request: {'\n'.join(error_request)}")
 
