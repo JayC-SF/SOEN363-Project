@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+      },
+      "href": "https://api.spotify.com/v1/artists/3SgHzT552wy2W8pNLaLk24",
+      "id": "3SgHzT552wy2W8pNLaLk24",
+      "name": "Hillsong Worship",
+      "type": "artist",
+      "uri": "spotify:artist:3SgHzT552wy2W8pNLaLk24"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+      },
+      "href": "https://api.spotify.com/v1/artists/7iETGaxJ4crz3qaljDPCKC",
+      "id": "7iETGaxJ4crz3qaljDPCKC",
+      "name": "Brooke Ligertwood",
+      "type": "artist",
+      "uri": "spotify:artist:7iETGaxJ4crz3qaljDPCKC"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Hillsong Music & Resources LLC, under exclusive license to Capitol CMG Label Group/Sparrow Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Hillsong Music & Resources LLC, under exclusive license to Capitol CMG Label Group/Sparrow Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557320435"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7m2VtB9IdKJ0WZmnuSB5Q2",
+  "id": "7m2VtB9IdKJ0WZmnuSB5Q2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736842ad2124bdb978e3e41291",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026842ad2124bdb978e3e41291",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516842ad2124bdb978e3e41291",
+      "width": 64
+    }
+  ],
+  "label": "Hillsong (HIL)",
+  "name": "What A Beautiful Name",
+  "popularity": 60,
+  "release_date": "2017-01-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7m2VtB9IdKJ0WZmnuSB5Q2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SgHzT552wy2W8pNLaLk24",
+            "id": "3SgHzT552wy2W8pNLaLk24",
+            "name": "Hillsong Worship",
+            "type": "artist",
+            "uri": "spotify:artist:3SgHzT552wy2W8pNLaLk24"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iETGaxJ4crz3qaljDPCKC",
+            "id": "7iETGaxJ4crz3qaljDPCKC",
+            "name": "Brooke Ligertwood",
+            "type": "artist",
+            "uri": "spotify:artist:7iETGaxJ4crz3qaljDPCKC"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 238200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KLj9QjEhJl2WU50mxRF9Z",
+        "id": "4KLj9QjEhJl2WU50mxRF9Z",
+        "is_local": false,
+        "name": "What A Beautiful Name",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4KLj9QjEhJl2WU50mxRF9Z"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7m2VtB9IdKJ0WZmnuSB5Q2"
+}
