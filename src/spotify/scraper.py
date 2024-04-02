@@ -50,6 +50,7 @@ class SpotifyScraper:
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = pd.read_csv(self.__csv_file_path)
+        df.drop_duplicates(subset=['ID'], inplace=True)
         uncached_items_df = df[df['CACHED'] == False]
         error_request = set()
         for idx, row in uncached_items_df.iterrows():
@@ -73,7 +74,6 @@ class SpotifyScraper:
             df.loc[idx, 'CACHED'] = True
 
         df = df[~df['ID'].isin(error_request)]
-        df.drop_duplicates(subset=['ID'], inplace=True)
         df.to_csv(self.__csv_file_path, index=False)
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
         print(f"Removed ids with error request: {'\n'.join(error_request)}")
@@ -103,7 +103,9 @@ class SpotifyScraper:
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = pd.read_csv(self.__csv_file_path)
-        #
+        # drop duplicates
+        df.drop_duplicates(subset=['ID'], inplace=True)
+        # get the uncached items
         uncached_items_df = df[df['CACHED'] == False].copy()
         error_request = set()
         while (len(uncached_items_df) != 0):
@@ -114,7 +116,7 @@ class SpotifyScraper:
 
             # send the batch request and check status codes
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
-            #
+            # send request without batch, by sending a request 1 by 1
             if not is_success_code(res.status_code):
                 print(f"Status error code {res.status_code} while fetching:\n{str(res.content)}")
                 print("Fetching in non batchmode for this batch")
@@ -124,7 +126,6 @@ class SpotifyScraper:
                 for batch_id in batch_ids:
                     res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, batch_id)
                     if not is_success_code(res.status_code):
-                        error_request.add(batch_id)
                         print(f"Status error code while fetching {batch_id}: {res.status_code}\n{res.json()}")
                         continue
                     items[self.__endpoint].append(res.json())
@@ -150,6 +151,13 @@ class SpotifyScraper:
             # log all missing ids from that batch request
             for missing_id in batch_ids:
                 f"Response is missing {missing_id} in batch request."
+
+            error_request.union(batch_ids)
+
+        df = df[~df['ID'].isin(error_request)]
+        df.to_csv(self.__csv_file_path, index=False)
+        print(f"\nScraping complete, total ids with error: {len(error_request)}")
+        print(f"Removed ids with error request: {'\n'.join(error_request)}")
 
     def scrape_batch_ids(self, ids: Iterable[str]):
         """_summary_
