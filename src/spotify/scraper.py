@@ -26,7 +26,7 @@ class SpotifyScraper:
 
     def __init__(self, endpoint: str):
         self.__endpoint = endpoint
-        self.__data_path, self.__csv_file_path, self.__items_folder_path = setup_spotify_folders(endpoint)
+        self.__data_path, self.__csv_file_path, self.__items_folder_path, _ = setup_spotify_folders(endpoint)
 
     def scrape_items(self, batchmode: bool = False):
         """Scrapes items using ids defined in csv file
