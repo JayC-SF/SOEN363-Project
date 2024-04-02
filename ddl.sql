@@ -1,4 +1,4 @@
--- Active: 1712015075548@@walidoow.com@3306@project
+-- Active: 1712072836115@@walidoow.com@3306@project
 -- Drop existing tables if they exist
 
 DROP TABLE IF EXISTS Audiobooks_Chapters;
@@ -8,6 +8,8 @@ DROP TABLE IF EXISTS Available_Markets_Tracks;
 DROP TABLE IF EXISTS Albums_Genres;
 DROP TABLE IF EXISTS Audiobook;
 DROP TABLE IF EXISTS Tracks_Artists;
+DROP TABLE IF EXISTS Tracks_Albums;
+DROP TABLE IF EXISTS Playlists_Tracks;
 DROP TABLE IF EXISTS Artists_Aliases;
 
 DROP TABLE IF EXISTS Alias;

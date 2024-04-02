@@ -69,6 +69,9 @@ if __name__ == '__main__':
     # Run below if token expires at root dir through src/main_spotify_scraper.py
     # SPOTIFY_AUTH_TOKEN.refresh_token()
     # parser.add_argument('')
+
+    
+
     args = parser.parse_args()
     
     main(args)
