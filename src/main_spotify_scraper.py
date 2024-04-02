@@ -35,7 +35,10 @@ def main(args):
         playlists_generate.generate_playlist_ids()
     if args.load_musicbrainz_ids:
         loader_musicbrainz = AliasLoader("aliases")
-        loader_musicbrainz.write_artist_names_to_csv()
+        loader_musicbrainz.write_artist_data_to_csv()
+    if args.generate_musicbrainz_aliases_json:
+        generate_musicbrainz = AliasLoader("aliases")
+        generate_musicbrainz.load_aliases_items()
 
 
 if __name__ == '__main__':
@@ -49,7 +52,8 @@ if __name__ == '__main__':
     parser.add_argument('-g', '--load-artists-from-tracks', help=f'Loads artists from tracks', action='store_true')
     parser.add_argument('-al', '--generate-artist-ids', help=f'Populates `ids.csv` of artists/ with list of ids', action='store_true')
     parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
-    parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `ids.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
+    parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `artist_names.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
+    parser.add_argument('-ml', '--generate-musicbrainz-aliases-json', help=f'Fetch MusicBrainz API for every artist name', action='store_true')
 
 
     # Run below if token expires at root dir through src/main_spotify_scraper.py
