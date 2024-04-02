@@ -50,14 +50,11 @@ class SpotifyScraper:
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = pd.read_csv(self.__csv_file_path)
+        uncached_items_df = df[df['CACHED'] == False]
         error_request = set()
-        for _, row in df.iterrows():
+        for idx, row in uncached_items_df.iterrows():
             id = row['ID']
             item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
-            # skip if the item has already been scraped
-            if os.path.exists(item_file_path):
-                print(f"{id} in {self.__endpoint} is cached, skip scraping.")
-                continue
 
             # if we exceed time limit, re scrape after time sleep
             res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, id)
@@ -72,9 +69,11 @@ class SpotifyScraper:
             # dump playlist data in its own file
             with open(item_file_path, "w") as f:
                 json.dump(res.json(), f, indent=2)
+            # update dataframe
+            df.loc[idx, 'CACHED'] = True
 
         df = df[~df['ID'].isin(error_request)]
-        df.drop_duplicates(inplace=True)
+        df.drop_duplicates(subset=['ID'], inplace=True)
         df.to_csv(self.__csv_file_path, index=False)
         print(f"\nScraping complete, total ids with error: {len(error_request)}")
         print(f"Removed ids with error request: {'\n'.join(error_request)}")
@@ -104,31 +103,35 @@ class SpotifyScraper:
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = pd.read_csv(self.__csv_file_path)
-        df.drop_duplicates()
-        cached_ids: set[str] = set()
-        # get the cached ids
-        for _, row in df.iterrows():
-            id = row['ID']
-            item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
-            # skip if the item has already been scraped
-            if os.path.exists(item_file_path):
-                print(f"{id} in {self.__endpoint} is cached, skip scraping.")
-                cached_ids.add(id)
-        # drop ids that are already cached
-        df = df[~df['ID'].isin(cached_ids)]
-
-        while (len(df) != 0):
+        #
+        uncached_items_df = df[df['CACHED'] == False].copy()
+        error_request = set()
+        while (len(uncached_items_df) != 0):
             # get the batch of ids to send in request
-            batch_df = set(df[:SPOTIFY_BATCH_MAX_ITEMS]['ID'].to_list())
-            df.drop(df.index[:SPOTIFY_BATCH_MAX_ITEMS], inplace=True)
+            batch_items_df = uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]
+            batch_ids = set(uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]['ID'].to_list())
+            uncached_items_df.drop(uncached_items_df.index[:SPOTIFY_BATCH_MAX_ITEMS], inplace=True)
 
             # send the batch request and check status codes
-            res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_df)
+            res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
+            #
             if not is_success_code(res.status_code):
-                raise Exception(f"Status error code {res.status_code} while fetching:\n{str(res.content)}\n{"\n".join(batch_df)}")
+                print(f"Status error code {res.status_code} while fetching:\n{str(res.content)}")
+                print("Fetching in non batchmode for this batch")
+                items = {
+                    self.__endpoint: []
+                }
+                for batch_id in batch_ids:
+                    res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, batch_id)
+                    if not is_success_code(res.status_code):
+                        error_request.add(batch_id)
+                        print(f"Status error code while fetching {batch_id}: {res.status_code}\n{res.json()}")
+                        continue
+                    items[self.__endpoint].append(res.json())
+            else:
+                # get the json response
+                items = res.json()
 
-            # get the json response
-            items = res.json()
             with open("out.json", "w") as f:
                 json.dump(items, f, indent=2)
             # store each scraped item in its folder.
@@ -142,10 +145,10 @@ class SpotifyScraper:
                 # dump playlist data in its own file
                 with open(item_file_path, "w") as f:
                     json.dump(item, f, indent=2)
-                batch_df.remove(id)
-
+                batch_ids.remove(id)
+            batch_items_df = batch_items_df
             # log all missing ids from that batch request
-            for missing_id in batch_df:
+            for missing_id in batch_ids:
                 f"Response is missing {missing_id} in batch request."
 
     def scrape_batch_ids(self, ids: Iterable[str]):

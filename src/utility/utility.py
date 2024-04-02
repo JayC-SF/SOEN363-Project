@@ -22,6 +22,6 @@ def send_request_with_wait(request_func: Callable[..., Response], *args: Any) ->
     res = request_func(*args)
     while (res.status_code == SPOTIFY_RATE_LIMIT_RESPONSE_CODE):
         print(f"INFO: Exceeded rate limit, sleeping for {res.headers['Retry-After']} seconds")
-        time.sleep(seconds=res.headers['Retry-After'])
+        time.sleep(int(res.headers['Retry-After']))
         res = request_func(*args)
     return res

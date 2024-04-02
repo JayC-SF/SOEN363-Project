@@ -16,16 +16,16 @@ def main(args):
         loader.load_info_from_playlists()
     if args.scrape_tracks:
         tracks_scraper = scraper.SpotifyScraper("tracks")
-        tracks_scraper.scrape_items()
+        tracks_scraper.scrape_items(batchmode=True)
     if args.scrape_artists:
         artists_scraper = scraper.SpotifyScraper("artists")
-        artists_scraper.scrape_items()
+        artists_scraper.scrape_items(batchmode=True)
     if args.scrape_albums:
         albums_scraper = scraper.SpotifyScraper("albums")
-        albums_scraper.scrape_items()
+        albums_scraper.scrape_items(batchmode=True)
     if args.scrape_audiobooks:
         audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
-        audiobooks_scraper.scrape_items()
+        audiobooks_scraper.scrape_items(batchmode=True)
     if args.generate_artist_ids:
         artists_generate = scraper.SpotifyScraper("artists")
         artists_generate.generate_artists_ids()

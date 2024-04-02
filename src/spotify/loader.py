@@ -25,9 +25,9 @@ def load_info_from_playlists():
         albums_df = pd.concat([albums_df, new_albums_df], ignore_index=True)
         artists_df = pd.concat([artists_df, new_artists_df], ignore_index=True)
     # drop duplicates
-    tracks_df.drop_duplicates(inplace=True)
-    albums_df.drop_duplicates(inplace=True)
-    artists_df.drop_duplicates(inplace=True)
+    tracks_df.drop_duplicates(subset=['ID'], inplace=True)
+    albums_df.drop_duplicates(subset=['ID'], inplace=True)
+    artists_df.drop_duplicates(subset=['ID'], inplace=True)
     # store to csv file
     tracks_df.to_csv(tracks_csv, index=False)
     albums_df.to_csv(albums_csv, index=False)
@@ -43,7 +43,7 @@ def load_info_from_playlist(playlist_id, playlist_items_folder):
     if not os.path.exists(playlist_json_file):
         print(f"Playlist {playlist_id} needs to be scraped before loading tracks")
         return
-    data = {'ID': []}
+    data = {'ID': [], 'CACHED': []}
     tracks_df = pd.DataFrame(data)
     albums_df = tracks_df.copy()
     artists_df = tracks_df.copy()
@@ -56,17 +56,17 @@ def load_info_from_playlist(playlist_id, playlist_items_folder):
     for track in tracks:
         track = track['track']
         # add new track in the dataframe
-        tracks_df.loc[len(tracks_df)] = [track['id']]
-        albums_df.loc[len(albums_df)] = [track['album']['id']]
+        tracks_df.loc[len(tracks_df)] = [track['id'], False]
+        albums_df.loc[len(albums_df)] = [track['album']['id'], False]
         # add artists in albums
         for artist in track['album']['artists']:
-            artists_df.loc[len(artists_df)] = [artist['id']]
+            artists_df.loc[len(artists_df)] = [artist['id'], False]
         # add artists in track
         for artist in track['artists']:
-            artists_df.loc[len(artists_df)] = [artist['id']]
+            artists_df.loc[len(artists_df)] = [artist['id'], False]
 
     # drop all duplicates in the dataframe
-    tracks_df.drop_duplicates()
-    albums_df.drop_duplicates()
-    artists_df.drop_duplicates()
+    tracks_df.drop_duplicates(subset=['ID'])
+    albums_df.drop_duplicates(subset=['ID'])
+    artists_df.drop_duplicates(subset=['ID'])
     return (tracks_df, albums_df, artists_df)

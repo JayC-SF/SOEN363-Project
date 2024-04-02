@@ -16,7 +16,7 @@ def setup_spotify_folders(endpoint) -> tuple[str]:
     # create csv file if doesn't exist
     if not os.path.exists(csv_file_path):
         with open(csv_file_path, "w") as f:
-            f.write('ID')
+            f.write('ID,CACHED')
         # log info
         print(f"No data currently stored for {endpoint}, successfully created folders and file.")
     return (data_path, csv_file_path, items_folder_path)
