@@ -36,6 +36,8 @@ def main(args):
     if args.load_musicbrainz_ids:
         loader_musicbrainz = AliasLoader("aliases")
         loader_musicbrainz.write_artist_names_to_csv()
+    if args.load_authors_from_audiobooks:
+        loader.load_authors_from_audiobooks()
 
 
 if __name__ == '__main__':
@@ -50,6 +52,7 @@ if __name__ == '__main__':
     parser.add_argument('-al', '--generate-artist-ids', help=f'Populates `ids.csv` of artists/ with list of ids', action='store_true')
     parser.add_argument('-pl', '--generate-playlist-ids', help=f'Populates `ids.csv` of playlists/ with list of playlists based on the Spotify Featured Playlists', action='store_true')
     parser.add_argument('-m', '--load-musicbrainz-ids', help=f'Populates `ids.csv` of "alias_ids.csv" inside the musicbrainz folder', action='store_true')
+    parser.add_argument('-o', '--load-authors-from-audiobooks', help=f'Loads authors from audiobooks', action='store_true')
 
 
     # Run below if token expires at root dir through src/main_spotify_scraper.py
