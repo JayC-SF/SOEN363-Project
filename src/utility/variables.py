@@ -15,7 +15,7 @@ TEMP_PATH = abspath(join(dirname(__file__), "../../tmp"))
 # DEFINE SPOTIFY CONSTANTS
 SPOTIFY_AUTH_URL = "https://accounts.spotify.com/api/token"
 SPOTIFY_RATE_LIMIT_RESPONSE_CODE = 429
-SPOTIFY_BATCH_MAX_ITEMS = 50
+SPOTIFY_BATCH_MAX_ITEMS = 20
 SPOTIFY_ITEMS_CSV_NAME = "ids.csv"
 SPOTIFY_ITEMS_FOLDER_NAME = "items"
 SPOTIFY_MAPPING_FILE_NAME = "mapping.json"
