@@ -115,6 +115,7 @@ CREATE TABLE Genre
 (
     genre_id   INT AUTO_INCREMENT,
     genre_name VARCHAR(200) NOT NULL,
+    UNIQUE (genre_name),
     PRIMARY KEY (genre_id)
 );
 
