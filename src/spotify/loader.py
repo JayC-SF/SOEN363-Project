@@ -1,7 +1,12 @@
+
+from pathlib import Path
 from spotify.util import setup_spotify_folders
 import pandas as pd
 import os
+from os.path import abspath, join as joinpath, exists
 import json
+
+from utility.variables import SPOTIFY_DATA_PATH, SPOTIFY_ITEMS_CSV_NAME
 
 
 def load_info_from_playlists():
@@ -116,3 +121,51 @@ def write_authors_per_audiobook(author, items_authors_folder_path):
         return
     with open(f'{items_authors_folder_path}/{author['audiobook_id']}.json', 'w') as f:
         json.dump(author, f, ensure_ascii=False, indent=2)
+
+
+def load_genres():
+    endpoint = 'genres'
+    data_path = abspath(joinpath(SPOTIFY_DATA_PATH, endpoint))
+    csv_genres_path = abspath(joinpath(data_path, 'genres.csv'))
+
+    # create data folder if they don't exist
+    Path(data_path).mkdir(parents=True, exist_ok=True)
+    if not exists(csv_genres_path):
+        with open(csv_genres_path, "w") as f:
+            f.write('GENRES')
+        # log info
+        print(f"No data currently stored for {endpoint}, successfully created folders and csv file.")
+
+    # get paths for artists and albums
+    _, artists_csv, artists_items_folder, _ = setup_spotify_folders('artists')
+    _, albums_csv, albums_items_folder, _ = setup_spotify_folders('albums')
+    artists_df = pd.read_csv(artists_csv)
+    albums_df = pd.read_csv(albums_csv)
+    genres_df = pd.read_csv(csv_genres_path)
+    genres_count = len(genres_df)
+
+    # keep only the ones that are cached
+    artists_df = artists_df[artists_df['CACHED']]
+    albums_df = albums_df[albums_df['CACHED']]
+
+    for _, row in artists_df.iterrows():
+        artist_id = row['ID']
+        artist_json_file = os.path.join(artists_items_folder, f"{artist_id}.json")
+        with open(artist_json_file, "r") as f:
+            artist_json = json.load(f)
+        # combine the genres from artists
+        for g in artist_json['genres']:
+            genres_df.loc[len(genres_df)] = [g]
+
+    for _, row in albums_df.iterrows():
+        album_id = row['ID']
+        album_json_file = os.path.join(albums_items_folder, f"{album_id}.json")
+        with open(album_json_file, "r") as f:
+            album_json = json.load(f)
+        # combine the genres from album
+        for g in album_json['genres']:
+            genres_df.loc[len(genres_df)] = [g]
+
+    genres_df.drop_duplicates(subset=['GENRES'], inplace=True)
+    genres_df.to_csv(csv_genres_path, index=False)
+    print(f"Total number of genres added: {len(genres_df)-genres_count}")

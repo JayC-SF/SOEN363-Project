@@ -8,8 +8,8 @@ from utility.variables import SPOTIFY_DATA_PATH, SPOTIFY_ITEMS_CSV_NAME, SPOTIFY
 
 def setup_spotify_folders(endpoint) -> tuple[str | bytes, str, str | bytes, str]:
     data_path = abspath(joinpath(SPOTIFY_DATA_PATH, endpoint))
-    csv_file_path = abspath(joinpath(SPOTIFY_DATA_PATH, f"{endpoint}/{SPOTIFY_ITEMS_CSV_NAME}"))
-    mapper_file_path = abspath(joinpath(SPOTIFY_DATA_PATH, f"{endpoint}/{SPOTIFY_MAPPING_FILE_NAME}"))
+    csv_file_path = abspath(joinpath(data_path, SPOTIFY_ITEMS_CSV_NAME))
+    mapper_file_path = abspath(joinpath(data_path, SPOTIFY_MAPPING_FILE_NAME))
     items_folder_path = joinpath(data_path, SPOTIFY_ITEMS_FOLDER_NAME)
     # Create folders if they don't exist
     Path(items_folder_path).mkdir(parents=True, exist_ok=True)
