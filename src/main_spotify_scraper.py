@@ -1,6 +1,6 @@
 # from utility import variables as var
+from musicbrainz.loader import AliasLoader
 from spotify import loader, scraper
-from musicbrainz.util import setup_musicbrainz_folders
 from argparse import ArgumentParser
 
 from utility.auth_token import SPOTIFY_AUTH_TOKEN
@@ -33,6 +33,9 @@ def main(args):
     if args.generate_playlist_ids:
         playlists_generate = scraper.SpotifyScraper("playlists")
         playlists_generate.generate_playlist_ids()
+    if args.load_musicbrainz_ids:
+        loader_musicbrainz = AliasLoader("aliases")
+        loader_musicbrainz.write_artist_names_to_csv()
 
 
 if __name__ == '__main__':

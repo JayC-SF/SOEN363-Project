@@ -24,6 +24,7 @@ SPOTIFY_DATA_PATH = abspath(join(DATA_PATH, 'spotify'))
 
 # DEFINE MUSICBRAINZ CONSTANTS
 MUSICBRAINZ_DATA_PATH = abspath(join(DATA_PATH, 'musicbrainz'))
-MUSICBRAINZ_ITEMS_CSV_NAME = "alias_ids.csv"
+MUSICBRAINZ_ITEMS_CSV_NAME = "artist_names.csv"
 MUSICBRAINZ_ITEMS_FOLDER_NAME = "items"
 MUSICBRAINZ_API_URL = "https://musicbrainz.org/ws/2/release"
+MUSICBRAINZ_ARTISTS_DATA_ITEMS = abspath(join(SPOTIFY_DATA_PATH, 'artists/items'))
