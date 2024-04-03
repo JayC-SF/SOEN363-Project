@@ -29,6 +29,8 @@ class DatabaseInserter:
                 self.__insert_albums()
             case 'artists':
                 self.__insert_artists()
+            case 'artists_genres':
+                self.__insert_artists_genres()
             case _:
                 print(f"Error: The function to insert data for {self.__data_type} has not been implemented yet.")
 
@@ -123,3 +125,46 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_artists} artists in {end_time - start_time} seconds")
+
+    def __insert_artists_genres(self):
+        parser = SpotifyParser('artists', ArtistModel)
+        artists: List[ArtistModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
+            )
+        )
+        cursor = self.__db.cursor()
+        start_time = time.time()
+        num_inserts = 0
+
+        for artist in artists:
+            cursor.execute("SELECT artist_id FROM Artist WHERE spotify_id = %s", (artist.spotify_id,))
+            artist_result = cursor.fetchone()
+            if artist_result:
+                artist_id = artist_result[0]
+            else:
+                continue
+
+            for genre_name in artist.genres:
+                cursor.execute("SELECT genre_id FROM Genre WHERE genre_name = %s", (genre_name,))
+                genre_result = cursor.fetchone()
+                if genre_result:
+                    genre_id = genre_result[0]
+                else:
+                    continue
+
+                check_query = "SELECT COUNT(1) FROM Artists_Genres WHERE artist_id = %s AND genre_id = %s"
+                cursor.execute(check_query, (artist_id, genre_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute(
+                        "INSERT INTO Artists_Genres (artist_id, genre_id) VALUES (%s, %s)",
+                        (artist_id, genre_id)
+                    )
+                    self.__db.commit()
+                    num_inserts += 1
+                    print(f"Inserted artist and genre data for artist_id: {artist.spotify_id}, genre_id: {genre_id}")
+                else:
+                    print(f"Row already exists for artist_id: {artist.spotify_id}, genre_id: {genre_id}, skipping.")
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} artists and genres in {end_time - start_time} seconds")
