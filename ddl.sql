@@ -31,7 +31,7 @@ CREATE TABLE Audio
 (
     audio_id     INT AUTO_INCREMENT,
     spotify_id   VARCHAR(200),
-    audio_name   VARCHAR(100) NOT NULL,
+    audio_name   VARCHAR(200) NOT NULL,
     uri          VARCHAR(200),
     href         VARCHAR(200),
     external_url VARCHAR(200),

@@ -231,8 +231,8 @@ class DatabaseInserter:
                     exists = cursor.fetchone()[0]
                     if not exists:
                         insert_query = """
-                                       INSERT INTO Chapter (spotify_id, chapter_name, audio_preview_url, chapter_number, description, html_description, duration_ms, explicit, external_url, href, type, uri, release_date)
-                                       VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                                       INSERT INTO Chapter (spotify_id, chapter_name, audio_preview_url, chapter_number, duration_ms, explicit, external_url, href, type, uri, release_date)
+                                       VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                                        """
                         chapter_data = (
                             chapter.spotify_id, chapter.chapter_name, chapter.audio_preview_url, chapter.chapter_number,
