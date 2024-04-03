@@ -1,4 +1,6 @@
+import threading
 import time
+from queue import Queue
 from typing import List
 from os.path import abspath, join as joinpath
 
@@ -7,6 +9,7 @@ import pandas as pd
 
 from spotify.models.album_model import AlbumModel
 from spotify.models.artist_model import ArtistModel
+from spotify.models.chapter_model import ChapterModel
 from spotify.parser import SpotifyParser
 from utility.variables import DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_NAME, SPOTIFY_DATA_PATH
 
@@ -31,6 +34,8 @@ class DatabaseInserter:
                 self.__insert_artists()
             case 'artists_genres':
                 self.__insert_artists_genres()
+            case 'chapters':
+                self.__insert_chapters_genres()
             case _:
                 print(f"Error: The function to insert data for {self.__data_type} has not been implemented yet.")
 
@@ -168,3 +173,69 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} artists and genres in {end_time - start_time} seconds")
+
+    def __insert_chapters_genres(self):
+        parser = SpotifyParser('chapters', ChapterModel)
+        chapters: List[ChapterModel] = parser.parse_all()
+        queue = Queue()
+
+        for chapter in chapters:
+            queue.put(chapter)
+
+        def worker():
+            db = mysql.connector.connect(
+                host=DATABASE_HOST,
+                user=DATABASE_USER,
+                password=DATABASE_PASSWORD,
+                database=DATABASE_NAME
+            )
+            cursor = db.cursor()
+
+            while not queue.empty():
+                chapter = queue.get()
+                try:
+                    check_query = "SELECT EXISTS(SELECT 1 FROM Chapter WHERE spotify_id = %s)"
+                    cursor.execute(check_query, (chapter.spotify_id,))
+                    exists = cursor.fetchone()[0]
+                    if not exists:
+                        insert_query = """
+                                       INSERT INTO Chapter (spotify_id, chapter_name, audio_preview_url, chapter_number, description, html_description, duration_ms, explicit, external_url, href, type, uri, release_date)
+                                       VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                                       """
+                        chapter_data = (
+                            chapter.spotify_id, chapter.chapter_name, chapter.audio_preview_url, chapter.chapter_number,
+                            chapter.description, chapter.html_description, chapter.duration_ms, chapter.explicit,
+                            chapter.external_url, chapter.href, chapter.type, chapter.uri, chapter.release_date
+                        )
+                        cursor.execute(insert_query, chapter_data)
+                        db.commit()
+                        # print(f"Inserted chapter data for {chapter.spotify_id}")
+                    # else:
+                        # print(f"Row already exists for {chapter.spotify_id}, skipping.")
+                finally:
+                    queue.task_done()
+
+        start_time = time.time()
+
+        # Start a pool of worker threads
+        threads = []
+        for i in range(5):  # Number of threads
+            thread = threading.Thread(target=worker)
+            thread.start()
+            threads.append(thread)
+
+        # Wait for all tasks in the queue to be processed
+        queue.join()
+
+        # Wait for all threads to complete
+        for thread in threads:
+            thread.join()
+
+        count_query = "SELECT COUNT(*) FROM Chapter"
+        cursor = self.__db.cursor()
+        cursor.execute(count_query)
+        row_count = cursor.fetchone()[0]
+
+        end_time = time.time()
+        print(f"Finished inserting chapters. Total chapters in database: {row_count}")
+        print(f"Finished inserting chapters in {end_time - start_time} seconds")

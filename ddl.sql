@@ -140,10 +140,18 @@ CREATE TABLE Author
 
 CREATE TABLE Chapter
 (
-    chapter_id     INT AUTO_INCREMENT,
-    chapter_number INT,
-    description    TEXT,`
-    chapter_name   VARCHAR(200),
+    chapter_id        INT AUTO_INCREMENT,
+    spotify_id        VARCHAR(200),
+    chapter_name      VARCHAR(200),
+    audio_preview_url VARCHAR(200),
+    chapter_number    INT,
+    duration_ms       INT,
+    explicit          BOOLEAN,
+    external_url      VARCHAR(200),
+    href              VARCHAR(200),
+    type              VARCHAR(200),
+    uri               VARCHAR(200),
+    release_date      VARCHAR(10),
     PRIMARY KEY (chapter_id)
 );
 
