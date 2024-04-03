@@ -20,18 +20,18 @@ def main(args):
     if args.scrape_tracks:
         # 45 tracks per batch
         tracks_scraper = scraper.SpotifyScraper("tracks")
-        tracks_scraper.scrape_items(batchmode=True)
+        tracks_scraper.scrape_items(batchmode=45)
     if args.scrape_artists:
         # 45 tracks per batch
         artists_scraper = scraper.SpotifyScraper("artists")
-        artists_scraper.scrape_items(batchmode=True)
+        artists_scraper.scrape_items(batchmode=45)
     if args.scrape_albums:
         # 20 tracks per batch
         albums_scraper = scraper.SpotifyScraper("albums")
-        albums_scraper.scrape_items(batchmode=True)
+        albums_scraper.scrape_items(batchmode=20)
     if args.scrape_audiobooks:
         audiobooks_scraper = scraper.SpotifyScraper("audiobooks")
-        audiobooks_scraper.scrape_items(batchmode=True)
+        audiobooks_scraper.scrape_items(batchmode=45)
     if args.load_genres:
         loader.load_genres()
     if args.generate_artist_ids:

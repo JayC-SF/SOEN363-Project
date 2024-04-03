@@ -13,7 +13,7 @@ from pathlib import Path
 import random
 import time
 
-from utility.variables import DATA_PATH, SLEEP_TIMER, SPOTIFY_API_URL, SPOTIFY_BATCH_MAX_ITEMS, SPOTIFY_DATA_PATH
+from utility.variables import DATA_PATH, SLEEP_TIMER, SPOTIFY_API_URL
 
 # sample curl request of a playlist
 """
@@ -29,14 +29,14 @@ class SpotifyScraper:
         self.__endpoint = endpoint
         self.__data_path, self.__csv_file_path, self.__items_folder_path, _ = setup_spotify_folders(endpoint)
 
-    def scrape_items(self, batchmode: bool = False):
+    def scrape_items(self, batchmode: int = 1):
         """Scrapes items using ids defined in csv file
 
         Args:
             batchmode (bool, optional): Performs batchmode scraping request. Defaults to False.
         """
-        if batchmode:
-            self.scrape_batch_items()
+        if batchmode > 1:
+            self.scrape_batch_items(batchmode)
         else:
             self.scrape_nonbatch_items()
 
@@ -117,7 +117,7 @@ class SpotifyScraper:
         res = requests.get(url=URL, headers=headers)
         return res
 
-    def scrape_batch_items(self):
+    def scrape_batch_items(self, batchmode):
         """_summary_
 
         Raises:
@@ -133,7 +133,7 @@ class SpotifyScraper:
 
         while (len(uncached_items_df) != 0):
             # get the batch of ids to send in request
-            batch_items_df = uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]
+            batch_items_df = uncached_items_df[:batchmode]
             batch_ids = set(batch_items_df['ID'].to_list())
             uncached_items_df.drop(batch_items_df.index, inplace=True)
 
