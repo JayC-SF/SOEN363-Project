@@ -135,7 +135,7 @@ class DatabaseInserter:
         parser = SpotifyParser('artists', ArtistModel)
         artists: List[ArtistModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                    setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
+                setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
             )
         )
         cursor = self.__db.cursor()
@@ -239,3 +239,7 @@ class DatabaseInserter:
         end_time = time.time()
         print(f"Finished inserting chapters. Total chapters in database: {row_count}")
         print(f"Finished inserting chapters in {end_time - start_time} seconds")
+
+    def __insert_playlists(self):
+        cursor = self.__db.cursor()
+        pass
