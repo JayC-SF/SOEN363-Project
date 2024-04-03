@@ -10,6 +10,7 @@ import pandas as pd
 from spotify.models.album_model import AlbumModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.chapter_model import ChapterModel
+from spotify.models.playlist_model import PlaylistModel
 from spotify.parser import SpotifyParser
 from utility.variables import DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_NAME, SPOTIFY_DATA_PATH
 
@@ -36,6 +37,36 @@ class DatabaseInserter:
                 self.__insert_artists_genres()
             case 'chapters':
                 self.__insert_chapters_genres()
+            case 'playlists':
+                self.__insert_playlists()
+            case 'tracks':
+                pass
+            case 'audiobooks':
+                pass
+            case 'markets':
+                pass
+            case 'authors':
+                pass
+            case 'aliases':
+                pass
+            case 'tracks_artists':
+                pass
+            case 'artists_aliases':
+                pass
+            case 'tracks_albums':
+                pass
+            case 'artists_genres':
+                pass
+            case 'available_markets_albums':
+                pass
+            case 'available_markets_tracks':
+                pass
+            case 'playlists_tracks':
+                pass
+            case 'audiobooks_authors':
+                pass
+            case 'audiobooks_chapters':
+                pass
             case _:
                 print(f"Error: The function to insert data for {self.__data_type} has not been implemented yet.")
 
@@ -135,7 +166,7 @@ class DatabaseInserter:
         parser = SpotifyParser('artists', ArtistModel)
         artists: List[ArtistModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
+                    setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
             )
         )
         cursor = self.__db.cursor()
@@ -211,7 +242,7 @@ class DatabaseInserter:
                         db.commit()
                         # print(f"Inserted chapter data for {chapter.spotify_id}")
                     # else:
-                        # print(f"Row already exists for {chapter.spotify_id}, skipping.")
+                    # print(f"Row already exists for {chapter.spotify_id}, skipping.")
                 finally:
                     queue.task_done()
 
@@ -241,5 +272,61 @@ class DatabaseInserter:
         print(f"Finished inserting chapters in {end_time - start_time} seconds")
 
     def __insert_playlists(self):
+        parser = SpotifyParser('playlists', PlaylistModel)
+        playlists: List[PlaylistModel] = parser.parse_all()
+        queue = Queue()
+
+        for playlist in playlists:
+            queue.put(playlist)
+
+        def worker():
+            db = mysql.connector.connect(
+                host=DATABASE_HOST,
+                user=DATABASE_USER,
+                password=DATABASE_PASSWORD,
+                database=DATABASE_NAME
+            )
+            cursor = db.cursor()
+
+            while not queue.empty():
+                playlist: PlaylistModel = queue.get()
+                try:
+                    check_query = "SELECT EXISTS(SELECT 1 FROM Playlist WHERE spotify_id = %s)"
+                    cursor.execute(check_query, (playlist.spotify_id,))
+                    exists = cursor.fetchone()[0]
+                    if not exists:
+                        insert_query = """
+                                          INSERT INTO Playlist (spotify_id, playlist_name, description, nb_followers, collaborative, snapshot_id, href, external_url, uri)
+                                          VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                                       """
+                        playlist_data = (
+                            playlist.spotify_id, playlist.playlist_name, playlist.description, playlist.nb_followers,
+                            playlist.collaborative, playlist.snapshot_id, playlist.href, playlist.external_url,
+                            playlist.uri
+                        )
+                        cursor.execute(insert_query, playlist_data)
+                        db.commit()
+                finally:
+                    queue.task_done()
+
+        start_time = time.time()
+
+        threads = []
+        for i in range(5):
+            thread = threading.Thread(target=worker)
+            thread.start()
+            threads.append(thread)
+
+        queue.join()
+
+        for thread in threads:
+            thread.join()
+
+        count_query = "SELECT COUNT(*) FROM Playlist"
         cursor = self.__db.cursor()
-        pass
+        cursor.execute(count_query)
+        row_count = cursor.fetchone()[0]
+
+        end_time = time.time()
+        print(f"Finished inserting playlists. Total playlists in database: {row_count}")
+        print(f"Finished inserting playlists in {end_time - start_time} seconds")
