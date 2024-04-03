@@ -64,7 +64,7 @@ class AuthToken:
         res = requests.post(self.auth_url, headers=headers, data=body)
         # make sure to have a 200 status code
         if not is_success_code(res.status_code):
-            raise Exception("Unable to retrieve access token.")
+            raise Exception(f"Unable to retrieve access token. {res.status_code}\n{res.json()}")
         # convert response to json and update attributes
         json_res = res.json()
         self.access_token = json_res['access_token']
