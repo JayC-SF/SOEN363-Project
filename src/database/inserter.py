@@ -50,6 +50,7 @@ class DatabaseInserter:
             case 'aliases':
                 pass
             case 'tracks_artists':
+                self.__insert_tracks_artists()
                 pass
             case 'artists_aliases':
                 pass
@@ -480,3 +481,48 @@ class DatabaseInserter:
         end_time = time.time()
         print(f"Finished inserting audiobooks. Total audiobooks in database: {row_count}")
         print(f"Finished inserting audiobooks in {end_time - start_time} seconds")
+
+    def __insert_tracks_artists(self):
+        parser = SpotifyParser('tracks', TrackModel)
+        tracks: List[TrackModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'artists', json_data.get('artists')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        for track in tracks:
+            cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (track.spotify_id,))
+            result = cursor.fetchone()
+            if result:
+                track_id = result[0]
+                # Verify the track_id in Track table
+                cursor.execute("SELECT EXISTS(SELECT 1 FROM Track WHERE track_id = %s)", (track_id,))
+                exists = cursor.fetchone()[0]
+                if not exists:
+                    continue
+            else:
+                continue
+
+            for artist in track.artists:
+                cursor.execute("SELECT artist_id FROM Artist WHERE artist_name = %s", (artist['name'],))
+                result = cursor.fetchone()
+                if result:
+                    artist_id = result[0]
+                else:
+                    continue
+
+                cursor.execute("SELECT COUNT(1) FROM Tracks_Artists WHERE track_id = %s AND artist_id = %s",
+                               (track_id, artist_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Tracks_Artists (track_id, artist_id) VALUES (%s, %s)",
+                                   (track_id, artist_id))
+                    self.__db.commit()
+                    num_inserts += 1
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} track-artist relationships in {end_time - start_time} seconds")
