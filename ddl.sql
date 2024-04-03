@@ -30,6 +30,7 @@ DROP TABLE IF EXISTS Chapters;
 CREATE TABLE Audio
 (
     audio_id    INT AUTO_INCREMENT,
+    spotify_id  VARCHAR(200),
     audio_name  VARCHAR(100) NOT NULL,
     uri         VARCHAR(200),
     href        VARCHAR(200),
@@ -80,12 +81,13 @@ CREATE TABLE Artist
 CREATE TABLE Playlist
 (
     playlist_id   INT AUTO_INCREMENT,
+    spotify_id   VARCHAR(200),
     playlist_name VARCHAR(200) NOT NULL,
     description   TEXT,
     nb_followers  INT,
     collaborative BIT,
     snapshot_id   INT,
-    uri   VARCHAR(200),
+    uri           VARCHAR(200),
     href          VARCHAR(200),
     external_url  VARCHAR(200),
     PRIMARY KEY (playlist_id)
@@ -101,8 +103,8 @@ CREATE TABLE Alias
 CREATE TABLE Album
 (
     album_id     INT AUTO_INCREMENT,
-    album_name   VARCHAR(200) NOT NULL,
     spotify_id   VARCHAR(200),
+    album_name   VARCHAR(200) NOT NULL,
     total_tracks INT,
     popularity   INT,
     release_date VARCHAR(10),
@@ -140,7 +142,7 @@ CREATE TABLE Chapter
 (
     chapter_id     INT AUTO_INCREMENT,
     chapter_number INT,
-    description    TEXT,
+    description    TEXT,`
     chapter_name   VARCHAR(200),
     PRIMARY KEY (chapter_id)
 );
