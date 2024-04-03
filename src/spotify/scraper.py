@@ -182,7 +182,8 @@ class SpotifyScraper:
                 # dump playlist data in its own file
                 with open(item_file_path, "w") as f:
                     json.dump(item, f, indent=2)
-                batch_ids.remove(id)
+                if id in batch_ids:
+                    batch_ids.remove(id)
             # log all missing ids from that batch request
             for missing_id in batch_ids:
                 f"Response is missing {missing_id} in batch request."
