@@ -52,10 +52,10 @@ class DatabaseInserter:
                 pass
             case 'tracks_artists':
                 self.__insert_tracks_artists()
-                pass
             case 'artists_aliases':
                 pass
             case 'tracks_albums':
+                self.__insert_tracks_albums()
                 pass
             case 'artists_genres':
                 pass
@@ -168,7 +168,7 @@ class DatabaseInserter:
         parser = SpotifyParser('artists', ArtistModel)
         artists: List[ArtistModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
+                    setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
             )
         )
         cursor = self.__db.cursor()
@@ -487,7 +487,7 @@ class DatabaseInserter:
         parser = SpotifyParser('tracks', TrackModel)
         tracks: List[TrackModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                setattr(mapped_object, 'artists', json_data.get('artists')) or mapped_object
+                    setattr(mapped_object, 'artists', json_data.get('artists')) or mapped_object
             )
         )
 
@@ -527,6 +527,7 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} track-artist relationships in {end_time - start_time} seconds")
+
     # def __insert_authors(self):
     #     parser = SpotifyParser('audiobooks', AuthorModel)
     #     authors: List[AuthorModel] = parser.parse_all(
@@ -536,3 +537,52 @@ class DatabaseInserter:
     #     )
     #     query =
     #     for author in authors:
+
+    def __insert_tracks_albums(self):
+        parser = SpotifyParser('tracks', TrackModel)
+        tracks: List[TrackModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'album', json_data.get('album')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        for track in tracks:
+            cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (track.spotify_id,))
+            result = cursor.fetchone()
+            if result:
+                track_id = result[0]
+                # Verify the track_id in Track table
+                cursor.execute("SELECT EXISTS(SELECT 1 FROM Track WHERE track_id = %s)", (track_id,))
+                exists = cursor.fetchone()[0]
+                if not exists:
+                    continue
+            else:
+                continue
+
+            album = track.album
+
+            cursor.execute("SELECT album_id FROM Album WHERE album_name = %s", (album['name'],))
+            result = cursor.fetchone()
+            if result:
+                album_id = result[0]
+            else:
+                continue
+
+            cursor.execute("SELECT COUNT(1) FROM Tracks_Albums WHERE track_id = %s AND album_id = %s",
+                           (track_id, album_id))
+            if cursor.fetchone()[0] == 0:
+                cursor.execute("INSERT INTO Tracks_Albums (track_id, album_id) VALUES (%s, %s)",
+                               (track_id, album_id))
+                self.__db.commit()
+                num_inserts += 1
+            #     print(f"Inserted track album data for {track.spotify_id}, {album['name']}")
+            # else:
+            #     print(f"Row already exists for {track.spotify_id}, {album['name']}, skipping.")
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} track-album relationships in {end_time - start_time} seconds")
