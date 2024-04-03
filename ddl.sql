@@ -66,11 +66,14 @@ CREATE TABLE Audiobook
 CREATE TABLE Artist
 (
     artist_id    INT AUTO_INCREMENT,
+    spotify_id   VARCHAR(200),
     artist_name  VARCHAR(200) NOT NULL,
     nb_followers INT,
     popularity   INT,
-    spotify_url  VARCHAR(200),
+    external_url VARCHAR(200),
     href         VARCHAR(200),
+    uri          VARCHAR(200),
+    UNIQUE (spotify_id),
     PRIMARY KEY (artist_id)
 );
 

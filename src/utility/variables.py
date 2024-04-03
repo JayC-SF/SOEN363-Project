@@ -34,4 +34,4 @@ MUSICBRAINZ_API_URL = "https://musicbrainz.org/ws/2/release"
 MUSICBRAINZ_ARTISTS_DATA_ITEMS = abspath(join(SPOTIFY_DATA_PATH, 'artists/items'))
 
 # CONSTANT FOR DATA CHOICES TO BE INSERTED INTO THE DB
-DATA_CHOICES = ['playlists', 'tracks', 'artists', 'albums', 'audiobooks', 'genres']
+DATA_CHOICES = ['playlists', 'tracks', 'artists', 'albums', 'audiobooks', 'genres', 'artists_genres']
