@@ -193,7 +193,8 @@ class SpotifyScraper:
         print("PRINTING LIST OF PLAYLIST IDS:")
 
         # Spotify API endpoint
-        URL = "https://api.spotify.com/v1/browse/featured-playlists?offset=99&limit=50"
+        #URL = "https://api.spotify.com/v1/browse/featured-playlists?offset=99&limit=50"
+        URL = "https://api.spotify.com/v1/browse/categories/blues/playlists?offset=50&limit=50"
         playlist_list = []
         headers = {
             'Authorization': f"{SPOTIFY_AUTH_TOKEN.get_authorization()}"

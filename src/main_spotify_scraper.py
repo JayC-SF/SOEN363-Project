@@ -1,4 +1,4 @@
-# from utility import variables as var
+from utility import variables as var
 from database.inserter import DatabaseInserter
 from musicbrainz.loader import AliasLoader
 from spotify import loader, scraper
