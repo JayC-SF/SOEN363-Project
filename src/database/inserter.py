@@ -10,6 +10,7 @@ import pandas as pd
 from spotify.models.album_model import AlbumModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.audiobook_model import AudiobookModel
+from spotify.models.author_model import AuthorModel
 from spotify.models.chapter_model import ChapterModel
 from spotify.models.playlist_model import PlaylistModel
 from spotify.models.track_model import TrackModel
@@ -167,7 +168,7 @@ class DatabaseInserter:
         parser = SpotifyParser('artists', ArtistModel)
         artists: List[ArtistModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                    setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
+                setattr(mapped_object, 'genres', json_data.get('genres')) or mapped_object
             )
         )
         cursor = self.__db.cursor()
@@ -486,7 +487,7 @@ class DatabaseInserter:
         parser = SpotifyParser('tracks', TrackModel)
         tracks: List[TrackModel] = parser.parse_all(
             middleware=lambda mapped_object, json_data: (
-                    setattr(mapped_object, 'artists', json_data.get('artists')) or mapped_object
+                setattr(mapped_object, 'artists', json_data.get('artists')) or mapped_object
             )
         )
 
@@ -526,3 +527,12 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} track-artist relationships in {end_time - start_time} seconds")
+    # def __insert_authors(self):
+    #     parser = SpotifyParser('audiobooks', AuthorModel)
+    #     authors: List[AuthorModel] = parser.parse_all(
+    #         middleware=lambda mapped_object, json_data: (
+    #             setattr(mapped_object, 'audiobook_id', json_data.get('audiobook_id')) or mapped_object
+    #         )
+    #     )
+    #     query =
+    #     for author in authors:
