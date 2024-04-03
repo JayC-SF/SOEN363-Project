@@ -1,0 +1,117 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+      },
+      "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+      "id": "0fA0VVWsXO9YnASrzqfmYu",
+      "name": "Kid Cudi",
+      "type": "artist",
+      "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2009 Universal Motown Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2009 Universal Motown Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527035543"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6tisDlBrOOltEsFFq2vy6F",
+  "id": "6tisDlBrOOltEsFFq2vy6F",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366fe3776b83db9aa8918932d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0266fe3776b83db9aa8918932d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485166fe3776b83db9aa8918932d",
+      "width": 64
+    }
+  ],
+  "label": "Kid Cudi/Universal Records",
+  "name": "Day 'N' Nite (Crookers Remix)",
+  "popularity": 51,
+  "release_date": "2009-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6tisDlBrOOltEsFFq2vy6F/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+            "id": "0fA0VVWsXO9YnASrzqfmYu",
+            "name": "Kid Cudi",
+            "type": "artist",
+            "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+            },
+            "href": "https://api.spotify.com/v1/artists/3o1cwVQfiDWafhYA02k13C",
+            "id": "3o1cwVQfiDWafhYA02k13C",
+            "name": "Crookers",
+            "type": "artist",
+            "uri": "spotify:artist:3o1cwVQfiDWafhYA02k13C"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 281080,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ouTGbETM7ZdID1eMXZJde",
+        "id": "6ouTGbETM7ZdID1eMXZJde",
+        "is_local": false,
+        "name": "Day 'N' Nite - Crookers Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ouTGbETM7ZdID1eMXZJde"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6tisDlBrOOltEsFFq2vy6F"
+}

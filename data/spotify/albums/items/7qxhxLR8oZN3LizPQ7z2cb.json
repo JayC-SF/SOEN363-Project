@@ -1,0 +1,106 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id": "2ye2Wgw4gimLv2eAKyk1NB",
+      "name": "Metallica",
+      "type": "artist",
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 Blackened Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2022 Blackened Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0810083961071"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qxhxLR8oZN3LizPQ7z2cb",
+  "id": "7qxhxLR8oZN3LizPQ7z2cb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d93afd348df87d9298c1e5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d93afd348df87d9298c1e5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d93afd348df87d9298c1e5a",
+      "width": 64
+    }
+  ],
+  "label": "Blackened Recordings",
+  "name": "Lux \u00c6terna",
+  "popularity": 43,
+  "release_date": "2022-11-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qxhxLR8oZN3LizPQ7z2cb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+            "id": "2ye2Wgw4gimLv2eAKyk1NB",
+            "name": "Metallica",
+            "type": "artist",
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205679,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3pwmJJRlr8nXNN9PFD18np",
+        "id": "3pwmJJRlr8nXNN9PFD18np",
+        "is_local": false,
+        "name": "Lux \u00c6terna",
+        "preview_url": "https://p.scdn.co/mp3-preview/b17d97b90d96689a867dd538be7928bef57f24ea?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3pwmJJRlr8nXNN9PFD18np"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qxhxLR8oZN3LizPQ7z2cb"
+}

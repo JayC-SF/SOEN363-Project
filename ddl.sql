@@ -1,4 +1,4 @@
--- Active: 1712072836115@@walidoow.com@3306@project
+-- Active: 1712015075548@@walidoow.com@3306@project
 -- Drop existing tables if they exist
 
 DROP TABLE IF EXISTS Audiobooks_Chapters;
@@ -31,8 +31,9 @@ CREATE TABLE Audio
 (
     audio_id    INT AUTO_INCREMENT,
     audio_name  VARCHAR(100) NOT NULL,
-    spotify_url VARCHAR(200),
+    uri         VARCHAR(200),
     href        VARCHAR(200),
+    external_url VARCHAR(200),
     explicit    BIT,
     PRIMARY KEY (audio_id)
 );
@@ -43,7 +44,6 @@ CREATE TABLE Track
     popularity   INT,
     type         VARCHAR(100),
     duration_ms  INT,
-    external_url VARCHAR(200),
     is_playable  BIT,
     preview_url  VARCHAR(200),
     disc_number  INT,
@@ -85,7 +85,7 @@ CREATE TABLE Playlist
     nb_followers  INT,
     collaborative BIT,
     snapshot_id   INT,
-    spotify_url   VARCHAR(200),
+    uri   VARCHAR(200),
     href          VARCHAR(200),
     external_url  VARCHAR(200),
     PRIMARY KEY (playlist_id)
@@ -224,3 +224,9 @@ CREATE TABLE Audiobooks_Chapters
     PRIMARY KEY (chapter_id),
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook (audiobook_id) ON DELETE CASCADE
 );
+
+SELECT table_schema "database name",
+    sum( data_length + index_length ) / 1024 / 1024 "database size in MB",
+    sum( data_free )/ 1024 / 1024 "free space in MB"
+FROM information_schema.TABLES
+GROUP BY table_schema; 

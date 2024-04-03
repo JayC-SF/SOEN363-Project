@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+      },
+      "href": "https://api.spotify.com/v1/artists/5WKUZJPvN1SScyggtPFShK",
+      "id": "5WKUZJPvN1SScyggtPFShK",
+      "name": "Nerd Connection",
+      "type": "artist",
+      "uri": "spotify:artist:5WKUZJPvN1SScyggtPFShK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 ES Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 ES Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616404447685"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lFbDrujNnh4oFGBHIGYiv",
+  "id": "4lFbDrujNnh4oFGBHIGYiv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f26c6e710aa07f6baa679043",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f26c6e710aa07f6baa679043",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f26c6e710aa07f6baa679043",
+      "width": 64
+    }
+  ],
+  "label": "ES Records",
+  "name": "Good Night Good Dream",
+  "popularity": 47,
+  "release_date": "2020-03-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lFbDrujNnh4oFGBHIGYiv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WKUZJPvN1SScyggtPFShK",
+            "id": "5WKUZJPvN1SScyggtPFShK",
+            "name": "Nerd Connection",
+            "type": "artist",
+            "uri": "spotify:artist:5WKUZJPvN1SScyggtPFShK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265983,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/423WHvB4mKprM6hELzpH3F",
+        "id": "423WHvB4mKprM6hELzpH3F",
+        "is_local": false,
+        "name": "Good Night Good Dream",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:423WHvB4mKprM6hELzpH3F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4lFbDrujNnh4oFGBHIGYiv"
+}

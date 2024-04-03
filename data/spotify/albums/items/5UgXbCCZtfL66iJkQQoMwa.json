@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YVquC9RaJLYFNmlJFzkTV",
+      "id": "0YVquC9RaJLYFNmlJFzkTV",
+      "name": "AYYBO",
+      "type": "artist",
+      "uri": "spotify:artist:0YVquC9RaJLYFNmlJFzkTV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+      },
+      "href": "https://api.spotify.com/v1/artists/6x9CKUBQ96VjXxKgGE5hIw",
+      "id": "6x9CKUBQ96VjXxKgGE5hIw",
+      "name": "ero808",
+      "type": "artist",
+      "uri": "spotify:artist:6x9CKUBQ96VjXxKgGE5hIw"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 FUNKSHWAY",
+      "type": "C"
+    },
+    {
+      "text": "2022 FUNKSHWAY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316470881982"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5UgXbCCZtfL66iJkQQoMwa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5UgXbCCZtfL66iJkQQoMwa",
+  "id": "5UgXbCCZtfL66iJkQQoMwa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732be8d995ace4a520a34e1426",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022be8d995ace4a520a34e1426",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512be8d995ace4a520a34e1426",
+      "width": 64
+    }
+  ],
+  "label": "FUNKSHWAY",
+  "name": "HYPNOSIS",
+  "popularity": 50,
+  "release_date": "2022-07-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5UgXbCCZtfL66iJkQQoMwa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YVquC9RaJLYFNmlJFzkTV",
+            "id": "0YVquC9RaJLYFNmlJFzkTV",
+            "name": "AYYBO",
+            "type": "artist",
+            "uri": "spotify:artist:0YVquC9RaJLYFNmlJFzkTV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+            },
+            "href": "https://api.spotify.com/v1/artists/6x9CKUBQ96VjXxKgGE5hIw",
+            "id": "6x9CKUBQ96VjXxKgGE5hIw",
+            "name": "ero808",
+            "type": "artist",
+            "uri": "spotify:artist:6x9CKUBQ96VjXxKgGE5hIw"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 158592,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NZceNVNJSAreye4TAzrI1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NZceNVNJSAreye4TAzrI1",
+        "id": "6NZceNVNJSAreye4TAzrI1",
+        "is_local": false,
+        "name": "HYPNOSIS",
+        "preview_url": "https://p.scdn.co/mp3-preview/95ce36cdcd81d79d3c92734afd4e2c567b68334c?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NZceNVNJSAreye4TAzrI1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5UgXbCCZtfL66iJkQQoMwa"
+}

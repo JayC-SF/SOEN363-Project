@@ -1,0 +1,629 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+      },
+      "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+      "id": "73iWh9WUMf0xK6cRkNJK4h",
+      "name": "Warren Haynes",
+      "type": "artist",
+      "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Concord Music Group, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Concord Music Group, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00888072374706"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6y9X3ZKEa63FWjpoR3Km04",
+  "id": "6y9X3ZKEa63FWjpoR3Km04",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb0f50801a31762286f13c13",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb0f50801a31762286f13c13",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb0f50801a31762286f13c13",
+      "width": 64
+    }
+  ],
+  "label": "Concord Records",
+  "name": "Ashes & Dust",
+  "popularity": 28,
+  "release_date": "2015-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 13,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6y9X3ZKEa63FWjpoR3Km04/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 314986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YC8a6HXxp0cKIYNOwZ78W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0YC8a6HXxp0cKIYNOwZ78W",
+        "id": "0YC8a6HXxp0cKIYNOwZ78W",
+        "is_local": false,
+        "name": "Is It Me Or You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0YC8a6HXxp0cKIYNOwZ78W"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 446346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56DSKF2O31YPrblvpA8xVk",
+        "id": "56DSKF2O31YPrblvpA8xVk",
+        "is_local": false,
+        "name": "Coal Tattoo",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:56DSKF2O31YPrblvpA8xVk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 446480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GyJuv9ffjLPQMaOlwfcBI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GyJuv9ffjLPQMaOlwfcBI",
+        "id": "5GyJuv9ffjLPQMaOlwfcBI",
+        "is_local": false,
+        "name": "Blue Maiden\u2019s Tale",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5GyJuv9ffjLPQMaOlwfcBI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 288880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68FdD2xAIkaVAzXJTpJfK3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68FdD2xAIkaVAzXJTpJfK3",
+        "id": "68FdD2xAIkaVAzXJTpJfK3",
+        "is_local": false,
+        "name": "Company Man",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:68FdD2xAIkaVAzXJTpJfK3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 279613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54agTAF3g2JB5M9nKXUJEt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54agTAF3g2JB5M9nKXUJEt",
+        "id": "54agTAF3g2JB5M9nKXUJEt",
+        "is_local": false,
+        "name": "New Year\u2019s Eve",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:54agTAF3g2JB5M9nKXUJEt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 396680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79jAnB9BWQO0Wr25VPP0FT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79jAnB9BWQO0Wr25VPP0FT",
+        "id": "79jAnB9BWQO0Wr25VPP0FT",
+        "is_local": false,
+        "name": "Stranded In Self-Pity",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:79jAnB9BWQO0Wr25VPP0FT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 359573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qBmNKk8mvL0LNhF1geE4x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qBmNKk8mvL0LNhF1geE4x",
+        "id": "6qBmNKk8mvL0LNhF1geE4x",
+        "is_local": false,
+        "name": "Glory Road",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6qBmNKk8mvL0LNhF1geE4x"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PJVVIeS5Wu0wbZDhtC0Ht",
+            "id": "1PJVVIeS5Wu0wbZDhtC0Ht",
+            "name": "Grace Potter",
+            "type": "artist",
+            "uri": "spotify:artist:1PJVVIeS5Wu0wbZDhtC0Ht"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 383946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52N5oWWmUfxL9XO6OAnADG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52N5oWWmUfxL9XO6OAnADG",
+        "id": "52N5oWWmUfxL9XO6OAnADG",
+        "is_local": false,
+        "name": "Gold Dust Woman",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:52N5oWWmUfxL9XO6OAnADG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 295866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pIGNmlgHD2xUrUC8ZRzLS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pIGNmlgHD2xUrUC8ZRzLS",
+        "id": "6pIGNmlgHD2xUrUC8ZRzLS",
+        "is_local": false,
+        "name": "Beat Down The Dust",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6pIGNmlgHD2xUrUC8ZRzLS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 290293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GMx3q7EZsT8r6pibbBpDI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4GMx3q7EZsT8r6pibbBpDI",
+        "id": "4GMx3q7EZsT8r6pibbBpDI",
+        "is_local": false,
+        "name": "Wanderlust",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4GMx3q7EZsT8r6pibbBpDI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 504840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nNnKjUrA122q1W6wAmAOn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nNnKjUrA122q1W6wAmAOn",
+        "id": "5nNnKjUrA122q1W6wAmAOn",
+        "is_local": false,
+        "name": "Spots Of Time",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5nNnKjUrA122q1W6wAmAOn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 343240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5m6zaXS9XnuzHs4DvhhGAg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5m6zaXS9XnuzHs4DvhhGAg",
+        "id": "5m6zaXS9XnuzHs4DvhhGAg",
+        "is_local": false,
+        "name": "Hallelujah Boulevard",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5m6zaXS9XnuzHs4DvhhGAg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+            },
+            "href": "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+            "id": "73iWh9WUMf0xK6cRkNJK4h",
+            "name": "Warren Haynes",
+            "type": "artist",
+            "uri": "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ijT84fUReKCGYV3MjhB2y",
+            "id": "6ijT84fUReKCGYV3MjhB2y",
+            "name": "Railroad Earth",
+            "type": "artist",
+            "uri": "spotify:artist:6ijT84fUReKCGYV3MjhB2y"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 406053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bWjnXhkp8zKHzcGJ4VQxa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2bWjnXhkp8zKHzcGJ4VQxa",
+        "id": "2bWjnXhkp8zKHzcGJ4VQxa",
+        "is_local": false,
+        "name": "Word On The Wind",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2bWjnXhkp8zKHzcGJ4VQxa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  },
+  "type": "album",
+  "uri": "spotify:album:6y9X3ZKEa63FWjpoR3Km04"
+}

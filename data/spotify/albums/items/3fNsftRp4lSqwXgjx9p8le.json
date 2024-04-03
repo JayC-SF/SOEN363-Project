@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sCbFbEjbYepqswM1vWjjs",
+      "id": "6sCbFbEjbYepqswM1vWjjs",
+      "name": "Zendaya",
+      "type": "artist",
+      "uri": "spotify:artist:6sCbFbEjbYepqswM1vWjjs"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Disney",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Walt Disney Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00050087279349"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3fNsftRp4lSqwXgjx9p8le",
+  "id": "3fNsftRp4lSqwXgjx9p8le",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273228546da2e397df814ad3997",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02228546da2e397df814ad3997",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851228546da2e397df814ad3997",
+      "width": 64
+    }
+  ],
+  "label": "Walt Disney Records",
+  "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
+  "popularity": 37,
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3fNsftRp4lSqwXgjx9p8le/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sCbFbEjbYepqswM1vWjjs",
+            "id": "6sCbFbEjbYepqswM1vWjjs",
+            "name": "Zendaya",
+            "type": "artist",
+            "uri": "spotify:artist:6sCbFbEjbYepqswM1vWjjs"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 163266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WcBvAA59kSYFHeqy0fpZp",
+        "id": "0WcBvAA59kSYFHeqy0fpZp",
+        "is_local": false,
+        "name": "Something To Dance For",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0WcBvAA59kSYFHeqy0fpZp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3fNsftRp4lSqwXgjx9p8le"
+}

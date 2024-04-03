@@ -1,0 +1,134 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+      "id": "5HViQsHNdOovxKa420CPGR",
+      "name": "Friko",
+      "type": "artist",
+      "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 ATO Records, LLC. All Rights Reserved.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 ATO Records, LLC. All Rights Reserved.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00880882606152"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0M64PelFgrQAN5hnkB3vMi",
+  "id": "0M64PelFgrQAN5hnkB3vMi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343605e4e5cfcb14b10b41e0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243605e4e5cfcb14b10b41e0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143605e4e5cfcb14b10b41e0a",
+      "width": 64
+    }
+  ],
+  "label": "ATO Records",
+  "name": "Crashing Through",
+  "popularity": 25,
+  "release_date": "2023-11-14",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0M64PelFgrQAN5hnkB3vMi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 223771,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3KO92UFKrYFiPxC7Je8vop",
+        "id": "3KO92UFKrYFiPxC7Je8vop",
+        "is_local": false,
+        "name": "Crashing Through",
+        "preview_url": "https://p.scdn.co/mp3-preview/9fd7c3a62554b838da4b1639d960a60c31d06bf9?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3KO92UFKrYFiPxC7Je8vop"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208258,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0geWS6aexSfsKGm3ee8Dwz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0geWS6aexSfsKGm3ee8Dwz",
+        "id": "0geWS6aexSfsKGm3ee8Dwz",
+        "is_local": false,
+        "name": "Crimson to Chrome",
+        "preview_url": "https://p.scdn.co/mp3-preview/8bddd1d46d85d3621675437470703dafabdf1299?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0geWS6aexSfsKGm3ee8Dwz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0M64PelFgrQAN5hnkB3vMi"
+}

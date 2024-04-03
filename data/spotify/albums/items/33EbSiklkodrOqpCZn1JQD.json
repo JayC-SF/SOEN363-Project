@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+      },
+      "href": "https://api.spotify.com/v1/artists/5q3wKuiaCK8BRPZQSvehFd",
+      "id": "5q3wKuiaCK8BRPZQSvehFd",
+      "name": "Poppy Ackroyd",
+      "type": "artist",
+      "uri": "spotify:artist:5q3wKuiaCK8BRPZQSvehFd"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 One Little Independent",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 One Little Independent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5016958102265"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33EbSiklkodrOqpCZn1JQD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33EbSiklkodrOqpCZn1JQD",
+  "id": "33EbSiklkodrOqpCZn1JQD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731726d8e075297b7fe5af5dac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021726d8e075297b7fe5af5dac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511726d8e075297b7fe5af5dac",
+      "width": 64
+    }
+  ],
+  "label": "One Little Independent",
+  "name": "Stillness (Reworked)",
+  "popularity": 20,
+  "release_date": "2022-09-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33EbSiklkodrOqpCZn1JQD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+            },
+            "href": "https://api.spotify.com/v1/artists/5q3wKuiaCK8BRPZQSvehFd",
+            "id": "5q3wKuiaCK8BRPZQSvehFd",
+            "name": "Poppy Ackroyd",
+            "type": "artist",
+            "uri": "spotify:artist:5q3wKuiaCK8BRPZQSvehFd"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17IbDcL196PgvTVrcUDut1",
+        "id": "17IbDcL196PgvTVrcUDut1",
+        "is_local": false,
+        "name": "Stillness (Reworked)",
+        "preview_url": "https://p.scdn.co/mp3-preview/1b8bb95925663a7f6751def809e6f46fcb247056?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:17IbDcL196PgvTVrcUDut1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33EbSiklkodrOqpCZn1JQD"
+}

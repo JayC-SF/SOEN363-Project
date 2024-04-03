@@ -1,0 +1,934 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id": "4phGZZrJZRo4ElhRtViYdl",
+      "name": "Jason Mraz",
+      "type": "artist",
+      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "CA",
+    "CH",
+    "CW",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "JP",
+    "LI",
+    "NL",
+    "NO",
+    "SE",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679962423"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/64SChsjQBiEe3aVTFYnW1b",
+  "id": "64SChsjQBiEe3aVTFYnW1b",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346e379c721504777a62bd9b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246e379c721504777a62bd9b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146e379c721504777a62bd9b8",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Love Is a Four Letter Word (Deluxe Edition)",
+  "popularity": 64,
+  "release_date": "2012-04-13",
+  "release_date_precision": "day",
+  "total_tracks": 18,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/64SChsjQBiEe3aVTFYnW1b/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hevpquSrhFLsEUzbDFrWB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hevpquSrhFLsEUzbDFrWB",
+        "id": "7hevpquSrhFLsEUzbDFrWB",
+        "is_local": false,
+        "name": "The Freedom Song",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd9468a3e727cc88b63dd3eef35cbfd178398e47?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7hevpquSrhFLsEUzbDFrWB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 235080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ce7k1L4EkZppZPz1EJWTS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ce7k1L4EkZppZPz1EJWTS",
+        "id": "3ce7k1L4EkZppZPz1EJWTS",
+        "is_local": false,
+        "name": "Living in the Moment",
+        "preview_url": "https://p.scdn.co/mp3-preview/bf3efbcd2af30f2517498f06069dee8ce9315e19?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3ce7k1L4EkZppZPz1EJWTS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 190751,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AYG9AcwqEeqgAw3OvshPC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AYG9AcwqEeqgAw3OvshPC",
+        "id": "0AYG9AcwqEeqgAw3OvshPC",
+        "is_local": false,
+        "name": "The Woman I Love",
+        "preview_url": "https://p.scdn.co/mp3-preview/8f7eaf21d6ac7eaf7d27fe842a5dc56432ef48fa?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0AYG9AcwqEeqgAw3OvshPC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 240165,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53QF56cjZA9RTuuMZDrSA6",
+        "id": "53QF56cjZA9RTuuMZDrSA6",
+        "is_local": false,
+        "name": "I Won't Give Up",
+        "preview_url": "https://p.scdn.co/mp3-preview/3df95d1edb89637d4aadce58fcb7c3cc6fc665d4?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:53QF56cjZA9RTuuMZDrSA6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 357213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Cd1nnR2RKdbFN2eTaxAFR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Cd1nnR2RKdbFN2eTaxAFR",
+        "id": "4Cd1nnR2RKdbFN2eTaxAFR",
+        "is_local": false,
+        "name": "5/6",
+        "preview_url": "https://p.scdn.co/mp3-preview/d09f0ddfd21a4d62f4b4a101b642bc24183c0648?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4Cd1nnR2RKdbFN2eTaxAFR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61uAuQITuz62vOnGXQslaA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61uAuQITuz62vOnGXQslaA",
+        "id": "61uAuQITuz62vOnGXQslaA",
+        "is_local": false,
+        "name": "Everything Is Sound",
+        "preview_url": "https://p.scdn.co/mp3-preview/ea37655393cd7cd320197c687364063160f9be3a?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:61uAuQITuz62vOnGXQslaA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1s8tP3jP4GZcyHDsjvw218"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1s8tP3jP4GZcyHDsjvw218",
+        "id": "1s8tP3jP4GZcyHDsjvw218",
+        "is_local": false,
+        "name": "93 Million Miles",
+        "preview_url": "https://p.scdn.co/mp3-preview/87ba443f7777a6d075004281052535e4db3d115f?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1s8tP3jP4GZcyHDsjvw218"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5noTaf7614u8970wOMYgIE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5noTaf7614u8970wOMYgIE",
+        "id": "5noTaf7614u8970wOMYgIE",
+        "is_local": false,
+        "name": "Frank D. Fixer",
+        "preview_url": "https://p.scdn.co/mp3-preview/02b2f8ea44afb5c969c2cb6bfae24f67d2e93bd2?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5noTaf7614u8970wOMYgIE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 287653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/530jQ6wTfWrdM1yNCPwdDt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/530jQ6wTfWrdM1yNCPwdDt",
+        "id": "530jQ6wTfWrdM1yNCPwdDt",
+        "is_local": false,
+        "name": "Who's Thinking About You Now?",
+        "preview_url": "https://p.scdn.co/mp3-preview/8c2fb5730e001d768d4a5246fae41a07de694d1d?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:530jQ6wTfWrdM1yNCPwdDt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 291346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kzMRQciSdCPOE0N6GXBXK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kzMRQciSdCPOE0N6GXBXK",
+        "id": "7kzMRQciSdCPOE0N6GXBXK",
+        "is_local": false,
+        "name": "In Your Hands",
+        "preview_url": "https://p.scdn.co/mp3-preview/b6fbaec30407461ce4708ef1272d67bd38a6bff1?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7kzMRQciSdCPOE0N6GXBXK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5T0N6xybJyZq34R1807OTt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5T0N6xybJyZq34R1807OTt",
+        "id": "5T0N6xybJyZq34R1807OTt",
+        "is_local": false,
+        "name": "Be Honest (feat. Inara George)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d184fda04e18e440ad12a493be9138c7344e2720?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5T0N6xybJyZq34R1807OTt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239156,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ORU4XRGqFjPB2mTft0VPj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ORU4XRGqFjPB2mTft0VPj",
+        "id": "2ORU4XRGqFjPB2mTft0VPj",
+        "is_local": false,
+        "name": "The World as I See It",
+        "preview_url": "https://p.scdn.co/mp3-preview/990aa6f4c1d93e098b24797c7623f72ce3991574?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2ORU4XRGqFjPB2mTft0VPj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 269031,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CQPMuC66RwBvh5KUUZIjH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CQPMuC66RwBvh5KUUZIjH",
+        "id": "7CQPMuC66RwBvh5KUUZIjH",
+        "is_local": false,
+        "name": "I'm Coming Over",
+        "preview_url": "https://p.scdn.co/mp3-preview/adec1d7bb54064d18702e574d8ffde022cf704cc?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7CQPMuC66RwBvh5KUUZIjH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 315983,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RLkxQmjmbB6ItZBOwSK73"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RLkxQmjmbB6ItZBOwSK73",
+        "id": "6RLkxQmjmbB6ItZBOwSK73",
+        "is_local": false,
+        "name": "I Won't Give Up - Demo",
+        "preview_url": "https://p.scdn.co/mp3-preview/3f74e4562c2cf48856a08f4c2012e90ac2a510ba?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6RLkxQmjmbB6ItZBOwSK73"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 514848,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70mrEnltTjQre4AYufBhPk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70mrEnltTjQre4AYufBhPk",
+        "id": "70mrEnltTjQre4AYufBhPk",
+        "is_local": false,
+        "name": "The World as I See It - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/25737b0e8b5783af4bd7a866322ad4df03501d6c?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:70mrEnltTjQre4AYufBhPk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 305330,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0k78hapVRILyPAdOenCevc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0k78hapVRILyPAdOenCevc",
+        "id": "0k78hapVRILyPAdOenCevc",
+        "is_local": false,
+        "name": "You Fckn' Did It - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/520db17dd525bd5580ed049cfe595ff81656c2ca?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:0k78hapVRILyPAdOenCevc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 200265,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3H3OMA1T5wlD28HnOjnNID"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3H3OMA1T5wlD28HnOjnNID",
+        "id": "3H3OMA1T5wlD28HnOjnNID",
+        "is_local": false,
+        "name": "The Woman I Love - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/680c95a236de92f1ddf53aa7e32d0e338deb3cfb?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:3H3OMA1T5wlD28HnOjnNID"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz",
+            "type": "artist",
+            "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "CA",
+          "CH",
+          "CW",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "JP",
+          "LI",
+          "NL",
+          "NO",
+          "SE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 535110,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wOZVKXMZQvEyHcY9rQzU3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wOZVKXMZQvEyHcY9rQzU3",
+        "id": "2wOZVKXMZQvEyHcY9rQzU3",
+        "is_local": false,
+        "name": "I Never Knew You - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/c0a31a8deaf2d533ed67a089dd5b5dc1a4a4d0ec?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:2wOZVKXMZQvEyHcY9rQzU3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 18
+  },
+  "type": "album",
+  "uri": "spotify:album:64SChsjQBiEe3aVTFYnW1b"
+}

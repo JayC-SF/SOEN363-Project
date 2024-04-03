@@ -1,0 +1,543 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+      "id": "5JdT0LYJdlPbTC58p60WTX",
+      "name": "Hilary Hahn",
+      "type": "artist",
+      "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+      },
+      "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+      "id": "2g3N0oxbmn5Q95mYNNdIo4",
+      "name": "Deutsche Kammerphilharmonie Bremen",
+      "type": "artist",
+      "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+      "id": "3V9McxlPI0G2RmkU0DhYGO",
+      "name": "Paavo J\u00e4rvi",
+      "type": "artist",
+      "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "JP",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Hilary Hahn, under exclusive license to Deutsche Grammophon GmbH, Berlin",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Hilary Hahn, under exclusive license to Deutsche Grammophon GmbH, Berlin",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00028947939573"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5GDrGfzGDod15dudivfFV5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5GDrGfzGDod15dudivfFV5",
+  "id": "5GDrGfzGDod15dudivfFV5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a438293f3c343afe0b12cc5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a438293f3c343afe0b12cc5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a438293f3c343afe0b12cc5",
+      "width": 64
+    }
+  ],
+  "label": "Deutsche Grammophon (DG)",
+  "name": "Mozart: Violin Concerto No.5 In A, K.219 / Vieuxtemps: Violin Concerto No.4 In D Minor, Op.31",
+  "popularity": 29,
+  "release_date": "2014-03-13",
+  "release_date_precision": "day",
+  "total_tracks": 7,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5GDrGfzGDod15dudivfFV5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+            "id": "4NJhFmfw43RLBLjQvxDuRS",
+            "name": "Wolfgang Amadeus Mozart",
+            "type": "artist",
+            "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 610386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IIps6UFhvqBK8RQrkcD7A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IIps6UFhvqBK8RQrkcD7A",
+        "id": "3IIps6UFhvqBK8RQrkcD7A",
+        "is_local": false,
+        "name": "Violin Concerto No. 5 in A Major, K. 219 \"Turkish\": I. Allegro aperto",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3IIps6UFhvqBK8RQrkcD7A"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+            "id": "4NJhFmfw43RLBLjQvxDuRS",
+            "name": "Wolfgang Amadeus Mozart",
+            "type": "artist",
+            "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 606440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IQK8wjZCCb5LkwsSJXVhH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IQK8wjZCCb5LkwsSJXVhH",
+        "id": "1IQK8wjZCCb5LkwsSJXVhH",
+        "is_local": false,
+        "name": "Violin Concerto No. 5 in A Major, K. 219 \"Turkish\": II. Adagio",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1IQK8wjZCCb5LkwsSJXVhH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+            "id": "4NJhFmfw43RLBLjQvxDuRS",
+            "name": "Wolfgang Amadeus Mozart",
+            "type": "artist",
+            "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 535253,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GebYr0I2heQ4BZxnWI6PM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GebYr0I2heQ4BZxnWI6PM",
+        "id": "1GebYr0I2heQ4BZxnWI6PM",
+        "is_local": false,
+        "name": "Violin Concerto No. 5 in A Major, K. 219 \"Turkish\": III. Rondeau (Tempo di minuetto)",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1GebYr0I2heQ4BZxnWI6PM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ceZFtLs8nvyVMyvcNlxJh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ceZFtLs8nvyVMyvcNlxJh",
+            "id": "4ceZFtLs8nvyVMyvcNlxJh",
+            "name": "Henri Vieuxtemps",
+            "type": "artist",
+            "uri": "spotify:artist:4ceZFtLs8nvyVMyvcNlxJh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 601946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24W6j0YnggVnUD5EioFVac"
+        },
+        "href": "https://api.spotify.com/v1/tracks/24W6j0YnggVnUD5EioFVac",
+        "id": "24W6j0YnggVnUD5EioFVac",
+        "is_local": false,
+        "name": "Violin Concerto No. 4 in D Minor, Op. 31: I. Andante - Moderato",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:24W6j0YnggVnUD5EioFVac"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ceZFtLs8nvyVMyvcNlxJh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ceZFtLs8nvyVMyvcNlxJh",
+            "id": "4ceZFtLs8nvyVMyvcNlxJh",
+            "name": "Henri Vieuxtemps",
+            "type": "artist",
+            "uri": "spotify:artist:4ceZFtLs8nvyVMyvcNlxJh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 376920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FZMnc0Ui0NWnTqBkQvjmb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FZMnc0Ui0NWnTqBkQvjmb",
+        "id": "1FZMnc0Ui0NWnTqBkQvjmb",
+        "is_local": false,
+        "name": "Violin Concerto No. 4 in D Minor, Op. 31: II. Adagio religioso",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1FZMnc0Ui0NWnTqBkQvjmb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ceZFtLs8nvyVMyvcNlxJh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ceZFtLs8nvyVMyvcNlxJh",
+            "id": "4ceZFtLs8nvyVMyvcNlxJh",
+            "name": "Henri Vieuxtemps",
+            "type": "artist",
+            "uri": "spotify:artist:4ceZFtLs8nvyVMyvcNlxJh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 344680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2StnPRJtRyPd8gEicgLQQ9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2StnPRJtRyPd8gEicgLQQ9",
+        "id": "2StnPRJtRyPd8gEicgLQQ9",
+        "is_local": false,
+        "name": "Violin Concerto No. 4 in D Minor, Op. 31: III. Scherzo. Vivace - Trio. Meno mosso",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2StnPRJtRyPd8gEicgLQQ9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ceZFtLs8nvyVMyvcNlxJh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ceZFtLs8nvyVMyvcNlxJh",
+            "id": "4ceZFtLs8nvyVMyvcNlxJh",
+            "name": "Henri Vieuxtemps",
+            "type": "artist",
+            "uri": "spotify:artist:4ceZFtLs8nvyVMyvcNlxJh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JdT0LYJdlPbTC58p60WTX",
+            "id": "5JdT0LYJdlPbTC58p60WTX",
+            "name": "Hilary Hahn",
+            "type": "artist",
+            "uri": "spotify:artist:5JdT0LYJdlPbTC58p60WTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g3N0oxbmn5Q95mYNNdIo4",
+            "id": "2g3N0oxbmn5Q95mYNNdIo4",
+            "name": "Deutsche Kammerphilharmonie Bremen",
+            "type": "artist",
+            "uri": "spotify:artist:2g3N0oxbmn5Q95mYNNdIo4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3V9McxlPI0G2RmkU0DhYGO",
+            "id": "3V9McxlPI0G2RmkU0DhYGO",
+            "name": "Paavo J\u00e4rvi",
+            "type": "artist",
+            "uri": "spotify:artist:3V9McxlPI0G2RmkU0DhYGO"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 515613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BkiuQNkk3xH1gbADWMMMy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BkiuQNkk3xH1gbADWMMMy",
+        "id": "0BkiuQNkk3xH1gbADWMMMy",
+        "is_local": false,
+        "name": "Violin Concerto No. 4 in D Minor, Op. 31: IV. Finale marziale: Andante - Allegro",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0BkiuQNkk3xH1gbADWMMMy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 7
+  },
+  "type": "album",
+  "uri": "spotify:album:5GDrGfzGDod15dudivfFV5"
+}

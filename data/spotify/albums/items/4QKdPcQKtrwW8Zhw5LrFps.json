@@ -1,0 +1,126 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+      "id": "3OsRAKCvk37zwYcnzRf5XF",
+      "name": "Moby",
+      "type": "artist",
+      "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CcvfJAMRa28MnCnujCdXQ",
+      "id": "0CcvfJAMRa28MnCnujCdXQ",
+      "name": "Lady Blackbird",
+      "type": "artist",
+      "uri": "spotify:artist:0CcvfJAMRa28MnCnujCdXQ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2024 Always Centered At Night exclusively licensed to Mute for the USA & Canada",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2024 Always Centered At Night exclusively licensed to Mute for the USA & Canada",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5061041450044"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4QKdPcQKtrwW8Zhw5LrFps",
+  "id": "4QKdPcQKtrwW8Zhw5LrFps",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aad649d7d5a65643efe2e65c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aad649d7d5a65643efe2e65c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aad649d7d5a65643efe2e65c",
+      "width": 64
+    }
+  ],
+  "label": "Mute",
+  "name": "dark days",
+  "popularity": 36,
+  "release_date": "2024-03-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4QKdPcQKtrwW8Zhw5LrFps/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+            "id": "3OsRAKCvk37zwYcnzRf5XF",
+            "name": "Moby",
+            "type": "artist",
+            "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CcvfJAMRa28MnCnujCdXQ",
+            "id": "0CcvfJAMRa28MnCnujCdXQ",
+            "name": "Lady Blackbird",
+            "type": "artist",
+            "uri": "spotify:artist:0CcvfJAMRa28MnCnujCdXQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5D1uzv1oRRfkzeilJAwSbO",
+        "id": "5D1uzv1oRRfkzeilJAwSbO",
+        "is_local": false,
+        "name": "dark days",
+        "preview_url": "https://p.scdn.co/mp3-preview/19072c75bbc7f9f5dc303dd725e8ab6a5e9b1f28?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5D1uzv1oRRfkzeilJAwSbO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4QKdPcQKtrwW8Zhw5LrFps"
+}

@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+      },
+      "href": "https://api.spotify.com/v1/artists/1G0YV9WooUBjrwDq0Q7EFK",
+      "id": "1G0YV9WooUBjrwDq0Q7EFK",
+      "name": "Charlotte Cardin",
+      "type": "artist",
+      "uri": "spotify:artist:1G0YV9WooUBjrwDq0Q7EFK"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Cult Nation",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Cult Nation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614598229049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Qe2d77Eero8XpwE7l7HRh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Qe2d77Eero8XpwE7l7HRh",
+  "id": "2Qe2d77Eero8XpwE7l7HRh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273147012bc1f8a9f91eebdbb85",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02147012bc1f8a9f91eebdbb85",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851147012bc1f8a9f91eebdbb85",
+      "width": 64
+    }
+  ],
+  "label": "Cult Nation",
+  "name": "Like It Doesn't Hurt (feat. Nate Husser)",
+  "popularity": 32,
+  "release_date": "2016-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Qe2d77Eero8XpwE7l7HRh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G0YV9WooUBjrwDq0Q7EFK",
+            "id": "1G0YV9WooUBjrwDq0Q7EFK",
+            "name": "Charlotte Cardin",
+            "type": "artist",
+            "uri": "spotify:artist:1G0YV9WooUBjrwDq0Q7EFK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+            },
+            "href": "https://api.spotify.com/v1/artists/5o4gKYJ99ROV1yye1v9Sh4",
+            "id": "5o4gKYJ99ROV1yye1v9Sh4",
+            "name": "Nate Husser",
+            "type": "artist",
+            "uri": "spotify:artist:5o4gKYJ99ROV1yye1v9Sh4"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217544,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/211ksI5pHaQBIKnepdRXD6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/211ksI5pHaQBIKnepdRXD6",
+        "id": "211ksI5pHaQBIKnepdRXD6",
+        "is_local": false,
+        "name": "Like It Doesn't Hurt",
+        "preview_url": "https://p.scdn.co/mp3-preview/b2b422a383e99b75032513c20b10b6c47a43763e?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:211ksI5pHaQBIKnepdRXD6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Qe2d77Eero8XpwE7l7HRh"
+}

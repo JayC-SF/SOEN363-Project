@@ -11,8 +11,9 @@ from os.path import join as joinpath
 import json
 from pathlib import Path
 import random
+import time
 
-from utility.variables import DATA_PATH, SPOTIFY_API_URL, SPOTIFY_BATCH_MAX_ITEMS, SPOTIFY_DATA_PATH
+from utility.variables import DATA_PATH, SLEEP_TIMER, SPOTIFY_API_URL, SPOTIFY_BATCH_MAX_ITEMS, SPOTIFY_DATA_PATH
 
 # sample curl request of a playlist
 """
@@ -63,6 +64,8 @@ class SpotifyScraper:
         Raises:
             Exception: An exception is the code is neither 429 or a success code.
         """
+        timer = 0
+
         print(f'SCRAPING {self.__endpoint.upper()}')
         # read csv file
         df = self.__update_df_with_fs()
@@ -73,8 +76,13 @@ class SpotifyScraper:
             id = row['ID']
             item_file_path = joinpath(self.__items_folder_path, f"{id}.json")
 
+            print(f"Running timer of {timer} seconds ...")
+            time.sleep(timer)
+
             # if we exceed time limit, re scrape after time sleep
             res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, id)
+
+            timer = SLEEP_TIMER
 
             # check if we still have a success code
             if not is_success_code(res.status_code):
@@ -121,6 +129,8 @@ class SpotifyScraper:
         # get the uncached items
         uncached_items_df = df[df['CACHED'] == False].copy()
         error_request = set()
+        timer = 0
+
         while (len(uncached_items_df) != 0):
             # get the batch of ids to send in request
             batch_items_df = uncached_items_df[:SPOTIFY_BATCH_MAX_ITEMS]
@@ -128,7 +138,12 @@ class SpotifyScraper:
             uncached_items_df.drop(batch_items_df.index, inplace=True)
 
             # send the batch request and check status codes
+            print(f"Running timer of {timer} seconds ...")
+            time.sleep(timer)
+
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
+
+            timer = SLEEP_TIMER
             # send request without batch, by sending a request 1 by 1
             if not is_success_code(res.status_code):
                 print(f"Status error code {res.status_code} while fetching:\n{str(res.content)}")
@@ -137,7 +152,15 @@ class SpotifyScraper:
                     self.__endpoint: []
                 }
                 for batch_id in batch_ids:
+
+                    print(f"Running timer of {timer} seconds ...")
+                    time.sleep(timer)
+                    
                     res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, batch_id)
+                    
+                    # Set the actual timer of 1 seconds
+                    timer = SLEEP_TIMER
+                    
                     if not is_success_code(res.status_code):
                         print(f"Status error code while fetching {batch_id}: {res.status_code}\n{res.json()}")
                         continue

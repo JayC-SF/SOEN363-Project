@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+      },
+      "href": "https://api.spotify.com/v1/artists/2TN0yEsNdj8cY1854luIQw",
+      "id": "2TN0yEsNdj8cY1854luIQw",
+      "name": "Randy Scott",
+      "type": "artist",
+      "uri": "spotify:artist:2TN0yEsNdj8cY1854luIQw"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Trippin N' Rhythm Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Trippin N' Rhythm Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197189618444"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Gr8ZUvFXgVZWzSLOMW7bE",
+  "id": "1Gr8ZUvFXgVZWzSLOMW7bE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273623b44c25b044e496bc5fa67",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02623b44c25b044e496bc5fa67",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851623b44c25b044e496bc5fa67",
+      "width": 64
+    }
+  ],
+  "label": "Trippin N' Rhythm Records",
+  "name": "Twilight",
+  "popularity": 22,
+  "release_date": "2023-09-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Gr8ZUvFXgVZWzSLOMW7bE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+            },
+            "href": "https://api.spotify.com/v1/artists/2TN0yEsNdj8cY1854luIQw",
+            "id": "2TN0yEsNdj8cY1854luIQw",
+            "name": "Randy Scott",
+            "type": "artist",
+            "uri": "spotify:artist:2TN0yEsNdj8cY1854luIQw"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2yHVPYPyY6ufasL41DYwh7",
+        "id": "2yHVPYPyY6ufasL41DYwh7",
+        "is_local": false,
+        "name": "Twilight",
+        "preview_url": "https://p.scdn.co/mp3-preview/9e23ea37cdb3cb0c48dd357ad3c30b17464160eb?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2yHVPYPyY6ufasL41DYwh7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Gr8ZUvFXgVZWzSLOMW7bE"
+}

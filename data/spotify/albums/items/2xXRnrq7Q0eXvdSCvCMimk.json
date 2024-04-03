@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/0mPiFtQynz01cwuBYNA87Z",
+      "id": "0mPiFtQynz01cwuBYNA87Z",
+      "name": "Eric Johanson",
+      "type": "artist",
+      "uri": "spotify:artist:0mPiFtQynz01cwuBYNA87Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Ruf Records GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Ruf Records GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "710437408644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2xXRnrq7Q0eXvdSCvCMimk",
+  "id": "2xXRnrq7Q0eXvdSCvCMimk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c2fe24265850b2f89239084a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c2fe24265850b2f89239084a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c2fe24265850b2f89239084a",
+      "width": 64
+    }
+  ],
+  "label": "Ruf Records GmbH",
+  "name": "The Deep And The Dirty",
+  "popularity": 23,
+  "release_date": "2023-06-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2xXRnrq7Q0eXvdSCvCMimk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/0mPiFtQynz01cwuBYNA87Z",
+            "id": "0mPiFtQynz01cwuBYNA87Z",
+            "name": "Eric Johanson",
+            "type": "artist",
+            "uri": "spotify:artist:0mPiFtQynz01cwuBYNA87Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227798,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7muqW2jlmexIiyQpVz2eaR",
+        "id": "7muqW2jlmexIiyQpVz2eaR",
+        "is_local": false,
+        "name": "The Deep And The Dirty",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7muqW2jlmexIiyQpVz2eaR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2xXRnrq7Q0eXvdSCvCMimk"
+}

@@ -1,0 +1,545 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+      "id": "5aygfDCEaX5KTZOxSCpT9o",
+      "name": "Albert King",
+      "type": "artist",
+      "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+      "id": "5fsDcuclIe8ZiBD5P787K1",
+      "name": "Stevie Ray Vaughan",
+      "type": "artist",
+      "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+    }
+  ],
+  "available_markets": [
+    "JP",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 1999 Fantasy, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1999 Fantasy, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00025218750127"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0NVSx5grH054ZMpiOYieyb",
+  "id": "0NVSx5grH054ZMpiOYieyb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f3a0411bdbe410ad5e7aaa8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f3a0411bdbe410ad5e7aaa8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f3a0411bdbe410ad5e7aaa8",
+      "width": 64
+    }
+  ],
+  "label": "Stax",
+  "name": "In Session",
+  "popularity": 39,
+  "release_date": "1999-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 11,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0NVSx5grH054ZMpiOYieyb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 540360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20nQpaFVoEMA5aUGD8yn3i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/20nQpaFVoEMA5aUGD8yn3i",
+        "id": "20nQpaFVoEMA5aUGD8yn3i",
+        "is_local": false,
+        "name": "Call It Stormy Monday",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:20nQpaFVoEMA5aUGD8yn3i"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 75600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NQKArbOy5gvTrMqByOHj0",
+        "id": "4NQKArbOy5gvTrMqByOHj0",
+        "is_local": false,
+        "name": "Old Times",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4NQKArbOy5gvTrMqByOHj0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 359266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LNkpie03tsGvZgFxc2R0P",
+        "id": "5LNkpie03tsGvZgFxc2R0P",
+        "is_local": false,
+        "name": "Pride And Joy",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5LNkpie03tsGvZgFxc2R0P"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 302640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2lLsxW07QzVfneL7Ov2bIT",
+        "id": "2lLsxW07QzVfneL7Ov2bIT",
+        "is_local": false,
+        "name": "Ask Me No Questions",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2lLsxW07QzVfneL7Ov2bIT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 52093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JFQEJKO6YpHRKRjkOyKkb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JFQEJKO6YpHRKRjkOyKkb",
+        "id": "4JFQEJKO6YpHRKRjkOyKkb",
+        "is_local": false,
+        "name": "Pep Talk",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4JFQEJKO6YpHRKRjkOyKkb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 910573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iRvnj638AaNON730B5yIs",
+        "id": "2iRvnj638AaNON730B5yIs",
+        "is_local": false,
+        "name": "Blues At Sunrise",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2iRvnj638AaNON730B5yIs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 51466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TLDfdeCe1p9U28N6VMQYf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1TLDfdeCe1p9U28N6VMQYf",
+        "id": "1TLDfdeCe1p9U28N6VMQYf",
+        "is_local": false,
+        "name": "Turn It Over",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1TLDfdeCe1p9U28N6VMQYf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 500600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ygqV9F9cW5lPSAufAikbi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ygqV9F9cW5lPSAufAikbi",
+        "id": "0ygqV9F9cW5lPSAufAikbi",
+        "is_local": false,
+        "name": "Overall Junction",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0ygqV9F9cW5lPSAufAikbi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 459493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ucfROd1kaXBwNG2AJUIzM",
+        "id": "0ucfROd1kaXBwNG2AJUIzM",
+        "is_local": false,
+        "name": "Match Box Blues",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0ucfROd1kaXBwNG2AJUIzM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 44306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7n1ArcD6WVYFVC21ZtFr9A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7n1ArcD6WVYFVC21ZtFr9A",
+        "id": "7n1ArcD6WVYFVC21ZtFr9A",
+        "is_local": false,
+        "name": "Who Is Stevie?",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7n1ArcD6WVYFVC21ZtFr9A"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aygfDCEaX5KTZOxSCpT9o",
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "name": "Albert King",
+            "type": "artist",
+            "uri": "spotify:artist:5aygfDCEaX5KTZOxSCpT9o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "name": "Stevie Ray Vaughan",
+            "type": "artist",
+            "uri": "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+          }
+        ],
+        "available_markets": [
+          "JP",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 537226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3S7qClovzdfoPxqVPcH8ma",
+        "id": "3S7qClovzdfoPxqVPcH8ma",
+        "is_local": false,
+        "name": "Don't Lie To Me",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3S7qClovzdfoPxqVPcH8ma"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  },
+  "type": "album",
+  "uri": "spotify:album:0NVSx5grH054ZMpiOYieyb"
+}

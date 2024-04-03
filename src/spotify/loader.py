@@ -58,8 +58,11 @@ def load_info_from_playlist(playlist_id, playlist_items_folder):
     # find all the tracks
     tracks = playlist_json['tracks']['items']
     for track in tracks:
+        
         track = track['track']
-        # add new track in the dataframe
+        if track is None:
+            continue
+            # add new track in the dataframe
         tracks_df.loc[len(tracks_df)] = [track['id'], False]
         albums_df.loc[len(albums_df)] = [track['album']['id'], False]
         # add artists in albums
