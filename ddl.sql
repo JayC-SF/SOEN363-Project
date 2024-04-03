@@ -35,7 +35,7 @@ CREATE TABLE Audio
     uri          VARCHAR(200),
     href         VARCHAR(200),
     external_url VARCHAR(200),
-    explicit     BIT,
+    explicit     BOOLEAN,
     PRIMARY KEY (audio_id)
 );
 
@@ -45,7 +45,6 @@ CREATE TABLE Track
     popularity  INT,
     type        VARCHAR(100),
     duration_ms INT,
-    is_playable BIT,
     preview_url VARCHAR(200),
     disc_number INT,
     PRIMARY KEY (track_id),

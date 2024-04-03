@@ -11,6 +11,7 @@ from spotify.models.album_model import AlbumModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.chapter_model import ChapterModel
 from spotify.models.playlist_model import PlaylistModel
+from spotify.models.track_model import TrackModel
 from spotify.parser import SpotifyParser
 from utility.variables import DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_NAME, SPOTIFY_DATA_PATH
 
@@ -40,7 +41,7 @@ class DatabaseInserter:
             case 'playlists':
                 self.__insert_playlists()
             case 'tracks':
-                pass
+                self.__insert_tracks()
             case 'audiobooks':
                 pass
             case 'markets':
@@ -330,3 +331,78 @@ class DatabaseInserter:
         end_time = time.time()
         print(f"Finished inserting playlists. Total playlists in database: {row_count}")
         print(f"Finished inserting playlists in {end_time - start_time} seconds")
+
+    def __insert_tracks(self):
+        parser = SpotifyParser('tracks', TrackModel)
+        tracks: List[TrackModel] = parser.parse_all()
+        queue = Queue()
+
+        for track in tracks:
+            queue.put(track)
+
+        def worker():
+            db = mysql.connector.connect(
+                host=DATABASE_HOST,
+                user=DATABASE_USER,
+                password=DATABASE_PASSWORD,
+                database=DATABASE_NAME
+            )
+            cursor = db.cursor()
+
+            while not queue.empty():
+                track: TrackModel = queue.get()
+                try:
+                    check_query = "SELECT EXISTS(SELECT 1 FROM Audio WHERE spotify_id = %s)"
+                    cursor.execute(check_query, (track.spotify_id,))
+                    exists = cursor.fetchone()[0]
+                    if not exists:
+                        insert_query = """
+                                        INSERT INTO Audio (spotify_id, audio_name, uri, href, external_url, explicit)
+                                        VALUES (%s, %s, %s, %s, %s, %s)
+                                               """
+                        track_data = (
+                            track.spotify_id, track.audio_name, track.uri, track.href, track.external_url,
+                            track.explicit
+                        )
+                        cursor.execute(insert_query, track_data)
+                        db.commit()
+
+                        audio_id = cursor.lastrowid
+
+                        insert_query = """
+                                       INSERT INTO Track (track_id, popularity, type, duration_ms, preview_url, disc_number)
+                                       VALUES (%s, %s, %s, %s, %s, %s)
+                                               """
+                        track_data = (
+                            audio_id, track.popularity, track.type, track.duration_ms, track.preview_url,
+                            track.disc_number
+                        )
+                        cursor.execute(insert_query, track_data)
+                        db.commit()
+                    #     print(f"Inserted track data for {track.spotify_id}")
+                    # else:
+                    #     print(f"Row already exists for {track.spotify_id}, skipping.")
+                finally:
+                    queue.task_done()
+
+        start_time = time.time()
+
+        threads = []
+        for i in range(5):
+            thread = threading.Thread(target=worker)
+            thread.start()
+            threads.append(thread)
+
+        queue.join()
+
+        for thread in threads:
+            thread.join()
+
+        count_query = "SELECT COUNT(*) FROM Track"
+        cursor = self.__db.cursor()
+        cursor.execute(count_query)
+        row_count = cursor.fetchone()[0]
+
+        end_time = time.time()
+        print(f"Finished inserting tracks. Total tracks in database: {row_count}")
+        print(f"Finished inserting tracks in {end_time - start_time} seconds")
