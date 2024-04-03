@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS Audiobooks_Chapters;
 DROP TABLE IF EXISTS Audiobooks_Authors;
 DROP TABLE IF EXISTS Available_Markets_Albums;
 DROP TABLE IF EXISTS Available_Markets_Tracks;
-DROP TABLE IF EXISTS Albums_Genres;
+DROP TABLE IF EXISTS Artists_Genres;
 DROP TABLE IF EXISTS Audiobook;
 DROP TABLE IF EXISTS Tracks_Artists;
 DROP TABLE IF EXISTS Tracks_Albums;
@@ -169,12 +169,12 @@ CREATE TABLE Tracks_Albums
     FOREIGN KEY (album_id) REFERENCES Album (album_id) ON DELETE CASCADE
 );
 
-CREATE TABLE Albums_Genres
+CREATE TABLE Artists_Genres
 (
-    album_id INT NOT NULL,
-    genre_id INT NOT NULL,
-    PRIMARY KEY (album_id, genre_id),
-    FOREIGN KEY (album_id) REFERENCES Album (album_id) ON DELETE CASCADE,
+    artist_id INT NOT NULL,
+    genre_id  INT NOT NULL,
+    PRIMARY KEY (artist_id, genre_id),
+    FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE,
     FOREIGN KEY (genre_id) REFERENCES Genre (genre_id) ON DELETE CASCADE
 );
 
