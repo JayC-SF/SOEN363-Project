@@ -1,0 +1,144 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ShGiAyhxI6Rq3TknZ3gfk",
+      "id": "3ShGiAyhxI6Rq3TknZ3gfk",
+      "name": "Arkells",
+      "type": "artist",
+      "uri": "spotify:artist:3ShGiAyhxI6Rq3TknZ3gfk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2g5ExPzOe98s7RcxyJiRWF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2g5ExPzOe98s7RcxyJiRWF",
+      "id": "2g5ExPzOe98s7RcxyJiRWF",
+      "name": "Sleepercar",
+      "type": "artist",
+      "uri": "spotify:artist:2g5ExPzOe98s7RcxyJiRWF"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2009 Dine Alone Music (CA)",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2009 Dine Alone Music (CA)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "821826002395"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0LbRt4YJGJgMerJJrUNrvo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0LbRt4YJGJgMerJJrUNrvo",
+  "id": "0LbRt4YJGJgMerJJrUNrvo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739eb5dd6c3cc6b2275154b90e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029eb5dd6c3cc6b2275154b90e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519eb5dd6c3cc6b2275154b90e",
+      "width": 64
+    }
+  ],
+  "label": "Dine Alone Music",
+  "name": "Dine Alone Digital 45, Vol. 2",
+  "popularity": 1,
+  "release_date": "2009-12-15",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0LbRt4YJGJgMerJJrUNrvo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ShGiAyhxI6Rq3TknZ3gfk",
+            "id": "3ShGiAyhxI6Rq3TknZ3gfk",
+            "name": "Arkells",
+            "type": "artist",
+            "uri": "spotify:artist:3ShGiAyhxI6Rq3TknZ3gfk"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 213306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CIO0beANlichoGnw9ymTg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CIO0beANlichoGnw9ymTg",
+        "id": "3CIO0beANlichoGnw9ymTg",
+        "is_local": false,
+        "name": "Pullin' Punches - Live @ XM's Six Shooter House",
+        "preview_url": "https://p.scdn.co/mp3-preview/d7b07e0e9f0fb5ad02fa3e3967caf0b615042b39?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3CIO0beANlichoGnw9ymTg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g5ExPzOe98s7RcxyJiRWF"
+            },
+            "href": "https://api.spotify.com/v1/artists/2g5ExPzOe98s7RcxyJiRWF",
+            "id": "2g5ExPzOe98s7RcxyJiRWF",
+            "name": "Sleepercar",
+            "type": "artist",
+            "uri": "spotify:artist:2g5ExPzOe98s7RcxyJiRWF"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aYltgCEUyhuuyGlxJu8ri"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2aYltgCEUyhuuyGlxJu8ri",
+        "id": "2aYltgCEUyhuuyGlxJu8ri",
+        "is_local": false,
+        "name": "A Broken Promise - Live @ XM's Six Shooter House",
+        "preview_url": "https://p.scdn.co/mp3-preview/87afbc8f4be4baf457f7f678f200d4d5fd9e31db?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2aYltgCEUyhuuyGlxJu8ri"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0LbRt4YJGJgMerJJrUNrvo"
+}

@@ -1,0 +1,791 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+      },
+      "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+      "id": "60ju8DuNEmkdLw3ymddLje",
+      "name": "Alban Berg",
+      "type": "artist",
+      "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+      "id": "4pFlv4QVInj7bAo0MqHpwW",
+      "name": "Anne Sofie von Otter",
+      "type": "artist",
+      "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+      "id": "003f4bk13c6Q3gAUXv7dGJ",
+      "name": "Wiener Philharmoniker",
+      "type": "artist",
+      "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+      "id": "6HclTVD03WSY6GUpN16BkP",
+      "name": "Claudio Abbado",
+      "type": "artist",
+      "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CR",
+    "JP",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Deutsche Grammophon GmbH, Berlin",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1995 Deutsche Grammophon GmbH, Berlin",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00028947915140"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5sytHjg2pzopSDcmbW0CJw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5sytHjg2pzopSDcmbW0CJw",
+  "id": "5sytHjg2pzopSDcmbW0CJw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba0ad3c963718e315c36e768",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba0ad3c963718e315c36e768",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba0ad3c963718e315c36e768",
+      "width": 64
+    }
+  ],
+  "label": "Deutsche Grammophon (DG)",
+  "name": "Berg: Three Orchestral Pieces",
+  "popularity": 1,
+  "release_date": "1995-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 11,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5sytHjg2pzopSDcmbW0CJw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zs1A5TRgFG8avMgbaefM8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zs1A5TRgFG8avMgbaefM8",
+        "id": "5zs1A5TRgFG8avMgbaefM8",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 1, Nacht",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zs1A5TRgFG8avMgbaefM8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 144000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24OpnFJQ5bMfTbD750HExR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/24OpnFJQ5bMfTbD750HExR",
+        "id": "24OpnFJQ5bMfTbD750HExR",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 2, Schilflied",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:24OpnFJQ5bMfTbD750HExR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 135000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0oEntVcbZREdd7xfD5pUxx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0oEntVcbZREdd7xfD5pUxx",
+        "id": "0oEntVcbZREdd7xfD5pUxx",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 3, Die Nachtigall",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0oEntVcbZREdd7xfD5pUxx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 162000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22QAYHmdg3G3SVlQCuJhbq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/22QAYHmdg3G3SVlQCuJhbq",
+        "id": "22QAYHmdg3G3SVlQCuJhbq",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 4, Traumgekr\u00f6nt",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:22QAYHmdg3G3SVlQCuJhbq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 71000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21TpPNIEfUvdG4O1NzXihA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21TpPNIEfUvdG4O1NzXihA",
+        "id": "21TpPNIEfUvdG4O1NzXihA",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 5, Im Zimmer",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:21TpPNIEfUvdG4O1NzXihA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 120000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jQX1OYv9Dn7LlBax7xoWW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jQX1OYv9Dn7LlBax7xoWW",
+        "id": "0jQX1OYv9Dn7LlBax7xoWW",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 6, Liebesode",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0jQX1OYv9Dn7LlBax7xoWW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 100000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JWe8dKz3XdlMSFIEeuMUI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JWe8dKz3XdlMSFIEeuMUI",
+        "id": "1JWe8dKz3XdlMSFIEeuMUI",
+        "is_local": false,
+        "name": "7 fr\u00fche Lieder (1928 Orch. Version): No. 7, Sommertage",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1JWe8dKz3XdlMSFIEeuMUI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4pFlv4QVInj7bAo0MqHpwW",
+            "id": "4pFlv4QVInj7bAo0MqHpwW",
+            "name": "Anne Sofie von Otter",
+            "type": "artist",
+            "uri": "spotify:artist:4pFlv4QVInj7bAo0MqHpwW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 779000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50Bh15hEF7dWl6EU9wePTw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50Bh15hEF7dWl6EU9wePTw",
+        "id": "50Bh15hEF7dWl6EU9wePTw",
+        "is_local": false,
+        "name": "Der Wein, Concert Aria",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:50Bh15hEF7dWl6EU9wePTw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JDFlNxG7tejS8T9xLsYHZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JDFlNxG7tejS8T9xLsYHZ",
+        "id": "0JDFlNxG7tejS8T9xLsYHZ",
+        "is_local": false,
+        "name": "3 Pieces for Orchestra, Op. 6: No. 1, Praeludium",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0JDFlNxG7tejS8T9xLsYHZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 331000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mHdGZgBxyWz65Q8jYjUsL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mHdGZgBxyWz65Q8jYjUsL",
+        "id": "1mHdGZgBxyWz65Q8jYjUsL",
+        "is_local": false,
+        "name": "3 Pieces for Orchestra, Op. 6: No. 2, Reigen",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1mHdGZgBxyWz65Q8jYjUsL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+            },
+            "href": "https://api.spotify.com/v1/artists/60ju8DuNEmkdLw3ymddLje",
+            "id": "60ju8DuNEmkdLw3ymddLje",
+            "name": "Alban Berg",
+            "type": "artist",
+            "uri": "spotify:artist:60ju8DuNEmkdLw3ymddLje"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/003f4bk13c6Q3gAUXv7dGJ",
+            "id": "003f4bk13c6Q3gAUXv7dGJ",
+            "name": "Wiener Philharmoniker",
+            "type": "artist",
+            "uri": "spotify:artist:003f4bk13c6Q3gAUXv7dGJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HclTVD03WSY6GUpN16BkP",
+            "id": "6HclTVD03WSY6GUpN16BkP",
+            "name": "Claudio Abbado",
+            "type": "artist",
+            "uri": "spotify:artist:6HclTVD03WSY6GUpN16BkP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 569000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JUdXOa2UOCU2bVx04l9Uw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JUdXOa2UOCU2bVx04l9Uw",
+        "id": "1JUdXOa2UOCU2bVx04l9Uw",
+        "is_local": false,
+        "name": "3 Pieces for Orchestra, Op. 6: No. 3, Marsch",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1JUdXOa2UOCU2bVx04l9Uw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  },
+  "type": "album",
+  "uri": "spotify:album:5sytHjg2pzopSDcmbW0CJw"
+}

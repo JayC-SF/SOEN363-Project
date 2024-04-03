@@ -1,0 +1,661 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      },
+      "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+      "id": "5aIqB5nVVvmFsvSdExz408",
+      "name": "Johann Sebastian Bach",
+      "type": "artist",
+      "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VvPqi8lyVtY428TqYLy9k"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VvPqi8lyVtY428TqYLy9k",
+      "id": "0VvPqi8lyVtY428TqYLy9k",
+      "name": "Chor der J. S. Bach-Stiftung",
+      "type": "artist",
+      "uri": "spotify:artist:0VvPqi8lyVtY428TqYLy9k"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+      },
+      "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+      "id": "07XCuLAlan1rpEFzbegCWE",
+      "name": "Orchester der J. S. Bach-Stiftung",
+      "type": "artist",
+      "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+      },
+      "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+      "id": "3eU5Y55rtk97snjswCNJ4I",
+      "name": "Rudolf Lutz",
+      "type": "artist",
+      "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+    }
+  ],
+  "available_markets": [
+    "BB",
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2024 J. S. Bach-Stiftung",
+      "type": "C"
+    },
+    {
+      "text": "2024 J. S. Bach-Stiftung",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8721056803415"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0GzapjEt861MwBCY4XaLHc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0GzapjEt861MwBCY4XaLHc",
+  "id": "0GzapjEt861MwBCY4XaLHc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354716ef1aa6e4fcaf8c0e039",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254716ef1aa6e4fcaf8c0e039",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154716ef1aa6e4fcaf8c0e039",
+      "width": 64
+    }
+  ],
+  "label": "J. S. Bach-Stiftung",
+  "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+  "popularity": 9,
+  "release_date": "2024-03-29",
+  "release_date_precision": "day",
+  "total_tracks": 9,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0GzapjEt861MwBCY4XaLHc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 137538,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0K1RcduM34nH7FnihRI0O3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0K1RcduM34nH7FnihRI0O3",
+        "id": "0K1RcduM34nH7FnihRI0O3",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 1, Sonata - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/4c06586dcd915ab54f23707699dbfe73a6d97cd8?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0K1RcduM34nH7FnihRI0O3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VvPqi8lyVtY428TqYLy9k"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VvPqi8lyVtY428TqYLy9k",
+            "id": "0VvPqi8lyVtY428TqYLy9k",
+            "name": "Chor der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:0VvPqi8lyVtY428TqYLy9k"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 213819,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dyPVlctudWKGRbGAi1ERT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dyPVlctudWKGRbGAi1ERT",
+        "id": "7dyPVlctudWKGRbGAi1ERT",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 2, Der Himmel lacht! Die Erde jubiliert - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/d02bd92d20142dcf8295f36b0637e0819210bbe5?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7dyPVlctudWKGRbGAi1ERT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0q97TXwQIlhiPhSyBnc5uY",
+            "id": "0q97TXwQIlhiPhSyBnc5uY",
+            "name": "Stephan MacLeod",
+            "type": "artist",
+            "uri": "spotify:artist:0q97TXwQIlhiPhSyBnc5uY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 132381,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eygMw45WlXinnix68Y5cp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eygMw45WlXinnix68Y5cp",
+        "id": "7eygMw45WlXinnix68Y5cp",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 3, Erw\u00fcnschter Tag! Sei, Seele, wieder froh! - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/f9903ff6880263e4b463fc2c629db71ad61e0d94?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7eygMw45WlXinnix68Y5cp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0q97TXwQIlhiPhSyBnc5uY",
+            "id": "0q97TXwQIlhiPhSyBnc5uY",
+            "name": "Stephan MacLeod",
+            "type": "artist",
+            "uri": "spotify:artist:0q97TXwQIlhiPhSyBnc5uY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 172297,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ORIEgFjR7h1YBWmGyTf3C",
+        "id": "6ORIEgFjR7h1YBWmGyTf3C",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, F\u00fcrst des Lebens! starker Streiter - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/7cf01763ba64200eee4ec4d8cf1dd89ee2aad8f0?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6ORIEgFjR7h1YBWmGyTf3C"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BRLcLq4p06yKqwBAVrEjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1BRLcLq4p06yKqwBAVrEjg",
+            "id": "1BRLcLq4p06yKqwBAVrEjg",
+            "name": "Florian Sievers",
+            "type": "artist",
+            "uri": "spotify:artist:1BRLcLq4p06yKqwBAVrEjg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 72167,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03P2A2o7FfQkYSn3RLTRlD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03P2A2o7FfQkYSn3RLTRlD",
+        "id": "03P2A2o7FfQkYSn3RLTRlD",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 5, So stehe dann, du gottergebne Seele - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/ae7920aa2d05c621513c5c159364ba9b0199aadf?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:03P2A2o7FfQkYSn3RLTRlD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BRLcLq4p06yKqwBAVrEjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1BRLcLq4p06yKqwBAVrEjg",
+            "id": "1BRLcLq4p06yKqwBAVrEjg",
+            "name": "Florian Sievers",
+            "type": "artist",
+            "uri": "spotify:artist:1BRLcLq4p06yKqwBAVrEjg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 114425,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2L2wmTpqLkQeSowBhP3K9J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2L2wmTpqLkQeSowBhP3K9J",
+        "id": "2L2wmTpqLkQeSowBhP3K9J",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 6, Adam mu\u00df in uns verwesen - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/9e2b18800978d080da31999ffb092f4d6cdf562c?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2L2wmTpqLkQeSowBhP3K9J"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/165CYqUzTv7MhNcDhpWanF"
+            },
+            "href": "https://api.spotify.com/v1/artists/165CYqUzTv7MhNcDhpWanF",
+            "id": "165CYqUzTv7MhNcDhpWanF",
+            "name": "Julia Doyle",
+            "type": "artist",
+            "uri": "spotify:artist:165CYqUzTv7MhNcDhpWanF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 50671,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w94i6zr8PuXbARFoD4IBV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1w94i6zr8PuXbARFoD4IBV",
+        "id": "1w94i6zr8PuXbARFoD4IBV",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 7, Weil dann das Haupt sein Glied - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/d5241e1bfcb93fcd2d9c2fb3561eab50ee2a164e?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1w94i6zr8PuXbARFoD4IBV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/165CYqUzTv7MhNcDhpWanF"
+            },
+            "href": "https://api.spotify.com/v1/artists/165CYqUzTv7MhNcDhpWanF",
+            "id": "165CYqUzTv7MhNcDhpWanF",
+            "name": "Julia Doyle",
+            "type": "artist",
+            "uri": "spotify:artist:165CYqUzTv7MhNcDhpWanF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 243609,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zB75ezyYRiMzbvHXgk1me"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zB75ezyYRiMzbvHXgk1me",
+        "id": "5zB75ezyYRiMzbvHXgk1me",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 8, Letzte Stunde, brich herein - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/f7fe3a55087f50bbf2e9c9c1589ca3735d35470a?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5zB75ezyYRiMzbvHXgk1me"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+            },
+            "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+            "id": "5aIqB5nVVvmFsvSdExz408",
+            "name": "Johann Sebastian Bach",
+            "type": "artist",
+            "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VvPqi8lyVtY428TqYLy9k"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VvPqi8lyVtY428TqYLy9k",
+            "id": "0VvPqi8lyVtY428TqYLy9k",
+            "name": "Chor der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:0VvPqi8lyVtY428TqYLy9k"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07XCuLAlan1rpEFzbegCWE",
+            "id": "07XCuLAlan1rpEFzbegCWE",
+            "name": "Orchester der J. S. Bach-Stiftung",
+            "type": "artist",
+            "uri": "spotify:artist:07XCuLAlan1rpEFzbegCWE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eU5Y55rtk97snjswCNJ4I",
+            "id": "3eU5Y55rtk97snjswCNJ4I",
+            "name": "Rudolf Lutz",
+            "type": "artist",
+            "uri": "spotify:artist:3eU5Y55rtk97snjswCNJ4I"
+          }
+        ],
+        "available_markets": [
+          "BB",
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 82338,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rczdezNnbMZPBs91x2Ml8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4rczdezNnbMZPBs91x2Ml8",
+        "id": "4rczdezNnbMZPBs91x2Ml8",
+        "is_local": false,
+        "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 9, So fahr ich hin zu Jesu Christ - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/77673bcc229f44806c66c55147203e028b55e38f?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4rczdezNnbMZPBs91x2Ml8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9
+  },
+  "type": "album",
+  "uri": "spotify:album:0GzapjEt861MwBCY4XaLHc"
+}

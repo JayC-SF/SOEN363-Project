@@ -1,0 +1,851 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+      "id": "0qT79UgT5tY4yudH9VfsdT",
+      "name": "Sum 41",
+      "type": "artist",
+      "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+    }
+  ],
+  "available_markets": [
+    "AR",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "EC",
+    "GY",
+    "PE",
+    "PY",
+    "SR",
+    "TT",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "copyrights": [
+    {
+      "text": "2009 Aquarius Records Ltd. ( Under license to Unidisc Music Inc.)",
+      "type": "C"
+    },
+    {
+      "text": "2009 Aquarius Records Ltd. ( Under license to Unidisc Music Inc.)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0060270065666"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3dzwcMz7CkC6wLcMxHoRA1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3dzwcMz7CkC6wLcMxHoRA1",
+  "id": "3dzwcMz7CkC6wLcMxHoRA1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9c71a9d542bf0923f47b274",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9c71a9d542bf0923f47b274",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9c71a9d542bf0923f47b274",
+      "width": 64
+    }
+  ],
+  "label": "Aquarius Records Ltd.",
+  "name": "All the Good Shit",
+  "popularity": 48,
+  "release_date": "2009",
+  "release_date_precision": "year",
+  "total_tracks": 17,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3dzwcMz7CkC6wLcMxHoRA1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 159266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06MeiebDSLm1zsSYfMrUQ7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06MeiebDSLm1zsSYfMrUQ7",
+        "id": "06MeiebDSLm1zsSYfMrUQ7",
+        "is_local": false,
+        "name": "Still Waiting",
+        "preview_url": "https://p.scdn.co/mp3-preview/c9ea9d4ccea147f3015d6b2bcf4305208d4e6406?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06MeiebDSLm1zsSYfMrUQ7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 199493,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KaU8mYNKZoowahc40RdVq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6KaU8mYNKZoowahc40RdVq",
+        "id": "6KaU8mYNKZoowahc40RdVq",
+        "is_local": false,
+        "name": "The Hell Song",
+        "preview_url": "https://p.scdn.co/mp3-preview/97814ee09ced0a7edccea81c3a1ef6ee0e532bc7?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6KaU8mYNKZoowahc40RdVq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 177986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33PIrgcf62tAFCTl52NU5U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33PIrgcf62tAFCTl52NU5U",
+        "id": "33PIrgcf62tAFCTl52NU5U",
+        "is_local": false,
+        "name": "Fat Lip",
+        "preview_url": "https://p.scdn.co/mp3-preview/f1bbd275138cbd1e0b86327a549f0c4e03cf78bd?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:33PIrgcf62tAFCTl52NU5U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 218906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GQsPjBOcvIT4xQ1qgtcgK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GQsPjBOcvIT4xQ1qgtcgK",
+        "id": "2GQsPjBOcvIT4xQ1qgtcgK",
+        "is_local": false,
+        "name": "We're All to Blame",
+        "preview_url": "https://p.scdn.co/mp3-preview/8f245eaffcaf672f0f01d0ecbafd9fd45f822a17?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2GQsPjBOcvIT4xQ1qgtcgK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 287986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VpKjKMHzQblxA2qOLrFmL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VpKjKMHzQblxA2qOLrFmL",
+        "id": "4VpKjKMHzQblxA2qOLrFmL",
+        "is_local": false,
+        "name": "Walking Disaster",
+        "preview_url": "https://p.scdn.co/mp3-preview/5cb11e1e758b06654f9f46797005ec2fd547375c?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4VpKjKMHzQblxA2qOLrFmL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1X3fAMRwPaLSmuDlIR93jm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1X3fAMRwPaLSmuDlIR93jm",
+        "id": "1X3fAMRwPaLSmuDlIR93jm",
+        "is_local": false,
+        "name": "In Too Deep",
+        "preview_url": "https://p.scdn.co/mp3-preview/ff3f341fd16cb7f13d6559475b12735718571009?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1X3fAMRwPaLSmuDlIR93jm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 181600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MYpcZCtK6VxNmDzOtL019"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MYpcZCtK6VxNmDzOtL019",
+        "id": "2MYpcZCtK6VxNmDzOtL019",
+        "is_local": false,
+        "name": "Pieces",
+        "preview_url": "https://p.scdn.co/mp3-preview/fdd549c6d331fc30ced3c409ff743584e4c73327?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2MYpcZCtK6VxNmDzOtL019"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 195693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AdgiO4sucZfkIWssMRFqY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3AdgiO4sucZfkIWssMRFqY",
+        "id": "3AdgiO4sucZfkIWssMRFqY",
+        "is_local": false,
+        "name": "Underclass Hero",
+        "preview_url": "https://p.scdn.co/mp3-preview/8c05557e194729ff27dd8be6e2765b816a6f0c14?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3AdgiO4sucZfkIWssMRFqY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 170653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5b3c4X3PRlqgg8Spuj1ipS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5b3c4X3PRlqgg8Spuj1ipS",
+        "id": "5b3c4X3PRlqgg8Spuj1ipS",
+        "is_local": false,
+        "name": "Motivation",
+        "preview_url": "https://p.scdn.co/mp3-preview/8dfbe03251100942f0bd6a6b68b9c13452f4b79e?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5b3c4X3PRlqgg8Spuj1ipS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 190506,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wuSskadMSP8FV6NnDrmQx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wuSskadMSP8FV6NnDrmQx",
+        "id": "5wuSskadMSP8FV6NnDrmQx",
+        "is_local": false,
+        "name": "Makes No Difference - Alternate Version",
+        "preview_url": "https://p.scdn.co/mp3-preview/d73a7c17748ecdd1b7b78ba3dd712d2ae9c61efa?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5wuSskadMSP8FV6NnDrmQx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 290320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rCsqTz4TQ6lxi80nKVkKR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rCsqTz4TQ6lxi80nKVkKR",
+        "id": "3rCsqTz4TQ6lxi80nKVkKR",
+        "is_local": false,
+        "name": "With Me",
+        "preview_url": "https://p.scdn.co/mp3-preview/cccb1b1695f359205ee725ee95b7354ced598b10?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3rCsqTz4TQ6lxi80nKVkKR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZI3wTzMFVttz9ewlZsycQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ZI3wTzMFVttz9ewlZsycQ",
+        "id": "5ZI3wTzMFVttz9ewlZsycQ",
+        "is_local": false,
+        "name": "Handle This",
+        "preview_url": "https://p.scdn.co/mp3-preview/d018c6ec61c653db1fb4576d8180a188745ab8d5?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5ZI3wTzMFVttz9ewlZsycQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 149506,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mYkpygSb1IY66LuS1bdlz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7mYkpygSb1IY66LuS1bdlz",
+        "id": "7mYkpygSb1IY66LuS1bdlz",
+        "is_local": false,
+        "name": "Over My Head - Better off Dead",
+        "preview_url": "https://p.scdn.co/mp3-preview/6f5da80b9de312a86a840a8b5479e7c9add9f47b?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7mYkpygSb1IY66LuS1bdlz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 102733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dmdNT7Ixiru5M2ASH497E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dmdNT7Ixiru5M2ASH497E",
+        "id": "5dmdNT7Ixiru5M2ASH497E",
+        "is_local": false,
+        "name": "Pain for Pleasure",
+        "preview_url": "https://p.scdn.co/mp3-preview/f1c5e205ff07bee7dcf646f6f5f3424a7de2e71d?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5dmdNT7Ixiru5M2ASH497E"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197306,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SGyxsg7qI4N6XhtnWi9Zs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SGyxsg7qI4N6XhtnWi9Zs",
+        "id": "3SGyxsg7qI4N6XhtnWi9Zs",
+        "is_local": false,
+        "name": "The Hell Song - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/cda0f1cd39b8ea8b386b6e436444e10886460236?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:3SGyxsg7qI4N6XhtnWi9Zs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 202346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ll3yRnmqWO75vLCLUb0i0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ll3yRnmqWO75vLCLUb0i0",
+        "id": "4Ll3yRnmqWO75vLCLUb0i0",
+        "is_local": false,
+        "name": "Always - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/49f435077058febf5573c5fcf50b4651dc14c86e?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:4Ll3yRnmqWO75vLCLUb0i0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "EC",
+          "GY",
+          "PE",
+          "PY",
+          "SR",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TtynyAwiVTaPZHtMLEDrA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1TtynyAwiVTaPZHtMLEDrA",
+        "id": "1TtynyAwiVTaPZHtMLEDrA",
+        "is_local": false,
+        "name": "Motivation - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd136d95d6ca32eeb89783a0994abad16720b46e?cid=163aacec176245f3846095a095f56ddf",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:1TtynyAwiVTaPZHtMLEDrA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 17
+  },
+  "type": "album",
+  "uri": "spotify:album:3dzwcMz7CkC6wLcMxHoRA1"
+}

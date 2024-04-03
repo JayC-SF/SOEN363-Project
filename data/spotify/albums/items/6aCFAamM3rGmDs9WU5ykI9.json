@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+      },
+      "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+      "id": "1sBkRIssrMs1AbVkOJbc7a",
+      "name": "Rick Ross",
+      "type": "artist",
+      "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 The Island Def Jam Music Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 The Island Def Jam Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527724379"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6aCFAamM3rGmDs9WU5ykI9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6aCFAamM3rGmDs9WU5ykI9",
+  "id": "6aCFAamM3rGmDs9WU5ykI9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320a44fb37e67f23e1d292faf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0220a44fb37e67f23e1d292faf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485120a44fb37e67f23e1d292faf",
+      "width": 64
+    }
+  ],
+  "label": "Def Jam Recordings",
+  "name": "9 Piece",
+  "popularity": 35,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6aCFAamM3rGmDs9WU5ykI9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+            },
+            "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+            "id": "1sBkRIssrMs1AbVkOJbc7a",
+            "name": "Rick Ross",
+            "type": "artist",
+            "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239986,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aD178OGxT0Z1NU36g52X5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6aD178OGxT0Z1NU36g52X5",
+        "id": "6aD178OGxT0Z1NU36g52X5",
+        "is_local": false,
+        "name": "9 Piece",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6aD178OGxT0Z1NU36g52X5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6aCFAamM3rGmDs9WU5ykI9"
+}

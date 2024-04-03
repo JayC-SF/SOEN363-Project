@@ -1,0 +1,616 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+      },
+      "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+      "id": "7y97mc3bZRFXzT2szRM4L4",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "type": "artist",
+      "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+      },
+      "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+      "id": "22jDZXnu8F1BNH63ujGkT3",
+      "name": "Nelson Freire",
+      "type": "artist",
+      "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/1wUrJwooIHjUC6OE6SZm9Q",
+      "id": "1wUrJwooIHjUC6OE6SZm9Q",
+      "name": "G\u00fcrzenich Orchester K\u00f6ln",
+      "type": "artist",
+      "uri": "spotify:artist:1wUrJwooIHjUC6OE6SZm9Q"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+      },
+      "href": "https://api.spotify.com/v1/artists/78tOC3otzyHJOy6wO6j6hB",
+      "id": "78tOC3otzyHJOy6wO6j6hB",
+      "name": "Lionel Bringuier",
+      "type": "artist",
+      "uri": "spotify:artist:78tOC3otzyHJOy6wO6j6hB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "JP",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Decca Music Group Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Decca Music Group Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00028947862789"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0NhBxrihXlNzRCHpr748QR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0NhBxrihXlNzRCHpr748QR",
+  "id": "0NhBxrihXlNzRCHpr748QR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273414aa00f53ae7561c971171c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02414aa00f53ae7561c971171c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851414aa00f53ae7561c971171c",
+      "width": 64
+    }
+  ],
+  "label": "Decca Music Group Ltd.",
+  "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
+  "popularity": 20,
+  "release_date": "2015-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0NhBxrihXlNzRCHpr748QR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 298804,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2z6UNSFdWkE0PikpiVUJCl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2z6UNSFdWkE0PikpiVUJCl",
+        "id": "2z6UNSFdWkE0PikpiVUJCl",
+        "is_local": false,
+        "name": "Impromptu No. 3 in G Flat Major, Op. 51",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2z6UNSFdWkE0PikpiVUJCl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 623546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36eaNZiwsfgkFyWgorrr9C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36eaNZiwsfgkFyWgorrr9C",
+        "id": "36eaNZiwsfgkFyWgorrr9C",
+        "is_local": false,
+        "name": "Ballade No. 4 in F Minor, Op. 52",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:36eaNZiwsfgkFyWgorrr9C"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 248613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05Bpq895B93tdf1sXStxbY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/05Bpq895B93tdf1sXStxbY",
+        "id": "05Bpq895B93tdf1sXStxbY",
+        "is_local": false,
+        "name": "Berceuse in D Flat Major, Op. 57",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:05Bpq895B93tdf1sXStxbY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 132157,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZQbHUqtZHo1KLq38zaxFU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZQbHUqtZHo1KLq38zaxFU",
+        "id": "4ZQbHUqtZHo1KLq38zaxFU",
+        "is_local": false,
+        "name": "3 Mazurkas, op.50: No. 1 in G Major",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4ZQbHUqtZHo1KLq38zaxFU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 165789,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ea6J6Ct5wmCFJAxd0Ibbb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ea6J6Ct5wmCFJAxd0Ibbb",
+        "id": "4ea6J6Ct5wmCFJAxd0Ibbb",
+        "is_local": false,
+        "name": "3 Mazurkas, op.50: No. 2 in A Flat Major",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4ea6J6Ct5wmCFJAxd0Ibbb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 277049,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65ZZNnXWEqMElii2GYTy79"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65ZZNnXWEqMElii2GYTy79",
+        "id": "65ZZNnXWEqMElii2GYTy79",
+        "is_local": false,
+        "name": "3 Mazurkas, op.50: No. 3 in C Sharp Minor",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:65ZZNnXWEqMElii2GYTy79"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 408476,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Q9s2G8WXX5t0jZAiliTWs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Q9s2G8WXX5t0jZAiliTWs",
+        "id": "2Q9s2G8WXX5t0jZAiliTWs",
+        "is_local": false,
+        "name": "Polonaise In A Flat Major, Op. 53",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2Q9s2G8WXX5t0jZAiliTWs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wUrJwooIHjUC6OE6SZm9Q",
+            "id": "1wUrJwooIHjUC6OE6SZm9Q",
+            "name": "G\u00fcrzenich Orchester K\u00f6ln",
+            "type": "artist",
+            "uri": "spotify:artist:1wUrJwooIHjUC6OE6SZm9Q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+            },
+            "href": "https://api.spotify.com/v1/artists/78tOC3otzyHJOy6wO6j6hB",
+            "id": "78tOC3otzyHJOy6wO6j6hB",
+            "name": "Lionel Bringuier",
+            "type": "artist",
+            "uri": "spotify:artist:78tOC3otzyHJOy6wO6j6hB"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 802769,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jcIXveJC1YEWw6kyHMR6j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jcIXveJC1YEWw6kyHMR6j",
+        "id": "6jcIXveJC1YEWw6kyHMR6j",
+        "is_local": false,
+        "name": "Piano Concerto No. 2 in F Minor, Op. 21: 1. Maestoso",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6jcIXveJC1YEWw6kyHMR6j"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wUrJwooIHjUC6OE6SZm9Q",
+            "id": "1wUrJwooIHjUC6OE6SZm9Q",
+            "name": "G\u00fcrzenich Orchester K\u00f6ln",
+            "type": "artist",
+            "uri": "spotify:artist:1wUrJwooIHjUC6OE6SZm9Q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+            },
+            "href": "https://api.spotify.com/v1/artists/78tOC3otzyHJOy6wO6j6hB",
+            "id": "78tOC3otzyHJOy6wO6j6hB",
+            "name": "Lionel Bringuier",
+            "type": "artist",
+            "uri": "spotify:artist:78tOC3otzyHJOy6wO6j6hB"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 495849,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1G8j4QoiwYUaWdqK8bJpVP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1G8j4QoiwYUaWdqK8bJpVP",
+        "id": "1G8j4QoiwYUaWdqK8bJpVP",
+        "is_local": false,
+        "name": "Piano Concerto No. 2 in F Minor, Op. 21: 2. Larghetto",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1G8j4QoiwYUaWdqK8bJpVP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+            "id": "7y97mc3bZRFXzT2szRM4L4",
+            "name": "Fr\u00e9d\u00e9ric Chopin",
+            "type": "artist",
+            "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jDZXnu8F1BNH63ujGkT3",
+            "id": "22jDZXnu8F1BNH63ujGkT3",
+            "name": "Nelson Freire",
+            "type": "artist",
+            "uri": "spotify:artist:22jDZXnu8F1BNH63ujGkT3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wUrJwooIHjUC6OE6SZm9Q",
+            "id": "1wUrJwooIHjUC6OE6SZm9Q",
+            "name": "G\u00fcrzenich Orchester K\u00f6ln",
+            "type": "artist",
+            "uri": "spotify:artist:1wUrJwooIHjUC6OE6SZm9Q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+            },
+            "href": "https://api.spotify.com/v1/artists/78tOC3otzyHJOy6wO6j6hB",
+            "id": "78tOC3otzyHJOy6wO6j6hB",
+            "name": "Lionel Bringuier",
+            "type": "artist",
+            "uri": "spotify:artist:78tOC3otzyHJOy6wO6j6hB"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "JP",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 488335,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4otxVPjMXZ5Z28U1BGlMND"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4otxVPjMXZ5Z28U1BGlMND",
+        "id": "4otxVPjMXZ5Z28U1BGlMND",
+        "is_local": false,
+        "name": "Piano Concerto No. 2 in F Minor, Op. 21: 3. Allegro vivace",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4otxVPjMXZ5Z28U1BGlMND"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:0NhBxrihXlNzRCHpr748QR"
+}
