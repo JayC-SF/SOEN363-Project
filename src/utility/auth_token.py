@@ -5,6 +5,7 @@ from utility.utility import is_success_code
 import json
 import os
 from os.path import abspath, join
+import base64
 
 from utility.variables import SPOTIFY_AUTH_URL, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, TEMP_PATH
 
@@ -25,7 +26,7 @@ class AuthToken:
             self.loadToken()
         else:
             self.access_token: str = ""
-            self.token_type: str = ""
+            self.token_type: str = "Bearer"
             # expiration date should always start as expired
             self.expires_in = datetime.fromtimestamp(0)
 
@@ -65,7 +66,14 @@ class AuthToken:
 
     def get_new_token(self):
         # setup authentication headers, send as x-www-form-urlencoded type of data
-        headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+        # client_id_secret = f"{self.client_id}:{self.client_secret}".encode("utf-8")
+        # print(client_id_secret)
+        # client_id_secret = base64.b64encode(client_id_secret).decode("utf-8")
+        # print(f"!!{client_id_secret}!!")
+        headers = {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            # 'Authorization': self.token_type+" "+client_id_secret
+        }
         # setup request body
         body = {
             'grant_type': 'client_credentials',
