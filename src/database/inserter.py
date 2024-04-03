@@ -9,6 +9,7 @@ import pandas as pd
 
 from spotify.models.album_model import AlbumModel
 from spotify.models.artist_model import ArtistModel
+from spotify.models.audiobook_model import AudiobookModel
 from spotify.models.chapter_model import ChapterModel
 from spotify.models.playlist_model import PlaylistModel
 from spotify.models.track_model import TrackModel
@@ -43,9 +44,7 @@ class DatabaseInserter:
             case 'tracks':
                 self.__insert_tracks()
             case 'audiobooks':
-                pass
-            case 'markets':
-                pass
+                self.__insert_audiobooks()
             case 'authors':
                 pass
             case 'aliases':
@@ -406,3 +405,78 @@ class DatabaseInserter:
         end_time = time.time()
         print(f"Finished inserting tracks. Total tracks in database: {row_count}")
         print(f"Finished inserting tracks in {end_time - start_time} seconds")
+
+    def __insert_audiobooks(self):
+        parser = SpotifyParser('audiobooks', AudiobookModel)
+        audiobooks: List[AudiobookModel] = parser.parse_all()
+        queue = Queue()
+
+        for audiobook in audiobooks:
+            queue.put(audiobook)
+
+        def worker():
+            db = mysql.connector.connect(
+                host=DATABASE_HOST,
+                user=DATABASE_USER,
+                password=DATABASE_PASSWORD,
+                database=DATABASE_NAME
+            )
+            cursor = db.cursor()
+
+            while not queue.empty():
+                audiobook: AudiobookModel = queue.get()
+                try:
+                    check_query = "SELECT EXISTS(SELECT 1 FROM Audio WHERE spotify_id = %s)"
+                    cursor.execute(check_query, (audiobook.spotify_id,))
+                    exists = cursor.fetchone()[0]
+                    if not exists:
+                        insert_query = """
+                                          INSERT INTO Audio (spotify_id, audio_name, uri, href, external_url, explicit)
+                                          VALUES (%s, %s, %s, %s, %s, %s)
+                                        """
+                        audiobook_data = (
+                            audiobook.spotify_id, audiobook.audio_name, audiobook.uri, audiobook.href,
+                            audiobook.external_url, audiobook.explicit
+                        )
+                        cursor.execute(insert_query, audiobook_data)
+                        db.commit()
+
+                        audio_id = cursor.lastrowid
+
+                        insert_query = """
+                                          INSERT INTO Audiobook (audiobook_id, description, edition, publisher, total_chapters, media_type)
+                                          VALUES (%s, %s, %s, %s, %s, %s)
+                                        """
+                        audiobook_data = (
+                            audio_id, audiobook.description, audiobook.edition, audiobook.publisher,
+                            audiobook.total_chapters, audiobook.media_type
+                        )
+                        cursor.execute(insert_query, audiobook_data)
+                        db.commit()
+                    #     print(f"Inserted audiobook data for {audiobook.spotify_id}")
+                    # else:
+                    #     print(f"Row already exists for {audiobook.spotify_id}, skipping.")
+                finally:
+                    queue.task_done()
+
+        start_time = time.time()
+
+        threads = []
+        for i in range(5):
+            thread = threading.Thread(target=worker)
+            thread.start()
+            threads.append(thread)
+
+        queue.join()
+
+        for thread in threads:
+            thread.join()
+
+        count_query = "SELECT COUNT(*) FROM Audiobook"
+        cursor = self.__db.cursor()
+        cursor.execute(count_query)
+        row_count = cursor.fetchone()[0]
+
+        end_time = time.time()
+        print(f"Finished inserting audiobooks. Total audiobooks in database: {row_count}")
+        print(f"Finished inserting audiobooks in {end_time - start_time} seconds")
