@@ -12,8 +12,9 @@ import json
 from pathlib import Path
 import random
 import time
+import random
 
-from utility.variables import DATA_PATH, SLEEP_TIMER, SPOTIFY_API_URL
+from utility.variables import DATA_PATH, SLEEP_TIMER_AVG, SPOTIFY_API_URL
 
 # sample curl request of a playlist
 """
@@ -82,7 +83,8 @@ class SpotifyScraper:
             # if we exceed time limit, re scrape after time sleep
             res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, id)
 
-            timer = SLEEP_TIMER
+            # gives a random time to sleep between 0 and SLEEP_TIMER_AVG
+            timer = random.random()*SLEEP_TIMER_AVG*2
 
             # check if we still have a success code
             if not is_success_code(res.status_code):
@@ -143,7 +145,7 @@ class SpotifyScraper:
 
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
 
-            timer = SLEEP_TIMER
+            timer = random.random()*SLEEP_TIMER_AVG*2
             # send request without batch, by sending a request 1 by 1
             if not is_success_code(res.status_code):
                 print(f"Status error code {res.status_code} while fetching:\n{str(res.content)}")
@@ -155,12 +157,12 @@ class SpotifyScraper:
 
                     print(f"Running timer of {timer} seconds ...")
                     time.sleep(timer)
-                    
+
                     res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, batch_id)
-                    
-                    # Set the actual timer of 1 seconds
-                    timer = SLEEP_TIMER
-                    
+
+                    # Set the timer for the next round
+                    timer = random.random()*SLEEP_TIMER_AVG*2
+
                     if not is_success_code(res.status_code):
                         print(f"Status error code while fetching {batch_id}: {res.status_code}\n{res.json()}")
                         continue
@@ -216,7 +218,7 @@ class SpotifyScraper:
         print("PRINTING LIST OF PLAYLIST IDS:")
 
         # Spotify API endpoint
-        #URL = "https://api.spotify.com/v1/browse/featured-playlists?offset=99&limit=50"
+        # URL = "https://api.spotify.com/v1/browse/featured-playlists?offset=99&limit=50"
         URL = "https://api.spotify.com/v1/browse/categories/blues/playlists?offset=50&limit=50"
         playlist_list = []
         headers = {

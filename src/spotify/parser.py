@@ -61,7 +61,7 @@ class SpotifyParser:
             self.__mapping = json.load(f)
             self.__mapper = JsonToObjectMapper(self.__mapping)
 
-    def parse_all(self, middleware=None):
+    def parse_all(self, middleware=None, exlude_files=[]):
         """
         Parses all JSON files in the `self.__items_folder_path` directory, converting each into
         an instance of `self.__cls`. An optional middleware function can be provided to modify

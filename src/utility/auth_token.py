@@ -10,7 +10,7 @@ from utility.variables import SPOTIFY_AUTH_URL, SPOTIFY_CLIENT_ID, SPOTIFY_CLIEN
 
 
 class AuthToken:
-    seconds_bias = 3
+    seconds_bias = 4
 
     def __init__(self, auth_url: str, client_id: str, client_secret: str, local_storage_path: str):
         """
@@ -43,15 +43,27 @@ class AuthToken:
         # add bias of 3 seconds for expiration
         return self.expires_in < datetime.now() + timedelta(seconds=AuthToken.seconds_bias)
 
+    def needs_renewal(self) -> bool:
+        # if we're in between the time bias, return true
+        return self.expires_in - timedelta(seconds=AuthToken.seconds_bias) <= datetime.now() < self.expires_in
+
     def refresh_token(self):
         """
         This function refreshes a token if it is about to expire.
         It sends a request to the authenticating server api and resets all attributes
         corresponding to the new token retrieved.
         """
-        # no need to refresh token if expired.
-        if not self.is_expired():
-            return
+        # if no need for renewal and and token is not expired.
+        # if self.needs_renewal():
+        #     self.renew_token()
+        #     # store the token to be reused if not expired
+        #     self.storeTokenToFile()
+        if self.is_expired():
+            self.get_new_token()
+            # store the token to be reused if not expired
+            self.storeTokenToFile()
+
+    def get_new_token(self):
         # setup authentication headers, send as x-www-form-urlencoded type of data
         headers = {'Content-Type': 'application/x-www-form-urlencoded'}
         # setup request body
@@ -72,8 +84,26 @@ class AuthToken:
         # set the time of expiration to be now + seconds until expiration
         self.expires_in = datetime.now() + timedelta(seconds=json_res['expires_in'])
 
-        # store the token to be reused if not expired
-        self.storeTokenToFile()
+    def renew_token(self):
+        # setup authentication headers, send as x-www-form-urlencoded type of data
+        headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+        # setup request body
+        body = {
+            'grant_type': 'refresh_token',
+            'refresh_token': self.access_token,
+        }
+        # send post request
+        res = requests.post(self.auth_url, headers=headers, data=body)
+        # make sure to have a 200 status code
+        if not is_success_code(res.status_code):
+            raise Exception(f"Unable to retrieve access token. {res.status_code}\n{res.json()}")
+        # convert response to json and update attributes
+        json_res = res.json()
+        self.access_token = json_res['access_token']
+        self.token_type = json_res['token_type']
+        # set the time of expiration to be now + seconds until expiration
+        self.expires_in = datetime.now() + timedelta(seconds=json_res['expires_in'])
+        pass
 
     def loadToken(self):
         with open(self.local_storage_path, "r") as f:
