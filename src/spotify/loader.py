@@ -15,6 +15,7 @@ def load_info_from_playlists():
     _, albums_csv, _, _ = setup_spotify_folders('albums')
     _, artists_csv, _, _ = setup_spotify_folders('artists')
     playlists_df = pd.read_csv(playlists_csv)
+    playlists_df = playlists_df[playlists_df['CACHED'] == True]
     tracks_df = pd.read_csv(tracks_csv)
     tracks_size = len(tracks_df)
     albums_df = pd.read_csv(albums_csv)
@@ -58,7 +59,7 @@ def load_info_from_playlist(playlist_id, playlist_items_folder):
     # find all the tracks
     tracks = playlist_json['tracks']['items']
     for track in tracks:
-        
+
         track = track['track']
         if track is None:
             continue
