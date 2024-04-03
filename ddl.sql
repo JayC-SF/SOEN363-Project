@@ -29,25 +29,24 @@ DROP TABLE IF EXISTS Chapters;
 
 CREATE TABLE Audio
 (
-    audio_id    INT AUTO_INCREMENT,
-    spotify_id  VARCHAR(200),
-    audio_name  VARCHAR(100) NOT NULL,
-    uri         VARCHAR(200),
-    href        VARCHAR(200),
+    audio_id     INT AUTO_INCREMENT,
+    spotify_id   VARCHAR(200),
+    audio_name   VARCHAR(200) NOT NULL,
+    uri          VARCHAR(200),
+    href         VARCHAR(200),
     external_url VARCHAR(200),
-    explicit    BIT,
+    explicit     BOOLEAN,
     PRIMARY KEY (audio_id)
 );
 
 CREATE TABLE Track
 (
-    track_id     INT AUTO_INCREMENT,
-    popularity   INT,
-    type         VARCHAR(100),
-    duration_ms  INT,
-    is_playable  BIT,
-    preview_url  VARCHAR(200),
-    disc_number  INT,
+    track_id    INT AUTO_INCREMENT,
+    popularity  INT,
+    type        VARCHAR(100),
+    duration_ms INT,
+    preview_url VARCHAR(200),
+    disc_number INT,
     PRIMARY KEY (track_id),
     FOREIGN KEY (track_id) REFERENCES Audio (audio_id) ON DELETE CASCADE
 );
@@ -81,12 +80,12 @@ CREATE TABLE Artist
 CREATE TABLE Playlist
 (
     playlist_id   INT AUTO_INCREMENT,
-    spotify_id   VARCHAR(200),
+    spotify_id    VARCHAR(200),
     playlist_name VARCHAR(200) NOT NULL,
     description   TEXT,
     nb_followers  INT,
-    collaborative BIT,
-    snapshot_id   INT,
+    collaborative BOOLEAN,
+    snapshot_id   VARCHAR(200),
     uri           VARCHAR(200),
     href          VARCHAR(200),
     external_url  VARCHAR(200),
@@ -235,8 +234,8 @@ CREATE TABLE Audiobooks_Chapters
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook (audiobook_id) ON DELETE CASCADE
 );
 
-SELECT table_schema "database name",
-    sum( data_length + index_length ) / 1024 / 1024 "database size in MB",
-    sum( data_free )/ 1024 / 1024 "free space in MB"
+SELECT table_schema                                  "database name",
+       sum(data_length + index_length) / 1024 / 1024 "database size in MB",
+       sum(data_free) / 1024 / 1024                  "free space in MB"
 FROM information_schema.TABLES
 GROUP BY table_schema; 
