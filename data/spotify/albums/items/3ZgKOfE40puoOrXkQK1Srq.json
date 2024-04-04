@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+      },
+      "href": "https://api.spotify.com/v1/artists/7MPnGqTzCsarDScihWka1x",
+      "id": "7MPnGqTzCsarDScihWka1x",
+      "name": "3MFrench",
+      "type": "artist",
+      "uri": "spotify:artist:7MPnGqTzCsarDScihWka1x"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Money Makin Malis / More Real",
+      "type": "C"
+    },
+    {
+      "text": "2018 Money Makin Malis / More Real",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859727626860"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ZgKOfE40puoOrXkQK1Srq",
+  "id": "3ZgKOfE40puoOrXkQK1Srq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273050e201dc034501e470148a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02050e201dc034501e470148a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851050e201dc034501e470148a0",
+      "width": 64
+    }
+  ],
+  "label": "Money Makin Malis / More Real",
+  "name": "Examples",
+  "popularity": 0,
+  "release_date": "2018-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ZgKOfE40puoOrXkQK1Srq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MPnGqTzCsarDScihWka1x",
+            "id": "7MPnGqTzCsarDScihWka1x",
+            "name": "3MFrench",
+            "type": "artist",
+            "uri": "spotify:artist:7MPnGqTzCsarDScihWka1x"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN"
+            },
+            "href": "https://api.spotify.com/v1/artists/6rSB5wNriTJ9FOXwhkCNgN",
+            "id": "6rSB5wNriTJ9FOXwhkCNgN",
+            "name": "T-jin",
+            "type": "artist",
+            "uri": "spotify:artist:6rSB5wNriTJ9FOXwhkCNgN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
+        },
+        "href": "https://api.spotify.com/v1/tracks/44p4I5E6fECcUdbX53K8Ze",
+        "id": "44p4I5E6fECcUdbX53K8Ze",
+        "is_local": false,
+        "name": "Examples",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:44p4I5E6fECcUdbX53K8Ze"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3ZgKOfE40puoOrXkQK1Srq"
+}

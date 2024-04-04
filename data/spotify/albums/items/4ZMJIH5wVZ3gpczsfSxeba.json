@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34gla4F7Etd4x32Nf19Ivt"
+      },
+      "href": "https://api.spotify.com/v1/artists/34gla4F7Etd4x32Nf19Ivt",
+      "id": "34gla4F7Etd4x32Nf19Ivt",
+      "name": "Ram",
+      "type": "artist",
+      "uri": "spotify:artist:34gla4F7Etd4x32Nf19Ivt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Ram",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ram",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3701624093313"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZMJIH5wVZ3gpczsfSxeba"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZMJIH5wVZ3gpczsfSxeba",
+  "id": "4ZMJIH5wVZ3gpczsfSxeba",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d23f9fc5b989e608a44c677",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d23f9fc5b989e608a44c677",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d23f9fc5b989e608a44c677",
+      "width": 64
+    }
+  ],
+  "label": "Ram",
+  "name": "Sunflower x Sunflower (Remix)",
+  "popularity": 29,
+  "release_date": "2023-10-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZMJIH5wVZ3gpczsfSxeba/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/34gla4F7Etd4x32Nf19Ivt"
+            },
+            "href": "https://api.spotify.com/v1/artists/34gla4F7Etd4x32Nf19Ivt",
+            "id": "34gla4F7Etd4x32Nf19Ivt",
+            "name": "Ram",
+            "type": "artist",
+            "uri": "spotify:artist:34gla4F7Etd4x32Nf19Ivt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200045,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Yc9b7zXvZ1MbE3PwnHkrI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Yc9b7zXvZ1MbE3PwnHkrI",
+        "id": "4Yc9b7zXvZ1MbE3PwnHkrI",
+        "is_local": false,
+        "name": "Sunflower x Sunflower - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Yc9b7zXvZ1MbE3PwnHkrI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZMJIH5wVZ3gpczsfSxeba"
+}

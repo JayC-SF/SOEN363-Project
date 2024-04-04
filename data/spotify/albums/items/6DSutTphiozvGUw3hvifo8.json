@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TXQ1ddouwQAI78hV4hXDj",
+      "id": "3TXQ1ddouwQAI78hV4hXDj",
+      "name": "Maceo Plex",
+      "type": "artist",
+      "uri": "spotify:artist:3TXQ1ddouwQAI78hV4hXDj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Drumcode",
+      "type": "C"
+    },
+    {
+      "text": "2014 Drumcode",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060191674928"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6DSutTphiozvGUw3hvifo8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6DSutTphiozvGUw3hvifo8",
+  "id": "6DSutTphiozvGUw3hvifo8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738101058db1e613be75bd4efd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028101058db1e613be75bd4efd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518101058db1e613be75bd4efd",
+      "width": 64
+    }
+  ],
+  "label": "Drumcode",
+  "name": "Conjure Infinity",
+  "popularity": 0,
+  "release_date": "2014-12-29",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6DSutTphiozvGUw3hvifo8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TXQ1ddouwQAI78hV4hXDj",
+            "id": "3TXQ1ddouwQAI78hV4hXDj",
+            "name": "Maceo Plex",
+            "type": "artist",
+            "uri": "spotify:artist:3TXQ1ddouwQAI78hV4hXDj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 441090,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TcpM1p0xHy1smBjxEF73s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TcpM1p0xHy1smBjxEF73s",
+        "id": "6TcpM1p0xHy1smBjxEF73s",
+        "is_local": false,
+        "name": "Conjure Dreams",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6TcpM1p0xHy1smBjxEF73s"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TXQ1ddouwQAI78hV4hXDj",
+            "id": "3TXQ1ddouwQAI78hV4hXDj",
+            "name": "Maceo Plex",
+            "type": "artist",
+            "uri": "spotify:artist:3TXQ1ddouwQAI78hV4hXDj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 373324,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KNTJ5NUuVY8cEufqBSkRV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KNTJ5NUuVY8cEufqBSkRV",
+        "id": "5KNTJ5NUuVY8cEufqBSkRV",
+        "is_local": false,
+        "name": "Conjure Floyd",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5KNTJ5NUuVY8cEufqBSkRV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6DSutTphiozvGUw3hvifo8"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN"
+      },
+      "href": "https://api.spotify.com/v1/artists/6H3niqx3EU1Cg14nMe0PhN",
+      "id": "6H3niqx3EU1Cg14nMe0PhN",
+      "name": "AYA A.K.A PANDA",
+      "type": "artist",
+      "uri": "spotify:artist:6H3niqx3EU1Cg14nMe0PhN"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2019 BTB ENT",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 BTB ENT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859754705224"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/79RhwEpX4rzlB2gXwxEZUi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/79RhwEpX4rzlB2gXwxEZUi",
+  "id": "79RhwEpX4rzlB2gXwxEZUi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ecf99abcf5dacd664c532203",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ecf99abcf5dacd664c532203",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ecf99abcf5dacd664c532203",
+      "width": 64
+    }
+  ],
+  "label": "BTB ENT",
+  "name": "Show Me Love",
+  "popularity": 39,
+  "release_date": "2019-02-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/79RhwEpX4rzlB2gXwxEZUi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN"
+            },
+            "href": "https://api.spotify.com/v1/artists/6H3niqx3EU1Cg14nMe0PhN",
+            "id": "6H3niqx3EU1Cg14nMe0PhN",
+            "name": "AYA A.K.A PANDA",
+            "type": "artist",
+            "uri": "spotify:artist:6H3niqx3EU1Cg14nMe0PhN"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219848,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VMxgM0R4HZCmOAnr7w3dh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VMxgM0R4HZCmOAnr7w3dh",
+        "id": "6VMxgM0R4HZCmOAnr7w3dh",
+        "is_local": false,
+        "name": "Show Me Love",
+        "preview_url": "https://p.scdn.co/mp3-preview/23d2c87202ea875d1532167e28e516cd2f1f6166?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VMxgM0R4HZCmOAnr7w3dh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:79RhwEpX4rzlB2gXwxEZUi"
+}

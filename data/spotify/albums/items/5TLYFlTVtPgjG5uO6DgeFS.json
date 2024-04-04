@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5S99ZV4z8f1cQpoqm22ZB9"
+      },
+      "href": "https://api.spotify.com/v1/artists/5S99ZV4z8f1cQpoqm22ZB9",
+      "id": "5S99ZV4z8f1cQpoqm22ZB9",
+      "name": "Deya Dova",
+      "type": "artist",
+      "uri": "spotify:artist:5S99ZV4z8f1cQpoqm22ZB9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Deya Dova",
+      "type": "C"
+    },
+    {
+      "text": "2020 Deya Dova",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194660875952"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5TLYFlTVtPgjG5uO6DgeFS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5TLYFlTVtPgjG5uO6DgeFS",
+  "id": "5TLYFlTVtPgjG5uO6DgeFS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735b14d0ed080d8c1e507d8e59",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025b14d0ed080d8c1e507d8e59",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515b14d0ed080d8c1e507d8e59",
+      "width": 64
+    }
+  ],
+  "label": "Reflekta Records",
+  "name": "Koyangwuti",
+  "popularity": 0,
+  "release_date": "2020-03-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5TLYFlTVtPgjG5uO6DgeFS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5S99ZV4z8f1cQpoqm22ZB9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5S99ZV4z8f1cQpoqm22ZB9",
+            "id": "5S99ZV4z8f1cQpoqm22ZB9",
+            "name": "Deya Dova",
+            "type": "artist",
+            "uri": "spotify:artist:5S99ZV4z8f1cQpoqm22ZB9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257194,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dS1hXfD3IjIHu20LlLRRd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dS1hXfD3IjIHu20LlLRRd",
+        "id": "0dS1hXfD3IjIHu20LlLRRd",
+        "is_local": false,
+        "name": "Koyangwuti",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0dS1hXfD3IjIHu20LlLRRd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5TLYFlTVtPgjG5uO6DgeFS"
+}

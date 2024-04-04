@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+      },
+      "href": "https://api.spotify.com/v1/artists/7C3Cbtr2PkH2l4tOGhtCsk",
+      "id": "7C3Cbtr2PkH2l4tOGhtCsk",
+      "name": "Shallou",
+      "type": "artist",
+      "uri": "spotify:artist:7C3Cbtr2PkH2l4tOGhtCsk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VBF82bIhEpKowEnCNB8Cu",
+      "id": "1VBF82bIhEpKowEnCNB8Cu",
+      "name": "Colin",
+      "type": "artist",
+      "uri": "spotify:artist:1VBF82bIhEpKowEnCNB8Cu"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2018 Sleeptalker LLC, under exclusive license to All Points for the world excluding the US",
+      "type": "C"
+    },
+    {
+      "text": "2018 Sleeptalker LLC, under exclusive license to All Points for the world excluding the US",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615935050524"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0096bb3fdM9UYypFNc24y9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0096bb3fdM9UYypFNc24y9",
+  "id": "0096bb3fdM9UYypFNc24y9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb503855923d5a6abb847068",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb503855923d5a6abb847068",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb503855923d5a6abb847068",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "count on",
+  "popularity": 35,
+  "release_date": "2018-11-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0096bb3fdM9UYypFNc24y9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+            },
+            "href": "https://api.spotify.com/v1/artists/7C3Cbtr2PkH2l4tOGhtCsk",
+            "id": "7C3Cbtr2PkH2l4tOGhtCsk",
+            "name": "Shallou",
+            "type": "artist",
+            "uri": "spotify:artist:7C3Cbtr2PkH2l4tOGhtCsk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBF82bIhEpKowEnCNB8Cu",
+            "id": "1VBF82bIhEpKowEnCNB8Cu",
+            "name": "Colin",
+            "type": "artist",
+            "uri": "spotify:artist:1VBF82bIhEpKowEnCNB8Cu"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206994,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48o9xqLcWr5sPqNAJF9ft1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48o9xqLcWr5sPqNAJF9ft1",
+        "id": "48o9xqLcWr5sPqNAJF9ft1",
+        "is_local": false,
+        "name": "count on",
+        "preview_url": "https://p.scdn.co/mp3-preview/40957e3a42c7c2a0b47691ff1c2f993eee061b8d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:48o9xqLcWr5sPqNAJF9ft1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0096bb3fdM9UYypFNc24y9"
+}

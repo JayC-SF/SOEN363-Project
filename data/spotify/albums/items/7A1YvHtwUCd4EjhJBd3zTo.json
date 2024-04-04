@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6f9bmfkqiYbhCtdAZsv7KI",
+      "id": "6f9bmfkqiYbhCtdAZsv7KI",
+      "name": "Keith Ape",
+      "type": "artist",
+      "uri": "spotify:artist:6f9bmfkqiYbhCtdAZsv7KI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
+      "id": "2rhFzFmezpnW82MNqEKVry",
+      "name": "Ski Mask The Slump God",
+      "type": "artist",
+      "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 88rising Music",
+      "type": "C"
+    },
+    {
+      "text": "2017 88rising Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888915463246"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7A1YvHtwUCd4EjhJBd3zTo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7A1YvHtwUCd4EjhJBd3zTo",
+  "id": "7A1YvHtwUCd4EjhJBd3zTo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385f8880d439f903de0e74761",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285f8880d439f903de0e74761",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185f8880d439f903de0e74761",
+      "width": 64
+    }
+  ],
+  "label": "88rising Music",
+  "name": "Achoo",
+  "popularity": 0,
+  "release_date": "2017-10-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7A1YvHtwUCd4EjhJBd3zTo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+            },
+            "href": "https://api.spotify.com/v1/artists/6f9bmfkqiYbhCtdAZsv7KI",
+            "id": "6f9bmfkqiYbhCtdAZsv7KI",
+            "name": "Keith Ape",
+            "type": "artist",
+            "uri": "spotify:artist:6f9bmfkqiYbhCtdAZsv7KI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
+            "id": "2rhFzFmezpnW82MNqEKVry",
+            "name": "Ski Mask The Slump God",
+            "type": "artist",
+            "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2huH9q26JmfR0BzV4xKzny"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2huH9q26JmfR0BzV4xKzny",
+        "id": "2huH9q26JmfR0BzV4xKzny",
+        "is_local": false,
+        "name": "Achoo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2huH9q26JmfR0BzV4xKzny"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7A1YvHtwUCd4EjhJBd3zTo"
+}

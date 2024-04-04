@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "name": "Peso Pluma",
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+      },
+      "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+      "id": "0pePYDrJGk8gqMRbXrLJC8",
+      "name": "Luis R Conriquez",
+      "type": "artist",
+      "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Prajin Records / Kartel Music / Worms Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 Prajin Records / Kartel Music / Worms Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196925432528"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/23UaQnh22hlEWcbGMJidJm",
+  "id": "23UaQnh22hlEWcbGMJidJm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d88cb2f0ca84f7431c6c2bf8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d88cb2f0ca84f7431c6c2bf8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d88cb2f0ca84f7431c6c2bf8",
+      "width": 64
+    }
+  ],
+  "label": "Prajin Records",
+  "name": "Siempre Pendientes",
+  "popularity": 1,
+  "release_date": "2022-08-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/23UaQnh22hlEWcbGMJidJm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+            "id": "12GqGscKJx3aE4t07u7eVZ",
+            "name": "Peso Pluma",
+            "type": "artist",
+            "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+            "id": "0pePYDrJGk8gqMRbXrLJC8",
+            "name": "Luis R Conriquez",
+            "type": "artist",
+            "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186828,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PfFHceiEv61KldMOuVrv8",
+        "id": "5PfFHceiEv61KldMOuVrv8",
+        "is_local": false,
+        "name": "Siempre Pendientes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5PfFHceiEv61KldMOuVrv8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:23UaQnh22hlEWcbGMJidJm"
+}

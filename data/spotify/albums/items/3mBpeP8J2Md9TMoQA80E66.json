@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2GxtJ68i7qn7PQSTgmKWzF"
+      },
+      "href": "https://api.spotify.com/v1/artists/2GxtJ68i7qn7PQSTgmKWzF",
+      "id": "2GxtJ68i7qn7PQSTgmKWzF",
+      "name": "Polsas",
+      "type": "artist",
+      "uri": "spotify:artist:2GxtJ68i7qn7PQSTgmKWzF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Polsas",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840405766589"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mBpeP8J2Md9TMoQA80E66"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mBpeP8J2Md9TMoQA80E66",
+  "id": "3mBpeP8J2Md9TMoQA80E66",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6cfed3d4412ddf5af2d24ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6cfed3d4412ddf5af2d24ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6cfed3d4412ddf5af2d24ed",
+      "width": 64
+    }
+  ],
+  "label": "Polsas",
+  "name": "Maneater",
+  "popularity": 3,
+  "release_date": "2023-10-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mBpeP8J2Md9TMoQA80E66/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GxtJ68i7qn7PQSTgmKWzF"
+            },
+            "href": "https://api.spotify.com/v1/artists/2GxtJ68i7qn7PQSTgmKWzF",
+            "id": "2GxtJ68i7qn7PQSTgmKWzF",
+            "name": "Polsas",
+            "type": "artist",
+            "uri": "spotify:artist:2GxtJ68i7qn7PQSTgmKWzF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145651,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47GAJQXysdEk6Zf0gAIb4E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47GAJQXysdEk6Zf0gAIb4E",
+        "id": "47GAJQXysdEk6Zf0gAIb4E",
+        "is_local": false,
+        "name": "Maneater",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:47GAJQXysdEk6Zf0gAIb4E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mBpeP8J2Md9TMoQA80E66"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx"
+      },
+      "href": "https://api.spotify.com/v1/artists/3SjhqYt7O9ANKZgMNnbcfx",
+      "id": "3SjhqYt7O9ANKZgMNnbcfx",
+      "name": "Jonjthan",
+      "type": "artist",
+      "uri": "spotify:artist:3SjhqYt7O9ANKZgMNnbcfx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Versinal Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Versinal Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "853515869101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eHKqYOdvgTD6X5vgstHoW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5eHKqYOdvgTD6X5vgstHoW",
+  "id": "5eHKqYOdvgTD6X5vgstHoW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27399f115d79e85b21c9533899e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0299f115d79e85b21c9533899e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485199f115d79e85b21c9533899e",
+      "width": 64
+    }
+  ],
+  "label": "LABEL EATER",
+  "name": "idyll",
+  "popularity": 28,
+  "release_date": "2023-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5eHKqYOdvgTD6X5vgstHoW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SjhqYt7O9ANKZgMNnbcfx",
+            "id": "3SjhqYt7O9ANKZgMNnbcfx",
+            "name": "Jonjthan",
+            "type": "artist",
+            "uri": "spotify:artist:3SjhqYt7O9ANKZgMNnbcfx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 72178,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6j8tjqkBOKu8Ns27db6wZW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6j8tjqkBOKu8Ns27db6wZW",
+        "id": "6j8tjqkBOKu8Ns27db6wZW",
+        "is_local": false,
+        "name": "idyll",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6j8tjqkBOKu8Ns27db6wZW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5eHKqYOdvgTD6X5vgstHoW"
+}

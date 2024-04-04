@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ctnkEZGtVBTxS7IMin8nC",
+      "id": "3ctnkEZGtVBTxS7IMin8nC",
+      "name": "Instupendo",
+      "type": "artist",
+      "uri": "spotify:artist:3ctnkEZGtVBTxS7IMin8nC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Instupendo",
+      "type": "C"
+    },
+    {
+      "text": "2016 Instupendo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840095909037"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4cmVovulgpDQJF5RPBAU70"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4cmVovulgpDQJF5RPBAU70",
+  "id": "4cmVovulgpDQJF5RPBAU70",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273643f17860ae2708f1c453e11",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02643f17860ae2708f1c453e11",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851643f17860ae2708f1c453e11",
+      "width": 64
+    }
+  ],
+  "label": "Instupendo",
+  "name": "Icarus",
+  "popularity": 0,
+  "release_date": "2016-12-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4cmVovulgpDQJF5RPBAU70/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ctnkEZGtVBTxS7IMin8nC",
+            "id": "3ctnkEZGtVBTxS7IMin8nC",
+            "name": "Instupendo",
+            "type": "artist",
+            "uri": "spotify:artist:3ctnkEZGtVBTxS7IMin8nC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192288,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xiWDPsXIUshCnlemRhFde"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3xiWDPsXIUshCnlemRhFde",
+        "id": "3xiWDPsXIUshCnlemRhFde",
+        "is_local": false,
+        "name": "Icarus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3xiWDPsXIUshCnlemRhFde"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4cmVovulgpDQJF5RPBAU70"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RmXJq0g7MNmgtxXLGbd6K",
+      "id": "5RmXJq0g7MNmgtxXLGbd6K",
+      "name": "Mc Gabzin",
+      "type": "artist",
+      "uri": "spotify:artist:5RmXJq0g7MNmgtxXLGbd6K"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Doug Filmes",
+      "type": "C"
+    },
+    {
+      "text": "2022 Doug Filmes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "603059304138"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1SuKWIQ4PxaWIiv0DfmqsQ",
+  "id": "1SuKWIQ4PxaWIiv0DfmqsQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f582abe85ed839a84b04212",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f582abe85ed839a84b04212",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f582abe85ed839a84b04212",
+      "width": 64
+    }
+  ],
+  "label": "Doug Filmes",
+  "name": "Simplesmente Ela",
+  "popularity": 0,
+  "release_date": "2022-02-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1SuKWIQ4PxaWIiv0DfmqsQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+            },
+            "href": "https://api.spotify.com/v1/artists/5RmXJq0g7MNmgtxXLGbd6K",
+            "id": "5RmXJq0g7MNmgtxXLGbd6K",
+            "name": "Mc Gabzin",
+            "type": "artist",
+            "uri": "spotify:artist:5RmXJq0g7MNmgtxXLGbd6K"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161076,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NJKCE1TBC653P3dCnto0u",
+        "id": "4NJKCE1TBC653P3dCnto0u",
+        "is_local": false,
+        "name": "Simplesmente Ela",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4NJKCE1TBC653P3dCnto0u"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1SuKWIQ4PxaWIiv0DfmqsQ"
+}

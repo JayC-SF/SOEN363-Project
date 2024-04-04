@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+      "id": "5vBSrE1xujD2FXYRarbAXc",
+      "name": "Olly Alexander (Years & Years)",
+      "type": "artist",
+      "uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Polydor Ltd. (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547516831"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7oRxgNBZeMhA7O1eu8OHas"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7oRxgNBZeMhA7O1eu8OHas",
+  "id": "7oRxgNBZeMhA7O1eu8OHas",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b21458c0d416d6f02116ef0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b21458c0d416d6f02116ef0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b21458c0d416d6f02116ef0a",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Desire (Gryffin Remix)",
+  "popularity": 0,
+  "release_date": "2015-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7oRxgNBZeMhA7O1eu8OHas/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+            "id": "5vBSrE1xujD2FXYRarbAXc",
+            "name": "Olly Alexander (Years & Years)",
+            "type": "artist",
+            "uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+            "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+            "name": "Gryffin",
+            "type": "artist",
+            "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xlCyb1ZfFad6np6zx4hhw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xlCyb1ZfFad6np6zx4hhw",
+        "id": "2xlCyb1ZfFad6np6zx4hhw",
+        "is_local": false,
+        "name": "Desire - Gryffin Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xlCyb1ZfFad6np6zx4hhw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7oRxgNBZeMhA7O1eu8OHas"
+}

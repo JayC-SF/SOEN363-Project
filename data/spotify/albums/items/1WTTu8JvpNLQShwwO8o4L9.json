@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7gXb99Sf9nNmpNYeAgIQFG",
+      "id": "7gXb99Sf9nNmpNYeAgIQFG",
+      "name": "Sub Urban",
+      "type": "artist",
+      "uri": "spotify:artist:7gXb99Sf9nNmpNYeAgIQFG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2019 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199529585"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1WTTu8JvpNLQShwwO8o4L9",
+  "id": "1WTTu8JvpNLQShwwO8o4L9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cec7c8ebb684882dbaf476f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cec7c8ebb684882dbaf476f5",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Cradles",
+  "popularity": 0,
+  "release_date": "2019-01-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1WTTu8JvpNLQShwwO8o4L9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gXb99Sf9nNmpNYeAgIQFG",
+            "id": "7gXb99Sf9nNmpNYeAgIQFG",
+            "name": "Sub Urban",
+            "type": "artist",
+            "uri": "spotify:artist:7gXb99Sf9nNmpNYeAgIQFG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209829,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18A7ha5BitZjmdHTCwXFbU",
+        "id": "18A7ha5BitZjmdHTCwXFbU",
+        "is_local": false,
+        "name": "Cradles",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:18A7ha5BitZjmdHTCwXFbU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1WTTu8JvpNLQShwwO8o4L9"
+}

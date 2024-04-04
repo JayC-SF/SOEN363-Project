@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+      },
+      "href": "https://api.spotify.com/v1/artists/73BLwSX6gsNeVzS7DgI4xe",
+      "id": "73BLwSX6gsNeVzS7DgI4xe",
+      "name": "grentperez",
+      "type": "artist",
+      "uri": "spotify:artist:73BLwSX6gsNeVzS7DgI4xe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Fast Friends",
+      "type": "C"
+    },
+    {
+      "text": "2021 Fast Friends",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495422273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7rmnI5M8WN5TaK0pZkLV7J",
+  "id": "7rmnI5M8WN5TaK0pZkLV7J",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356de3e4a1c01185ad3225e63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256de3e4a1c01185ad3225e63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156de3e4a1c01185ad3225e63",
+      "width": 64
+    }
+  ],
+  "label": "Fast Friends",
+  "name": "Cherry Wine",
+  "popularity": 0,
+  "release_date": "2021-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7rmnI5M8WN5TaK0pZkLV7J/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+            },
+            "href": "https://api.spotify.com/v1/artists/73BLwSX6gsNeVzS7DgI4xe",
+            "id": "73BLwSX6gsNeVzS7DgI4xe",
+            "name": "grentperez",
+            "type": "artist",
+            "uri": "spotify:artist:73BLwSX6gsNeVzS7DgI4xe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173286,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1a1LrfgkTvfHFykIxcv8WU",
+        "id": "1a1LrfgkTvfHFykIxcv8WU",
+        "is_local": false,
+        "name": "Cherry Wine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1a1LrfgkTvfHFykIxcv8WU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7rmnI5M8WN5TaK0pZkLV7J"
+}

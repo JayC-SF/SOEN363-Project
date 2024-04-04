@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2007 Zomba Recording, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888880302397"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0dL2qQHuzOsAagnhlRq53v"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0dL2qQHuzOsAagnhlRq53v",
+  "id": "0dL2qQHuzOsAagnhlRq53v",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4998641ffd73a790f0b1465",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4998641ffd73a790f0b1465",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4998641ffd73a790f0b1465",
+      "width": 64
+    }
+  ],
+  "label": "Jive",
+  "name": "Kiss Kiss (feat. T-Pain)",
+  "popularity": 0,
+  "release_date": "2007-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0dL2qQHuzOsAagnhlRq53v/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+            "id": "3aQeKQSyrW4qWr35idm0cy",
+            "name": "T-Pain",
+            "type": "artist",
+            "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 251160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CweuuMMzi71pO0MSRgyaT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CweuuMMzi71pO0MSRgyaT",
+        "id": "4CweuuMMzi71pO0MSRgyaT",
+        "is_local": false,
+        "name": "Kiss Kiss (feat. T-Pain)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4CweuuMMzi71pO0MSRgyaT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0dL2qQHuzOsAagnhlRq53v"
+}

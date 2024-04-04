@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PMRWTda28Ufeyk8rIBEnf",
+      "id": "1PMRWTda28Ufeyk8rIBEnf",
+      "name": "VUNK",
+      "type": "artist",
+      "uri": "spotify:artist:1PMRWTda28Ufeyk8rIBEnf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2012 SC MediaPro Music Entertainment SRL",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2012 MediaPro Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886788850262"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0dlCjDgZDutGPesz335ZNe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0dlCjDgZDutGPesz335ZNe",
+  "id": "0dlCjDgZDutGPesz335ZNe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731badc66d1c9de6a98d376946",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021badc66d1c9de6a98d376946",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511badc66d1c9de6a98d376946",
+      "width": 64
+    }
+  ],
+  "label": "MediaPro Music",
+  "name": "Pleaca",
+  "popularity": 0,
+  "release_date": "2012-04-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0dlCjDgZDutGPesz335ZNe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PMRWTda28Ufeyk8rIBEnf",
+            "id": "1PMRWTda28Ufeyk8rIBEnf",
+            "name": "VUNK",
+            "type": "artist",
+            "uri": "spotify:artist:1PMRWTda28Ufeyk8rIBEnf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TLzMoEaUDkcAfIlY3Xhxn",
+            "id": "4TLzMoEaUDkcAfIlY3Xhxn",
+            "name": "Antonia",
+            "type": "artist",
+            "uri": "spotify:artist:4TLzMoEaUDkcAfIlY3Xhxn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188778,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ie02Bm46luBSVNifCrSCg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ie02Bm46luBSVNifCrSCg",
+        "id": "1Ie02Bm46luBSVNifCrSCg",
+        "is_local": false,
+        "name": "Pleaca",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Ie02Bm46luBSVNifCrSCg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0dlCjDgZDutGPesz335ZNe"
+}

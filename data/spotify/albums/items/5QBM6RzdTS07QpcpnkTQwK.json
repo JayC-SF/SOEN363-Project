@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Um7Dmlazw2717ChKlnjdI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Um7Dmlazw2717ChKlnjdI",
+      "id": "2Um7Dmlazw2717ChKlnjdI",
+      "name": "DeFalco",
+      "type": "artist",
+      "uri": "spotify:artist:2Um7Dmlazw2717ChKlnjdI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 728787 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2017 728787 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192378737715"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5QBM6RzdTS07QpcpnkTQwK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5QBM6RzdTS07QpcpnkTQwK",
+  "id": "5QBM6RzdTS07QpcpnkTQwK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba669707b66e90fcc89e379b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba669707b66e90fcc89e379b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba669707b66e90fcc89e379b",
+      "width": 64
+    }
+  ],
+  "label": "728787 Records DK",
+  "name": "File Select",
+  "popularity": 0,
+  "release_date": "2017-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5QBM6RzdTS07QpcpnkTQwK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Um7Dmlazw2717ChKlnjdI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Um7Dmlazw2717ChKlnjdI",
+            "id": "2Um7Dmlazw2717ChKlnjdI",
+            "name": "DeFalco",
+            "type": "artist",
+            "uri": "spotify:artist:2Um7Dmlazw2717ChKlnjdI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210580,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ad2ijYBHC2RwhXFNP1yVJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Ad2ijYBHC2RwhXFNP1yVJ",
+        "id": "3Ad2ijYBHC2RwhXFNP1yVJ",
+        "is_local": false,
+        "name": "File Select",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Ad2ijYBHC2RwhXFNP1yVJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5QBM6RzdTS07QpcpnkTQwK"
+}

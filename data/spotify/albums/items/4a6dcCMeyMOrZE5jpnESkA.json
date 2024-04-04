@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3oJjZweJo9yqNFnKBTlgm0",
+      "id": "3oJjZweJo9yqNFnKBTlgm0",
+      "name": "Gee Dixon",
+      "type": "artist",
+      "uri": "spotify:artist:3oJjZweJo9yqNFnKBTlgm0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Redline Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2017 Redline Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7071245433680"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4a6dcCMeyMOrZE5jpnESkA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4a6dcCMeyMOrZE5jpnESkA",
+  "id": "4a6dcCMeyMOrZE5jpnESkA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273941ff2fb593add83d7f9347f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02941ff2fb593add83d7f9347f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851941ff2fb593add83d7f9347f",
+      "width": 64
+    }
+  ],
+  "label": "Redline Recordings",
+  "name": "La Madrina",
+  "popularity": 0,
+  "release_date": "2017-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4a6dcCMeyMOrZE5jpnESkA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oJjZweJo9yqNFnKBTlgm0",
+            "id": "3oJjZweJo9yqNFnKBTlgm0",
+            "name": "Gee Dixon",
+            "type": "artist",
+            "uri": "spotify:artist:3oJjZweJo9yqNFnKBTlgm0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205714,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6L3P9juL6QMS2OAXYwqHiE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6L3P9juL6QMS2OAXYwqHiE",
+        "id": "6L3P9juL6QMS2OAXYwqHiE",
+        "is_local": false,
+        "name": "La Madrina",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6L3P9juL6QMS2OAXYwqHiE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oJjZweJo9yqNFnKBTlgm0",
+            "id": "3oJjZweJo9yqNFnKBTlgm0",
+            "name": "Gee Dixon",
+            "type": "artist",
+            "uri": "spotify:artist:3oJjZweJo9yqNFnKBTlgm0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205714,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TPogafFwPjoNAiKWqfKtR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TPogafFwPjoNAiKWqfKtR",
+        "id": "6TPogafFwPjoNAiKWqfKtR",
+        "is_local": false,
+        "name": "La Madrina (Instrumental)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6TPogafFwPjoNAiKWqfKtR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4a6dcCMeyMOrZE5jpnESkA"
+}

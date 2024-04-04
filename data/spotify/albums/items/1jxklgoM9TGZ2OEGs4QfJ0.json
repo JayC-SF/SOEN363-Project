@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+      },
+      "href": "https://api.spotify.com/v1/artists/2C1zgkYFPzuU7GBM66c1S9",
+      "id": "2C1zgkYFPzuU7GBM66c1S9",
+      "name": "Victor J Sefo",
+      "type": "artist",
+      "uri": "spotify:artist:2C1zgkYFPzuU7GBM66c1S9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2"
+      },
+      "href": "https://api.spotify.com/v1/artists/5grusMtV0pDYCTusPLrWM2",
+      "id": "5grusMtV0pDYCTusPLrWM2",
+      "name": "Txmmy",
+      "type": "artist",
+      "uri": "spotify:artist:5grusMtV0pDYCTusPLrWM2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 PrettyGoodRecords",
+      "type": "C"
+    },
+    {
+      "text": "2022 PrettyGoodRecords",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859761791005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1jxklgoM9TGZ2OEGs4QfJ0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1jxklgoM9TGZ2OEGs4QfJ0",
+  "id": "1jxklgoM9TGZ2OEGs4QfJ0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0dc920a366a9b0fd58d1a3c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0dc920a366a9b0fd58d1a3c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0dc920a366a9b0fd58d1a3c",
+      "width": 64
+    }
+  ],
+  "label": "PrettyGoodRecords",
+  "name": "Mood",
+  "popularity": 0,
+  "release_date": "2022-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1jxklgoM9TGZ2OEGs4QfJ0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+            },
+            "href": "https://api.spotify.com/v1/artists/2C1zgkYFPzuU7GBM66c1S9",
+            "id": "2C1zgkYFPzuU7GBM66c1S9",
+            "name": "Victor J Sefo",
+            "type": "artist",
+            "uri": "spotify:artist:2C1zgkYFPzuU7GBM66c1S9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5grusMtV0pDYCTusPLrWM2",
+            "id": "5grusMtV0pDYCTusPLrWM2",
+            "name": "Txmmy",
+            "type": "artist",
+            "uri": "spotify:artist:5grusMtV0pDYCTusPLrWM2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ATqj9ozmDT7qFXyU12L9w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ATqj9ozmDT7qFXyU12L9w",
+        "id": "2ATqj9ozmDT7qFXyU12L9w",
+        "is_local": false,
+        "name": "Mood",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ATqj9ozmDT7qFXyU12L9w"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1jxklgoM9TGZ2OEGs4QfJ0"
+}

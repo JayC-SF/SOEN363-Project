@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+      },
+      "href": "https://api.spotify.com/v1/artists/64rxQRJsLgZwHHyWKB8fiF",
+      "id": "64rxQRJsLgZwHHyWKB8fiF",
+      "name": "Eiffel 65",
+      "type": "artist",
+      "uri": "spotify:artist:64rxQRJsLgZwHHyWKB8fiF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href": "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id": "6nxWCVXbOlEVRexSbLsTer",
+      "name": "Flume",
+      "type": "artist",
+      "uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Future Classic",
+      "type": "C"
+    },
+    {
+      "text": "2020 Future Classic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "653738061623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0jihZJEz7ZnvQVN6WBj5RC",
+  "id": "0jihZJEz7ZnvQVN6WBj5RC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fab5eacd2aae13133a3f82f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fab5eacd2aae13133a3f82f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fab5eacd2aae13133a3f82f9",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "Blue (Flume Remix)",
+  "popularity": 8,
+  "release_date": "2020-07-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0jihZJEz7ZnvQVN6WBj5RC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+            },
+            "href": "https://api.spotify.com/v1/artists/64rxQRJsLgZwHHyWKB8fiF",
+            "id": "64rxQRJsLgZwHHyWKB8fiF",
+            "name": "Eiffel 65",
+            "type": "artist",
+            "uri": "spotify:artist:64rxQRJsLgZwHHyWKB8fiF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+            "id": "6nxWCVXbOlEVRexSbLsTer",
+            "name": "Flume",
+            "type": "artist",
+            "uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0chpQTaECrCZBusarf71Ql",
+        "id": "0chpQTaECrCZBusarf71Ql",
+        "is_local": false,
+        "name": "Blue - Flume Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0chpQTaECrCZBusarf71Ql"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0jihZJEz7ZnvQVN6WBj5RC"
+}

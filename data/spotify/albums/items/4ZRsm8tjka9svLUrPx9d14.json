@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/722i4mGB64Op5XVudnFI0u"
+      },
+      "href": "https://api.spotify.com/v1/artists/722i4mGB64Op5XVudnFI0u",
+      "id": "722i4mGB64Op5XVudnFI0u",
+      "name": "Westbound",
+      "type": "artist",
+      "uri": "spotify:artist:722i4mGB64Op5XVudnFI0u"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Liso Talents",
+      "type": "C"
+    },
+    {
+      "text": "2023 Liso Talents",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197632474658"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZRsm8tjka9svLUrPx9d14"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZRsm8tjka9svLUrPx9d14",
+  "id": "4ZRsm8tjka9svLUrPx9d14",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733730a73098f3ee3492202a77",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023730a73098f3ee3492202a77",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513730a73098f3ee3492202a77",
+      "width": 64
+    }
+  ],
+  "label": "Liso Talents",
+  "name": "Bombora",
+  "popularity": 0,
+  "release_date": "2023-02-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZRsm8tjka9svLUrPx9d14/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/722i4mGB64Op5XVudnFI0u"
+            },
+            "href": "https://api.spotify.com/v1/artists/722i4mGB64Op5XVudnFI0u",
+            "id": "722i4mGB64Op5XVudnFI0u",
+            "name": "Westbound",
+            "type": "artist",
+            "uri": "spotify:artist:722i4mGB64Op5XVudnFI0u"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151647,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Fq9m2zfFPdC7dZrCRLjen"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Fq9m2zfFPdC7dZrCRLjen",
+        "id": "5Fq9m2zfFPdC7dZrCRLjen",
+        "is_local": false,
+        "name": "Bombora",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Fq9m2zfFPdC7dZrCRLjen"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZRsm8tjka9svLUrPx9d14"
+}

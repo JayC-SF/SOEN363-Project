@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3by4p0KoONhpbiQsAi5kQe"
+      },
+      "href": "https://api.spotify.com/v1/artists/3by4p0KoONhpbiQsAi5kQe",
+      "id": "3by4p0KoONhpbiQsAi5kQe",
+      "name": "10 Eleven",
+      "type": "artist",
+      "uri": "spotify:artist:3by4p0KoONhpbiQsAi5kQe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 ten eleven",
+      "type": "C"
+    },
+    {
+      "text": "2021 ten eleven",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196051647490"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3VVndXFebQYXwERBW45eFa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3VVndXFebQYXwERBW45eFa",
+  "id": "3VVndXFebQYXwERBW45eFa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fccf33a75e3bbd14badcea42",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fccf33a75e3bbd14badcea42",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fccf33a75e3bbd14badcea42",
+      "width": 64
+    }
+  ],
+  "label": "ten eleven",
+  "name": "No Hook",
+  "popularity": 0,
+  "release_date": "2021-02-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3VVndXFebQYXwERBW45eFa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3by4p0KoONhpbiQsAi5kQe"
+            },
+            "href": "https://api.spotify.com/v1/artists/3by4p0KoONhpbiQsAi5kQe",
+            "id": "3by4p0KoONhpbiQsAi5kQe",
+            "name": "10 Eleven",
+            "type": "artist",
+            "uri": "spotify:artist:3by4p0KoONhpbiQsAi5kQe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218801,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RH9DXbcQy0udyrRfuTc44"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RH9DXbcQy0udyrRfuTc44",
+        "id": "0RH9DXbcQy0udyrRfuTc44",
+        "is_local": false,
+        "name": "No Hook",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0RH9DXbcQy0udyrRfuTc44"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3VVndXFebQYXwERBW45eFa"
+}

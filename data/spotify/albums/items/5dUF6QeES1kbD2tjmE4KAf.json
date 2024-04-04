@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI"
+      },
+      "href": "https://api.spotify.com/v1/artists/7KPQ1gyjGeNrDCySwrXAhI",
+      "id": "7KPQ1gyjGeNrDCySwrXAhI",
+      "name": "Grey Zeigler",
+      "type": "artist",
+      "uri": "spotify:artist:7KPQ1gyjGeNrDCySwrXAhI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Grey Zeigler",
+      "type": "C"
+    },
+    {
+      "text": "2021 Grey Zeigler",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859752287982"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dUF6QeES1kbD2tjmE4KAf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5dUF6QeES1kbD2tjmE4KAf",
+  "id": "5dUF6QeES1kbD2tjmE4KAf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311ace37aa8685aebbf5160be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211ace37aa8685aebbf5160be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111ace37aa8685aebbf5160be",
+      "width": 64
+    }
+  ],
+  "label": "Grey Zeigler",
+  "name": "Affirmations",
+  "popularity": 16,
+  "release_date": "2021-12-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5dUF6QeES1kbD2tjmE4KAf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI"
+            },
+            "href": "https://api.spotify.com/v1/artists/7KPQ1gyjGeNrDCySwrXAhI",
+            "id": "7KPQ1gyjGeNrDCySwrXAhI",
+            "name": "Grey Zeigler",
+            "type": "artist",
+            "uri": "spotify:artist:7KPQ1gyjGeNrDCySwrXAhI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66a7rFF3IHiXKZLaLp8r4s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/66a7rFF3IHiXKZLaLp8r4s",
+        "id": "66a7rFF3IHiXKZLaLp8r4s",
+        "is_local": false,
+        "name": "Affirmations",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:66a7rFF3IHiXKZLaLp8r4s"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5dUF6QeES1kbD2tjmE4KAf"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KQX0Ui06LVm6PApyicRFK",
+      "id": "5KQX0Ui06LVm6PApyicRFK",
+      "name": "Rombai",
+      "type": "artist",
+      "uri": "spotify:artist:5KQX0Ui06LVm6PApyicRFK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "EQ Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "Fer Vazquez",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614594250757"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5J1x5J3ccAm4P5oPXZZolG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5J1x5J3ccAm4P5oPXZZolG",
+  "id": "5J1x5J3ccAm4P5oPXZZolG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310f7a836aebf209756413d6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210f7a836aebf209756413d6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110f7a836aebf209756413d6c",
+      "width": 64
+    }
+  ],
+  "label": "EQ Entertaiment",
+  "name": "Adi\u00f3s",
+  "popularity": 0,
+  "release_date": "2015-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5J1x5J3ccAm4P5oPXZZolG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KQX0Ui06LVm6PApyicRFK",
+            "id": "5KQX0Ui06LVm6PApyicRFK",
+            "name": "Rombai",
+            "type": "artist",
+            "uri": "spotify:artist:5KQX0Ui06LVm6PApyicRFK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NuPNKgyBFvGa7plAUxIyg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NuPNKgyBFvGa7plAUxIyg",
+        "id": "6NuPNKgyBFvGa7plAUxIyg",
+        "is_local": false,
+        "name": "Adi\u00f3s",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NuPNKgyBFvGa7plAUxIyg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5J1x5J3ccAm4P5oPXZZolG"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+      "id": "45dkTj5sMRSjrmBSBeiHym",
+      "name": "Tate McRae",
+      "type": "artist",
+      "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2022 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449820757"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51oWPUjnGhecw62V8LDXK8",
+  "id": "51oWPUjnGhecw62V8LDXK8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7916a35ffdd6cb90bbbdf2f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7916a35ffdd6cb90bbbdf2f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7916a35ffdd6cb90bbbdf2f",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "she's all i wanna be",
+  "popularity": 38,
+  "release_date": "2022-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51oWPUjnGhecw62V8LDXK8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+            },
+            "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+            "id": "45dkTj5sMRSjrmBSBeiHym",
+            "name": "Tate McRae",
+            "type": "artist",
+            "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206772,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IuVhCflrQPMGRrOyoY5RW",
+        "id": "0IuVhCflrQPMGRrOyoY5RW",
+        "is_local": false,
+        "name": "she's all i wanna be",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0IuVhCflrQPMGRrOyoY5RW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51oWPUjnGhecw62V8LDXK8"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LfqhJiCiHfVzrBOVaBXc1",
+      "id": "1LfqhJiCiHfVzrBOVaBXc1",
+      "name": "Demuja",
+      "type": "artist",
+      "uri": "spotify:artist:1LfqhJiCiHfVzrBOVaBXc1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 MUJA",
+      "type": "C"
+    },
+    {
+      "text": "2018 MUJA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859728079559"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1iPi16uKXtHsGJ25fIEO4N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1iPi16uKXtHsGJ25fIEO4N",
+  "id": "1iPi16uKXtHsGJ25fIEO4N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2e9bdf63ebb4f1932303e0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2e9bdf63ebb4f1932303e0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2e9bdf63ebb4f1932303e0f",
+      "width": 64
+    }
+  ],
+  "label": "MUJA",
+  "name": "The Missing Lady",
+  "popularity": 0,
+  "release_date": "2018-08-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1iPi16uKXtHsGJ25fIEO4N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1LfqhJiCiHfVzrBOVaBXc1",
+            "id": "1LfqhJiCiHfVzrBOVaBXc1",
+            "name": "Demuja",
+            "type": "artist",
+            "uri": "spotify:artist:1LfqhJiCiHfVzrBOVaBXc1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/119wAd7uEVfxZVNAnfZE72"
+            },
+            "href": "https://api.spotify.com/v1/artists/119wAd7uEVfxZVNAnfZE72",
+            "id": "119wAd7uEVfxZVNAnfZE72",
+            "name": "Ainy",
+            "type": "artist",
+            "uri": "spotify:artist:119wAd7uEVfxZVNAnfZE72"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 276129,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZnXVWIB0pekaacjugF87D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ZnXVWIB0pekaacjugF87D",
+        "id": "1ZnXVWIB0pekaacjugF87D",
+        "is_local": false,
+        "name": "The Missing Lady",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ZnXVWIB0pekaacjugF87D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1iPi16uKXtHsGJ25fIEO4N"
+}

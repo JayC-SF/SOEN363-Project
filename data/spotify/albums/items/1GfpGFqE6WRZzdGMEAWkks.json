@@ -1,0 +1,111 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CLxFMLXyDPDiENHddT4DA"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CLxFMLXyDPDiENHddT4DA",
+      "id": "4CLxFMLXyDPDiENHddT4DA",
+      "name": "THE S.L.P.",
+      "type": "artist",
+      "uri": "spotify:artist:4CLxFMLXyDPDiENHddT4DA"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2019 Sony Music Entertainment UK Limited",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483842301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GfpGFqE6WRZzdGMEAWkks"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GfpGFqE6WRZzdGMEAWkks",
+  "id": "1GfpGFqE6WRZzdGMEAWkks",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bb06c6fb339b1aadc21b61d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bb06c6fb339b1aadc21b61d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bb06c6fb339b1aadc21b61d8",
+      "width": 64
+    }
+  ],
+  "label": "Sergio Pizzorno",
+  "name": "Favourites (feat. Little Simz)",
+  "popularity": 8,
+  "release_date": "2019-05-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GfpGFqE6WRZzdGMEAWkks/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4CLxFMLXyDPDiENHddT4DA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4CLxFMLXyDPDiENHddT4DA",
+            "id": "4CLxFMLXyDPDiENHddT4DA",
+            "name": "THE S.L.P.",
+            "type": "artist",
+            "uri": "spotify:artist:4CLxFMLXyDPDiENHddT4DA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+            "id": "6eXZu6O7nAUA5z6vLV8NKI",
+            "name": "Little Simz",
+            "type": "artist",
+            "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233208,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1znNmUVNzQ74GULy5cJa6f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1znNmUVNzQ74GULy5cJa6f",
+        "id": "1znNmUVNzQ74GULy5cJa6f",
+        "is_local": false,
+        "name": "Favourites (feat. Little Simz)",
+        "preview_url": "https://p.scdn.co/mp3-preview/694d5718d0c1a0e5f5a8568eba37146a68dce108?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1znNmUVNzQ74GULy5cJa6f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1GfpGFqE6WRZzdGMEAWkks"
+}

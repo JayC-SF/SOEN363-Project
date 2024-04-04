@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kIPxVSuacyJGpmxl5ErRC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1kIPxVSuacyJGpmxl5ErRC",
+      "id": "1kIPxVSuacyJGpmxl5ErRC",
+      "name": "hxnry",
+      "type": "artist",
+      "uri": "spotify:artist:1kIPxVSuacyJGpmxl5ErRC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 AMS Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2019 AMS Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526225008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6TnBiT7aNNRr74ue2NdXRp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6TnBiT7aNNRr74ue2NdXRp",
+  "id": "6TnBiT7aNNRr74ue2NdXRp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a30810c05e8e1ae70bbea505",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a30810c05e8e1ae70bbea505",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a30810c05e8e1ae70bbea505",
+      "width": 64
+    }
+  ],
+  "label": "AMS Music Group",
+  "name": "Night Drive",
+  "popularity": 0,
+  "release_date": "2019-02-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6TnBiT7aNNRr74ue2NdXRp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kIPxVSuacyJGpmxl5ErRC"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kIPxVSuacyJGpmxl5ErRC",
+            "id": "1kIPxVSuacyJGpmxl5ErRC",
+            "name": "hxnry",
+            "type": "artist",
+            "uri": "spotify:artist:1kIPxVSuacyJGpmxl5ErRC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177272,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JBw6y15GRwYkJY0sLY9jt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JBw6y15GRwYkJY0sLY9jt",
+        "id": "5JBw6y15GRwYkJY0sLY9jt",
+        "is_local": false,
+        "name": "Night Drive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5JBw6y15GRwYkJY0sLY9jt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6TnBiT7aNNRr74ue2NdXRp"
+}

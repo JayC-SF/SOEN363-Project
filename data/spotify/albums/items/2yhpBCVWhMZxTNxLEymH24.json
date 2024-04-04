@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kQfGeicc9EiQMzAYX0f9U",
+      "id": "6kQfGeicc9EiQMzAYX0f9U",
+      "name": "ONEFOUR",
+      "type": "artist",
+      "uri": "spotify:artist:6kQfGeicc9EiQMzAYX0f9U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Onefour",
+      "type": "C"
+    },
+    {
+      "text": "2019 Onefour",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859731772584"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2yhpBCVWhMZxTNxLEymH24"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2yhpBCVWhMZxTNxLEymH24",
+  "id": "2yhpBCVWhMZxTNxLEymH24",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273737eb75b07bbfa2af74ed941",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02737eb75b07bbfa2af74ed941",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851737eb75b07bbfa2af74ed941",
+      "width": 64
+    }
+  ],
+  "label": "Onefour",
+  "name": "The Message",
+  "popularity": 24,
+  "release_date": "2019-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2yhpBCVWhMZxTNxLEymH24/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kQfGeicc9EiQMzAYX0f9U",
+            "id": "6kQfGeicc9EiQMzAYX0f9U",
+            "name": "ONEFOUR",
+            "type": "artist",
+            "uri": "spotify:artist:6kQfGeicc9EiQMzAYX0f9U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224571,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FdKpk7MwtByxRsCzc1HLY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FdKpk7MwtByxRsCzc1HLY",
+        "id": "5FdKpk7MwtByxRsCzc1HLY",
+        "is_local": false,
+        "name": "The Message",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5FdKpk7MwtByxRsCzc1HLY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2yhpBCVWhMZxTNxLEymH24"
+}

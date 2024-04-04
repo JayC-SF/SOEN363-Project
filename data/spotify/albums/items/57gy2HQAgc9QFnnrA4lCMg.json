@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65rCv6uWIdZ5oEauJsEPMR"
+      },
+      "href": "https://api.spotify.com/v1/artists/65rCv6uWIdZ5oEauJsEPMR",
+      "id": "65rCv6uWIdZ5oEauJsEPMR",
+      "name": "Oxytocin",
+      "type": "artist",
+      "uri": "spotify:artist:65rCv6uWIdZ5oEauJsEPMR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 1279092 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2019 1279092 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193664100923"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/57gy2HQAgc9QFnnrA4lCMg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/57gy2HQAgc9QFnnrA4lCMg",
+  "id": "57gy2HQAgc9QFnnrA4lCMg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a19ae7c3c36a1eae44aae60d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a19ae7c3c36a1eae44aae60d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a19ae7c3c36a1eae44aae60d",
+      "width": 64
+    }
+  ],
+  "label": "1279092 Records DK",
+  "name": "Sweater Weather",
+  "popularity": 0,
+  "release_date": "2019-05-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/57gy2HQAgc9QFnnrA4lCMg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/65rCv6uWIdZ5oEauJsEPMR"
+            },
+            "href": "https://api.spotify.com/v1/artists/65rCv6uWIdZ5oEauJsEPMR",
+            "id": "65rCv6uWIdZ5oEauJsEPMR",
+            "name": "Oxytocin",
+            "type": "artist",
+            "uri": "spotify:artist:65rCv6uWIdZ5oEauJsEPMR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qb7AUBdm0l9qpB47cuPKK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qb7AUBdm0l9qpB47cuPKK",
+        "id": "2qb7AUBdm0l9qpB47cuPKK",
+        "is_local": false,
+        "name": "Sweater Weather",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qb7AUBdm0l9qpB47cuPKK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:57gy2HQAgc9QFnnrA4lCMg"
+}

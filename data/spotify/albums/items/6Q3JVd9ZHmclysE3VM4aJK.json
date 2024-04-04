@@ -1,0 +1,831 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+      "id": "5TWpCLIhvGlbJmLK1zNpiL",
+      "name": "Eric Whitacre",
+      "type": "artist",
+      "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Decca, a division of Universal Music Operations Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Decca, a division of Universal Music Operations Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00028947648789"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Q3JVd9ZHmclysE3VM4aJK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Q3JVd9ZHmclysE3VM4aJK",
+  "id": "6Q3JVd9ZHmclysE3VM4aJK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27392acd8d4a9bb62cdbb69681a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292acd8d4a9bb62cdbb69681a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485192acd8d4a9bb62cdbb69681a",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AS",
+  "name": "Water Night",
+  "popularity": 0,
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 19,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Q3JVd9ZHmclysE3VM4aJK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 35440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eIPYxonEpXsDwSVB3ffoL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1eIPYxonEpXsDwSVB3ffoL",
+        "id": "1eIPYxonEpXsDwSVB3ffoL",
+        "is_local": false,
+        "name": "Spotify (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1eIPYxonEpXsDwSVB3ffoL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GDrtfxXJ83K1UBZkLYnWY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GDrtfxXJ83K1UBZkLYnWY",
+        "id": "0GDrtfxXJ83K1UBZkLYnWY",
+        "is_local": false,
+        "name": "Alleluia (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0GDrtfxXJ83K1UBZkLYnWY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tPhboxrWrQ4LxOhWlXAeN",
+            "id": "2tPhboxrWrQ4LxOhWlXAeN",
+            "name": "Eric Whitacre Singers",
+            "type": "artist",
+            "uri": "spotify:artist:2tPhboxrWrQ4LxOhWlXAeN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 564304,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0unP5af1tCjIDGxWo1aDM0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0unP5af1tCjIDGxWo1aDM0",
+        "id": "0unP5af1tCjIDGxWo1aDM0",
+        "is_local": false,
+        "name": "Alleluia",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0unP5af1tCjIDGxWo1aDM0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 118960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1O9v2yMmTW8ntCbkhk9yhv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1O9v2yMmTW8ntCbkhk9yhv",
+        "id": "1O9v2yMmTW8ntCbkhk9yhv",
+        "is_local": false,
+        "name": "Equus (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1O9v2yMmTW8ntCbkhk9yhv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 542293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y6ujg6IUpryelPvGVNsCd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Y6ujg6IUpryelPvGVNsCd",
+        "id": "1Y6ujg6IUpryelPvGVNsCd",
+        "is_local": false,
+        "name": "Equus",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1Y6ujg6IUpryelPvGVNsCd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 80294,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nQim0a1IKRQsuqBLkdzo0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2nQim0a1IKRQsuqBLkdzo0",
+        "id": "2nQim0a1IKRQsuqBLkdzo0",
+        "is_local": false,
+        "name": "Oculi Omnium (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2nQim0a1IKRQsuqBLkdzo0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tPhboxrWrQ4LxOhWlXAeN",
+            "id": "2tPhboxrWrQ4LxOhWlXAeN",
+            "name": "Eric Whitacre Singers",
+            "type": "artist",
+            "uri": "spotify:artist:2tPhboxrWrQ4LxOhWlXAeN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/151YBGrgcdcYY78ZsIMX1H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/151YBGrgcdcYY78ZsIMX1H",
+        "id": "151YBGrgcdcYY78ZsIMX1H",
+        "is_local": false,
+        "name": "Oculi Omnium",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:151YBGrgcdcYY78ZsIMX1H"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 121680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7a5G8P8au7kliZSaDfoiej"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7a5G8P8au7kliZSaDfoiej",
+        "id": "7a5G8P8au7kliZSaDfoiej",
+        "is_local": false,
+        "name": "River Cam (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7a5G8P8au7kliZSaDfoiej"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
+            },
+            "href": "https://api.spotify.com/v1/artists/1U4pv151m4SgVMg8fXROYp",
+            "id": "1U4pv151m4SgVMg8fXROYp",
+            "name": "Julian Lloyd Webber",
+            "type": "artist",
+            "uri": "spotify:artist:1U4pv151m4SgVMg8fXROYp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 714453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04QpMvP7xpRvKKk13I4HRN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/04QpMvP7xpRvKKk13I4HRN",
+        "id": "04QpMvP7xpRvKKk13I4HRN",
+        "is_local": false,
+        "name": "The River Cam",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:04QpMvP7xpRvKKk13I4HRN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 104240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3k3T0zV4GAHBWE7ZkfdE6l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3k3T0zV4GAHBWE7ZkfdE6l",
+        "id": "3k3T0zV4GAHBWE7ZkfdE6l",
+        "is_local": false,
+        "name": "Her Sacred Spirit Soars (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3k3T0zV4GAHBWE7ZkfdE6l"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tPhboxrWrQ4LxOhWlXAeN",
+            "id": "2tPhboxrWrQ4LxOhWlXAeN",
+            "name": "Eric Whitacre Singers",
+            "type": "artist",
+            "uri": "spotify:artist:2tPhboxrWrQ4LxOhWlXAeN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 418653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1T61KqPSiwpC5sPKbesqCU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1T61KqPSiwpC5sPKbesqCU",
+        "id": "1T61KqPSiwpC5sPKbesqCU",
+        "is_local": false,
+        "name": "Her Sacred Spirit Soars",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1T61KqPSiwpC5sPKbesqCU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/195zw7Vgnu2hcEwTz20QnK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/195zw7Vgnu2hcEwTz20QnK",
+        "id": "195zw7Vgnu2hcEwTz20QnK",
+        "is_local": false,
+        "name": "Water Night (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:195zw7Vgnu2hcEwTz20QnK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 366159,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NdLxUzwoO68GLNehtsGPC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NdLxUzwoO68GLNehtsGPC",
+        "id": "6NdLxUzwoO68GLNehtsGPC",
+        "is_local": false,
+        "name": "Water Night - For Strings",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6NdLxUzwoO68GLNehtsGPC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 100160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08J0B0y8W34ibOogPsj7qB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08J0B0y8W34ibOogPsj7qB",
+        "id": "08J0B0y8W34ibOogPsj7qB",
+        "is_local": false,
+        "name": "Goodnight Moon (Eric Whitacre Intoduction)",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:08J0B0y8W34ibOogPsj7qB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10BoxRpRBcGdbFropqIQlg"
+            },
+            "href": "https://api.spotify.com/v1/artists/10BoxRpRBcGdbFropqIQlg",
+            "id": "10BoxRpRBcGdbFropqIQlg",
+            "name": "Hila Plitmann",
+            "type": "artist",
+            "uri": "spotify:artist:10BoxRpRBcGdbFropqIQlg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309799,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FYfZjDO61ZuXxZlI7PUwP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FYfZjDO61ZuXxZlI7PUwP",
+        "id": "5FYfZjDO61ZuXxZlI7PUwP",
+        "is_local": false,
+        "name": "Goodnight Moon",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5FYfZjDO61ZuXxZlI7PUwP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6C1NcQw8EkD44CeP5fyacZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6C1NcQw8EkD44CeP5fyacZ",
+        "id": "6C1NcQw8EkD44CeP5fyacZ",
+        "is_local": false,
+        "name": "When David Heard (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:6C1NcQw8EkD44CeP5fyacZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tPhboxrWrQ4LxOhWlXAeN",
+            "id": "2tPhboxrWrQ4LxOhWlXAeN",
+            "name": "Eric Whitacre Singers",
+            "type": "artist",
+            "uri": "spotify:artist:2tPhboxrWrQ4LxOhWlXAeN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 1058733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FjH9Ujz4i21aroNZyh0FU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FjH9Ujz4i21aroNZyh0FU",
+        "id": "4FjH9Ujz4i21aroNZyh0FU",
+        "is_local": false,
+        "name": "When David Heard",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:4FjH9Ujz4i21aroNZyh0FU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 103920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FQbq4rnldXaWpNj3cUrl4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6FQbq4rnldXaWpNj3cUrl4",
+        "id": "6FQbq4rnldXaWpNj3cUrl4",
+        "is_local": false,
+        "name": "Sleep My Child (Eric Whitacre Introduction)",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:6FQbq4rnldXaWpNj3cUrl4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TWpCLIhvGlbJmLK1zNpiL",
+            "id": "5TWpCLIhvGlbJmLK1zNpiL",
+            "name": "Eric Whitacre",
+            "type": "artist",
+            "uri": "spotify:artist:5TWpCLIhvGlbJmLK1zNpiL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tPhboxrWrQ4LxOhWlXAeN",
+            "id": "2tPhboxrWrQ4LxOhWlXAeN",
+            "name": "Eric Whitacre Singers",
+            "type": "artist",
+            "uri": "spotify:artist:2tPhboxrWrQ4LxOhWlXAeN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 382355,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cwko3bCO5t7iQNSXQYm2I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2cwko3bCO5t7iQNSXQYm2I",
+        "id": "2cwko3bCO5t7iQNSXQYm2I",
+        "is_local": false,
+        "name": "Sleep My Child",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:2cwko3bCO5t7iQNSXQYm2I"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 19
+  },
+  "type": "album",
+  "uri": "spotify:album:6Q3JVd9ZHmclysE3VM4aJK"
+}

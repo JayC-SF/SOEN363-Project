@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0U3b0BjITtQHwjwBVtiGcO",
+      "id": "0U3b0BjITtQHwjwBVtiGcO",
+      "name": "DMNDS",
+      "type": "artist",
+      "uri": "spotify:artist:0U3b0BjITtQHwjwBVtiGcO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+      },
+      "href": "https://api.spotify.com/v1/artists/2URl3RyFpTbuZSa8AhZLGt",
+      "id": "2URl3RyFpTbuZSa8AhZLGt",
+      "name": "USAI",
+      "type": "artist",
+      "uri": "spotify:artist:2URl3RyFpTbuZSa8AhZLGt"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871393058"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6QORO03fIvfWu90F1oIDHE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6QORO03fIvfWu90F1oIDHE",
+  "id": "6QORO03fIvfWu90F1oIDHE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ff606b199e362c2f5a6e762",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ff606b199e362c2f5a6e762",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ff606b199e362c2f5a6e762",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Rude Boy",
+  "popularity": 26,
+  "release_date": "2023-09-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6QORO03fIvfWu90F1oIDHE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U3b0BjITtQHwjwBVtiGcO",
+            "id": "0U3b0BjITtQHwjwBVtiGcO",
+            "name": "DMNDS",
+            "type": "artist",
+            "uri": "spotify:artist:0U3b0BjITtQHwjwBVtiGcO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2URl3RyFpTbuZSa8AhZLGt",
+            "id": "2URl3RyFpTbuZSa8AhZLGt",
+            "name": "USAI",
+            "type": "artist",
+            "uri": "spotify:artist:2URl3RyFpTbuZSa8AhZLGt"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 151874,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vNweSmbUjbntIrr9Lyvzk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0vNweSmbUjbntIrr9Lyvzk",
+        "id": "0vNweSmbUjbntIrr9Lyvzk",
+        "is_local": false,
+        "name": "Rude Boy",
+        "preview_url": "https://p.scdn.co/mp3-preview/4c0d70b11c408fbe8cd25a8a307b34384027bc20?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0vNweSmbUjbntIrr9Lyvzk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6QORO03fIvfWu90F1oIDHE"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ReU09e8cwWdv544qEDTDK",
+      "id": "2ReU09e8cwWdv544qEDTDK",
+      "name": "BoBo",
+      "type": "artist",
+      "uri": "spotify:artist:2ReU09e8cwWdv544qEDTDK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Krome Productions / Riddimstream",
+      "type": "C"
+    },
+    {
+      "text": "2018 Krome Productions / Riddimstream",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859729571663"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3lNBIr8Qz94mdNCfUoqGQG",
+  "id": "3lNBIr8Qz94mdNCfUoqGQG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f40795a85be1d2354454d8e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f40795a85be1d2354454d8e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f40795a85be1d2354454d8e",
+      "width": 64
+    }
+  ],
+  "label": "Krome Productions / Riddimstream",
+  "name": "Tic It & Tac It",
+  "popularity": 0,
+  "release_date": "2018-11-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3lNBIr8Qz94mdNCfUoqGQG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ReU09e8cwWdv544qEDTDK",
+            "id": "2ReU09e8cwWdv544qEDTDK",
+            "name": "BoBo",
+            "type": "artist",
+            "uri": "spotify:artist:2ReU09e8cwWdv544qEDTDK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 124212,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5X8aV69F0FrinCD9aiFSDI",
+        "id": "5X8aV69F0FrinCD9aiFSDI",
+        "is_local": false,
+        "name": "Tic It & Tac It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5X8aV69F0FrinCD9aiFSDI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3lNBIr8Qz94mdNCfUoqGQG"
+}

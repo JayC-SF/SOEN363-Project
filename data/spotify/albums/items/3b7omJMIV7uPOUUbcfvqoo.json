@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2iTBqSiPjYYns3Ta0Ohzrs"
+      },
+      "href": "https://api.spotify.com/v1/artists/2iTBqSiPjYYns3Ta0Ohzrs",
+      "id": "2iTBqSiPjYYns3Ta0Ohzrs",
+      "name": "PRODUCE 101",
+      "type": "artist",
+      "uri": "spotify:artist:2iTBqSiPjYYns3Ta0Ohzrs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 Stone Music Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 Stone Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8809484111255"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3b7omJMIV7uPOUUbcfvqoo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3b7omJMIV7uPOUUbcfvqoo",
+  "id": "3b7omJMIV7uPOUUbcfvqoo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e6f2d6a18d291f31b150daa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e6f2d6a18d291f31b150daa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e6f2d6a18d291f31b150daa",
+      "width": 64
+    }
+  ],
+  "label": "Genie Music Corporation",
+  "name": "PRODUCE 101 - PICK ME",
+  "popularity": 0,
+  "release_date": "2015-12-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3b7omJMIV7uPOUUbcfvqoo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2iTBqSiPjYYns3Ta0Ohzrs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2iTBqSiPjYYns3Ta0Ohzrs",
+            "id": "2iTBqSiPjYYns3Ta0Ohzrs",
+            "name": "PRODUCE 101",
+            "type": "artist",
+            "uri": "spotify:artist:2iTBqSiPjYYns3Ta0Ohzrs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226875,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6waLufBxKtw2NZkbRakYX9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6waLufBxKtw2NZkbRakYX9",
+        "id": "6waLufBxKtw2NZkbRakYX9",
+        "is_local": false,
+        "name": "PICK ME",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6waLufBxKtw2NZkbRakYX9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3b7omJMIV7uPOUUbcfvqoo"
+}

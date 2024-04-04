@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3"
+      },
+      "href": "https://api.spotify.com/v1/artists/3btIWfhXaf5db1gpLbXuB3",
+      "id": "3btIWfhXaf5db1gpLbXuB3",
+      "name": "Sham Rock",
+      "type": "artist",
+      "uri": "spotify:artist:3btIWfhXaf5db1gpLbXuB3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2007 Sujiro Productions",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2007 Square Biz Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602517296763"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29UXOLZYE8brsYPsOwNOBy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29UXOLZYE8brsYPsOwNOBy",
+  "id": "29UXOLZYE8brsYPsOwNOBy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7c4d1913850d17e1850f2d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7c4d1913850d17e1850f2d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7c4d1913850d17e1850f2d1",
+      "width": 64
+    }
+  ],
+  "label": "Square Biz",
+  "name": "Tell Me Ma",
+  "popularity": 0,
+  "release_date": "2007-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29UXOLZYE8brsYPsOwNOBy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3"
+            },
+            "href": "https://api.spotify.com/v1/artists/3btIWfhXaf5db1gpLbXuB3",
+            "id": "3btIWfhXaf5db1gpLbXuB3",
+            "name": "Sham Rock",
+            "type": "artist",
+            "uri": "spotify:artist:3btIWfhXaf5db1gpLbXuB3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JN2ztKWVeQblx6mYGk9ea"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JN2ztKWVeQblx6mYGk9ea",
+        "id": "0JN2ztKWVeQblx6mYGk9ea",
+        "is_local": false,
+        "name": "Tell Me Ma",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0JN2ztKWVeQblx6mYGk9ea"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29UXOLZYE8brsYPsOwNOBy"
+}

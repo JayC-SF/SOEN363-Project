@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+      },
+      "href": "https://api.spotify.com/v1/artists/35oGZihZclGoTVuICPXRP9",
+      "id": "35oGZihZclGoTVuICPXRP9",
+      "name": "Jere Klein",
+      "type": "artist",
+      "uri": "spotify:artist:35oGZihZclGoTVuICPXRP9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Jere Klein",
+      "type": "C"
+    },
+    {
+      "text": "2023 Jere Klein",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "713312385962"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4dVfr03Qqi1gpp2di7naIf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4dVfr03Qqi1gpp2di7naIf",
+  "id": "4dVfr03Qqi1gpp2di7naIf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5dcf21e403b3186099531e5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5dcf21e403b3186099531e5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5dcf21e403b3186099531e5",
+      "width": 64
+    }
+  ],
+  "label": "Jere Klein",
+  "name": "Ya No Pienso en Ti",
+  "popularity": 12,
+  "release_date": "2023-02-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4dVfr03Qqi1gpp2di7naIf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+            },
+            "href": "https://api.spotify.com/v1/artists/35oGZihZclGoTVuICPXRP9",
+            "id": "35oGZihZclGoTVuICPXRP9",
+            "name": "Jere Klein",
+            "type": "artist",
+            "uri": "spotify:artist:35oGZihZclGoTVuICPXRP9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 133865,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/447CO62bX92cmh13R0DAnk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/447CO62bX92cmh13R0DAnk",
+        "id": "447CO62bX92cmh13R0DAnk",
+        "is_local": false,
+        "name": "Ya No Pienso en Ti",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:447CO62bX92cmh13R0DAnk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4dVfr03Qqi1gpp2di7naIf"
+}

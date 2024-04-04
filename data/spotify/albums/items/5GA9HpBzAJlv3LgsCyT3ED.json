@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5beNQx8Rsr5StjfjIhwS4o"
+      },
+      "href": "https://api.spotify.com/v1/artists/5beNQx8Rsr5StjfjIhwS4o",
+      "id": "5beNQx8Rsr5StjfjIhwS4o",
+      "name": "Can't Stop Won't Stop",
+      "type": "artist",
+      "uri": "spotify:artist:5beNQx8Rsr5StjfjIhwS4o"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Can't Stop Won't Stop",
+      "type": "C"
+    },
+    {
+      "text": "2012 Can't Stop Won't Stop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859707587013"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5GA9HpBzAJlv3LgsCyT3ED"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5GA9HpBzAJlv3LgsCyT3ED",
+  "id": "5GA9HpBzAJlv3LgsCyT3ED",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339e710406845dc3c12db387d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239e710406845dc3c12db387d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139e710406845dc3c12db387d",
+      "width": 64
+    }
+  ],
+  "label": "Can't Stop Won't Stop",
+  "name": "Up and Away",
+  "popularity": 0,
+  "release_date": "2012-01-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5GA9HpBzAJlv3LgsCyT3ED/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5beNQx8Rsr5StjfjIhwS4o"
+            },
+            "href": "https://api.spotify.com/v1/artists/5beNQx8Rsr5StjfjIhwS4o",
+            "id": "5beNQx8Rsr5StjfjIhwS4o",
+            "name": "Can't Stop Won't Stop",
+            "type": "artist",
+            "uri": "spotify:artist:5beNQx8Rsr5StjfjIhwS4o"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BgeZ25p2wLpMEWUQqvYNJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BgeZ25p2wLpMEWUQqvYNJ",
+            "id": "6BgeZ25p2wLpMEWUQqvYNJ",
+            "name": "June",
+            "type": "artist",
+            "uri": "spotify:artist:6BgeZ25p2wLpMEWUQqvYNJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203655,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0O2t6ZqUyXze505PIxc2mz",
+        "id": "0O2t6ZqUyXze505PIxc2mz",
+        "is_local": false,
+        "name": "Up and Away",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0O2t6ZqUyXze505PIxc2mz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5GA9HpBzAJlv3LgsCyT3ED"
+}

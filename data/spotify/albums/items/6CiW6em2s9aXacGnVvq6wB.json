@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PLyh4fnqejPP7e5JADAT1"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PLyh4fnqejPP7e5JADAT1",
+      "id": "1PLyh4fnqejPP7e5JADAT1",
+      "name": "brynasfc",
+      "type": "artist",
+      "uri": "spotify:artist:1PLyh4fnqejPP7e5JADAT1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 ASFC999",
+      "type": "C"
+    },
+    {
+      "text": "2022 ASFC999",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197272094896"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6CiW6em2s9aXacGnVvq6wB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6CiW6em2s9aXacGnVvq6wB",
+  "id": "6CiW6em2s9aXacGnVvq6wB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c5a9ee6428d882e60bfd947",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c5a9ee6428d882e60bfd947",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c5a9ee6428d882e60bfd947",
+      "width": 64
+    }
+  ],
+  "label": "ASFC999",
+  "name": "Zombie",
+  "popularity": 0,
+  "release_date": "2022-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6CiW6em2s9aXacGnVvq6wB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PLyh4fnqejPP7e5JADAT1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PLyh4fnqejPP7e5JADAT1",
+            "id": "1PLyh4fnqejPP7e5JADAT1",
+            "name": "brynasfc",
+            "type": "artist",
+            "uri": "spotify:artist:1PLyh4fnqejPP7e5JADAT1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MvExBxykDrotUp5Oc5Ncd"
+            },
+            "href": "https://api.spotify.com/v1/artists/0MvExBxykDrotUp5Oc5Ncd",
+            "id": "0MvExBxykDrotUp5Oc5Ncd",
+            "name": "Mak",
+            "type": "artist",
+            "uri": "spotify:artist:0MvExBxykDrotUp5Oc5Ncd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 117733,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AcqqlkgEE5XHEAeRGmcNN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AcqqlkgEE5XHEAeRGmcNN",
+        "id": "7AcqqlkgEE5XHEAeRGmcNN",
+        "is_local": false,
+        "name": "Zombie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AcqqlkgEE5XHEAeRGmcNN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6CiW6em2s9aXacGnVvq6wB"
+}

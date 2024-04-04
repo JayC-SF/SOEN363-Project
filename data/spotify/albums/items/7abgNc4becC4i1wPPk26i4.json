@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+      },
+      "href": "https://api.spotify.com/v1/artists/5j2d5CS0sh2LTpFsrKAFcW",
+      "id": "5j2d5CS0sh2LTpFsrKAFcW",
+      "name": "Marisa Anderson",
+      "type": "artist",
+      "uri": "spotify:artist:5j2d5CS0sh2LTpFsrKAFcW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Marisa Anderson",
+      "type": "C"
+    },
+    {
+      "text": "2018 Thrill Jockey Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "790377046625"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7abgNc4becC4i1wPPk26i4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7abgNc4becC4i1wPPk26i4",
+  "id": "7abgNc4becC4i1wPPk26i4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739244ff7f469699ceecabcd4a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029244ff7f469699ceecabcd4a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519244ff7f469699ceecabcd4a",
+      "width": 64
+    }
+  ],
+  "label": "Thrill Jockey",
+  "name": "Cloud Corner",
+  "popularity": 0,
+  "release_date": "2018-02-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7abgNc4becC4i1wPPk26i4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+            },
+            "href": "https://api.spotify.com/v1/artists/5j2d5CS0sh2LTpFsrKAFcW",
+            "id": "5j2d5CS0sh2LTpFsrKAFcW",
+            "name": "Marisa Anderson",
+            "type": "artist",
+            "uri": "spotify:artist:5j2d5CS0sh2LTpFsrKAFcW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202011,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2LydzNsN1YQa7zlsCFfxL4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2LydzNsN1YQa7zlsCFfxL4",
+        "id": "2LydzNsN1YQa7zlsCFfxL4",
+        "is_local": false,
+        "name": "Cloud Corner",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2LydzNsN1YQa7zlsCFfxL4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7abgNc4becC4i1wPPk26i4"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+      },
+      "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+      "id": "72IlzE8lIeI5W1C4RTZAGv",
+      "name": "Riccardo",
+      "type": "artist",
+      "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Riccardo",
+      "type": "C"
+    },
+    {
+      "text": "2019 Riccardo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062851955188"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1BtMrwWXzASJNQHinkf4G0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1BtMrwWXzASJNQHinkf4G0",
+  "id": "1BtMrwWXzASJNQHinkf4G0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b13cafc4c2344531ccf1e32c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b13cafc4c2344531ccf1e32c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b13cafc4c2344531ccf1e32c",
+      "width": 64
+    }
+  ],
+  "label": "igroovemusic.com",
+  "name": "San Marino",
+  "popularity": 0,
+  "release_date": "2019-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1BtMrwWXzASJNQHinkf4G0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+            },
+            "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+            "id": "72IlzE8lIeI5W1C4RTZAGv",
+            "name": "Riccardo",
+            "type": "artist",
+            "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228122,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ckJ6kYibnycAjUP4DcwhG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ckJ6kYibnycAjUP4DcwhG",
+        "id": "7ckJ6kYibnycAjUP4DcwhG",
+        "is_local": false,
+        "name": "San Marino",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ckJ6kYibnycAjUP4DcwhG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1BtMrwWXzASJNQHinkf4G0"
+}

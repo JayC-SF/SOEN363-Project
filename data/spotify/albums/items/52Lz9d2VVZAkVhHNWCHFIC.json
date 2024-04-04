@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+      },
+      "href": "https://api.spotify.com/v1/artists/6WzWO3A5YAYxLVD224S9P0",
+      "id": "6WzWO3A5YAYxLVD224S9P0",
+      "name": "Alcemist",
+      "type": "artist",
+      "uri": "spotify:artist:6WzWO3A5YAYxLVD224S9P0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+      },
+      "href": "https://api.spotify.com/v1/artists/7q33wxvdJ95u6w3fY2q5ai",
+      "id": "7q33wxvdJ95u6w3fY2q5ai",
+      "name": "Coco",
+      "type": "artist",
+      "uri": "spotify:artist:7q33wxvdJ95u6w3fY2q5ai"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 DnB Allstars Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 DnB Allstars Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056580803017"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/52Lz9d2VVZAkVhHNWCHFIC",
+  "id": "52Lz9d2VVZAkVhHNWCHFIC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0ced59b2145aa48f4a27db6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b0ced59b2145aa48f4a27db6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b0ced59b2145aa48f4a27db6",
+      "width": 64
+    }
+  ],
+  "label": "DnB Allstars Records",
+  "name": "Stan Smith",
+  "popularity": 0,
+  "release_date": "2022-01-27",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/52Lz9d2VVZAkVhHNWCHFIC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6WzWO3A5YAYxLVD224S9P0",
+            "id": "6WzWO3A5YAYxLVD224S9P0",
+            "name": "Alcemist",
+            "type": "artist",
+            "uri": "spotify:artist:6WzWO3A5YAYxLVD224S9P0"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/7q33wxvdJ95u6w3fY2q5ai",
+            "id": "7q33wxvdJ95u6w3fY2q5ai",
+            "name": "Coco",
+            "type": "artist",
+            "uri": "spotify:artist:7q33wxvdJ95u6w3fY2q5ai"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6brzImyRC7tYwWKIvumozI",
+        "id": "6brzImyRC7tYwWKIvumozI",
+        "is_local": false,
+        "name": "Stan Smith",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6brzImyRC7tYwWKIvumozI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6WzWO3A5YAYxLVD224S9P0",
+            "id": "6WzWO3A5YAYxLVD224S9P0",
+            "name": "Alcemist",
+            "type": "artist",
+            "uri": "spotify:artist:6WzWO3A5YAYxLVD224S9P0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246610,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3172OKXlaGHVwDczHePHoD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3172OKXlaGHVwDczHePHoD",
+        "id": "3172OKXlaGHVwDczHePHoD",
+        "is_local": false,
+        "name": "Look At U",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3172OKXlaGHVwDczHePHoD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:52Lz9d2VVZAkVhHNWCHFIC"
+}

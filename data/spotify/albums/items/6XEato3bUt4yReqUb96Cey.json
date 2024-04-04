@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UI5lVyLb0Z5SPqKaYqPTW"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UI5lVyLb0Z5SPqKaYqPTW",
+      "id": "3UI5lVyLb0Z5SPqKaYqPTW",
+      "name": "Toby",
+      "type": "artist",
+      "uri": "spotify:artist:3UI5lVyLb0Z5SPqKaYqPTW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3157895 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3157895 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196512306683"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6XEato3bUt4yReqUb96Cey"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6XEato3bUt4yReqUb96Cey",
+  "id": "6XEato3bUt4yReqUb96Cey",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cef3dac55cd929f70a6f65cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cef3dac55cd929f70a6f65cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cef3dac55cd929f70a6f65cf",
+      "width": 64
+    }
+  ],
+  "label": "3157895 Records DK",
+  "name": "Capo (Slowed + Reverb)",
+  "popularity": 0,
+  "release_date": "2021-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6XEato3bUt4yReqUb96Cey/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UI5lVyLb0Z5SPqKaYqPTW"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UI5lVyLb0Z5SPqKaYqPTW",
+            "id": "3UI5lVyLb0Z5SPqKaYqPTW",
+            "name": "Toby",
+            "type": "artist",
+            "uri": "spotify:artist:3UI5lVyLb0Z5SPqKaYqPTW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203856,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2O6sKWHNstHga8qSmozYZM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2O6sKWHNstHga8qSmozYZM",
+        "id": "2O6sKWHNstHga8qSmozYZM",
+        "is_local": false,
+        "name": "Capo (Slowed + Reverb)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2O6sKWHNstHga8qSmozYZM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6XEato3bUt4yReqUb96Cey"
+}

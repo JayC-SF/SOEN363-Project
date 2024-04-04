@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1cvDsLFdRXfZQ1cdRteec7",
+      "id": "1cvDsLFdRXfZQ1cdRteec7",
+      "name": "Alazka",
+      "type": "artist",
+      "uri": "spotify:artist:1cvDsLFdRXfZQ1cdRteec7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 SHARPTONE",
+      "type": "C"
+    },
+    {
+      "text": "2018 SHARPTONE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "727361440367"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ZhYEe4tBRQB8y9pdAIeUv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ZhYEe4tBRQB8y9pdAIeUv",
+  "id": "2ZhYEe4tBRQB8y9pdAIeUv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fdb8e75a11c4f03494b1afda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fdb8e75a11c4f03494b1afda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fdb8e75a11c4f03494b1afda",
+      "width": 64
+    }
+  ],
+  "label": "Sharptone Records Inc.",
+  "name": "Phoenix II.",
+  "popularity": 0,
+  "release_date": "2018-03-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ZhYEe4tBRQB8y9pdAIeUv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cvDsLFdRXfZQ1cdRteec7",
+            "id": "1cvDsLFdRXfZQ1cdRteec7",
+            "name": "Alazka",
+            "type": "artist",
+            "uri": "spotify:artist:1cvDsLFdRXfZQ1cdRteec7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242475,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GXeCIkUiRHgEIjoRgbggD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7GXeCIkUiRHgEIjoRgbggD",
+        "id": "7GXeCIkUiRHgEIjoRgbggD",
+        "is_local": false,
+        "name": "Phoenix II.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7GXeCIkUiRHgEIjoRgbggD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ZhYEe4tBRQB8y9pdAIeUv"
+}

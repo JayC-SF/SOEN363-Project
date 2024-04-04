@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx"
+      },
+      "href": "https://api.spotify.com/v1/artists/29wdR87Jh14i39ruPMMXYx",
+      "id": "29wdR87Jh14i39ruPMMXYx",
+      "name": "Jordan McGraw",
+      "type": "artist",
+      "uri": "spotify:artist:29wdR87Jh14i39ruPMMXYx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Bort Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Bort Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197342111331"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4mKVYlOCj5wxCg1YyaYgWN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4mKVYlOCj5wxCg1YyaYgWN",
+  "id": "4mKVYlOCj5wxCg1YyaYgWN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732400ccda843c3ea7cf2ac1fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022400ccda843c3ea7cf2ac1fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512400ccda843c3ea7cf2ac1fb",
+      "width": 64
+    }
+  ],
+  "label": "Bort Records",
+  "name": "Can You Hear Me",
+  "popularity": 0,
+  "release_date": "2023-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4mKVYlOCj5wxCg1YyaYgWN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx"
+            },
+            "href": "https://api.spotify.com/v1/artists/29wdR87Jh14i39ruPMMXYx",
+            "id": "29wdR87Jh14i39ruPMMXYx",
+            "name": "Jordan McGraw",
+            "type": "artist",
+            "uri": "spotify:artist:29wdR87Jh14i39ruPMMXYx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181087,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hGWpeJ4Aq4yvUJ7KpQ2oa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hGWpeJ4Aq4yvUJ7KpQ2oa",
+        "id": "4hGWpeJ4Aq4yvUJ7KpQ2oa",
+        "is_local": false,
+        "name": "Can You Hear Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4hGWpeJ4Aq4yvUJ7KpQ2oa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4mKVYlOCj5wxCg1YyaYgWN"
+}

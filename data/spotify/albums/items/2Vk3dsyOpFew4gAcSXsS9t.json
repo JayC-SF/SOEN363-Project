@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1XLYJ9VzlgEpBdlkC4MhOL",
+      "id": "1XLYJ9VzlgEpBdlkC4MhOL",
+      "name": "frad",
+      "type": "artist",
+      "uri": "spotify:artist:1XLYJ9VzlgEpBdlkC4MhOL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Daisy VIbes",
+      "type": "C"
+    },
+    {
+      "text": "2018 Daisy VIbes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840091995386"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Vk3dsyOpFew4gAcSXsS9t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Vk3dsyOpFew4gAcSXsS9t",
+  "id": "2Vk3dsyOpFew4gAcSXsS9t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273250feb18900b70294173b8b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02250feb18900b70294173b8b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851250feb18900b70294173b8b8",
+      "width": 64
+    }
+  ],
+  "label": "Daisy VIbes",
+  "name": "First Date",
+  "popularity": 0,
+  "release_date": "2018-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Vk3dsyOpFew4gAcSXsS9t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1XLYJ9VzlgEpBdlkC4MhOL",
+            "id": "1XLYJ9VzlgEpBdlkC4MhOL",
+            "name": "frad",
+            "type": "artist",
+            "uri": "spotify:artist:1XLYJ9VzlgEpBdlkC4MhOL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173143,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RT37FnxNmvisZSb6leOCD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RT37FnxNmvisZSb6leOCD",
+        "id": "1RT37FnxNmvisZSb6leOCD",
+        "is_local": false,
+        "name": "First Date",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RT37FnxNmvisZSb6leOCD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Vk3dsyOpFew4gAcSXsS9t"
+}

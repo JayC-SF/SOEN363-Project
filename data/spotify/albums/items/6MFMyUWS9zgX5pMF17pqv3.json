@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1C0giDNDAD8nKcIrxoENuD"
+      },
+      "href": "https://api.spotify.com/v1/artists/1C0giDNDAD8nKcIrxoENuD",
+      "id": "1C0giDNDAD8nKcIrxoENuD",
+      "name": "DnBot",
+      "type": "artist",
+      "uri": "spotify:artist:1C0giDNDAD8nKcIrxoENuD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hjK6qweE8m1RTBuzL87S7"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hjK6qweE8m1RTBuzL87S7",
+      "id": "0hjK6qweE8m1RTBuzL87S7",
+      "name": "NOTED",
+      "type": "artist",
+      "uri": "spotify:artist:0hjK6qweE8m1RTBuzL87S7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Gorillaz",
+      "type": "C"
+    },
+    {
+      "text": "2023 DnBot",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063416093788"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MFMyUWS9zgX5pMF17pqv3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MFMyUWS9zgX5pMF17pqv3",
+  "id": "6MFMyUWS9zgX5pMF17pqv3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e0e05ed32efc8664f368b50",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e0e05ed32efc8664f368b50",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e0e05ed32efc8664f368b50",
+      "width": 64
+    }
+  ],
+  "label": "dnb track ids",
+  "name": "FEEL GOOD INC. (D&B)",
+  "popularity": 11,
+  "release_date": "2023-11-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MFMyUWS9zgX5pMF17pqv3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1C0giDNDAD8nKcIrxoENuD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1C0giDNDAD8nKcIrxoENuD",
+            "id": "1C0giDNDAD8nKcIrxoENuD",
+            "name": "DnBot",
+            "type": "artist",
+            "uri": "spotify:artist:1C0giDNDAD8nKcIrxoENuD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hjK6qweE8m1RTBuzL87S7"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hjK6qweE8m1RTBuzL87S7",
+            "id": "0hjK6qweE8m1RTBuzL87S7",
+            "name": "NOTED",
+            "type": "artist",
+            "uri": "spotify:artist:0hjK6qweE8m1RTBuzL87S7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268255,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2d94emVvqbiterHccHpBB9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2d94emVvqbiterHccHpBB9",
+        "id": "2d94emVvqbiterHccHpBB9",
+        "is_local": false,
+        "name": "FEEL GOOD INC. - D&B",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2d94emVvqbiterHccHpBB9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MFMyUWS9zgX5pMF17pqv3"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SKKmrCayBdpFX1A7l42Cw",
+      "id": "5SKKmrCayBdpFX1A7l42Cw",
+      "name": "EL Fresh",
+      "type": "artist",
+      "uri": "spotify:artist:5SKKmrCayBdpFX1A7l42Cw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 1355839 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 1355839 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195068839027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/07VxNz2IZPBqRfJVsuVZnL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/07VxNz2IZPBqRfJVsuVZnL",
+  "id": "07VxNz2IZPBqRfJVsuVZnL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273060a760b51e92dcf534e6564",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02060a760b51e92dcf534e6564",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851060a760b51e92dcf534e6564",
+      "width": 64
+    }
+  ],
+  "label": "1355839 Records DK",
+  "name": "EL Diablo",
+  "popularity": 0,
+  "release_date": "2020-01-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/07VxNz2IZPBqRfJVsuVZnL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SKKmrCayBdpFX1A7l42Cw",
+            "id": "5SKKmrCayBdpFX1A7l42Cw",
+            "name": "EL Fresh",
+            "type": "artist",
+            "uri": "spotify:artist:5SKKmrCayBdpFX1A7l42Cw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Mm3QHdKwWmHLI6tHYhORk",
+            "id": "4Mm3QHdKwWmHLI6tHYhORk",
+            "name": "Ledavile",
+            "type": "artist",
+            "uri": "spotify:artist:4Mm3QHdKwWmHLI6tHYhORk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164781,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fEZqh5xqx1ICPcdxe5jhO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fEZqh5xqx1ICPcdxe5jhO",
+        "id": "0fEZqh5xqx1ICPcdxe5jhO",
+        "is_local": false,
+        "name": "EL Diablo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0fEZqh5xqx1ICPcdxe5jhO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:07VxNz2IZPBqRfJVsuVZnL"
+}

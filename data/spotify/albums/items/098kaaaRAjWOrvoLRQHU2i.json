@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "id": "2kxP07DLgs4xlWz8YHlvfh",
+      "name": "NIKI",
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 88rising Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 88rising Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296832536"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/098kaaaRAjWOrvoLRQHU2i"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/098kaaaRAjWOrvoLRQHU2i",
+  "id": "098kaaaRAjWOrvoLRQHU2i",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a05fc4f725bf2388f1be64ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a05fc4f725bf2388f1be64ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a05fc4f725bf2388f1be64ac",
+      "width": 64
+    }
+  ],
+  "label": "88rising Music",
+  "name": "Selene",
+  "popularity": 15,
+  "release_date": "2020-07-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/098kaaaRAjWOrvoLRQHU2i/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0h11wE1hTwKMxYd1NACgNb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0h11wE1hTwKMxYd1NACgNb",
+        "id": "0h11wE1hTwKMxYd1NACgNb",
+        "is_local": false,
+        "name": "Selene",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0h11wE1hTwKMxYd1NACgNb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204299,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EBOJbay7xuCoJWHQCnQFi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EBOJbay7xuCoJWHQCnQFi",
+        "id": "7EBOJbay7xuCoJWHQCnQFi",
+        "is_local": false,
+        "name": "Switchblade",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7EBOJbay7xuCoJWHQCnQFi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:098kaaaRAjWOrvoLRQHU2i"
+}

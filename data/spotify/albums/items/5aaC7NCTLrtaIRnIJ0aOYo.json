@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+      "id": "6PIIKavZx20FlVKyIvb4Um",
+      "name": "Calema",
+      "type": "artist",
+      "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+    }
+  ],
+  "available_markets": [
+    "PT"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602438997541"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5aaC7NCTLrtaIRnIJ0aOYo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5aaC7NCTLrtaIRnIJ0aOYo",
+  "id": "5aaC7NCTLrtaIRnIJ0aOYo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273679b1d1231a336f3a964c5a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02679b1d1231a336f3a964c5a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851679b1d1231a336f3a964c5a2",
+      "width": 64
+    }
+  ],
+  "label": "Klasszik",
+  "name": "Presa",
+  "popularity": 28,
+  "release_date": "2019-06-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5aaC7NCTLrtaIRnIJ0aOYo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+            "id": "6PIIKavZx20FlVKyIvb4Um",
+            "name": "Calema",
+            "type": "artist",
+            "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3q0uYBkdRxSwrjR2cdPBtj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3q0uYBkdRxSwrjR2cdPBtj",
+            "id": "3q0uYBkdRxSwrjR2cdPBtj",
+            "name": "Batuta",
+            "type": "artist",
+            "uri": "spotify:artist:3q0uYBkdRxSwrjR2cdPBtj"
+          }
+        ],
+        "available_markets": [
+          "PT"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gjKMSv9bmSBjRZni4vudm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gjKMSv9bmSBjRZni4vudm",
+        "id": "5gjKMSv9bmSBjRZni4vudm",
+        "is_local": false,
+        "name": "Presa",
+        "preview_url": "https://p.scdn.co/mp3-preview/b75a54b18dad859464ea1d9e3fd912f8783c6bf1?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5gjKMSv9bmSBjRZni4vudm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5aaC7NCTLrtaIRnIJ0aOYo"
+}

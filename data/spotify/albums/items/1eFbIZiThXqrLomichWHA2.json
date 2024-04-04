@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+      },
+      "href": "https://api.spotify.com/v1/artists/0X3nsc84A9qlFilmlWNwQb",
+      "id": "0X3nsc84A9qlFilmlWNwQb",
+      "name": "Scorey",
+      "type": "artist",
+      "uri": "spotify:artist:0X3nsc84A9qlFilmlWNwQb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Scorey",
+      "type": "C"
+    },
+    {
+      "text": "2020 Scorey",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195410828181"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1eFbIZiThXqrLomichWHA2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1eFbIZiThXqrLomichWHA2",
+  "id": "1eFbIZiThXqrLomichWHA2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ab1bfcf4ec3bcbb10790f64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ab1bfcf4ec3bcbb10790f64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ab1bfcf4ec3bcbb10790f64",
+      "width": 64
+    }
+  ],
+  "label": "ODA",
+  "name": "Moods",
+  "popularity": 14,
+  "release_date": "2020-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1eFbIZiThXqrLomichWHA2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X3nsc84A9qlFilmlWNwQb",
+            "id": "0X3nsc84A9qlFilmlWNwQb",
+            "name": "Scorey",
+            "type": "artist",
+            "uri": "spotify:artist:0X3nsc84A9qlFilmlWNwQb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138792,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ECC831LVH8TtCc3sBb25t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ECC831LVH8TtCc3sBb25t",
+        "id": "2ECC831LVH8TtCc3sBb25t",
+        "is_local": false,
+        "name": "Moods",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ECC831LVH8TtCc3sBb25t"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1eFbIZiThXqrLomichWHA2"
+}

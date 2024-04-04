@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MgMN5BR3mfAMR5y7S2UIr"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MgMN5BR3mfAMR5y7S2UIr",
+      "id": "2MgMN5BR3mfAMR5y7S2UIr",
+      "name": "Lilacs.",
+      "type": "artist",
+      "uri": "spotify:artist:2MgMN5BR3mfAMR5y7S2UIr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+      "id": "1GmsPCcpKgF9OhlNXjOsbS",
+      "name": "Lizzy McAlpine",
+      "type": "artist",
+      "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Lilacs.",
+      "type": "C"
+    },
+    {
+      "text": "2020 Lilacs.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195079005558"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7skYaHXGxK6JiRwlVgJ5ri"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7skYaHXGxK6JiRwlVgJ5ri",
+  "id": "7skYaHXGxK6JiRwlVgJ5ri",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae8e7303b4b87c520a8c601c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae8e7303b4b87c520a8c601c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae8e7303b4b87c520a8c601c",
+      "width": 64
+    }
+  ],
+  "label": "Lilacs.",
+  "name": "7PM",
+  "popularity": 0,
+  "release_date": "2020-03-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7skYaHXGxK6JiRwlVgJ5ri/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2MgMN5BR3mfAMR5y7S2UIr"
+            },
+            "href": "https://api.spotify.com/v1/artists/2MgMN5BR3mfAMR5y7S2UIr",
+            "id": "2MgMN5BR3mfAMR5y7S2UIr",
+            "name": "Lilacs.",
+            "type": "artist",
+            "uri": "spotify:artist:2MgMN5BR3mfAMR5y7S2UIr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+            "id": "1GmsPCcpKgF9OhlNXjOsbS",
+            "name": "Lizzy McAlpine",
+            "type": "artist",
+            "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202105,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76tztTt7xAC6E0RZggd9xg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76tztTt7xAC6E0RZggd9xg",
+        "id": "76tztTt7xAC6E0RZggd9xg",
+        "is_local": false,
+        "name": "7PM",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:76tztTt7xAC6E0RZggd9xg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7skYaHXGxK6JiRwlVgJ5ri"
+}

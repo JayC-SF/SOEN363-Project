@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+      "id": "4gdMJYnopf2nEUcanAwstx",
+      "name": "Anuv Jain",
+      "type": "artist",
+      "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Anuv Jain",
+      "type": "C"
+    },
+    {
+      "text": "2019 Anuv Jain",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733495061"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6jL8rcC7NYpkHEBAjI4Zw6",
+  "id": "6jL8rcC7NYpkHEBAjI4Zw6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cdf7d1d8ff13c3360a8c033d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cdf7d1d8ff13c3360a8c033d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cdf7d1d8ff13c3360a8c033d",
+      "width": 64
+    }
+  ],
+  "label": "Anuv Jain",
+  "name": "Riha",
+  "popularity": 2,
+  "release_date": "2019-07-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6jL8rcC7NYpkHEBAjI4Zw6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+            "id": "4gdMJYnopf2nEUcanAwstx",
+            "name": "Anuv Jain",
+            "type": "artist",
+            "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 287323,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Ln89sczgIcAJXGAIdS94R",
+        "id": "6Ln89sczgIcAJXGAIdS94R",
+        "is_local": false,
+        "name": "Riha",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Ln89sczgIcAJXGAIdS94R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6jL8rcC7NYpkHEBAjI4Zw6"
+}

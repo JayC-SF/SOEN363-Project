@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37EtG92wa0vV0OMpk2mVFV"
+      },
+      "href": "https://api.spotify.com/v1/artists/37EtG92wa0vV0OMpk2mVFV",
+      "id": "37EtG92wa0vV0OMpk2mVFV",
+      "name": "t3.",
+      "type": "artist",
+      "uri": "spotify:artist:37EtG92wa0vV0OMpk2mVFV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 analog dreams",
+      "type": "C"
+    },
+    {
+      "text": "2022 analog dreams",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197389341876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3bEENs66hSrDLlhazyZbWR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3bEENs66hSrDLlhazyZbWR",
+  "id": "3bEENs66hSrDLlhazyZbWR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d95380e1f30239668941c64e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d95380e1f30239668941c64e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d95380e1f30239668941c64e",
+      "width": 64
+    }
+  ],
+  "label": "analog dreams",
+  "name": "spaghetti's dream",
+  "popularity": 0,
+  "release_date": "2022-12-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3bEENs66hSrDLlhazyZbWR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/37EtG92wa0vV0OMpk2mVFV"
+            },
+            "href": "https://api.spotify.com/v1/artists/37EtG92wa0vV0OMpk2mVFV",
+            "id": "37EtG92wa0vV0OMpk2mVFV",
+            "name": "t3.",
+            "type": "artist",
+            "uri": "spotify:artist:37EtG92wa0vV0OMpk2mVFV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 102931,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6szPdbfOGSBYRQMGrBcCRZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6szPdbfOGSBYRQMGrBcCRZ",
+        "id": "6szPdbfOGSBYRQMGrBcCRZ",
+        "is_local": false,
+        "name": "spaghetti's dream",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6szPdbfOGSBYRQMGrBcCRZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3bEENs66hSrDLlhazyZbWR"
+}

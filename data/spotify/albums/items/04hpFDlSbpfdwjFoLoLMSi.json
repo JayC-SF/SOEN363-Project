@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pdqSPB4dkmIhAs4TpN6bR"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pdqSPB4dkmIhAs4TpN6bR",
+      "id": "7pdqSPB4dkmIhAs4TpN6bR",
+      "name": "Arun Muraleedharan",
+      "type": "artist",
+      "uri": "spotify:artist:7pdqSPB4dkmIhAs4TpN6bR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ac7n5L5b7LMXonUHZRrWy",
+      "id": "2Ac7n5L5b7LMXonUHZRrWy",
+      "name": "Manu Manjith",
+      "type": "artist",
+      "uri": "spotify:artist:2Ac7n5L5b7LMXonUHZRrWy"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2023 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8907212008375"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04hpFDlSbpfdwjFoLoLMSi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04hpFDlSbpfdwjFoLoLMSi",
+  "id": "04hpFDlSbpfdwjFoLoLMSi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c0e23bb9717959cfe9d1e3f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c0e23bb9717959cfe9d1e3f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c0e23bb9717959cfe9d1e3f8",
+      "width": 64
+    }
+  ],
+  "label": "Saregama India Ltd",
+  "name": "Puthunaambukal (From \"Nadhikalil Sundari Yamuna\")",
+  "popularity": 16,
+  "release_date": "2023-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04hpFDlSbpfdwjFoLoLMSi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pdqSPB4dkmIhAs4TpN6bR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pdqSPB4dkmIhAs4TpN6bR",
+            "id": "7pdqSPB4dkmIhAs4TpN6bR",
+            "name": "Arun Muraleedharan",
+            "type": "artist",
+            "uri": "spotify:artist:7pdqSPB4dkmIhAs4TpN6bR"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 149449,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73G9DhEjswe9JBqBeFnmfq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73G9DhEjswe9JBqBeFnmfq",
+        "id": "73G9DhEjswe9JBqBeFnmfq",
+        "is_local": false,
+        "name": "Puthunaambukal (From \"Nadhikalil Sundari Yamuna\")",
+        "preview_url": "https://p.scdn.co/mp3-preview/b96a6c52b8baf3f8b344f0a6e092c2a2457d0890?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:73G9DhEjswe9JBqBeFnmfq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04hpFDlSbpfdwjFoLoLMSi"
+}

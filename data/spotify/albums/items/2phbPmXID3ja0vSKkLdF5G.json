@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id": "2CIMQHirSU0MQqyYHq0eOx",
+      "name": "deadmau5",
+      "type": "artist",
+      "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0KuF7reCTOZwV7YJnHQqgr",
+      "id": "0KuF7reCTOZwV7YJnHQqgr",
+      "name": "The Neptunes",
+      "type": "artist",
+      "uri": "spotify:artist:0KuF7reCTOZwV7YJnHQqgr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 maut5rap Recordings Limited under exclusive license to AWAL Recordings America, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2020 maut5rap Recordings Limited under exclusive license to AWAL Recordings America, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167123798"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2phbPmXID3ja0vSKkLdF5G"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2phbPmXID3ja0vSKkLdF5G",
+  "id": "2phbPmXID3ja0vSKkLdF5G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273633e3c2cb2ca0f4286f742f3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02633e3c2cb2ca0f4286f742f3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851633e3c2cb2ca0f4286f742f3",
+      "width": 64
+    }
+  ],
+  "label": "mau5trap Recordings Limited",
+  "name": "Pomegranate",
+  "popularity": 0,
+  "release_date": "2020-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2phbPmXID3ja0vSKkLdF5G/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0KuF7reCTOZwV7YJnHQqgr",
+            "id": "0KuF7reCTOZwV7YJnHQqgr",
+            "name": "The Neptunes",
+            "type": "artist",
+            "uri": "spotify:artist:0KuF7reCTOZwV7YJnHQqgr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207903,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rjJyv6c4qXD2SKwdQx6wT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rjJyv6c4qXD2SKwdQx6wT",
+        "id": "5rjJyv6c4qXD2SKwdQx6wT",
+        "is_local": false,
+        "name": "Pomegranate",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5rjJyv6c4qXD2SKwdQx6wT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2phbPmXID3ja0vSKkLdF5G"
+}

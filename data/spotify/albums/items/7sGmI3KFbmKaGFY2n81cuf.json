@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+      },
+      "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+      "id": "5y2Xq6xcjJb2jVM54GHK3t",
+      "name": "John Legend",
+      "type": "artist",
+      "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Getting Out Our Dreams and Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444045124"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sGmI3KFbmKaGFY2n81cuf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7sGmI3KFbmKaGFY2n81cuf",
+  "id": "7sGmI3KFbmKaGFY2n81cuf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc1fae736fe314d5e593dfdc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc1fae736fe314d5e593dfdc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc1fae736fe314d5e593dfdc",
+      "width": 64
+    }
+  ],
+  "label": "G.O.O.D. Music/Columbia",
+  "name": "Made To Love",
+  "popularity": 0,
+  "release_date": "2013-06-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sGmI3KFbmKaGFY2n81cuf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+            },
+            "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+            "id": "5y2Xq6xcjJb2jVM54GHK3t",
+            "name": "John Legend",
+            "type": "artist",
+            "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cgRsh3d6A5UmhNoBOhawr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4cgRsh3d6A5UmhNoBOhawr",
+        "id": "4cgRsh3d6A5UmhNoBOhawr",
+        "is_local": false,
+        "name": "Made to Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4cgRsh3d6A5UmhNoBOhawr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7sGmI3KFbmKaGFY2n81cuf"
+}

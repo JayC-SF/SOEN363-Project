@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      "href": "https://api.spotify.com/v1/artists/1NaQOKgddaJipUtmptb7GI",
+      "id": "1NaQOKgddaJipUtmptb7GI",
+      "name": "Argy",
+      "type": "artist",
+      "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4zPg2ECAB9rHtMAx8faWfc",
+      "id": "4zPg2ECAB9rHtMAx8faWfc",
+      "name": "Omnya",
+      "type": "artist",
+      "uri": "spotify:artist:4zPg2ECAB9rHtMAx8faWfc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Afterlife Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2023 Afterlife Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4251353207448"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Oi3PgQhL4WOKe1aoPCpqe",
+  "id": "1Oi3PgQhL4WOKe1aoPCpqe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c80ffdc279b69278ce04d31",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c80ffdc279b69278ce04d31",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c80ffdc279b69278ce04d31",
+      "width": 64
+    }
+  ],
+  "label": "Afterlife",
+  "name": "Aria",
+  "popularity": 36,
+  "release_date": "2023-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Oi3PgQhL4WOKe1aoPCpqe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1NaQOKgddaJipUtmptb7GI",
+            "id": "1NaQOKgddaJipUtmptb7GI",
+            "name": "Argy",
+            "type": "artist",
+            "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zPg2ECAB9rHtMAx8faWfc",
+            "id": "4zPg2ECAB9rHtMAx8faWfc",
+            "name": "Omnya",
+            "type": "artist",
+            "uri": "spotify:artist:4zPg2ECAB9rHtMAx8faWfc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 236065,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3M1r9ilL53PLcrLdIuyZ4J",
+        "id": "3M1r9ilL53PLcrLdIuyZ4J",
+        "is_local": false,
+        "name": "Aria",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3M1r9ilL53PLcrLdIuyZ4J"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Oi3PgQhL4WOKe1aoPCpqe"
+}

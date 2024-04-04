@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ZtRAJvBArlocyjPbm4Lvr",
+      "id": "3ZtRAJvBArlocyjPbm4Lvr",
+      "name": "Birds of Bellwoods",
+      "type": "artist",
+      "uri": "spotify:artist:3ZtRAJvBArlocyjPbm4Lvr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 MNRK Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2022 MNRK Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "625612859626"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0aiVSysWw5WGJx5ufv6k9H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0aiVSysWw5WGJx5ufv6k9H",
+  "id": "0aiVSysWw5WGJx5ufv6k9H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273817d8a02a6f0a7f5395da5a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02817d8a02a6f0a7f5395da5a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851817d8a02a6f0a7f5395da5a7",
+      "width": 64
+    }
+  ],
+  "label": "MNRK Music",
+  "name": "One By One",
+  "popularity": 0,
+  "release_date": "2022-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0aiVSysWw5WGJx5ufv6k9H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ZtRAJvBArlocyjPbm4Lvr",
+            "id": "3ZtRAJvBArlocyjPbm4Lvr",
+            "name": "Birds of Bellwoods",
+            "type": "artist",
+            "uri": "spotify:artist:3ZtRAJvBArlocyjPbm4Lvr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185675,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nMpQ1jQ5y1AvNok4PwuSa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nMpQ1jQ5y1AvNok4PwuSa",
+        "id": "6nMpQ1jQ5y1AvNok4PwuSa",
+        "is_local": false,
+        "name": "One By One",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6nMpQ1jQ5y1AvNok4PwuSa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0aiVSysWw5WGJx5ufv6k9H"
+}

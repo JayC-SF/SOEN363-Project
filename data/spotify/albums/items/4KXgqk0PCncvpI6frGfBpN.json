@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Dd6jD1AApgtNoU6SJWR7P",
+      "id": "3Dd6jD1AApgtNoU6SJWR7P",
+      "name": "Anita Ward",
+      "type": "artist",
+      "uri": "spotify:artist:3Dd6jD1AApgtNoU6SJWR7P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 1979 Juana Records",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "034373259826"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KXgqk0PCncvpI6frGfBpN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4KXgqk0PCncvpI6frGfBpN",
+  "id": "4KXgqk0PCncvpI6frGfBpN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe118fdb5032abd3354b92ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe118fdb5032abd3354b92ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe118fdb5032abd3354b92ff",
+      "width": 64
+    }
+  ],
+  "label": "601 Music",
+  "name": "Ring My Bell - Single",
+  "popularity": 0,
+  "release_date": "1979-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4KXgqk0PCncvpI6frGfBpN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Dd6jD1AApgtNoU6SJWR7P",
+            "id": "3Dd6jD1AApgtNoU6SJWR7P",
+            "name": "Anita Ward",
+            "type": "artist",
+            "uri": "spotify:artist:3Dd6jD1AApgtNoU6SJWR7P"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SoJtLh4leDZBCVr6zH4mR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4SoJtLh4leDZBCVr6zH4mR",
+        "id": "4SoJtLh4leDZBCVr6zH4mR",
+        "is_local": false,
+        "name": "Ring My Bell - Single, Short Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4SoJtLh4leDZBCVr6zH4mR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4KXgqk0PCncvpI6frGfBpN"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3LsOlS3LN52gZ2zERGaLV0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3LsOlS3LN52gZ2zERGaLV0",
+      "id": "3LsOlS3LN52gZ2zERGaLV0",
+      "name": "Lloyd1",
+      "type": "artist",
+      "uri": "spotify:artist:3LsOlS3LN52gZ2zERGaLV0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 lly1",
+      "type": "C"
+    },
+    {
+      "text": "2023 lly1",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063346860771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4gDWztBQdW72yCDNwzY9a1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4gDWztBQdW72yCDNwzY9a1",
+  "id": "4gDWztBQdW72yCDNwzY9a1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273643dc0e95e058926b62173ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02643dc0e95e058926b62173ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851643dc0e95e058926b62173ea",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "All I Need",
+  "popularity": 36,
+  "release_date": "2023-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4gDWztBQdW72yCDNwzY9a1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3LsOlS3LN52gZ2zERGaLV0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3LsOlS3LN52gZ2zERGaLV0",
+            "id": "3LsOlS3LN52gZ2zERGaLV0",
+            "name": "Lloyd1",
+            "type": "artist",
+            "uri": "spotify:artist:3LsOlS3LN52gZ2zERGaLV0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238320,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uaMrqbNuaahHr2zLs6NB9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6uaMrqbNuaahHr2zLs6NB9",
+        "id": "6uaMrqbNuaahHr2zLs6NB9",
+        "is_local": false,
+        "name": "All I Need",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6uaMrqbNuaahHr2zLs6NB9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4gDWztBQdW72yCDNwzY9a1"
+}

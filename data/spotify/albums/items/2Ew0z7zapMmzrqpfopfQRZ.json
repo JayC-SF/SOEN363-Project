@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0791FwtNeunpdFtwkR7pLj"
+      },
+      "href": "https://api.spotify.com/v1/artists/0791FwtNeunpdFtwkR7pLj",
+      "id": "0791FwtNeunpdFtwkR7pLj",
+      "name": "NXI",
+      "type": "artist",
+      "uri": "spotify:artist:0791FwtNeunpdFtwkR7pLj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 NXI",
+      "type": "C"
+    },
+    {
+      "text": "2021 NXI",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "732138918741"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Ew0z7zapMmzrqpfopfQRZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Ew0z7zapMmzrqpfopfQRZ",
+  "id": "2Ew0z7zapMmzrqpfopfQRZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d1362f2d513267a8680c9fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d1362f2d513267a8680c9fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d1362f2d513267a8680c9fd",
+      "width": 64
+    }
+  ],
+  "label": "NXI",
+  "name": "Heartbeat",
+  "popularity": 13,
+  "release_date": "2021-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Ew0z7zapMmzrqpfopfQRZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0791FwtNeunpdFtwkR7pLj"
+            },
+            "href": "https://api.spotify.com/v1/artists/0791FwtNeunpdFtwkR7pLj",
+            "id": "0791FwtNeunpdFtwkR7pLj",
+            "name": "NXI",
+            "type": "artist",
+            "uri": "spotify:artist:0791FwtNeunpdFtwkR7pLj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3twWt8OjyizHugmfw64O0I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3twWt8OjyizHugmfw64O0I",
+            "id": "3twWt8OjyizHugmfw64O0I",
+            "name": "Enquirer",
+            "type": "artist",
+            "uri": "spotify:artist:3twWt8OjyizHugmfw64O0I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234475,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Fppf1q6sYir7cpkE3oK5S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Fppf1q6sYir7cpkE3oK5S",
+        "id": "1Fppf1q6sYir7cpkE3oK5S",
+        "is_local": false,
+        "name": "Heartbeat",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Fppf1q6sYir7cpkE3oK5S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Ew0z7zapMmzrqpfopfQRZ"
+}

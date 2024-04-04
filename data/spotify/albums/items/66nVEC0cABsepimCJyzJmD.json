@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4R90PNicCsCsEoRm8XwiMS",
+      "id": "4R90PNicCsCsEoRm8XwiMS",
+      "name": "The Beat",
+      "type": "artist",
+      "uri": "spotify:artist:4R90PNicCsCsEoRm8XwiMS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Chrysalis Records Limited",
+      "type": "C"
+    },
+    {
+      "text": "1979 Chrysalis Records Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526646919"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/66nVEC0cABsepimCJyzJmD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/66nVEC0cABsepimCJyzJmD",
+  "id": "66nVEC0cABsepimCJyzJmD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336321d03cb7cc87c29da33b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236321d03cb7cc87c29da33b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136321d03cb7cc87c29da33b6",
+      "width": 64
+    }
+  ],
+  "label": "Chrysalis Records",
+  "name": "The Tears of a Clown",
+  "popularity": 0,
+  "release_date": "1979-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/66nVEC0cABsepimCJyzJmD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4R90PNicCsCsEoRm8XwiMS",
+            "id": "4R90PNicCsCsEoRm8XwiMS",
+            "name": "The Beat",
+            "type": "artist",
+            "uri": "spotify:artist:4R90PNicCsCsEoRm8XwiMS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hy088joIbZmkdampmeL0f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hy088joIbZmkdampmeL0f",
+        "id": "7hy088joIbZmkdampmeL0f",
+        "is_local": false,
+        "name": "The Tears of a Clown",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7hy088joIbZmkdampmeL0f"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4R90PNicCsCsEoRm8XwiMS",
+            "id": "4R90PNicCsCsEoRm8XwiMS",
+            "name": "The Beat",
+            "type": "artist",
+            "uri": "spotify:artist:4R90PNicCsCsEoRm8XwiMS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167457,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31AwwPy3Y5KK6iyhLHufU8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31AwwPy3Y5KK6iyhLHufU8",
+        "id": "31AwwPy3Y5KK6iyhLHufU8",
+        "is_local": false,
+        "name": "Ranking Full Stop",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:31AwwPy3Y5KK6iyhLHufU8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:66nVEC0cABsepimCJyzJmD"
+}

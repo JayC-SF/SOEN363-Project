@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DFvLbBG5R981eicF3i31J",
+      "id": "3DFvLbBG5R981eicF3i31J",
+      "name": "Coby James",
+      "type": "artist",
+      "uri": "spotify:artist:3DFvLbBG5R981eicF3i31J"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Centricity Music",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Centricity Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "829619226751"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5mENIriC2u8kE7AJ5415w3",
+  "id": "5mENIriC2u8kE7AJ5415w3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2d5861d8b0eeec6b918a4c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2d5861d8b0eeec6b918a4c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2d5861d8b0eeec6b918a4c6",
+      "width": 64
+    }
+  ],
+  "label": "Centricity Music",
+  "name": "Brand New",
+  "popularity": 0,
+  "release_date": "2021-06-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5mENIriC2u8kE7AJ5415w3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+            },
+            "href": "https://api.spotify.com/v1/artists/3DFvLbBG5R981eicF3i31J",
+            "id": "3DFvLbBG5R981eicF3i31J",
+            "name": "Coby James",
+            "type": "artist",
+            "uri": "spotify:artist:3DFvLbBG5R981eicF3i31J"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150439,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AjI1A5a68tyKBVjw22oWI",
+        "id": "5AjI1A5a68tyKBVjw22oWI",
+        "is_local": false,
+        "name": "Brand New",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5AjI1A5a68tyKBVjw22oWI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5mENIriC2u8kE7AJ5415w3"
+}

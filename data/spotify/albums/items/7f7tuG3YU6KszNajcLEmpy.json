@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+      },
+      "href": "https://api.spotify.com/v1/artists/32obs0w1xupMz2CXf5B9wb",
+      "id": "32obs0w1xupMz2CXf5B9wb",
+      "name": "Eva Westphal",
+      "type": "artist",
+      "uri": "spotify:artist:32obs0w1xupMz2CXf5B9wb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Eva Westphal under exclusive license to FRTYFVE",
+      "type": "C"
+    },
+    {
+      "text": "2023 Eva Westphal",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316472417226"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7f7tuG3YU6KszNajcLEmpy",
+  "id": "7f7tuG3YU6KszNajcLEmpy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c456d3e4550e44c7d30b89c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c456d3e4550e44c7d30b89c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c456d3e4550e44c7d30b89c1",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "Understood",
+  "popularity": 0,
+  "release_date": "2023-02-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7f7tuG3YU6KszNajcLEmpy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+            },
+            "href": "https://api.spotify.com/v1/artists/32obs0w1xupMz2CXf5B9wb",
+            "id": "32obs0w1xupMz2CXf5B9wb",
+            "name": "Eva Westphal",
+            "type": "artist",
+            "uri": "spotify:artist:32obs0w1xupMz2CXf5B9wb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131144,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1U1oiy0gG7yqhzJ8duuzMd",
+        "id": "1U1oiy0gG7yqhzJ8duuzMd",
+        "is_local": false,
+        "name": "Understood",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1U1oiy0gG7yqhzJ8duuzMd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7f7tuG3YU6KszNajcLEmpy"
+}

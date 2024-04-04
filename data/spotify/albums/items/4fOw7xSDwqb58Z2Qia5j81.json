@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "name": "Travis Scott",
+      "type": "artist",
+      "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 Epic Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446531076"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4fOw7xSDwqb58Z2Qia5j81"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4fOw7xSDwqb58Z2Qia5j81",
+  "id": "4fOw7xSDwqb58Z2Qia5j81",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5e9358d0d07114609d9afab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5e9358d0d07114609d9afab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5e9358d0d07114609d9afab",
+      "width": 64
+    }
+  ],
+  "label": "Epic/Grand Hustle",
+  "name": "BUTTERFLY EFFECT",
+  "popularity": 0,
+  "release_date": "2017-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4fOw7xSDwqb58Z2Qia5j81/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "type": "artist",
+            "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190677,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yxgsra98r3qAtxqiGZPiX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yxgsra98r3qAtxqiGZPiX",
+        "id": "1yxgsra98r3qAtxqiGZPiX",
+        "is_local": false,
+        "name": "BUTTERFLY EFFECT",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yxgsra98r3qAtxqiGZPiX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4fOw7xSDwqb58Z2Qia5j81"
+}

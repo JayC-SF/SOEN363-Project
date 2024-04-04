@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2"
+      },
+      "href": "https://api.spotify.com/v1/artists/4J8wx45aOWsfkQsEt7mVV2",
+      "id": "4J8wx45aOWsfkQsEt7mVV2",
+      "name": "Margaret Berger",
+      "type": "artist",
+      "uri": "spotify:artist:4J8wx45aOWsfkQsEt7mVV2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Macho Records under exclusive license to Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2013 Macho Records under exclusive license to Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465468155"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/25AQptHsYwaZA8SiwBttDi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/25AQptHsYwaZA8SiwBttDi",
+  "id": "25AQptHsYwaZA8SiwBttDi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273368c0209a06fbc976b47fea2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02368c0209a06fbc976b47fea2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851368c0209a06fbc976b47fea2",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "I Feed You My Love",
+  "popularity": 0,
+  "release_date": "2013-10-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/25AQptHsYwaZA8SiwBttDi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2"
+            },
+            "href": "https://api.spotify.com/v1/artists/4J8wx45aOWsfkQsEt7mVV2",
+            "id": "4J8wx45aOWsfkQsEt7mVV2",
+            "name": "Margaret Berger",
+            "type": "artist",
+            "uri": "spotify:artist:4J8wx45aOWsfkQsEt7mVV2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4q8NpLGEVaMLLzlnoaYgV6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4q8NpLGEVaMLLzlnoaYgV6",
+        "id": "4q8NpLGEVaMLLzlnoaYgV6",
+        "is_local": false,
+        "name": "I Feed You My Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4q8NpLGEVaMLLzlnoaYgV6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:25AQptHsYwaZA8SiwBttDi"
+}

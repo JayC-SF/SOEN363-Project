@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1w7df2ogprg1i3iQ9fH7pO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1w7df2ogprg1i3iQ9fH7pO",
+      "id": "1w7df2ogprg1i3iQ9fH7pO",
+      "name": "FamilyJules",
+      "type": "artist",
+      "uri": "spotify:artist:1w7df2ogprg1i3iQ9fH7pO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 FamilyJules",
+      "type": "C"
+    },
+    {
+      "text": "2020 FamilyJules",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195268548507"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3nkSR14bYgT0bOU16iMa40"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3nkSR14bYgT0bOU16iMa40",
+  "id": "3nkSR14bYgT0bOU16iMa40",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f77f65062a56b9db29b355b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f77f65062a56b9db29b355b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f77f65062a56b9db29b355b1",
+      "width": 64
+    }
+  ],
+  "label": "FamilyJules",
+  "name": "The Only Thing They Fear Is You",
+  "popularity": 0,
+  "release_date": "2020-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3nkSR14bYgT0bOU16iMa40/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1w7df2ogprg1i3iQ9fH7pO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1w7df2ogprg1i3iQ9fH7pO",
+            "id": "1w7df2ogprg1i3iQ9fH7pO",
+            "name": "FamilyJules",
+            "type": "artist",
+            "uri": "spotify:artist:1w7df2ogprg1i3iQ9fH7pO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254153,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AYSl3u70hJ402o0u0gry5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AYSl3u70hJ402o0u0gry5",
+        "id": "7AYSl3u70hJ402o0u0gry5",
+        "is_local": false,
+        "name": "The Only Thing They Fear Is You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AYSl3u70hJ402o0u0gry5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3nkSR14bYgT0bOU16iMa40"
+}

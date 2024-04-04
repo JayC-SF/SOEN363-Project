@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VUCcZ6HiQQ39DhxV4bSeA",
+      "id": "6VUCcZ6HiQQ39DhxV4bSeA",
+      "name": "Calum Graham",
+      "type": "artist",
+      "uri": "spotify:artist:6VUCcZ6HiQQ39DhxV4bSeA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2014 Candy Rat Records",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "888831751717"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4e4j2E1IMSgcIjWrALbwMe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4e4j2E1IMSgcIjWrALbwMe",
+  "id": "4e4j2E1IMSgcIjWrALbwMe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0ae106d7867a582467dc227",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0ae106d7867a582467dc227",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0ae106d7867a582467dc227",
+      "width": 64
+    }
+  ],
+  "label": "Candy Rat Records",
+  "name": "Burning Up",
+  "popularity": 0,
+  "release_date": "2014-09-09",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4e4j2E1IMSgcIjWrALbwMe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VUCcZ6HiQQ39DhxV4bSeA",
+            "id": "6VUCcZ6HiQQ39DhxV4bSeA",
+            "name": "Calum Graham",
+            "type": "artist",
+            "uri": "spotify:artist:6VUCcZ6HiQQ39DhxV4bSeA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TsMuOgOA6yvoe76RvLBz2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TsMuOgOA6yvoe76RvLBz2",
+        "id": "0TsMuOgOA6yvoe76RvLBz2",
+        "is_local": false,
+        "name": "Tabula Rasa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0TsMuOgOA6yvoe76RvLBz2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VUCcZ6HiQQ39DhxV4bSeA",
+            "id": "6VUCcZ6HiQQ39DhxV4bSeA",
+            "name": "Calum Graham",
+            "type": "artist",
+            "uri": "spotify:artist:6VUCcZ6HiQQ39DhxV4bSeA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 364000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hLTsPouqirNaZmDpSdVxm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0hLTsPouqirNaZmDpSdVxm",
+        "id": "0hLTsPouqirNaZmDpSdVxm",
+        "is_local": false,
+        "name": "Burning Up",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0hLTsPouqirNaZmDpSdVxm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4e4j2E1IMSgcIjWrALbwMe"
+}

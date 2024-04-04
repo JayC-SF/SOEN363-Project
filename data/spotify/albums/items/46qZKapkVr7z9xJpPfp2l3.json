@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BtHciL0e0zOP7prIHn3pP",
+      "id": "5BtHciL0e0zOP7prIHn3pP",
+      "name": "Breaking Benjamin",
+      "type": "artist",
+      "uri": "spotify:artist:5BtHciL0e0zOP7prIHn3pP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 Hollywood Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 Hollywood Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00050087160449"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/46qZKapkVr7z9xJpPfp2l3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/46qZKapkVr7z9xJpPfp2l3",
+  "id": "46qZKapkVr7z9xJpPfp2l3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7d68215244cb6d127408c83",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7d68215244cb6d127408c83",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7d68215244cb6d127408c83",
+      "width": 64
+    }
+  ],
+  "label": "Hollywood Records",
+  "name": "Blow Me Away",
+  "popularity": 51,
+  "release_date": "2010-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/46qZKapkVr7z9xJpPfp2l3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BtHciL0e0zOP7prIHn3pP",
+            "id": "5BtHciL0e0zOP7prIHn3pP",
+            "name": "Breaking Benjamin",
+            "type": "artist",
+            "uri": "spotify:artist:5BtHciL0e0zOP7prIHn3pP"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JBH2osD5Y5AneMKPOfY1s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JBH2osD5Y5AneMKPOfY1s",
+        "id": "5JBH2osD5Y5AneMKPOfY1s",
+        "is_local": false,
+        "name": "Blow Me Away - Soundtrack Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5JBH2osD5Y5AneMKPOfY1s"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:46qZKapkVr7z9xJpPfp2l3"
+}

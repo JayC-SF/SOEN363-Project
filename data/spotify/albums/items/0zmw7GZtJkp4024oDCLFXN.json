@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1"
+      },
+      "href": "https://api.spotify.com/v1/artists/3x3F6t4cBw52hT89l1e4R1",
+      "id": "3x3F6t4cBw52hT89l1e4R1",
+      "name": "Kuma the Third",
+      "type": "artist",
+      "uri": "spotify:artist:3x3F6t4cBw52hT89l1e4R1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 distrokid",
+      "type": "C"
+    },
+    {
+      "text": "2021 distrokid",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195940706126"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0zmw7GZtJkp4024oDCLFXN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0zmw7GZtJkp4024oDCLFXN",
+  "id": "0zmw7GZtJkp4024oDCLFXN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b5cbf02d41859c3699360ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026b5cbf02d41859c3699360ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516b5cbf02d41859c3699360ec",
+      "width": 64
+    }
+  ],
+  "label": "distrokid",
+  "name": "I rest my case",
+  "popularity": 34,
+  "release_date": "2021-02-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0zmw7GZtJkp4024oDCLFXN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1"
+            },
+            "href": "https://api.spotify.com/v1/artists/3x3F6t4cBw52hT89l1e4R1",
+            "id": "3x3F6t4cBw52hT89l1e4R1",
+            "name": "Kuma the Third",
+            "type": "artist",
+            "uri": "spotify:artist:3x3F6t4cBw52hT89l1e4R1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 105639,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SzxUhwXZfFDHdq7Ib5HxJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4SzxUhwXZfFDHdq7Ib5HxJ",
+        "id": "4SzxUhwXZfFDHdq7Ib5HxJ",
+        "is_local": false,
+        "name": "I rest my case",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4SzxUhwXZfFDHdq7Ib5HxJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0zmw7GZtJkp4024oDCLFXN"
+}

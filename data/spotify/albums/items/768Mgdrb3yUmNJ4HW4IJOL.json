@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0eI3X5rAzHRZVe5FPk4MN1",
+      "id": "0eI3X5rAzHRZVe5FPk4MN1",
+      "name": "Bad Wolves",
+      "type": "artist",
+      "uri": "spotify:artist:0eI3X5rAzHRZVe5FPk4MN1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Eleven Seven Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Eleven Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320030102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/768Mgdrb3yUmNJ4HW4IJOL",
+  "id": "768Mgdrb3yUmNJ4HW4IJOL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb034e1b6f184377ea92965a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb034e1b6f184377ea92965a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb034e1b6f184377ea92965a",
+      "width": 64
+    }
+  ],
+  "label": "Eleven Seven Music",
+  "name": "Zombie",
+  "popularity": 3,
+  "release_date": "2018-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/768Mgdrb3yUmNJ4HW4IJOL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0eI3X5rAzHRZVe5FPk4MN1",
+            "id": "0eI3X5rAzHRZVe5FPk4MN1",
+            "name": "Bad Wolves",
+            "type": "artist",
+            "uri": "spotify:artist:0eI3X5rAzHRZVe5FPk4MN1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254805,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1vNoA9F5ASnlBISFekDmg3",
+        "id": "1vNoA9F5ASnlBISFekDmg3",
+        "is_local": false,
+        "name": "Zombie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1vNoA9F5ASnlBISFekDmg3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:768Mgdrb3yUmNJ4HW4IJOL"
+}

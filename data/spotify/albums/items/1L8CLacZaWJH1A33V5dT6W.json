@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
+      "id": "7cYEt1pqMgXJdq00hAwVpT",
+      "name": "Chase Atlantic",
+      "type": "artist",
+      "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Chase Atlantic",
+      "type": "C"
+    },
+    {
+      "text": "2014 Chase Atlantic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055834153564"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1L8CLacZaWJH1A33V5dT6W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1L8CLacZaWJH1A33V5dT6W",
+  "id": "1L8CLacZaWJH1A33V5dT6W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8a2b0b665bd9cb8da378234",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8a2b0b665bd9cb8da378234",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8a2b0b665bd9cb8da378234",
+      "width": 64
+    }
+  ],
+  "label": "Chase Atlantic Records",
+  "name": "Meddle About",
+  "popularity": 14,
+  "release_date": "2014-12-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1L8CLacZaWJH1A33V5dT6W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+            },
+            "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
+            "id": "7cYEt1pqMgXJdq00hAwVpT",
+            "name": "Chase Atlantic",
+            "type": "artist",
+            "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204190,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4je4pwE1rqrgJTfcDOPNaR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4je4pwE1rqrgJTfcDOPNaR",
+        "id": "4je4pwE1rqrgJTfcDOPNaR",
+        "is_local": false,
+        "name": "Meddle About",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4je4pwE1rqrgJTfcDOPNaR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1L8CLacZaWJH1A33V5dT6W"
+}

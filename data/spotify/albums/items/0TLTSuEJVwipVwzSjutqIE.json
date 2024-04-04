@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RzbexUO843fc5SLqKEQCr",
+      "id": "4RzbexUO843fc5SLqKEQCr",
+      "name": "Aaryan Shah",
+      "type": "artist",
+      "uri": "spotify:artist:4RzbexUO843fc5SLqKEQCr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Aaryan Shah Productions Inc. / Integral Studio",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Aaryan Shah Productions Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194838717473"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0TLTSuEJVwipVwzSjutqIE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0TLTSuEJVwipVwzSjutqIE",
+  "id": "0TLTSuEJVwipVwzSjutqIE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273429cdae46207fa39d9e94d5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02429cdae46207fa39d9e94d5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851429cdae46207fa39d9e94d5a",
+      "width": 64
+    }
+  ],
+  "label": "Integral Studio",
+  "name": "To the Ends",
+  "popularity": 0,
+  "release_date": "2019-11-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0TLTSuEJVwipVwzSjutqIE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RzbexUO843fc5SLqKEQCr",
+            "id": "4RzbexUO843fc5SLqKEQCr",
+            "name": "Aaryan Shah",
+            "type": "artist",
+            "uri": "spotify:artist:4RzbexUO843fc5SLqKEQCr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bQGs0xWTdQ1R1eZZqHXyH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bQGs0xWTdQ1R1eZZqHXyH",
+        "id": "4bQGs0xWTdQ1R1eZZqHXyH",
+        "is_local": false,
+        "name": "To the Ends",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4bQGs0xWTdQ1R1eZZqHXyH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0TLTSuEJVwipVwzSjutqIE"
+}

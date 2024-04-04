@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hnSOpUeldFZV2lzs8TP1w",
+      "id": "5hnSOpUeldFZV2lzs8TP1w",
+      "name": "3House",
+      "type": "artist",
+      "uri": "spotify:artist:5hnSOpUeldFZV2lzs8TP1w"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 AOTL",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 AOTL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757192564"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RP3uvoBsWzgGMAjZrj6MA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4RP3uvoBsWzgGMAjZrj6MA",
+  "id": "4RP3uvoBsWzgGMAjZrj6MA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736caf98432875bc81f3f30b79",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026caf98432875bc81f3f30b79",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516caf98432875bc81f3f30b79",
+      "width": 64
+    }
+  ],
+  "label": "AOTL",
+  "name": "FEELINGS",
+  "popularity": 39,
+  "release_date": "2021-08-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4RP3uvoBsWzgGMAjZrj6MA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hnSOpUeldFZV2lzs8TP1w",
+            "id": "5hnSOpUeldFZV2lzs8TP1w",
+            "name": "3House",
+            "type": "artist",
+            "uri": "spotify:artist:5hnSOpUeldFZV2lzs8TP1w"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 110424,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zZ3M9KjUwDm2tgWrTN36G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zZ3M9KjUwDm2tgWrTN36G",
+        "id": "2zZ3M9KjUwDm2tgWrTN36G",
+        "is_local": false,
+        "name": "FEELINGS",
+        "preview_url": "https://p.scdn.co/mp3-preview/9bb27c3de7fcb877bca0d1334f2c57590ac927a1?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zZ3M9KjUwDm2tgWrTN36G"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4RP3uvoBsWzgGMAjZrj6MA"
+}

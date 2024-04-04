@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+      },
+      "href": "https://api.spotify.com/v1/artists/3uwAm6vQy7kWPS2bciKWx9",
+      "id": "3uwAm6vQy7kWPS2bciKWx9",
+      "name": "girl in red",
+      "type": "artist",
+      "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 world in red under exclusive license to AWAL Recordings Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2018 world in red under exclusive license to AWAL Recordings Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526166202"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4oRcMHsdNG9IAF3xwv1kWu",
+  "id": "4oRcMHsdNG9IAF3xwv1kWu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb13fbc012815ea6e834e842",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb13fbc012815ea6e834e842",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb13fbc012815ea6e834e842",
+      "width": 64
+    }
+  ],
+  "label": "world in red",
+  "name": "we fell in love in october / forget her",
+  "popularity": 2,
+  "release_date": "2018-11-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4oRcMHsdNG9IAF3xwv1kWu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3uwAm6vQy7kWPS2bciKWx9",
+            "id": "3uwAm6vQy7kWPS2bciKWx9",
+            "name": "girl in red",
+            "type": "artist",
+            "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184153,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BYZxKSf0aTxp8ZFoeyM3d",
+        "id": "1BYZxKSf0aTxp8ZFoeyM3d",
+        "is_local": false,
+        "name": "we fell in love in october",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1BYZxKSf0aTxp8ZFoeyM3d"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3uwAm6vQy7kWPS2bciKWx9",
+            "id": "3uwAm6vQy7kWPS2bciKWx9",
+            "name": "girl in red",
+            "type": "artist",
+            "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 143355,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00gLisxOrLruNwJFdpkHc2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00gLisxOrLruNwJFdpkHc2",
+        "id": "00gLisxOrLruNwJFdpkHc2",
+        "is_local": false,
+        "name": "forget her",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:00gLisxOrLruNwJFdpkHc2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4oRcMHsdNG9IAF3xwv1kWu"
+}

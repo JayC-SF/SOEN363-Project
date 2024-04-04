@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+      "id": "1hzfo8twXdOegF3xireCYs",
+      "name": "Milky Chance",
+      "type": "artist",
+      "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Lichtdicht Records / [PIAS] Germany",
+      "type": "C"
+    },
+    {
+      "text": "2013 Lichtdicht Records / [PIAS] Germany",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5414939619779"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5YnAdvzdasJn7SwQVqPh6N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5YnAdvzdasJn7SwQVqPh6N",
+  "id": "5YnAdvzdasJn7SwQVqPh6N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384b19a16602402904b9793f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284b19a16602402904b9793f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184b19a16602402904b9793f5",
+      "width": 64
+    }
+  ],
+  "label": "Lichtdicht Records",
+  "name": "Stolen Dance",
+  "popularity": 0,
+  "release_date": "2013-11-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5YnAdvzdasJn7SwQVqPh6N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+            "id": "1hzfo8twXdOegF3xireCYs",
+            "name": "Milky Chance",
+            "type": "artist",
+            "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 315693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2p0Gd0LBUpqJkUC8ISdBjL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2p0Gd0LBUpqJkUC8ISdBjL",
+        "id": "2p0Gd0LBUpqJkUC8ISdBjL",
+        "is_local": false,
+        "name": "Stolen Dance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2p0Gd0LBUpqJkUC8ISdBjL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5YnAdvzdasJn7SwQVqPh6N"
+}

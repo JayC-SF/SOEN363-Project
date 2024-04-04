@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+      },
+      "href": "https://api.spotify.com/v1/artists/0gCGZZ1Ibo5QsOnll977PD",
+      "id": "0gCGZZ1Ibo5QsOnll977PD",
+      "name": "KILLY",
+      "type": "artist",
+      "uri": "spotify:artist:0gCGZZ1Ibo5QsOnll977PD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Secret Sound Club",
+      "type": "C"
+    },
+    {
+      "text": "2022 Secret Sound Club",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197144762687"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4vj2X6GGtK5n3LKtEUxucC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4vj2X6GGtK5n3LKtEUxucC",
+  "id": "4vj2X6GGtK5n3LKtEUxucC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389cfcee25125b7e0ed7d502a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289cfcee25125b7e0ed7d502a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189cfcee25125b7e0ed7d502a",
+      "width": 64
+    }
+  ],
+  "label": "Secret Sound Club",
+  "name": "CEO",
+  "popularity": 0,
+  "release_date": "2022-08-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4vj2X6GGtK5n3LKtEUxucC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0gCGZZ1Ibo5QsOnll977PD",
+            "id": "0gCGZZ1Ibo5QsOnll977PD",
+            "name": "KILLY",
+            "type": "artist",
+            "uri": "spotify:artist:0gCGZZ1Ibo5QsOnll977PD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180100,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dfBAmVJ2p0l0JyzknJois"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dfBAmVJ2p0l0JyzknJois",
+        "id": "1dfBAmVJ2p0l0JyzknJois",
+        "is_local": false,
+        "name": "CEO",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1dfBAmVJ2p0l0JyzknJois"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4vj2X6GGtK5n3LKtEUxucC"
+}

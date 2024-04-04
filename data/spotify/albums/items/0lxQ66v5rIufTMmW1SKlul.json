@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52VIVXreSivBrYnAeb5ojT"
+      },
+      "href": "https://api.spotify.com/v1/artists/52VIVXreSivBrYnAeb5ojT",
+      "id": "52VIVXreSivBrYnAeb5ojT",
+      "name": "Kobe Martin",
+      "type": "artist",
+      "uri": "spotify:artist:52VIVXreSivBrYnAeb5ojT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 King Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 King Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196251907714"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lxQ66v5rIufTMmW1SKlul"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0lxQ66v5rIufTMmW1SKlul",
+  "id": "0lxQ66v5rIufTMmW1SKlul",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273723fa51bb9cd8ca588e4d40d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02723fa51bb9cd8ca588e4d40d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851723fa51bb9cd8ca588e4d40d",
+      "width": 64
+    }
+  ],
+  "label": "King Music",
+  "name": "Internacional",
+  "popularity": 0,
+  "release_date": "2021-05-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0lxQ66v5rIufTMmW1SKlul/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52VIVXreSivBrYnAeb5ojT"
+            },
+            "href": "https://api.spotify.com/v1/artists/52VIVXreSivBrYnAeb5ojT",
+            "id": "52VIVXreSivBrYnAeb5ojT",
+            "name": "Kobe Martin",
+            "type": "artist",
+            "uri": "spotify:artist:52VIVXreSivBrYnAeb5ojT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156510,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eABhpHqdyi8RbOTTr1kb1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2eABhpHqdyi8RbOTTr1kb1",
+        "id": "2eABhpHqdyi8RbOTTr1kb1",
+        "is_local": false,
+        "name": "Internacional",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2eABhpHqdyi8RbOTTr1kb1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0lxQ66v5rIufTMmW1SKlul"
+}

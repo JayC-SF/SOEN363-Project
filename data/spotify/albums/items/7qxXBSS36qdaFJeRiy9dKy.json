@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42SCX0E1m3YSaY2l3zHVJ4"
+      },
+      "href": "https://api.spotify.com/v1/artists/42SCX0E1m3YSaY2l3zHVJ4",
+      "id": "42SCX0E1m3YSaY2l3zHVJ4",
+      "name": "The Capris",
+      "type": "artist",
+      "uri": "spotify:artist:42SCX0E1m3YSaY2l3zHVJ4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2012 MS Embassy",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718564792034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qxXBSS36qdaFJeRiy9dKy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qxXBSS36qdaFJeRiy9dKy",
+  "id": "7qxXBSS36qdaFJeRiy9dKy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273201c70e95799a08d76407366",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02201c70e95799a08d76407366",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851201c70e95799a08d76407366",
+      "width": 64
+    }
+  ],
+  "label": "MS Embassy",
+  "name": "The Original Hit Recording - There's a Moon out tonight",
+  "popularity": 0,
+  "release_date": "2012-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qxXBSS36qdaFJeRiy9dKy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42SCX0E1m3YSaY2l3zHVJ4"
+            },
+            "href": "https://api.spotify.com/v1/artists/42SCX0E1m3YSaY2l3zHVJ4",
+            "id": "42SCX0E1m3YSaY2l3zHVJ4",
+            "name": "The Capris",
+            "type": "artist",
+            "uri": "spotify:artist:42SCX0E1m3YSaY2l3zHVJ4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 134706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40aBLJfb6hC7GH2UQOHZYG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40aBLJfb6hC7GH2UQOHZYG",
+        "id": "40aBLJfb6hC7GH2UQOHZYG",
+        "is_local": false,
+        "name": "There's A Moon Out Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40aBLJfb6hC7GH2UQOHZYG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qxXBSS36qdaFJeRiy9dKy"
+}

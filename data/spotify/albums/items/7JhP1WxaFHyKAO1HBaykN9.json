@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vC3PGGBIp1fPF0GOyanlt",
+      "id": "5vC3PGGBIp1fPF0GOyanlt",
+      "name": "2kMay",
+      "type": "artist",
+      "uri": "spotify:artist:5vC3PGGBIp1fPF0GOyanlt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 2kMay Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 2kMay Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391361684"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7JhP1WxaFHyKAO1HBaykN9",
+  "id": "7JhP1WxaFHyKAO1HBaykN9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317b4a8a9fbffdfe65937302c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217b4a8a9fbffdfe65937302c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117b4a8a9fbffdfe65937302c",
+      "width": 64
+    }
+  ],
+  "label": "2kMay Records",
+  "name": "I'll Do It (feat. iGodzilla)",
+  "popularity": 27,
+  "release_date": "2023-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7JhP1WxaFHyKAO1HBaykN9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vC3PGGBIp1fPF0GOyanlt",
+            "id": "5vC3PGGBIp1fPF0GOyanlt",
+            "name": "2kMay",
+            "type": "artist",
+            "uri": "spotify:artist:5vC3PGGBIp1fPF0GOyanlt"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AB1nrkYl5qrgFmbk45Lez",
+            "id": "2AB1nrkYl5qrgFmbk45Lez",
+            "name": "iGodzilla",
+            "type": "artist",
+            "uri": "spotify:artist:2AB1nrkYl5qrgFmbk45Lez"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213185,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7l5VYsDwOo3oWvUgVZOb9T",
+        "id": "7l5VYsDwOo3oWvUgVZOb9T",
+        "is_local": false,
+        "name": "I'll Do It (feat. iGodzilla)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7l5VYsDwOo3oWvUgVZOb9T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7JhP1WxaFHyKAO1HBaykN9"
+}

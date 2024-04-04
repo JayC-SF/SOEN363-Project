@@ -1,0 +1,805 @@
+{
+  "album_type": "compilation",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+      },
+      "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+      "id": "50bY8HGxT0SuDgJX3AilTT",
+      "name": "Sesame Street",
+      "type": "artist",
+      "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 1997 Sesame Workshop, exclusively licensed to Australian Broadcasting Corporation",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1997 Sesame Workshop, exclusively licensed to Australian Broadcasting Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557048537"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2gkVJ0PNYVRt9dqPgWrT2u"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2gkVJ0PNYVRt9dqPgWrT2u",
+  "id": "2gkVJ0PNYVRt9dqPgWrT2u",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305e56df40b67a23000496785",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205e56df40b67a23000496785",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105e56df40b67a23000496785",
+      "width": 64
+    }
+  ],
+  "label": "Australian Broadcasting Corp (ABC)",
+  "name": "The Best Of Elmo",
+  "popularity": 0,
+  "release_date": "1997-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 15,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2gkVJ0PNYVRt9dqPgWrT2u/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1s7pVDlqiJa6U9hRCa8cqk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1s7pVDlqiJa6U9hRCa8cqk",
+        "id": "1s7pVDlqiJa6U9hRCa8cqk",
+        "is_local": false,
+        "name": "Sesame Street Theme Song",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1s7pVDlqiJa6U9hRCa8cqk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lIStABMK012omQiigy3cK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lIStABMK012omQiigy3cK",
+        "id": "3lIStABMK012omQiigy3cK",
+        "is_local": false,
+        "name": "Elmo's Song",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3lIStABMK012omQiigy3cK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 90226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CSxVT7AqgIDUmr8LsF0Jr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CSxVT7AqgIDUmr8LsF0Jr",
+        "id": "4CSxVT7AqgIDUmr8LsF0Jr",
+        "is_local": false,
+        "name": "Happy Tappin' With Elmo",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4CSxVT7AqgIDUmr8LsF0Jr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qkEx9YPevCOQhazUZK1bJ",
+            "id": "1qkEx9YPevCOQhazUZK1bJ",
+            "name": "Ernie",
+            "type": "artist",
+            "uri": "spotify:artist:1qkEx9YPevCOQhazUZK1bJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129639,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41qQj4uDOdOXVO6oGYaz1Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41qQj4uDOdOXVO6oGYaz1Z",
+        "id": "41qQj4uDOdOXVO6oGYaz1Z",
+        "is_local": false,
+        "name": "One Fine Face",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:41qQj4uDOdOXVO6oGYaz1Z"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TFmjXB6UWz6A6FYkbFRPX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1TFmjXB6UWz6A6FYkbFRPX",
+        "id": "1TFmjXB6UWz6A6FYkbFRPX",
+        "is_local": false,
+        "name": "Off To School",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1TFmjXB6UWz6A6FYkbFRPX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iDC0DDdk9WL7W8OdBSmtE",
+            "id": "0iDC0DDdk9WL7W8OdBSmtE",
+            "name": "Big Bird",
+            "type": "artist",
+            "uri": "spotify:artist:0iDC0DDdk9WL7W8OdBSmtE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qvS1CTPZHz1KyE2jx92pQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qvS1CTPZHz1KyE2jx92pQ",
+            "id": "1qvS1CTPZHz1KyE2jx92pQ",
+            "name": "Susan",
+            "type": "artist",
+            "uri": "spotify:artist:1qvS1CTPZHz1KyE2jx92pQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 115826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1I4GDXc1earqfQ4A39EmAe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1I4GDXc1earqfQ4A39EmAe",
+        "id": "1I4GDXc1earqfQ4A39EmAe",
+        "is_local": false,
+        "name": "Elmo Wrote His Name",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1I4GDXc1earqfQ4A39EmAe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsJ6sn6PeMT7yHxUrH1FR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsJ6sn6PeMT7yHxUrH1FR",
+            "id": "5fsJ6sn6PeMT7yHxUrH1FR",
+            "name": "Original Sesame Street TV Series Cast",
+            "type": "artist",
+            "uri": "spotify:artist:5fsJ6sn6PeMT7yHxUrH1FR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yfPgF2FI8MrDLgvWFOwZf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yfPgF2FI8MrDLgvWFOwZf",
+        "id": "1yfPgF2FI8MrDLgvWFOwZf",
+        "is_local": false,
+        "name": "Splish Splash",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1yfPgF2FI8MrDLgvWFOwZf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 102600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cGzWfrWoj649veFCjmvrV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cGzWfrWoj649veFCjmvrV",
+        "id": "1cGzWfrWoj649veFCjmvrV",
+        "is_local": false,
+        "name": "Imagination",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1cGzWfrWoj649veFCjmvrV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uJhcjBABPPDEqbpUEcyzq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uJhcjBABPPDEqbpUEcyzq",
+        "id": "1uJhcjBABPPDEqbpUEcyzq",
+        "is_local": false,
+        "name": "Drive My Car",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1uJhcjBABPPDEqbpUEcyzq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RqZiaZfx8uvoMDiOqfDmJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RqZiaZfx8uvoMDiOqfDmJ",
+            "id": "3RqZiaZfx8uvoMDiOqfDmJ",
+            "name": "Mama Bear",
+            "type": "artist",
+            "uri": "spotify:artist:3RqZiaZfx8uvoMDiOqfDmJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mCbMdrryOVRY5ZFUeHWQm"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mCbMdrryOVRY5ZFUeHWQm",
+            "id": "4mCbMdrryOVRY5ZFUeHWQm",
+            "name": "Baby Bear",
+            "type": "artist",
+            "uri": "spotify:artist:4mCbMdrryOVRY5ZFUeHWQm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4t8Z2cp7ogUDJcmOjDoEpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4t8Z2cp7ogUDJcmOjDoEpe",
+            "id": "4t8Z2cp7ogUDJcmOjDoEpe",
+            "name": "Zoe",
+            "type": "artist",
+            "uri": "spotify:artist:4t8Z2cp7ogUDJcmOjDoEpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 116840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0aj71sgZHzYN4gtYiFHsyL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0aj71sgZHzYN4gtYiFHsyL",
+        "id": "0aj71sgZHzYN4gtYiFHsyL",
+        "is_local": false,
+        "name": "Be Doodle Dee Dum",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0aj71sgZHzYN4gtYiFHsyL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 90626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rZpA0SiLxnUU0RyY7CNLJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rZpA0SiLxnUU0RyY7CNLJ",
+        "id": "3rZpA0SiLxnUU0RyY7CNLJ",
+        "is_local": false,
+        "name": "Elmo's Rap Alphabet",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3rZpA0SiLxnUU0RyY7CNLJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pEISC0Oj9gt78YDhRzW2G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pEISC0Oj9gt78YDhRzW2G",
+            "id": "5pEISC0Oj9gt78YDhRzW2G",
+            "name": "Hoots the Owl",
+            "type": "artist",
+            "uri": "spotify:artist:5pEISC0Oj9gt78YDhRzW2G"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15Vi9xQdisytXYVIg13EdD"
+            },
+            "href": "https://api.spotify.com/v1/artists/15Vi9xQdisytXYVIg13EdD",
+            "id": "15Vi9xQdisytXYVIg13EdD",
+            "name": "Wolfgang",
+            "type": "artist",
+            "uri": "spotify:artist:15Vi9xQdisytXYVIg13EdD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 123040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dx09RbPnEQe8EmedsHbVP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dx09RbPnEQe8EmedsHbVP",
+        "id": "0dx09RbPnEQe8EmedsHbVP",
+        "is_local": false,
+        "name": "In Your Imagination",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0dx09RbPnEQe8EmedsHbVP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 74133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FtJs3Vyp7jj2L8EBWkd8T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FtJs3Vyp7jj2L8EBWkd8T",
+        "id": "1FtJs3Vyp7jj2L8EBWkd8T",
+        "is_local": false,
+        "name": "Take A Breath",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1FtJs3Vyp7jj2L8EBWkd8T"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 148133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6J4dISJ0tijJF87zN5izD8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6J4dISJ0tijJF87zN5izD8",
+        "id": "6J4dISJ0tijJF87zN5izD8",
+        "is_local": false,
+        "name": "Just One Person",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6J4dISJ0tijJF87zN5izD8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+            },
+            "href": "https://api.spotify.com/v1/artists/50bY8HGxT0SuDgJX3AilTT",
+            "id": "50bY8HGxT0SuDgJX3AilTT",
+            "name": "Sesame Street",
+            "type": "artist",
+            "uri": "spotify:artist:50bY8HGxT0SuDgJX3AilTT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/64TYMfqkpGQsUEuF5xqS2R",
+            "id": "64TYMfqkpGQsUEuF5xqS2R",
+            "name": "Elmo",
+            "type": "artist",
+            "uri": "spotify:artist:64TYMfqkpGQsUEuF5xqS2R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7799q5SiTyEpDw1SJzxAy3"
+            },
+            "href": "https://api.spotify.com/v1/artists/7799q5SiTyEpDw1SJzxAy3",
+            "id": "7799q5SiTyEpDw1SJzxAy3",
+            "name": "Sesame Street Kids",
+            "type": "artist",
+            "uri": "spotify:artist:7799q5SiTyEpDw1SJzxAy3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iDC0DDdk9WL7W8OdBSmtE",
+            "id": "0iDC0DDdk9WL7W8OdBSmtE",
+            "name": "Big Bird",
+            "type": "artist",
+            "uri": "spotify:artist:0iDC0DDdk9WL7W8OdBSmtE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CNLMkGo7a7zuJ5vrzGYqs"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CNLMkGo7a7zuJ5vrzGYqs",
+            "id": "1CNLMkGo7a7zuJ5vrzGYqs",
+            "name": "Telly",
+            "type": "artist",
+            "uri": "spotify:artist:1CNLMkGo7a7zuJ5vrzGYqs"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pEISC0Oj9gt78YDhRzW2G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pEISC0Oj9gt78YDhRzW2G",
+            "id": "5pEISC0Oj9gt78YDhRzW2G",
+            "name": "Hoots the Owl",
+            "type": "artist",
+            "uri": "spotify:artist:5pEISC0Oj9gt78YDhRzW2G"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+            },
+            "href": "https://api.spotify.com/v1/artists/0KUfoAHP20vQHuDhiEAa8r",
+            "id": "0KUfoAHP20vQHuDhiEAa8r",
+            "name": "Cookie Monster",
+            "type": "artist",
+            "uri": "spotify:artist:0KUfoAHP20vQHuDhiEAa8r"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fsJ6sn6PeMT7yHxUrH1FR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fsJ6sn6PeMT7yHxUrH1FR",
+            "id": "5fsJ6sn6PeMT7yHxUrH1FR",
+            "name": "Original Sesame Street TV Series Cast",
+            "type": "artist",
+            "uri": "spotify:artist:5fsJ6sn6PeMT7yHxUrH1FR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59JE97DViftxNf8EPJ808b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59JE97DViftxNf8EPJ808b",
+        "id": "59JE97DViftxNf8EPJ808b",
+        "is_local": false,
+        "name": "Sing",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:59JE97DViftxNf8EPJ808b"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15
+  },
+  "type": "album",
+  "uri": "spotify:album:2gkVJ0PNYVRt9dqPgWrT2u"
+}

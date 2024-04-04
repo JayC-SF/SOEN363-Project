@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+      },
+      "href": "https://api.spotify.com/v1/artists/4SaxUo7mfdHBowU0llwxFd",
+      "id": "4SaxUo7mfdHBowU0llwxFd",
+      "name": "Bom Gosto",
+      "type": "artist",
+      "uri": "spotify:artist:4SaxUo7mfdHBowU0llwxFd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Sony Music Entertainment Brasil ltda.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447707135"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7e8XLhYVEu8XrMvnM4ACR7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7e8XLhYVEu8XrMvnM4ACR7",
+  "id": "7e8XLhYVEu8XrMvnM4ACR7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370df4514f9926ef10ad74598",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270df4514f9926ef10ad74598",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170df4514f9926ef10ad74598",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Entertainment",
+  "name": "Pega Senha",
+  "popularity": 0,
+  "release_date": "2019-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7e8XLhYVEu8XrMvnM4ACR7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SaxUo7mfdHBowU0llwxFd",
+            "id": "4SaxUo7mfdHBowU0llwxFd",
+            "name": "Bom Gosto",
+            "type": "artist",
+            "uri": "spotify:artist:4SaxUo7mfdHBowU0llwxFd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176111,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fXEqhOUCqzodwftAMIJud"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fXEqhOUCqzodwftAMIJud",
+        "id": "0fXEqhOUCqzodwftAMIJud",
+        "is_local": false,
+        "name": "Pega Senha",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0fXEqhOUCqzodwftAMIJud"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7e8XLhYVEu8XrMvnM4ACR7"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+      "id": "2OxyMQXlbUfE4zpHG3fwqk",
+      "name": "malte",
+      "type": "artist",
+      "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197144625876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3nU7kic2NbGpmRM2YeEPZ5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3nU7kic2NbGpmRM2YeEPZ5",
+  "id": "3nU7kic2NbGpmRM2YeEPZ5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9e36f8aba418dc5493b61a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9e36f8aba418dc5493b61a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9e36f8aba418dc5493b61a4",
+      "width": 64
+    }
+  ],
+  "label": "3736470 Records DK",
+  "name": "maria",
+  "popularity": 0,
+  "release_date": "2022-08-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3nU7kic2NbGpmRM2YeEPZ5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+            "id": "2OxyMQXlbUfE4zpHG3fwqk",
+            "name": "malte",
+            "type": "artist",
+            "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110812,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jTYFWjbdbnbrutNZAPP5v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1jTYFWjbdbnbrutNZAPP5v",
+        "id": "1jTYFWjbdbnbrutNZAPP5v",
+        "is_local": false,
+        "name": "maria",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1jTYFWjbdbnbrutNZAPP5v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3nU7kic2NbGpmRM2YeEPZ5"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG"
+      },
+      "href": "https://api.spotify.com/v1/artists/53gpGyHpJpOOe0UIl0YigG",
+      "id": "53gpGyHpJpOOe0UIl0YigG",
+      "name": "Alban Chela",
+      "type": "artist",
+      "uri": "spotify:artist:53gpGyHpJpOOe0UIl0YigG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j"
+      },
+      "href": "https://api.spotify.com/v1/artists/3l22ah9mu4QDWC32wRBN9j",
+      "id": "3l22ah9mu4QDWC32wRBN9j",
+      "name": "Xblaze",
+      "type": "artist",
+      "uri": "spotify:artist:3l22ah9mu4QDWC32wRBN9j"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "734167596587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3TBTXDyKrZf5cXoYda3ojQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3TBTXDyKrZf5cXoYda3ojQ",
+  "id": "3TBTXDyKrZf5cXoYda3ojQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273962b1a63859e031e99c40a8d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02962b1a63859e031e99c40a8d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851962b1a63859e031e99c40a8d",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "Renegade",
+  "popularity": 0,
+  "release_date": "2023-05-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3TBTXDyKrZf5cXoYda3ojQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG"
+            },
+            "href": "https://api.spotify.com/v1/artists/53gpGyHpJpOOe0UIl0YigG",
+            "id": "53gpGyHpJpOOe0UIl0YigG",
+            "name": "Alban Chela",
+            "type": "artist",
+            "uri": "spotify:artist:53gpGyHpJpOOe0UIl0YigG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l22ah9mu4QDWC32wRBN9j",
+            "id": "3l22ah9mu4QDWC32wRBN9j",
+            "name": "Xblaze",
+            "type": "artist",
+            "uri": "spotify:artist:3l22ah9mu4QDWC32wRBN9j"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mqkPfbvjIsbMg30D8fI81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mqkPfbvjIsbMg30D8fI81",
+        "id": "5mqkPfbvjIsbMg30D8fI81",
+        "is_local": false,
+        "name": "Renegade",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5mqkPfbvjIsbMg30D8fI81"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3TBTXDyKrZf5cXoYda3ojQ"
+}

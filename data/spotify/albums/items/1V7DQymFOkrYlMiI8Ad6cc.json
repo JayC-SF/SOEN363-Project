@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href": "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id": "22HVxZPA6UhBp8wahxDA6I",
+      "name": "France Gall",
+      "type": "artist",
+      "uri": "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2010 BGM Industrias del Disco S.A. (Magenta Discos)",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "885686331293"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1V7DQymFOkrYlMiI8Ad6cc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1V7DQymFOkrYlMiI8Ad6cc",
+  "id": "1V7DQymFOkrYlMiI8Ad6cc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273946a02daaf0a77c9650468e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02946a02daaf0a77c9650468e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851946a02daaf0a77c9650468e2",
+      "width": 64
+    }
+  ],
+  "label": "Magenta",
+  "name": "Poupee de cire poupee de son",
+  "popularity": 0,
+  "release_date": "1965",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1V7DQymFOkrYlMiI8Ad6cc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+            },
+            "href": "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+            "id": "22HVxZPA6UhBp8wahxDA6I",
+            "name": "France Gall",
+            "type": "artist",
+            "uri": "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68jKFhKRqnatqtLYIiz3c1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68jKFhKRqnatqtLYIiz3c1",
+        "id": "68jKFhKRqnatqtLYIiz3c1",
+        "is_local": false,
+        "name": "Poupee de cire poupee de son",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:68jKFhKRqnatqtLYIiz3c1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1V7DQymFOkrYlMiI8Ad6cc"
+}

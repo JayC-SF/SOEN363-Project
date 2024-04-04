@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+      },
+      "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+      "id": "72IlzE8lIeI5W1C4RTZAGv",
+      "name": "Riccardo",
+      "type": "artist",
+      "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Riccardo",
+      "type": "C"
+    },
+    {
+      "text": "2020 igroovemusic.com",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062851860048"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Df5oQU7uNmDw1OlB58Njf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Df5oQU7uNmDw1OlB58Njf",
+  "id": "4Df5oQU7uNmDw1OlB58Njf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e058a2147f5b5eca01b972b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020e058a2147f5b5eca01b972b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510e058a2147f5b5eca01b972b",
+      "width": 64
+    }
+  ],
+  "label": "igroovemusic.com",
+  "name": "Allein",
+  "popularity": 0,
+  "release_date": "2020-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Df5oQU7uNmDw1OlB58Njf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+            },
+            "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+            "id": "72IlzE8lIeI5W1C4RTZAGv",
+            "name": "Riccardo",
+            "type": "artist",
+            "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162002,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JVwKUidQSgc8CIRtmOope"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JVwKUidQSgc8CIRtmOope",
+        "id": "4JVwKUidQSgc8CIRtmOope",
+        "is_local": false,
+        "name": "Allein",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4JVwKUidQSgc8CIRtmOope"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Df5oQU7uNmDw1OlB58Njf"
+}

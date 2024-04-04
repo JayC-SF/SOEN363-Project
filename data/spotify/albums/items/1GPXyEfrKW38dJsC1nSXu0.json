@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5dtPlx7yKOo7KdZGyrfFIq",
+      "id": "5dtPlx7yKOo7KdZGyrfFIq",
+      "name": "Maddie Zahm",
+      "type": "artist",
+      "uri": "spotify:artist:5dtPlx7yKOo7KdZGyrfFIq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Maddie Zahm",
+      "type": "C"
+    },
+    {
+      "text": "2022 Maddie Zahm",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495450412"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GPXyEfrKW38dJsC1nSXu0",
+  "id": "1GPXyEfrKW38dJsC1nSXu0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739b55c7d98c87cb8eb7cdfc1f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029b55c7d98c87cb8eb7cdfc1f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519b55c7d98c87cb8eb7cdfc1f",
+      "width": 64
+    }
+  ],
+  "label": "Maddie Zahm",
+  "name": "Fat Funny Friend",
+  "popularity": 0,
+  "release_date": "2022-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GPXyEfrKW38dJsC1nSXu0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5dtPlx7yKOo7KdZGyrfFIq",
+            "id": "5dtPlx7yKOo7KdZGyrfFIq",
+            "name": "Maddie Zahm",
+            "type": "artist",
+            "uri": "spotify:artist:5dtPlx7yKOo7KdZGyrfFIq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199764,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4eaSY3ucamesaARYBsLfz2",
+        "id": "4eaSY3ucamesaARYBsLfz2",
+        "is_local": false,
+        "name": "Fat Funny Friend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4eaSY3ucamesaARYBsLfz2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1GPXyEfrKW38dJsC1nSXu0"
+}

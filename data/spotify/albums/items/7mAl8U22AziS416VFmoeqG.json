@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3eAOH2az3fQIfX2UAw0FfC",
+      "id": "3eAOH2az3fQIfX2UAw0FfC",
+      "name": "L.A.B.",
+      "type": "artist",
+      "uri": "spotify:artist:3eAOH2az3fQIfX2UAw0FfC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Loop Recordings Aot(ear)oa",
+      "type": "C"
+    },
+    {
+      "text": "2020 Loop Recordings Aot(ear)oa",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9421018273902"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7mAl8U22AziS416VFmoeqG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7mAl8U22AziS416VFmoeqG",
+  "id": "7mAl8U22AziS416VFmoeqG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d39af64073c50bf7a7209775",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d39af64073c50bf7a7209775",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d39af64073c50bf7a7209775",
+      "width": 64
+    }
+  ],
+  "label": "Loop Recordings Aot(ear)oa",
+  "name": "My Brother",
+  "popularity": 0,
+  "release_date": "2020-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7mAl8U22AziS416VFmoeqG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eAOH2az3fQIfX2UAw0FfC",
+            "id": "3eAOH2az3fQIfX2UAw0FfC",
+            "name": "L.A.B.",
+            "type": "artist",
+            "uri": "spotify:artist:3eAOH2az3fQIfX2UAw0FfC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37HGkLjLX4BI1oOsLhcaWh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/37HGkLjLX4BI1oOsLhcaWh",
+        "id": "37HGkLjLX4BI1oOsLhcaWh",
+        "is_local": false,
+        "name": "My Brother",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:37HGkLjLX4BI1oOsLhcaWh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7mAl8U22AziS416VFmoeqG"
+}

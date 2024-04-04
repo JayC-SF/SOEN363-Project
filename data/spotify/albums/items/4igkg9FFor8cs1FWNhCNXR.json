@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1bhZt10yZVCJfp3HaNxJv8",
+      "id": "1bhZt10yZVCJfp3HaNxJv8",
+      "name": "Riovaz",
+      "type": "artist",
+      "uri": "spotify:artist:1bhZt10yZVCJfp3HaNxJv8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Riovaz",
+      "type": "C"
+    },
+    {
+      "text": "2020 Riovaz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195188496421"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4igkg9FFor8cs1FWNhCNXR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4igkg9FFor8cs1FWNhCNXR",
+  "id": "4igkg9FFor8cs1FWNhCNXR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735adf9b02191b35ef47272a62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025adf9b02191b35ef47272a62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515adf9b02191b35ef47272a62",
+      "width": 64
+    }
+  ],
+  "label": "heavensent",
+  "name": "Prom Night",
+  "popularity": 0,
+  "release_date": "2020-05-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4igkg9FFor8cs1FWNhCNXR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bhZt10yZVCJfp3HaNxJv8",
+            "id": "1bhZt10yZVCJfp3HaNxJv8",
+            "name": "Riovaz",
+            "type": "artist",
+            "uri": "spotify:artist:1bhZt10yZVCJfp3HaNxJv8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145893,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77OOBEhQnWEum2pokUnoMU",
+        "id": "77OOBEhQnWEum2pokUnoMU",
+        "is_local": false,
+        "name": "Prom Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77OOBEhQnWEum2pokUnoMU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4igkg9FFor8cs1FWNhCNXR"
+}

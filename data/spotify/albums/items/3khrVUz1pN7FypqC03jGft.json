@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xe9k2WOgw7dZ0RFPZvZ6B"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xe9k2WOgw7dZ0RFPZvZ6B",
+      "id": "2xe9k2WOgw7dZ0RFPZvZ6B",
+      "name": "Vidjanny Santo",
+      "type": "artist",
+      "uri": "spotify:artist:2xe9k2WOgw7dZ0RFPZvZ6B"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Vidjanny Santo",
+      "type": "C"
+    },
+    {
+      "text": "2020 Dan Henig",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059654990392"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3khrVUz1pN7FypqC03jGft"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3khrVUz1pN7FypqC03jGft",
+  "id": "3khrVUz1pN7FypqC03jGft",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273364d5f0b419f42aa01255894",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02364d5f0b419f42aa01255894",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851364d5f0b419f42aa01255894",
+      "width": 64
+    }
+  ],
+  "label": "Vidjanny Santo",
+  "name": "Danger Snow",
+  "popularity": 2,
+  "release_date": "2020-09-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3khrVUz1pN7FypqC03jGft/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe9k2WOgw7dZ0RFPZvZ6B"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe9k2WOgw7dZ0RFPZvZ6B",
+            "id": "2xe9k2WOgw7dZ0RFPZvZ6B",
+            "name": "Vidjanny Santo",
+            "type": "artist",
+            "uri": "spotify:artist:2xe9k2WOgw7dZ0RFPZvZ6B"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 134727,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XTBQHGNkDDLyTrzEuChOH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XTBQHGNkDDLyTrzEuChOH",
+        "id": "3XTBQHGNkDDLyTrzEuChOH",
+        "is_local": false,
+        "name": "Danger Snow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XTBQHGNkDDLyTrzEuChOH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3khrVUz1pN7FypqC03jGft"
+}

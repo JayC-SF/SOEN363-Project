@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YG2aDfhgbUYQt6BIF6DyP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YG2aDfhgbUYQt6BIF6DyP",
+      "id": "0YG2aDfhgbUYQt6BIF6DyP",
+      "name": "Janicci",
+      "type": "artist",
+      "uri": "spotify:artist:0YG2aDfhgbUYQt6BIF6DyP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Janicci",
+      "type": "C"
+    },
+    {
+      "text": "2021 Janicci",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316212207704"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mExx5bPC3oCSwTF1KAdmh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6mExx5bPC3oCSwTF1KAdmh",
+  "id": "6mExx5bPC3oCSwTF1KAdmh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273883f9800a0b5b35a812f976a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02883f9800a0b5b35a812f976a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851883f9800a0b5b35a812f976a",
+      "width": 64
+    }
+  ],
+  "label": "Janicci",
+  "name": "Blue",
+  "popularity": 0,
+  "release_date": "2021-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6mExx5bPC3oCSwTF1KAdmh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YG2aDfhgbUYQt6BIF6DyP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YG2aDfhgbUYQt6BIF6DyP",
+            "id": "0YG2aDfhgbUYQt6BIF6DyP",
+            "name": "Janicci",
+            "type": "artist",
+            "uri": "spotify:artist:0YG2aDfhgbUYQt6BIF6DyP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 301740,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SDvtT9LZxd0Rev9YnRd7B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SDvtT9LZxd0Rev9YnRd7B",
+        "id": "2SDvtT9LZxd0Rev9YnRd7B",
+        "is_local": false,
+        "name": "Blue",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SDvtT9LZxd0Rev9YnRd7B"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6mExx5bPC3oCSwTF1KAdmh"
+}

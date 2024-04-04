@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ymrIsmp4vE7vAtcS12J4D",
+      "id": "7ymrIsmp4vE7vAtcS12J4D",
+      "name": "Adam Jensen",
+      "type": "artist",
+      "uri": "spotify:artist:7ymrIsmp4vE7vAtcS12J4D"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Adam Jensen",
+      "type": "C"
+    },
+    {
+      "text": "2018 Adam Jensen",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859726481552"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2B5QIIIBmhgmoTyt101oqM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2B5QIIIBmhgmoTyt101oqM",
+  "id": "2B5QIIIBmhgmoTyt101oqM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a49a900faf60ef0553551c94",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a49a900faf60ef0553551c94",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a49a900faf60ef0553551c94",
+      "width": 64
+    }
+  ],
+  "label": "Adam Jensen",
+  "name": "The Hunter",
+  "popularity": 0,
+  "release_date": "2018-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2B5QIIIBmhgmoTyt101oqM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ymrIsmp4vE7vAtcS12J4D",
+            "id": "7ymrIsmp4vE7vAtcS12J4D",
+            "name": "Adam Jensen",
+            "type": "artist",
+            "uri": "spotify:artist:7ymrIsmp4vE7vAtcS12J4D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210972,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MKUcXTBVS5QP49Es4wt7M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MKUcXTBVS5QP49Es4wt7M",
+        "id": "1MKUcXTBVS5QP49Es4wt7M",
+        "is_local": false,
+        "name": "The Hunter",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1MKUcXTBVS5QP49Es4wt7M"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2B5QIIIBmhgmoTyt101oqM"
+}

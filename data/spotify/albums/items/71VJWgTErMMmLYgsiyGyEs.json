@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+      },
+      "href": "https://api.spotify.com/v1/artists/7KqVvL7NOdUWyQg2B63cck",
+      "id": "7KqVvL7NOdUWyQg2B63cck",
+      "name": "Casey",
+      "type": "artist",
+      "uri": "spotify:artist:7KqVvL7NOdUWyQg2B63cck"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Hassle Records",
+      "type": "C"
+    },
+    {
+      "text": "Hassle Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060246129199"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/71VJWgTErMMmLYgsiyGyEs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/71VJWgTErMMmLYgsiyGyEs",
+  "id": "71VJWgTErMMmLYgsiyGyEs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e97b80e29ade2ffd95f2156",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e97b80e29ade2ffd95f2156",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e97b80e29ade2ffd95f2156",
+      "width": 64
+    }
+  ],
+  "label": "Hassle Records",
+  "name": "Fluorescents",
+  "popularity": 0,
+  "release_date": "2017-12-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/71VJWgTErMMmLYgsiyGyEs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+            },
+            "href": "https://api.spotify.com/v1/artists/7KqVvL7NOdUWyQg2B63cck",
+            "id": "7KqVvL7NOdUWyQg2B63cck",
+            "name": "Casey",
+            "type": "artist",
+            "uri": "spotify:artist:7KqVvL7NOdUWyQg2B63cck"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 269520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TEj0open18A6NZ3bIDChf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TEj0open18A6NZ3bIDChf",
+        "id": "3TEj0open18A6NZ3bIDChf",
+        "is_local": false,
+        "name": "Fluorescents",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3TEj0open18A6NZ3bIDChf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:71VJWgTErMMmLYgsiyGyEs"
+}

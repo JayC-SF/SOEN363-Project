@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2TzleKH1Y4r4zORTDmNhGy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2TzleKH1Y4r4zORTDmNhGy",
+      "id": "2TzleKH1Y4r4zORTDmNhGy",
+      "name": "keawly",
+      "type": "artist",
+      "uri": "spotify:artist:2TzleKH1Y4r4zORTDmNhGy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3446827 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3446827 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196864929141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1S0alKcexHBnXDHNcAt4xB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1S0alKcexHBnXDHNcAt4xB",
+  "id": "1S0alKcexHBnXDHNcAt4xB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374512dee329c6bc6ed885533",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274512dee329c6bc6ed885533",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174512dee329c6bc6ed885533",
+      "width": 64
+    }
+  ],
+  "label": "3446827 Records DK",
+  "name": "300 Thousand",
+  "popularity": 0,
+  "release_date": "2022-05-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1S0alKcexHBnXDHNcAt4xB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2TzleKH1Y4r4zORTDmNhGy"
+            },
+            "href": "https://api.spotify.com/v1/artists/2TzleKH1Y4r4zORTDmNhGy",
+            "id": "2TzleKH1Y4r4zORTDmNhGy",
+            "name": "keawly",
+            "type": "artist",
+            "uri": "spotify:artist:2TzleKH1Y4r4zORTDmNhGy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189857,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FwroK6qA0z9Q4nQLByaJH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FwroK6qA0z9Q4nQLByaJH",
+        "id": "4FwroK6qA0z9Q4nQLByaJH",
+        "is_local": false,
+        "name": "300 Thousand",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4FwroK6qA0z9Q4nQLByaJH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1S0alKcexHBnXDHNcAt4xB"
+}

@@ -1,0 +1,177 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+      },
+      "href": "https://api.spotify.com/v1/artists/56BHYURgbka2nQbBy8XZ3x",
+      "id": "56BHYURgbka2nQbBy8XZ3x",
+      "name": "Skinny Fabulous",
+      "type": "artist",
+      "uri": "spotify:artist:56BHYURgbka2nQbBy8XZ3x"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UiYnbo5CfmFEgLGCmzqdh"
+      },
+      "href": "https://api.spotify.com/v1/artists/5UiYnbo5CfmFEgLGCmzqdh",
+      "id": "5UiYnbo5CfmFEgLGCmzqdh",
+      "name": "Lavaman",
+      "type": "artist",
+      "uri": "spotify:artist:5UiYnbo5CfmFEgLGCmzqdh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+      },
+      "href": "https://api.spotify.com/v1/artists/1lE1SGLNabSpBbJB9A9qtU",
+      "id": "1lE1SGLNabSpBbJB9A9qtU",
+      "name": "Problem Child",
+      "type": "artist",
+      "uri": "spotify:artist:1lE1SGLNabSpBbJB9A9qtU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2012 FOX FUSE",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2012 FOX FUSE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191515374028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53h2OGVWCPpj942sSKZhhI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53h2OGVWCPpj942sSKZhhI",
+  "id": "53h2OGVWCPpj942sSKZhhI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3b51e1d6adf5b53e75791a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3b51e1d6adf5b53e75791a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3b51e1d6adf5b53e75791a7",
+      "width": 64
+    }
+  ],
+  "label": "Fox Fuse",
+  "name": "Y-3 Riddim",
+  "popularity": 0,
+  "release_date": "2012",
+  "release_date_precision": "year",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53h2OGVWCPpj942sSKZhhI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+            },
+            "href": "https://api.spotify.com/v1/artists/56BHYURgbka2nQbBy8XZ3x",
+            "id": "56BHYURgbka2nQbBy8XZ3x",
+            "name": "Skinny Fabulous",
+            "type": "artist",
+            "uri": "spotify:artist:56BHYURgbka2nQbBy8XZ3x"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167993,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pq4tL8GuBMQN060yVo5rA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pq4tL8GuBMQN060yVo5rA",
+        "id": "0pq4tL8GuBMQN060yVo5rA",
+        "is_local": false,
+        "name": "Upside Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0pq4tL8GuBMQN060yVo5rA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UiYnbo5CfmFEgLGCmzqdh"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UiYnbo5CfmFEgLGCmzqdh",
+            "id": "5UiYnbo5CfmFEgLGCmzqdh",
+            "name": "Lavaman",
+            "type": "artist",
+            "uri": "spotify:artist:5UiYnbo5CfmFEgLGCmzqdh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174312,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3b6TaoX4Bx6kz86BWUA2oD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3b6TaoX4Bx6kz86BWUA2oD",
+        "id": "3b6TaoX4Bx6kz86BWUA2oD",
+        "is_local": false,
+        "name": "I, Myself & Me",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3b6TaoX4Bx6kz86BWUA2oD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1lE1SGLNabSpBbJB9A9qtU",
+            "id": "1lE1SGLNabSpBbJB9A9qtU",
+            "name": "Problem Child",
+            "type": "artist",
+            "uri": "spotify:artist:1lE1SGLNabSpBbJB9A9qtU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206027,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IRUQscBtkkuIRLYl4gTqU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IRUQscBtkkuIRLYl4gTqU",
+        "id": "3IRUQscBtkkuIRLYl4gTqU",
+        "is_local": false,
+        "name": "Non Stop Fettin",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3IRUQscBtkkuIRLYl4gTqU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:53h2OGVWCPpj942sSKZhhI"
+}

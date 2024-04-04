@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+      },
+      "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+      "id": "4csQIMQm6vI2A2SCVDuM2z",
+      "name": "Hayden James",
+      "type": "artist",
+      "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Future Classic",
+      "type": "C"
+    },
+    {
+      "text": "2022 Future Classic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "653738989422"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6A8EQjE44jLANRwT2aW8Pb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6A8EQjE44jLANRwT2aW8Pb",
+  "id": "6A8EQjE44jLANRwT2aW8Pb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f29a8a4680d4b25907cb489e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f29a8a4680d4b25907cb489e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f29a8a4680d4b25907cb489e",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "Hold Tight",
+  "popularity": 17,
+  "release_date": "2022-01-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6A8EQjE44jLANRwT2aW8Pb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+            },
+            "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+            "id": "4csQIMQm6vI2A2SCVDuM2z",
+            "name": "Hayden James",
+            "type": "artist",
+            "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176381,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5or0ryC6EUT7kS92UEGqxd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5or0ryC6EUT7kS92UEGqxd",
+        "id": "5or0ryC6EUT7kS92UEGqxd",
+        "is_local": false,
+        "name": "Hold Tight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5or0ryC6EUT7kS92UEGqxd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6A8EQjE44jLANRwT2aW8Pb"
+}

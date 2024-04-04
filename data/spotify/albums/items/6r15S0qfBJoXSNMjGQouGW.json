@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id": "1HY2Jd0NmPuamShAr6KMms",
+      "name": "Lady Gaga",
+      "type": "artist",
+      "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537625215"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6r15S0qfBJoXSNMjGQouGW",
+  "id": "6r15S0qfBJoXSNMjGQouGW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e264ad346ef634c72b083e35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e264ad346ef634c72b083e35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e264ad346ef634c72b083e35",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Venus",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6r15S0qfBJoXSNMjGQouGW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "type": "artist",
+            "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234133,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4m7UoCZhKkIWMjuEfrp1JE",
+        "id": "4m7UoCZhKkIWMjuEfrp1JE",
+        "is_local": false,
+        "name": "Venus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4m7UoCZhKkIWMjuEfrp1JE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6r15S0qfBJoXSNMjGQouGW"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gDoTzsseyqOOrvKCCY2sb",
+      "id": "1gDoTzsseyqOOrvKCCY2sb",
+      "name": "Is0kenny",
+      "type": "artist",
+      "uri": "spotify:artist:1gDoTzsseyqOOrvKCCY2sb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 +1 Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 +1 Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197209723776"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4G2TAC3hSBxLh9A2Ee2WZi",
+  "id": "4G2TAC3hSBxLh9A2Ee2WZi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f480464931de25344158c78",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f480464931de25344158c78",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f480464931de25344158c78",
+      "width": 64
+    }
+  ],
+  "label": "+1 Records",
+  "name": "Speak Up",
+  "popularity": 1,
+  "release_date": "2022-10-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4G2TAC3hSBxLh9A2Ee2WZi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gDoTzsseyqOOrvKCCY2sb",
+            "id": "1gDoTzsseyqOOrvKCCY2sb",
+            "name": "Is0kenny",
+            "type": "artist",
+            "uri": "spotify:artist:1gDoTzsseyqOOrvKCCY2sb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 104960,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rqB2I2stqNPaVBaObZnDx",
+        "id": "2rqB2I2stqNPaVBaObZnDx",
+        "is_local": false,
+        "name": "Speak Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2rqB2I2stqNPaVBaObZnDx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4G2TAC3hSBxLh9A2Ee2WZi"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0c2yelD6HE33WZYXbn8CEJ",
+      "id": "0c2yelD6HE33WZYXbn8CEJ",
+      "name": "Tito Torbellino",
+      "type": "artist",
+      "uri": "spotify:artist:0c2yelD6HE33WZYXbn8CEJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 TitoTorbellino",
+      "type": "C"
+    },
+    {
+      "text": "2016 TitoTorbellino",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859717220672"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0hZIuFqzZ1hbTVDxINy2Z4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0hZIuFqzZ1hbTVDxINy2Z4",
+  "id": "0hZIuFqzZ1hbTVDxINy2Z4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e1230e87fe6c893361ae6cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e1230e87fe6c893361ae6cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e1230e87fe6c893361ae6cf",
+      "width": 64
+    }
+  ],
+  "label": "TitoTorbellino",
+  "name": "Tus Caprichos",
+  "popularity": 0,
+  "release_date": "2016-04-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0hZIuFqzZ1hbTVDxINy2Z4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0c2yelD6HE33WZYXbn8CEJ",
+            "id": "0c2yelD6HE33WZYXbn8CEJ",
+            "name": "Tito Torbellino",
+            "type": "artist",
+            "uri": "spotify:artist:0c2yelD6HE33WZYXbn8CEJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195269,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ABeKyQx49wCjPXMn8ZZFD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ABeKyQx49wCjPXMn8ZZFD",
+        "id": "0ABeKyQx49wCjPXMn8ZZFD",
+        "is_local": false,
+        "name": "Tus Caprichos",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ABeKyQx49wCjPXMn8ZZFD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0hZIuFqzZ1hbTVDxINy2Z4"
+}

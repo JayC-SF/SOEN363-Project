@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xNQYbUPJylyn3fEQ8iAYx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0xNQYbUPJylyn3fEQ8iAYx",
+      "id": "0xNQYbUPJylyn3fEQ8iAYx",
+      "name": "Aurix",
+      "type": "artist",
+      "uri": "spotify:artist:0xNQYbUPJylyn3fEQ8iAYx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Aurix",
+      "type": "C"
+    },
+    {
+      "text": "2013 Aurix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840080128016"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6a1v9ryy5WU2tGtvfwKbNv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6a1v9ryy5WU2tGtvfwKbNv",
+  "id": "6a1v9ryy5WU2tGtvfwKbNv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f94b8710c2db4760b16759df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f94b8710c2db4760b16759df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f94b8710c2db4760b16759df",
+      "width": 64
+    }
+  ],
+  "label": "DistroKid.com",
+  "name": "Source",
+  "popularity": 0,
+  "release_date": "2013-10-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6a1v9ryy5WU2tGtvfwKbNv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0xNQYbUPJylyn3fEQ8iAYx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xNQYbUPJylyn3fEQ8iAYx",
+            "id": "0xNQYbUPJylyn3fEQ8iAYx",
+            "name": "Aurix",
+            "type": "artist",
+            "uri": "spotify:artist:0xNQYbUPJylyn3fEQ8iAYx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 353197,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tXSq6cODvfnguOobnt8dA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tXSq6cODvfnguOobnt8dA",
+        "id": "2tXSq6cODvfnguOobnt8dA",
+        "is_local": false,
+        "name": "Source",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2tXSq6cODvfnguOobnt8dA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6a1v9ryy5WU2tGtvfwKbNv"
+}

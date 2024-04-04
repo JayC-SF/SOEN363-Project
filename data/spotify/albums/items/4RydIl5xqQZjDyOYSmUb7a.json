@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CgysNw5B7rFNRtRjQbPZ9",
+      "id": "2CgysNw5B7rFNRtRjQbPZ9",
+      "name": "Ryan Hemsworth",
+      "type": "artist",
+      "uri": "spotify:artist:2CgysNw5B7rFNRtRjQbPZ9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Secret Songs / Last Gang Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2018 Secret Songs / Last Gang Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164977726"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RydIl5xqQZjDyOYSmUb7a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4RydIl5xqQZjDyOYSmUb7a",
+  "id": "4RydIl5xqQZjDyOYSmUb7a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a06f2adb0533d679af32138d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a06f2adb0533d679af32138d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a06f2adb0533d679af32138d",
+      "width": 64
+    }
+  ],
+  "label": "Last Gang",
+  "name": "Think About U (feat. Joji)",
+  "popularity": 0,
+  "release_date": "2018-08-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4RydIl5xqQZjDyOYSmUb7a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CgysNw5B7rFNRtRjQbPZ9",
+            "id": "2CgysNw5B7rFNRtRjQbPZ9",
+            "name": "Ryan Hemsworth",
+            "type": "artist",
+            "uri": "spotify:artist:2CgysNw5B7rFNRtRjQbPZ9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
+            "id": "3MZsBdqDrRTJihTHQrO6Dq",
+            "name": "Joji",
+            "type": "artist",
+            "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168974,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FColhQrkkPXA3eZQJYurD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FColhQrkkPXA3eZQJYurD",
+        "id": "0FColhQrkkPXA3eZQJYurD",
+        "is_local": false,
+        "name": "Think About U (feat. Joji)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0FColhQrkkPXA3eZQJYurD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4RydIl5xqQZjDyOYSmUb7a"
+}

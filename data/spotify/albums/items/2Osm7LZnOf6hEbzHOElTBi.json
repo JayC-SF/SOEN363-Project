@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5XltLT7MA8tDZpPKuynpym"
+      },
+      "href": "https://api.spotify.com/v1/artists/5XltLT7MA8tDZpPKuynpym",
+      "id": "5XltLT7MA8tDZpPKuynpym",
+      "name": "Cougar MacDowall",
+      "type": "artist",
+      "uri": "spotify:artist:5XltLT7MA8tDZpPKuynpym"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Split Pease",
+      "type": "C"
+    },
+    {
+      "text": "2023 Split Pease",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198092681198"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Osm7LZnOf6hEbzHOElTBi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Osm7LZnOf6hEbzHOElTBi",
+  "id": "2Osm7LZnOf6hEbzHOElTBi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d66ab45f0c6cb5abf6e9cea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d66ab45f0c6cb5abf6e9cea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d66ab45f0c6cb5abf6e9cea",
+      "width": 64
+    }
+  ],
+  "label": "Split Pease",
+  "name": "Welcome To The Digital Circus",
+  "popularity": 23,
+  "release_date": "2023-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Osm7LZnOf6hEbzHOElTBi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5XltLT7MA8tDZpPKuynpym"
+            },
+            "href": "https://api.spotify.com/v1/artists/5XltLT7MA8tDZpPKuynpym",
+            "id": "5XltLT7MA8tDZpPKuynpym",
+            "name": "Cougar MacDowall",
+            "type": "artist",
+            "uri": "spotify:artist:5XltLT7MA8tDZpPKuynpym"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 57888,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dQa1rxH1qxZC6qCxPSfiW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dQa1rxH1qxZC6qCxPSfiW",
+        "id": "0dQa1rxH1qxZC6qCxPSfiW",
+        "is_local": false,
+        "name": "Welcome To The Digital Circus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0dQa1rxH1qxZC6qCxPSfiW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Osm7LZnOf6hEbzHOElTBi"
+}

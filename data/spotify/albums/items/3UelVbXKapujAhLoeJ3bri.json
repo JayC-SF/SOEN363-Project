@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+      },
+      "href": "https://api.spotify.com/v1/artists/2JbE7jUIGtpXSzytnyMg6U",
+      "id": "2JbE7jUIGtpXSzytnyMg6U",
+      "name": "Curtis Waters",
+      "type": "artist",
+      "uri": "spotify:artist:2JbE7jUIGtpXSzytnyMg6U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Curtis Waters",
+      "type": "C"
+    },
+    {
+      "text": "2020 Curtis Waters",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195334340370"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3UelVbXKapujAhLoeJ3bri"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3UelVbXKapujAhLoeJ3bri",
+  "id": "3UelVbXKapujAhLoeJ3bri",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f62df2aa4d8b9430cd2e8370",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f62df2aa4d8b9430cd2e8370",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f62df2aa4d8b9430cd2e8370",
+      "width": 64
+    }
+  ],
+  "label": "Curtis Waters",
+  "name": "Stunnin'",
+  "popularity": 2,
+  "release_date": "2020-05-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3UelVbXKapujAhLoeJ3bri/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+            },
+            "href": "https://api.spotify.com/v1/artists/2JbE7jUIGtpXSzytnyMg6U",
+            "id": "2JbE7jUIGtpXSzytnyMg6U",
+            "name": "Curtis Waters",
+            "type": "artist",
+            "uri": "spotify:artist:2JbE7jUIGtpXSzytnyMg6U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U"
+            },
+            "href": "https://api.spotify.com/v1/artists/44rJuOJLavqhY6qGgpQW4U",
+            "id": "44rJuOJLavqhY6qGgpQW4U",
+            "name": "Harm Franklin",
+            "type": "artist",
+            "uri": "spotify:artist:44rJuOJLavqhY6qGgpQW4U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144013,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2LUdpPCiiza6UQugipjMeS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2LUdpPCiiza6UQugipjMeS",
+        "id": "2LUdpPCiiza6UQugipjMeS",
+        "is_local": false,
+        "name": "Stunnin'",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2LUdpPCiiza6UQugipjMeS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3UelVbXKapujAhLoeJ3bri"
+}

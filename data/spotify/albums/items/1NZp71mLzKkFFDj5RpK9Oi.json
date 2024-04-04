@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ccVtqcqedranb7y8eywJ5",
+      "id": "3ccVtqcqedranb7y8eywJ5",
+      "name": "Blanco White",
+      "type": "artist",
+      "uri": "spotify:artist:3ccVtqcqedranb7y8eywJ5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 AntiFragile",
+      "type": "C"
+    },
+    {
+      "text": "2017 AntiFragile",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859720117501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1NZp71mLzKkFFDj5RpK9Oi",
+  "id": "1NZp71mLzKkFFDj5RpK9Oi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc121b6a62ad849123523a85",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc121b6a62ad849123523a85",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc121b6a62ad849123523a85",
+      "width": 64
+    }
+  ],
+  "label": "AntiFragile",
+  "name": "Colder Heavens",
+  "popularity": 0,
+  "release_date": "2017-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1NZp71mLzKkFFDj5RpK9Oi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ccVtqcqedranb7y8eywJ5",
+            "id": "3ccVtqcqedranb7y8eywJ5",
+            "name": "Blanco White",
+            "type": "artist",
+            "uri": "spotify:artist:3ccVtqcqedranb7y8eywJ5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 273893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15qtOgzv7mW3CQWQVgWIM6",
+        "id": "15qtOgzv7mW3CQWQVgWIM6",
+        "is_local": false,
+        "name": "Colder Heavens",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15qtOgzv7mW3CQWQVgWIM6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1NZp71mLzKkFFDj5RpK9Oi"
+}

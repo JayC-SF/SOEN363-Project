@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51IT5y05qux2Um4bPUxzX6"
+      },
+      "href": "https://api.spotify.com/v1/artists/51IT5y05qux2Um4bPUxzX6",
+      "id": "51IT5y05qux2Um4bPUxzX6",
+      "name": "Ty James",
+      "type": "artist",
+      "uri": "spotify:artist:51IT5y05qux2Um4bPUxzX6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6OaUl4ijSWkKWMdlWQqKni"
+      },
+      "href": "https://api.spotify.com/v1/artists/6OaUl4ijSWkKWMdlWQqKni",
+      "id": "6OaUl4ijSWkKWMdlWQqKni",
+      "name": "unheard",
+      "type": "artist",
+      "uri": "spotify:artist:6OaUl4ijSWkKWMdlWQqKni"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Loyalty Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436090506"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XkB6pkWREhWF0M84NKftM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1XkB6pkWREhWF0M84NKftM",
+  "id": "1XkB6pkWREhWF0M84NKftM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734119c303e3bc4d8cc1a450d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024119c303e3bc4d8cc1a450d4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514119c303e3bc4d8cc1a450d4",
+      "width": 64
+    }
+  ],
+  "label": "Loyalty Records",
+  "name": "Splash",
+  "popularity": 15,
+  "release_date": "2019-02-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1XkB6pkWREhWF0M84NKftM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51IT5y05qux2Um4bPUxzX6"
+            },
+            "href": "https://api.spotify.com/v1/artists/51IT5y05qux2Um4bPUxzX6",
+            "id": "51IT5y05qux2Um4bPUxzX6",
+            "name": "Ty James",
+            "type": "artist",
+            "uri": "spotify:artist:51IT5y05qux2Um4bPUxzX6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OaUl4ijSWkKWMdlWQqKni"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OaUl4ijSWkKWMdlWQqKni",
+            "id": "6OaUl4ijSWkKWMdlWQqKni",
+            "name": "unheard",
+            "type": "artist",
+            "uri": "spotify:artist:6OaUl4ijSWkKWMdlWQqKni"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150447,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04FG3jfxbSViVX9GYItO4n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/04FG3jfxbSViVX9GYItO4n",
+        "id": "04FG3jfxbSViVX9GYItO4n",
+        "is_local": false,
+        "name": "Splash",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:04FG3jfxbSViVX9GYItO4n"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1XkB6pkWREhWF0M84NKftM"
+}

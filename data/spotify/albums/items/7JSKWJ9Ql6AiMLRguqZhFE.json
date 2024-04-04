@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+      },
+      "href": "https://api.spotify.com/v1/artists/01V3Qm1TK0j2uXYZJOEAgP",
+      "id": "01V3Qm1TK0j2uXYZJOEAgP",
+      "name": "Yella Flat Boys",
+      "type": "artist",
+      "uri": "spotify:artist:01V3Qm1TK0j2uXYZJOEAgP"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Yella Flat Boys",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Yella Flat Boys",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757424665"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7JSKWJ9Ql6AiMLRguqZhFE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7JSKWJ9Ql6AiMLRguqZhFE",
+  "id": "7JSKWJ9Ql6AiMLRguqZhFE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b926e5890ce35db65c0243b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b926e5890ce35db65c0243b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b926e5890ce35db65c0243b8",
+      "width": 64
+    }
+  ],
+  "label": "Yella Flat Boys",
+  "name": "shellac",
+  "popularity": 24,
+  "release_date": "2021-10-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7JSKWJ9Ql6AiMLRguqZhFE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+            },
+            "href": "https://api.spotify.com/v1/artists/01V3Qm1TK0j2uXYZJOEAgP",
+            "id": "01V3Qm1TK0j2uXYZJOEAgP",
+            "name": "Yella Flat Boys",
+            "type": "artist",
+            "uri": "spotify:artist:01V3Qm1TK0j2uXYZJOEAgP"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 192000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rfJuherZ1qkLPv3pTU9GR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rfJuherZ1qkLPv3pTU9GR",
+        "id": "1rfJuherZ1qkLPv3pTU9GR",
+        "is_local": false,
+        "name": "shellac",
+        "preview_url": "https://p.scdn.co/mp3-preview/1bd7719b646580e358381e68a436aa2b560a2d3a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1rfJuherZ1qkLPv3pTU9GR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7JSKWJ9Ql6AiMLRguqZhFE"
+}

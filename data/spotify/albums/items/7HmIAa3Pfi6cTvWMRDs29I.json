@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN"
+      },
+      "href": "https://api.spotify.com/v1/artists/41qKm0lqT9phMXjU5ksLxN",
+      "id": "41qKm0lqT9phMXjU5ksLxN",
+      "name": "Mostafa Atef",
+      "type": "artist",
+      "uri": "spotify:artist:41qKm0lqT9phMXjU5ksLxN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Arteffects International",
+      "type": "C"
+    },
+    {
+      "text": "2015 Arteffects International",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9555587700412"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7HmIAa3Pfi6cTvWMRDs29I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7HmIAa3Pfi6cTvWMRDs29I",
+  "id": "7HmIAa3Pfi6cTvWMRDs29I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338d2b8109eeb003e26339abb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238d2b8109eeb003e26339abb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138d2b8109eeb003e26339abb",
+      "width": 64
+    }
+  ],
+  "label": "Arteffects International",
+  "name": "Qamarun",
+  "popularity": 0,
+  "release_date": "2015-02-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7HmIAa3Pfi6cTvWMRDs29I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN"
+            },
+            "href": "https://api.spotify.com/v1/artists/41qKm0lqT9phMXjU5ksLxN",
+            "id": "41qKm0lqT9phMXjU5ksLxN",
+            "name": "Mostafa Atef",
+            "type": "artist",
+            "uri": "spotify:artist:41qKm0lqT9phMXjU5ksLxN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250304,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xe9zhpLfvlhhHIW8QPwap"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xe9zhpLfvlhhHIW8QPwap",
+        "id": "0xe9zhpLfvlhhHIW8QPwap",
+        "is_local": false,
+        "name": "Qamarun",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xe9zhpLfvlhhHIW8QPwap"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7HmIAa3Pfi6cTvWMRDs29I"
+}

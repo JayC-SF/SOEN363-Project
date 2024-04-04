@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2"
+      },
+      "href": "https://api.spotify.com/v1/artists/1psakk7GVUl85AnTEvwtk2",
+      "id": "1psakk7GVUl85AnTEvwtk2",
+      "name": "DHARIA",
+      "type": "artist",
+      "uri": "spotify:artist:1psakk7GVUl85AnTEvwtk2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465003059"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4S18dTcAuVNQneDd7J3zw1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4S18dTcAuVNQneDd7J3zw1",
+  "id": "4S18dTcAuVNQneDd7J3zw1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374d7f07e7a316eca66852d46",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274d7f07e7a316eca66852d46",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174d7f07e7a316eca66852d46",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Sugar & Brownies",
+  "popularity": 15,
+  "release_date": "2019-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4S18dTcAuVNQneDd7J3zw1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2"
+            },
+            "href": "https://api.spotify.com/v1/artists/1psakk7GVUl85AnTEvwtk2",
+            "id": "1psakk7GVUl85AnTEvwtk2",
+            "name": "DHARIA",
+            "type": "artist",
+            "uri": "spotify:artist:1psakk7GVUl85AnTEvwtk2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197836,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16ih0TTm4REIQuYBMPTHm8",
+        "id": "16ih0TTm4REIQuYBMPTHm8",
+        "is_local": false,
+        "name": "Sugar & Brownies",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16ih0TTm4REIQuYBMPTHm8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4S18dTcAuVNQneDd7J3zw1"
+}

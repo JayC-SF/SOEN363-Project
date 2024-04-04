@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GCtvhTS0DMPgvhfF3dUzz"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GCtvhTS0DMPgvhfF3dUzz",
+      "id": "6GCtvhTS0DMPgvhfF3dUzz",
+      "name": "ThnxCya",
+      "type": "artist",
+      "uri": "spotify:artist:6GCtvhTS0DMPgvhfF3dUzz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 ThnxCya",
+      "type": "C"
+    },
+    {
+      "text": "2013 ThnxCya",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055701671818"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7D6qgIofAP86xUg6DGiQRx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7D6qgIofAP86xUg6DGiQRx",
+  "id": "7D6qgIofAP86xUg6DGiQRx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b96e60b4a9b47ba42872cde1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b96e60b4a9b47ba42872cde1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b96e60b4a9b47ba42872cde1",
+      "width": 64
+    }
+  ],
+  "label": "Danger In Sound",
+  "name": "Never Say Goodbye",
+  "popularity": 0,
+  "release_date": "2013-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7D6qgIofAP86xUg6DGiQRx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GCtvhTS0DMPgvhfF3dUzz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GCtvhTS0DMPgvhfF3dUzz",
+            "id": "6GCtvhTS0DMPgvhfF3dUzz",
+            "name": "ThnxCya",
+            "type": "artist",
+            "uri": "spotify:artist:6GCtvhTS0DMPgvhfF3dUzz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198034,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0w2AI8KiOf07mWC5FnK3sd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0w2AI8KiOf07mWC5FnK3sd",
+        "id": "0w2AI8KiOf07mWC5FnK3sd",
+        "is_local": false,
+        "name": "Never Say Goodbye",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0w2AI8KiOf07mWC5FnK3sd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7D6qgIofAP86xUg6DGiQRx"
+}

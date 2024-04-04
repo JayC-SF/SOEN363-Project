@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rwALQ1SXdfUWPUd6WOfYS",
+      "id": "2rwALQ1SXdfUWPUd6WOfYS",
+      "name": "Aaron May",
+      "type": "artist",
+      "uri": "spotify:artist:2rwALQ1SXdfUWPUd6WOfYS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 MOVEINTHEAM",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888915773673"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/03jTjHeMD7mGKMrOV3yzi4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/03jTjHeMD7mGKMrOV3yzi4",
+  "id": "03jTjHeMD7mGKMrOV3yzi4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735055ccf1131cff0dea38cd4b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025055ccf1131cff0dea38cd4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515055ccf1131cff0dea38cd4b",
+      "width": 64
+    }
+  ],
+  "label": "MOVEINTHEAM",
+  "name": "Ride",
+  "popularity": 0,
+  "release_date": "2018-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/03jTjHeMD7mGKMrOV3yzi4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rwALQ1SXdfUWPUd6WOfYS",
+            "id": "2rwALQ1SXdfUWPUd6WOfYS",
+            "name": "Aaron May",
+            "type": "artist",
+            "uri": "spotify:artist:2rwALQ1SXdfUWPUd6WOfYS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190605,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qhLjL9qONvefECUVr0hwn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qhLjL9qONvefECUVr0hwn",
+        "id": "2qhLjL9qONvefECUVr0hwn",
+        "is_local": false,
+        "name": "Ride",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qhLjL9qONvefECUVr0hwn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:03jTjHeMD7mGKMrOV3yzi4"
+}

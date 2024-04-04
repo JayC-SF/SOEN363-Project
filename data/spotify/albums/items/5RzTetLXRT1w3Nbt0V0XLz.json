@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tM4ox3QsSpl3R2VwLjJ47",
+      "id": "1tM4ox3QsSpl3R2VwLjJ47",
+      "name": "Larissa Lambert",
+      "type": "artist",
+      "uri": "spotify:artist:1tM4ox3QsSpl3R2VwLjJ47"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 New Levels",
+      "type": "C"
+    },
+    {
+      "text": "2021 New Levels",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195920086071"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5RzTetLXRT1w3Nbt0V0XLz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5RzTetLXRT1w3Nbt0V0XLz",
+  "id": "5RzTetLXRT1w3Nbt0V0XLz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397d761ee48683984eb7beb17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297d761ee48683984eb7beb17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197d761ee48683984eb7beb17",
+      "width": 64
+    }
+  ],
+  "label": "New Levels",
+  "name": "Weak",
+  "popularity": 0,
+  "release_date": "2021-01-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5RzTetLXRT1w3Nbt0V0XLz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tM4ox3QsSpl3R2VwLjJ47",
+            "id": "1tM4ox3QsSpl3R2VwLjJ47",
+            "name": "Larissa Lambert",
+            "type": "artist",
+            "uri": "spotify:artist:1tM4ox3QsSpl3R2VwLjJ47"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07MW63ok3ptSKwaTWEN0o8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07MW63ok3ptSKwaTWEN0o8",
+        "id": "07MW63ok3ptSKwaTWEN0o8",
+        "is_local": false,
+        "name": "Weak",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:07MW63ok3ptSKwaTWEN0o8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5RzTetLXRT1w3Nbt0V0XLz"
+}

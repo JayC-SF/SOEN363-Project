@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537852659"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5A6pzfa725ZA3rhDllmX58",
+  "id": "5A6pzfa725ZA3rhDllmX58",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324190df1c8fdd4b308a687ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224190df1c8fdd4b308a687ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124190df1c8fdd4b308a687ae",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Problem",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5A6pzfa725ZA3rhDllmX58/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            },
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "type": "artist",
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yG7ZAZafVaAlMTeBybKAL",
+            "id": "5yG7ZAZafVaAlMTeBybKAL",
+            "name": "Iggy Azalea",
+            "type": "artist",
+            "uri": "spotify:artist:5yG7ZAZafVaAlMTeBybKAL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cySlItpiPiIAzU3NyHCJf",
+        "id": "3cySlItpiPiIAzU3NyHCJf",
+        "is_local": false,
+        "name": "Problem",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3cySlItpiPiIAzU3NyHCJf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5A6pzfa725ZA3rhDllmX58"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+      "id": "3AVfmawzu83sp94QW7CEGm",
+      "name": "Astrid S",
+      "type": "artist",
+      "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Universal Music A/S",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Universal Music A/S",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547701947"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ddNxS7OD86QMJUbEdNNWR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ddNxS7OD86QMJUbEdNNWR",
+  "id": "3ddNxS7OD86QMJUbEdNNWR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345e85c99277e65441e344214",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245e85c99277e65441e344214",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145e85c99277e65441e344214",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Hyde",
+  "popularity": 0,
+  "release_date": "2015-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ddNxS7OD86QMJUbEdNNWR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+            "id": "3AVfmawzu83sp94QW7CEGm",
+            "name": "Astrid S",
+            "type": "artist",
+            "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191819,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16qFuWIIbF0uGugrV90qPt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16qFuWIIbF0uGugrV90qPt",
+        "id": "16qFuWIIbF0uGugrV90qPt",
+        "is_local": false,
+        "name": "Hyde",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16qFuWIIbF0uGugrV90qPt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+            "id": "3AVfmawzu83sp94QW7CEGm",
+            "name": "Astrid S",
+            "type": "artist",
+            "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 175475,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zwfEfmafOnsWisPSck8np"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zwfEfmafOnsWisPSck8np",
+        "id": "1zwfEfmafOnsWisPSck8np",
+        "is_local": false,
+        "name": "Hyde - Live From Studio",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1zwfEfmafOnsWisPSck8np"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3ddNxS7OD86QMJUbEdNNWR"
+}

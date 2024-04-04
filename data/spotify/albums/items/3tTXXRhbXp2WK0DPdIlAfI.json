@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ouPTYWjHfprRwZH76ivWi",
+      "id": "0ouPTYWjHfprRwZH76ivWi",
+      "name": "Feather",
+      "type": "artist",
+      "uri": "spotify:artist:0ouPTYWjHfprRwZH76ivWi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Feather",
+      "type": "C"
+    },
+    {
+      "text": "2020 Feather",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859743065476"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3tTXXRhbXp2WK0DPdIlAfI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3tTXXRhbXp2WK0DPdIlAfI",
+  "id": "3tTXXRhbXp2WK0DPdIlAfI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273984efd079093c69828bf8a40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02984efd079093c69828bf8a40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851984efd079093c69828bf8a40",
+      "width": 64
+    }
+  ],
+  "label": "Feather",
+  "name": "Safe House",
+  "popularity": 0,
+  "release_date": "2020-10-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3tTXXRhbXp2WK0DPdIlAfI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ouPTYWjHfprRwZH76ivWi",
+            "id": "0ouPTYWjHfprRwZH76ivWi",
+            "name": "Feather",
+            "type": "artist",
+            "uri": "spotify:artist:0ouPTYWjHfprRwZH76ivWi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Oy5ICN1NESRIBVOg7FIyg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Oy5ICN1NESRIBVOg7FIyg",
+        "id": "2Oy5ICN1NESRIBVOg7FIyg",
+        "is_local": false,
+        "name": "Safe House",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Oy5ICN1NESRIBVOg7FIyg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3tTXXRhbXp2WK0DPdIlAfI"
+}

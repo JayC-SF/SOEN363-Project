@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0DicwL5r1PUqGe9vVaaXhO",
+      "id": "0DicwL5r1PUqGe9vVaaXhO",
+      "name": "JocaBegge",
+      "type": "artist",
+      "uri": "spotify:artist:0DicwL5r1PUqGe9vVaaXhO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 JocaBegge",
+      "type": "C"
+    },
+    {
+      "text": "2023 JocaBegge",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "821555786504"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3HN4YC7niYSVhVQWmgagOI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3HN4YC7niYSVhVQWmgagOI",
+  "id": "3HN4YC7niYSVhVQWmgagOI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273769ea6d787b5d892752d51f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02769ea6d787b5d892752d51f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851769ea6d787b5d892752d51f5",
+      "width": 64
+    }
+  ],
+  "label": "JocaBegge",
+  "name": "Madrid",
+  "popularity": 0,
+  "release_date": "2023-04-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3HN4YC7niYSVhVQWmgagOI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0DicwL5r1PUqGe9vVaaXhO",
+            "id": "0DicwL5r1PUqGe9vVaaXhO",
+            "name": "JocaBegge",
+            "type": "artist",
+            "uri": "spotify:artist:0DicwL5r1PUqGe9vVaaXhO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200341,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qa0GxbPdzhH0BVCKmMoMi",
+        "id": "4qa0GxbPdzhH0BVCKmMoMi",
+        "is_local": false,
+        "name": "Madrid",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qa0GxbPdzhH0BVCKmMoMi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3HN4YC7niYSVhVQWmgagOI"
+}

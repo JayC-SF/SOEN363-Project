@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id": "2ye2Wgw4gimLv2eAKyk1NB",
+      "name": "Metallica",
+      "type": "artist",
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2020 Blackened Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2020 Blackened Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "850007452360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4UAflzkXm8xkKy1BbHaQQU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4UAflzkXm8xkKy1BbHaQQU",
+  "id": "4UAflzkXm8xkKy1BbHaQQU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd50e35875648cac2c3b6b38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd50e35875648cac2c3b6b38",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd50e35875648cac2c3b6b38",
+      "width": 64
+    }
+  ],
+  "label": "Blackened Recordings",
+  "name": "Blackened 2020",
+  "popularity": 29,
+  "release_date": "2020-05-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4UAflzkXm8xkKy1BbHaQQU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+            "id": "2ye2Wgw4gimLv2eAKyk1NB",
+            "name": "Metallica",
+            "type": "artist",
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 332333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gEIkN8SSg8hp4NENkyYFA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6gEIkN8SSg8hp4NENkyYFA",
+        "id": "6gEIkN8SSg8hp4NENkyYFA",
+        "is_local": false,
+        "name": "Blackened 2020",
+        "preview_url": "https://p.scdn.co/mp3-preview/b18aabdf8fc9904b850c8e15b9360914f80a6974?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6gEIkN8SSg8hp4NENkyYFA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4UAflzkXm8xkKy1BbHaQQU"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ee4yhrWOxaxvL77BoVpVR",
+      "id": "5ee4yhrWOxaxvL77BoVpVR",
+      "name": "Lucky Luke",
+      "type": "artist",
+      "uri": "spotify:artist:5ee4yhrWOxaxvL77BoVpVR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Killa Tequila",
+      "type": "C"
+    },
+    {
+      "text": "2017 Killa Tequila",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1827849477461"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4JFjZGYf0S8t9S7I2QwjOX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4JFjZGYf0S8t9S7I2QwjOX",
+  "id": "4JFjZGYf0S8t9S7I2QwjOX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273288038373a8298b31acfe715",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02288038373a8298b31acfe715",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851288038373a8298b31acfe715",
+      "width": 64
+    }
+  ],
+  "label": "Killa Tequila",
+  "name": "M.A.D.E.",
+  "popularity": 0,
+  "release_date": "2017-11-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4JFjZGYf0S8t9S7I2QwjOX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ee4yhrWOxaxvL77BoVpVR",
+            "id": "5ee4yhrWOxaxvL77BoVpVR",
+            "name": "Lucky Luke",
+            "type": "artist",
+            "uri": "spotify:artist:5ee4yhrWOxaxvL77BoVpVR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 237744,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1R6Agjr8NdXHLE6NhWGdYI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1R6Agjr8NdXHLE6NhWGdYI",
+        "id": "1R6Agjr8NdXHLE6NhWGdYI",
+        "is_local": false,
+        "name": "M.A.D.E.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1R6Agjr8NdXHLE6NhWGdYI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4JFjZGYf0S8t9S7I2QwjOX"
+}

@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+      "id": "6PIIKavZx20FlVKyIvb4Um",
+      "name": "Calema",
+      "type": "artist",
+      "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+      },
+      "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
+      "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+      "name": "Z\u00e9 Felipe",
+      "type": "artist",
+      "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
+    }
+  ],
+  "available_markets": [
+    "BR",
+    "PT"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602445600670"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MI4octiiy2QaJJXwtmQuY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MI4octiiy2QaJJXwtmQuY",
+  "id": "7MI4octiiy2QaJJXwtmQuY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fab48b56d07538b6103638b5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fab48b56d07538b6103638b5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fab48b56d07538b6103638b5",
+      "width": 64
+    }
+  ],
+  "label": "Klasszik",
+  "name": "Onde Anda",
+  "popularity": 45,
+  "release_date": "2022-04-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MI4octiiy2QaJJXwtmQuY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+            "id": "6PIIKavZx20FlVKyIvb4Um",
+            "name": "Calema",
+            "type": "artist",
+            "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+            },
+            "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
+            "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+            "name": "Z\u00e9 Felipe",
+            "type": "artist",
+            "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
+          }
+        ],
+        "available_markets": [
+          "BR",
+          "PT"
+        ],
+        "disc_number": 1,
+        "duration_ms": 177728,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3q3EBdrTrlF4PmJQTZ17ie"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3q3EBdrTrlF4PmJQTZ17ie",
+        "id": "3q3EBdrTrlF4PmJQTZ17ie",
+        "is_local": false,
+        "name": "Onde Anda",
+        "preview_url": "https://p.scdn.co/mp3-preview/293e96c4b18c5497cc026ac87d93d3855b3f7dd0?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3q3EBdrTrlF4PmJQTZ17ie"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7MI4octiiy2QaJJXwtmQuY"
+}

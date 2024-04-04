@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7lMeqVveN0swcJo72U5gIM"
+      },
+      "href": "https://api.spotify.com/v1/artists/7lMeqVveN0swcJo72U5gIM",
+      "id": "7lMeqVveN0swcJo72U5gIM",
+      "name": "Son Ho Young",
+      "type": "artist",
+      "uri": "spotify:artist:7lMeqVveN0swcJo72U5gIM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+      },
+      "href": "https://api.spotify.com/v1/artists/25KT93FeotUTHC1dbLasxi",
+      "id": "25KT93FeotUTHC1dbLasxi",
+      "name": "A.C.E",
+      "type": "artist",
+      "uri": "spotify:artist:25KT93FeotUTHC1dbLasxi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 \ubb38\ud504\ub85c\ub355\uc158",
+      "type": "C"
+    },
+    {
+      "text": "2021 \ud150\ud150\ubbf8\ub514\uc5b4",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8809829775227"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mltw5n5REBLvauAFoerH8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mltw5n5REBLvauAFoerH8",
+  "id": "3mltw5n5REBLvauAFoerH8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c4fe4c4a2e8d143191bb342",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c4fe4c4a2e8d143191bb342",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c4fe4c4a2e8d143191bb342",
+      "width": 64
+    }
+  ],
+  "label": "\ubb38\ud504\ub85c\ub355\uc158",
+  "name": "The Playlist Pt. 4",
+  "popularity": 0,
+  "release_date": "2021-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mltw5n5REBLvauAFoerH8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7lMeqVveN0swcJo72U5gIM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7lMeqVveN0swcJo72U5gIM",
+            "id": "7lMeqVveN0swcJo72U5gIM",
+            "name": "Son Ho Young",
+            "type": "artist",
+            "uri": "spotify:artist:7lMeqVveN0swcJo72U5gIM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222559,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1k1po4fInk3q9iYWZDMD2Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1k1po4fInk3q9iYWZDMD2Y",
+        "id": "1k1po4fInk3q9iYWZDMD2Y",
+        "is_local": false,
+        "name": "Love Brings Separation - Live version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1k1po4fInk3q9iYWZDMD2Y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+            },
+            "href": "https://api.spotify.com/v1/artists/25KT93FeotUTHC1dbLasxi",
+            "id": "25KT93FeotUTHC1dbLasxi",
+            "name": "A.C.E",
+            "type": "artist",
+            "uri": "spotify:artist:25KT93FeotUTHC1dbLasxi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 284375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2k1EFq1qkydAy6vlWQSujQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2k1EFq1qkydAy6vlWQSujQ",
+        "id": "2k1EFq1qkydAy6vlWQSujQ",
+        "is_local": false,
+        "name": "again",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2k1EFq1qkydAy6vlWQSujQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3mltw5n5REBLvauAFoerH8"
+}

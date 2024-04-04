@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1JhiIIXT9DWqEU3BYFZwGA",
+      "id": "1JhiIIXT9DWqEU3BYFZwGA",
+      "name": "MOTHICA",
+      "type": "artist",
+      "uri": "spotify:artist:1JhiIIXT9DWqEU3BYFZwGA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Heavy Heart Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Heavy Heart Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "024543279440"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29nflzKihrlTJt1quWDU3K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29nflzKihrlTJt1quWDU3K",
+  "id": "29nflzKihrlTJt1quWDU3K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737c2a20f74030944f0b1cc4cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027c2a20f74030944f0b1cc4cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517c2a20f74030944f0b1cc4cb",
+      "width": 64
+    }
+  ],
+  "label": "Mothica",
+  "name": "forever fifteen",
+  "popularity": 0,
+  "release_date": "2021-01-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29nflzKihrlTJt1quWDU3K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1JhiIIXT9DWqEU3BYFZwGA",
+            "id": "1JhiIIXT9DWqEU3BYFZwGA",
+            "name": "MOTHICA",
+            "type": "artist",
+            "uri": "spotify:artist:1JhiIIXT9DWqEU3BYFZwGA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225271,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tNzuncNnhrrF6nUDWK4wh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tNzuncNnhrrF6nUDWK4wh",
+        "id": "6tNzuncNnhrrF6nUDWK4wh",
+        "is_local": false,
+        "name": "forever fifteen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6tNzuncNnhrrF6nUDWK4wh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29nflzKihrlTJt1quWDU3K"
+}

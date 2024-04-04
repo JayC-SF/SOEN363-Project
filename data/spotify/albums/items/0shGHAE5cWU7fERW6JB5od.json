@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR"
+      },
+      "href": "https://api.spotify.com/v1/artists/0yef6VSNvf1atgoH0Vv5aR",
+      "id": "0yef6VSNvf1atgoH0Vv5aR",
+      "name": "Lumoon",
+      "type": "artist",
+      "uri": "spotify:artist:0yef6VSNvf1atgoH0Vv5aR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YJp6laoD5gLNFt4iksPMu",
+      "id": "1YJp6laoD5gLNFt4iksPMu",
+      "name": "Rob!n",
+      "type": "artist",
+      "uri": "spotify:artist:1YJp6laoD5gLNFt4iksPMu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Clair de Lune Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Clair de Lune Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050486977866"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0shGHAE5cWU7fERW6JB5od"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0shGHAE5cWU7fERW6JB5od",
+  "id": "0shGHAE5cWU7fERW6JB5od",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e55c16e48d76e086c8d8046b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e55c16e48d76e086c8d8046b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e55c16e48d76e086c8d8046b",
+      "width": 64
+    }
+  ],
+  "label": "Clair de Lune Records",
+  "name": "La disquette",
+  "popularity": 0,
+  "release_date": "2016-12-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0shGHAE5cWU7fERW6JB5od/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yef6VSNvf1atgoH0Vv5aR",
+            "id": "0yef6VSNvf1atgoH0Vv5aR",
+            "name": "Lumoon",
+            "type": "artist",
+            "uri": "spotify:artist:0yef6VSNvf1atgoH0Vv5aR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YJp6laoD5gLNFt4iksPMu",
+            "id": "1YJp6laoD5gLNFt4iksPMu",
+            "name": "Rob!n",
+            "type": "artist",
+            "uri": "spotify:artist:1YJp6laoD5gLNFt4iksPMu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 307859,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09V8oDfkwTjC9ZeK3SYrz7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09V8oDfkwTjC9ZeK3SYrz7",
+        "id": "09V8oDfkwTjC9ZeK3SYrz7",
+        "is_local": false,
+        "name": "La disquette",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:09V8oDfkwTjC9ZeK3SYrz7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0shGHAE5cWU7fERW6JB5od"
+}

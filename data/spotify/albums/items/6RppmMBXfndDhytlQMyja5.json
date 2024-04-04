@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5WGZ4dvjGO9ntTEWxww2eX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5WGZ4dvjGO9ntTEWxww2eX",
+      "id": "5WGZ4dvjGO9ntTEWxww2eX",
+      "name": "Bigg Sleeezzy",
+      "type": "artist",
+      "uri": "spotify:artist:5WGZ4dvjGO9ntTEWxww2eX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Bigg Sleeezzy",
+      "type": "C"
+    },
+    {
+      "text": "2021 Bigg Sleeezzy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283445291"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6RppmMBXfndDhytlQMyja5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6RppmMBXfndDhytlQMyja5",
+  "id": "6RppmMBXfndDhytlQMyja5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327bf59896458cef38ee46985",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227bf59896458cef38ee46985",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127bf59896458cef38ee46985",
+      "width": 64
+    }
+  ],
+  "label": "Heart Break Records",
+  "name": "Str8 Drop",
+  "popularity": 0,
+  "release_date": "2021-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6RppmMBXfndDhytlQMyja5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WGZ4dvjGO9ntTEWxww2eX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WGZ4dvjGO9ntTEWxww2eX",
+            "id": "5WGZ4dvjGO9ntTEWxww2eX",
+            "name": "Bigg Sleeezzy",
+            "type": "artist",
+            "uri": "spotify:artist:5WGZ4dvjGO9ntTEWxww2eX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/47yK7AfKtPVHlaRrwJhpOr"
+            },
+            "href": "https://api.spotify.com/v1/artists/47yK7AfKtPVHlaRrwJhpOr",
+            "id": "47yK7AfKtPVHlaRrwJhpOr",
+            "name": "Lil Bucky",
+            "type": "artist",
+            "uri": "spotify:artist:47yK7AfKtPVHlaRrwJhpOr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129188,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IN3xpwfGbhSADDRmfcodA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IN3xpwfGbhSADDRmfcodA",
+        "id": "7IN3xpwfGbhSADDRmfcodA",
+        "is_local": false,
+        "name": "Str8 Drop",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7IN3xpwfGbhSADDRmfcodA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6RppmMBXfndDhytlQMyja5"
+}

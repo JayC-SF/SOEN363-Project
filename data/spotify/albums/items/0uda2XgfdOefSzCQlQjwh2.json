@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba"
+      },
+      "href": "https://api.spotify.com/v1/artists/5sXhYkm9PpLn5R70U2T6Ba",
+      "id": "5sXhYkm9PpLn5R70U2T6Ba",
+      "name": "Julie Roberts",
+      "type": "artist",
+      "uri": "spotify:artist:5sXhYkm9PpLn5R70U2T6Ba"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Black Country Rock",
+      "type": "C"
+    },
+    {
+      "text": "2016 Black Country Rock",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718502708"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uda2XgfdOefSzCQlQjwh2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uda2XgfdOefSzCQlQjwh2",
+  "id": "0uda2XgfdOefSzCQlQjwh2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df6577f8bb2ab8134c38a083",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df6577f8bb2ab8134c38a083",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df6577f8bb2ab8134c38a083",
+      "width": 64
+    }
+  ],
+  "label": "Black Country Rock",
+  "name": "Why Can't I Have You?",
+  "popularity": 0,
+  "release_date": "2016-10-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uda2XgfdOefSzCQlQjwh2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sXhYkm9PpLn5R70U2T6Ba",
+            "id": "5sXhYkm9PpLn5R70U2T6Ba",
+            "name": "Julie Roberts",
+            "type": "artist",
+            "uri": "spotify:artist:5sXhYkm9PpLn5R70U2T6Ba"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169607,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15CHKY8D1VgXfydS4XhoII"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15CHKY8D1VgXfydS4XhoII",
+        "id": "15CHKY8D1VgXfydS4XhoII",
+        "is_local": false,
+        "name": "Why Can't I Have You?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15CHKY8D1VgXfydS4XhoII"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0uda2XgfdOefSzCQlQjwh2"
+}

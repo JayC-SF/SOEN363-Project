@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP"
+      },
+      "href": "https://api.spotify.com/v1/artists/34VobEzGgudyNngJ5uYolP",
+      "id": "34VobEzGgudyNngJ5uYolP",
+      "name": "Lot",
+      "type": "artist",
+      "uri": "spotify:artist:34VobEzGgudyNngJ5uYolP"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Lot",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 Lot",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859758883102"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5vsViAlTfK0ug9J5eKnLwz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5vsViAlTfK0ug9J5eKnLwz",
+  "id": "5vsViAlTfK0ug9J5eKnLwz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e838c273cb095345e2c5763e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e838c273cb095345e2c5763e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e838c273cb095345e2c5763e",
+      "width": 64
+    }
+  ],
+  "label": "Lot",
+  "name": "\u305f\u305d\u304c\u308c",
+  "popularity": 23,
+  "release_date": "2022-10-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5vsViAlTfK0ug9J5eKnLwz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP"
+            },
+            "href": "https://api.spotify.com/v1/artists/34VobEzGgudyNngJ5uYolP",
+            "id": "34VobEzGgudyNngJ5uYolP",
+            "name": "Lot",
+            "type": "artist",
+            "uri": "spotify:artist:34VobEzGgudyNngJ5uYolP"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 123498,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73dPfSvXdhHvpgqEBL4TXW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73dPfSvXdhHvpgqEBL4TXW",
+        "id": "73dPfSvXdhHvpgqEBL4TXW",
+        "is_local": false,
+        "name": "\u305f\u305d\u304c\u308c",
+        "preview_url": "https://p.scdn.co/mp3-preview/a7133a273fe30d48509c9bb50f36cebf4108dc7b?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:73dPfSvXdhHvpgqEBL4TXW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5vsViAlTfK0ug9J5eKnLwz"
+}

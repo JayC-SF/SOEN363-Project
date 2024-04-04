@@ -1,0 +1,424 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id": "2CIMQHirSU0MQqyYHq0eOx",
+      "name": "deadmau5",
+      "type": "artist",
+      "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2008 Ultra Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "617465186851"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2F7QnnWJ1NAYRjx368xfJM",
+  "id": "2F7QnnWJ1NAYRjx368xfJM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3f8a46787e9367c38862436",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3f8a46787e9367c38862436",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3f8a46787e9367c38862436",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records, LLC",
+  "name": "Random Album Title",
+  "popularity": 0,
+  "release_date": "2008",
+  "release_date_precision": "year",
+  "total_tracks": 12,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2F7QnnWJ1NAYRjx368xfJM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 433960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kvOUjeGbjNOTgcHrTFhcc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kvOUjeGbjNOTgcHrTFhcc",
+        "id": "3kvOUjeGbjNOTgcHrTFhcc",
+        "is_local": false,
+        "name": "Sometimes Things Get, Whatever",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kvOUjeGbjNOTgcHrTFhcc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 329066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7en7Cjl3owu4T3kSFjfF1s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7en7Cjl3owu4T3kSFjfF1s",
+        "id": "7en7Cjl3owu4T3kSFjfF1s",
+        "is_local": false,
+        "name": "Complications",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7en7Cjl3owu4T3kSFjfF1s"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 405933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3O949dy6pP3xF0vak8ORul"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3O949dy6pP3xF0vak8ORul",
+        "id": "3O949dy6pP3xF0vak8ORul",
+        "is_local": false,
+        "name": "Slip",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3O949dy6pP3xF0vak8ORul"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 390000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2diTQNFvpUIRAhKopuJr8w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2diTQNFvpUIRAhKopuJr8w",
+        "id": "2diTQNFvpUIRAhKopuJr8w",
+        "is_local": false,
+        "name": "Some Kind of Blue",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2diTQNFvpUIRAhKopuJr8w"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 322506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4v4E2yOYEMCP7pw8eQ8Vr6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4v4E2yOYEMCP7pw8eQ8Vr6",
+        "id": "4v4E2yOYEMCP7pw8eQ8Vr6",
+        "is_local": false,
+        "name": "Brazil - 2nd Edit",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4v4E2yOYEMCP7pw8eQ8Vr6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 450000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nARn1sDLiYGvEeDH41u6x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nARn1sDLiYGvEeDH41u6x",
+        "id": "3nARn1sDLiYGvEeDH41u6x",
+        "is_local": false,
+        "name": "Alone with You",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3nARn1sDLiYGvEeDH41u6x"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+            "id": "6TQj5BFPooTa08A7pk8AQ1",
+            "name": "Kaskade",
+            "type": "artist",
+            "uri": "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 547493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tGghJ2euPeI7HvpkNi1CU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4tGghJ2euPeI7HvpkNi1CU",
+        "id": "4tGghJ2euPeI7HvpkNi1CU",
+        "is_local": false,
+        "name": "I Remember",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4tGghJ2euPeI7HvpkNi1CU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 105000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fWicBMgPXTflJH6PXvK97"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fWicBMgPXTflJH6PXvK97",
+        "id": "2fWicBMgPXTflJH6PXvK97",
+        "is_local": false,
+        "name": "Faxing Berlin - Piano Acoustic Version",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2fWicBMgPXTflJH6PXvK97"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rfEe9q2cY71fLovuydnW5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rfEe9q2cY71fLovuydnW5",
+        "id": "1rfEe9q2cY71fLovuydnW5",
+        "is_local": false,
+        "name": "Faxing Berlin",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1rfEe9q2cY71fLovuydnW5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 480000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TdRno5GHk3K53EeDh6rRd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TdRno5GHk3K53EeDh6rRd",
+        "id": "0TdRno5GHk3K53EeDh6rRd",
+        "is_local": false,
+        "name": "Not Exactly",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0TdRno5GHk3K53EeDh6rRd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 330000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dd5Z6ndIrQYDNcap0yTFD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dd5Z6ndIrQYDNcap0yTFD",
+        "id": "6dd5Z6ndIrQYDNcap0yTFD",
+        "is_local": false,
+        "name": "Arguru",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6dd5Z6ndIrQYDNcap0yTFD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+            "id": "2CIMQHirSU0MQqyYHq0eOx",
+            "name": "deadmau5",
+            "type": "artist",
+            "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 405520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fIYzUfDcBAvDongQJWqXE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fIYzUfDcBAvDongQJWqXE",
+        "id": "1fIYzUfDcBAvDongQJWqXE",
+        "is_local": false,
+        "name": "So There I Was",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1fIYzUfDcBAvDongQJWqXE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  },
+  "type": "album",
+  "uri": "spotify:album:2F7QnnWJ1NAYRjx368xfJM"
+}

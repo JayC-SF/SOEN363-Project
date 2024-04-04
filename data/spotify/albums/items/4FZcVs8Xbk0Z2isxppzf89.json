@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CEFCo8288kQU7mJi25s6E",
+      "id": "0CEFCo8288kQU7mJi25s6E",
+      "name": "Hollywood Undead",
+      "type": "artist",
+      "uri": "spotify:artist:0CEFCo8288kQU7mJi25s6E"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547087607"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4FZcVs8Xbk0Z2isxppzf89"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4FZcVs8Xbk0Z2isxppzf89",
+  "id": "4FZcVs8Xbk0Z2isxppzf89",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348ccbc151c108c3ec5787158",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248ccbc151c108c3ec5787158",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148ccbc151c108c3ec5787158",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Day Of The Dead",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4FZcVs8Xbk0Z2isxppzf89/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CEFCo8288kQU7mJi25s6E",
+            "id": "0CEFCo8288kQU7mJi25s6E",
+            "name": "Hollywood Undead",
+            "type": "artist",
+            "uri": "spotify:artist:0CEFCo8288kQU7mJi25s6E"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oNqYAnBUQ7PugmpR88dj8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4oNqYAnBUQ7PugmpR88dj8",
+        "id": "4oNqYAnBUQ7PugmpR88dj8",
+        "is_local": false,
+        "name": "Day Of The Dead",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4oNqYAnBUQ7PugmpR88dj8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4FZcVs8Xbk0Z2isxppzf89"
+}

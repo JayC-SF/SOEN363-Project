@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/44insiIQApkRaCMIbuaISJ",
+      "id": "44insiIQApkRaCMIbuaISJ",
+      "name": "Joey Pecoraro",
+      "type": "artist",
+      "uri": "spotify:artist:44insiIQApkRaCMIbuaISJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Alpha Pup Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Alpha Pup Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "669158550425"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6BOkJ1sAOEPyfdYEvNnmIn",
+  "id": "6BOkJ1sAOEPyfdYEvNnmIn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eeb5a20aa2dd51651bbeda6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eeb5a20aa2dd51651bbeda6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eeb5a20aa2dd51651bbeda6d",
+      "width": 64
+    }
+  ],
+  "label": "Alpha Pup Records",
+  "name": "How Many Times?",
+  "popularity": 0,
+  "release_date": "2020-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6BOkJ1sAOEPyfdYEvNnmIn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/44insiIQApkRaCMIbuaISJ",
+            "id": "44insiIQApkRaCMIbuaISJ",
+            "name": "Joey Pecoraro",
+            "type": "artist",
+            "uri": "spotify:artist:44insiIQApkRaCMIbuaISJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238999,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gnw7ZduO3LMqEcrA1qvyL",
+        "id": "4gnw7ZduO3LMqEcrA1qvyL",
+        "is_local": false,
+        "name": "How Many Times?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4gnw7ZduO3LMqEcrA1qvyL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/44insiIQApkRaCMIbuaISJ",
+            "id": "44insiIQApkRaCMIbuaISJ",
+            "name": "Joey Pecoraro",
+            "type": "artist",
+            "uri": "spotify:artist:44insiIQApkRaCMIbuaISJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198389,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NY5evhzGscmzvcWeaF2D5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3NY5evhzGscmzvcWeaF2D5",
+        "id": "3NY5evhzGscmzvcWeaF2D5",
+        "is_local": false,
+        "name": "Half Awake",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3NY5evhzGscmzvcWeaF2D5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6BOkJ1sAOEPyfdYEvNnmIn"
+}

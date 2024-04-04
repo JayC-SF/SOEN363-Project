@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+      },
+      "href": "https://api.spotify.com/v1/artists/7nnTzZ5tZrPx14iDnmjksU",
+      "id": "7nnTzZ5tZrPx14iDnmjksU",
+      "name": "Zolita",
+      "type": "artist",
+      "uri": "spotify:artist:7nnTzZ5tZrPx14iDnmjksU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Zolita",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436164436"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33IBoajOGQePc21xRwEblk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33IBoajOGQePc21xRwEblk",
+  "id": "33IBoajOGQePc21xRwEblk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c016854cdd835e1bf2c4fddb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c016854cdd835e1bf2c4fddb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c016854cdd835e1bf2c4fddb",
+      "width": 64
+    }
+  ],
+  "label": "Zolita",
+  "name": "Shut Up and Cry",
+  "popularity": 2,
+  "release_date": "2019-06-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33IBoajOGQePc21xRwEblk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7nnTzZ5tZrPx14iDnmjksU",
+            "id": "7nnTzZ5tZrPx14iDnmjksU",
+            "name": "Zolita",
+            "type": "artist",
+            "uri": "spotify:artist:7nnTzZ5tZrPx14iDnmjksU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195616,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WocAIGirc8GB6ggPzmgCd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WocAIGirc8GB6ggPzmgCd",
+        "id": "2WocAIGirc8GB6ggPzmgCd",
+        "is_local": false,
+        "name": "Shut Up and Cry",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2WocAIGirc8GB6ggPzmgCd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33IBoajOGQePc21xRwEblk"
+}

@@ -1,0 +1,584 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+      "id": "6xBZgSMsnKVmaAxzWEwMSD",
+      "name": "Mike Shinoda",
+      "type": "artist",
+      "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Warner Bros. Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2018 Warner Bros. Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "093624906919"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1OCbKbK5GlDx5h2cx4E6hP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1OCbKbK5GlDx5h2cx4E6hP",
+  "id": "1OCbKbK5GlDx5h2cx4E6hP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9deffbcb1d5dd14e428f515",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9deffbcb1d5dd14e428f515",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9deffbcb1d5dd14e428f515",
+      "width": 64
+    }
+  ],
+  "label": "Warner Bros.",
+  "name": "Post Traumatic",
+  "popularity": 0,
+  "release_date": "2018-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 16,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1OCbKbK5GlDx5h2cx4E6hP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 133473,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7N2ikSBHdJ82MqjC7GYHvX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7N2ikSBHdJ82MqjC7GYHvX",
+        "id": "7N2ikSBHdJ82MqjC7GYHvX",
+        "is_local": false,
+        "name": "Place to Start",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7N2ikSBHdJ82MqjC7GYHvX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230537,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KwpNyT9Nq12wXFoFNkuPe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2KwpNyT9Nq12wXFoFNkuPe",
+        "id": "2KwpNyT9Nq12wXFoFNkuPe",
+        "is_local": false,
+        "name": "Over Again",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2KwpNyT9Nq12wXFoFNkuPe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211143,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eOWjJyTATyUenXcr469cW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eOWjJyTATyUenXcr469cW",
+        "id": "7eOWjJyTATyUenXcr469cW",
+        "is_local": false,
+        "name": "Watching as I Fall",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7eOWjJyTATyUenXcr469cW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213925,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Nfo4Hoc4siZyN2vW2LZTp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Nfo4Hoc4siZyN2vW2LZTp",
+        "id": "0Nfo4Hoc4siZyN2vW2LZTp",
+        "is_local": false,
+        "name": "Nothing Makes Sense Anymore",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0Nfo4Hoc4siZyN2vW2LZTp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+            "id": "2cFrymmkijnjDg9SS92EPM",
+            "name": "blackbear",
+            "type": "artist",
+            "uri": "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206182,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kGAUneyJuTaGutQij02rc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5kGAUneyJuTaGutQij02rc",
+        "id": "5kGAUneyJuTaGutQij02rc",
+        "is_local": false,
+        "name": "About You (feat. blackbear)",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5kGAUneyJuTaGutQij02rc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mfRIwGwlHWRWwUfkbWTKP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mfRIwGwlHWRWwUfkbWTKP",
+        "id": "6mfRIwGwlHWRWwUfkbWTKP",
+        "is_local": false,
+        "name": "Brooding - Instrumental",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6mfRIwGwlHWRWwUfkbWTKP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QDcsPvzTfGQxfnpHFUHRd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QDcsPvzTfGQxfnpHFUHRd",
+        "id": "3QDcsPvzTfGQxfnpHFUHRd",
+        "is_local": false,
+        "name": "Promises I Can't Keep",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3QDcsPvzTfGQxfnpHFUHRd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242854,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10Ci2KeR3aqzegF5P7rf1O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10Ci2KeR3aqzegF5P7rf1O",
+        "id": "10Ci2KeR3aqzegF5P7rf1O",
+        "is_local": false,
+        "name": "Crossing A Line",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:10Ci2KeR3aqzegF5P7rf1O"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205133,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2W0ExXoHGZF78RYHhcSgMZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2W0ExXoHGZF78RYHhcSgMZ",
+        "id": "2W0ExXoHGZF78RYHhcSgMZ",
+        "is_local": false,
+        "name": "Hold It Together",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2W0ExXoHGZF78RYHhcSgMZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZZv3yy9JVAo4V2qUlLRNb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZZv3yy9JVAo4V2qUlLRNb",
+        "id": "4ZZv3yy9JVAo4V2qUlLRNb",
+        "is_local": false,
+        "name": "Ghosts",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4ZZv3yy9JVAo4V2qUlLRNb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pCNk4D3E2xtszsm6hMsWr",
+            "id": "0pCNk4D3E2xtszsm6hMsWr",
+            "name": "K.Flay",
+            "type": "artist",
+            "uri": "spotify:artist:0pCNk4D3E2xtszsm6hMsWr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209706,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qHPOydWy2c3iKsibA31ch"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7qHPOydWy2c3iKsibA31ch",
+        "id": "7qHPOydWy2c3iKsibA31ch",
+        "is_local": false,
+        "name": "Make It Up As I Go (feat. K.Flay)",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7qHPOydWy2c3iKsibA31ch"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Wfo0pd0KC47vx7uUEVOQ9",
+            "id": "0Wfo0pd0KC47vx7uUEVOQ9",
+            "name": "Chino Moreno",
+            "type": "artist",
+            "uri": "spotify:artist:0Wfo0pd0KC47vx7uUEVOQ9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+            "id": "6TIYQ3jFPwQSRmorSezPxX",
+            "name": "mgk",
+            "type": "artist",
+            "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240213,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZsKifufUhD5q5jAtzzATH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ZsKifufUhD5q5jAtzzATH",
+        "id": "6ZsKifufUhD5q5jAtzzATH",
+        "is_local": false,
+        "name": "Lift Off (feat. Chino Moreno and Machine Gun Kelly)",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6ZsKifufUhD5q5jAtzzATH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hChL2HaNqHrkpzbPk2xT7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hChL2HaNqHrkpzbPk2xT7",
+        "id": "6hChL2HaNqHrkpzbPk2xT7",
+        "is_local": false,
+        "name": "I.O.U.",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6hChL2HaNqHrkpzbPk2xT7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ZgQDCtRqZlhLswVS6MHN4",
+            "id": "4ZgQDCtRqZlhLswVS6MHN4",
+            "name": "grandson",
+            "type": "artist",
+            "uri": "spotify:artist:4ZgQDCtRqZlhLswVS6MHN4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DZw1ilCsICpOnefS2jkwT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1DZw1ilCsICpOnefS2jkwT",
+        "id": "1DZw1ilCsICpOnefS2jkwT",
+        "is_local": false,
+        "name": "Running From My Shadow (feat. grandson)",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1DZw1ilCsICpOnefS2jkwT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195560,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zphNl34cRw8UyV63IfSX5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zphNl34cRw8UyV63IfSX5",
+        "id": "5zphNl34cRw8UyV63IfSX5",
+        "is_local": false,
+        "name": "World's On Fire",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5zphNl34cRw8UyV63IfSX5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xBZgSMsnKVmaAxzWEwMSD",
+            "id": "6xBZgSMsnKVmaAxzWEwMSD",
+            "name": "Mike Shinoda",
+            "type": "artist",
+            "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207600,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JdC30s70TxGqT2LXgLR2R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JdC30s70TxGqT2LXgLR2R",
+        "id": "3JdC30s70TxGqT2LXgLR2R",
+        "is_local": false,
+        "name": "Can't Hear You Now",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:3JdC30s70TxGqT2LXgLR2R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  },
+  "type": "album",
+  "uri": "spotify:album:1OCbKbK5GlDx5h2cx4E6hP"
+}

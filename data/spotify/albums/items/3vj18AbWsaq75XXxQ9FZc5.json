@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vQAvHcVRmC9bSMVKsV9K7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vQAvHcVRmC9bSMVKsV9K7",
+      "id": "1vQAvHcVRmC9bSMVKsV9K7",
+      "name": "ANAPOLI",
+      "type": "artist",
+      "uri": "spotify:artist:1vQAvHcVRmC9bSMVKsV9K7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 DeadFrog Inc",
+      "type": "C"
+    },
+    {
+      "text": "2022 DeadFrog Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197273154629"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3vj18AbWsaq75XXxQ9FZc5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3vj18AbWsaq75XXxQ9FZc5",
+  "id": "3vj18AbWsaq75XXxQ9FZc5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730140a717a84b1ee4d894e118",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020140a717a84b1ee4d894e118",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510140a717a84b1ee4d894e118",
+      "width": 64
+    }
+  ],
+  "label": "DeadFrog Inc",
+  "name": "BALLER",
+  "popularity": 0,
+  "release_date": "2022-10-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3vj18AbWsaq75XXxQ9FZc5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vQAvHcVRmC9bSMVKsV9K7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vQAvHcVRmC9bSMVKsV9K7",
+            "id": "1vQAvHcVRmC9bSMVKsV9K7",
+            "name": "ANAPOLI",
+            "type": "artist",
+            "uri": "spotify:artist:1vQAvHcVRmC9bSMVKsV9K7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 84216,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3EqrhYgDZogE8rBDGW98zH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3EqrhYgDZogE8rBDGW98zH",
+        "id": "3EqrhYgDZogE8rBDGW98zH",
+        "is_local": false,
+        "name": "BALLER",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3EqrhYgDZogE8rBDGW98zH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3vj18AbWsaq75XXxQ9FZc5"
+}

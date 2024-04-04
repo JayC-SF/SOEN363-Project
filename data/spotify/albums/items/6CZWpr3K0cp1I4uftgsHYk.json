@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO"
+      },
+      "href": "https://api.spotify.com/v1/artists/6f4x8vaGbIIm70Fg6wi6CO",
+      "id": "6f4x8vaGbIIm70Fg6wi6CO",
+      "name": "Santiago & Carlitos",
+      "type": "artist",
+      "uri": "spotify:artist:6f4x8vaGbIIm70Fg6wi6CO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+      },
+      "href": "https://api.spotify.com/v1/artists/56XA3oHWzuMXJHU9PV48ty",
+      "id": "56XA3oHWzuMXJHU9PV48ty",
+      "name": "LVGA",
+      "type": "artist",
+      "uri": "spotify:artist:56XA3oHWzuMXJHU9PV48ty"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2024 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871740319"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6CZWpr3K0cp1I4uftgsHYk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6CZWpr3K0cp1I4uftgsHYk",
+  "id": "6CZWpr3K0cp1I4uftgsHYk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aebb4536b10965ce6d41350f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aebb4536b10965ce6d41350f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aebb4536b10965ce6d41350f",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Hanging Tree",
+  "popularity": 22,
+  "release_date": "2024-01-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6CZWpr3K0cp1I4uftgsHYk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6f4x8vaGbIIm70Fg6wi6CO"
+            },
+            "href": "https://api.spotify.com/v1/artists/6f4x8vaGbIIm70Fg6wi6CO",
+            "id": "6f4x8vaGbIIm70Fg6wi6CO",
+            "name": "Santiago & Carlitos",
+            "type": "artist",
+            "uri": "spotify:artist:6f4x8vaGbIIm70Fg6wi6CO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+            },
+            "href": "https://api.spotify.com/v1/artists/56XA3oHWzuMXJHU9PV48ty",
+            "id": "56XA3oHWzuMXJHU9PV48ty",
+            "name": "LVGA",
+            "type": "artist",
+            "uri": "spotify:artist:56XA3oHWzuMXJHU9PV48ty"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 171428,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IXUsloGBKgsa9aJC3VAAi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5IXUsloGBKgsa9aJC3VAAi",
+        "id": "5IXUsloGBKgsa9aJC3VAAi",
+        "is_local": false,
+        "name": "Hanging Tree",
+        "preview_url": "https://p.scdn.co/mp3-preview/0d43b7a18f78e6a2f32cc688b30dd4a7a48bceea?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5IXUsloGBKgsa9aJC3VAAi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6CZWpr3K0cp1I4uftgsHYk"
+}

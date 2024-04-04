@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oyUjl52ohRrCv3EL1UdpM",
+      "id": "1oyUjl52ohRrCv3EL1UdpM",
+      "name": "Confetti",
+      "type": "artist",
+      "uri": "spotify:artist:1oyUjl52ohRrCv3EL1UdpM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Snafu Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Snafu Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059580465438"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6IFXwG27SnHBiU830laEju"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6IFXwG27SnHBiU830laEju",
+  "id": "6IFXwG27SnHBiU830laEju",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7c9362546b1fe7f863c2a63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7c9362546b1fe7f863c2a63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7c9362546b1fe7f863c2a63",
+      "width": 64
+    }
+  ],
+  "label": "Snafu Records",
+  "name": "Dear God",
+  "popularity": 0,
+  "release_date": "2019-08-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6IFXwG27SnHBiU830laEju/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oyUjl52ohRrCv3EL1UdpM",
+            "id": "1oyUjl52ohRrCv3EL1UdpM",
+            "name": "Confetti",
+            "type": "artist",
+            "uri": "spotify:artist:1oyUjl52ohRrCv3EL1UdpM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202257,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VEaE7n8qGOvnywwNThVKJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VEaE7n8qGOvnywwNThVKJ",
+        "id": "6VEaE7n8qGOvnywwNThVKJ",
+        "is_local": false,
+        "name": "Dear God",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VEaE7n8qGOvnywwNThVKJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6IFXwG27SnHBiU830laEju"
+}

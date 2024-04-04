@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5eLTULECbpoiNT8czpulxX",
+      "id": "5eLTULECbpoiNT8czpulxX",
+      "name": "F\u00e4aschtb\u00e4nkler",
+      "type": "artist",
+      "uri": "spotify:artist:5eLTULECbpoiNT8czpulxX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Rosenklang",
+      "type": "C"
+    },
+    {
+      "text": "2018 Rosenklang",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260600851006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1gUEsJEylTadrdjH1OgEzk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1gUEsJEylTadrdjH1OgEzk",
+  "id": "1gUEsJEylTadrdjH1OgEzk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273025afa769b5c39cee9a387cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02025afa769b5c39cee9a387cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851025afa769b5c39cee9a387cc",
+      "width": 64
+    }
+  ],
+  "label": "Rosenklang",
+  "name": "Bella Ciao",
+  "popularity": 0,
+  "release_date": "2018-09-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1gUEsJEylTadrdjH1OgEzk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5eLTULECbpoiNT8czpulxX",
+            "id": "5eLTULECbpoiNT8czpulxX",
+            "name": "F\u00e4aschtb\u00e4nkler",
+            "type": "artist",
+            "uri": "spotify:artist:5eLTULECbpoiNT8czpulxX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156801,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7haZpHaWIynra5nhYhdkfo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7haZpHaWIynra5nhYhdkfo",
+        "id": "7haZpHaWIynra5nhYhdkfo",
+        "is_local": false,
+        "name": "Bella Ciao",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7haZpHaWIynra5nhYhdkfo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1gUEsJEylTadrdjH1OgEzk"
+}

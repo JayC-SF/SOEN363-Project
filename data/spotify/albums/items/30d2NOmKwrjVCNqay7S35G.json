@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05LidfDNA9DlLP4QfBmrR0"
+      },
+      "href": "https://api.spotify.com/v1/artists/05LidfDNA9DlLP4QfBmrR0",
+      "id": "05LidfDNA9DlLP4QfBmrR0",
+      "name": "Happy Asmara",
+      "type": "artist",
+      "uri": "spotify:artist:05LidfDNA9DlLP4QfBmrR0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Record Label",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Record Label",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197189639159"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/30d2NOmKwrjVCNqay7S35G"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/30d2NOmKwrjVCNqay7S35G",
+  "id": "30d2NOmKwrjVCNqay7S35G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e8dc1c3ddc7a3fe3b9253607",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e8dc1c3ddc7a3fe3b9253607",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e8dc1c3ddc7a3fe3b9253607",
+      "width": 64
+    }
+  ],
+  "label": "Happy Asmara",
+  "name": "Sadar Posisi",
+  "popularity": 1,
+  "release_date": "2023-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/30d2NOmKwrjVCNqay7S35G/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05LidfDNA9DlLP4QfBmrR0"
+            },
+            "href": "https://api.spotify.com/v1/artists/05LidfDNA9DlLP4QfBmrR0",
+            "id": "05LidfDNA9DlLP4QfBmrR0",
+            "name": "Happy Asmara",
+            "type": "artist",
+            "uri": "spotify:artist:05LidfDNA9DlLP4QfBmrR0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256522,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GUrA9GofVCUDCUQtAKdwo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GUrA9GofVCUDCUQtAKdwo",
+        "id": "2GUrA9GofVCUDCUQtAKdwo",
+        "is_local": false,
+        "name": "Sadar Posisi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2GUrA9GofVCUDCUQtAKdwo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:30d2NOmKwrjVCNqay7S35G"
+}

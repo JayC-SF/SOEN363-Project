@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id": "1KiNUGL3r0GgyLwqYCY1yV",
+      "name": "Kanine",
+      "type": "artist",
+      "uri": "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Jv2F8VFJsSr2XKte0vpbQ",
+      "id": "1Jv2F8VFJsSr2XKte0vpbQ",
+      "name": "A Little Sound",
+      "type": "artist",
+      "uri": "spotify:artist:1Jv2F8VFJsSr2XKte0vpbQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 UNLEASHED",
+      "type": "C"
+    },
+    {
+      "text": "2022 UNLEASHED",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616846289881"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FDtYMQjHjO2NENGaAhSsq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FDtYMQjHjO2NENGaAhSsq",
+  "id": "1FDtYMQjHjO2NENGaAhSsq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324dd7d047f067dda1463c408",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224dd7d047f067dda1463c408",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124dd7d047f067dda1463c408",
+      "width": 64
+    }
+  ],
+  "label": "UNLEASHED",
+  "name": "Back In Time VIP",
+  "popularity": 0,
+  "release_date": "2022-04-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FDtYMQjHjO2NENGaAhSsq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+            "id": "1KiNUGL3r0GgyLwqYCY1yV",
+            "name": "Kanine",
+            "type": "artist",
+            "uri": "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Jv2F8VFJsSr2XKte0vpbQ",
+            "id": "1Jv2F8VFJsSr2XKte0vpbQ",
+            "name": "A Little Sound",
+            "type": "artist",
+            "uri": "spotify:artist:1Jv2F8VFJsSr2XKte0vpbQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204137,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NGTWaZ2uM1eLyaRXfDApY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NGTWaZ2uM1eLyaRXfDApY",
+        "id": "4NGTWaZ2uM1eLyaRXfDApY",
+        "is_local": false,
+        "name": "Back In Time VIP",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4NGTWaZ2uM1eLyaRXfDApY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1FDtYMQjHjO2NENGaAhSsq"
+}

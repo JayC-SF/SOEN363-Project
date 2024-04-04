@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dEkoMUz3A8VYvKQ7Q4133"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dEkoMUz3A8VYvKQ7Q4133",
+      "id": "4dEkoMUz3A8VYvKQ7Q4133",
+      "name": "\u50b2\u4e03\u723a",
+      "type": "artist",
+      "uri": "spotify:artist:4dEkoMUz3A8VYvKQ7Q4133"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 \u7f51\u6613\u97f3\u4e50\u4eba",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 \u7f51\u6613\u97f3\u4e50\u4eba",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "6909111028542"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2UzrGreYiolQrIgeAR7UY0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2UzrGreYiolQrIgeAR7UY0",
+  "id": "2UzrGreYiolQrIgeAR7UY0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342cfba30f662b993849b1233",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242cfba30f662b993849b1233",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142cfba30f662b993849b1233",
+      "width": 64
+    }
+  ],
+  "label": "\u7f51\u6613\u97f3\u4e50\u4eba",
+  "name": "\u662f\u60f3\u4f60\u7684\u8072\u97f3\u554a",
+  "popularity": 0,
+  "release_date": "2020-11-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2UzrGreYiolQrIgeAR7UY0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dEkoMUz3A8VYvKQ7Q4133"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dEkoMUz3A8VYvKQ7Q4133",
+            "id": "4dEkoMUz3A8VYvKQ7Q4133",
+            "name": "\u50b2\u4e03\u723a",
+            "type": "artist",
+            "uri": "spotify:artist:4dEkoMUz3A8VYvKQ7Q4133"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234811,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5T4ALT8LugDODLwAvCg3mL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5T4ALT8LugDODLwAvCg3mL",
+        "id": "5T4ALT8LugDODLwAvCg3mL",
+        "is_local": false,
+        "name": "\u662f\u60f3\u4f60\u7684\u8072\u97f3\u554a",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5T4ALT8LugDODLwAvCg3mL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2UzrGreYiolQrIgeAR7UY0"
+}

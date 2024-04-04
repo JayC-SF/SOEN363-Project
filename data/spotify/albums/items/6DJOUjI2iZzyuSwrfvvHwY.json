@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3nJWBJvK7uGvfp4iZh9CkN",
+      "id": "3nJWBJvK7uGvfp4iZh9CkN",
+      "name": "Relient K",
+      "type": "artist",
+      "uri": "spotify:artist:3nJWBJvK7uGvfp4iZh9CkN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Mono Vs Stereo",
+      "type": "C"
+    },
+    {
+      "text": "2016 Mono Vs Stereo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "669447005384"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6DJOUjI2iZzyuSwrfvvHwY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6DJOUjI2iZzyuSwrfvvHwY",
+  "id": "6DJOUjI2iZzyuSwrfvvHwY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383d37f9ca9568d9e25666587",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283d37f9ca9568d9e25666587",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183d37f9ca9568d9e25666587",
+      "width": 64
+    }
+  ],
+  "label": "Mono Vs Stereo",
+  "name": "Look on Up",
+  "popularity": 0,
+  "release_date": "2016-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6DJOUjI2iZzyuSwrfvvHwY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nJWBJvK7uGvfp4iZh9CkN",
+            "id": "3nJWBJvK7uGvfp4iZh9CkN",
+            "name": "Relient K",
+            "type": "artist",
+            "uri": "spotify:artist:3nJWBJvK7uGvfp4iZh9CkN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244871,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5b5ahPclOXw0uVsJK05SuB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5b5ahPclOXw0uVsJK05SuB",
+        "id": "5b5ahPclOXw0uVsJK05SuB",
+        "is_local": false,
+        "name": "Look on Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5b5ahPclOXw0uVsJK05SuB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6DJOUjI2iZzyuSwrfvvHwY"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3vjQVx1KiW9b8VpbRMWfpl",
+      "id": "3vjQVx1KiW9b8VpbRMWfpl",
+      "name": "Doctor Dru",
+      "type": "artist",
+      "uri": "spotify:artist:3vjQVx1KiW9b8VpbRMWfpl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Martin Druzella",
+      "type": "C"
+    },
+    {
+      "text": "2016 martin druzella",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050486974032"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5QOM5cbfA1k7BOsaIrtGNY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5QOM5cbfA1k7BOsaIrtGNY",
+  "id": "5QOM5cbfA1k7BOsaIrtGNY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5b40f617c93b0e39fdb1a35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5b40f617c93b0e39fdb1a35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5b40f617c93b0e39fdb1a35",
+      "width": 64
+    }
+  ],
+  "label": "JEUDI Records",
+  "name": "Savannah",
+  "popularity": 0,
+  "release_date": "2017-01-27",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5QOM5cbfA1k7BOsaIrtGNY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vjQVx1KiW9b8VpbRMWfpl",
+            "id": "3vjQVx1KiW9b8VpbRMWfpl",
+            "name": "Doctor Dru",
+            "type": "artist",
+            "uri": "spotify:artist:3vjQVx1KiW9b8VpbRMWfpl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 442272,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xojtynI2ZLYs4lg1XUtiQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3xojtynI2ZLYs4lg1XUtiQ",
+        "id": "3xojtynI2ZLYs4lg1XUtiQ",
+        "is_local": false,
+        "name": "Savannah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3xojtynI2ZLYs4lg1XUtiQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vjQVx1KiW9b8VpbRMWfpl",
+            "id": "3vjQVx1KiW9b8VpbRMWfpl",
+            "name": "Doctor Dru",
+            "type": "artist",
+            "uri": "spotify:artist:3vjQVx1KiW9b8VpbRMWfpl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 407053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JqLUIJsdxOjL1CiBZLkPS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JqLUIJsdxOjL1CiBZLkPS",
+        "id": "5JqLUIJsdxOjL1CiBZLkPS",
+        "is_local": false,
+        "name": "Praerie",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5JqLUIJsdxOjL1CiBZLkPS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5QOM5cbfA1k7BOsaIrtGNY"
+}

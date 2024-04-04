@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IooSOk6TIp3WJohCDpfYr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4IooSOk6TIp3WJohCDpfYr",
+      "id": "4IooSOk6TIp3WJohCDpfYr",
+      "name": "Hawk",
+      "type": "artist",
+      "uri": "spotify:artist:4IooSOk6TIp3WJohCDpfYr"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 TWO BEST",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 TWO BEST",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757832743"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51hiC6Xz5yQFg2Yd3COkoq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51hiC6Xz5yQFg2Yd3COkoq",
+  "id": "51hiC6Xz5yQFg2Yd3COkoq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9677b3b3e8ac3f783e62280",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a9677b3b3e8ac3f783e62280",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a9677b3b3e8ac3f783e62280",
+      "width": 64
+    }
+  ],
+  "label": "TWO BEST",
+  "name": "YEN",
+  "popularity": 34,
+  "release_date": "2022-01-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51hiC6Xz5yQFg2Yd3COkoq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4IooSOk6TIp3WJohCDpfYr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4IooSOk6TIp3WJohCDpfYr",
+            "id": "4IooSOk6TIp3WJohCDpfYr",
+            "name": "Hawk",
+            "type": "artist",
+            "uri": "spotify:artist:4IooSOk6TIp3WJohCDpfYr"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 168523,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4a7CArIFjZlwJlKMxd5oJN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4a7CArIFjZlwJlKMxd5oJN",
+        "id": "4a7CArIFjZlwJlKMxd5oJN",
+        "is_local": false,
+        "name": "YEN",
+        "preview_url": "https://p.scdn.co/mp3-preview/d83f75740a3274e2392d1397a60bdd5c36bca3f8?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4a7CArIFjZlwJlKMxd5oJN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51hiC6Xz5yQFg2Yd3COkoq"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Young Money Entertainment/Cash Money Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Young Money Entertainment/Cash Money Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567420583"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2YDNDwQvsU0njt7Kq0xNRY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2YDNDwQvsU0njt7Kq0xNRY",
+  "id": "2YDNDwQvsU0njt7Kq0xNRY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273689b62c26ee70aa450cae449",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02689b62c26ee70aa450cae449",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851689b62c26ee70aa450cae449",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Scary Hours",
+  "popularity": 21,
+  "release_date": "2018-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2YDNDwQvsU0njt7Kq0xNRY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198960,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6T8cJz5lAqGer9GUHGyelE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6T8cJz5lAqGer9GUHGyelE",
+        "id": "6T8cJz5lAqGer9GUHGyelE",
+        "is_local": false,
+        "name": "God's Plan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6T8cJz5lAqGer9GUHGyelE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255840,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tvkzvUTF0yoq3pdBi81I0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tvkzvUTF0yoq3pdBi81I0",
+        "id": "3tvkzvUTF0yoq3pdBi81I0",
+        "is_local": false,
+        "name": "Diplomatic Immunity",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3tvkzvUTF0yoq3pdBi81I0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2YDNDwQvsU0njt7Kq0xNRY"
+}

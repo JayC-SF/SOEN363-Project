@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zMmT9071elwPpL9obVnZw",
+      "id": "3zMmT9071elwPpL9obVnZw",
+      "name": "KamiKwazi",
+      "type": "artist",
+      "uri": "spotify:artist:3zMmT9071elwPpL9obVnZw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 KamiKwazi, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2018 KamiKwazi, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729257382"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Uywlp8tQf5A8HlxbLdZpq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Uywlp8tQf5A8HlxbLdZpq",
+  "id": "3Uywlp8tQf5A8HlxbLdZpq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733cc0652eca79253cd84712ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023cc0652eca79253cd84712ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513cc0652eca79253cd84712ea",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Low High",
+  "popularity": 0,
+  "release_date": "2018-09-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Uywlp8tQf5A8HlxbLdZpq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zMmT9071elwPpL9obVnZw",
+            "id": "3zMmT9071elwPpL9obVnZw",
+            "name": "KamiKwazi",
+            "type": "artist",
+            "uri": "spotify:artist:3zMmT9071elwPpL9obVnZw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204998,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gfFiTzuoIBeRZHnPFTJcy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gfFiTzuoIBeRZHnPFTJcy",
+        "id": "2gfFiTzuoIBeRZHnPFTJcy",
+        "is_local": false,
+        "name": "Low High",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2gfFiTzuoIBeRZHnPFTJcy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Uywlp8tQf5A8HlxbLdZpq"
+}

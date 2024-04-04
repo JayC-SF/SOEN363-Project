@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+      },
+      "href": "https://api.spotify.com/v1/artists/38SKxCyfrmNWqWunb9wGHP",
+      "id": "38SKxCyfrmNWqWunb9wGHP",
+      "name": "Good Kid",
+      "type": "artist",
+      "uri": "spotify:artist:38SKxCyfrmNWqWunb9wGHP"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Good People Record Co.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 Good People Record Co.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196925226752"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6NRUXpiYCjfkEdAKzwhYfb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6NRUXpiYCjfkEdAKzwhYfb",
+  "id": "6NRUXpiYCjfkEdAKzwhYfb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a7f2e451fe7960723a63af2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a7f2e451fe7960723a63af2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a7f2e451fe7960723a63af2",
+      "width": 64
+    }
+  ],
+  "label": "Good People Record Co.",
+  "name": "Slingshot",
+  "popularity": 23,
+  "release_date": "2019",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6NRUXpiYCjfkEdAKzwhYfb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+            },
+            "href": "https://api.spotify.com/v1/artists/38SKxCyfrmNWqWunb9wGHP",
+            "id": "38SKxCyfrmNWqWunb9wGHP",
+            "name": "Good Kid",
+            "type": "artist",
+            "uri": "spotify:artist:38SKxCyfrmNWqWunb9wGHP"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 152611,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2E9RgB9OZhhkMUGpSMXW1c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2E9RgB9OZhhkMUGpSMXW1c",
+        "id": "2E9RgB9OZhhkMUGpSMXW1c",
+        "is_local": false,
+        "name": "Slingshot",
+        "preview_url": "https://p.scdn.co/mp3-preview/163b1ba2bed5ed75b9207ca24bf6815a8351931a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2E9RgB9OZhhkMUGpSMXW1c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6NRUXpiYCjfkEdAKzwhYfb"
+}

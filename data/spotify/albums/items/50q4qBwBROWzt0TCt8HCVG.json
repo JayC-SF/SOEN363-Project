@@ -1,0 +1,629 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+      "id": "1yxSLGMDHlW21z4YXirZDS",
+      "name": "Black Eyed Peas",
+      "type": "artist",
+      "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2005 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2005 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498821848"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/50q4qBwBROWzt0TCt8HCVG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/50q4qBwBROWzt0TCt8HCVG",
+  "id": "50q4qBwBROWzt0TCt8HCVG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fffe8c459e428775af01a6a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fffe8c459e428775af01a6a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fffe8c459e428775af01a6a8",
+      "width": 64
+    }
+  ],
+  "label": "A&M",
+  "name": "Monkey Business",
+  "popularity": 33,
+  "release_date": "2005-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 17,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/50q4qBwBROWzt0TCt8HCVG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 213893,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55UBFhfMITl3C8Vhhgk708"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55UBFhfMITl3C8Vhhgk708",
+        "id": "55UBFhfMITl3C8Vhhgk708",
+        "is_local": false,
+        "name": "Pump It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:55UBFhfMITl3C8Vhhgk708"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cbFJ2KDvXrkE302d2mJ9l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cbFJ2KDvXrkE302d2mJ9l",
+        "id": "7cbFJ2KDvXrkE302d2mJ9l",
+        "is_local": false,
+        "name": "Don't Phunk With My Heart",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7cbFJ2KDvXrkE302d2mJ9l"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+            },
+            "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+            "id": "31TPClRtHm23RisEBtV3X7",
+            "name": "Justin Timberlake",
+            "type": "artist",
+            "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 268120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jGGGhrhGIYmdh96tquXZU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jGGGhrhGIYmdh96tquXZU",
+        "id": "0jGGGhrhGIYmdh96tquXZU",
+        "is_local": false,
+        "name": "My Style",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0jGGGhrhGIYmdh96tquXZU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0otgVcdKzbEww2SRwGfZ3K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0otgVcdKzbEww2SRwGfZ3K",
+        "id": "0otgVcdKzbEww2SRwGfZ3K",
+        "is_local": false,
+        "name": "Don't Lie",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0otgVcdKzbEww2SRwGfZ3K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 326826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wLJmfkmZltmWOI2QhL7yo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1wLJmfkmZltmWOI2QhL7yo",
+        "id": "1wLJmfkmZltmWOI2QhL7yo",
+        "is_local": false,
+        "name": "My Humps",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1wLJmfkmZltmWOI2QhL7yo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 274813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hfFs9rclWqSMtVPyB1KK2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hfFs9rclWqSMtVPyB1KK2",
+        "id": "6hfFs9rclWqSMtVPyB1KK2",
+        "is_local": false,
+        "name": "Like That",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6hfFs9rclWqSMtVPyB1KK2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5NONZdQyvKmJzBev1e3JW6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5NONZdQyvKmJzBev1e3JW6",
+            "id": "5NONZdQyvKmJzBev1e3JW6",
+            "name": "Dante Santiago",
+            "type": "artist",
+            "uri": "spotify:artist:5NONZdQyvKmJzBev1e3JW6"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3K2sAu5CDX6LmvWX5KgAM3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3K2sAu5CDX6LmvWX5KgAM3",
+        "id": "3K2sAu5CDX6LmvWX5KgAM3",
+        "is_local": false,
+        "name": "Dum Diddly",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3K2sAu5CDX6LmvWX5KgAM3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xPtwfweqNipNMFOhtXY4L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xPtwfweqNipNMFOhtXY4L",
+        "id": "2xPtwfweqNipNMFOhtXY4L",
+        "is_local": false,
+        "name": "Feel It",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2xPtwfweqNipNMFOhtXY4L"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cl6HSEFdCHF4P1uoLcIih"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cl6HSEFdCHF4P1uoLcIih",
+        "id": "5cl6HSEFdCHF4P1uoLcIih",
+        "is_local": false,
+        "name": "Gone Going",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5cl6HSEFdCHF4P1uoLcIih"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW",
+            "id": "7GaxyUddsPok8BuhxN6OUW",
+            "name": "James Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 406720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dAWBu0TZ8GphDCrbv8WUB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dAWBu0TZ8GphDCrbv8WUB",
+        "id": "0dAWBu0TZ8GphDCrbv8WUB",
+        "is_local": false,
+        "name": "They Don't Want Music",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0dAWBu0TZ8GphDCrbv8WUB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WVWuTwnHVOP6FcEr6zOSv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WVWuTwnHVOP6FcEr6zOSv",
+        "id": "0WVWuTwnHVOP6FcEr6zOSv",
+        "is_local": false,
+        "name": "Disco Club",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0WVWuTwnHVOP6FcEr6zOSv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15o1hEQyYcEj8SdThj90n7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15o1hEQyYcEj8SdThj90n7",
+        "id": "15o1hEQyYcEj8SdThj90n7",
+        "is_local": false,
+        "name": "Bebot",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:15o1hEQyYcEj8SdThj90n7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 236786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TYehGpZXbRj2QP4V5bYqv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TYehGpZXbRj2QP4V5bYqv",
+        "id": "0TYehGpZXbRj2QP4V5bYqv",
+        "is_local": false,
+        "name": "Ba Bump",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0TYehGpZXbRj2QP4V5bYqv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 329360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ybwdq8tn4aAhwcCFpy0x6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ybwdq8tn4aAhwcCFpy0x6",
+        "id": "4Ybwdq8tn4aAhwcCFpy0x6",
+        "is_local": false,
+        "name": "Audio Delite at Low Fidelity",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4Ybwdq8tn4aAhwcCFpy0x6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zAG8zydBGDhiylxSNlSRq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zAG8zydBGDhiylxSNlSRq",
+        "id": "5zAG8zydBGDhiylxSNlSRq",
+        "is_local": false,
+        "name": "Union",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5zAG8zydBGDhiylxSNlSRq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 242493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qgQnoszglBhFd0rBdx1al"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qgQnoszglBhFd0rBdx1al",
+        "id": "0qgQnoszglBhFd0rBdx1al",
+        "is_local": false,
+        "name": "Do What You Want",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:0qgQnoszglBhFd0rBdx1al"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "type": "artist",
+            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 296120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Nuuco6NTW7D6CuQ0XES6M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Nuuco6NTW7D6CuQ0XES6M",
+        "id": "3Nuuco6NTW7D6CuQ0XES6M",
+        "is_local": false,
+        "name": "If You Want Love - Non-LP Version",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:3Nuuco6NTW7D6CuQ0XES6M"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 17
+  },
+  "type": "album",
+  "uri": "spotify:album:50q4qBwBROWzt0TCt8HCVG"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
+      "id": "5Rl15oVamLq7FbSb0NNBNy",
+      "name": "5 Seconds of Summer",
+      "type": "artist",
+      "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 5SOS, LLC under exclusive license to BMG Rights Management (US) LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 5SOS, LLC under exclusive license to BMG Rights Management (US) LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538765052"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/15zabwPUdPTC2JLygT5blT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/15zabwPUdPTC2JLygT5blT",
+  "id": "15zabwPUdPTC2JLygT5blT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf28762d2d57e05e74524f90",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf28762d2d57e05e74524f90",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf28762d2d57e05e74524f90",
+      "width": 64
+    }
+  ],
+  "label": "BMG Rights Management (US) LLC",
+  "name": "2011",
+  "popularity": 4,
+  "release_date": "2021-12-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/15zabwPUdPTC2JLygT5blT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
+            "id": "5Rl15oVamLq7FbSb0NNBNy",
+            "name": "5 Seconds of Summer",
+            "type": "artist",
+            "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197447,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GzpstdtupjJcu0JR5j3v6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GzpstdtupjJcu0JR5j3v6",
+        "id": "5GzpstdtupjJcu0JR5j3v6",
+        "is_local": false,
+        "name": "2011",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5GzpstdtupjJcu0JR5j3v6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:15zabwPUdPTC2JLygT5blT"
+}

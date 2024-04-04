@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3n1yZfKIQhSaPjF1LZBhxy",
+      "id": "3n1yZfKIQhSaPjF1LZBhxy",
+      "name": "Lola Blanc",
+      "type": "artist",
+      "uri": "spotify:artist:3n1yZfKIQhSaPjF1LZBhxy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 We Are: The Guard",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 We Are: The Guard",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526375628"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wlkY7RrnQIOa6wmbpctbN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wlkY7RrnQIOa6wmbpctbN",
+  "id": "3wlkY7RrnQIOa6wmbpctbN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391f215ee35cf0a71f3c73157",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291f215ee35cf0a71f3c73157",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191f215ee35cf0a71f3c73157",
+      "width": 64
+    }
+  ],
+  "label": "We Are: The Guard",
+  "name": "Angry Too",
+  "popularity": 46,
+  "release_date": "2019-04-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wlkY7RrnQIOa6wmbpctbN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3n1yZfKIQhSaPjF1LZBhxy",
+            "id": "3n1yZfKIQhSaPjF1LZBhxy",
+            "name": "Lola Blanc",
+            "type": "artist",
+            "uri": "spotify:artist:3n1yZfKIQhSaPjF1LZBhxy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204088,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DgxdsUHAvQgWPdPij6IVw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DgxdsUHAvQgWPdPij6IVw",
+        "id": "3DgxdsUHAvQgWPdPij6IVw",
+        "is_local": false,
+        "name": "Angry Too",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3DgxdsUHAvQgWPdPij6IVw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wlkY7RrnQIOa6wmbpctbN"
+}

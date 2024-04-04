@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+      },
+      "href": "https://api.spotify.com/v1/artists/3pol9num4gn7ifeZrENp2E",
+      "id": "3pol9num4gn7ifeZrENp2E",
+      "name": "Mia Wray",
+      "type": "artist",
+      "uri": "spotify:artist:3pol9num4gn7ifeZrENp2E"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 Ivy League Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Ivy League Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004119680"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lGm0rVF9UELk6nTTIikmS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lGm0rVF9UELk6nTTIikmS",
+  "id": "4lGm0rVF9UELk6nTTIikmS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c0f11b1aaec6f129557f6c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c0f11b1aaec6f129557f6c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c0f11b1aaec6f129557f6c9",
+      "width": 64
+    }
+  ],
+  "label": "Ivy League Records",
+  "name": "Monster Brain",
+  "popularity": 39,
+  "release_date": "2023-04-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lGm0rVF9UELk6nTTIikmS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pol9num4gn7ifeZrENp2E",
+            "id": "3pol9num4gn7ifeZrENp2E",
+            "name": "Mia Wray",
+            "type": "artist",
+            "uri": "spotify:artist:3pol9num4gn7ifeZrENp2E"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217737,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Y2aBQoIfcmHdZUZjZPqxG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Y2aBQoIfcmHdZUZjZPqxG",
+        "id": "2Y2aBQoIfcmHdZUZjZPqxG",
+        "is_local": false,
+        "name": "Monster Brain",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Y2aBQoIfcmHdZUZjZPqxG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4lGm0rVF9UELk6nTTIikmS"
+}

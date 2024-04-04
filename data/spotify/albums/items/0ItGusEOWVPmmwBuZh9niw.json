@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL",
+      "id": "7f8LNBVXN0h35veHrpxQFL",
+      "name": "Norman Greenbaum",
+      "type": "artist",
+      "uri": "spotify:artist:7f8LNBVXN0h35veHrpxQFL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2012 Transtone Productions",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2012 Smith & Co",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718564792119"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ItGusEOWVPmmwBuZh9niw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ItGusEOWVPmmwBuZh9niw",
+  "id": "0ItGusEOWVPmmwBuZh9niw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273efb3ccc6676263cc554c5408",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02efb3ccc6676263cc554c5408",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851efb3ccc6676263cc554c5408",
+      "width": 64
+    }
+  ],
+  "label": "Transtone Productions",
+  "name": "The Original Hit Recording - Spirit in the Sky",
+  "popularity": 0,
+  "release_date": "2012-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ItGusEOWVPmmwBuZh9niw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL",
+            "id": "7f8LNBVXN0h35veHrpxQFL",
+            "name": "Norman Greenbaum",
+            "type": "artist",
+            "uri": "spotify:artist:7f8LNBVXN0h35veHrpxQFL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CnTAkLCWL8Uvsr1BDiX8F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1CnTAkLCWL8Uvsr1BDiX8F",
+        "id": "1CnTAkLCWL8Uvsr1BDiX8F",
+        "is_local": false,
+        "name": "Spirit in the Sky",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1CnTAkLCWL8Uvsr1BDiX8F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ItGusEOWVPmmwBuZh9niw"
+}

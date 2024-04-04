@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fqQzjUtN4MDsRUOUl29bh"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fqQzjUtN4MDsRUOUl29bh",
+      "id": "5fqQzjUtN4MDsRUOUl29bh",
+      "name": "Soulvation",
+      "type": "artist",
+      "uri": "spotify:artist:5fqQzjUtN4MDsRUOUl29bh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Next-Gen-Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Next-Gen-Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4056813176360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/207JckGy6akCp8zeyRpu8c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/207JckGy6akCp8zeyRpu8c",
+  "id": "207JckGy6akCp8zeyRpu8c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339de3c4e598527817a2779fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239de3c4e598527817a2779fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139de3c4e598527817a2779fe",
+      "width": 64
+    }
+  ],
+  "label": "Next-Gen-Records",
+  "name": "Be Free",
+  "popularity": 0,
+  "release_date": "2020-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/207JckGy6akCp8zeyRpu8c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fqQzjUtN4MDsRUOUl29bh"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fqQzjUtN4MDsRUOUl29bh",
+            "id": "5fqQzjUtN4MDsRUOUl29bh",
+            "name": "Soulvation",
+            "type": "artist",
+            "uri": "spotify:artist:5fqQzjUtN4MDsRUOUl29bh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 324480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6i0cjodXEL95LdJR7Rg8jk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6i0cjodXEL95LdJR7Rg8jk",
+        "id": "6i0cjodXEL95LdJR7Rg8jk",
+        "is_local": false,
+        "name": "Be Free - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6i0cjodXEL95LdJR7Rg8jk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:207JckGy6akCp8zeyRpu8c"
+}

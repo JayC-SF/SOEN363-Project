@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61H490NdD34Q2wx3CONmPa"
+      },
+      "href": "https://api.spotify.com/v1/artists/61H490NdD34Q2wx3CONmPa",
+      "id": "61H490NdD34Q2wx3CONmPa",
+      "name": "Orinera",
+      "type": "artist",
+      "uri": "spotify:artist:61H490NdD34Q2wx3CONmPa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Orinera",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840389841166"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Ib9ev1FpWaCyhKQ6I3S4e"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Ib9ev1FpWaCyhKQ6I3S4e",
+  "id": "0Ib9ev1FpWaCyhKQ6I3S4e",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339215eb92b2cd90deef1945f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239215eb92b2cd90deef1945f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139215eb92b2cd90deef1945f",
+      "width": 64
+    }
+  ],
+  "label": "Orinera",
+  "name": "paper soldier",
+  "popularity": 0,
+  "release_date": "2023-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Ib9ev1FpWaCyhKQ6I3S4e/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/61H490NdD34Q2wx3CONmPa"
+            },
+            "href": "https://api.spotify.com/v1/artists/61H490NdD34Q2wx3CONmPa",
+            "id": "61H490NdD34Q2wx3CONmPa",
+            "name": "Orinera",
+            "type": "artist",
+            "uri": "spotify:artist:61H490NdD34Q2wx3CONmPa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241776,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ve0p3zU2jZvyT9mjiZJ3m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ve0p3zU2jZvyT9mjiZJ3m",
+        "id": "1ve0p3zU2jZvyT9mjiZJ3m",
+        "is_local": false,
+        "name": "paper solider",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ve0p3zU2jZvyT9mjiZJ3m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Ib9ev1FpWaCyhKQ6I3S4e"
+}

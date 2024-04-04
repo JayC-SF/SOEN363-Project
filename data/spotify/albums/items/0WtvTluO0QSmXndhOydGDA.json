@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+      },
+      "href": "https://api.spotify.com/v1/artists/0BqURncJM5B1BBu7UM51eq",
+      "id": "0BqURncJM5B1BBu7UM51eq",
+      "name": "Guaynaa",
+      "type": "artist",
+      "uri": "spotify:artist:0BqURncJM5B1BBu7UM51eq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 JAK Entertainment LLC Dist. by Sony Music Entertainment U.S. Latin LLC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 JAK Entertainment LLC Dist. by Sony Music Entertainment U.S. Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483285214"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0WtvTluO0QSmXndhOydGDA",
+  "id": "0WtvTluO0QSmXndhOydGDA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5f7efb86fcc5ad99c9cf9c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5f7efb86fcc5ad99c9cf9c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5f7efb86fcc5ad99c9cf9c0",
+      "width": 64
+    }
+  ],
+  "label": "JAK Entertainment LLC",
+  "name": "Rebota",
+  "popularity": 0,
+  "release_date": "2018-12-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0WtvTluO0QSmXndhOydGDA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+            },
+            "href": "https://api.spotify.com/v1/artists/0BqURncJM5B1BBu7UM51eq",
+            "id": "0BqURncJM5B1BBu7UM51eq",
+            "name": "Guaynaa",
+            "type": "artist",
+            "uri": "spotify:artist:0BqURncJM5B1BBu7UM51eq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204630,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YRvdf9cdS88y1wB1WhKoE",
+        "id": "2YRvdf9cdS88y1wB1WhKoE",
+        "is_local": false,
+        "name": "Rebota",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2YRvdf9cdS88y1wB1WhKoE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0WtvTluO0QSmXndhOydGDA"
+}

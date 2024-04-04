@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+      "id": "4DdarB5cR90h2EOgrRNM8P",
+      "name": "Aykut Closer",
+      "type": "artist",
+      "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197386233020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4uDvCGPsMzU59reH7jI8gD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4uDvCGPsMzU59reH7jI8gD",
+  "id": "4uDvCGPsMzU59reH7jI8gD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273313a4cdb3c6676b1b3d48919",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02313a4cdb3c6676b1b3d48919",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851313a4cdb3c6676b1b3d48919",
+      "width": 64
+    }
+  ],
+  "label": "3473262 Records DK",
+  "name": "Latino",
+  "popularity": 0,
+  "release_date": "2022-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4uDvCGPsMzU59reH7jI8gD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+            "id": "4DdarB5cR90h2EOgrRNM8P",
+            "name": "Aykut Closer",
+            "type": "artist",
+            "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nlLkWRH6QKj2RDmHVYqhd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nlLkWRH6QKj2RDmHVYqhd",
+            "id": "6nlLkWRH6QKj2RDmHVYqhd",
+            "name": "Alper Tepe",
+            "type": "artist",
+            "uri": "spotify:artist:6nlLkWRH6QKj2RDmHVYqhd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168366,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hBC7ojmna5DqP4cslwYed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3hBC7ojmna5DqP4cslwYed",
+        "id": "3hBC7ojmna5DqP4cslwYed",
+        "is_local": false,
+        "name": "Latino",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3hBC7ojmna5DqP4cslwYed"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4uDvCGPsMzU59reH7jI8gD"
+}

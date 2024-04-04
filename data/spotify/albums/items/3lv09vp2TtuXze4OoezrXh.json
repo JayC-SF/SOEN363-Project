@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+      },
+      "href": "https://api.spotify.com/v1/artists/1a0E2OojvY4bOw0SfYN768",
+      "id": "1a0E2OojvY4bOw0SfYN768",
+      "name": "BIG P",
+      "type": "artist",
+      "uri": "spotify:artist:1a0E2OojvY4bOw0SfYN768"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Flexin Generation",
+      "type": "C"
+    },
+    {
+      "text": "2022 Flexin Generation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197084076578"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3lv09vp2TtuXze4OoezrXh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3lv09vp2TtuXze4OoezrXh",
+  "id": "3lv09vp2TtuXze4OoezrXh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361d33de18def90eda274d13c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261d33de18def90eda274d13c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161d33de18def90eda274d13c",
+      "width": 64
+    }
+  ],
+  "label": "Flexin Generation",
+  "name": "OMC 1",
+  "popularity": 0,
+  "release_date": "2022-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3lv09vp2TtuXze4OoezrXh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+            },
+            "href": "https://api.spotify.com/v1/artists/1a0E2OojvY4bOw0SfYN768",
+            "id": "1a0E2OojvY4bOw0SfYN768",
+            "name": "BIG P",
+            "type": "artist",
+            "uri": "spotify:artist:1a0E2OojvY4bOw0SfYN768"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106991,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qrX0dnwtzWmr2d9Tq1B2a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qrX0dnwtzWmr2d9Tq1B2a",
+        "id": "4qrX0dnwtzWmr2d9Tq1B2a",
+        "is_local": false,
+        "name": "OMC 1",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qrX0dnwtzWmr2d9Tq1B2a"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3lv09vp2TtuXze4OoezrXh"
+}

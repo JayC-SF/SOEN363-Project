@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sHCvZe1PHrOAuYlwTLNH4",
+      "id": "6sHCvZe1PHrOAuYlwTLNH4",
+      "name": "Gus Dapperton",
+      "type": "artist",
+      "uri": "spotify:artist:6sHCvZe1PHrOAuYlwTLNH4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Gus Dapperton",
+      "type": "C"
+    },
+    {
+      "text": "2017 Gus Dapperton",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0191061694953"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ZnWObOAer6sfJWRV5rk3w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ZnWObOAer6sfJWRV5rk3w",
+  "id": "5ZnWObOAer6sfJWRV5rk3w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303c5191d01d37d5c795697df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0203c5191d01d37d5c795697df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103c5191d01d37d5c795697df",
+      "width": 64
+    }
+  ],
+  "label": "Gus Dapperton",
+  "name": "I'm Just Snacking",
+  "popularity": 0,
+  "release_date": "2017-05-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ZnWObOAer6sfJWRV5rk3w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sHCvZe1PHrOAuYlwTLNH4",
+            "id": "6sHCvZe1PHrOAuYlwTLNH4",
+            "name": "Gus Dapperton",
+            "type": "artist",
+            "uri": "spotify:artist:6sHCvZe1PHrOAuYlwTLNH4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198116,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6413UUgINHbZsCJeJBFlmT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6413UUgINHbZsCJeJBFlmT",
+        "id": "6413UUgINHbZsCJeJBFlmT",
+        "is_local": false,
+        "name": "I'm Just Snacking",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6413UUgINHbZsCJeJBFlmT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ZnWObOAer6sfJWRV5rk3w"
+}

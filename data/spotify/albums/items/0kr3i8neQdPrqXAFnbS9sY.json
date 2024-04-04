@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7j6necEPY4TApEMUs9xJgh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7j6necEPY4TApEMUs9xJgh",
+      "id": "7j6necEPY4TApEMUs9xJgh",
+      "name": "CREAM",
+      "type": "artist",
+      "uri": "spotify:artist:7j6necEPY4TApEMUs9xJgh"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 CDLC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 CDLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757372034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0kr3i8neQdPrqXAFnbS9sY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0kr3i8neQdPrqXAFnbS9sY",
+  "id": "0kr3i8neQdPrqXAFnbS9sY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358d3f9332ffb08e312c8f935",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258d3f9332ffb08e312c8f935",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158d3f9332ffb08e312c8f935",
+      "width": 64
+    }
+  ],
+  "label": "CDLC",
+  "name": "Tattoo",
+  "popularity": 37,
+  "release_date": "2021-10-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0kr3i8neQdPrqXAFnbS9sY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7j6necEPY4TApEMUs9xJgh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7j6necEPY4TApEMUs9xJgh",
+            "id": "7j6necEPY4TApEMUs9xJgh",
+            "name": "CREAM",
+            "type": "artist",
+            "uri": "spotify:artist:7j6necEPY4TApEMUs9xJgh"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 196027,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tiE3GaeqfcbwTmxAgZR9g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tiE3GaeqfcbwTmxAgZR9g",
+        "id": "0tiE3GaeqfcbwTmxAgZR9g",
+        "is_local": false,
+        "name": "Tattoo",
+        "preview_url": "https://p.scdn.co/mp3-preview/4b8e33a6c5ad24cf307d6c94a8c355291142b2c4?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0tiE3GaeqfcbwTmxAgZR9g"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0kr3i8neQdPrqXAFnbS9sY"
+}

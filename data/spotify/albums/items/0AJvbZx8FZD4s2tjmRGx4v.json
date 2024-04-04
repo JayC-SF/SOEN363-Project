@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
+      },
+      "href": "https://api.spotify.com/v1/artists/58bPSgeKpyyFlJ9LatULIO",
+      "id": "58bPSgeKpyyFlJ9LatULIO",
+      "name": "HARBOUR",
+      "type": "artist",
+      "uri": "spotify:artist:58bPSgeKpyyFlJ9LatULIO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 The Counter Rhythm Group",
+      "type": "C"
+    },
+    {
+      "text": "2016 The Counter Rhythm Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859717828342"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0AJvbZx8FZD4s2tjmRGx4v"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0AJvbZx8FZD4s2tjmRGx4v",
+  "id": "0AJvbZx8FZD4s2tjmRGx4v",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2644c55562c504be8bd2638",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2644c55562c504be8bd2638",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2644c55562c504be8bd2638",
+      "width": 64
+    }
+  ],
+  "label": "The Counter Rhythm Group",
+  "name": "Runaway Kids",
+  "popularity": 0,
+  "release_date": "2016-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0AJvbZx8FZD4s2tjmRGx4v/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
+            },
+            "href": "https://api.spotify.com/v1/artists/58bPSgeKpyyFlJ9LatULIO",
+            "id": "58bPSgeKpyyFlJ9LatULIO",
+            "name": "HARBOUR",
+            "type": "artist",
+            "uri": "spotify:artist:58bPSgeKpyyFlJ9LatULIO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224343,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79hmDK8oZAVNHwpyOQ0Iqj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79hmDK8oZAVNHwpyOQ0Iqj",
+        "id": "79hmDK8oZAVNHwpyOQ0Iqj",
+        "is_local": false,
+        "name": "Runaway Kids",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:79hmDK8oZAVNHwpyOQ0Iqj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0AJvbZx8FZD4s2tjmRGx4v"
+}

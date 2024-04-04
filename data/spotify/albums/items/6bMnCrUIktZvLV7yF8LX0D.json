@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+      "id": "6LnJKrtFnTEGdbWQ2riWCL",
+      "name": "Ezhel",
+      "type": "artist",
+      "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+    }
+  ],
+  "available_markets": [
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Koal Arts GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Koal Arts GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197190184082"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6bMnCrUIktZvLV7yF8LX0D"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6bMnCrUIktZvLV7yF8LX0D",
+  "id": "6bMnCrUIktZvLV7yF8LX0D",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8b769c691671e77bec7c949",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8b769c691671e77bec7c949",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8b769c691671e77bec7c949",
+      "width": 64
+    }
+  ],
+  "label": "Koal Arts GmbH",
+  "name": "Margiela",
+  "popularity": 66,
+  "release_date": "2023-10-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6bMnCrUIktZvLV7yF8LX0D/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+            "id": "6LnJKrtFnTEGdbWQ2riWCL",
+            "name": "Ezhel",
+            "type": "artist",
+            "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+          }
+        ],
+        "available_markets": [
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 201611,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Tzw3ueRxXUzdFUm1yMACX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Tzw3ueRxXUzdFUm1yMACX",
+        "id": "0Tzw3ueRxXUzdFUm1yMACX",
+        "is_local": false,
+        "name": "Margiela",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Tzw3ueRxXUzdFUm1yMACX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6bMnCrUIktZvLV7yF8LX0D"
+}

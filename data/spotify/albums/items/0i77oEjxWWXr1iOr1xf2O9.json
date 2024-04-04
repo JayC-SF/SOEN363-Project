@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1P1TE4nfDBjQinLLiNmhQ0"
+      },
+      "href": "https://api.spotify.com/v1/artists/1P1TE4nfDBjQinLLiNmhQ0",
+      "id": "1P1TE4nfDBjQinLLiNmhQ0",
+      "name": "spooky",
+      "type": "artist",
+      "uri": "spotify:artist:1P1TE4nfDBjQinLLiNmhQ0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 spooky",
+      "type": "C"
+    },
+    {
+      "text": "2023 spooky",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198053847182"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0i77oEjxWWXr1iOr1xf2O9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0i77oEjxWWXr1iOr1xf2O9",
+  "id": "0i77oEjxWWXr1iOr1xf2O9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b05ffea383ace7c64d21604",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b05ffea383ace7c64d21604",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b05ffea383ace7c64d21604",
+      "width": 64
+    }
+  ],
+  "label": "spooky",
+  "name": "Keep On Dancing",
+  "popularity": 12,
+  "release_date": "2023-09-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0i77oEjxWWXr1iOr1xf2O9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P1TE4nfDBjQinLLiNmhQ0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1P1TE4nfDBjQinLLiNmhQ0",
+            "id": "1P1TE4nfDBjQinLLiNmhQ0",
+            "name": "spooky",
+            "type": "artist",
+            "uri": "spotify:artist:1P1TE4nfDBjQinLLiNmhQ0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Q1aXoMN0s4f0GwqW5wV5k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Q1aXoMN0s4f0GwqW5wV5k",
+        "id": "2Q1aXoMN0s4f0GwqW5wV5k",
+        "is_local": false,
+        "name": "Keep On Dancing",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Q1aXoMN0s4f0GwqW5wV5k"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0i77oEjxWWXr1iOr1xf2O9"
+}

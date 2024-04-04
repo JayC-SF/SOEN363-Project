@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+      },
+      "href": "https://api.spotify.com/v1/artists/7sx3r4lMo079vO7lIi0fng",
+      "id": "7sx3r4lMo079vO7lIi0fng",
+      "name": "Lanterns on the Lake",
+      "type": "artist",
+      "uri": "spotify:artist:7sx3r4lMo079vO7lIi0fng"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Bella Union",
+      "type": "C"
+    },
+    {
+      "text": "2015 Bella Union",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004034174"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2CNyLUr3f7ig7sNu9GZwOF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2CNyLUr3f7ig7sNu9GZwOF",
+  "id": "2CNyLUr3f7ig7sNu9GZwOF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733249208771164625b0f63311",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023249208771164625b0f63311",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513249208771164625b0f63311",
+      "width": 64
+    }
+  ],
+  "label": "[PIAS]",
+  "name": "Through The Cellar Door",
+  "popularity": 0,
+  "release_date": "2015-11-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2CNyLUr3f7ig7sNu9GZwOF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+            },
+            "href": "https://api.spotify.com/v1/artists/7sx3r4lMo079vO7lIi0fng",
+            "id": "7sx3r4lMo079vO7lIi0fng",
+            "name": "Lanterns on the Lake",
+            "type": "artist",
+            "uri": "spotify:artist:7sx3r4lMo079vO7lIi0fng"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176225,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1i4DrC3Mi9rzrRUvWAJXFl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1i4DrC3Mi9rzrRUvWAJXFl",
+        "id": "1i4DrC3Mi9rzrRUvWAJXFl",
+        "is_local": false,
+        "name": "Through The Cellar Door",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1i4DrC3Mi9rzrRUvWAJXFl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2CNyLUr3f7ig7sNu9GZwOF"
+}

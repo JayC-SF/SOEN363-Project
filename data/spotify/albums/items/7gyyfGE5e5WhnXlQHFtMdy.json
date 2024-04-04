@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f"
+      },
+      "href": "https://api.spotify.com/v1/artists/3PjAq5QmO9BwEZviqzs36f",
+      "id": "3PjAq5QmO9BwEZviqzs36f",
+      "name": "Nick.Y",
+      "type": "artist",
+      "uri": "spotify:artist:3PjAq5QmO9BwEZviqzs36f"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5F8Zm0E37mD0855TcK3jJq",
+      "id": "5F8Zm0E37mD0855TcK3jJq",
+      "name": "A1Trip",
+      "type": "artist",
+      "uri": "spotify:artist:5F8Zm0E37mD0855TcK3jJq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 \u55e8\u5e93\u6587\u5316",
+      "type": "C"
+    },
+    {
+      "text": "2021 \u55e8\u5e93\u6587\u5316",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4894859230161"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7gyyfGE5e5WhnXlQHFtMdy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7gyyfGE5e5WhnXlQHFtMdy",
+  "id": "7gyyfGE5e5WhnXlQHFtMdy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730689dabc341d439018dfa14a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020689dabc341d439018dfa14a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510689dabc341d439018dfa14a",
+      "width": 64
+    }
+  ],
+  "label": "\u55e8\u5e93\u6587\u5316",
+  "name": "Butterfly",
+  "popularity": 0,
+  "release_date": "2021-09-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7gyyfGE5e5WhnXlQHFtMdy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PjAq5QmO9BwEZviqzs36f",
+            "id": "3PjAq5QmO9BwEZviqzs36f",
+            "name": "Nick.Y",
+            "type": "artist",
+            "uri": "spotify:artist:3PjAq5QmO9BwEZviqzs36f"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5F8Zm0E37mD0855TcK3jJq",
+            "id": "5F8Zm0E37mD0855TcK3jJq",
+            "name": "A1Trip",
+            "type": "artist",
+            "uri": "spotify:artist:5F8Zm0E37mD0855TcK3jJq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 136961,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5T1vTRXjYhGFlO58r3LnMN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5T1vTRXjYhGFlO58r3LnMN",
+        "id": "5T1vTRXjYhGFlO58r3LnMN",
+        "is_local": false,
+        "name": "Butterfly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5T1vTRXjYhGFlO58r3LnMN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7gyyfGE5e5WhnXlQHFtMdy"
+}

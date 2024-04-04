@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1l8Fu6IkuTP0U5QetQJ5Xt",
+      "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+      "name": "Fifth Harmony",
+      "type": "artist",
+      "uri": "spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2015 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445259230"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2y61dhDWWdM66Z8q9Nypk2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2y61dhDWWdM66Z8q9Nypk2",
+  "id": "2y61dhDWWdM66Z8q9Nypk2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273811cb2dc2421766caa5e4136",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02811cb2dc2421766caa5e4136",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851811cb2dc2421766caa5e4136",
+      "width": 64
+    }
+  ],
+  "label": "Syco Music/Epic",
+  "name": "Worth It (feat. Kid Ink)",
+  "popularity": 18,
+  "release_date": "2015-06-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2y61dhDWWdM66Z8q9Nypk2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1l8Fu6IkuTP0U5QetQJ5Xt",
+            "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+            "name": "Fifth Harmony",
+            "type": "artist",
+            "uri": "spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+            "id": "6KZDXtSj0SzGOV705nNeh3",
+            "name": "Kid Ink",
+            "type": "artist",
+            "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+          }
+        ],
+        "available_markets": [
+          "GB"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2H6hkJrKaO6gYynZcUkp1Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H6hkJrKaO6gYynZcUkp1Q",
+        "id": "2H6hkJrKaO6gYynZcUkp1Q",
+        "is_local": false,
+        "name": "Worth It (feat. Kid Ink)",
+        "preview_url": "https://p.scdn.co/mp3-preview/de93c7aed8dff779d1fdba63d1522f2c770980f5?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2H6hkJrKaO6gYynZcUkp1Q"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2y61dhDWWdM66Z8q9Nypk2"
+}

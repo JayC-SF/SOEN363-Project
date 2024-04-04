@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wr9il91kGyzsfs4ypVr02"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wr9il91kGyzsfs4ypVr02",
+      "id": "2wr9il91kGyzsfs4ypVr02",
+      "name": "DLOW",
+      "type": "artist",
+      "uri": "spotify:artist:2wr9il91kGyzsfs4ypVr02"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 IAmDLOW",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 IAmDLOW",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889326417460"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6azanp943yBh9yhVgn88Hb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6azanp943yBh9yhVgn88Hb",
+  "id": "6azanp943yBh9yhVgn88Hb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed60c6467b78fba27a0a247c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed60c6467b78fba27a0a247c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed60c6467b78fba27a0a247c",
+      "width": 64
+    }
+  ],
+  "label": "IAmDLOW",
+  "name": "Bet You Can't Do It Like Me - Single",
+  "popularity": 0,
+  "release_date": "2015-10-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6azanp943yBh9yhVgn88Hb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wr9il91kGyzsfs4ypVr02"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wr9il91kGyzsfs4ypVr02",
+            "id": "2wr9il91kGyzsfs4ypVr02",
+            "name": "DLOW",
+            "type": "artist",
+            "uri": "spotify:artist:2wr9il91kGyzsfs4ypVr02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146390,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NM1XuictEIvPuscutKMZV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NM1XuictEIvPuscutKMZV",
+        "id": "1NM1XuictEIvPuscutKMZV",
+        "is_local": false,
+        "name": "Bet You Can't Do It Like Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1NM1XuictEIvPuscutKMZV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6azanp943yBh9yhVgn88Hb"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+      },
+      "href": "https://api.spotify.com/v1/artists/504cl42JQLRqlZddfZ3S4z",
+      "id": "504cl42JQLRqlZddfZ3S4z",
+      "name": "Cezinando",
+      "type": "artist",
+      "uri": "spotify:artist:504cl42JQLRqlZddfZ3S4z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 MER MUSIKK",
+      "type": "C"
+    },
+    {
+      "text": "2015 MER MUSIKK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7071245203702"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xWf9fJj37TPAgmdd8CpxW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5xWf9fJj37TPAgmdd8CpxW",
+  "id": "5xWf9fJj37TPAgmdd8CpxW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e443b1b6b93bb8c4838b397",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e443b1b6b93bb8c4838b397",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e443b1b6b93bb8c4838b397",
+      "width": 64
+    }
+  ],
+  "label": "MER Recordings AS",
+  "name": "\u20acPA",
+  "popularity": 0,
+  "release_date": "2015-06-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5xWf9fJj37TPAgmdd8CpxW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+            },
+            "href": "https://api.spotify.com/v1/artists/504cl42JQLRqlZddfZ3S4z",
+            "id": "504cl42JQLRqlZddfZ3S4z",
+            "name": "Cezinando",
+            "type": "artist",
+            "uri": "spotify:artist:504cl42JQLRqlZddfZ3S4z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tWBrLbv5i10RwXMFrOKHQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tWBrLbv5i10RwXMFrOKHQ",
+        "id": "2tWBrLbv5i10RwXMFrOKHQ",
+        "is_local": false,
+        "name": "\u20acPA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2tWBrLbv5i10RwXMFrOKHQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5xWf9fJj37TPAgmdd8CpxW"
+}

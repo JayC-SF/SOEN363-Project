@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Lx82nbEVfeTfEa4yT01Jo",
+      "id": "6Lx82nbEVfeTfEa4yT01Jo",
+      "name": "Ben Kessler",
+      "type": "artist",
+      "uri": "spotify:artist:6Lx82nbEVfeTfEa4yT01Jo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+      "id": "1GmsPCcpKgF9OhlNXjOsbS",
+      "name": "Lizzy McAlpine",
+      "type": "artist",
+      "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 VYB",
+      "type": "C"
+    },
+    {
+      "text": "2020 VYB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059324456142"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5LKDSeG8WNydz4yvRAKVvd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5LKDSeG8WNydz4yvRAKVvd",
+  "id": "5LKDSeG8WNydz4yvRAKVvd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db4edd6a1dd04357b8361fd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db4edd6a1dd04357b8361fd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db4edd6a1dd04357b8361fd8",
+      "width": 64
+    }
+  ],
+  "label": "VYB",
+  "name": "False Art",
+  "popularity": 0,
+  "release_date": "2020-10-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5LKDSeG8WNydz4yvRAKVvd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Lx82nbEVfeTfEa4yT01Jo",
+            "id": "6Lx82nbEVfeTfEa4yT01Jo",
+            "name": "Ben Kessler",
+            "type": "artist",
+            "uri": "spotify:artist:6Lx82nbEVfeTfEa4yT01Jo"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+            "id": "1GmsPCcpKgF9OhlNXjOsbS",
+            "name": "Lizzy McAlpine",
+            "type": "artist",
+            "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183454,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77OXCuJjR83b2mnp0HmYMo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77OXCuJjR83b2mnp0HmYMo",
+        "id": "77OXCuJjR83b2mnp0HmYMo",
+        "is_local": false,
+        "name": "False Art",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77OXCuJjR83b2mnp0HmYMo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5LKDSeG8WNydz4yvRAKVvd"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62jASYmQeTEGVbi15HNzrW"
+      },
+      "href": "https://api.spotify.com/v1/artists/62jASYmQeTEGVbi15HNzrW",
+      "id": "62jASYmQeTEGVbi15HNzrW",
+      "name": "Project North",
+      "type": "artist",
+      "uri": "spotify:artist:62jASYmQeTEGVbi15HNzrW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zmcUP7LYol6WjwSYzTM5w"
+      },
+      "href": "https://api.spotify.com/v1/artists/4zmcUP7LYol6WjwSYzTM5w",
+      "id": "4zmcUP7LYol6WjwSYzTM5w",
+      "name": "Darrick Atwater",
+      "type": "artist",
+      "uri": "spotify:artist:4zmcUP7LYol6WjwSYzTM5w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Jeroen Dekker",
+      "type": "C"
+    },
+    {
+      "text": "2019 Josh Brust",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526627710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zyFbSzCtu6nIwy8F1fgDq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1zyFbSzCtu6nIwy8F1fgDq",
+  "id": "1zyFbSzCtu6nIwy8F1fgDq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e1943031a7eb1e222ce591e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027e1943031a7eb1e222ce591e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517e1943031a7eb1e222ce591e",
+      "width": 64
+    }
+  ],
+  "label": "Actuation",
+  "name": "Under the Bridge",
+  "popularity": 0,
+  "release_date": "2019-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1zyFbSzCtu6nIwy8F1fgDq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62jASYmQeTEGVbi15HNzrW"
+            },
+            "href": "https://api.spotify.com/v1/artists/62jASYmQeTEGVbi15HNzrW",
+            "id": "62jASYmQeTEGVbi15HNzrW",
+            "name": "Project North",
+            "type": "artist",
+            "uri": "spotify:artist:62jASYmQeTEGVbi15HNzrW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zmcUP7LYol6WjwSYzTM5w"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zmcUP7LYol6WjwSYzTM5w",
+            "id": "4zmcUP7LYol6WjwSYzTM5w",
+            "name": "Darrick Atwater",
+            "type": "artist",
+            "uri": "spotify:artist:4zmcUP7LYol6WjwSYzTM5w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247741,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1K3VVOhHLQ9WQGTeYVroYj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1K3VVOhHLQ9WQGTeYVroYj",
+        "id": "1K3VVOhHLQ9WQGTeYVroYj",
+        "is_local": false,
+        "name": "Under the Bridge",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1K3VVOhHLQ9WQGTeYVroYj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1zyFbSzCtu6nIwy8F1fgDq"
+}

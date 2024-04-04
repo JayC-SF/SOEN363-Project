@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ignRjbPmLvKdtMLj9a5Xs",
+      "id": "6ignRjbPmLvKdtMLj9a5Xs",
+      "name": "Ichiko Aoba",
+      "type": "artist",
+      "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 hermine",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 hermine",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859756583332"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4UOBqsp4uZxpE6hsgjLz0b"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4UOBqsp4uZxpE6hsgjLz0b",
+  "id": "4UOBqsp4uZxpE6hsgjLz0b",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363859973d864626af0129d17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263859973d864626af0129d17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163859973d864626af0129d17",
+      "width": 64
+    }
+  ],
+  "label": "hermine",
+  "name": "Asleep Among Endives",
+  "popularity": 11,
+  "release_date": "2021-02-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4UOBqsp4uZxpE6hsgjLz0b/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ignRjbPmLvKdtMLj9a5Xs",
+            "id": "6ignRjbPmLvKdtMLj9a5Xs",
+            "name": "Ichiko Aoba",
+            "type": "artist",
+            "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 306243,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AKxbxzkxm2ERWrd1ggniO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AKxbxzkxm2ERWrd1ggniO",
+        "id": "7AKxbxzkxm2ERWrd1ggniO",
+        "is_local": false,
+        "name": "Asleep Among Endives",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AKxbxzkxm2ERWrd1ggniO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4UOBqsp4uZxpE6hsgjLz0b"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zaxUd86U92CdZkNa6NUo9",
+      "id": "3zaxUd86U92CdZkNa6NUo9",
+      "name": "Ark Patrol",
+      "type": "artist",
+      "uri": "spotify:artist:3zaxUd86U92CdZkNa6NUo9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Heroic",
+      "type": "C"
+    },
+    {
+      "text": "2015 Heroic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "848422173908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1MGkdnByMIGI1ZXcAf4Wze",
+  "id": "1MGkdnByMIGI1ZXcAf4Wze",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364840995fe43bb2ec73a241d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264840995fe43bb2ec73a241d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164840995fe43bb2ec73a241d",
+      "width": 64
+    }
+  ],
+  "label": "Heroic",
+  "name": "Let Go",
+  "popularity": 0,
+  "release_date": "2016-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1MGkdnByMIGI1ZXcAf4Wze/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zaxUd86U92CdZkNa6NUo9",
+            "id": "3zaxUd86U92CdZkNa6NUo9",
+            "name": "Ark Patrol",
+            "type": "artist",
+            "uri": "spotify:artist:3zaxUd86U92CdZkNa6NUo9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kuFWCCvd7bWB1PV0tJMN2",
+            "id": "6kuFWCCvd7bWB1PV0tJMN2",
+            "name": "Veronika Redd",
+            "type": "artist",
+            "uri": "spotify:artist:6kuFWCCvd7bWB1PV0tJMN2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 248056,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kdlVcMVsSkbsUy8eQcBjI",
+        "id": "3kdlVcMVsSkbsUy8eQcBjI",
+        "is_local": false,
+        "name": "Let Go",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kdlVcMVsSkbsUy8eQcBjI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1MGkdnByMIGI1ZXcAf4Wze"
+}

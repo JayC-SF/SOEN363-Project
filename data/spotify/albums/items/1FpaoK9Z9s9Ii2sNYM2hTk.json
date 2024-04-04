@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xTRZ0A9NyJ8f1Nzm01vRU",
+      "id": "4xTRZ0A9NyJ8f1Nzm01vRU",
+      "name": "Maul",
+      "type": "artist",
+      "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 maul",
+      "type": "C"
+    },
+    {
+      "text": "2022 brah",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0739919116327"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FpaoK9Z9s9Ii2sNYM2hTk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FpaoK9Z9s9Ii2sNYM2hTk",
+  "id": "1FpaoK9Z9s9Ii2sNYM2hTk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2ff50ba8cb718668ec4cf5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2ff50ba8cb718668ec4cf5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2ff50ba8cb718668ec4cf5c",
+      "width": 64
+    }
+  ],
+  "label": "Maul",
+  "name": "We will make it",
+  "popularity": 0,
+  "release_date": "2022-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FpaoK9Z9s9Ii2sNYM2hTk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xTRZ0A9NyJ8f1Nzm01vRU",
+            "id": "4xTRZ0A9NyJ8f1Nzm01vRU",
+            "name": "Maul",
+            "type": "artist",
+            "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 104816,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pVTaYYpi64r2Cqp1YKoWj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pVTaYYpi64r2Cqp1YKoWj",
+        "id": "7pVTaYYpi64r2Cqp1YKoWj",
+        "is_local": false,
+        "name": "We will make it",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7pVTaYYpi64r2Cqp1YKoWj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1FpaoK9Z9s9Ii2sNYM2hTk"
+}

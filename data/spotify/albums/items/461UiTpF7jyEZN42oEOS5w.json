@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fQ46lgoUCz8FVXdTVNk0a"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fQ46lgoUCz8FVXdTVNk0a",
+      "id": "1fQ46lgoUCz8FVXdTVNk0a",
+      "name": "Hurricane Chris",
+      "type": "artist",
+      "uri": "spotify:artist:1fQ46lgoUCz8FVXdTVNk0a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2007 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888880247599"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/461UiTpF7jyEZN42oEOS5w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/461UiTpF7jyEZN42oEOS5w",
+  "id": "461UiTpF7jyEZN42oEOS5w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a41b92dc935ed1dc72393423",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a41b92dc935ed1dc72393423",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a41b92dc935ed1dc72393423",
+      "width": 64
+    }
+  ],
+  "label": "J Records",
+  "name": "A Bay Bay",
+  "popularity": 0,
+  "release_date": "2007-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/461UiTpF7jyEZN42oEOS5w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fQ46lgoUCz8FVXdTVNk0a"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fQ46lgoUCz8FVXdTVNk0a",
+            "id": "1fQ46lgoUCz8FVXdTVNk0a",
+            "name": "Hurricane Chris",
+            "type": "artist",
+            "uri": "spotify:artist:1fQ46lgoUCz8FVXdTVNk0a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MnFB3qurhmGs1xdjrz5Bg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MnFB3qurhmGs1xdjrz5Bg",
+        "id": "6MnFB3qurhmGs1xdjrz5Bg",
+        "is_local": false,
+        "name": "A Bay Bay - Single Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6MnFB3qurhmGs1xdjrz5Bg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:461UiTpF7jyEZN42oEOS5w"
+}

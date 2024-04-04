@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+      "id": "2XnBwblw31dfGnspMIwgWz",
+      "name": "Axwell /\\ Ingrosso",
+      "type": "artist",
+      "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xNmvlEiICkRlRGqlNFZ43",
+      "id": "1xNmvlEiICkRlRGqlNFZ43",
+      "name": "Axwell",
+      "type": "artist",
+      "uri": "spotify:artist:1xNmvlEiICkRlRGqlNFZ43"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+      "id": "6hyMWrxGBsOx6sWcVj1DqP",
+      "name": "Sebastian Ingrosso",
+      "type": "artist",
+      "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Axwell Music AB and Refune Music Ltd, under exclusive license to Virgin EMI Records, a division of Universal Music Operations Ltd",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Axwell Music AB and Refune Music Ltd, under exclusive license to Virgin EMI Records, a division of Universal Music Operations Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557450309"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7dD0CWyYodWcV0fjglqDgG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7dD0CWyYodWcV0fjglqDgG",
+  "id": "7dD0CWyYodWcV0fjglqDgG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9565af11453132958687a20",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9565af11453132958687a20",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9565af11453132958687a20",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "I Love You",
+  "popularity": 0,
+  "release_date": "2017-02-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7dD0CWyYodWcV0fjglqDgG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+            },
+            "href": "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+            "id": "2XnBwblw31dfGnspMIwgWz",
+            "name": "Axwell /\\ Ingrosso",
+            "type": "artist",
+            "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+            "id": "6KZDXtSj0SzGOV705nNeh3",
+            "name": "Kid Ink",
+            "type": "artist",
+            "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11Fo4dAH31K7UZHGqCkCmE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11Fo4dAH31K7UZHGqCkCmE",
+        "id": "11Fo4dAH31K7UZHGqCkCmE",
+        "is_local": false,
+        "name": "I Love You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11Fo4dAH31K7UZHGqCkCmE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7dD0CWyYodWcV0fjglqDgG"
+}

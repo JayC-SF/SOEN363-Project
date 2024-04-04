@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/7u7MDzwo7VtVe7FhS3cq8Y",
+      "id": "7u7MDzwo7VtVe7FhS3cq8Y",
+      "name": "Diamond Eyes",
+      "type": "artist",
+      "uri": "spotify:artist:7u7MDzwo7VtVe7FhS3cq8Y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Cav8jyZKAHMFbAusOmjku",
+      "id": "0Cav8jyZKAHMFbAusOmjku",
+      "name": "Christina Grimmie",
+      "type": "artist",
+      "uri": "spotify:artist:0Cav8jyZKAHMFbAusOmjku"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Disciple",
+      "type": "C"
+    },
+    {
+      "text": "Disciple",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614591503160"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4UVKTPiw0Q0rRU9F740JrO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4UVKTPiw0Q0rRU9F740JrO",
+  "id": "4UVKTPiw0Q0rRU9F740JrO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370cd15b54de6bacda423d30b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270cd15b54de6bacda423d30b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170cd15b54de6bacda423d30b",
+      "width": 64
+    }
+  ],
+  "label": "Disciple",
+  "name": "Stay with Me",
+  "popularity": 0,
+  "release_date": "2015-04-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4UVKTPiw0Q0rRU9F740JrO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/7u7MDzwo7VtVe7FhS3cq8Y",
+            "id": "7u7MDzwo7VtVe7FhS3cq8Y",
+            "name": "Diamond Eyes",
+            "type": "artist",
+            "uri": "spotify:artist:7u7MDzwo7VtVe7FhS3cq8Y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Cav8jyZKAHMFbAusOmjku",
+            "id": "0Cav8jyZKAHMFbAusOmjku",
+            "name": "Christina Grimmie",
+            "type": "artist",
+            "uri": "spotify:artist:0Cav8jyZKAHMFbAusOmjku"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 251586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13WIG0L7XKk51H7osLx1JO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13WIG0L7XKk51H7osLx1JO",
+        "id": "13WIG0L7XKk51H7osLx1JO",
+        "is_local": false,
+        "name": "Stay with Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13WIG0L7XKk51H7osLx1JO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4UVKTPiw0Q0rRU9F740JrO"
+}

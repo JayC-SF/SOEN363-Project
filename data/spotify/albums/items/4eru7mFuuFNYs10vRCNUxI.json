@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+      },
+      "href": "https://api.spotify.com/v1/artists/24BYRlsS8uIO4jA71mJ4Js",
+      "id": "24BYRlsS8uIO4jA71mJ4Js",
+      "name": "Imran Khan",
+      "type": "artist",
+      "uri": "spotify:artist:24BYRlsS8uIO4jA71mJ4Js"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2009 Prestige Records",
+      "type": "C"
+    },
+    {
+      "text": "2009 Prestige Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055964329686"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4eru7mFuuFNYs10vRCNUxI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4eru7mFuuFNYs10vRCNUxI",
+  "id": "4eru7mFuuFNYs10vRCNUxI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5692af7a418cbbfe176ee24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5692af7a418cbbfe176ee24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5692af7a418cbbfe176ee24",
+      "width": 64
+    }
+  ],
+  "label": "Prestige Records",
+  "name": "Nai Reina",
+  "popularity": 28,
+  "release_date": "2009-07-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4eru7mFuuFNYs10vRCNUxI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+            },
+            "href": "https://api.spotify.com/v1/artists/24BYRlsS8uIO4jA71mJ4Js",
+            "id": "24BYRlsS8uIO4jA71mJ4Js",
+            "name": "Imran Khan",
+            "type": "artist",
+            "uri": "spotify:artist:24BYRlsS8uIO4jA71mJ4Js"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5porYisfeVYAzCzBgTPWLS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5porYisfeVYAzCzBgTPWLS",
+        "id": "5porYisfeVYAzCzBgTPWLS",
+        "is_local": false,
+        "name": "Nai Reina",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5porYisfeVYAzCzBgTPWLS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4eru7mFuuFNYs10vRCNUxI"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZGVS1OWpdvELiQyx3vkO7",
+      "id": "1ZGVS1OWpdvELiQyx3vkO7",
+      "name": "Tanner Usrey",
+      "type": "artist",
+      "uri": "spotify:artist:1ZGVS1OWpdvELiQyx3vkO7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Tanner Usrey",
+      "type": "C"
+    },
+    {
+      "text": "2019 Tanner Usrey",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "662582362527"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0hX9frE3zOn5tt3S5FQ2By"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0hX9frE3zOn5tt3S5FQ2By",
+  "id": "0hX9frE3zOn5tt3S5FQ2By",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3381d63b06b67bdacaf05af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3381d63b06b67bdacaf05af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3381d63b06b67bdacaf05af",
+      "width": 64
+    }
+  ],
+  "label": "Tanner Usrey",
+  "name": "Beautiful Lies",
+  "popularity": 0,
+  "release_date": "2019-08-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0hX9frE3zOn5tt3S5FQ2By/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZGVS1OWpdvELiQyx3vkO7",
+            "id": "1ZGVS1OWpdvELiQyx3vkO7",
+            "name": "Tanner Usrey",
+            "type": "artist",
+            "uri": "spotify:artist:1ZGVS1OWpdvELiQyx3vkO7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223189,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RUurtJ9UhVVwJs9xRLTn4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RUurtJ9UhVVwJs9xRLTn4",
+        "id": "2RUurtJ9UhVVwJs9xRLTn4",
+        "is_local": false,
+        "name": "Beautiful Lies",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2RUurtJ9UhVVwJs9xRLTn4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0hX9frE3zOn5tt3S5FQ2By"
+}

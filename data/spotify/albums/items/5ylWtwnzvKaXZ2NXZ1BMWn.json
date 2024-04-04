@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BFLElxtBEdsdwGA1kHTsx",
+      "id": "4BFLElxtBEdsdwGA1kHTsx",
+      "name": "ElGrandeToto",
+      "type": "artist",
+      "uri": "spotify:artist:4BFLElxtBEdsdwGA1kHTsx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 CHBK",
+      "type": "C"
+    },
+    {
+      "text": "2017 BNJ City Block",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615932032318"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ylWtwnzvKaXZ2NXZ1BMWn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ylWtwnzvKaXZ2NXZ1BMWn",
+  "id": "5ylWtwnzvKaXZ2NXZ1BMWn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382106c09ba56189c5e7e4df5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282106c09ba56189c5e7e4df5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182106c09ba56189c5e7e4df5",
+      "width": 64
+    }
+  ],
+  "label": "Elgrande-toto",
+  "name": "Pablo",
+  "popularity": 0,
+  "release_date": "2017-09-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ylWtwnzvKaXZ2NXZ1BMWn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BFLElxtBEdsdwGA1kHTsx",
+            "id": "4BFLElxtBEdsdwGA1kHTsx",
+            "name": "ElGrandeToto",
+            "type": "artist",
+            "uri": "spotify:artist:4BFLElxtBEdsdwGA1kHTsx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223869,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6myPGcRsuSC2k7llCkRdad"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6myPGcRsuSC2k7llCkRdad",
+        "id": "6myPGcRsuSC2k7llCkRdad",
+        "is_local": false,
+        "name": "Pablo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6myPGcRsuSC2k7llCkRdad"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ylWtwnzvKaXZ2NXZ1BMWn"
+}

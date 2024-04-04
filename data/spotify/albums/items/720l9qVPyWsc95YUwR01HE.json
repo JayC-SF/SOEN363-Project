@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+      },
+      "href": "https://api.spotify.com/v1/artists/4JeG1IusHcsL2owYnsJ7wk",
+      "id": "4JeG1IusHcsL2owYnsJ7wk",
+      "name": "The Skyliners",
+      "type": "artist",
+      "uri": "spotify:artist:4JeG1IusHcsL2owYnsJ7wk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "K-tel",
+      "type": "C"
+    },
+    {
+      "text": "K-tel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0805087048804"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/720l9qVPyWsc95YUwR01HE",
+  "id": "720l9qVPyWsc95YUwR01HE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737767c81684b424af9448b99e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027767c81684b424af9448b99e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517767c81684b424af9448b99e",
+      "width": 64
+    }
+  ],
+  "label": "K-tel",
+  "name": "Since I Don't Have You - Pennies From Heaven",
+  "popularity": 0,
+  "release_date": "2008-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/720l9qVPyWsc95YUwR01HE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JeG1IusHcsL2owYnsJ7wk",
+            "id": "4JeG1IusHcsL2owYnsJ7wk",
+            "name": "The Skyliners",
+            "type": "artist",
+            "uri": "spotify:artist:4JeG1IusHcsL2owYnsJ7wk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zgzOyEZPoeQwmXFzW0bPn",
+        "id": "5zgzOyEZPoeQwmXFzW0bPn",
+        "is_local": false,
+        "name": "Since I Don't Have You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zgzOyEZPoeQwmXFzW0bPn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JeG1IusHcsL2owYnsJ7wk",
+            "id": "4JeG1IusHcsL2owYnsJ7wk",
+            "name": "The Skyliners",
+            "type": "artist",
+            "uri": "spotify:artist:4JeG1IusHcsL2owYnsJ7wk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DhPoVZqoo3cJLfTVmgNoB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4DhPoVZqoo3cJLfTVmgNoB",
+        "id": "4DhPoVZqoo3cJLfTVmgNoB",
+        "is_local": false,
+        "name": "Pennies From Heaven",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4DhPoVZqoo3cJLfTVmgNoB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:720l9qVPyWsc95YUwR01HE"
+}

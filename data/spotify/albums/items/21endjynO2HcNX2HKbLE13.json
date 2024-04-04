@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dAC3NjJnsavHLFC8GCyRZ",
+      "id": "3dAC3NjJnsavHLFC8GCyRZ",
+      "name": "Brina Knauss",
+      "type": "artist",
+      "uri": "spotify:artist:3dAC3NjJnsavHLFC8GCyRZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Rebellion",
+      "type": "C"
+    },
+    {
+      "text": "2019 Rebellion",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060670882837"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21endjynO2HcNX2HKbLE13"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21endjynO2HcNX2HKbLE13",
+  "id": "21endjynO2HcNX2HKbLE13",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5a8c33577216d8425babc45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5a8c33577216d8425babc45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5a8c33577216d8425babc45",
+      "width": 64
+    }
+  ],
+  "label": "Rebellion",
+  "name": "Sledi Toku",
+  "popularity": 0,
+  "release_date": "2019-04-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21endjynO2HcNX2HKbLE13/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dAC3NjJnsavHLFC8GCyRZ",
+            "id": "3dAC3NjJnsavHLFC8GCyRZ",
+            "name": "Brina Knauss",
+            "type": "artist",
+            "uri": "spotify:artist:3dAC3NjJnsavHLFC8GCyRZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 495989,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2P9atiBKXqG543yPl3gtzO",
+        "id": "2P9atiBKXqG543yPl3gtzO",
+        "is_local": false,
+        "name": "Sledi Toku",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2P9atiBKXqG543yPl3gtzO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dAC3NjJnsavHLFC8GCyRZ",
+            "id": "3dAC3NjJnsavHLFC8GCyRZ",
+            "name": "Brina Knauss",
+            "type": "artist",
+            "uri": "spotify:artist:3dAC3NjJnsavHLFC8GCyRZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 463656,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Il6VrtBuzk3pbLWC5gQxq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Il6VrtBuzk3pbLWC5gQxq",
+        "id": "7Il6VrtBuzk3pbLWC5gQxq",
+        "is_local": false,
+        "name": "Lady Bug",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7Il6VrtBuzk3pbLWC5gQxq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:21endjynO2HcNX2HKbLE13"
+}

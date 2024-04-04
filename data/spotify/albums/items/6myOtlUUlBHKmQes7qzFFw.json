@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YbNNIHUsoTsgqNVTq3hOD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6YbNNIHUsoTsgqNVTq3hOD",
+      "id": "6YbNNIHUsoTsgqNVTq3hOD",
+      "name": "Sdrk",
+      "type": "artist",
+      "uri": "spotify:artist:6YbNNIHUsoTsgqNVTq3hOD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Wovie",
+      "type": "C"
+    },
+    {
+      "text": "2021 Wovie",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616557837029"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6myOtlUUlBHKmQes7qzFFw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6myOtlUUlBHKmQes7qzFFw",
+  "id": "6myOtlUUlBHKmQes7qzFFw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c40ec25a2bb337650bccd217",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c40ec25a2bb337650bccd217",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c40ec25a2bb337650bccd217",
+      "width": 64
+    }
+  ],
+  "label": "Wovie",
+  "name": "KISKANMA",
+  "popularity": 0,
+  "release_date": "2021-07-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6myOtlUUlBHKmQes7qzFFw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6YbNNIHUsoTsgqNVTq3hOD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6YbNNIHUsoTsgqNVTq3hOD",
+            "id": "6YbNNIHUsoTsgqNVTq3hOD",
+            "name": "Sdrk",
+            "type": "artist",
+            "uri": "spotify:artist:6YbNNIHUsoTsgqNVTq3hOD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 96000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aBWFcUEAXHaBFbrMFtc1u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aBWFcUEAXHaBFbrMFtc1u",
+        "id": "3aBWFcUEAXHaBFbrMFtc1u",
+        "is_local": false,
+        "name": "KISKANMA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3aBWFcUEAXHaBFbrMFtc1u"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6myOtlUUlBHKmQes7qzFFw"
+}

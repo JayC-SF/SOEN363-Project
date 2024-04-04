@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tzSBCPJZmHTdOA3ZV2mN3",
+      "id": "0tzSBCPJZmHTdOA3ZV2mN3",
+      "name": "CL",
+      "type": "artist",
+      "uri": "spotify:artist:0tzSBCPJZmHTdOA3ZV2mN3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 YG Entertainment / Schoolboy Records",
+      "type": "C"
+    },
+    {
+      "text": "2015 YG Entertainment / Schoolboy Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888272028669"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0CHOb7kkjkNRCpijTjPEiy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0CHOb7kkjkNRCpijTjPEiy",
+  "id": "0CHOb7kkjkNRCpijTjPEiy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bc24150245a8d31c68b58b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bc24150245a8d31c68b58b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bc24150245a8d31c68b58b4",
+      "width": 64
+    }
+  ],
+  "label": "YG Entertainment",
+  "name": "Hello Bitches",
+  "popularity": 0,
+  "release_date": "2015-12-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0CHOb7kkjkNRCpijTjPEiy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tzSBCPJZmHTdOA3ZV2mN3",
+            "id": "0tzSBCPJZmHTdOA3ZV2mN3",
+            "name": "CL",
+            "type": "artist",
+            "uri": "spotify:artist:0tzSBCPJZmHTdOA3ZV2mN3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178177,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PsuktMveOXllYMbAy5dEj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PsuktMveOXllYMbAy5dEj",
+        "id": "2PsuktMveOXllYMbAy5dEj",
+        "is_local": false,
+        "name": "Hello Bitches",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2PsuktMveOXllYMbAy5dEj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0CHOb7kkjkNRCpijTjPEiy"
+}

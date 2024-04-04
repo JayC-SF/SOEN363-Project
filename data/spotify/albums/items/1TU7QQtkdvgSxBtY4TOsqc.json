@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6blEmsLU25ewy8hHtgZaSL",
+      "id": "6blEmsLU25ewy8hHtgZaSL",
+      "name": "Jazmin Bean",
+      "type": "artist",
+      "uri": "spotify:artist:6blEmsLU25ewy8hHtgZaSL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 aswang birthday cake",
+      "type": "C"
+    },
+    {
+      "text": "2020 aswang birthday cake",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195162726728"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TU7QQtkdvgSxBtY4TOsqc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1TU7QQtkdvgSxBtY4TOsqc",
+  "id": "1TU7QQtkdvgSxBtY4TOsqc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317bed0a2f57157479a057bbc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217bed0a2f57157479a057bbc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117bed0a2f57157479a057bbc",
+      "width": 64
+    }
+  ],
+  "label": "aswang birthday cake",
+  "name": "Super Slaughter",
+  "popularity": 0,
+  "release_date": "2020-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1TU7QQtkdvgSxBtY4TOsqc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6blEmsLU25ewy8hHtgZaSL",
+            "id": "6blEmsLU25ewy8hHtgZaSL",
+            "name": "Jazmin Bean",
+            "type": "artist",
+            "uri": "spotify:artist:6blEmsLU25ewy8hHtgZaSL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165754,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qZB0ATzvkkFZZi5smIGJl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qZB0ATzvkkFZZi5smIGJl",
+        "id": "3qZB0ATzvkkFZZi5smIGJl",
+        "is_local": false,
+        "name": "Super Slaughter",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3qZB0ATzvkkFZZi5smIGJl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1TU7QQtkdvgSxBtY4TOsqc"
+}

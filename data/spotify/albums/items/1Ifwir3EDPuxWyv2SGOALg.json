@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc6R1bF5GPJLJ26Gauyrg"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Uc6R1bF5GPJLJ26Gauyrg",
+      "id": "4Uc6R1bF5GPJLJ26Gauyrg",
+      "name": "ElBau",
+      "type": "artist",
+      "uri": "spotify:artist:4Uc6R1bF5GPJLJ26Gauyrg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Jon Z",
+      "type": "C"
+    },
+    {
+      "text": "2020 Jon Z",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195541069040"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Ifwir3EDPuxWyv2SGOALg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Ifwir3EDPuxWyv2SGOALg",
+  "id": "1Ifwir3EDPuxWyv2SGOALg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d70520a5a3b75192c3303d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d70520a5a3b75192c3303d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d70520a5a3b75192c3303d5",
+      "width": 64
+    }
+  ],
+  "label": "Jon Z",
+  "name": "Cuando Usas la Lengua",
+  "popularity": 0,
+  "release_date": "2020-08-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Ifwir3EDPuxWyv2SGOALg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Uc6R1bF5GPJLJ26Gauyrg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Uc6R1bF5GPJLJ26Gauyrg",
+            "id": "4Uc6R1bF5GPJLJ26Gauyrg",
+            "name": "ElBau",
+            "type": "artist",
+            "uri": "spotify:artist:4Uc6R1bF5GPJLJ26Gauyrg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 286615,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DDPtxsFBeCPiLMe8buolQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5DDPtxsFBeCPiLMe8buolQ",
+        "id": "5DDPtxsFBeCPiLMe8buolQ",
+        "is_local": false,
+        "name": "Cuando Usas la Lengua",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5DDPtxsFBeCPiLMe8buolQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Ifwir3EDPuxWyv2SGOALg"
+}

@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+      },
+      "href": "https://api.spotify.com/v1/artists/5tY2sa8I11tpMuhU9onQ6e",
+      "id": "5tY2sa8I11tpMuhU9onQ6e",
+      "name": "Nu",
+      "type": "artist",
+      "uri": "spotify:artist:5tY2sa8I11tpMuhU9onQ6e"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Crosstown Rebels",
+      "type": "C"
+    },
+    {
+      "text": "2017 Crosstown Rebels",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060519680105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3MjdICWIEKyRgL7Qx4Ub72"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3MjdICWIEKyRgL7Qx4Ub72",
+  "id": "3MjdICWIEKyRgL7Qx4Ub72",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c77acb5f27a14eafd7ad5e31",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c77acb5f27a14eafd7ad5e31",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c77acb5f27a14eafd7ad5e31",
+      "width": 64
+    }
+  ],
+  "label": "Crosstown Rebels",
+  "name": "Man O To",
+  "popularity": 3,
+  "release_date": "2017-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3MjdICWIEKyRgL7Qx4Ub72/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+            },
+            "href": "https://api.spotify.com/v1/artists/5tY2sa8I11tpMuhU9onQ6e",
+            "id": "5tY2sa8I11tpMuhU9onQ6e",
+            "name": "Nu",
+            "type": "artist",
+            "uri": "spotify:artist:5tY2sa8I11tpMuhU9onQ6e"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222249,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iKvgAl0uHqUrSXef7YccS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6iKvgAl0uHqUrSXef7YccS",
+        "id": "6iKvgAl0uHqUrSXef7YccS",
+        "is_local": false,
+        "name": "Man O To",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6iKvgAl0uHqUrSXef7YccS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+            },
+            "href": "https://api.spotify.com/v1/artists/5tY2sa8I11tpMuhU9onQ6e",
+            "id": "5tY2sa8I11tpMuhU9onQ6e",
+            "name": "Nu",
+            "type": "artist",
+            "uri": "spotify:artist:5tY2sa8I11tpMuhU9onQ6e"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BaLB5aiExO29BEGVUisru",
+            "id": "4BaLB5aiExO29BEGVUisru",
+            "name": "Be Svendsen",
+            "type": "artist",
+            "uri": "spotify:artist:4BaLB5aiExO29BEGVUisru"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228990,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Mec3JZZldBlWORup9vhgK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Mec3JZZldBlWORup9vhgK",
+        "id": "5Mec3JZZldBlWORup9vhgK",
+        "is_local": false,
+        "name": "Man O To - Be Svendsen Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Mec3JZZldBlWORup9vhgK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3MjdICWIEKyRgL7Qx4Ub72"
+}

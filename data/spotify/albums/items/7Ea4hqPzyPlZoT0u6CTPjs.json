@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+      "id": "2IeMt1qx6ZVt1HFjdfE5tl",
+      "name": "Jonathan Young",
+      "type": "artist",
+      "uri": "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Youngster Multimedia",
+      "type": "C"
+    },
+    {
+      "text": "2016 Youngster Multimedia",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840096503623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7Ea4hqPzyPlZoT0u6CTPjs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7Ea4hqPzyPlZoT0u6CTPjs",
+  "id": "7Ea4hqPzyPlZoT0u6CTPjs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273663635c3716de597f86ad340",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02663635c3716de597f86ad340",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851663635c3716de597f86ad340",
+      "width": 64
+    }
+  ],
+  "label": "Jonathan Young",
+  "name": "All I Ask of You",
+  "popularity": 0,
+  "release_date": "2016-05-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7Ea4hqPzyPlZoT0u6CTPjs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+            },
+            "href": "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+            "id": "2IeMt1qx6ZVt1HFjdfE5tl",
+            "name": "Jonathan Young",
+            "type": "artist",
+            "uri": "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MqxdQz3XTtHmnGRq3PguW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MqxdQz3XTtHmnGRq3PguW",
+            "id": "6MqxdQz3XTtHmnGRq3PguW",
+            "name": "Malinda Kathleen Reese",
+            "type": "artist",
+            "uri": "spotify:artist:6MqxdQz3XTtHmnGRq3PguW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 249506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pbNPjqMxYjghD5ziDnhpV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pbNPjqMxYjghD5ziDnhpV",
+        "id": "6pbNPjqMxYjghD5ziDnhpV",
+        "is_local": false,
+        "name": "All I Ask of You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6pbNPjqMxYjghD5ziDnhpV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7Ea4hqPzyPlZoT0u6CTPjs"
+}

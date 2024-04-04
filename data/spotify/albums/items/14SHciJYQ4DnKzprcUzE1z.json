@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+      },
+      "href": "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+      "id": "6BrvowZBreEkXzJQMpL174",
+      "name": "Hardwell",
+      "type": "artist",
+      "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Cloud 9 Dance",
+      "type": "C"
+    },
+    {
+      "text": "2012 Cloud 9 Dance",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8717931684644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/14SHciJYQ4DnKzprcUzE1z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/14SHciJYQ4DnKzprcUzE1z",
+  "id": "14SHciJYQ4DnKzprcUzE1z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397e4c7870cffac76662a92fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297e4c7870cffac76662a92fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197e4c7870cffac76662a92fd",
+      "width": 64
+    }
+  ],
+  "label": "Revealed Recordings",
+  "name": "Spaceman",
+  "popularity": 0,
+  "release_date": "2012-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/14SHciJYQ4DnKzprcUzE1z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+            "id": "6BrvowZBreEkXzJQMpL174",
+            "name": "Hardwell",
+            "type": "artist",
+            "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 379260,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ca2ELRlvACAeI7xz9c9jR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ca2ELRlvACAeI7xz9c9jR",
+        "id": "1Ca2ELRlvACAeI7xz9c9jR",
+        "is_local": false,
+        "name": "Spaceman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Ca2ELRlvACAeI7xz9c9jR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:14SHciJYQ4DnKzprcUzE1z"
+}

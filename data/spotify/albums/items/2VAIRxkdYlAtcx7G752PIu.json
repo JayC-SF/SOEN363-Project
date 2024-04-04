@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+      "id": "6biWAmrHyiMkX49LkycGqQ",
+      "name": "Thin Lizzy",
+      "type": "artist",
+      "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2009 Universal International Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2009 Universal International Music B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00600753222553"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2VAIRxkdYlAtcx7G752PIu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2VAIRxkdYlAtcx7G752PIu",
+  "id": "2VAIRxkdYlAtcx7G752PIu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ff4027783f1ecc979ef6999",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ff4027783f1ecc979ef6999",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ff4027783f1ecc979ef6999",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music",
+  "name": "The Boys Are Back In Town / Jailbreak",
+  "popularity": 0,
+  "release_date": "2009-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2VAIRxkdYlAtcx7G752PIu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+            "id": "6biWAmrHyiMkX49LkycGqQ",
+            "name": "Thin Lizzy",
+            "type": "artist",
+            "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 263146,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68uQDTO3wN8Qkvu7GEmrhI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68uQDTO3wN8Qkvu7GEmrhI",
+        "id": "68uQDTO3wN8Qkvu7GEmrhI",
+        "is_local": false,
+        "name": "The Boys Are Back In Town",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:68uQDTO3wN8Qkvu7GEmrhI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+            "id": "6biWAmrHyiMkX49LkycGqQ",
+            "name": "Thin Lizzy",
+            "type": "artist",
+            "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oBVBwGLB1khORuRe6wSeV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4oBVBwGLB1khORuRe6wSeV",
+        "id": "4oBVBwGLB1khORuRe6wSeV",
+        "is_local": false,
+        "name": "Jailbreak",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4oBVBwGLB1khORuRe6wSeV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2VAIRxkdYlAtcx7G752PIu"
+}

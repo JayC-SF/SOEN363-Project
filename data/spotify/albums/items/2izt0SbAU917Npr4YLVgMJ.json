@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2011 Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977897838"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2izt0SbAU917Npr4YLVgMJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2izt0SbAU917Npr4YLVgMJ",
+  "id": "2izt0SbAU917Npr4YLVgMJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c78e9d8b881bb8c78c72ee0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c78e9d8b881bb8c78c72ee0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c78e9d8b881bb8c78c72ee0",
+      "width": 64
+    }
+  ],
+  "label": "Jive",
+  "name": "Look At Me Now",
+  "popularity": 0,
+  "release_date": "2011-02-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2izt0SbAU917Npr4YLVgMJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223933,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EKTo6rVJ3XSS7QTd6ep2j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EKTo6rVJ3XSS7QTd6ep2j",
+        "id": "7EKTo6rVJ3XSS7QTd6ep2j",
+        "is_local": false,
+        "name": "Look At Me Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7EKTo6rVJ3XSS7QTd6ep2j"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2izt0SbAU917Npr4YLVgMJ"
+}

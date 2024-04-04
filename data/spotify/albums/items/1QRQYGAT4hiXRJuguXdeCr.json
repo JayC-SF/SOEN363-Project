@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0D2AGoyclVBVc55XYkZzpG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0D2AGoyclVBVc55XYkZzpG",
+      "id": "0D2AGoyclVBVc55XYkZzpG",
+      "name": "JackBoi",
+      "type": "artist",
+      "uri": "spotify:artist:0D2AGoyclVBVc55XYkZzpG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Jackboi",
+      "type": "C"
+    },
+    {
+      "text": "2020 Jackboi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195562673431"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QRQYGAT4hiXRJuguXdeCr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QRQYGAT4hiXRJuguXdeCr",
+  "id": "1QRQYGAT4hiXRJuguXdeCr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273589b17660260a8f988e81d4e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02589b17660260a8f988e81d4e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851589b17660260a8f988e81d4e",
+      "width": 64
+    }
+  ],
+  "label": "Curbservicerecords",
+  "name": "Crash",
+  "popularity": 0,
+  "release_date": "2020-10-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QRQYGAT4hiXRJuguXdeCr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0D2AGoyclVBVc55XYkZzpG"
+            },
+            "href": "https://api.spotify.com/v1/artists/0D2AGoyclVBVc55XYkZzpG",
+            "id": "0D2AGoyclVBVc55XYkZzpG",
+            "name": "JackBoi",
+            "type": "artist",
+            "uri": "spotify:artist:0D2AGoyclVBVc55XYkZzpG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OhrY7GB6KOXMIJqTtasrk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OhrY7GB6KOXMIJqTtasrk",
+            "id": "2OhrY7GB6KOXMIJqTtasrk",
+            "name": "Dane",
+            "type": "artist",
+            "uri": "spotify:artist:2OhrY7GB6KOXMIJqTtasrk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153338,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r7xc678Dcr0PJWvKeXSGJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0r7xc678Dcr0PJWvKeXSGJ",
+        "id": "0r7xc678Dcr0PJWvKeXSGJ",
+        "is_local": false,
+        "name": "Crash",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0r7xc678Dcr0PJWvKeXSGJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QRQYGAT4hiXRJuguXdeCr"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
+      },
+      "href": "https://api.spotify.com/v1/artists/5I7ErPVeubiYhds5DFcbfM",
+      "id": "5I7ErPVeubiYhds5DFcbfM",
+      "name": "axxturel",
+      "type": "artist",
+      "uri": "spotify:artist:5I7ErPVeubiYhds5DFcbfM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 NO MERCY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "659783303978"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2RCWeis7hl09RuUWfmBE2U"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2RCWeis7hl09RuUWfmBE2U",
+  "id": "2RCWeis7hl09RuUWfmBE2U",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342b063c54063c2c1cb133718",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242b063c54063c2c1cb133718",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142b063c54063c2c1cb133718",
+      "width": 64
+    }
+  ],
+  "label": "NO MERCY",
+  "name": "U",
+  "popularity": 0,
+  "release_date": "2020-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2RCWeis7hl09RuUWfmBE2U/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5I7ErPVeubiYhds5DFcbfM",
+            "id": "5I7ErPVeubiYhds5DFcbfM",
+            "name": "axxturel",
+            "type": "artist",
+            "uri": "spotify:artist:5I7ErPVeubiYhds5DFcbfM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122810,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FOZTmE0nCrGLTrnBieHNI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FOZTmE0nCrGLTrnBieHNI",
+        "id": "4FOZTmE0nCrGLTrnBieHNI",
+        "is_local": false,
+        "name": "U",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4FOZTmE0nCrGLTrnBieHNI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2RCWeis7hl09RuUWfmBE2U"
+}

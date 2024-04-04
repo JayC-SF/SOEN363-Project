@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YdgQdZpt4VsKuJnA5mqJN"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YdgQdZpt4VsKuJnA5mqJN",
+      "id": "0YdgQdZpt4VsKuJnA5mqJN",
+      "name": "i had a vision",
+      "type": "artist",
+      "uri": "spotify:artist:0YdgQdZpt4VsKuJnA5mqJN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3463704 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3463704 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196512478595"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2PLhbC62Vsahu5zycA64tN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2PLhbC62Vsahu5zycA64tN",
+  "id": "2PLhbC62Vsahu5zycA64tN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386a2e39e8f159cb18fe81181",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286a2e39e8f159cb18fe81181",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186a2e39e8f159cb18fe81181",
+      "width": 64
+    }
+  ],
+  "label": "3463704 Records DK",
+  "name": "Still Here / Lost it",
+  "popularity": 0,
+  "release_date": "2021-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2PLhbC62Vsahu5zycA64tN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YdgQdZpt4VsKuJnA5mqJN"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YdgQdZpt4VsKuJnA5mqJN",
+            "id": "0YdgQdZpt4VsKuJnA5mqJN",
+            "name": "i had a vision",
+            "type": "artist",
+            "uri": "spotify:artist:0YdgQdZpt4VsKuJnA5mqJN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 137032,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SsTKiJo31xJdoMtpANOJr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SsTKiJo31xJdoMtpANOJr",
+        "id": "3SsTKiJo31xJdoMtpANOJr",
+        "is_local": false,
+        "name": "Still Here / Lost it",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SsTKiJo31xJdoMtpANOJr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2PLhbC62Vsahu5zycA64tN"
+}

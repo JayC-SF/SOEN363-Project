@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+      },
+      "href": "https://api.spotify.com/v1/artists/32zeX1IoVKAGWMyy1isKUq",
+      "id": "32zeX1IoVKAGWMyy1isKUq",
+      "name": "No Vacation",
+      "type": "artist",
+      "uri": "spotify:artist:32zeX1IoVKAGWMyy1isKUq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Topshelf Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 NoVacationPublishing (ASCAP)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191773043841"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33dtgSEkkObUGGyNz2MgkH",
+  "id": "33dtgSEkkObUGGyNz2MgkH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328b8850c1940ef6dbbb019f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228b8850c1940ef6dbbb019f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128b8850c1940ef6dbbb019f8",
+      "width": 64
+    }
+  ],
+  "label": "Topshelf Records",
+  "name": "Yam Yam",
+  "popularity": 0,
+  "release_date": "2017-05-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33dtgSEkkObUGGyNz2MgkH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+            },
+            "href": "https://api.spotify.com/v1/artists/32zeX1IoVKAGWMyy1isKUq",
+            "id": "32zeX1IoVKAGWMyy1isKUq",
+            "name": "No Vacation",
+            "type": "artist",
+            "uri": "spotify:artist:32zeX1IoVKAGWMyy1isKUq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216038,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kyiHjkFdmHcYcIJtFAdaF",
+        "id": "7kyiHjkFdmHcYcIJtFAdaF",
+        "is_local": false,
+        "name": "Yam Yam",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7kyiHjkFdmHcYcIJtFAdaF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33dtgSEkkObUGGyNz2MgkH"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4zGH6gaO4NohcfCXZ31bQG",
+      "id": "4zGH6gaO4NohcfCXZ31bQG",
+      "name": "Eric Saade",
+      "type": "artist",
+      "uri": "spotify:artist:4zGH6gaO4NohcfCXZ31bQG"
+    }
+  ],
+  "available_markets": [
+    "NO"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 King Island Roxystars Recordings AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 King Island Roxystars Recordings AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527738420"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ZWgQuwtH3X5oqNMrYqBrl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ZWgQuwtH3X5oqNMrYqBrl",
+  "id": "6ZWgQuwtH3X5oqNMrYqBrl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737787de5847bd43a2cd87ea6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027787de5847bd43a2cd87ea6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517787de5847bd43a2cd87ea6c",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AS",
+  "name": "Popular",
+  "popularity": 19,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ZWgQuwtH3X5oqNMrYqBrl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zGH6gaO4NohcfCXZ31bQG",
+            "id": "4zGH6gaO4NohcfCXZ31bQG",
+            "name": "Eric Saade",
+            "type": "artist",
+            "uri": "spotify:artist:4zGH6gaO4NohcfCXZ31bQG"
+          }
+        ],
+        "available_markets": [
+          "NO"
+        ],
+        "disc_number": 1,
+        "duration_ms": 180080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1InDX4MkJT1lnaliydPYWz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1InDX4MkJT1lnaliydPYWz",
+        "id": "1InDX4MkJT1lnaliydPYWz",
+        "is_local": false,
+        "name": "Popular",
+        "preview_url": "https://p.scdn.co/mp3-preview/1bb4c04628e082b0b614448bddab1daa3a1e8846?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1InDX4MkJT1lnaliydPYWz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ZWgQuwtH3X5oqNMrYqBrl"
+}

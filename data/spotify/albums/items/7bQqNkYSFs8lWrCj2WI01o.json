@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+      },
+      "href": "https://api.spotify.com/v1/artists/3NyNPJaemMYsL14DK2tO01",
+      "id": "3NyNPJaemMYsL14DK2tO01",
+      "name": "Cheryl",
+      "type": "artist",
+      "uri": "spotify:artist:3NyNPJaemMYsL14DK2tO01"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2009 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2009 Polydor Ltd. (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527233932"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7bQqNkYSFs8lWrCj2WI01o"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7bQqNkYSFs8lWrCj2WI01o",
+  "id": "7bQqNkYSFs8lWrCj2WI01o",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d010c4e9ea2485278c84dc5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d010c4e9ea2485278c84dc5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d010c4e9ea2485278c84dc5",
+      "width": 64
+    }
+  ],
+  "label": "Polydor",
+  "name": "Fight For This Love",
+  "popularity": 0,
+  "release_date": "2009-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7bQqNkYSFs8lWrCj2WI01o/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+            },
+            "href": "https://api.spotify.com/v1/artists/3NyNPJaemMYsL14DK2tO01",
+            "id": "3NyNPJaemMYsL14DK2tO01",
+            "name": "Cheryl",
+            "type": "artist",
+            "uri": "spotify:artist:3NyNPJaemMYsL14DK2tO01"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DdYfxJbcY2lm4Kq42u1KQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5DdYfxJbcY2lm4Kq42u1KQ",
+        "id": "5DdYfxJbcY2lm4Kq42u1KQ",
+        "is_local": false,
+        "name": "Fight For This Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5DdYfxJbcY2lm4Kq42u1KQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7bQqNkYSFs8lWrCj2WI01o"
+}

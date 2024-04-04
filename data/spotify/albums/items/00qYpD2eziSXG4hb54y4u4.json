@@ -1,0 +1,850 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+      "id": "2Cx19OTMqa6gpz2l60cGG2",
+      "name": "Jean-Jacques Goldman",
+      "type": "artist",
+      "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Compilation (P) 2000 Sony Music Entertainment (France) S.A.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447878033"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/00qYpD2eziSXG4hb54y4u4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/00qYpD2eziSXG4hb54y4u4",
+  "id": "00qYpD2eziSXG4hb54y4u4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273021ad7c656670fdd2634de45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02021ad7c656670fdd2634de45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851021ad7c656670fdd2634de45",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Fredericks, Goldman, Jones : Pluriel",
+  "popularity": 0,
+  "release_date": "2000-09-11",
+  "release_date_precision": "day",
+  "total_tracks": 16,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/00qYpD2eziSXG4hb54y4u4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 340520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dOjDZ5HMQOn2YldI5zqks"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dOjDZ5HMQOn2YldI5zqks",
+        "id": "6dOjDZ5HMQOn2YldI5zqks",
+        "is_local": false,
+        "name": "Nuit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6dOjDZ5HMQOn2YldI5zqks"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 285333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06nm6sooYWFZdmFrtaBxQN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06nm6sooYWFZdmFrtaBxQN",
+        "id": "06nm6sooYWFZdmFrtaBxQN",
+        "is_local": false,
+        "name": "A nos actes manqu\u00e9s",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:06nm6sooYWFZdmFrtaBxQN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5F3j9MmeEdEiiWdCiZT401"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5F3j9MmeEdEiiWdCiZT401",
+        "id": "5F3j9MmeEdEiiWdCiZT401",
+        "is_local": false,
+        "name": "N\u00e9 en 17 \u00e0 Leidenstadt",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5F3j9MmeEdEiiWdCiZT401"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 299506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oEO4JxzkKflMQcdeHULk0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oEO4JxzkKflMQcdeHULk0",
+        "id": "1oEO4JxzkKflMQcdeHULk0",
+        "is_local": false,
+        "name": "C'est pas d'l'amour",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1oEO4JxzkKflMQcdeHULk0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 258866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nOZqVpMCqAcGKcK7AcrUa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nOZqVpMCqAcGKcK7AcrUa",
+        "id": "1nOZqVpMCqAcGKcK7AcrUa",
+        "is_local": false,
+        "name": "Un, deux, trois",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1nOZqVpMCqAcGKcK7AcrUa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 517426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aA00QR3OqaXcZrDLtsEGT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2aA00QR3OqaXcZrDLtsEGT",
+        "id": "2aA00QR3OqaXcZrDLtsEGT",
+        "is_local": false,
+        "name": "Tu manques",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2aA00QR3OqaXcZrDLtsEGT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ayf1XnbaXU7u2N0ZXlJnV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ayf1XnbaXU7u2N0ZXlJnV",
+        "id": "1Ayf1XnbaXU7u2N0ZXlJnV",
+        "is_local": false,
+        "name": "Peurs",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1Ayf1XnbaXU7u2N0ZXlJnV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 249453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YrAJpoXTWMegiZdQmcS3L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YrAJpoXTWMegiZdQmcS3L",
+        "id": "3YrAJpoXTWMegiZdQmcS3L",
+        "is_local": false,
+        "name": "Il suffira d'un signe - Live Sur sc\u00e8ne 1992",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3YrAJpoXTWMegiZdQmcS3L"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qQm8W6lSmuNSJSSuCVwtZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qQm8W6lSmuNSJSSuCVwtZ",
+        "id": "1qQm8W6lSmuNSJSSuCVwtZ",
+        "is_local": false,
+        "name": "Je commence demain - Live",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1qQm8W6lSmuNSJSSuCVwtZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 374866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11Wi6i1dtlUz5CluKZZ746"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11Wi6i1dtlUz5CluKZZ746",
+        "id": "11Wi6i1dtlUz5CluKZZ746",
+        "is_local": false,
+        "name": "Rouge",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:11Wi6i1dtlUz5CluKZZ746"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 280400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CaxP8D0jux42gqt0Qw5jY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CaxP8D0jux42gqt0Qw5jY",
+        "id": "3CaxP8D0jux42gqt0Qw5jY",
+        "is_local": false,
+        "name": "Juste apr\u00e8s",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3CaxP8D0jux42gqt0Qw5jY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2N59A5FrE0jOTj5zZO1mTH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2N59A5FrE0jOTj5zZO1mTH",
+        "id": "2N59A5FrE0jOTj5zZO1mTH",
+        "is_local": false,
+        "name": "Des vies",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2N59A5FrE0jOTj5zZO1mTH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 355093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RBnLYQuvhithsZs1gTZZr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3RBnLYQuvhithsZs1gTZZr",
+        "id": "3RBnLYQuvhithsZs1gTZZr",
+        "is_local": false,
+        "name": "Fermer les yeux - Version edit",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3RBnLYQuvhithsZs1gTZZr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 295266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13GQ0iDkiAnUTIrmfp0PY2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13GQ0iDkiAnUTIrmfp0PY2",
+        "id": "13GQ0iDkiAnUTIrmfp0PY2",
+        "is_local": false,
+        "name": "Que disent les chansons du monde ?",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:13GQ0iDkiAnUTIrmfp0PY2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pkVwA6QFFt8Y00uOBTQqQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pkVwA6QFFt8Y00uOBTQqQ",
+        "id": "0pkVwA6QFFt8Y00uOBTQqQ",
+        "is_local": false,
+        "name": "Pas toi - Live (version edit)",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:0pkVwA6QFFt8Y00uOBTQqQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EfRgpfLaAzQLV08MpruGH",
+            "id": "4EfRgpfLaAzQLV08MpruGH",
+            "name": "Carole Fredericks",
+            "type": "artist",
+            "uri": "spotify:artist:4EfRgpfLaAzQLV08MpruGH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Cx19OTMqa6gpz2l60cGG2",
+            "id": "2Cx19OTMqa6gpz2l60cGG2",
+            "name": "Jean-Jacques Goldman",
+            "type": "artist",
+            "uri": "spotify:artist:2Cx19OTMqa6gpz2l60cGG2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AF8vOjsrk66ofuPhHCKqW",
+            "id": "0AF8vOjsrk66ofuPhHCKqW",
+            "name": "Michael Jones",
+            "type": "artist",
+            "uri": "spotify:artist:0AF8vOjsrk66ofuPhHCKqW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2koftsDTBItMmtpp3i8EwU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2koftsDTBItMmtpp3i8EwU",
+        "id": "2koftsDTBItMmtpp3i8EwU",
+        "is_local": false,
+        "name": "Think - au New Morning 1994 (concert acoustique)",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2koftsDTBItMmtpp3i8EwU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  },
+  "type": "album",
+  "uri": "spotify:album:00qYpD2eziSXG4hb54y4u4"
+}

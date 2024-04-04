@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id": "3q7HBObVc0L8jNeTe5Gofh",
+      "name": "50 Cent",
+      "type": "artist",
+      "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 Shady Records/Aftermath Records/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 Shady Records/Aftermath Records/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527941790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5MYeVUDgglwOEVRZvs25iU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5MYeVUDgglwOEVRZvs25iU",
+  "id": "5MYeVUDgglwOEVRZvs25iU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab0e12a611e5248ccddd9aba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab0e12a611e5248ccddd9aba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab0e12a611e5248ccddd9aba",
+      "width": 64
+    }
+  ],
+  "label": "Aftermath/Shady",
+  "name": "Wait Until Tonight",
+  "popularity": 16,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5MYeVUDgglwOEVRZvs25iU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+            },
+            "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+            "id": "3q7HBObVc0L8jNeTe5Gofh",
+            "name": "50 Cent",
+            "type": "artist",
+            "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 171320,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bxvZDiuXOAwz5Fgb2a2Je"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6bxvZDiuXOAwz5Fgb2a2Je",
+        "id": "6bxvZDiuXOAwz5Fgb2a2Je",
+        "is_local": false,
+        "name": "Wait Until Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6bxvZDiuXOAwz5Fgb2a2Je"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5MYeVUDgglwOEVRZvs25iU"
+}

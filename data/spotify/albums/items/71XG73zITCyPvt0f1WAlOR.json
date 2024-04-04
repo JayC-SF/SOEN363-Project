@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TXeQRGLUNGv4C6wgwA7Ju",
+      "id": "4TXeQRGLUNGv4C6wgwA7Ju",
+      "name": "Sect Unit",
+      "type": "artist",
+      "uri": "spotify:artist:4TXeQRGLUNGv4C6wgwA7Ju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+      },
+      "href": "https://api.spotify.com/v1/artists/7chdPv6Kx0frN0lKfppD2J",
+      "id": "7chdPv6Kx0frN0lKfppD2J",
+      "name": "Witchouse 40k",
+      "type": "artist",
+      "uri": "spotify:artist:7chdPv6Kx0frN0lKfppD2J"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 SECT UNIT",
+      "type": "C"
+    },
+    {
+      "text": "2020 SECT UNIT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195164190060"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/71XG73zITCyPvt0f1WAlOR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/71XG73zITCyPvt0f1WAlOR",
+  "id": "71XG73zITCyPvt0f1WAlOR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273634a9ba0f3a88062f271426c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02634a9ba0f3a88062f271426c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851634a9ba0f3a88062f271426c",
+      "width": 64
+    }
+  ],
+  "label": "SECT UNIT",
+  "name": "Red Rum",
+  "popularity": 0,
+  "release_date": "2020-03-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/71XG73zITCyPvt0f1WAlOR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TXeQRGLUNGv4C6wgwA7Ju",
+            "id": "4TXeQRGLUNGv4C6wgwA7Ju",
+            "name": "Sect Unit",
+            "type": "artist",
+            "uri": "spotify:artist:4TXeQRGLUNGv4C6wgwA7Ju"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+            },
+            "href": "https://api.spotify.com/v1/artists/7chdPv6Kx0frN0lKfppD2J",
+            "id": "7chdPv6Kx0frN0lKfppD2J",
+            "name": "Witchouse 40k",
+            "type": "artist",
+            "uri": "spotify:artist:7chdPv6Kx0frN0lKfppD2J"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vbzky4sadkAc257saxqtC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0vbzky4sadkAc257saxqtC",
+        "id": "0vbzky4sadkAc257saxqtC",
+        "is_local": false,
+        "name": "Red Rum",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0vbzky4sadkAc257saxqtC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:71XG73zITCyPvt0f1WAlOR"
+}

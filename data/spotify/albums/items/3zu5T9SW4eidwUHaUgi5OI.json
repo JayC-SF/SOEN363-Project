@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ZzOIAEw7joAghyA80c6D0",
+      "id": "6ZzOIAEw7joAghyA80c6D0",
+      "name": "Billy Vaughn",
+      "type": "artist",
+      "uri": "spotify:artist:6ZzOIAEw7joAghyA80c6D0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Hot Rock Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Hot Rock Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4251234339442"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3zu5T9SW4eidwUHaUgi5OI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3zu5T9SW4eidwUHaUgi5OI",
+  "id": "3zu5T9SW4eidwUHaUgi5OI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f17cda0c54bf5b5d4c5e3ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f17cda0c54bf5b5d4c5e3ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f17cda0c54bf5b5d4c5e3ce",
+      "width": 64
+    }
+  ],
+  "label": "Hot Rock Records",
+  "name": "Sukiyaki",
+  "popularity": 0,
+  "release_date": "2017-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3zu5T9SW4eidwUHaUgi5OI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ZzOIAEw7joAghyA80c6D0",
+            "id": "6ZzOIAEw7joAghyA80c6D0",
+            "name": "Billy Vaughn",
+            "type": "artist",
+            "uri": "spotify:artist:6ZzOIAEw7joAghyA80c6D0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132867,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11EC5K2bbU77c5Ml4ZHswZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11EC5K2bbU77c5Ml4ZHswZ",
+        "id": "11EC5K2bbU77c5Ml4ZHswZ",
+        "is_local": false,
+        "name": "Sukiyaki",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11EC5K2bbU77c5Ml4ZHswZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ZzOIAEw7joAghyA80c6D0",
+            "id": "6ZzOIAEw7joAghyA80c6D0",
+            "name": "Billy Vaughn",
+            "type": "artist",
+            "uri": "spotify:artist:6ZzOIAEw7joAghyA80c6D0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147199,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BzblffR53zfapoRlhpmFr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BzblffR53zfapoRlhpmFr",
+        "id": "4BzblffR53zfapoRlhpmFr",
+        "is_local": false,
+        "name": "Happy Cowboy",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4BzblffR53zfapoRlhpmFr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3zu5T9SW4eidwUHaUgi5OI"
+}

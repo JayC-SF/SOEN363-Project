@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6OjbjDH6ZfL9NWdioYibGP",
+      "id": "6OjbjDH6ZfL9NWdioYibGP",
+      "name": "DLG.",
+      "type": "artist",
+      "uri": "spotify:artist:6OjbjDH6ZfL9NWdioYibGP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 DLG.",
+      "type": "C"
+    },
+    {
+      "text": "2019 DLG.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194997107283"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/082w0kWPKkY25GsoqFSXqP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/082w0kWPKkY25GsoqFSXqP",
+  "id": "082w0kWPKkY25GsoqFSXqP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e70bbef9a2c02163d35d4cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e70bbef9a2c02163d35d4cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519e70bbef9a2c02163d35d4cf",
+      "width": 64
+    }
+  ],
+  "label": "1208356 Records DK2",
+  "name": "Inside of My Eyelids",
+  "popularity": 0,
+  "release_date": "2020-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/082w0kWPKkY25GsoqFSXqP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OjbjDH6ZfL9NWdioYibGP",
+            "id": "6OjbjDH6ZfL9NWdioYibGP",
+            "name": "DLG.",
+            "type": "artist",
+            "uri": "spotify:artist:6OjbjDH6ZfL9NWdioYibGP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228891,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Y2QuvgYFm30gcsToZmojA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Y2QuvgYFm30gcsToZmojA",
+        "id": "4Y2QuvgYFm30gcsToZmojA",
+        "is_local": false,
+        "name": "Inside of My Eyelids",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Y2QuvgYFm30gcsToZmojA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:082w0kWPKkY25GsoqFSXqP"
+}

@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+      "id": "6PIIKavZx20FlVKyIvb4Um",
+      "name": "Calema",
+      "type": "artist",
+      "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+    }
+  ],
+  "available_markets": [
+    "PT"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Klasszik, distributed by Universal Music Portugal, S.A.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602445012008"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rNy63AH61061dNLCC3g4w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rNy63AH61061dNLCC3g4w",
+  "id": "1rNy63AH61061dNLCC3g4w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc12aa3f0523e1809c321b0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc12aa3f0523e1809c321b0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc12aa3f0523e1809c321b0d",
+      "width": 64
+    }
+  ],
+  "label": "Klasszik",
+  "name": "Tudo Por Amor",
+  "popularity": 39,
+  "release_date": "2015-08-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rNy63AH61061dNLCC3g4w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PIIKavZx20FlVKyIvb4Um",
+            "id": "6PIIKavZx20FlVKyIvb4Um",
+            "name": "Calema",
+            "type": "artist",
+            "uri": "spotify:artist:6PIIKavZx20FlVKyIvb4Um"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
+            },
+            "href": "https://api.spotify.com/v1/artists/17ABH2YXJGKpvpoqeeQLSP",
+            "id": "17ABH2YXJGKpvpoqeeQLSP",
+            "name": "Kataleya",
+            "type": "artist",
+            "uri": "spotify:artist:17ABH2YXJGKpvpoqeeQLSP"
+          }
+        ],
+        "available_markets": [
+          "PT"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206279,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6olVZD1OdrCYnm3twQW0hT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6olVZD1OdrCYnm3twQW0hT",
+        "id": "6olVZD1OdrCYnm3twQW0hT",
+        "is_local": false,
+        "name": "Tudo Por Amor",
+        "preview_url": "https://p.scdn.co/mp3-preview/3f979ff412a9b3d777f895417beedb9fbfba1da1?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6olVZD1OdrCYnm3twQW0hT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rNy63AH61061dNLCC3g4w"
+}

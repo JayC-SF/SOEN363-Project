@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UgUBnYpGyrYfGIfkMp08O",
+      "id": "1UgUBnYpGyrYfGIfkMp08O",
+      "name": "NightFunk",
+      "type": "artist",
+      "uri": "spotify:artist:1UgUBnYpGyrYfGIfkMp08O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Trick",
+      "type": "C"
+    },
+    {
+      "text": "2020 Trick",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060786563859"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5HRoPK4HRJwYr8Jubuds2q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5HRoPK4HRJwYr8Jubuds2q",
+  "id": "5HRoPK4HRJwYr8Jubuds2q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d255adf92e32491fabe86bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d255adf92e32491fabe86bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d255adf92e32491fabe86bf",
+      "width": 64
+    }
+  ],
+  "label": "Trick",
+  "name": "About Your Love",
+  "popularity": 0,
+  "release_date": "2020-08-14",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5HRoPK4HRJwYr8Jubuds2q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UgUBnYpGyrYfGIfkMp08O",
+            "id": "1UgUBnYpGyrYfGIfkMp08O",
+            "name": "NightFunk",
+            "type": "artist",
+            "uri": "spotify:artist:1UgUBnYpGyrYfGIfkMp08O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 399847,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2domI5FWlFEvEFME9IfaZR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2domI5FWlFEvEFME9IfaZR",
+        "id": "2domI5FWlFEvEFME9IfaZR",
+        "is_local": false,
+        "name": "About Your Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2domI5FWlFEvEFME9IfaZR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UgUBnYpGyrYfGIfkMp08O",
+            "id": "1UgUBnYpGyrYfGIfkMp08O",
+            "name": "NightFunk",
+            "type": "artist",
+            "uri": "spotify:artist:1UgUBnYpGyrYfGIfkMp08O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 402541,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/449o2uD0IqsLdNSXZ5QGnl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/449o2uD0IqsLdNSXZ5QGnl",
+        "id": "449o2uD0IqsLdNSXZ5QGnl",
+        "is_local": false,
+        "name": "Let Go",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:449o2uD0IqsLdNSXZ5QGnl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5HRoPK4HRJwYr8Jubuds2q"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vTG3EyFrsARtIGDWZNRzu",
+      "id": "5vTG3EyFrsARtIGDWZNRzu",
+      "name": "Hal",
+      "type": "artist",
+      "uri": "spotify:artist:5vTG3EyFrsARtIGDWZNRzu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Typeast Record",
+      "type": "C"
+    },
+    {
+      "text": "2022 Typeast Record",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197274709859"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3YfSbSFwpbxxGb1wGl1H20",
+  "id": "3YfSbSFwpbxxGb1wGl1H20",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734fd7215bb5b21510c5fa961c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024fd7215bb5b21510c5fa961c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514fd7215bb5b21510c5fa961c",
+      "width": 64
+    }
+  ],
+  "label": "Typeast Record",
+  "name": "terima kasih",
+  "popularity": 13,
+  "release_date": "2022-10-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3YfSbSFwpbxxGb1wGl1H20/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vTG3EyFrsARtIGDWZNRzu",
+            "id": "5vTG3EyFrsARtIGDWZNRzu",
+            "name": "Hal",
+            "type": "artist",
+            "uri": "spotify:artist:5vTG3EyFrsARtIGDWZNRzu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204137,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JtEuERxvGfXYcg0ALOwPu",
+        "id": "0JtEuERxvGfXYcg0ALOwPu",
+        "is_local": false,
+        "name": "terima kasih",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0JtEuERxvGfXYcg0ALOwPu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3YfSbSFwpbxxGb1wGl1H20"
+}

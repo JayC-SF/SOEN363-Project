@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+      },
+      "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+      "id": "6zvul52xwTWzilBZl6BUbT",
+      "name": "Pixies",
+      "type": "artist",
+      "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 Pixies Recording Inc, under exclusive licence to BMG Rights Management (UK) Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 Pixies Recording Inc, under exclusive licence to BMG Rights Management (UK) Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538641639"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5mG3UVo96e9rzlnoITplP5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5mG3UVo96e9rzlnoITplP5",
+  "id": "5mG3UVo96e9rzlnoITplP5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5fb40f4f18e344846fd04b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5fb40f4f18e344846fd04b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5fb40f4f18e344846fd04b1",
+      "width": 64
+    }
+  ],
+  "label": "Infectious Music",
+  "name": "Hear Me Out",
+  "popularity": 0,
+  "release_date": "2020-09-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5mG3UVo96e9rzlnoITplP5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+            "id": "6zvul52xwTWzilBZl6BUbT",
+            "name": "Pixies",
+            "type": "artist",
+            "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160878,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QxIKANy04kD2RJdzq1Sdi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QxIKANy04kD2RJdzq1Sdi",
+        "id": "6QxIKANy04kD2RJdzq1Sdi",
+        "is_local": false,
+        "name": "Hear Me Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6QxIKANy04kD2RJdzq1Sdi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5mG3UVo96e9rzlnoITplP5"
+}

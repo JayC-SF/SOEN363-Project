@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+      "name": "My Chemical Romance",
+      "type": "artist",
+      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "FR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 Reprise Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 Reprise Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391982353"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3A1l195b8jDN3qY8AGoXCl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3A1l195b8jDN3qY8AGoXCl",
+  "id": "3A1l195b8jDN3qY8AGoXCl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c2e81b11121bd23738fbd67d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c2e81b11121bd23738fbd67d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c2e81b11121bd23738fbd67d",
+      "width": 64
+    }
+  ],
+  "label": "Reprise",
+  "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+  "popularity": 24,
+  "release_date": "2010-09-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3A1l195b8jDN3qY8AGoXCl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+            "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+            "name": "My Chemical Romance",
+            "type": "artist",
+            "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "FR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 203426,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FbMKftNTXCKiBYSf0TQrs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FbMKftNTXCKiBYSf0TQrs",
+        "id": "5FbMKftNTXCKiBYSf0TQrs",
+        "is_local": false,
+        "name": "Na Na Na (Na Na Na Na Na Na Na Na Na) - Single Version",
+        "preview_url": "https://p.scdn.co/mp3-preview/376ae3e5738ecab856cfa47f3746c77f48a0ee6d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5FbMKftNTXCKiBYSf0TQrs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3A1l195b8jDN3qY8AGoXCl"
+}

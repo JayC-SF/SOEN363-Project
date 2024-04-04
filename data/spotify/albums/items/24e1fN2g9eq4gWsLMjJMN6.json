@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qlhXQA7QMXRwHtfTcQoyJ",
+      "id": "7qlhXQA7QMXRwHtfTcQoyJ",
+      "name": "Infraction",
+      "type": "artist",
+      "uri": "spotify:artist:7qlhXQA7QMXRwHtfTcQoyJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Infraction",
+      "type": "C"
+    },
+    {
+      "text": "2021 Infraction",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "692531203045"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24e1fN2g9eq4gWsLMjJMN6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/24e1fN2g9eq4gWsLMjJMN6",
+  "id": "24e1fN2g9eq4gWsLMjJMN6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380bded210fc15d61b62633ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280bded210fc15d61b62633ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180bded210fc15d61b62633ec",
+      "width": 64
+    }
+  ],
+  "label": "Infraction",
+  "name": "Control",
+  "popularity": 0,
+  "release_date": "2021-12-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/24e1fN2g9eq4gWsLMjJMN6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qlhXQA7QMXRwHtfTcQoyJ",
+            "id": "7qlhXQA7QMXRwHtfTcQoyJ",
+            "name": "Infraction",
+            "type": "artist",
+            "uri": "spotify:artist:7qlhXQA7QMXRwHtfTcQoyJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 258678,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lYZ5UWuPbXLX357pPONa7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6lYZ5UWuPbXLX357pPONa7",
+        "id": "6lYZ5UWuPbXLX357pPONa7",
+        "is_local": false,
+        "name": "Control",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6lYZ5UWuPbXLX357pPONa7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:24e1fN2g9eq4gWsLMjJMN6"
+}

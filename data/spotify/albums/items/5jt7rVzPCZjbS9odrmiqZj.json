@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+      },
+      "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+      "id": "3JhNCzhSMTxs9WLGJJxWOY",
+      "name": "Macklemore",
+      "type": "artist",
+      "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Bendo LLC",
+      "type": "C"
+    },
+    {
+      "text": "2017 Bendo LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "798577064227"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5jt7rVzPCZjbS9odrmiqZj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5jt7rVzPCZjbS9odrmiqZj",
+  "id": "5jt7rVzPCZjbS9odrmiqZj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273680f96eb3f25997ee13ab941",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02680f96eb3f25997ee13ab941",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851680f96eb3f25997ee13ab941",
+      "width": 64
+    }
+  ],
+  "label": "Bendo LLC",
+  "name": "Marmalade (feat. Lil Yachty)",
+  "popularity": 0,
+  "release_date": "2017-07-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5jt7rVzPCZjbS9odrmiqZj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+            "id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "name": "Macklemore",
+            "type": "artist",
+            "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+            },
+            "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+            "id": "6icQOAFXDZKsumw3YXyusw",
+            "name": "Lil Yachty",
+            "type": "artist",
+            "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261614,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RYXEibxMami3QuT8kn4Iz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RYXEibxMami3QuT8kn4Iz",
+        "id": "0RYXEibxMami3QuT8kn4Iz",
+        "is_local": false,
+        "name": "Marmalade (feat. Lil Yachty)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0RYXEibxMami3QuT8kn4Iz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5jt7rVzPCZjbS9odrmiqZj"
+}

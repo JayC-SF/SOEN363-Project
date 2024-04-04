@@ -1,0 +1,97 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
+      },
+      "href": "https://api.spotify.com/v1/artists/2f9PTWJfMMDTAFZcvHy1Z5",
+      "id": "2f9PTWJfMMDTAFZcvHy1Z5",
+      "name": "OVERWERK",
+      "type": "artist",
+      "uri": "spotify:artist:2f9PTWJfMMDTAFZcvHy1Z5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Paradigm Records",
+      "type": "C"
+    },
+    {
+      "text": "2012 Paradigm Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78pNPJNWdzmfCXp2whQapQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78pNPJNWdzmfCXp2whQapQ",
+  "id": "78pNPJNWdzmfCXp2whQapQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382b61b4c3a5f43cf0e6d0731",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282b61b4c3a5f43cf0e6d0731",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182b61b4c3a5f43cf0e6d0731",
+      "width": 64
+    }
+  ],
+  "label": "Paradigm Records",
+  "name": "Daybreak",
+  "popularity": 0,
+  "release_date": "2012-10-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78pNPJNWdzmfCXp2whQapQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
+            },
+            "href": "https://api.spotify.com/v1/artists/2f9PTWJfMMDTAFZcvHy1Z5",
+            "id": "2f9PTWJfMMDTAFZcvHy1Z5",
+            "name": "OVERWERK",
+            "type": "artist",
+            "uri": "spotify:artist:2f9PTWJfMMDTAFZcvHy1Z5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 304326,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Guh8dgDr7ErYOmcFiuUrs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Guh8dgDr7ErYOmcFiuUrs",
+        "id": "7Guh8dgDr7ErYOmcFiuUrs",
+        "is_local": false,
+        "name": "Daybreak - GoPro HERO3 Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7Guh8dgDr7ErYOmcFiuUrs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78pNPJNWdzmfCXp2whQapQ"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CIThLiaeJxWgG5xAgL3p0",
+      "id": "2CIThLiaeJxWgG5xAgL3p0",
+      "name": "Alaska Reid",
+      "type": "artist",
+      "uri": "spotify:artist:2CIThLiaeJxWgG5xAgL3p0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Terrible Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Terrible Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195081854991"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5TfWujT4cKEvWatMebXCxg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5TfWujT4cKEvWatMebXCxg",
+  "id": "5TfWujT4cKEvWatMebXCxg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358d1249b82215068ce3c2a9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258d1249b82215068ce3c2a9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158d1249b82215068ce3c2a9c",
+      "width": 64
+    }
+  ],
+  "label": "Terrible Records",
+  "name": "Amber",
+  "popularity": 0,
+  "release_date": "2020-03-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5TfWujT4cKEvWatMebXCxg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CIThLiaeJxWgG5xAgL3p0",
+            "id": "2CIThLiaeJxWgG5xAgL3p0",
+            "name": "Alaska Reid",
+            "type": "artist",
+            "uri": "spotify:artist:2CIThLiaeJxWgG5xAgL3p0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VKUcmnPFcqFzJ16nvEuqg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2VKUcmnPFcqFzJ16nvEuqg",
+        "id": "2VKUcmnPFcqFzJ16nvEuqg",
+        "is_local": false,
+        "name": "Amber",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2VKUcmnPFcqFzJ16nvEuqg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5TfWujT4cKEvWatMebXCxg"
+}

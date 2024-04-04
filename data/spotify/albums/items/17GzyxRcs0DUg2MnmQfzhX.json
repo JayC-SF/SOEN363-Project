@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+      },
+      "href": "https://api.spotify.com/v1/artists/6mMtnxEQkYoY5FfJIQ9Rhb",
+      "id": "6mMtnxEQkYoY5FfJIQ9Rhb",
+      "name": "Runtown",
+      "type": "artist",
+      "uri": "spotify:artist:6mMtnxEQkYoY5FfJIQ9Rhb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Ericmany",
+      "type": "C"
+    },
+    {
+      "text": "2016 Ericmany",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718709763"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/17GzyxRcs0DUg2MnmQfzhX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/17GzyxRcs0DUg2MnmQfzhX",
+  "id": "17GzyxRcs0DUg2MnmQfzhX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9ea476f7d7dfcad72ae9594",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9ea476f7d7dfcad72ae9594",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9ea476f7d7dfcad72ae9594",
+      "width": 64
+    }
+  ],
+  "label": "Ericmany",
+  "name": "Mad over You",
+  "popularity": 0,
+  "release_date": "2016-11-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/17GzyxRcs0DUg2MnmQfzhX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mMtnxEQkYoY5FfJIQ9Rhb",
+            "id": "6mMtnxEQkYoY5FfJIQ9Rhb",
+            "name": "Runtown",
+            "type": "artist",
+            "uri": "spotify:artist:6mMtnxEQkYoY5FfJIQ9Rhb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56FUvV0o4FVhiKQPc6crQ7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56FUvV0o4FVhiKQPc6crQ7",
+        "id": "56FUvV0o4FVhiKQPc6crQ7",
+        "is_local": false,
+        "name": "Mad over You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:56FUvV0o4FVhiKQPc6crQ7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:17GzyxRcs0DUg2MnmQfzhX"
+}

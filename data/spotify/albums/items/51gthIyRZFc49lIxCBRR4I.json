@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TFAleOJ7VJt3yieCFy8J8"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TFAleOJ7VJt3yieCFy8J8",
+      "id": "5TFAleOJ7VJt3yieCFy8J8",
+      "name": "Lil Kaine",
+      "type": "artist",
+      "uri": "spotify:artist:5TFAleOJ7VJt3yieCFy8J8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 997393 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2019 997393 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194156594534"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51gthIyRZFc49lIxCBRR4I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51gthIyRZFc49lIxCBRR4I",
+  "id": "51gthIyRZFc49lIxCBRR4I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734854c6a7a9fba9ca27f2b9ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024854c6a7a9fba9ca27f2b9ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514854c6a7a9fba9ca27f2b9ae",
+      "width": 64
+    }
+  ],
+  "label": "997393 Records DK",
+  "name": "Packin Steel",
+  "popularity": 0,
+  "release_date": "2019-04-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51gthIyRZFc49lIxCBRR4I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TFAleOJ7VJt3yieCFy8J8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TFAleOJ7VJt3yieCFy8J8",
+            "id": "5TFAleOJ7VJt3yieCFy8J8",
+            "name": "Lil Kaine",
+            "type": "artist",
+            "uri": "spotify:artist:5TFAleOJ7VJt3yieCFy8J8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+            },
+            "href": "https://api.spotify.com/v1/artists/0dlDsD7y6ccmDm8tuWCU6F",
+            "id": "0dlDsD7y6ccmDm8tuWCU6F",
+            "name": "Freddie Dredd",
+            "type": "artist",
+            "uri": "spotify:artist:0dlDsD7y6ccmDm8tuWCU6F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111960,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1plmhnxNAl7cOY2RrdQA8V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1plmhnxNAl7cOY2RrdQA8V",
+        "id": "1plmhnxNAl7cOY2RrdQA8V",
+        "is_local": false,
+        "name": "Packin Steel",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1plmhnxNAl7cOY2RrdQA8V"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51gthIyRZFc49lIxCBRR4I"
+}

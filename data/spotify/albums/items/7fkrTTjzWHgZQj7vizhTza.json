@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+      },
+      "href": "https://api.spotify.com/v1/artists/1L9i6qZYIGQedgM9QLSyzb",
+      "id": "1L9i6qZYIGQedgM9QLSyzb",
+      "name": "Klingande",
+      "type": "artist",
+      "uri": "spotify:artist:1L9i6qZYIGQedgM9QLSyzb"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Klingande Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444317849"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7fkrTTjzWHgZQj7vizhTza",
+  "id": "7fkrTTjzWHgZQj7vizhTza",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a2052309e1633bc181b3ff2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a2052309e1633bc181b3ff2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a2052309e1633bc181b3ff2",
+      "width": 64
+    }
+  ],
+  "label": "Jive Epic",
+  "name": "Jubel (Radio Edit)",
+  "popularity": 42,
+  "release_date": "2013-11-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7fkrTTjzWHgZQj7vizhTza/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+            },
+            "href": "https://api.spotify.com/v1/artists/1L9i6qZYIGQedgM9QLSyzb",
+            "id": "1L9i6qZYIGQedgM9QLSyzb",
+            "name": "Klingande",
+            "type": "artist",
+            "uri": "spotify:artist:1L9i6qZYIGQedgM9QLSyzb"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "EE",
+          "FI",
+          "IS",
+          "LT",
+          "LV",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 201626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0D2VYiRlBv43asKUgieZaM",
+        "id": "0D2VYiRlBv43asKUgieZaM",
+        "is_local": false,
+        "name": "Jubel - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0D2VYiRlBv43asKUgieZaM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7fkrTTjzWHgZQj7vizhTza"
+}

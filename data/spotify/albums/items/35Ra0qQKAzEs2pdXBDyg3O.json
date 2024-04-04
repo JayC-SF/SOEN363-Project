@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+      "id": "3YJDqtTSjydvUpTvU1fJ6O",
+      "name": "CG5",
+      "type": "artist",
+      "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 632903 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2017 632903 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840094459434"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35Ra0qQKAzEs2pdXBDyg3O"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/35Ra0qQKAzEs2pdXBDyg3O",
+  "id": "35Ra0qQKAzEs2pdXBDyg3O",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739320b2ba51a971e56a5e6e63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029320b2ba51a971e56a5e6e63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519320b2ba51a971e56a5e6e63",
+      "width": 64
+    }
+  ],
+  "label": "632903 Records DK",
+  "name": "Spotlight",
+  "popularity": 0,
+  "release_date": "2017-07-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35Ra0qQKAzEs2pdXBDyg3O/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+            "id": "3YJDqtTSjydvUpTvU1fJ6O",
+            "name": "CG5",
+            "type": "artist",
+            "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201769,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MDaewly1vhrn27kOKlHvL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MDaewly1vhrn27kOKlHvL",
+        "id": "4MDaewly1vhrn27kOKlHvL",
+        "is_local": false,
+        "name": "Spotlight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MDaewly1vhrn27kOKlHvL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:35Ra0qQKAzEs2pdXBDyg3O"
+}

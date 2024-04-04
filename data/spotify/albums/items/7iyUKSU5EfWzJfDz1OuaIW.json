@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sfntPvfX8lkDbep7NM4A7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sfntPvfX8lkDbep7NM4A7",
+      "id": "3sfntPvfX8lkDbep7NM4A7",
+      "name": "RAVEINSIDE",
+      "type": "artist",
+      "uri": "spotify:artist:3sfntPvfX8lkDbep7NM4A7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0RCog3hlBPnHPFxyQRUKma"
+      },
+      "href": "https://api.spotify.com/v1/artists/0RCog3hlBPnHPFxyQRUKma",
+      "id": "0RCog3hlBPnHPFxyQRUKma",
+      "name": "Jan JauseMeyer",
+      "type": "artist",
+      "uri": "spotify:artist:0RCog3hlBPnHPFxyQRUKma"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Jause Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Jause Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616403941580"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7iyUKSU5EfWzJfDz1OuaIW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7iyUKSU5EfWzJfDz1OuaIW",
+  "id": "7iyUKSU5EfWzJfDz1OuaIW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389ef254a153cf3d55db83cab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289ef254a153cf3d55db83cab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189ef254a153cf3d55db83cab",
+      "width": 64
+    }
+  ],
+  "label": "Jause Records",
+  "name": "Jause",
+  "popularity": 0,
+  "release_date": "2020-02-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7iyUKSU5EfWzJfDz1OuaIW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sfntPvfX8lkDbep7NM4A7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sfntPvfX8lkDbep7NM4A7",
+            "id": "3sfntPvfX8lkDbep7NM4A7",
+            "name": "RAVEINSIDE",
+            "type": "artist",
+            "uri": "spotify:artist:3sfntPvfX8lkDbep7NM4A7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0RCog3hlBPnHPFxyQRUKma"
+            },
+            "href": "https://api.spotify.com/v1/artists/0RCog3hlBPnHPFxyQRUKma",
+            "id": "0RCog3hlBPnHPFxyQRUKma",
+            "name": "Jan JauseMeyer",
+            "type": "artist",
+            "uri": "spotify:artist:0RCog3hlBPnHPFxyQRUKma"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181809,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZJexq31qUhJIG272rLNqN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ZJexq31qUhJIG272rLNqN",
+        "id": "5ZJexq31qUhJIG272rLNqN",
+        "is_local": false,
+        "name": "Jause",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ZJexq31qUhJIG272rLNqN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7iyUKSU5EfWzJfDz1OuaIW"
+}

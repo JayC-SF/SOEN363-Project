@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+      },
+      "href": "https://api.spotify.com/v1/artists/5eZ9mxslGvxjRBTWbRfMfV",
+      "id": "5eZ9mxslGvxjRBTWbRfMfV",
+      "name": "overrated",
+      "type": "artist",
+      "uri": "spotify:artist:5eZ9mxslGvxjRBTWbRfMfV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 MB Records ltd",
+      "type": "C"
+    },
+    {
+      "text": "2022 MB Records ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859763289630"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2X0t8PZu5L86L9dFAHnXPf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2X0t8PZu5L86L9dFAHnXPf",
+  "id": "2X0t8PZu5L86L9dFAHnXPf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d97845532f622f25f437ff3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d97845532f622f25f437ff3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d97845532f622f25f437ff3",
+      "width": 64
+    }
+  ],
+  "label": "MB Records ltd",
+  "name": "Far Away",
+  "popularity": 0,
+  "release_date": "2022-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2X0t8PZu5L86L9dFAHnXPf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+            },
+            "href": "https://api.spotify.com/v1/artists/5eZ9mxslGvxjRBTWbRfMfV",
+            "id": "5eZ9mxslGvxjRBTWbRfMfV",
+            "name": "overrated",
+            "type": "artist",
+            "uri": "spotify:artist:5eZ9mxslGvxjRBTWbRfMfV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190508,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TkoFWk6ndbHjA08SOgCbM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1TkoFWk6ndbHjA08SOgCbM",
+        "id": "1TkoFWk6ndbHjA08SOgCbM",
+        "is_local": false,
+        "name": "Far Away",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1TkoFWk6ndbHjA08SOgCbM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2X0t8PZu5L86L9dFAHnXPf"
+}

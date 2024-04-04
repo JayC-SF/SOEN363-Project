@@ -1,0 +1,450 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+      "id": "1FcB6xMihhP9Hb6AdGVbWe",
+      "name": "Desmond Dekker",
+      "type": "artist",
+      "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+      "id": "1tLdsPvBpCxjtTTWq3KklG",
+      "name": "ACES",
+      "type": "artist",
+      "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1968 \u00a9 2016 Sanctuary Records Group Ltd., a BMG Company",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1968 Sanctuary Records Group Ltd., a BMG Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538227048"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/46BSjIgwm2NarXXFM8fEjX",
+  "id": "46BSjIgwm2NarXXFM8fEjX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aca5ea27a0fb4679bcd5d571",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aca5ea27a0fb4679bcd5d571",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aca5ea27a0fb4679bcd5d571",
+      "width": 64
+    }
+  ],
+  "label": "Trojan Records",
+  "name": "The Israelites",
+  "popularity": 6,
+  "release_date": "1968-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/46BSjIgwm2NarXXFM8fEjX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0di7hMT6o1ogeUN1XDB9Ft",
+        "id": "0di7hMT6o1ogeUN1XDB9Ft",
+        "is_local": false,
+        "name": "Israelites",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0di7hMT6o1ogeUN1XDB9Ft"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YhfzWnzZDXVI9u0HeAL5a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YhfzWnzZDXVI9u0HeAL5a",
+        "id": "6YhfzWnzZDXVI9u0HeAL5a",
+        "is_local": false,
+        "name": "It's Not Easy",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6YhfzWnzZDXVI9u0HeAL5a"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HlTlIowLVeRKi7lf99GUc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HlTlIowLVeRKi7lf99GUc",
+        "id": "1HlTlIowLVeRKi7lf99GUc",
+        "is_local": false,
+        "name": "Intensified (aka Music Like Dirt)",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1HlTlIowLVeRKi7lf99GUc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6huYpqUHopxZncp24IEs94"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6huYpqUHopxZncp24IEs94",
+        "id": "6huYpqUHopxZncp24IEs94",
+        "is_local": false,
+        "name": "Tips of My Fingers",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6huYpqUHopxZncp24IEs94"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XlyUwyH8J77IvdUwD3EI1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XlyUwyH8J77IvdUwD3EI1",
+        "id": "1XlyUwyH8J77IvdUwD3EI1",
+        "is_local": false,
+        "name": "Too Much Too Soon",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1XlyUwyH8J77IvdUwD3EI1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tKAI8igKXPqovihv4Px57"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tKAI8igKXPqovihv4Px57",
+        "id": "1tKAI8igKXPqovihv4Px57",
+        "is_local": false,
+        "name": "It Mek",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1tKAI8igKXPqovihv4Px57"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128199,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kNu1eo0TtP1wJjMi5V4L0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kNu1eo0TtP1wJjMi5V4L0",
+        "id": "1kNu1eo0TtP1wJjMi5V4L0",
+        "is_local": false,
+        "name": "Nincompoop",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1kNu1eo0TtP1wJjMi5V4L0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sMFLGoOZ9rQ3Rl7YfGHR6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2sMFLGoOZ9rQ3Rl7YfGHR6",
+        "id": "2sMFLGoOZ9rQ3Rl7YfGHR6",
+        "is_local": false,
+        "name": "Problems",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2sMFLGoOZ9rQ3Rl7YfGHR6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pMdP6siW5A7t8zGYF2EkU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pMdP6siW5A7t8zGYF2EkU",
+        "id": "6pMdP6siW5A7t8zGYF2EkU",
+        "is_local": false,
+        "name": "For Once In My Life",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6pMdP6siW5A7t8zGYF2EkU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FcB6xMihhP9Hb6AdGVbWe",
+            "id": "1FcB6xMihhP9Hb6AdGVbWe",
+            "name": "Desmond Dekker",
+            "type": "artist",
+            "uri": "spotify:artist:1FcB6xMihhP9Hb6AdGVbWe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tLdsPvBpCxjtTTWq3KklG",
+            "id": "1tLdsPvBpCxjtTTWq3KklG",
+            "name": "ACES",
+            "type": "artist",
+            "uri": "spotify:artist:1tLdsPvBpCxjtTTWq3KklG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7x3VOXxugQEG5LSAU4nLgm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7x3VOXxugQEG5LSAU4nLgm",
+        "id": "7x3VOXxugQEG5LSAU4nLgm",
+        "is_local": false,
+        "name": "Rude Boy Train",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7x3VOXxugQEG5LSAU4nLgm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:46BSjIgwm2NarXXFM8fEjX"
+}

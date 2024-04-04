@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+      },
+      "href": "https://api.spotify.com/v1/artists/0c6BBWTsX4cGRLanSDldSc",
+      "id": "0c6BBWTsX4cGRLanSDldSc",
+      "name": "Boybreed",
+      "type": "artist",
+      "uri": "spotify:artist:0c6BBWTsX4cGRLanSDldSc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Bovibes Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2016 Bovibes Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0632181486498"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1LHBcrN3NeF6OeXq94J3kE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1LHBcrN3NeF6OeXq94J3kE",
+  "id": "1LHBcrN3NeF6OeXq94J3kE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273281c5388ba43eaffaf5cd511",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02281c5388ba43eaffaf5cd511",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851281c5388ba43eaffaf5cd511",
+      "width": 64
+    }
+  ],
+  "label": "Bovibes Entertainment",
+  "name": "Tumbo Tumbo",
+  "popularity": 0,
+  "release_date": "2016-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1LHBcrN3NeF6OeXq94J3kE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+            },
+            "href": "https://api.spotify.com/v1/artists/0c6BBWTsX4cGRLanSDldSc",
+            "id": "0c6BBWTsX4cGRLanSDldSc",
+            "name": "Boybreed",
+            "type": "artist",
+            "uri": "spotify:artist:0c6BBWTsX4cGRLanSDldSc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187155,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74r9hQP1dApzVVz3U0zsGZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74r9hQP1dApzVVz3U0zsGZ",
+        "id": "74r9hQP1dApzVVz3U0zsGZ",
+        "is_local": false,
+        "name": "Tumbo Tumbo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74r9hQP1dApzVVz3U0zsGZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1LHBcrN3NeF6OeXq94J3kE"
+}

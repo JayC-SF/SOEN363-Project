@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+      },
+      "href": "https://api.spotify.com/v1/artists/6083C1SYbF1b4iMciTbpbv",
+      "id": "6083C1SYbF1b4iMciTbpbv",
+      "name": "SPOOKYPBL",
+      "type": "artist",
+      "uri": "spotify:artist:6083C1SYbF1b4iMciTbpbv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 PBL",
+      "type": "C"
+    },
+    {
+      "text": "2022 PBL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197046443134"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04Z6YSQyZmwz15nrj3l0Ad",
+  "id": "04Z6YSQyZmwz15nrj3l0Ad",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c148ac573e41a57c44d4b8b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c148ac573e41a57c44d4b8b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c148ac573e41a57c44d4b8b",
+      "width": 64
+    }
+  ],
+  "label": "PBL",
+  "name": "Freestyle",
+  "popularity": 0,
+  "release_date": "2022-07-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04Z6YSQyZmwz15nrj3l0Ad/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6083C1SYbF1b4iMciTbpbv",
+            "id": "6083C1SYbF1b4iMciTbpbv",
+            "name": "SPOOKYPBL",
+            "type": "artist",
+            "uri": "spotify:artist:6083C1SYbF1b4iMciTbpbv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 88235,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iu3TLcZuQwchIvhiN22ma",
+        "id": "2iu3TLcZuQwchIvhiN22ma",
+        "is_local": false,
+        "name": "Freestyle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2iu3TLcZuQwchIvhiN22ma"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04Z6YSQyZmwz15nrj3l0Ad"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
+      },
+      "href": "https://api.spotify.com/v1/artists/5jK1BdSQerlxAhyHMKpXe6",
+      "id": "5jK1BdSQerlxAhyHMKpXe6",
+      "name": "deadsoulsociety",
+      "type": "artist",
+      "uri": "spotify:artist:5jK1BdSQerlxAhyHMKpXe6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 D.S.S.",
+      "type": "C"
+    },
+    {
+      "text": "2023 D.S.S.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197546313036"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1nuEiBJJHxykqsmR5RQMAk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1nuEiBJJHxykqsmR5RQMAk",
+  "id": "1nuEiBJJHxykqsmR5RQMAk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b35d313e97f191921faa4037",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b35d313e97f191921faa4037",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b35d313e97f191921faa4037",
+      "width": 64
+    }
+  ],
+  "label": "D.S.S.",
+  "name": "Sucka For Love",
+  "popularity": 5,
+  "release_date": "2023-02-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1nuEiBJJHxykqsmR5RQMAk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5jK1BdSQerlxAhyHMKpXe6",
+            "id": "5jK1BdSQerlxAhyHMKpXe6",
+            "name": "deadsoulsociety",
+            "type": "artist",
+            "uri": "spotify:artist:5jK1BdSQerlxAhyHMKpXe6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145708,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3llusjXepkRgATV3hPgpvd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3llusjXepkRgATV3hPgpvd",
+        "id": "3llusjXepkRgATV3hPgpvd",
+        "is_local": false,
+        "name": "Sucka For Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3llusjXepkRgATV3hPgpvd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1nuEiBJJHxykqsmR5RQMAk"
+}

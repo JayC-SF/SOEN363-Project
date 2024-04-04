@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FDVwpnG37ZDbUrC9kQTRL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FDVwpnG37ZDbUrC9kQTRL",
+      "id": "7FDVwpnG37ZDbUrC9kQTRL",
+      "name": "Kayvahn",
+      "type": "artist",
+      "uri": "spotify:artist:7FDVwpnG37ZDbUrC9kQTRL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1u92szWM3Un6rslftZUyTJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1u92szWM3Un6rslftZUyTJ",
+      "id": "1u92szWM3Un6rslftZUyTJ",
+      "name": "K-Si Yang",
+      "type": "artist",
+      "uri": "spotify:artist:1u92szWM3Un6rslftZUyTJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Go For Gold Music Group",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Go For Gold Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497032853"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gJ39tAOY5kys8UuY1oyWF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5gJ39tAOY5kys8UuY1oyWF",
+  "id": "5gJ39tAOY5kys8UuY1oyWF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ef914b94f5adee4dad8ce89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ef914b94f5adee4dad8ce89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ef914b94f5adee4dad8ce89",
+      "width": 64
+    }
+  ],
+  "label": "Go For Gold Music Group",
+  "name": "I Got U",
+  "popularity": 0,
+  "release_date": "2020-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5gJ39tAOY5kys8UuY1oyWF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FDVwpnG37ZDbUrC9kQTRL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FDVwpnG37ZDbUrC9kQTRL",
+            "id": "7FDVwpnG37ZDbUrC9kQTRL",
+            "name": "Kayvahn",
+            "type": "artist",
+            "uri": "spotify:artist:7FDVwpnG37ZDbUrC9kQTRL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1u92szWM3Un6rslftZUyTJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1u92szWM3Un6rslftZUyTJ",
+            "id": "1u92szWM3Un6rslftZUyTJ",
+            "name": "K-Si Yang",
+            "type": "artist",
+            "uri": "spotify:artist:1u92szWM3Un6rslftZUyTJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RnfsDKtNkRkdO8cLAXnZR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4RnfsDKtNkRkdO8cLAXnZR",
+        "id": "4RnfsDKtNkRkdO8cLAXnZR",
+        "is_local": false,
+        "name": "I Got U",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4RnfsDKtNkRkdO8cLAXnZR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5gJ39tAOY5kys8UuY1oyWF"
+}

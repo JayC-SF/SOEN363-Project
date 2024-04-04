@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Darkroom/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Darkroom/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602438394289"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5mpsCCzPW31VL43nEgoB9d"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5mpsCCzPW31VL43nEgoB9d",
+  "id": "5mpsCCzPW31VL43nEgoB9d",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fc9004374cb795c362d812c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fc9004374cb795c362d812c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fc9004374cb795c362d812c",
+      "width": 64
+    }
+  ],
+  "label": "Darkroom/Interscope Records",
+  "name": "Lost Cause",
+  "popularity": 0,
+  "release_date": "2021-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5mpsCCzPW31VL43nEgoB9d/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "type": "artist",
+            "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212496,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fHNjvF6AU1LXVez0wnFvw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fHNjvF6AU1LXVez0wnFvw",
+        "id": "3fHNjvF6AU1LXVez0wnFvw",
+        "is_local": false,
+        "name": "Lost Cause",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3fHNjvF6AU1LXVez0wnFvw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5mpsCCzPW31VL43nEgoB9d"
+}

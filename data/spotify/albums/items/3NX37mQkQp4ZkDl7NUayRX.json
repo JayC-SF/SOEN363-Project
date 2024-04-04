@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+      },
+      "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV",
+      "id": "7J2lZBANizgPNfUzux31PV",
+      "name": "David Gray",
+      "type": "artist",
+      "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 iht Records Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2012 iht Records Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060186923680"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3NX37mQkQp4ZkDl7NUayRX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3NX37mQkQp4ZkDl7NUayRX",
+  "id": "3NX37mQkQp4ZkDl7NUayRX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c1b380dd74426a61febcdf9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c1b380dd74426a61febcdf9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c1b380dd74426a61febcdf9",
+      "width": 64
+    }
+  ],
+  "label": "iht Records",
+  "name": "Money (That's What I Want) [From Jim Beam's Live Music Series]",
+  "popularity": 0,
+  "release_date": "2012-07-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3NX37mQkQp4ZkDl7NUayRX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            },
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV",
+            "id": "7J2lZBANizgPNfUzux31PV",
+            "name": "David Gray",
+            "type": "artist",
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234270,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XYivthxU0wlRUBZ8JLfv3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XYivthxU0wlRUBZ8JLfv3",
+        "id": "4XYivthxU0wlRUBZ8JLfv3",
+        "is_local": false,
+        "name": "Money (That's What I Want) - From Jim Beam's Live Music Series",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4XYivthxU0wlRUBZ8JLfv3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3NX37mQkQp4ZkDl7NUayRX"
+}

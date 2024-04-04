@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+      },
+      "href": "https://api.spotify.com/v1/artists/3XxNRirzbjfLdDli06zMaB",
+      "id": "3XxNRirzbjfLdDli06zMaB",
+      "name": "Eyedress",
+      "type": "artist",
+      "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Lex Records Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2021 Lex Records Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0878390007394"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/16W9q4d4jeOqHsWqXvNQnU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/16W9q4d4jeOqHsWqXvNQnU",
+  "id": "16W9q4d4jeOqHsWqXvNQnU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dbf5be8bd5224e9ed7eebcae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dbf5be8bd5224e9ed7eebcae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dbf5be8bd5224e9ed7eebcae",
+      "width": 64
+    }
+  ],
+  "label": "Lex Records",
+  "name": "Something About You",
+  "popularity": 0,
+  "release_date": "2021-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/16W9q4d4jeOqHsWqXvNQnU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+            },
+            "href": "https://api.spotify.com/v1/artists/3XxNRirzbjfLdDli06zMaB",
+            "id": "3XxNRirzbjfLdDli06zMaB",
+            "name": "Eyedress",
+            "type": "artist",
+            "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+            },
+            "href": "https://api.spotify.com/v1/artists/34me8hAxavRmcDIwhxa3b7",
+            "id": "34me8hAxavRmcDIwhxa3b7",
+            "name": "Dent May",
+            "type": "artist",
+            "uri": "spotify:artist:34me8hAxavRmcDIwhxa3b7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153312,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kFFvTvmSgJeNkVKPFaplu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kFFvTvmSgJeNkVKPFaplu",
+        "id": "0kFFvTvmSgJeNkVKPFaplu",
+        "is_local": false,
+        "name": "Something About You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0kFFvTvmSgJeNkVKPFaplu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+            },
+            "href": "https://api.spotify.com/v1/artists/3XxNRirzbjfLdDli06zMaB",
+            "id": "3XxNRirzbjfLdDli06zMaB",
+            "name": "Eyedress",
+            "type": "artist",
+            "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 99515,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bNmoyvl1SC5VWAn4yP9qd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bNmoyvl1SC5VWAn4yP9qd",
+        "id": "4bNmoyvl1SC5VWAn4yP9qd",
+        "is_local": false,
+        "name": "Spit on Your Grave",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4bNmoyvl1SC5VWAn4yP9qd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:16W9q4d4jeOqHsWqXvNQnU"
+}

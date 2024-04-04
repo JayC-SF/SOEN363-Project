@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+      "id": "4V8Sr092TqfHkfAA5fXXqG",
+      "name": "Luis Fonsi",
+      "type": "artist",
+      "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+      "id": "4VMYDCV2IEDYJArk749S6m",
+      "name": "Daddy Yankee",
+      "type": "artist",
+      "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Universal Music Latin Entertainment, under exclusive license to Republic Records (RBMG/Def Jam Recordings)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Universal Music Latin Entertainment, under exclusive license to Republic Records (RBMG/Def Jam Recordings)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557655568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3smvpv7CdrhVcGYaNDLOqn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3smvpv7CdrhVcGYaNDLOqn",
+  "id": "3smvpv7CdrhVcGYaNDLOqn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8559d0280ffe2a2af6dacdf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8559d0280ffe2a2af6dacdf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d8559d0280ffe2a2af6dacdf",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Despacito Feat. Justin Bieber (Remix)",
+  "popularity": 0,
+  "release_date": "2017-04-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3smvpv7CdrhVcGYaNDLOqn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+            "id": "4V8Sr092TqfHkfAA5fXXqG",
+            "name": "Luis Fonsi",
+            "type": "artist",
+            "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+            },
+            "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+            "id": "4VMYDCV2IEDYJArk749S6m",
+            "name": "Daddy Yankee",
+            "type": "artist",
+            "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "type": "artist",
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5CtI0qwDJkDQGwXD1H1cLb",
+        "id": "5CtI0qwDJkDQGwXD1H1cLb",
+        "is_local": false,
+        "name": "Despacito - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5CtI0qwDJkDQGwXD1H1cLb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3smvpv7CdrhVcGYaNDLOqn"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1c7g2IlcGxfR51B2axtFbC",
+      "id": "1c7g2IlcGxfR51B2axtFbC",
+      "name": "Bossa",
+      "type": "artist",
+      "uri": "spotify:artist:1c7g2IlcGxfR51B2axtFbC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Bossa",
+      "type": "C"
+    },
+    {
+      "text": "2023 Bossa",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198053375067"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7bOoSkhQ3KudF0sHJCQnjR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7bOoSkhQ3KudF0sHJCQnjR",
+  "id": "7bOoSkhQ3KudF0sHJCQnjR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397f2c96ef5fb581dc971a03b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297f2c96ef5fb581dc971a03b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197f2c96ef5fb581dc971a03b",
+      "width": 64
+    }
+  ],
+  "label": "Bossa",
+  "name": "Too Much",
+  "popularity": 47,
+  "release_date": "2023-09-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7bOoSkhQ3KudF0sHJCQnjR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC"
+            },
+            "href": "https://api.spotify.com/v1/artists/1c7g2IlcGxfR51B2axtFbC",
+            "id": "1c7g2IlcGxfR51B2axtFbC",
+            "name": "Bossa",
+            "type": "artist",
+            "uri": "spotify:artist:1c7g2IlcGxfR51B2axtFbC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110005,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7M8mmYSshvL76MRZaPhb4S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7M8mmYSshvL76MRZaPhb4S",
+        "id": "7M8mmYSshvL76MRZaPhb4S",
+        "is_local": false,
+        "name": "Too Much",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7M8mmYSshvL76MRZaPhb4S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7bOoSkhQ3KudF0sHJCQnjR"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5czbzNZZfWpyFgZyfT3Mkk",
+      "id": "5czbzNZZfWpyFgZyfT3Mkk",
+      "name": "SIDEPIECE",
+      "type": "artist",
+      "uri": "spotify:artist:5czbzNZZfWpyFgZyfT3Mkk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Solotoko",
+      "type": "C"
+    },
+    {
+      "text": "2020 Solotoko",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616407715484"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7vU8SekvraoE9taXutICRS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7vU8SekvraoE9taXutICRS",
+  "id": "7vU8SekvraoE9taXutICRS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f37912a7feb8e661679a6cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f37912a7feb8e661679a6cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f37912a7feb8e661679a6cf",
+      "width": 64
+    }
+  ],
+  "label": "Solotoko",
+  "name": "Fallin for You",
+  "popularity": 1,
+  "release_date": "2020-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7vU8SekvraoE9taXutICRS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5czbzNZZfWpyFgZyfT3Mkk",
+            "id": "5czbzNZZfWpyFgZyfT3Mkk",
+            "name": "SIDEPIECE",
+            "type": "artist",
+            "uri": "spotify:artist:5czbzNZZfWpyFgZyfT3Mkk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 251843,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uP3xlyj70gIv29lGQ0jua"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uP3xlyj70gIv29lGQ0jua",
+        "id": "3uP3xlyj70gIv29lGQ0jua",
+        "is_local": false,
+        "name": "Fallin for You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3uP3xlyj70gIv29lGQ0jua"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7vU8SekvraoE9taXutICRS"
+}

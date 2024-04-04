@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3EJxT1yUtdzeTZEBZRT4Hq",
+      "id": "3EJxT1yUtdzeTZEBZRT4Hq",
+      "name": "Jen Payne",
+      "type": "artist",
+      "uri": "spotify:artist:3EJxT1yUtdzeTZEBZRT4Hq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Glasgow Underground Music Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Glasgow Underground",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "823220173213"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Ida0Y2VCPdNUdGAjIL5jZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Ida0Y2VCPdNUdGAjIL5jZ",
+  "id": "6Ida0Y2VCPdNUdGAjIL5jZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736636740ad33e0f43bedf2c6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026636740ad33e0f43bedf2c6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516636740ad33e0f43bedf2c6b",
+      "width": 64
+    }
+  ],
+  "label": "Glasgow Underground",
+  "name": "Pon De Replay",
+  "popularity": 0,
+  "release_date": "2022-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Ida0Y2VCPdNUdGAjIL5jZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3EJxT1yUtdzeTZEBZRT4Hq",
+            "id": "3EJxT1yUtdzeTZEBZRT4Hq",
+            "name": "Jen Payne",
+            "type": "artist",
+            "uri": "spotify:artist:3EJxT1yUtdzeTZEBZRT4Hq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 175238,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bykZoBZ4BA0lAraq2WuzR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2bykZoBZ4BA0lAraq2WuzR",
+        "id": "2bykZoBZ4BA0lAraq2WuzR",
+        "is_local": false,
+        "name": "Pon De Replay",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2bykZoBZ4BA0lAraq2WuzR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3EJxT1yUtdzeTZEBZRT4Hq",
+            "id": "3EJxT1yUtdzeTZEBZRT4Hq",
+            "name": "Jen Payne",
+            "type": "artist",
+            "uri": "spotify:artist:3EJxT1yUtdzeTZEBZRT4Hq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 352380,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fwrsGtvWo9n7Lbvui4IG4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fwrsGtvWo9n7Lbvui4IG4",
+        "id": "7fwrsGtvWo9n7Lbvui4IG4",
+        "is_local": false,
+        "name": "Pon De Replay - Extended Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7fwrsGtvWo9n7Lbvui4IG4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6Ida0Y2VCPdNUdGAjIL5jZ"
+}

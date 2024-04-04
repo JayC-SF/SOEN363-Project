@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+      },
+      "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+      "id": "0C0XlULifJtAgn6ZNCW2eu",
+      "name": "The Killers",
+      "type": "artist",
+      "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2013 The Island Def Jam Music Group",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2013 The Island Def Jam Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537556205"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5fCdDUSSP2C65fz5fqxQHd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5fCdDUSSP2C65fz5fqxQHd",
+  "id": "5fCdDUSSP2C65fz5fqxQHd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7c099f39033a7ef2920b299",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7c099f39033a7ef2920b299",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7c099f39033a7ef2920b299",
+      "width": 64
+    }
+  ],
+  "label": "Island Records",
+  "name": "Shot At The Night",
+  "popularity": 0,
+  "release_date": "2013-09-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5fCdDUSSP2C65fz5fqxQHd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+            "id": "0C0XlULifJtAgn6ZNCW2eu",
+            "name": "The Killers",
+            "type": "artist",
+            "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AZtv7mEE1jvZH6YOisyPa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AZtv7mEE1jvZH6YOisyPa",
+        "id": "7AZtv7mEE1jvZH6YOisyPa",
+        "is_local": false,
+        "name": "Shot At The Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AZtv7mEE1jvZH6YOisyPa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5fCdDUSSP2C65fz5fqxQHd"
+}

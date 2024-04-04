@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Dvx6p8JDyzeOPGmaCIH1L",
+      "id": "0Dvx6p8JDyzeOPGmaCIH1L",
+      "name": "RAF Camora",
+      "type": "artist",
+      "uri": "spotify:artist:0Dvx6p8JDyzeOPGmaCIH1L"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Indipendenza",
+      "type": "C"
+    },
+    {
+      "text": "2019 Indipendenza",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939383404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1BLoY0XQ3Yywsbk2Xkl6aT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1BLoY0XQ3Yywsbk2Xkl6aT",
+  "id": "1BLoY0XQ3Yywsbk2Xkl6aT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc3fb8694206f712e8b94bbc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc3fb8694206f712e8b94bbc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc3fb8694206f712e8b94bbc",
+      "width": 64
+    }
+  ],
+  "label": "Indipendenza",
+  "name": "Adriana",
+  "popularity": 0,
+  "release_date": "2019-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1BLoY0XQ3Yywsbk2Xkl6aT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Dvx6p8JDyzeOPGmaCIH1L",
+            "id": "0Dvx6p8JDyzeOPGmaCIH1L",
+            "name": "RAF Camora",
+            "type": "artist",
+            "uri": "spotify:artist:0Dvx6p8JDyzeOPGmaCIH1L"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165124,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4G3gFk4oyvt8klQEVJBzea"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4G3gFk4oyvt8klQEVJBzea",
+        "id": "4G3gFk4oyvt8klQEVJBzea",
+        "is_local": false,
+        "name": "Adriana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4G3gFk4oyvt8klQEVJBzea"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1BLoY0XQ3Yywsbk2Xkl6aT"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "name": "Justin Bieber",
+      "type": "artist",
+      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 The Island Def Jam Music Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 The Island Def Jam Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537006038"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/213vwR9KSvvZuWqOqmFosJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/213vwR9KSvvZuWqOqmFosJ",
+  "id": "213vwR9KSvvZuWqOqmFosJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363bc3930ac767daea115be81",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263bc3930ac767daea115be81",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163bc3930ac767daea115be81",
+      "width": 64
+    }
+  ],
+  "label": "Island Records",
+  "name": "Boyfriend",
+  "popularity": 0,
+  "release_date": "2012-03-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/213vwR9KSvvZuWqOqmFosJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "type": "artist",
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0V1bCU82tmXL8Z11JoRvyg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0V1bCU82tmXL8Z11JoRvyg",
+        "id": "0V1bCU82tmXL8Z11JoRvyg",
+        "is_local": false,
+        "name": "Boyfriend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0V1bCU82tmXL8Z11JoRvyg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:213vwR9KSvvZuWqOqmFosJ"
+}

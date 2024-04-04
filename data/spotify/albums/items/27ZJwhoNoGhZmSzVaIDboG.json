@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HGSQ9pP9IrgvbVovEAxer"
+      },
+      "href": "https://api.spotify.com/v1/artists/3HGSQ9pP9IrgvbVovEAxer",
+      "id": "3HGSQ9pP9IrgvbVovEAxer",
+      "name": "Peter Pop",
+      "type": "artist",
+      "uri": "spotify:artist:3HGSQ9pP9IrgvbVovEAxer"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 SC MediaPro Music Entertainment SRL",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 MediaPro Music Entertainment/Cat Music/Hahaha Production",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889176772009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/27ZJwhoNoGhZmSzVaIDboG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/27ZJwhoNoGhZmSzVaIDboG",
+  "id": "27ZJwhoNoGhZmSzVaIDboG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336da811fb144435ae9b3fccb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236da811fb144435ae9b3fccb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136da811fb144435ae9b3fccb",
+      "width": 64
+    }
+  ],
+  "label": "MediaPro Music",
+  "name": "Singuri in doi",
+  "popularity": 0,
+  "release_date": "2015-03-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/27ZJwhoNoGhZmSzVaIDboG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HGSQ9pP9IrgvbVovEAxer"
+            },
+            "href": "https://api.spotify.com/v1/artists/3HGSQ9pP9IrgvbVovEAxer",
+            "id": "3HGSQ9pP9IrgvbVovEAxer",
+            "name": "Peter Pop",
+            "type": "artist",
+            "uri": "spotify:artist:3HGSQ9pP9IrgvbVovEAxer"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ht25I3tgkphYm1HI7wMDq",
+            "id": "1ht25I3tgkphYm1HI7wMDq",
+            "name": "Lora",
+            "type": "artist",
+            "uri": "spotify:artist:1ht25I3tgkphYm1HI7wMDq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223430,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FndvUXoMgqVYbFm9a8bST"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FndvUXoMgqVYbFm9a8bST",
+        "id": "2FndvUXoMgqVYbFm9a8bST",
+        "is_local": false,
+        "name": "Singuri in doi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2FndvUXoMgqVYbFm9a8bST"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:27ZJwhoNoGhZmSzVaIDboG"
+}

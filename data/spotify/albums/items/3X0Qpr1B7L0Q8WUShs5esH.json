@@ -1,0 +1,625 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+      "id": "3fbrQzAVyMSC7oyNHjRO9A",
+      "name": "Juliette",
+      "type": "artist",
+      "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "CH",
+    "CR",
+    "CZ",
+    "EE",
+    "FI",
+    "FR",
+    "LT",
+    "LV",
+    "MX",
+    "NO",
+    "PK",
+    "PT",
+    "SA",
+    "SE",
+    "SK",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2005 Barclay",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2005 Barclay",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498267967"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3X0Qpr1B7L0Q8WUShs5esH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3X0Qpr1B7L0Q8WUShs5esH",
+  "id": "3X0Qpr1B7L0Q8WUShs5esH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ba0a88c02b9a93df4ef07e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ba0a88c02b9a93df4ef07e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ba0a88c02b9a93df4ef07e4",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Division Barclay",
+  "name": "Mutatis Mutandis",
+  "popularity": 28,
+  "release_date": "2005-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 11,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3X0Qpr1B7L0Q8WUShs5esH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 283240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ny3XxthRSyWhTbygRef5I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ny3XxthRSyWhTbygRef5I",
+        "id": "4Ny3XxthRSyWhTbygRef5I",
+        "is_local": false,
+        "name": "Le sort de Circ\u00e9",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Ny3XxthRSyWhTbygRef5I"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RIdUQn6EBOM60ZviGP0Dy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RIdUQn6EBOM60ZviGP0Dy",
+        "id": "6RIdUQn6EBOM60ZviGP0Dy",
+        "is_local": false,
+        "name": "Les gar\u00e7ons de mon quartier",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6RIdUQn6EBOM60ZviGP0Dy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 260413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kQBRWrIXcFhlyfYKnM1xb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kQBRWrIXcFhlyfYKnM1xb",
+        "id": "1kQBRWrIXcFhlyfYKnM1xb",
+        "is_local": false,
+        "name": "Maudite clochette !",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1kQBRWrIXcFhlyfYKnM1xb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 305080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5k0J6ThtqB13E2RvNZpfXc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5k0J6ThtqB13E2RvNZpfXc",
+        "id": "5k0J6ThtqB13E2RvNZpfXc",
+        "is_local": false,
+        "name": "Le congr\u00e8s des cherubins",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5k0J6ThtqB13E2RvNZpfXc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cgGDVOfcFZxXgn4s2GC9V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cgGDVOfcFZxXgn4s2GC9V",
+        "id": "7cgGDVOfcFZxXgn4s2GC9V",
+        "is_local": false,
+        "name": "Il s'est pass\u00e9 quelque chose",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7cgGDVOfcFZxXgn4s2GC9V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tYb0pC1L5Q5eHJBYQEAID"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tYb0pC1L5Q5eHJBYQEAID",
+            "id": "2tYb0pC1L5Q5eHJBYQEAID",
+            "name": "Guillaume Depardieu",
+            "type": "artist",
+            "uri": "spotify:artist:2tYb0pC1L5Q5eHJBYQEAID"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 280346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3naR24B9ZgmQgW99BTnRq4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3naR24B9ZgmQgW99BTnRq4",
+        "id": "3naR24B9ZgmQgW99BTnRq4",
+        "is_local": false,
+        "name": "Une lettre oubli\u00e9e",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3naR24B9ZgmQgW99BTnRq4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 309266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XPgxG3Ih21JY6dFAGMsjP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XPgxG3Ih21JY6dFAGMsjP",
+        "id": "5XPgxG3Ih21JY6dFAGMsjP",
+        "is_local": false,
+        "name": "L'ivresse d'Abhu-Nawas",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5XPgxG3Ih21JY6dFAGMsjP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 232386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7M6mFFLvjdyPIWorwoig56"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7M6mFFLvjdyPIWorwoig56",
+        "id": "7M6mFFLvjdyPIWorwoig56",
+        "is_local": false,
+        "name": "La braise",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7M6mFFLvjdyPIWorwoig56"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VUDzU95ERm9MU5bpifmvK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VUDzU95ERm9MU5bpifmvK",
+            "id": "1VUDzU95ERm9MU5bpifmvK",
+            "name": "Fran\u00e7ois Morel",
+            "type": "artist",
+            "uri": "spotify:artist:1VUDzU95ERm9MU5bpifmvK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 272773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73UlLoYMQtKIFhpsm3h3zn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73UlLoYMQtKIFhpsm3h3zn",
+        "id": "73UlLoYMQtKIFhpsm3h3zn",
+        "is_local": false,
+        "name": "M\u00e9m\u00e8re dans les orties",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:73UlLoYMQtKIFhpsm3h3zn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 269453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vpwO9PLyYLFsuhVL9txLB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vpwO9PLyYLFsuhVL9txLB",
+        "id": "7vpwO9PLyYLFsuhVL9txLB",
+        "is_local": false,
+        "name": "Franciscae meae laudes",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7vpwO9PLyYLFsuhVL9txLB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fbrQzAVyMSC7oyNHjRO9A",
+            "id": "3fbrQzAVyMSC7oyNHjRO9A",
+            "name": "Juliette",
+            "type": "artist",
+            "uri": "spotify:artist:3fbrQzAVyMSC7oyNHjRO9A"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CH",
+          "CR",
+          "CZ",
+          "EE",
+          "FI",
+          "FR",
+          "LT",
+          "LV",
+          "MX",
+          "NO",
+          "PK",
+          "PT",
+          "SA",
+          "SE",
+          "SK",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 349333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RYZ94QWLESU8oDwf8xLDE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RYZ94QWLESU8oDwf8xLDE",
+        "id": "5RYZ94QWLESU8oDwf8xLDE",
+        "is_local": false,
+        "name": "Fantaisie h\u00e9ro\u00efque",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5RYZ94QWLESU8oDwf8xLDE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  },
+  "type": "album",
+  "uri": "spotify:album:3X0Qpr1B7L0Q8WUShs5esH"
+}

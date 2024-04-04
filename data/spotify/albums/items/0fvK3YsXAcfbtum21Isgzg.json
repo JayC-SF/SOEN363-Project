@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZhGmv6onhBEf17i6utMT6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZhGmv6onhBEf17i6utMT6",
+      "id": "1ZhGmv6onhBEf17i6utMT6",
+      "name": "gauthydies4u",
+      "type": "artist",
+      "uri": "spotify:artist:1ZhGmv6onhBEf17i6utMT6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Arturo Dehart Special LLC",
+      "type": "C"
+    },
+    {
+      "text": "2023 gauthydies4u Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720996301401"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0fvK3YsXAcfbtum21Isgzg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0fvK3YsXAcfbtum21Isgzg",
+  "id": "0fvK3YsXAcfbtum21Isgzg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a586a9442f5657e35e44cf5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a586a9442f5657e35e44cf5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a586a9442f5657e35e44cf5",
+      "width": 64
+    }
+  ],
+  "label": "iMusics",
+  "name": "Vixen",
+  "popularity": 0,
+  "release_date": "2023-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0fvK3YsXAcfbtum21Isgzg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZhGmv6onhBEf17i6utMT6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZhGmv6onhBEf17i6utMT6",
+            "id": "1ZhGmv6onhBEf17i6utMT6",
+            "name": "gauthydies4u",
+            "type": "artist",
+            "uri": "spotify:artist:1ZhGmv6onhBEf17i6utMT6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203561,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NZ8UYmBOXQl0SfQEhYwyy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NZ8UYmBOXQl0SfQEhYwyy",
+        "id": "1NZ8UYmBOXQl0SfQEhYwyy",
+        "is_local": false,
+        "name": "Vixen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1NZ8UYmBOXQl0SfQEhYwyy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0fvK3YsXAcfbtum21Isgzg"
+}

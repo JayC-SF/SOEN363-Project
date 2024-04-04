@@ -1,0 +1,117 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PULA4EFzYTrxYvOVlwpiQ",
+      "id": "4PULA4EFzYTrxYvOVlwpiQ",
+      "name": "Sidhu Moose Wala",
+      "type": "artist",
+      "uri": "spotify:artist:4PULA4EFzYTrxYvOVlwpiQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oL0GAI8fKD0Wgbr4Em9AS",
+      "id": "5oL0GAI8fKD0Wgbr4Em9AS",
+      "name": "Shooter Kahlon",
+      "type": "artist",
+      "uri": "spotify:artist:5oL0GAI8fKD0Wgbr4Em9AS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "5911 Records",
+      "type": "C"
+    },
+    {
+      "text": "5911 Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2uq37PgWtaMd6b1V8G2kua"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2uq37PgWtaMd6b1V8G2kua",
+  "id": "2uq37PgWtaMd6b1V8G2kua",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a52c5fc136afadd98c3a378e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a52c5fc136afadd98c3a378e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a52c5fc136afadd98c3a378e",
+      "width": 64
+    }
+  ],
+  "label": "5911 Records",
+  "name": "Game (Original)",
+  "popularity": 0,
+  "release_date": "2020-09-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2uq37PgWtaMd6b1V8G2kua/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oL0GAI8fKD0Wgbr4Em9AS",
+            "id": "5oL0GAI8fKD0Wgbr4Em9AS",
+            "name": "Shooter Kahlon",
+            "type": "artist",
+            "uri": "spotify:artist:5oL0GAI8fKD0Wgbr4Em9AS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PULA4EFzYTrxYvOVlwpiQ",
+            "id": "4PULA4EFzYTrxYvOVlwpiQ",
+            "name": "Sidhu Moose Wala",
+            "type": "artist",
+            "uri": "spotify:artist:4PULA4EFzYTrxYvOVlwpiQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 274666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12j9XLGbDrJw7S4flHVIMj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12j9XLGbDrJw7S4flHVIMj",
+        "id": "12j9XLGbDrJw7S4flHVIMj",
+        "is_local": false,
+        "name": "Game",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:12j9XLGbDrJw7S4flHVIMj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2uq37PgWtaMd6b1V8G2kua"
+}

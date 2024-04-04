@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PAFc1G2WeoQ4DeGKETVdi",
+      "id": "1PAFc1G2WeoQ4DeGKETVdi",
+      "name": "Diib",
+      "type": "artist",
+      "uri": "spotify:artist:1PAFc1G2WeoQ4DeGKETVdi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Chabaka",
+      "type": "C"
+    },
+    {
+      "text": "Diib",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5283023967375"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7FTo0ZDVPQggmFUo3Mw8an"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7FTo0ZDVPQggmFUo3Mw8an",
+  "id": "7FTo0ZDVPQggmFUo3Mw8an",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c8072f2f2ab734a172569ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c8072f2f2ab734a172569ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c8072f2f2ab734a172569ec",
+      "width": 64
+    }
+  ],
+  "label": "Diib",
+  "name": "Unstable V3",
+  "popularity": 0,
+  "release_date": "2022-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7FTo0ZDVPQggmFUo3Mw8an/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PAFc1G2WeoQ4DeGKETVdi",
+            "id": "1PAFc1G2WeoQ4DeGKETVdi",
+            "name": "Diib",
+            "type": "artist",
+            "uri": "spotify:artist:1PAFc1G2WeoQ4DeGKETVdi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187193,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0czXICcBpDbBo6UwxXBnfV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0czXICcBpDbBo6UwxXBnfV",
+        "id": "0czXICcBpDbBo6UwxXBnfV",
+        "is_local": false,
+        "name": "Unstable V3",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0czXICcBpDbBo6UwxXBnfV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7FTo0ZDVPQggmFUo3Mw8an"
+}

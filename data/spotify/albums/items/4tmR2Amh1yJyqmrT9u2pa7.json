@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+      },
+      "href": "https://api.spotify.com/v1/artists/7MPnGqTzCsarDScihWka1x",
+      "id": "7MPnGqTzCsarDScihWka1x",
+      "name": "3MFrench",
+      "type": "artist",
+      "uri": "spotify:artist:7MPnGqTzCsarDScihWka1x"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Triple M",
+      "type": "C"
+    },
+    {
+      "text": "2018 Triple M",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859726120802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4tmR2Amh1yJyqmrT9u2pa7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4tmR2Amh1yJyqmrT9u2pa7",
+  "id": "4tmR2Amh1yJyqmrT9u2pa7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f25d3a0497cf5d2801ee675d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f25d3a0497cf5d2801ee675d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f25d3a0497cf5d2801ee675d",
+      "width": 64
+    }
+  ],
+  "label": "Triple M",
+  "name": "Road 2 Riches",
+  "popularity": 0,
+  "release_date": "2018-04-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4tmR2Amh1yJyqmrT9u2pa7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MPnGqTzCsarDScihWka1x",
+            "id": "7MPnGqTzCsarDScihWka1x",
+            "name": "3MFrench",
+            "type": "artist",
+            "uri": "spotify:artist:7MPnGqTzCsarDScihWka1x"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26RtiadYhBkRmhzzBkqPSj"
+            },
+            "href": "https://api.spotify.com/v1/artists/26RtiadYhBkRmhzzBkqPSj",
+            "id": "26RtiadYhBkRmhzzBkqPSj",
+            "name": "Archee",
+            "type": "artist",
+            "uri": "spotify:artist:26RtiadYhBkRmhzzBkqPSj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169691,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SzIZYYsm9zJdRkSJfLMvK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SzIZYYsm9zJdRkSJfLMvK",
+        "id": "1SzIZYYsm9zJdRkSJfLMvK",
+        "is_local": false,
+        "name": "Road 2 Riches",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SzIZYYsm9zJdRkSJfLMvK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4tmR2Amh1yJyqmrT9u2pa7"
+}

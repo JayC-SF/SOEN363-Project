@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35h00jup8auagdSFOPLEbP"
+      },
+      "href": "https://api.spotify.com/v1/artists/35h00jup8auagdSFOPLEbP",
+      "id": "35h00jup8auagdSFOPLEbP",
+      "name": "notsocool",
+      "type": "artist",
+      "uri": "spotify:artist:35h00jup8auagdSFOPLEbP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 notsocool",
+      "type": "C"
+    },
+    {
+      "text": "2018 notsocool",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050215454743"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/12M4CiHHxibiYgLLuejz5a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/12M4CiHHxibiYgLLuejz5a",
+  "id": "12M4CiHHxibiYgLLuejz5a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273efd11d58bf56feab02e737e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02efd11d58bf56feab02e737e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851efd11d58bf56feab02e737e8",
+      "width": 64
+    }
+  ],
+  "label": "recordJet",
+  "name": "Basstart\u00e9",
+  "popularity": 0,
+  "release_date": "2018-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/12M4CiHHxibiYgLLuejz5a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35h00jup8auagdSFOPLEbP"
+            },
+            "href": "https://api.spotify.com/v1/artists/35h00jup8auagdSFOPLEbP",
+            "id": "35h00jup8auagdSFOPLEbP",
+            "name": "notsocool",
+            "type": "artist",
+            "uri": "spotify:artist:35h00jup8auagdSFOPLEbP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 248000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VS0nXzKdpHfiyGS5PUT4A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0VS0nXzKdpHfiyGS5PUT4A",
+        "id": "0VS0nXzKdpHfiyGS5PUT4A",
+        "is_local": false,
+        "name": "Basstart\u00e9",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0VS0nXzKdpHfiyGS5PUT4A"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:12M4CiHHxibiYgLLuejz5a"
+}

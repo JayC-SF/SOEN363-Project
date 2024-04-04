@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xM4nZLhGE0pMKbXA08s6A"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xM4nZLhGE0pMKbXA08s6A",
+      "id": "4xM4nZLhGE0pMKbXA08s6A",
+      "name": "No Wyld",
+      "type": "artist",
+      "uri": "spotify:artist:4xM4nZLhGE0pMKbXA08s6A"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2015 Columbia Records, a Dvision of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445413021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49gpIrDNPySeKw4s0sUEBd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49gpIrDNPySeKw4s0sUEBd",
+  "id": "49gpIrDNPySeKw4s0sUEBd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e1b80ce3e62ada7a3cd8b273",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e1b80ce3e62ada7a3cd8b273",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e1b80ce3e62ada7a3cd8b273",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Let Me Know",
+  "popularity": 1,
+  "release_date": "2015-07-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49gpIrDNPySeKw4s0sUEBd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xM4nZLhGE0pMKbXA08s6A"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xM4nZLhGE0pMKbXA08s6A",
+            "id": "4xM4nZLhGE0pMKbXA08s6A",
+            "name": "No Wyld",
+            "type": "artist",
+            "uri": "spotify:artist:4xM4nZLhGE0pMKbXA08s6A"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qxfdtshzyOo9JwdPbvMYL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qxfdtshzyOo9JwdPbvMYL",
+        "id": "1qxfdtshzyOo9JwdPbvMYL",
+        "is_local": false,
+        "name": "Let Me Know",
+        "preview_url": "https://p.scdn.co/mp3-preview/0479b11b6e9e70f98360edfd10daa7b3425a65c7?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1qxfdtshzyOo9JwdPbvMYL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49gpIrDNPySeKw4s0sUEBd"
+}

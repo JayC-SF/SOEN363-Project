@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href": "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id": "6TQj5BFPooTa08A7pk8AQ1",
+      "name": "Kaskade",
+      "type": "artist",
+      "uri": "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Arkade",
+      "type": "C"
+    },
+    {
+      "text": "2020 Arkade",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526302501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5nu0DOF0xqGEuXEiYeHhHi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5nu0DOF0xqGEuXEiYeHhHi",
+  "id": "5nu0DOF0xqGEuXEiYeHhHi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c26b13921ff1eb8085e84e28",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c26b13921ff1eb8085e84e28",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c26b13921ff1eb8085e84e28",
+      "width": 64
+    }
+  ],
+  "label": "Arkade",
+  "name": "Love Like That",
+  "popularity": 0,
+  "release_date": "2020-03-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5nu0DOF0xqGEuXEiYeHhHi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+            "id": "6TQj5BFPooTa08A7pk8AQ1",
+            "name": "Kaskade",
+            "type": "artist",
+            "uri": "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2fSGqh4BJpl0T1LHtd9TQ8",
+            "id": "2fSGqh4BJpl0T1LHtd9TQ8",
+            "name": "Dani Poppitt",
+            "type": "artist",
+            "uri": "spotify:artist:2fSGqh4BJpl0T1LHtd9TQ8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216062,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WliYG94HXFCo7RmYZ7bLE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WliYG94HXFCo7RmYZ7bLE",
+        "id": "5WliYG94HXFCo7RmYZ7bLE",
+        "is_local": false,
+        "name": "Love Like That",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5WliYG94HXFCo7RmYZ7bLE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5nu0DOF0xqGEuXEiYeHhHi"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Xh66Ik3jVJm3VLnaslsSj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Xh66Ik3jVJm3VLnaslsSj",
+      "id": "6Xh66Ik3jVJm3VLnaslsSj",
+      "name": "I Can't Get My",
+      "type": "artist",
+      "uri": "spotify:artist:6Xh66Ik3jVJm3VLnaslsSj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Zeroseven",
+      "type": "C"
+    },
+    {
+      "text": "2017 Zeroseven",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260359625583"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/12THG5xIColMwGo9KK2D2o"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/12THG5xIColMwGo9KK2D2o",
+  "id": "12THG5xIColMwGo9KK2D2o",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f22bbdcc61aa079d8bba6061",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f22bbdcc61aa079d8bba6061",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f22bbdcc61aa079d8bba6061",
+      "width": 64
+    }
+  ],
+  "label": "zeroseven",
+  "name": "Satisfaction",
+  "popularity": 0,
+  "release_date": "2017-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/12THG5xIColMwGo9KK2D2o/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Xh66Ik3jVJm3VLnaslsSj"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Xh66Ik3jVJm3VLnaslsSj",
+            "id": "6Xh66Ik3jVJm3VLnaslsSj",
+            "name": "I Can't Get My",
+            "type": "artist",
+            "uri": "spotify:artist:6Xh66Ik3jVJm3VLnaslsSj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 284307,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ER9XKKKERHEGAzIbmM76o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ER9XKKKERHEGAzIbmM76o",
+        "id": "3ER9XKKKERHEGAzIbmM76o",
+        "is_local": false,
+        "name": "Satisfaction",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ER9XKKKERHEGAzIbmM76o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:12THG5xIColMwGo9KK2D2o"
+}

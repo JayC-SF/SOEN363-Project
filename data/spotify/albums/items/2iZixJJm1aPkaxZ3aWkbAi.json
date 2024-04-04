@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3803JqLnUACUJcuCLmK3xz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3803JqLnUACUJcuCLmK3xz",
+      "id": "3803JqLnUACUJcuCLmK3xz",
+      "name": "AK 33",
+      "type": "artist",
+      "uri": "spotify:artist:3803JqLnUACUJcuCLmK3xz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 AK 33",
+      "type": "C"
+    },
+    {
+      "text": "2019 AK 33",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616402385859"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2iZixJJm1aPkaxZ3aWkbAi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2iZixJJm1aPkaxZ3aWkbAi",
+  "id": "2iZixJJm1aPkaxZ3aWkbAi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f994202062b4bba08d51118",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f994202062b4bba08d51118",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f994202062b4bba08d51118",
+      "width": 64
+    }
+  ],
+  "label": "AK 33",
+  "name": "Nique la police",
+  "popularity": 0,
+  "release_date": "2019-11-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2iZixJJm1aPkaxZ3aWkbAi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3803JqLnUACUJcuCLmK3xz"
+            },
+            "href": "https://api.spotify.com/v1/artists/3803JqLnUACUJcuCLmK3xz",
+            "id": "3803JqLnUACUJcuCLmK3xz",
+            "name": "AK 33",
+            "type": "artist",
+            "uri": "spotify:artist:3803JqLnUACUJcuCLmK3xz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186268,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VFhxMufZ68joQK6xzFKOS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VFhxMufZ68joQK6xzFKOS",
+        "id": "1VFhxMufZ68joQK6xzFKOS",
+        "is_local": false,
+        "name": "Nique la police",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1VFhxMufZ68joQK6xzFKOS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2iZixJJm1aPkaxZ3aWkbAi"
+}

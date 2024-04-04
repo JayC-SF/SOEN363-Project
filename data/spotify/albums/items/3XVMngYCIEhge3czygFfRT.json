@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href": "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id": "69GGH3fqk8waBkpDJ5C2mK",
+      "name": "Sergey Lazarev",
+      "type": "artist",
+      "uri": "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    }
+  ],
+  "available_markets": [
+    "CY",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "GB",
+    "GR",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "2019 Sergey Lazarev",
+      "type": "C"
+    },
+    {
+      "text": "2019 Sergey Lazarev",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859731281024"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3XVMngYCIEhge3czygFfRT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3XVMngYCIEhge3czygFfRT",
+  "id": "3XVMngYCIEhge3czygFfRT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388efee98f9cf635bb86a0554",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288efee98f9cf635bb86a0554",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188efee98f9cf635bb86a0554",
+      "width": 64
+    }
+  ],
+  "label": "Sergey Lazarev",
+  "name": "Scream",
+  "popularity": 25,
+  "release_date": "2019-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3XVMngYCIEhge3czygFfRT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+            "id": "69GGH3fqk8waBkpDJ5C2mK",
+            "name": "Sergey Lazarev",
+            "type": "artist",
+            "uri": "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+          }
+        ],
+        "available_markets": [
+          "CY",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "GB",
+          "GR",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 178643,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mWj2pfAgQMM8fuZwxxiHu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mWj2pfAgQMM8fuZwxxiHu",
+        "id": "2mWj2pfAgQMM8fuZwxxiHu",
+        "is_local": false,
+        "name": "Scream",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2mWj2pfAgQMM8fuZwxxiHu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3XVMngYCIEhge3czygFfRT"
+}

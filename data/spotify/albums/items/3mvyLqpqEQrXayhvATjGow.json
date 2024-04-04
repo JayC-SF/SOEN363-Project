@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+      "id": "2oX42qP5ineK3hrhBECLmj",
+      "name": "Andy Grammer",
+      "type": "artist",
+      "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 S-Curve Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 S-Curve Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004067813"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mvyLqpqEQrXayhvATjGow"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mvyLqpqEQrXayhvATjGow",
+  "id": "3mvyLqpqEQrXayhvATjGow",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d56e83e831df0f452f8524b5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d56e83e831df0f452f8524b5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d56e83e831df0f452f8524b5",
+      "width": 64
+    }
+  ],
+  "label": "Liberator Music",
+  "name": "I Found You",
+  "popularity": 0,
+  "release_date": "2019-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mvyLqpqEQrXayhvATjGow/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+            },
+            "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+            "id": "2oX42qP5ineK3hrhBECLmj",
+            "name": "Andy Grammer",
+            "type": "artist",
+            "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1b1Wb55rTakaXDtWzn9QwX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1b1Wb55rTakaXDtWzn9QwX",
+        "id": "1b1Wb55rTakaXDtWzn9QwX",
+        "is_local": false,
+        "name": "I Found You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1b1Wb55rTakaXDtWzn9QwX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mvyLqpqEQrXayhvATjGow"
+}

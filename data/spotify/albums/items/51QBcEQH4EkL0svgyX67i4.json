@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fwuUuFbqXJx3B17PUhFCE",
+      "id": "1fwuUuFbqXJx3B17PUhFCE",
+      "name": "Hollie Cook",
+      "type": "artist",
+      "uri": "spotify:artist:1fwuUuFbqXJx3B17PUhFCE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Merge Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Merge Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "673855064871"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51QBcEQH4EkL0svgyX67i4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51QBcEQH4EkL0svgyX67i4",
+  "id": "51QBcEQH4EkL0svgyX67i4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273984e255e2160435935c6a203",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02984e255e2160435935c6a203",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851984e255e2160435935c6a203",
+      "width": 64
+    }
+  ],
+  "label": "Merge Records",
+  "name": "Sweet Like Chocolate / Dub Like Chocolate",
+  "popularity": 0,
+  "release_date": "2018-08-28",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51QBcEQH4EkL0svgyX67i4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fwuUuFbqXJx3B17PUhFCE",
+            "id": "1fwuUuFbqXJx3B17PUhFCE",
+            "name": "Hollie Cook",
+            "type": "artist",
+            "uri": "spotify:artist:1fwuUuFbqXJx3B17PUhFCE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203309,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xc6Q8UQtha6aS6qOoDlPz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xc6Q8UQtha6aS6qOoDlPz",
+        "id": "2xc6Q8UQtha6aS6qOoDlPz",
+        "is_local": false,
+        "name": "Sweet Like Chocolate",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xc6Q8UQtha6aS6qOoDlPz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fwuUuFbqXJx3B17PUhFCE",
+            "id": "1fwuUuFbqXJx3B17PUhFCE",
+            "name": "Hollie Cook",
+            "type": "artist",
+            "uri": "spotify:artist:1fwuUuFbqXJx3B17PUhFCE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229111,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ecocKl1CMwA9ak8NUTWk9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ecocKl1CMwA9ak8NUTWk9",
+        "id": "2ecocKl1CMwA9ak8NUTWk9",
+        "is_local": false,
+        "name": "Dub Like Chocolate",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2ecocKl1CMwA9ak8NUTWk9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:51QBcEQH4EkL0svgyX67i4"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+      "id": "04gDigrS5kc9YWfZHwBETP",
+      "name": "Maroon 5",
+      "type": "artist",
+      "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 A&M/Octone Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537034765"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4CINwoCsc8e6Nyw9rcG6Z2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4CINwoCsc8e6Nyw9rcG6Z2",
+  "id": "4CINwoCsc8e6Nyw9rcG6Z2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273439d290284ba5999c5d68778",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02439d290284ba5999c5d68778",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851439d290284ba5999c5d68778",
+      "width": 64
+    }
+  ],
+  "label": "A&M / Octone Records",
+  "name": "One More Night",
+  "popularity": 0,
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4CINwoCsc8e6Nyw9rcG6Z2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            },
+            "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+            "id": "04gDigrS5kc9YWfZHwBETP",
+            "name": "Maroon 5",
+            "type": "artist",
+            "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wJIAMuPdEoBddWlovWXCX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wJIAMuPdEoBddWlovWXCX",
+        "id": "3wJIAMuPdEoBddWlovWXCX",
+        "is_local": false,
+        "name": "One More Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3wJIAMuPdEoBddWlovWXCX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4CINwoCsc8e6Nyw9rcG6Z2"
+}

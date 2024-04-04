@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qMyym6ov558YgVuOOscEm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3qMyym6ov558YgVuOOscEm",
+      "id": "3qMyym6ov558YgVuOOscEm",
+      "name": "Blanche",
+      "type": "artist",
+      "uri": "spotify:artist:3qMyym6ov558YgVuOOscEm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 [PIAS] Recordings Belgium",
+      "type": "C"
+    },
+    {
+      "text": "2017 [PIAS] Recordings Belgium",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5414939957482"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5vDLBYwQkaDp5PmI7TCN7m"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5vDLBYwQkaDp5PmI7TCN7m",
+  "id": "5vDLBYwQkaDp5PmI7TCN7m",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8a046f2fc591b9fa3546468",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8a046f2fc591b9fa3546468",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8a046f2fc591b9fa3546468",
+      "width": 64
+    }
+  ],
+  "label": "[PIAS] Recordings Belgium",
+  "name": "City Lights",
+  "popularity": 0,
+  "release_date": "2017-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5vDLBYwQkaDp5PmI7TCN7m/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qMyym6ov558YgVuOOscEm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qMyym6ov558YgVuOOscEm",
+            "id": "3qMyym6ov558YgVuOOscEm",
+            "name": "Blanche",
+            "type": "artist",
+            "uri": "spotify:artist:3qMyym6ov558YgVuOOscEm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174576,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kXqUXnukwkpsxhW8emNC0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kXqUXnukwkpsxhW8emNC0",
+        "id": "3kXqUXnukwkpsxhW8emNC0",
+        "is_local": false,
+        "name": "City Lights",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kXqUXnukwkpsxhW8emNC0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5vDLBYwQkaDp5PmI7TCN7m"
+}

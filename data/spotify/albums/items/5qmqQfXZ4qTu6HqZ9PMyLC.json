@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+      },
+      "href": "https://api.spotify.com/v1/artists/2sjktXSuCqEU42XUox2oXr",
+      "id": "2sjktXSuCqEU42XUox2oXr",
+      "name": "Frex",
+      "type": "artist",
+      "uri": "spotify:artist:2sjktXSuCqEU42XUox2oXr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Boom.Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436290395"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5qmqQfXZ4qTu6HqZ9PMyLC",
+  "id": "5qmqQfXZ4qTu6HqZ9PMyLC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301fde4cfcd53f1be5e528080",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201fde4cfcd53f1be5e528080",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101fde4cfcd53f1be5e528080",
+      "width": 64
+    }
+  ],
+  "label": "Boom.Records",
+  "name": "Oxford Circus",
+  "popularity": 0,
+  "release_date": "2022-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5qmqQfXZ4qTu6HqZ9PMyLC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sjktXSuCqEU42XUox2oXr",
+            "id": "2sjktXSuCqEU42XUox2oXr",
+            "name": "Frex",
+            "type": "artist",
+            "uri": "spotify:artist:2sjktXSuCqEU42XUox2oXr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152019,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41pmDwHHK9rvdvp6sezqaf",
+        "id": "41pmDwHHK9rvdvp6sezqaf",
+        "is_local": false,
+        "name": "Oxford Circus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:41pmDwHHK9rvdvp6sezqaf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5qmqQfXZ4qTu6HqZ9PMyLC"
+}

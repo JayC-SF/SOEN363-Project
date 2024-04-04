@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FAjeD9eW52qvpik9OsnVp",
+      "id": "5FAjeD9eW52qvpik9OsnVp",
+      "name": "Nyte",
+      "type": "artist",
+      "uri": "spotify:artist:5FAjeD9eW52qvpik9OsnVp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Nyte",
+      "type": "C"
+    },
+    {
+      "text": "2015 Nyte",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054227068591"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5W0VSIzdMu64oEced2Plug"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5W0VSIzdMu64oEced2Plug",
+  "id": "5W0VSIzdMu64oEced2Plug",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273707bf957417049fdf4716810",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02707bf957417049fdf4716810",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851707bf957417049fdf4716810",
+      "width": 64
+    }
+  ],
+  "label": "Nyte",
+  "name": "Days Gone By",
+  "popularity": 0,
+  "release_date": "2015-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5W0VSIzdMu64oEced2Plug/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FAjeD9eW52qvpik9OsnVp",
+            "id": "5FAjeD9eW52qvpik9OsnVp",
+            "name": "Nyte",
+            "type": "artist",
+            "uri": "spotify:artist:5FAjeD9eW52qvpik9OsnVp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239102,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DXDG2HzPRDHo95RQ7oDso"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1DXDG2HzPRDHo95RQ7oDso",
+        "id": "1DXDG2HzPRDHo95RQ7oDso",
+        "is_local": false,
+        "name": "Atlas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1DXDG2HzPRDHo95RQ7oDso"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FAjeD9eW52qvpik9OsnVp",
+            "id": "5FAjeD9eW52qvpik9OsnVp",
+            "name": "Nyte",
+            "type": "artist",
+            "uri": "spotify:artist:5FAjeD9eW52qvpik9OsnVp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 273612,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ngZi5IZSR7uVIgQPWxcGO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ngZi5IZSR7uVIgQPWxcGO",
+        "id": "5ngZi5IZSR7uVIgQPWxcGO",
+        "is_local": false,
+        "name": "Days Gone By",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5ngZi5IZSR7uVIgQPWxcGO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5W0VSIzdMu64oEced2Plug"
+}

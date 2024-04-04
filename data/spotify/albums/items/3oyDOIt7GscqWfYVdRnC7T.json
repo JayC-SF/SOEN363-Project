@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+      },
+      "href": "https://api.spotify.com/v1/artists/53cQZtWDwDJwVCNZlfJ6Qk",
+      "id": "53cQZtWDwDJwVCNZlfJ6Qk",
+      "name": "Laidback Luke",
+      "type": "artist",
+      "uri": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+      },
+      "href": "https://api.spotify.com/v1/artists/1pmwwNA38kkkJwEMWe8hLD",
+      "id": "1pmwwNA38kkkJwEMWe8hLD",
+      "name": "DJs From Mars",
+      "type": "artist",
+      "uri": "spotify:artist:1pmwwNA38kkkJwEMWe8hLD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Mixmash Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Mixmash Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718591166259"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3oyDOIt7GscqWfYVdRnC7T"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3oyDOIt7GscqWfYVdRnC7T",
+  "id": "3oyDOIt7GscqWfYVdRnC7T",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6623b307d9ac3772a456072",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6623b307d9ac3772a456072",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6623b307d9ac3772a456072",
+      "width": 64
+    }
+  ],
+  "label": "Mixmash Records",
+  "name": "Call It House",
+  "popularity": 0,
+  "release_date": "2021-10-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3oyDOIt7GscqWfYVdRnC7T/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+            },
+            "href": "https://api.spotify.com/v1/artists/53cQZtWDwDJwVCNZlfJ6Qk",
+            "id": "53cQZtWDwDJwVCNZlfJ6Qk",
+            "name": "Laidback Luke",
+            "type": "artist",
+            "uri": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1pmwwNA38kkkJwEMWe8hLD",
+            "id": "1pmwwNA38kkkJwEMWe8hLD",
+            "name": "DJs From Mars",
+            "type": "artist",
+            "uri": "spotify:artist:1pmwwNA38kkkJwEMWe8hLD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122903,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lZHxf5SYUVnBlNwtiCNzv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lZHxf5SYUVnBlNwtiCNzv",
+        "id": "7lZHxf5SYUVnBlNwtiCNzv",
+        "is_local": false,
+        "name": "Call It House",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7lZHxf5SYUVnBlNwtiCNzv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3oyDOIt7GscqWfYVdRnC7T"
+}

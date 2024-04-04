@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2jHp7gQArCQrlMvdrIVFCg",
+      "id": "2jHp7gQArCQrlMvdrIVFCg",
+      "name": "Anson Seabra",
+      "type": "artist",
+      "uri": "spotify:artist:2jHp7gQArCQrlMvdrIVFCg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 friends support friends",
+      "type": "C"
+    },
+    {
+      "text": "2020 friends support friends",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859738589819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7zt3lJbBlBnA58fYD619Me"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7zt3lJbBlBnA58fYD619Me",
+  "id": "7zt3lJbBlBnA58fYD619Me",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7c3fe3b312cc3a8c5f47f1a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7c3fe3b312cc3a8c5f47f1a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7c3fe3b312cc3a8c5f47f1a",
+      "width": 64
+    }
+  ],
+  "label": "friends support friends",
+  "name": "Somewhere in Ann Arbor",
+  "popularity": 0,
+  "release_date": "2020-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7zt3lJbBlBnA58fYD619Me/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jHp7gQArCQrlMvdrIVFCg",
+            "id": "2jHp7gQArCQrlMvdrIVFCg",
+            "name": "Anson Seabra",
+            "type": "artist",
+            "uri": "spotify:artist:2jHp7gQArCQrlMvdrIVFCg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EurJLsr9GPEp8Aq5LJvOK",
+        "id": "7EurJLsr9GPEp8Aq5LJvOK",
+        "is_local": false,
+        "name": "Somewhere in Ann Arbor",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7EurJLsr9GPEp8Aq5LJvOK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7zt3lJbBlBnA58fYD619Me"
+}

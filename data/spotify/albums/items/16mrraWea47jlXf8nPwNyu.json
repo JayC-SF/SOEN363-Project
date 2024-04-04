@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2"
+      },
+      "href": "https://api.spotify.com/v1/artists/23J5hZ2N7m0UpmdziiYAc2",
+      "id": "23J5hZ2N7m0UpmdziiYAc2",
+      "name": "Martin Eigenberg",
+      "type": "artist",
+      "uri": "spotify:artist:23J5hZ2N7m0UpmdziiYAc2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl"
+      },
+      "href": "https://api.spotify.com/v1/artists/73lC9QGob3QCyXallwiSWl",
+      "id": "73lC9QGob3QCyXallwiSWl",
+      "name": "Ryan Shade",
+      "type": "artist",
+      "uri": "spotify:artist:73lC9QGob3QCyXallwiSWl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Groundunder Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2022 Groundunder Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616849541528"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/16mrraWea47jlXf8nPwNyu",
+  "id": "16mrraWea47jlXf8nPwNyu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b19ba4ee00efb7a44c86d6a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b19ba4ee00efb7a44c86d6a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b19ba4ee00efb7a44c86d6a",
+      "width": 64
+    }
+  ],
+  "label": "Groundunder Recordings",
+  "name": "Feel This",
+  "popularity": 16,
+  "release_date": "2022-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/16mrraWea47jlXf8nPwNyu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2"
+            },
+            "href": "https://api.spotify.com/v1/artists/23J5hZ2N7m0UpmdziiYAc2",
+            "id": "23J5hZ2N7m0UpmdziiYAc2",
+            "name": "Martin Eigenberg",
+            "type": "artist",
+            "uri": "spotify:artist:23J5hZ2N7m0UpmdziiYAc2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl"
+            },
+            "href": "https://api.spotify.com/v1/artists/73lC9QGob3QCyXallwiSWl",
+            "id": "73lC9QGob3QCyXallwiSWl",
+            "name": "Ryan Shade",
+            "type": "artist",
+            "uri": "spotify:artist:73lC9QGob3QCyXallwiSWl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206355,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Dca0REtMaazrwoI5YS0ib",
+        "id": "6Dca0REtMaazrwoI5YS0ib",
+        "is_local": false,
+        "name": "Feel This",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Dca0REtMaazrwoI5YS0ib"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:16mrraWea47jlXf8nPwNyu"
+}

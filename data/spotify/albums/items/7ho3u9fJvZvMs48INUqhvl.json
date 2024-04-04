@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BPwxhCvvcb8xDl8GWIjbh",
+      "id": "2BPwxhCvvcb8xDl8GWIjbh",
+      "name": "Odeal",
+      "type": "artist",
+      "uri": "spotify:artist:2BPwxhCvvcb8xDl8GWIjbh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 OVMBR",
+      "type": "C"
+    },
+    {
+      "text": "2024 OVMBR",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063413975049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7ho3u9fJvZvMs48INUqhvl",
+  "id": "7ho3u9fJvZvMs48INUqhvl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa273a3b1712144001a553c8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa273a3b1712144001a553c8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa273a3b1712144001a553c8",
+      "width": 64
+    }
+  ],
+  "label": "OVMBR",
+  "name": "Gaslight 101",
+  "popularity": 42,
+  "release_date": "2024-03-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7ho3u9fJvZvMs48INUqhvl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BPwxhCvvcb8xDl8GWIjbh",
+            "id": "2BPwxhCvvcb8xDl8GWIjbh",
+            "name": "Odeal",
+            "type": "artist",
+            "uri": "spotify:artist:2BPwxhCvvcb8xDl8GWIjbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RFUyaEgrVucSKNm4I8XJs",
+        "id": "1RFUyaEgrVucSKNm4I8XJs",
+        "is_local": false,
+        "name": "Gaslight 101",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RFUyaEgrVucSKNm4I8XJs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7ho3u9fJvZvMs48INUqhvl"
+}

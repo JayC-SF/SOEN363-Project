@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6SiyKSeJo6gcsS2NvuAbsl",
+      "id": "6SiyKSeJo6gcsS2NvuAbsl",
+      "name": "zebrahead",
+      "type": "artist",
+      "uri": "spotify:artist:6SiyKSeJo6gcsS2NvuAbsl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2006 Zebrahead, under exclusive license to Steamha",
+      "type": "C"
+    },
+    {
+      "text": "2006 Zebrahead",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0693723978833"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Lbn46kQ7tF7kTv7b519Mq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Lbn46kQ7tF7kTv7b519Mq",
+  "id": "4Lbn46kQ7tF7kTv7b519Mq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735eaa3e53a35e2e9985ae514b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025eaa3e53a35e2e9985ae514b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515eaa3e53a35e2e9985ae514b",
+      "width": 64
+    }
+  ],
+  "label": "Steamhammer",
+  "name": "Anthem",
+  "popularity": 0,
+  "release_date": "2006-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Lbn46kQ7tF7kTv7b519Mq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6SiyKSeJo6gcsS2NvuAbsl",
+            "id": "6SiyKSeJo6gcsS2NvuAbsl",
+            "name": "zebrahead",
+            "type": "artist",
+            "uri": "spotify:artist:6SiyKSeJo6gcsS2NvuAbsl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ekgGxOwaUmqXsEfrdevsA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ekgGxOwaUmqXsEfrdevsA",
+        "id": "6ekgGxOwaUmqXsEfrdevsA",
+        "is_local": false,
+        "name": "Anthem",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ekgGxOwaUmqXsEfrdevsA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6SiyKSeJo6gcsS2NvuAbsl",
+            "id": "6SiyKSeJo6gcsS2NvuAbsl",
+            "name": "zebrahead",
+            "type": "artist",
+            "uri": "spotify:artist:6SiyKSeJo6gcsS2NvuAbsl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tzsAiUtWyoW1c1QGKBkfQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tzsAiUtWyoW1c1QGKBkfQ",
+        "id": "7tzsAiUtWyoW1c1QGKBkfQ",
+        "is_local": false,
+        "name": "Riot Girl",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7tzsAiUtWyoW1c1QGKBkfQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4Lbn46kQ7tF7kTv7b519Mq"
+}

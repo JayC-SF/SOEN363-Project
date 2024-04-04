@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aoTIxQJvGyH2vLza8yOe5",
+      "id": "0aoTIxQJvGyH2vLza8yOe5",
+      "name": "Syndrome",
+      "type": "artist",
+      "uri": "spotify:artist:0aoTIxQJvGyH2vLza8yOe5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 ProdBySyndrome",
+      "type": "C"
+    },
+    {
+      "text": "2022 ProdBySyndrome",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196865515206"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1qMSDChUK4m558r20Z1god"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1qMSDChUK4m558r20Z1god",
+  "id": "1qMSDChUK4m558r20Z1god",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395e70535d7eff5c2c6ae966e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295e70535d7eff5c2c6ae966e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195e70535d7eff5c2c6ae966e",
+      "width": 64
+    }
+  ],
+  "label": "ProdBySyndrome",
+  "name": "Duel",
+  "popularity": 0,
+  "release_date": "2022-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1qMSDChUK4m558r20Z1god/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aoTIxQJvGyH2vLza8yOe5",
+            "id": "0aoTIxQJvGyH2vLza8yOe5",
+            "name": "Syndrome",
+            "type": "artist",
+            "uri": "spotify:artist:0aoTIxQJvGyH2vLza8yOe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135023,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wQ6e25OX1MAwnpa7zXbOI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1wQ6e25OX1MAwnpa7zXbOI",
+        "id": "1wQ6e25OX1MAwnpa7zXbOI",
+        "is_local": false,
+        "name": "Duel",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1wQ6e25OX1MAwnpa7zXbOI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1qMSDChUK4m558r20Z1god"
+}

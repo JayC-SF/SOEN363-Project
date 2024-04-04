@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+      },
+      "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+      "id": "6s22t5Y3prQHyaHWUN1R1C",
+      "name": "AJR",
+      "type": "artist",
+      "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "2020 AJR Productions",
+      "type": "C"
+    },
+    {
+      "text": "2020 AJR Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004072565"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0BMvSQK3y8nfvgN09KphZc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0BMvSQK3y8nfvgN09KphZc",
+  "id": "0BMvSQK3y8nfvgN09KphZc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b043bb1b8c127ff212aee60a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b043bb1b8c127ff212aee60a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b043bb1b8c127ff212aee60a",
+      "width": 64
+    }
+  ],
+  "label": "Liberator Music",
+  "name": "Bang!",
+  "popularity": 41,
+  "release_date": "2020-02-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0BMvSQK3y8nfvgN09KphZc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+            },
+            "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+            "id": "6s22t5Y3prQHyaHWUN1R1C",
+            "name": "AJR",
+            "type": "artist",
+            "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 170858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zrvbvUB7T3d1mi69885VZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zrvbvUB7T3d1mi69885VZ",
+        "id": "5zrvbvUB7T3d1mi69885VZ",
+        "is_local": false,
+        "name": "Bang!",
+        "preview_url": "https://p.scdn.co/mp3-preview/74f911dec3dfddbf7919e6139faf19aa37795d42?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zrvbvUB7T3d1mi69885VZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0BMvSQK3y8nfvgN09KphZc"
+}

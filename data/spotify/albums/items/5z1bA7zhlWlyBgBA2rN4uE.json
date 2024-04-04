@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+      },
+      "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+      "id": "2uYWxilOVlUdk4oV9DvwqK",
+      "name": "Mitski",
+      "type": "artist",
+      "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Dead Oceans",
+      "type": "C"
+    },
+    {
+      "text": "2021 Dead Oceans",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "617308017922"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5z1bA7zhlWlyBgBA2rN4uE",
+  "id": "5z1bA7zhlWlyBgBA2rN4uE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f37ac54d8f3e45f0d1d015bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f37ac54d8f3e45f0d1d015bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f37ac54d8f3e45f0d1d015bd",
+      "width": 64
+    }
+  ],
+  "label": "Dead Oceans",
+  "name": "Working for the Knife",
+  "popularity": 0,
+  "release_date": "2021-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5z1bA7zhlWlyBgBA2rN4uE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+            "id": "2uYWxilOVlUdk4oV9DvwqK",
+            "name": "Mitski",
+            "type": "artist",
+            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158617,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/46OaeacE8RjnE49MB5B2Lt",
+        "id": "46OaeacE8RjnE49MB5B2Lt",
+        "is_local": false,
+        "name": "Working for the Knife",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:46OaeacE8RjnE49MB5B2Lt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5z1bA7zhlWlyBgBA2rN4uE"
+}

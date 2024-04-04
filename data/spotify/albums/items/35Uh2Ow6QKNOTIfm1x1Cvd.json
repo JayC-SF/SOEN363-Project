@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+      },
+      "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+      "id": "2p1fiYHYiXz9qi0JJyxBzN",
+      "name": "Skepta",
+      "type": "artist",
+      "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 3Beat Productions Limited, under exclusive licence from Boy Better Know",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 3Beat Productions Limited, under exclusive licence from Boy Better Know",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "05037128210559"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35Uh2Ow6QKNOTIfm1x1Cvd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/35Uh2Ow6QKNOTIfm1x1Cvd",
+  "id": "35Uh2Ow6QKNOTIfm1x1Cvd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738352a2129c3e4b11a2238d1a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028352a2129c3e4b11a2238d1a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518352a2129c3e4b11a2238d1a",
+      "width": 64
+    }
+  ],
+  "label": "All Around The World",
+  "name": "That's Not Me",
+  "popularity": 42,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35Uh2Ow6QKNOTIfm1x1Cvd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+            "id": "2p1fiYHYiXz9qi0JJyxBzN",
+            "name": "Skepta",
+            "type": "artist",
+            "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4IZLJdhHCqAvT4pjn8TLH5",
+            "id": "4IZLJdhHCqAvT4pjn8TLH5",
+            "name": "Jme",
+            "type": "artist",
+            "uri": "spotify:artist:4IZLJdhHCqAvT4pjn8TLH5"
+          }
+        ],
+        "available_markets": [
+          "GB",
+          "IE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 184856,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gM8W8TMQR76A08Caq6lvB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gM8W8TMQR76A08Caq6lvB",
+        "id": "5gM8W8TMQR76A08Caq6lvB",
+        "is_local": false,
+        "name": "That's Not Me",
+        "preview_url": "https://p.scdn.co/mp3-preview/b5d71237ed0478b755360858575d38666d839d58?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5gM8W8TMQR76A08Caq6lvB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:35Uh2Ow6QKNOTIfm1x1Cvd"
+}

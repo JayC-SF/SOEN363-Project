@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+      },
+      "href": "https://api.spotify.com/v1/artists/1zkKkDDra0jlsiJYz57P3P",
+      "id": "1zkKkDDra0jlsiJYz57P3P",
+      "name": "Mustafa",
+      "type": "artist",
+      "uri": "spotify:artist:1zkKkDDra0jlsiJYz57P3P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Regent Park Songs",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Regent Park Songs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197190056235"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bKT0c0tDqVeHx3G4VPGai",
+  "id": "1bKT0c0tDqVeHx3G4VPGai",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389e895dda84bee4d280152b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289e895dda84bee4d280152b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189e895dda84bee4d280152b4",
+      "width": 64
+    }
+  ],
+  "label": "Regent Park Songs",
+  "name": "Name of God",
+  "popularity": 39,
+  "release_date": "2023-10-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bKT0c0tDqVeHx3G4VPGai/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zkKkDDra0jlsiJYz57P3P",
+            "id": "1zkKkDDra0jlsiJYz57P3P",
+            "name": "Mustafa",
+            "type": "artist",
+            "uri": "spotify:artist:1zkKkDDra0jlsiJYz57P3P"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208837,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6gOxexvj0mjwnRRrLXT1cB",
+        "id": "6gOxexvj0mjwnRRrLXT1cB",
+        "is_local": false,
+        "name": "Name of God",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6gOxexvj0mjwnRRrLXT1cB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1bKT0c0tDqVeHx3G4VPGai"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YPAaQvGouvRwctElZvuvk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YPAaQvGouvRwctElZvuvk",
+      "id": "0YPAaQvGouvRwctElZvuvk",
+      "name": "Furkan Demir",
+      "type": "artist",
+      "uri": "spotify:artist:0YPAaQvGouvRwctElZvuvk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Furkan Demir",
+      "type": "C"
+    },
+    {
+      "text": "2021 Furkan Demir",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196251038425"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42BAA5HZFRNPUtenFeRg4Y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42BAA5HZFRNPUtenFeRg4Y",
+  "id": "42BAA5HZFRNPUtenFeRg4Y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1c45d235635cdfacedc4985",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1c45d235635cdfacedc4985",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1c45d235635cdfacedc4985",
+      "width": 64
+    }
+  ],
+  "label": "Furkan Demir",
+  "name": "Via #HlmSound",
+  "popularity": 0,
+  "release_date": "2021-05-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42BAA5HZFRNPUtenFeRg4Y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YPAaQvGouvRwctElZvuvk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YPAaQvGouvRwctElZvuvk",
+            "id": "0YPAaQvGouvRwctElZvuvk",
+            "name": "Furkan Demir",
+            "type": "artist",
+            "uri": "spotify:artist:0YPAaQvGouvRwctElZvuvk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191033,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ecZy00wZxEdSfh9sh3P3d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ecZy00wZxEdSfh9sh3P3d",
+        "id": "5ecZy00wZxEdSfh9sh3P3d",
+        "is_local": false,
+        "name": "Via #HlmSound",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ecZy00wZxEdSfh9sh3P3d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42BAA5HZFRNPUtenFeRg4Y"
+}

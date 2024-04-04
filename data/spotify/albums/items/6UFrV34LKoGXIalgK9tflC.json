@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2005 Zomba Recording LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "828767177656"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6UFrV34LKoGXIalgK9tflC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6UFrV34LKoGXIalgK9tflC",
+  "id": "6UFrV34LKoGXIalgK9tflC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfb91f240c3b26bba5113718",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfb91f240c3b26bba5113718",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfb91f240c3b26bba5113718",
+      "width": 64
+    }
+  ],
+  "label": "Jive",
+  "name": "Run It!",
+  "popularity": 0,
+  "release_date": "2005-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6UFrV34LKoGXIalgK9tflC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+            "id": "6Uh8uJyN9g7oFjDK16nJgb",
+            "name": "Juelz Santana",
+            "type": "artist",
+            "uri": "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JDotiqBOKyRVehdpzxgI8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JDotiqBOKyRVehdpzxgI8",
+        "id": "0JDotiqBOKyRVehdpzxgI8",
+        "is_local": false,
+        "name": "Run It!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0JDotiqBOKyRVehdpzxgI8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6UFrV34LKoGXIalgK9tflC"
+}

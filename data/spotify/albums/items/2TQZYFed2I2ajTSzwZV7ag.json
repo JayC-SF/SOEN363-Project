@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6HUm6AHJE0oisACMN6NNJ5",
+      "id": "6HUm6AHJE0oisACMN6NNJ5",
+      "name": "Faul & Wad",
+      "type": "artist",
+      "uri": "spotify:artist:6HUm6AHJE0oisACMN6NNJ5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+      },
+      "href": "https://api.spotify.com/v1/artists/6n28c9qs9hNGriNa72b26u",
+      "id": "6n28c9qs9hNGriNa72b26u",
+      "name": "PNAU",
+      "type": "artist",
+      "uri": "spotify:artist:6n28c9qs9hNGriNa72b26u"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 WePLAY Music and Management GmbH & Co. KG under exclusive license to Four Music Productions GmbH, a unit of Sony Music Entertainment Germany GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444316682"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2TQZYFed2I2ajTSzwZV7ag"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2TQZYFed2I2ajTSzwZV7ag",
+  "id": "2TQZYFed2I2ajTSzwZV7ag",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1df10e5de6aeee30f789440",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1df10e5de6aeee30f789440",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1df10e5de6aeee30f789440",
+      "width": 64
+    }
+  ],
+  "label": "Four Music",
+  "name": "Changes",
+  "popularity": 0,
+  "release_date": "2013-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2TQZYFed2I2ajTSzwZV7ag/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HUm6AHJE0oisACMN6NNJ5",
+            "id": "6HUm6AHJE0oisACMN6NNJ5",
+            "name": "Faul & Wad",
+            "type": "artist",
+            "uri": "spotify:artist:6HUm6AHJE0oisACMN6NNJ5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+            },
+            "href": "https://api.spotify.com/v1/artists/6n28c9qs9hNGriNa72b26u",
+            "id": "6n28c9qs9hNGriNa72b26u",
+            "name": "PNAU",
+            "type": "artist",
+            "uri": "spotify:artist:6n28c9qs9hNGriNa72b26u"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 345173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13qqdlSeF8FcxsRyapDMZ0",
+        "id": "13qqdlSeF8FcxsRyapDMZ0",
+        "is_local": false,
+        "name": "Changes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13qqdlSeF8FcxsRyapDMZ0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2TQZYFed2I2ajTSzwZV7ag"
+}

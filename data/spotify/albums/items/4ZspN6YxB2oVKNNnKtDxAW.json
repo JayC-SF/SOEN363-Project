@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TffQbBN7iT1M1HFMvBSJp"
+      },
+      "href": "https://api.spotify.com/v1/artists/0TffQbBN7iT1M1HFMvBSJp",
+      "id": "0TffQbBN7iT1M1HFMvBSJp",
+      "name": "Jon Caryl",
+      "type": "artist",
+      "uri": "spotify:artist:0TffQbBN7iT1M1HFMvBSJp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Jon Caryl under exclusive licence to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2020 Jon Caryl",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526018372"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZspN6YxB2oVKNNnKtDxAW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZspN6YxB2oVKNNnKtDxAW",
+  "id": "4ZspN6YxB2oVKNNnKtDxAW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a5ce26422904b02ada5bc4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a5ce26422904b02ada5bc4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a5ce26422904b02ada5bc4f",
+      "width": 64
+    }
+  ],
+  "label": "frtyfve",
+  "name": "Roses Are Red",
+  "popularity": 0,
+  "release_date": "2020-09-25",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZspN6YxB2oVKNNnKtDxAW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TffQbBN7iT1M1HFMvBSJp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TffQbBN7iT1M1HFMvBSJp",
+            "id": "0TffQbBN7iT1M1HFMvBSJp",
+            "name": "Jon Caryl",
+            "type": "artist",
+            "uri": "spotify:artist:0TffQbBN7iT1M1HFMvBSJp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212392,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fpN8QupuxLStxUa7w6qBj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fpN8QupuxLStxUa7w6qBj",
+        "id": "4fpN8QupuxLStxUa7w6qBj",
+        "is_local": false,
+        "name": "Roses Are Red (Violets Are Blue)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4fpN8QupuxLStxUa7w6qBj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TffQbBN7iT1M1HFMvBSJp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TffQbBN7iT1M1HFMvBSJp",
+            "id": "0TffQbBN7iT1M1HFMvBSJp",
+            "name": "Jon Caryl",
+            "type": "artist",
+            "uri": "spotify:artist:0TffQbBN7iT1M1HFMvBSJp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 314500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43e5g67puIXFWXCpRrvxzm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43e5g67puIXFWXCpRrvxzm",
+        "id": "43e5g67puIXFWXCpRrvxzm",
+        "is_local": false,
+        "name": "Roses Are Red - Demo",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:43e5g67puIXFWXCpRrvxzm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZspN6YxB2oVKNNnKtDxAW"
+}

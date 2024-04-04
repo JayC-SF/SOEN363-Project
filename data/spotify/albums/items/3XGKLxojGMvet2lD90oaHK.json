@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6AIOryuWNK1CH85kqXrSHV"
+      },
+      "href": "https://api.spotify.com/v1/artists/6AIOryuWNK1CH85kqXrSHV",
+      "id": "6AIOryuWNK1CH85kqXrSHV",
+      "name": "Falobi Twins",
+      "type": "artist",
+      "uri": "spotify:artist:6AIOryuWNK1CH85kqXrSHV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 FTK",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 FTK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720355424420"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3XGKLxojGMvet2lD90oaHK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3XGKLxojGMvet2lD90oaHK",
+  "id": "3XGKLxojGMvet2lD90oaHK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dab20f82615a57332454c9d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dab20f82615a57332454c9d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dab20f82615a57332454c9d5",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "American Wonder",
+  "popularity": 0,
+  "release_date": "2021-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3XGKLxojGMvet2lD90oaHK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AIOryuWNK1CH85kqXrSHV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6AIOryuWNK1CH85kqXrSHV",
+            "id": "6AIOryuWNK1CH85kqXrSHV",
+            "name": "Falobi Twins",
+            "type": "artist",
+            "uri": "spotify:artist:6AIOryuWNK1CH85kqXrSHV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179411,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MtQDbBhXwfK6FrqB8fHXn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MtQDbBhXwfK6FrqB8fHXn",
+        "id": "6MtQDbBhXwfK6FrqB8fHXn",
+        "is_local": false,
+        "name": "American Wonder",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6MtQDbBhXwfK6FrqB8fHXn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3XGKLxojGMvet2lD90oaHK"
+}

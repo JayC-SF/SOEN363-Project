@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+      },
+      "href": "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+      "id": "18ISxWwWjV6rPLoVCXf1dz",
+      "name": "RIN",
+      "type": "artist",
+      "uri": "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 DIVISION",
+      "type": "C"
+    },
+    {
+      "text": "2017 DIVISION",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939320539"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Fb47kJqJd4xfvZnRSjiBg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Fb47kJqJd4xfvZnRSjiBg",
+  "id": "1Fb47kJqJd4xfvZnRSjiBg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738fc9f8d8350be84dcd33e0b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028fc9f8d8350be84dcd33e0b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518fc9f8d8350be84dcd33e0b7",
+      "width": 64
+    }
+  ],
+  "label": "DIVISION",
+  "name": "Doverstreet",
+  "popularity": 0,
+  "release_date": "2017-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Fb47kJqJd4xfvZnRSjiBg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+            },
+            "href": "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+            "id": "18ISxWwWjV6rPLoVCXf1dz",
+            "name": "RIN",
+            "type": "artist",
+            "uri": "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185130,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xqwc88RkTu9Ybwn6oS7Ea"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Xqwc88RkTu9Ybwn6oS7Ea",
+        "id": "2Xqwc88RkTu9Ybwn6oS7Ea",
+        "is_local": false,
+        "name": "Doverstreet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Xqwc88RkTu9Ybwn6oS7Ea"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Fb47kJqJd4xfvZnRSjiBg"
+}

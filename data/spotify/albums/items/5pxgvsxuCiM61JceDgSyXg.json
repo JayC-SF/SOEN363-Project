@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href": "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id": "7lZauDnRoAC3kmaYae2opv",
+      "name": "Dabin",
+      "type": "artist",
+      "uri": "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W"
+      },
+      "href": "https://api.spotify.com/v1/artists/0GABmJRgNaIyOYzpslzG2W",
+      "id": "0GABmJRgNaIyOYzpslzG2W",
+      "name": "Outwild",
+      "type": "artist",
+      "uri": "spotify:artist:0GABmJRgNaIyOYzpslzG2W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+      },
+      "href": "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+      "id": "3RTklnRcfHgkQJwFpgOq3t",
+      "name": "Nevve",
+      "type": "artist",
+      "uri": "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Seeking Blue",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Seeking Blue",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641275654"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5pxgvsxuCiM61JceDgSyXg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5pxgvsxuCiM61JceDgSyXg",
+  "id": "5pxgvsxuCiM61JceDgSyXg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273263aa5ce16b50e7fcd761251",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02263aa5ce16b50e7fcd761251",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851263aa5ce16b50e7fcd761251",
+      "width": 64
+    }
+  ],
+  "label": "Seeking Blue",
+  "name": "Another Day",
+  "popularity": 0,
+  "release_date": "2019-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5pxgvsxuCiM61JceDgSyXg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+            },
+            "href": "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+            "id": "7lZauDnRoAC3kmaYae2opv",
+            "name": "Dabin",
+            "type": "artist",
+            "uri": "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GABmJRgNaIyOYzpslzG2W",
+            "id": "0GABmJRgNaIyOYzpslzG2W",
+            "name": "Outwild",
+            "type": "artist",
+            "uri": "spotify:artist:0GABmJRgNaIyOYzpslzG2W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+            "id": "3RTklnRcfHgkQJwFpgOq3t",
+            "name": "Nevve",
+            "type": "artist",
+            "uri": "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182062,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jcy8ioaxqYh9tGHvOOctm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jcy8ioaxqYh9tGHvOOctm",
+        "id": "6jcy8ioaxqYh9tGHvOOctm",
+        "is_local": false,
+        "name": "Another Day",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6jcy8ioaxqYh9tGHvOOctm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5pxgvsxuCiM61JceDgSyXg"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+      },
+      "href": "https://api.spotify.com/v1/artists/1qFp8zDvsXyCsC5dqz8X4S",
+      "id": "1qFp8zDvsXyCsC5dqz8X4S",
+      "name": "Sushin Shyam",
+      "type": "artist",
+      "uri": "spotify:artist:1qFp8zDvsXyCsC5dqz8X4S"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8907212002580"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5wPX6VrVyz7YpSSB8blJAD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5wPX6VrVyz7YpSSB8blJAD",
+  "id": "5wPX6VrVyz7YpSSB8blJAD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273178864eb58c22744eef1ffc4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02178864eb58c22744eef1ffc4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851178864eb58c22744eef1ffc4",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Athmave Poo (From \"Romancham\")",
+  "popularity": 53,
+  "release_date": "2022-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5wPX6VrVyz7YpSSB8blJAD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qFp8zDvsXyCsC5dqz8X4S",
+            "id": "1qFp8zDvsXyCsC5dqz8X4S",
+            "name": "Sushin Shyam",
+            "type": "artist",
+            "uri": "spotify:artist:1qFp8zDvsXyCsC5dqz8X4S"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216976,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5M3GTHCnzxvUmEhjAh8tT1",
+        "id": "5M3GTHCnzxvUmEhjAh8tT1",
+        "is_local": false,
+        "name": "Athmave Poo",
+        "preview_url": "https://p.scdn.co/mp3-preview/66b0bee34b61828f1a71f1f3f4cc17e3595863ad?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5M3GTHCnzxvUmEhjAh8tT1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5wPX6VrVyz7YpSSB8blJAD"
+}

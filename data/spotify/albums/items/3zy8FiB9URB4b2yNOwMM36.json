@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id": "6PfSUFtkMVoDkx4MQkzOi3",
+      "name": "100 gecs",
+      "type": "artist",
+      "uri": "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Dog Show Records/Atlantic Records, \u00a9 2021 Atlantic Recording Corporation",
+      "type": "C"
+    },
+    {
+      "text": "Dog Show Records/Atlantic Records, \u2117 2021 Atlantic Recording Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679767929"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3zy8FiB9URB4b2yNOwMM36",
+  "id": "3zy8FiB9URB4b2yNOwMM36",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315f43cdcef95f701e57a3c77",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215f43cdcef95f701e57a3c77",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115f43cdcef95f701e57a3c77",
+      "width": 64
+    }
+  ],
+  "label": "Dog Show Records",
+  "name": "mememe",
+  "popularity": 0,
+  "release_date": "2021-11-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3zy8FiB9URB4b2yNOwMM36/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+            "id": "6PfSUFtkMVoDkx4MQkzOi3",
+            "name": "100 gecs",
+            "type": "artist",
+            "uri": "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166003,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Tdkz4mLxN8szqcMeNWcI8",
+        "id": "2Tdkz4mLxN8szqcMeNWcI8",
+        "is_local": false,
+        "name": "mememe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Tdkz4mLxN8szqcMeNWcI8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3zy8FiB9URB4b2yNOwMM36"
+}

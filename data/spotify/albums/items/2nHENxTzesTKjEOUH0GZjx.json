@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+      },
+      "href": "https://api.spotify.com/v1/artists/5f5mH9BDkeyXmDbzevu38d",
+      "id": "5f5mH9BDkeyXmDbzevu38d",
+      "name": "Alfons",
+      "type": "artist",
+      "uri": "spotify:artist:5f5mH9BDkeyXmDbzevu38d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Alfons, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2015 Alfons, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7332900090120"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2nHENxTzesTKjEOUH0GZjx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2nHENxTzesTKjEOUH0GZjx",
+  "id": "2nHENxTzesTKjEOUH0GZjx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27304d1929c0041ff13db2a28fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0204d1929c0041ff13db2a28fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485104d1929c0041ff13db2a28fd",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Glitch 2015",
+  "popularity": 0,
+  "release_date": "2015-05-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2nHENxTzesTKjEOUH0GZjx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+            },
+            "href": "https://api.spotify.com/v1/artists/5f5mH9BDkeyXmDbzevu38d",
+            "id": "5f5mH9BDkeyXmDbzevu38d",
+            "name": "Alfons",
+            "type": "artist",
+            "uri": "spotify:artist:5f5mH9BDkeyXmDbzevu38d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159653,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z61IlHbCm31jfYfytfq4v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Z61IlHbCm31jfYfytfq4v",
+        "id": "0Z61IlHbCm31jfYfytfq4v",
+        "is_local": false,
+        "name": "Glitch 2015",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Z61IlHbCm31jfYfytfq4v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2nHENxTzesTKjEOUH0GZjx"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Z2anZ5fPhykLkMi7E7lC5",
+      "id": "2Z2anZ5fPhykLkMi7E7lC5",
+      "name": "Seth Luke",
+      "type": "artist",
+      "uri": "spotify:artist:2Z2anZ5fPhykLkMi7E7lC5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 ST Kids",
+      "type": "C"
+    },
+    {
+      "text": "2020 ST Kids",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "669356143498"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1N5vigLqBS3jOrWeWr3mRY",
+  "id": "1N5vigLqBS3jOrWeWr3mRY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae14c0ed695bf46b3d77a3a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae14c0ed695bf46b3d77a3a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae14c0ed695bf46b3d77a3a0",
+      "width": 64
+    }
+  ],
+  "label": "ST Kids",
+  "name": "thank u, next",
+  "popularity": 0,
+  "release_date": "2020-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1N5vigLqBS3jOrWeWr3mRY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Z2anZ5fPhykLkMi7E7lC5",
+            "id": "2Z2anZ5fPhykLkMi7E7lC5",
+            "name": "Seth Luke",
+            "type": "artist",
+            "uri": "spotify:artist:2Z2anZ5fPhykLkMi7E7lC5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1k8qyGwxBAYnrxJB275I3J",
+        "id": "1k8qyGwxBAYnrxJB275I3J",
+        "is_local": false,
+        "name": "thank u, next",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1k8qyGwxBAYnrxJB275I3J"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1N5vigLqBS3jOrWeWr3mRY"
+}

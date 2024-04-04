@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fWrZ2q4fGZAnuCPfgSU52",
+      "id": "7fWrZ2q4fGZAnuCPfgSU52",
+      "name": "Cody Lovaas",
+      "type": "artist",
+      "uri": "spotify:artist:7fWrZ2q4fGZAnuCPfgSU52"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Black Box",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 Black Box",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562087930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Yj3ljAnctwvkJBWWEgBCS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Yj3ljAnctwvkJBWWEgBCS",
+  "id": "2Yj3ljAnctwvkJBWWEgBCS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c40d57c5df131729c6808b13",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c40d57c5df131729c6808b13",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c40d57c5df131729c6808b13",
+      "width": 64
+    }
+  ],
+  "label": "Black Box",
+  "name": "Prove It",
+  "popularity": 0,
+  "release_date": "2018-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Yj3ljAnctwvkJBWWEgBCS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fWrZ2q4fGZAnuCPfgSU52",
+            "id": "7fWrZ2q4fGZAnuCPfgSU52",
+            "name": "Cody Lovaas",
+            "type": "artist",
+            "uri": "spotify:artist:7fWrZ2q4fGZAnuCPfgSU52"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187494,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70SqaH6AnJ8cl1fo5Pt0H6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70SqaH6AnJ8cl1fo5Pt0H6",
+        "id": "70SqaH6AnJ8cl1fo5Pt0H6",
+        "is_local": false,
+        "name": "Prove It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70SqaH6AnJ8cl1fo5Pt0H6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Yj3ljAnctwvkJBWWEgBCS"
+}

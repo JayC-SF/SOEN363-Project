@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hGKekI3zRPjDmzUCWXdCR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hGKekI3zRPjDmzUCWXdCR",
+      "id": "6hGKekI3zRPjDmzUCWXdCR",
+      "name": "Claude Kelly",
+      "type": "artist",
+      "uri": "spotify:artist:6hGKekI3zRPjDmzUCWXdCR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Claude Kelly",
+      "type": "C"
+    },
+    {
+      "text": "2019 Claude Kelly",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859732832577"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49MsAWmb7Yw1zsW1NDV7fI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49MsAWmb7Yw1zsW1NDV7fI",
+  "id": "49MsAWmb7Yw1zsW1NDV7fI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385847aed77baab431bd671f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285847aed77baab431bd671f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185847aed77baab431bd671f5",
+      "width": 64
+    }
+  ],
+  "label": "Claude Kelly",
+  "name": "Forever",
+  "popularity": 0,
+  "release_date": "2019-06-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49MsAWmb7Yw1zsW1NDV7fI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hGKekI3zRPjDmzUCWXdCR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6hGKekI3zRPjDmzUCWXdCR",
+            "id": "6hGKekI3zRPjDmzUCWXdCR",
+            "name": "Claude Kelly",
+            "type": "artist",
+            "uri": "spotify:artist:6hGKekI3zRPjDmzUCWXdCR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261410,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72v2Z8xEVsc6lkh6x2dCZc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72v2Z8xEVsc6lkh6x2dCZc",
+        "id": "72v2Z8xEVsc6lkh6x2dCZc",
+        "is_local": false,
+        "name": "Forever",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:72v2Z8xEVsc6lkh6x2dCZc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49MsAWmb7Yw1zsW1NDV7fI"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gmdAUhCBKDs53YDBv1dGk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gmdAUhCBKDs53YDBv1dGk",
+      "id": "3gmdAUhCBKDs53YDBv1dGk",
+      "name": "Dirty Freek",
+      "type": "artist",
+      "uri": "spotify:artist:3gmdAUhCBKDs53YDBv1dGk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42h47Agym4aRSZkqc7bZSo"
+      },
+      "href": "https://api.spotify.com/v1/artists/42h47Agym4aRSZkqc7bZSo",
+      "id": "42h47Agym4aRSZkqc7bZSo",
+      "name": "In It Together",
+      "type": "artist",
+      "uri": "spotify:artist:42h47Agym4aRSZkqc7bZSo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Let There Be House Records",
+      "type": "C"
+    },
+    {
+      "text": "Copyright Control",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054282488792"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2nv7yuQ8X6x4vGQuJljjhI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2nv7yuQ8X6x4vGQuJljjhI",
+  "id": "2nv7yuQ8X6x4vGQuJljjhI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353ea9c5b137aaf85c5641898",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253ea9c5b137aaf85c5641898",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153ea9c5b137aaf85c5641898",
+      "width": 64
+    }
+  ],
+  "label": "Let There Be House Records",
+  "name": "Only When I'm Dancin'",
+  "popularity": 0,
+  "release_date": "2016-09-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2nv7yuQ8X6x4vGQuJljjhI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gmdAUhCBKDs53YDBv1dGk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gmdAUhCBKDs53YDBv1dGk",
+            "id": "3gmdAUhCBKDs53YDBv1dGk",
+            "name": "Dirty Freek",
+            "type": "artist",
+            "uri": "spotify:artist:3gmdAUhCBKDs53YDBv1dGk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42h47Agym4aRSZkqc7bZSo"
+            },
+            "href": "https://api.spotify.com/v1/artists/42h47Agym4aRSZkqc7bZSo",
+            "id": "42h47Agym4aRSZkqc7bZSo",
+            "name": "In It Together",
+            "type": "artist",
+            "uri": "spotify:artist:42h47Agym4aRSZkqc7bZSo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 327338,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ev2r0OQoD1dipWhwmIEEi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ev2r0OQoD1dipWhwmIEEi",
+        "id": "2Ev2r0OQoD1dipWhwmIEEi",
+        "is_local": false,
+        "name": "Only When I'm Dancin' - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Ev2r0OQoD1dipWhwmIEEi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2nv7yuQ8X6x4vGQuJljjhI"
+}

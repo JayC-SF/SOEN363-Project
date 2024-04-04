@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lXVIRR4ceMIEmdIxEfV5m"
+      },
+      "href": "https://api.spotify.com/v1/artists/5lXVIRR4ceMIEmdIxEfV5m",
+      "id": "5lXVIRR4ceMIEmdIxEfV5m",
+      "name": "DJ Juku",
+      "type": "artist",
+      "uri": "spotify:artist:5lXVIRR4ceMIEmdIxEfV5m"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2926447 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 2926447 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196052837906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/47lVlfNucJIRbM52yjkobY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/47lVlfNucJIRbM52yjkobY",
+  "id": "47lVlfNucJIRbM52yjkobY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e890dff0972f3af7004de34",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e890dff0972f3af7004de34",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e890dff0972f3af7004de34",
+      "width": 64
+    }
+  ],
+  "label": "2926447 Records DK",
+  "name": "Suck it Up",
+  "popularity": 0,
+  "release_date": "2021-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/47lVlfNucJIRbM52yjkobY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lXVIRR4ceMIEmdIxEfV5m"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lXVIRR4ceMIEmdIxEfV5m",
+            "id": "5lXVIRR4ceMIEmdIxEfV5m",
+            "name": "DJ Juku",
+            "type": "artist",
+            "uri": "spotify:artist:5lXVIRR4ceMIEmdIxEfV5m"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 294023,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14K9tFe78YzR5EQqFC3sTs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14K9tFe78YzR5EQqFC3sTs",
+        "id": "14K9tFe78YzR5EQqFC3sTs",
+        "is_local": false,
+        "name": "Suck it Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:14K9tFe78YzR5EQqFC3sTs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:47lVlfNucJIRbM52yjkobY"
+}

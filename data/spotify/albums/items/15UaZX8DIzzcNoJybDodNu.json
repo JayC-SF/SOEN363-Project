@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YYbAExunnHv5pW7GUZefk",
+      "id": "3YYbAExunnHv5pW7GUZefk",
+      "name": "DC The Don",
+      "type": "artist",
+      "uri": "spotify:artist:3YYbAExunnHv5pW7GUZefk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HWXxzgBIr0RMSZmvMZeJU",
+      "id": "2HWXxzgBIr0RMSZmvMZeJU",
+      "name": "Almighty Jay",
+      "type": "artist",
+      "uri": "spotify:artist:2HWXxzgBIr0RMSZmvMZeJU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WK3H9OErSn5zKOkOV5egm",
+      "id": "0WK3H9OErSn5zKOkOV5egm",
+      "name": "DDG",
+      "type": "artist",
+      "uri": "spotify:artist:0WK3H9OErSn5zKOkOV5egm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 OUTLAW",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 OUTLAW",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641424151"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/15UaZX8DIzzcNoJybDodNu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/15UaZX8DIzzcNoJybDodNu",
+  "id": "15UaZX8DIzzcNoJybDodNu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f8b7a314ab46003f8a30c4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f8b7a314ab46003f8a30c4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f8b7a314ab46003f8a30c4d",
+      "width": 64
+    }
+  ],
+  "label": "DC The Don",
+  "name": "Red Light",
+  "popularity": 0,
+  "release_date": "2020-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/15UaZX8DIzzcNoJybDodNu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YYbAExunnHv5pW7GUZefk",
+            "id": "3YYbAExunnHv5pW7GUZefk",
+            "name": "DC The Don",
+            "type": "artist",
+            "uri": "spotify:artist:3YYbAExunnHv5pW7GUZefk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HWXxzgBIr0RMSZmvMZeJU",
+            "id": "2HWXxzgBIr0RMSZmvMZeJU",
+            "name": "Almighty Jay",
+            "type": "artist",
+            "uri": "spotify:artist:2HWXxzgBIr0RMSZmvMZeJU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WK3H9OErSn5zKOkOV5egm",
+            "id": "0WK3H9OErSn5zKOkOV5egm",
+            "name": "DDG",
+            "type": "artist",
+            "uri": "spotify:artist:0WK3H9OErSn5zKOkOV5egm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228997,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BAQQWFkM3c2fa9atBCnEv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BAQQWFkM3c2fa9atBCnEv",
+        "id": "4BAQQWFkM3c2fa9atBCnEv",
+        "is_local": false,
+        "name": "Red Light",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4BAQQWFkM3c2fa9atBCnEv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:15UaZX8DIzzcNoJybDodNu"
+}

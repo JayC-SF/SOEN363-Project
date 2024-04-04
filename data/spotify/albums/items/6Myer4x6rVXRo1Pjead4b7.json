@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+      "id": "6ASri4ePR7RlsvIQgWPJpS",
+      "name": "iann dior",
+      "type": "artist",
+      "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 10K Projects",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 10K Projects",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00842812178665"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Myer4x6rVXRo1Pjead4b7",
+  "id": "6Myer4x6rVXRo1Pjead4b7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273265395db07bafbadac67637b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02265395db07bafbadac67637b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851265395db07bafbadac67637b",
+      "width": 64
+    }
+  ],
+  "label": "10K Projects",
+  "name": "saddest soundtrack",
+  "popularity": 0,
+  "release_date": "2022-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Myer4x6rVXRo1Pjead4b7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+            "id": "6ASri4ePR7RlsvIQgWPJpS",
+            "name": "iann dior",
+            "type": "artist",
+            "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169789,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HMwQR2U8VBEow0JzOAmA4",
+        "id": "1HMwQR2U8VBEow0JzOAmA4",
+        "is_local": false,
+        "name": "saddest soundtrack",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1HMwQR2U8VBEow0JzOAmA4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Myer4x6rVXRo1Pjead4b7"
+}

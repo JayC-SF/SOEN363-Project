@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+      },
+      "href": "https://api.spotify.com/v1/artists/6yeRY2d7gubXoymv3DAYhS",
+      "id": "6yeRY2d7gubXoymv3DAYhS",
+      "name": "Fire From The Gods",
+      "type": "artist",
+      "uri": "spotify:artist:6yeRY2d7gubXoymv3DAYhS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Eleven Seven Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 Eleven Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320059400"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0CTiiacS0NVOYgQnHLRPGa",
+  "id": "0CTiiacS0NVOYgQnHLRPGa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ceb0cf272ef1fb427a640f5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ceb0cf272ef1fb427a640f5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ceb0cf272ef1fb427a640f5e",
+      "width": 64
+    }
+  ],
+  "label": "Eleven Seven Music",
+  "name": "Right Now",
+  "popularity": 0,
+  "release_date": "2019-08-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0CTiiacS0NVOYgQnHLRPGa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yeRY2d7gubXoymv3DAYhS",
+            "id": "6yeRY2d7gubXoymv3DAYhS",
+            "name": "Fire From The Gods",
+            "type": "artist",
+            "uri": "spotify:artist:6yeRY2d7gubXoymv3DAYhS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mQaehT2IA8PAb6drI1RNB",
+        "id": "1mQaehT2IA8PAb6drI1RNB",
+        "is_local": false,
+        "name": "Right Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mQaehT2IA8PAb6drI1RNB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0CTiiacS0NVOYgQnHLRPGa"
+}

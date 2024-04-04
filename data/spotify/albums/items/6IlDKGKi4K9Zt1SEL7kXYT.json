@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/44aoeFCBHXcE6v9hM7dBcl"
+      },
+      "href": "https://api.spotify.com/v1/artists/44aoeFCBHXcE6v9hM7dBcl",
+      "id": "44aoeFCBHXcE6v9hM7dBcl",
+      "name": "Meric",
+      "type": "artist",
+      "uri": "spotify:artist:44aoeFCBHXcE6v9hM7dBcl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Meric",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Meric",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197189351198"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6IlDKGKi4K9Zt1SEL7kXYT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6IlDKGKi4K9Zt1SEL7kXYT",
+  "id": "6IlDKGKi4K9Zt1SEL7kXYT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273119c6ee75804b1881ef8d7c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02119c6ee75804b1881ef8d7c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851119c6ee75804b1881ef8d7c2",
+      "width": 64
+    }
+  ],
+  "label": "Meric",
+  "name": "Should Have Known",
+  "popularity": 0,
+  "release_date": "2023-07-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6IlDKGKi4K9Zt1SEL7kXYT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44aoeFCBHXcE6v9hM7dBcl"
+            },
+            "href": "https://api.spotify.com/v1/artists/44aoeFCBHXcE6v9hM7dBcl",
+            "id": "44aoeFCBHXcE6v9hM7dBcl",
+            "name": "Meric",
+            "type": "artist",
+            "uri": "spotify:artist:44aoeFCBHXcE6v9hM7dBcl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6chY21JxOFaa8aNn3zbYVn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6chY21JxOFaa8aNn3zbYVn",
+        "id": "6chY21JxOFaa8aNn3zbYVn",
+        "is_local": false,
+        "name": "Should Have Known",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6chY21JxOFaa8aNn3zbYVn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6IlDKGKi4K9Zt1SEL7kXYT"
+}

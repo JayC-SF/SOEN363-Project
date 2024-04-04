@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QzMY3tnu0m56eKUnr4uCF",
+      "id": "6QzMY3tnu0m56eKUnr4uCF",
+      "name": "Alfie Templeman",
+      "type": "artist",
+      "uri": "spotify:artist:6QzMY3tnu0m56eKUnr4uCF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Chess Club",
+      "type": "C"
+    },
+    {
+      "text": "2020 Chess Club",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526502772"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6BMG6KHqfPfw0oZaxNMmym",
+  "id": "6BMG6KHqfPfw0oZaxNMmym",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b310de3f4b6a069bd32314dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b310de3f4b6a069bd32314dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b310de3f4b6a069bd32314dc",
+      "width": 64
+    }
+  ],
+  "label": "Chess Club",
+  "name": "Happiness In Liquid Form",
+  "popularity": 0,
+  "release_date": "2020-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6BMG6KHqfPfw0oZaxNMmym/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QzMY3tnu0m56eKUnr4uCF",
+            "id": "6QzMY3tnu0m56eKUnr4uCF",
+            "name": "Alfie Templeman",
+            "type": "artist",
+            "uri": "spotify:artist:6QzMY3tnu0m56eKUnr4uCF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212824,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KRyn0z6znMxUUojq0NzuQ",
+        "id": "5KRyn0z6znMxUUojq0NzuQ",
+        "is_local": false,
+        "name": "Happiness In Liquid Form",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5KRyn0z6znMxUUojq0NzuQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6BMG6KHqfPfw0oZaxNMmym"
+}

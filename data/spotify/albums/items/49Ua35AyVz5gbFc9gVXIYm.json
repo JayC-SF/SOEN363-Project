@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+      "id": "2kCcBybjl3SAtIcwdWpUe3",
+      "name": "Lil Peep",
+      "type": "artist",
+      "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Lil Peep / AUTNMY",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Lil Peep / AUTNMY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526393363"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49Ua35AyVz5gbFc9gVXIYm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49Ua35AyVz5gbFc9gVXIYm",
+  "id": "49Ua35AyVz5gbFc9gVXIYm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a799a6ccb3cae62b434c12e0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a799a6ccb3cae62b434c12e0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a799a6ccb3cae62b434c12e0",
+      "width": 64
+    }
+  ],
+  "label": "Lil Peep",
+  "name": "Kiss",
+  "popularity": 40,
+  "release_date": "2016-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49Ua35AyVz5gbFc9gVXIYm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+            "id": "2kCcBybjl3SAtIcwdWpUe3",
+            "name": "Lil Peep",
+            "type": "artist",
+            "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33y7yowMkeoOnamVTffQNa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33y7yowMkeoOnamVTffQNa",
+        "id": "33y7yowMkeoOnamVTffQNa",
+        "is_local": false,
+        "name": "Kiss",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:33y7yowMkeoOnamVTffQNa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49Ua35AyVz5gbFc9gVXIYm"
+}

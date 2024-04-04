@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+      },
+      "href": "https://api.spotify.com/v1/artists/5423rMdVbchY2cgu0GgH5X",
+      "id": "5423rMdVbchY2cgu0GgH5X",
+      "name": "Happy Asmara",
+      "type": "artist",
+      "uri": "spotify:artist:5423rMdVbchY2cgu0GgH5X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 77 Music",
+      "type": "C"
+    },
+    {
+      "text": "2023 77 Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "717124544661"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6yEg8Ia4Jjs0FKdi6Zk4WI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6yEg8Ia4Jjs0FKdi6Zk4WI",
+  "id": "6yEg8Ia4Jjs0FKdi6Zk4WI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382d26206c691bd202142a22e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282d26206c691bd202142a22e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182d26206c691bd202142a22e",
+      "width": 64
+    }
+  ],
+  "label": "77 Music",
+  "name": "Ginio",
+  "popularity": 6,
+  "release_date": "2023-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6yEg8Ia4Jjs0FKdi6Zk4WI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+            },
+            "href": "https://api.spotify.com/v1/artists/5423rMdVbchY2cgu0GgH5X",
+            "id": "5423rMdVbchY2cgu0GgH5X",
+            "name": "Happy Asmara",
+            "type": "artist",
+            "uri": "spotify:artist:5423rMdVbchY2cgu0GgH5X"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5C8I8tTLdvuS4SlNoFS9dg",
+            "id": "5C8I8tTLdvuS4SlNoFS9dg",
+            "name": "Gilga Sahid",
+            "type": "artist",
+            "uri": "spotify:artist:5C8I8tTLdvuS4SlNoFS9dg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 334000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6BUhSrDZqOf20GzmramVcK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6BUhSrDZqOf20GzmramVcK",
+        "id": "6BUhSrDZqOf20GzmramVcK",
+        "is_local": false,
+        "name": "Ginio",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6BUhSrDZqOf20GzmramVcK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6yEg8Ia4Jjs0FKdi6Zk4WI"
+}

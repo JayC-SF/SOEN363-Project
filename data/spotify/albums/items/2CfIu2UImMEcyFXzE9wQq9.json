@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CeW2xghttvllIwy4AqNSg",
+      "id": "4CeW2xghttvllIwy4AqNSg",
+      "name": "Aaradhna",
+      "type": "artist",
+      "uri": "spotify:artist:4CeW2xghttvllIwy4AqNSg"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Frequency Media Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Frequency Media Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "09416339821628"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2CfIu2UImMEcyFXzE9wQq9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2CfIu2UImMEcyFXzE9wQq9",
+  "id": "2CfIu2UImMEcyFXzE9wQq9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc5133eb6146356eed14364c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc5133eb6146356eed14364c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc5133eb6146356eed14364c",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music New Zealand Limited",
+  "name": "Brown Girl",
+  "popularity": 4,
+  "release_date": "2016-07-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2CfIu2UImMEcyFXzE9wQq9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4CeW2xghttvllIwy4AqNSg",
+            "id": "4CeW2xghttvllIwy4AqNSg",
+            "name": "Aaradhna",
+            "type": "artist",
+            "uri": "spotify:artist:4CeW2xghttvllIwy4AqNSg"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251887,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lVDJqpfoHIzU6QbC3pkjD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lVDJqpfoHIzU6QbC3pkjD",
+        "id": "7lVDJqpfoHIzU6QbC3pkjD",
+        "is_local": false,
+        "name": "Brown Girl",
+        "preview_url": "https://p.scdn.co/mp3-preview/420ced3f5e201c32dd6090c339da659e62d839c0?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7lVDJqpfoHIzU6QbC3pkjD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2CfIu2UImMEcyFXzE9wQq9"
+}

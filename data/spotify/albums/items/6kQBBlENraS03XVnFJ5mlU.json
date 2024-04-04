@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+      "id": "2sSGPbdZJkaSE2AbcGOACx",
+      "name": "The Mar\u00edas",
+      "type": "artist",
+      "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Superclean Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Superclean Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840090317325"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6kQBBlENraS03XVnFJ5mlU",
+  "id": "6kQBBlENraS03XVnFJ5mlU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e1f8dfae32fdcbffbb726260",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e1f8dfae32fdcbffbb726260",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e1f8dfae32fdcbffbb726260",
+      "width": 64
+    }
+  ],
+  "label": "Superclean Records",
+  "name": "Clueless",
+  "popularity": 1,
+  "release_date": "2018-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6kQBBlENraS03XVnFJ5mlU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227234,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7mrEpwmQJ7qK1ik7ZjjcdD",
+        "id": "7mrEpwmQJ7qK1ik7ZjjcdD",
+        "is_local": false,
+        "name": "Clueless",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7mrEpwmQJ7qK1ik7ZjjcdD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6kQBBlENraS03XVnFJ5mlU"
+}

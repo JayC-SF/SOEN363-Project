@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42QnVbJ0CbNwEPhjlA4WPg"
+      },
+      "href": "https://api.spotify.com/v1/artists/42QnVbJ0CbNwEPhjlA4WPg",
+      "id": "42QnVbJ0CbNwEPhjlA4WPg",
+      "name": "Tully & Mei",
+      "type": "artist",
+      "uri": "spotify:artist:42QnVbJ0CbNwEPhjlA4WPg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Tully & Mei",
+      "type": "C"
+    },
+    {
+      "text": "2018 Tully & Mei",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193428303218"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/54OP212IS8eRV1ujTeLveE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/54OP212IS8eRV1ujTeLveE",
+  "id": "54OP212IS8eRV1ujTeLveE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738edbcee656791d7c01261ab5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028edbcee656791d7c01261ab5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518edbcee656791d7c01261ab5",
+      "width": 64
+    }
+  ],
+  "label": "Tully & Mei",
+  "name": "When She's High",
+  "popularity": 0,
+  "release_date": "2018-12-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/54OP212IS8eRV1ujTeLveE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42QnVbJ0CbNwEPhjlA4WPg"
+            },
+            "href": "https://api.spotify.com/v1/artists/42QnVbJ0CbNwEPhjlA4WPg",
+            "id": "42QnVbJ0CbNwEPhjlA4WPg",
+            "name": "Tully & Mei",
+            "type": "artist",
+            "uri": "spotify:artist:42QnVbJ0CbNwEPhjlA4WPg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255483,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uGmO825O9Em5OYv1uJi3r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uGmO825O9Em5OYv1uJi3r",
+        "id": "7uGmO825O9Em5OYv1uJi3r",
+        "is_local": false,
+        "name": "When She's High",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7uGmO825O9Em5OYv1uJi3r"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:54OP212IS8eRV1ujTeLveE"
+}

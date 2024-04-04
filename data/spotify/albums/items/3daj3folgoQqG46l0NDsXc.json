@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nbExkXVHE84hrdPPGduCI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nbExkXVHE84hrdPPGduCI",
+      "id": "4nbExkXVHE84hrdPPGduCI",
+      "name": "Antonin Charvat",
+      "type": "artist",
+      "uri": "spotify:artist:4nbExkXVHE84hrdPPGduCI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Antonin Charvat",
+      "type": "C"
+    },
+    {
+      "text": "2016 Antonin Charvat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "841787141551"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3daj3folgoQqG46l0NDsXc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3daj3folgoQqG46l0NDsXc",
+  "id": "3daj3folgoQqG46l0NDsXc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1d8904e482a2a760dbd7d48",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1d8904e482a2a760dbd7d48",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1d8904e482a2a760dbd7d48",
+      "width": 64
+    }
+  ],
+  "label": "Antonin Charvat",
+  "name": "Young and Beautiful",
+  "popularity": 0,
+  "release_date": "2016-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3daj3folgoQqG46l0NDsXc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nbExkXVHE84hrdPPGduCI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nbExkXVHE84hrdPPGduCI",
+            "id": "4nbExkXVHE84hrdPPGduCI",
+            "name": "Antonin Charvat",
+            "type": "artist",
+            "uri": "spotify:artist:4nbExkXVHE84hrdPPGduCI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240005,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SkZskLID1xp0pwnxpPpS9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SkZskLID1xp0pwnxpPpS9",
+        "id": "1SkZskLID1xp0pwnxpPpS9",
+        "is_local": false,
+        "name": "Young and Beautiful",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SkZskLID1xp0pwnxpPpS9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3daj3folgoQqG46l0NDsXc"
+}

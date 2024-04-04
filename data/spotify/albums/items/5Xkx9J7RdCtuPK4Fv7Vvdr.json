@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HQTplk1FBI562SZfiAAH4"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HQTplk1FBI562SZfiAAH4",
+      "id": "2HQTplk1FBI562SZfiAAH4",
+      "name": "1Huntxr",
+      "type": "artist",
+      "uri": "spotify:artist:2HQTplk1FBI562SZfiAAH4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 1Huntxr",
+      "type": "C"
+    },
+    {
+      "text": "2022 1Huntxr",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192787435264"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Xkx9J7RdCtuPK4Fv7Vvdr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Xkx9J7RdCtuPK4Fv7Vvdr",
+  "id": "5Xkx9J7RdCtuPK4Fv7Vvdr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379e980eba80a8e3ee640d25e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279e980eba80a8e3ee640d25e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179e980eba80a8e3ee640d25e",
+      "width": 64
+    }
+  ],
+  "label": "New Legaci LLC",
+  "name": "Chimp",
+  "popularity": 1,
+  "release_date": "2022-04-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Xkx9J7RdCtuPK4Fv7Vvdr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HQTplk1FBI562SZfiAAH4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HQTplk1FBI562SZfiAAH4",
+            "id": "2HQTplk1FBI562SZfiAAH4",
+            "name": "1Huntxr",
+            "type": "artist",
+            "uri": "spotify:artist:2HQTplk1FBI562SZfiAAH4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199134,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lj6oWdPgJIA0Tm6XJj14o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lj6oWdPgJIA0Tm6XJj14o",
+        "id": "0lj6oWdPgJIA0Tm6XJj14o",
+        "is_local": false,
+        "name": "Chimp",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lj6oWdPgJIA0Tm6XJj14o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Xkx9J7RdCtuPK4Fv7Vvdr"
+}

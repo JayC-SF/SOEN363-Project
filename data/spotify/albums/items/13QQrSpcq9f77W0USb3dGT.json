@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+      },
+      "href": "https://api.spotify.com/v1/artists/619CzMJPPWrCeZwx5qw6ko",
+      "id": "619CzMJPPWrCeZwx5qw6ko",
+      "name": "Besomorph",
+      "type": "artist",
+      "uri": "spotify:artist:619CzMJPPWrCeZwx5qw6ko"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+      },
+      "href": "https://api.spotify.com/v1/artists/0xD6n0wj7aqV5g5LcRNBUd",
+      "id": "0xD6n0wj7aqV5g5LcRNBUd",
+      "name": "RIELL",
+      "type": "artist",
+      "uri": "spotify:artist:0xD6n0wj7aqV5g5LcRNBUd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 8D Tunes & Nightblue Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436167659"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/13QQrSpcq9f77W0USb3dGT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/13QQrSpcq9f77W0USb3dGT",
+  "id": "13QQrSpcq9f77W0USb3dGT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273027a49b8e619b5cd4320f369",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02027a49b8e619b5cd4320f369",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851027a49b8e619b5cd4320f369",
+      "width": 64
+    }
+  ],
+  "label": "8D Tunes & Nightblue Music",
+  "name": "Who Am I",
+  "popularity": 0,
+  "release_date": "2019-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/13QQrSpcq9f77W0USb3dGT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+            },
+            "href": "https://api.spotify.com/v1/artists/619CzMJPPWrCeZwx5qw6ko",
+            "id": "619CzMJPPWrCeZwx5qw6ko",
+            "name": "Besomorph",
+            "type": "artist",
+            "uri": "spotify:artist:619CzMJPPWrCeZwx5qw6ko"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xD6n0wj7aqV5g5LcRNBUd",
+            "id": "0xD6n0wj7aqV5g5LcRNBUd",
+            "name": "RIELL",
+            "type": "artist",
+            "uri": "spotify:artist:0xD6n0wj7aqV5g5LcRNBUd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195517,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27SPnOCMn4Hp1OXscPkscs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27SPnOCMn4Hp1OXscPkscs",
+        "id": "27SPnOCMn4Hp1OXscPkscs",
+        "is_local": false,
+        "name": "Who Am I",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:27SPnOCMn4Hp1OXscPkscs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:13QQrSpcq9f77W0USb3dGT"
+}

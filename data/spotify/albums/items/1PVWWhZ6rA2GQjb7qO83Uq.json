@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13KCq8jY8uENeNrmer60fO"
+      },
+      "href": "https://api.spotify.com/v1/artists/13KCq8jY8uENeNrmer60fO",
+      "id": "13KCq8jY8uENeNrmer60fO",
+      "name": "Sianne",
+      "type": "artist",
+      "uri": "spotify:artist:13KCq8jY8uENeNrmer60fO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Sianne Dougherty",
+      "type": "C"
+    },
+    {
+      "text": "2020 Sianne Dougherty",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9420058745349"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1PVWWhZ6rA2GQjb7qO83Uq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1PVWWhZ6rA2GQjb7qO83Uq",
+  "id": "1PVWWhZ6rA2GQjb7qO83Uq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7e23a2f6ff78fd3cc112231",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7e23a2f6ff78fd3cc112231",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7e23a2f6ff78fd3cc112231",
+      "width": 64
+    }
+  ],
+  "label": "Sianne",
+  "name": "For You",
+  "popularity": 0,
+  "release_date": "2020-04-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1PVWWhZ6rA2GQjb7qO83Uq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13KCq8jY8uENeNrmer60fO"
+            },
+            "href": "https://api.spotify.com/v1/artists/13KCq8jY8uENeNrmer60fO",
+            "id": "13KCq8jY8uENeNrmer60fO",
+            "name": "Sianne",
+            "type": "artist",
+            "uri": "spotify:artist:13KCq8jY8uENeNrmer60fO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Uo4e4x8Vh8csHA7e8yrF6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Uo4e4x8Vh8csHA7e8yrF6",
+        "id": "1Uo4e4x8Vh8csHA7e8yrF6",
+        "is_local": false,
+        "name": "For You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Uo4e4x8Vh8csHA7e8yrF6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1PVWWhZ6rA2GQjb7qO83Uq"
+}

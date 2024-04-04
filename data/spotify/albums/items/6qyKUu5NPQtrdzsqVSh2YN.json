@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+      },
+      "href": "https://api.spotify.com/v1/artists/3J7r4VsNmuWixU0nXvyPd8",
+      "id": "3J7r4VsNmuWixU0nXvyPd8",
+      "name": "Kalash",
+      "type": "artist",
+      "uri": "spotify:artist:3J7r4VsNmuWixU0nXvyPd8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Capitol Music France",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Capitol Music France",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557468748"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6qyKUu5NPQtrdzsqVSh2YN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6qyKUu5NPQtrdzsqVSh2YN",
+  "id": "6qyKUu5NPQtrdzsqVSh2YN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737425052ab9b3ffebdf712132",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027425052ab9b3ffebdf712132",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517425052ab9b3ffebdf712132",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Friendzone",
+  "popularity": 0,
+  "release_date": "2017-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6qyKUu5NPQtrdzsqVSh2YN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+            },
+            "href": "https://api.spotify.com/v1/artists/3J7r4VsNmuWixU0nXvyPd8",
+            "id": "3J7r4VsNmuWixU0nXvyPd8",
+            "name": "Kalash",
+            "type": "artist",
+            "uri": "spotify:artist:3J7r4VsNmuWixU0nXvyPd8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AGggQTwJaSofLcpDlYhV4",
+            "id": "3AGggQTwJaSofLcpDlYhV4",
+            "name": "Still Fresh",
+            "type": "artist",
+            "uri": "spotify:artist:3AGggQTwJaSofLcpDlYhV4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256798,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48HzeAouyKADHTE4xu5ehu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48HzeAouyKADHTE4xu5ehu",
+        "id": "48HzeAouyKADHTE4xu5ehu",
+        "is_local": false,
+        "name": "Friendzone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:48HzeAouyKADHTE4xu5ehu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6qyKUu5NPQtrdzsqVSh2YN"
+}

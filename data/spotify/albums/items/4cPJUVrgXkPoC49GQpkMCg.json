@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Ud7T7nSfcAsM3A634wPhj"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Ud7T7nSfcAsM3A634wPhj",
+      "id": "3Ud7T7nSfcAsM3A634wPhj",
+      "name": "Black Traffic",
+      "type": "artist",
+      "uri": "spotify:artist:3Ud7T7nSfcAsM3A634wPhj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 BT",
+      "type": "C"
+    },
+    {
+      "text": "2023 BT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197632742825"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4cPJUVrgXkPoC49GQpkMCg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4cPJUVrgXkPoC49GQpkMCg",
+  "id": "4cPJUVrgXkPoC49GQpkMCg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b576591df6b5b0988ed9fff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b576591df6b5b0988ed9fff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b576591df6b5b0988ed9fff",
+      "width": 64
+    }
+  ],
+  "label": "BT",
+  "name": "Black & Gold",
+  "popularity": 3,
+  "release_date": "2023-02-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4cPJUVrgXkPoC49GQpkMCg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Ud7T7nSfcAsM3A634wPhj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Ud7T7nSfcAsM3A634wPhj",
+            "id": "3Ud7T7nSfcAsM3A634wPhj",
+            "name": "Black Traffic",
+            "type": "artist",
+            "uri": "spotify:artist:3Ud7T7nSfcAsM3A634wPhj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200856,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HAAxe7qABKO1602AUcTjC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HAAxe7qABKO1602AUcTjC",
+        "id": "7HAAxe7qABKO1602AUcTjC",
+        "is_local": false,
+        "name": "Black & Gold",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7HAAxe7qABKO1602AUcTjC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4cPJUVrgXkPoC49GQpkMCg"
+}

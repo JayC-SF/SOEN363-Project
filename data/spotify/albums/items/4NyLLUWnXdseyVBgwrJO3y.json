@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vICZk23Snxdi88YIx1bSR"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vICZk23Snxdi88YIx1bSR",
+      "id": "0vICZk23Snxdi88YIx1bSR",
+      "name": "Pedro Arroyo",
+      "type": "artist",
+      "uri": "spotify:artist:0vICZk23Snxdi88YIx1bSR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Arroyo Inc",
+      "type": "C"
+    },
+    {
+      "text": "2018 Arroyo Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859725107651"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4NyLLUWnXdseyVBgwrJO3y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4NyLLUWnXdseyVBgwrJO3y",
+  "id": "4NyLLUWnXdseyVBgwrJO3y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735102ac1261c9427b79fd4859",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025102ac1261c9427b79fd4859",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515102ac1261c9427b79fd4859",
+      "width": 64
+    }
+  ],
+  "label": "Arroyo Inc",
+  "name": "Tu Ausencia",
+  "popularity": 0,
+  "release_date": "2018-01-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4NyLLUWnXdseyVBgwrJO3y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0vICZk23Snxdi88YIx1bSR"
+            },
+            "href": "https://api.spotify.com/v1/artists/0vICZk23Snxdi88YIx1bSR",
+            "id": "0vICZk23Snxdi88YIx1bSR",
+            "name": "Pedro Arroyo",
+            "type": "artist",
+            "uri": "spotify:artist:0vICZk23Snxdi88YIx1bSR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266110,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4TlSeZa9Ae7wWF29UHQDkK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4TlSeZa9Ae7wWF29UHQDkK",
+        "id": "4TlSeZa9Ae7wWF29UHQDkK",
+        "is_local": false,
+        "name": "Tu Ausencia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4TlSeZa9Ae7wWF29UHQDkK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4NyLLUWnXdseyVBgwrJO3y"
+}

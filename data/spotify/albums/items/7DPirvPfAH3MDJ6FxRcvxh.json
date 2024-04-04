@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3aRscMJRah0QrvGE5rkvZl",
+      "id": "3aRscMJRah0QrvGE5rkvZl",
+      "name": "Tony Anderson",
+      "type": "artist",
+      "uri": "spotify:artist:3aRscMJRah0QrvGE5rkvZl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Tony Anderson Music",
+      "type": "C"
+    },
+    {
+      "text": "2015 Tony Anderson Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849926072100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7DPirvPfAH3MDJ6FxRcvxh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7DPirvPfAH3MDJ6FxRcvxh",
+  "id": "7DPirvPfAH3MDJ6FxRcvxh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273837c7e2f1ec6d88d43e15786",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02837c7e2f1ec6d88d43e15786",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851837c7e2f1ec6d88d43e15786",
+      "width": 64
+    }
+  ],
+  "label": "Tony Anderson Music",
+  "name": "Dreamlife",
+  "popularity": 0,
+  "release_date": "2015-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7DPirvPfAH3MDJ6FxRcvxh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3aRscMJRah0QrvGE5rkvZl",
+            "id": "3aRscMJRah0QrvGE5rkvZl",
+            "name": "Tony Anderson",
+            "type": "artist",
+            "uri": "spotify:artist:3aRscMJRah0QrvGE5rkvZl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Zo7F1Om6nCJw1TvG66OBq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Zo7F1Om6nCJw1TvG66OBq",
+        "id": "3Zo7F1Om6nCJw1TvG66OBq",
+        "is_local": false,
+        "name": "Dreamlife",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Zo7F1Om6nCJw1TvG66OBq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3aRscMJRah0QrvGE5rkvZl",
+            "id": "3aRscMJRah0QrvGE5rkvZl",
+            "name": "Tony Anderson",
+            "type": "artist",
+            "uri": "spotify:artist:3aRscMJRah0QrvGE5rkvZl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oTHCrya9eOpjoGsjGt4tP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oTHCrya9eOpjoGsjGt4tP",
+        "id": "1oTHCrya9eOpjoGsjGt4tP",
+        "is_local": false,
+        "name": "Saudade",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1oTHCrya9eOpjoGsjGt4tP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:7DPirvPfAH3MDJ6FxRcvxh"
+}

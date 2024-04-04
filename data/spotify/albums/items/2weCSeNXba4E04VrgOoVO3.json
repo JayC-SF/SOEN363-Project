@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qQJQ3YtcGlqaLg5tcypN2",
+      "id": "7qQJQ3YtcGlqaLg5tcypN2",
+      "name": "Chubby Checker",
+      "type": "artist",
+      "uri": "spotify:artist:7qQJQ3YtcGlqaLg5tcypN2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 ABKCO Music & Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 ABKCO Music & Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00018771853121"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2weCSeNXba4E04VrgOoVO3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2weCSeNXba4E04VrgOoVO3",
+  "id": "2weCSeNXba4E04VrgOoVO3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273549eb135b90286d7670a185f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02549eb135b90286d7670a185f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851549eb135b90286d7670a185f",
+      "width": 64
+    }
+  ],
+  "label": "ABKCO Music & Records",
+  "name": "The Twist",
+  "popularity": 0,
+  "release_date": "2018-08-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2weCSeNXba4E04VrgOoVO3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qQJQ3YtcGlqaLg5tcypN2",
+            "id": "7qQJQ3YtcGlqaLg5tcypN2",
+            "name": "Chubby Checker",
+            "type": "artist",
+            "uri": "spotify:artist:7qQJQ3YtcGlqaLg5tcypN2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GVhFvXo4Q3LfM1gZi46F5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GVhFvXo4Q3LfM1gZi46F5",
+        "id": "5GVhFvXo4Q3LfM1gZi46F5",
+        "is_local": false,
+        "name": "The Twist",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5GVhFvXo4Q3LfM1gZi46F5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2weCSeNXba4E04VrgOoVO3"
+}

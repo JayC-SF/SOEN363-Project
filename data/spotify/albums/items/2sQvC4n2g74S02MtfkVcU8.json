@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Wr3hh341P84m3EI8qdn9O",
+      "id": "6Wr3hh341P84m3EI8qdn9O",
+      "name": "Rise Against",
+      "type": "artist",
+      "uri": "spotify:artist:6Wr3hh341P84m3EI8qdn9O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537891207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2sQvC4n2g74S02MtfkVcU8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2sQvC4n2g74S02MtfkVcU8",
+  "id": "2sQvC4n2g74S02MtfkVcU8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273859aac51d65494fc45958e02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02859aac51d65494fc45958e02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851859aac51d65494fc45958e02",
+      "width": 64
+    }
+  ],
+  "label": "DGC/Interscope",
+  "name": "I Don't Want To Be Here Anymore",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2sQvC4n2g74S02MtfkVcU8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Wr3hh341P84m3EI8qdn9O",
+            "id": "6Wr3hh341P84m3EI8qdn9O",
+            "name": "Rise Against",
+            "type": "artist",
+            "uri": "spotify:artist:6Wr3hh341P84m3EI8qdn9O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ibfTTLZ0Srmi1NHISbDUI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ibfTTLZ0Srmi1NHISbDUI",
+        "id": "6ibfTTLZ0Srmi1NHISbDUI",
+        "is_local": false,
+        "name": "I Don\u2019t Want To Be Here Anymore",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ibfTTLZ0Srmi1NHISbDUI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2sQvC4n2g74S02MtfkVcU8"
+}

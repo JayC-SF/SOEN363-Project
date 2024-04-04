@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+      "id": "3FfvYsEGaIb52QPXhg4DcH",
+      "name": "Jason Aldean",
+      "type": "artist",
+      "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Macon Music, LLC under exclusive license to This Is Hit, Inc. d/b/a Broken Bow Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Macon Music, LLC under exclusive license to This Is Hit, Inc. d/b/a Broken Bow Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538933635"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4mYJYGql59RcwSLCyjYDNO",
+  "id": "4mYJYGql59RcwSLCyjYDNO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ca764bdbff5e0e61c19823bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ca764bdbff5e0e61c19823bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ca764bdbff5e0e61c19823bd",
+      "width": 64
+    }
+  ],
+  "label": "Broken Bow Records",
+  "name": "Try That In A Small Town",
+  "popularity": 18,
+  "release_date": "2023-05-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4mYJYGql59RcwSLCyjYDNO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+            "id": "3FfvYsEGaIb52QPXhg4DcH",
+            "name": "Jason Aldean",
+            "type": "artist",
+            "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180033,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ROknQyR1wOGPfmpTtB3z4",
+        "id": "4ROknQyR1wOGPfmpTtB3z4",
+        "is_local": false,
+        "name": "Try That In A Small Town",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ROknQyR1wOGPfmpTtB3z4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+            "id": "3FfvYsEGaIb52QPXhg4DcH",
+            "name": "Jason Aldean",
+            "type": "artist",
+            "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rHDqha7wa4sMcNCU8gGaU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rHDqha7wa4sMcNCU8gGaU",
+        "id": "3rHDqha7wa4sMcNCU8gGaU",
+        "is_local": false,
+        "name": "Tough Crowd",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3rHDqha7wa4sMcNCU8gGaU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4mYJYGql59RcwSLCyjYDNO"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3oX8HsVGaV4MhVG8WN25bZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3oX8HsVGaV4MhVG8WN25bZ",
+      "id": "3oX8HsVGaV4MhVG8WN25bZ",
+      "name": "stabbed",
+      "type": "artist",
+      "uri": "spotify:artist:3oX8HsVGaV4MhVG8WN25bZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 stabbed",
+      "type": "C"
+    },
+    {
+      "text": "2023 stabbed",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197851786600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gqlAS30HOHrMXh3K1HetF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3gqlAS30HOHrMXh3K1HetF",
+  "id": "3gqlAS30HOHrMXh3K1HetF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319197fbae9641386bda4a8d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219197fbae9641386bda4a8d3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119197fbae9641386bda4a8d3",
+      "width": 64
+    }
+  ],
+  "label": "stabbed",
+  "name": "opipsy",
+  "popularity": 0,
+  "release_date": "2023-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3gqlAS30HOHrMXh3K1HetF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3oX8HsVGaV4MhVG8WN25bZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3oX8HsVGaV4MhVG8WN25bZ",
+            "id": "3oX8HsVGaV4MhVG8WN25bZ",
+            "name": "stabbed",
+            "type": "artist",
+            "uri": "spotify:artist:3oX8HsVGaV4MhVG8WN25bZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200016,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/264i5P95rIQTXQBLzCYmte"
+        },
+        "href": "https://api.spotify.com/v1/tracks/264i5P95rIQTXQBLzCYmte",
+        "id": "264i5P95rIQTXQBLzCYmte",
+        "is_local": false,
+        "name": "opipsy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:264i5P95rIQTXQBLzCYmte"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3gqlAS30HOHrMXh3K1HetF"
+}

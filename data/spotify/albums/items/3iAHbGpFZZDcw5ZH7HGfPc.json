@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3hWKGRKwr78bhxvErSJBdu",
+      "id": "3hWKGRKwr78bhxvErSJBdu",
+      "name": "El Super Nuevo",
+      "type": "artist",
+      "uri": "spotify:artist:3hWKGRKwr78bhxvErSJBdu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 El Super Nuevo",
+      "type": "C"
+    },
+    {
+      "text": "2016 El Super Nuevo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "555551991418"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3iAHbGpFZZDcw5ZH7HGfPc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3iAHbGpFZZDcw5ZH7HGfPc",
+  "id": "3iAHbGpFZZDcw5ZH7HGfPc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a540ca5b9c4e0edd1cdc28f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a540ca5b9c4e0edd1cdc28f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a540ca5b9c4e0edd1cdc28f",
+      "width": 64
+    }
+  ],
+  "label": "Lumbier Records",
+  "name": "Superman Sin Capa",
+  "popularity": 0,
+  "release_date": "2016-05-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3iAHbGpFZZDcw5ZH7HGfPc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hWKGRKwr78bhxvErSJBdu",
+            "id": "3hWKGRKwr78bhxvErSJBdu",
+            "name": "El Super Nuevo",
+            "type": "artist",
+            "uri": "spotify:artist:3hWKGRKwr78bhxvErSJBdu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230249,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wV5mcU0b7BUXzpRExADOC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wV5mcU0b7BUXzpRExADOC",
+        "id": "5wV5mcU0b7BUXzpRExADOC",
+        "is_local": false,
+        "name": "Superman Sin Capa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5wV5mcU0b7BUXzpRExADOC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3iAHbGpFZZDcw5ZH7HGfPc"
+}

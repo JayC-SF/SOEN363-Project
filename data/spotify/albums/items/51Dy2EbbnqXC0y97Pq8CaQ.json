@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FF8xJSW4qUVU8bk79KYLT",
+      "id": "5FF8xJSW4qUVU8bk79KYLT",
+      "name": "lilbubblegum",
+      "type": "artist",
+      "uri": "spotify:artist:5FF8xJSW4qUVU8bk79KYLT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 lilbubblegum records",
+      "type": "C"
+    },
+    {
+      "text": "2020 lilbubblegum records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391181472"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51Dy2EbbnqXC0y97Pq8CaQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51Dy2EbbnqXC0y97Pq8CaQ",
+  "id": "51Dy2EbbnqXC0y97Pq8CaQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731804b839e5dba99afc8f4bfe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021804b839e5dba99afc8f4bfe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511804b839e5dba99afc8f4bfe",
+      "width": 64
+    }
+  ],
+  "label": "lilbubblegum records",
+  "name": "af1",
+  "popularity": 0,
+  "release_date": "2020-02-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51Dy2EbbnqXC0y97Pq8CaQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FF8xJSW4qUVU8bk79KYLT",
+            "id": "5FF8xJSW4qUVU8bk79KYLT",
+            "name": "lilbubblegum",
+            "type": "artist",
+            "uri": "spotify:artist:5FF8xJSW4qUVU8bk79KYLT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141291,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yoFETPXrZhLkXZEci5upy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7yoFETPXrZhLkXZEci5upy",
+        "id": "7yoFETPXrZhLkXZEci5upy",
+        "is_local": false,
+        "name": "af1",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7yoFETPXrZhLkXZEci5upy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51Dy2EbbnqXC0y97Pq8CaQ"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf"
+      },
+      "href": "https://api.spotify.com/v1/artists/52wcA7uQEIW0jVqgd6DvUf",
+      "id": "52wcA7uQEIW0jVqgd6DvUf",
+      "name": "Dr. Stev",
+      "type": "artist",
+      "uri": "spotify:artist:52wcA7uQEIW0jVqgd6DvUf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Dr. Stev Inc. | Distributed by Diskover Co.",
+      "type": "C"
+    },
+    {
+      "text": "2019 Dr. Stev Inc. | Distributed by Diskover Co.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8433391873885"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0I3VQaK9LSkAdI4l73cHpe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0I3VQaK9LSkAdI4l73cHpe",
+  "id": "0I3VQaK9LSkAdI4l73cHpe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273637f8e433bd1f1b4e917ce49",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02637f8e433bd1f1b4e917ce49",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851637f8e433bd1f1b4e917ce49",
+      "width": 64
+    }
+  ],
+  "label": "Dr. Stev Inc.",
+  "name": "Amor en la Playa",
+  "popularity": 0,
+  "release_date": "2019-11-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0I3VQaK9LSkAdI4l73cHpe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf"
+            },
+            "href": "https://api.spotify.com/v1/artists/52wcA7uQEIW0jVqgd6DvUf",
+            "id": "52wcA7uQEIW0jVqgd6DvUf",
+            "name": "Dr. Stev",
+            "type": "artist",
+            "uri": "spotify:artist:52wcA7uQEIW0jVqgd6DvUf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Jb4ROzv0sYIJfm9D38tlf",
+            "id": "2Jb4ROzv0sYIJfm9D38tlf",
+            "name": "Erika Perdomo",
+            "type": "artist",
+            "uri": "spotify:artist:2Jb4ROzv0sYIJfm9D38tlf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234843,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AGyPaTqoFSExT0YAybdgV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AGyPaTqoFSExT0YAybdgV",
+        "id": "7AGyPaTqoFSExT0YAybdgV",
+        "is_local": false,
+        "name": "Amor en la Playa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AGyPaTqoFSExT0YAybdgV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0I3VQaK9LSkAdI4l73cHpe"
+}

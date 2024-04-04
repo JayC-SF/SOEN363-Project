@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/18Eu7uJEMPWwwt1QUdCglQ",
+      "id": "18Eu7uJEMPWwwt1QUdCglQ",
+      "name": "INZO",
+      "type": "artist",
+      "uri": "spotify:artist:18Eu7uJEMPWwwt1QUdCglQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Lowly Palace",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843357168678"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6GKljm31cY5IVC9xR6qB2t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6GKljm31cY5IVC9xR6qB2t",
+  "id": "6GKljm31cY5IVC9xR6qB2t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eadbcc04eb4128dab7356f28",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eadbcc04eb4128dab7356f28",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eadbcc04eb4128dab7356f28",
+      "width": 64
+    }
+  ],
+  "label": "Lowly Palace",
+  "name": "Overthinker",
+  "popularity": 0,
+  "release_date": "2018-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6GKljm31cY5IVC9xR6qB2t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/18Eu7uJEMPWwwt1QUdCglQ",
+            "id": "18Eu7uJEMPWwwt1QUdCglQ",
+            "name": "INZO",
+            "type": "artist",
+            "uri": "spotify:artist:18Eu7uJEMPWwwt1QUdCglQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FuFfWcRmFkLtv7j3mQNY8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FuFfWcRmFkLtv7j3mQNY8",
+        "id": "3FuFfWcRmFkLtv7j3mQNY8",
+        "is_local": false,
+        "name": "Overthinker",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FuFfWcRmFkLtv7j3mQNY8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6GKljm31cY5IVC9xR6qB2t"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+      "id": "2kCcBybjl3SAtIcwdWpUe3",
+      "name": "Lil Peep",
+      "type": "artist",
+      "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VKWlHqcqwmU9CGKkJR09R",
+      "id": "1VKWlHqcqwmU9CGKkJR09R",
+      "name": "Nedarb",
+      "type": "artist",
+      "uri": "spotify:artist:1VKWlHqcqwmU9CGKkJR09R"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Lil Peep / AUTNMY",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Lil Peep / AUTNMY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526393943"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1f2lbyCzddJsLaMdcXDFwW",
+  "id": "1f2lbyCzddJsLaMdcXDFwW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398cb61ba8cf934b4ce271989",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298cb61ba8cf934b4ce271989",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198cb61ba8cf934b4ce271989",
+      "width": 64
+    }
+  ],
+  "label": "Lil Peep",
+  "name": "beamer boy",
+  "popularity": 51,
+  "release_date": "2016-01-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1f2lbyCzddJsLaMdcXDFwW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+            "id": "2kCcBybjl3SAtIcwdWpUe3",
+            "name": "Lil Peep",
+            "type": "artist",
+            "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VKWlHqcqwmU9CGKkJR09R",
+            "id": "1VKWlHqcqwmU9CGKkJR09R",
+            "name": "Nedarb",
+            "type": "artist",
+            "uri": "spotify:artist:1VKWlHqcqwmU9CGKkJR09R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203373,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16dlDlLW9Uv8lmIUvAXAjG",
+        "id": "16dlDlLW9Uv8lmIUvAXAjG",
+        "is_local": false,
+        "name": "beamer boy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16dlDlLW9Uv8lmIUvAXAjG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1f2lbyCzddJsLaMdcXDFwW"
+}

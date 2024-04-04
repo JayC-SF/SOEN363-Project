@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+      "id": "2OxyMQXlbUfE4zpHG3fwqk",
+      "name": "malte",
+      "type": "artist",
+      "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197044517950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7se3zoE2Ec5rMXfayCDqCp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7se3zoE2Ec5rMXfayCDqCp",
+  "id": "7se3zoE2Ec5rMXfayCDqCp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7c985612b200782924b4064",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7c985612b200782924b4064",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7c985612b200782924b4064",
+      "width": 64
+    }
+  ],
+  "label": "3736470 Records DK",
+  "name": "lights",
+  "popularity": 0,
+  "release_date": "2022-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7se3zoE2Ec5rMXfayCDqCp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+            "id": "2OxyMQXlbUfE4zpHG3fwqk",
+            "name": "malte",
+            "type": "artist",
+            "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184014,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09WqqBE81VBINOsU9FSlLr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09WqqBE81VBINOsU9FSlLr",
+        "id": "09WqqBE81VBINOsU9FSlLr",
+        "is_local": false,
+        "name": "lights",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:09WqqBE81VBINOsU9FSlLr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7se3zoE2Ec5rMXfayCDqCp"
+}

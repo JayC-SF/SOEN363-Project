@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/265iWAcdttWU3gFXjrcbbh",
+      "id": "265iWAcdttWU3gFXjrcbbh",
+      "name": "Maitchhh",
+      "type": "artist",
+      "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Maitchhh LLC",
+      "type": "C"
+    },
+    {
+      "text": "2022 Maitchhh LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "6438440032765"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Sl5fgjkD3CpiDP9xr2qLy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Sl5fgjkD3CpiDP9xr2qLy",
+  "id": "3Sl5fgjkD3CpiDP9xr2qLy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353c3ecb1c90bc1872fa7c824",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253c3ecb1c90bc1872fa7c824",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153c3ecb1c90bc1872fa7c824",
+      "width": 64
+    }
+  ],
+  "label": "Maitchhh LLC",
+  "name": "333",
+  "popularity": 0,
+  "release_date": "2022-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Sl5fgjkD3CpiDP9xr2qLy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/265iWAcdttWU3gFXjrcbbh",
+            "id": "265iWAcdttWU3gFXjrcbbh",
+            "name": "Maitchhh",
+            "type": "artist",
+            "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161095,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yAtwzlphsFWWXtBoadhWj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yAtwzlphsFWWXtBoadhWj",
+        "id": "0yAtwzlphsFWWXtBoadhWj",
+        "is_local": false,
+        "name": "Journey",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0yAtwzlphsFWWXtBoadhWj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/265iWAcdttWU3gFXjrcbbh",
+            "id": "265iWAcdttWU3gFXjrcbbh",
+            "name": "Maitchhh",
+            "type": "artist",
+            "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144292,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Fcnan1hzYSWOMLgdPcR9a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Fcnan1hzYSWOMLgdPcR9a",
+        "id": "3Fcnan1hzYSWOMLgdPcR9a",
+        "is_local": false,
+        "name": "High School",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3Fcnan1hzYSWOMLgdPcR9a"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3Sl5fgjkD3CpiDP9xr2qLy"
+}

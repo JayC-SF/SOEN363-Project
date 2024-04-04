@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08zCYcpiofU9ZZNgHIjWFY"
+      },
+      "href": "https://api.spotify.com/v1/artists/08zCYcpiofU9ZZNgHIjWFY",
+      "id": "08zCYcpiofU9ZZNgHIjWFY",
+      "name": "Joe Zieja",
+      "type": "artist",
+      "uri": "spotify:artist:08zCYcpiofU9ZZNgHIjWFY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Renaissance Man Studio LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Renaissance Man Studio LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198001436246"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4W61cKnedIJ1Z0ERFDcey6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4W61cKnedIJ1Z0ERFDcey6",
+  "id": "4W61cKnedIJ1Z0ERFDcey6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d9a199c48317e6e75d106f5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d9a199c48317e6e75d106f5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d9a199c48317e6e75d106f5d",
+      "width": 64
+    }
+  ],
+  "label": "Joe Zieja",
+  "name": "Soldier, Poet, King (Venti Version from \"Genshin Impact\")",
+  "popularity": 8,
+  "release_date": "2021-08-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4W61cKnedIJ1Z0ERFDcey6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08zCYcpiofU9ZZNgHIjWFY"
+            },
+            "href": "https://api.spotify.com/v1/artists/08zCYcpiofU9ZZNgHIjWFY",
+            "id": "08zCYcpiofU9ZZNgHIjWFY",
+            "name": "Joe Zieja",
+            "type": "artist",
+            "uri": "spotify:artist:08zCYcpiofU9ZZNgHIjWFY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lQeQXZI0uhOtsYsTvZcV0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lQeQXZI0uhOtsYsTvZcV0",
+            "id": "6lQeQXZI0uhOtsYsTvZcV0",
+            "name": "Erika Harlacher",
+            "type": "artist",
+            "uri": "spotify:artist:6lQeQXZI0uhOtsYsTvZcV0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177539,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40jMBqS9w33R0E8GKE0qBo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40jMBqS9w33R0E8GKE0qBo",
+        "id": "40jMBqS9w33R0E8GKE0qBo",
+        "is_local": false,
+        "name": "Soldier, Poet, King (Venti Version from \"Genshin Impact\")",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40jMBqS9w33R0E8GKE0qBo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4W61cKnedIJ1Z0ERFDcey6"
+}

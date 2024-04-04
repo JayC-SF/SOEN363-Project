@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MkIU5jhXTMK9pYQTRVI6p",
+      "id": "3MkIU5jhXTMK9pYQTRVI6p",
+      "name": "DJ BORING",
+      "type": "artist",
+      "uri": "spotify:artist:3MkIU5jhXTMK9pYQTRVI6p"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7rNlKf5vLZeBRPnjNO9sQJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/7rNlKf5vLZeBRPnjNO9sQJ",
+      "id": "7rNlKf5vLZeBRPnjNO9sQJ",
+      "name": "Miagma",
+      "type": "artist",
+      "uri": "spotify:artist:7rNlKf5vLZeBRPnjNO9sQJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 E-Beamz",
+      "type": "C"
+    },
+    {
+      "text": "2017 E-Beamz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0889326982463"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3IxfZFzG7NM4rRovxBhguw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3IxfZFzG7NM4rRovxBhguw",
+  "id": "3IxfZFzG7NM4rRovxBhguw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273103f201624a024cbf1580ff3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02103f201624a024cbf1580ff3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851103f201624a024cbf1580ff3",
+      "width": 64
+    }
+  ],
+  "label": "E-Beamz",
+  "name": "Winona",
+  "popularity": 0,
+  "release_date": "2017-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3IxfZFzG7NM4rRovxBhguw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MkIU5jhXTMK9pYQTRVI6p",
+            "id": "3MkIU5jhXTMK9pYQTRVI6p",
+            "name": "DJ BORING",
+            "type": "artist",
+            "uri": "spotify:artist:3MkIU5jhXTMK9pYQTRVI6p"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 511031,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ilkEyg6OCtd9qCnOJkPzU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ilkEyg6OCtd9qCnOJkPzU",
+        "id": "3ilkEyg6OCtd9qCnOJkPzU",
+        "is_local": false,
+        "name": "Winona",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ilkEyg6OCtd9qCnOJkPzU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7rNlKf5vLZeBRPnjNO9sQJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7rNlKf5vLZeBRPnjNO9sQJ",
+            "id": "7rNlKf5vLZeBRPnjNO9sQJ",
+            "name": "Miagma",
+            "type": "artist",
+            "uri": "spotify:artist:7rNlKf5vLZeBRPnjNO9sQJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 380534,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DbcLcL28ZPTJKFILbDoKQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1DbcLcL28ZPTJKFILbDoKQ",
+        "id": "1DbcLcL28ZPTJKFILbDoKQ",
+        "is_local": false,
+        "name": "You",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1DbcLcL28ZPTJKFILbDoKQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3IxfZFzG7NM4rRovxBhguw"
+}

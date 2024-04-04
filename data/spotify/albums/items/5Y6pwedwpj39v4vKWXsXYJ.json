@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/140rt2E4rTCFAA6R6cbyYb"
+      },
+      "href": "https://api.spotify.com/v1/artists/140rt2E4rTCFAA6R6cbyYb",
+      "id": "140rt2E4rTCFAA6R6cbyYb",
+      "name": "Sarhad",
+      "type": "artist",
+      "uri": "spotify:artist:140rt2E4rTCFAA6R6cbyYb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Fuchs under exclusive license to Groove Attack",
+      "type": "C"
+    },
+    {
+      "text": "2020 Fuchs under exclusive license to Groove Attack",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939401337"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Y6pwedwpj39v4vKWXsXYJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Y6pwedwpj39v4vKWXsXYJ",
+  "id": "5Y6pwedwpj39v4vKWXsXYJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f09ac7d3431f566663707b56",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f09ac7d3431f566663707b56",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f09ac7d3431f566663707b56",
+      "width": 64
+    }
+  ],
+  "label": "Fuchs",
+  "name": "Sinne",
+  "popularity": 0,
+  "release_date": "2020-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Y6pwedwpj39v4vKWXsXYJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/140rt2E4rTCFAA6R6cbyYb"
+            },
+            "href": "https://api.spotify.com/v1/artists/140rt2E4rTCFAA6R6cbyYb",
+            "id": "140rt2E4rTCFAA6R6cbyYb",
+            "name": "Sarhad",
+            "type": "artist",
+            "uri": "spotify:artist:140rt2E4rTCFAA6R6cbyYb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222493,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XTUu81IEyoi5nU5H6Bf3H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XTUu81IEyoi5nU5H6Bf3H",
+        "id": "1XTUu81IEyoi5nU5H6Bf3H",
+        "is_local": false,
+        "name": "Sinne",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XTUu81IEyoi5nU5H6Bf3H"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Y6pwedwpj39v4vKWXsXYJ"
+}

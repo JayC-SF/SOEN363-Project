@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+      },
+      "href": "https://api.spotify.com/v1/artists/58O8UPrTdl4u2buM0skj94",
+      "id": "58O8UPrTdl4u2buM0skj94",
+      "name": "Harrison",
+      "type": "artist",
+      "uri": "spotify:artist:58O8UPrTdl4u2buM0skj94"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871495899"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0XF6TJKkhwly0e0jHM3LYN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0XF6TJKkhwly0e0jHM3LYN",
+  "id": "0XF6TJKkhwly0e0jHM3LYN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273836d5e77b91a09890d3c9cbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02836d5e77b91a09890d3c9cbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851836d5e77b91a09890d3c9cbf",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Blue Monday",
+  "popularity": 24,
+  "release_date": "2023-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0XF6TJKkhwly0e0jHM3LYN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+            },
+            "href": "https://api.spotify.com/v1/artists/58O8UPrTdl4u2buM0skj94",
+            "id": "58O8UPrTdl4u2buM0skj94",
+            "name": "Harrison",
+            "type": "artist",
+            "uri": "spotify:artist:58O8UPrTdl4u2buM0skj94"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 168450,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Zm5Bu6y14KFWwFeAsNj4J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Zm5Bu6y14KFWwFeAsNj4J",
+        "id": "1Zm5Bu6y14KFWwFeAsNj4J",
+        "is_local": false,
+        "name": "Blue Monday",
+        "preview_url": "https://p.scdn.co/mp3-preview/e29bbd43deb0bfcc2e962cbd9e4f359d796eede0?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Zm5Bu6y14KFWwFeAsNj4J"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0XF6TJKkhwly0e0jHM3LYN"
+}

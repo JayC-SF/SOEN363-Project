@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+      },
+      "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+      "id": "62DmErcU7dqZbJaDqwsqzR",
+      "name": "Popcaan",
+      "type": "artist",
+      "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+      },
+      "href": "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+      "id": "0eezS9KmhdjGN436RdTIXu",
+      "name": "Mavado",
+      "type": "artist",
+      "uri": "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Mixpak Records",
+      "type": "C"
+    },
+    {
+      "text": "2014 Mixpak Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "741459999087"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36CkEozYEZGVb90wA6mDXm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/36CkEozYEZGVb90wA6mDXm",
+  "id": "36CkEozYEZGVb90wA6mDXm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b325f592783b1ff8e67828fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b325f592783b1ff8e67828fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b325f592783b1ff8e67828fe",
+      "width": 64
+    }
+  ],
+  "label": "Mixpak Records",
+  "name": "Everything Nice (Remix)",
+  "popularity": 0,
+  "release_date": "2014-04-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/36CkEozYEZGVb90wA6mDXm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+            },
+            "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+            "id": "62DmErcU7dqZbJaDqwsqzR",
+            "name": "Popcaan",
+            "type": "artist",
+            "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+            "id": "0eezS9KmhdjGN436RdTIXu",
+            "name": "Mavado",
+            "type": "artist",
+            "uri": "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 276181,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gaQzP7hIyvzn968PgM4qy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1gaQzP7hIyvzn968PgM4qy",
+        "id": "1gaQzP7hIyvzn968PgM4qy",
+        "is_local": false,
+        "name": "Everything Nice - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1gaQzP7hIyvzn968PgM4qy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:36CkEozYEZGVb90wA6mDXm"
+}

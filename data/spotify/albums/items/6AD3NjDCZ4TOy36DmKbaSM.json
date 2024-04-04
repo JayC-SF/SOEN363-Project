@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gvNMbcnvmnjGaG6hvJfSH",
+      "id": "3gvNMbcnvmnjGaG6hvJfSH",
+      "name": "Smiley",
+      "type": "artist",
+      "uri": "spotify:artist:3gvNMbcnvmnjGaG6hvJfSH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 HaHaHa Production | Red Entertainment Group",
+      "type": "C"
+    },
+    {
+      "text": "2023 HaHaHa Production | Red Entertainment Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063413178488"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6AD3NjDCZ4TOy36DmKbaSM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6AD3NjDCZ4TOy36DmKbaSM",
+  "id": "6AD3NjDCZ4TOy36DmKbaSM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c3558419d32fbb1b3948295",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c3558419d32fbb1b3948295",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c3558419d32fbb1b3948295",
+      "width": 64
+    }
+  ],
+  "label": "HaHaHa Production | Red Entertainment Group",
+  "name": "Tomorrow",
+  "popularity": 8,
+  "release_date": "2023-11-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6AD3NjDCZ4TOy36DmKbaSM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gvNMbcnvmnjGaG6hvJfSH",
+            "id": "3gvNMbcnvmnjGaG6hvJfSH",
+            "name": "Smiley",
+            "type": "artist",
+            "uri": "spotify:artist:3gvNMbcnvmnjGaG6hvJfSH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172758,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZusswjWiR1T28DB0OFqrx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZusswjWiR1T28DB0OFqrx",
+        "id": "4ZusswjWiR1T28DB0OFqrx",
+        "is_local": false,
+        "name": "Tomorrow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ZusswjWiR1T28DB0OFqrx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6AD3NjDCZ4TOy36DmKbaSM"
+}

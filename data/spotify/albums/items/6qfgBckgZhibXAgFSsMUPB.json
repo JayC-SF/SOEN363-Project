@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5OBm2KxB9JIw4o9msXkeNQ",
+      "id": "5OBm2KxB9JIw4o9msXkeNQ",
+      "name": "Gianluca Dimeo",
+      "type": "artist",
+      "uri": "spotify:artist:5OBm2KxB9JIw4o9msXkeNQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2LwSighkNo49filvTvJmBz",
+      "id": "2LwSighkNo49filvTvJmBz",
+      "name": "Daniel Santoro",
+      "type": "artist",
+      "uri": "spotify:artist:2LwSighkNo49filvTvJmBz"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Soave Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Soave Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617221932583"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6qfgBckgZhibXAgFSsMUPB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6qfgBckgZhibXAgFSsMUPB",
+  "id": "6qfgBckgZhibXAgFSsMUPB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273892d105e6c6d86b95c064828",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02892d105e6c6d86b95c064828",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851892d105e6c6d86b95c064828",
+      "width": 64
+    }
+  ],
+  "label": "Soave Records",
+  "name": "My Love",
+  "popularity": 1,
+  "release_date": "2023-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6qfgBckgZhibXAgFSsMUPB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OBm2KxB9JIw4o9msXkeNQ",
+            "id": "5OBm2KxB9JIw4o9msXkeNQ",
+            "name": "Gianluca Dimeo",
+            "type": "artist",
+            "uri": "spotify:artist:5OBm2KxB9JIw4o9msXkeNQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+            },
+            "href": "https://api.spotify.com/v1/artists/2LwSighkNo49filvTvJmBz",
+            "id": "2LwSighkNo49filvTvJmBz",
+            "name": "Daniel Santoro",
+            "type": "artist",
+            "uri": "spotify:artist:2LwSighkNo49filvTvJmBz"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 177391,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2f3oC2DsMDp0vOHsUd4wLa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2f3oC2DsMDp0vOHsUd4wLa",
+        "id": "2f3oC2DsMDp0vOHsUd4wLa",
+        "is_local": false,
+        "name": "My Love",
+        "preview_url": "https://p.scdn.co/mp3-preview/d64e21197c27d7a53c958502d93b991f13603032?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2f3oC2DsMDp0vOHsUd4wLa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6qfgBckgZhibXAgFSsMUPB"
+}

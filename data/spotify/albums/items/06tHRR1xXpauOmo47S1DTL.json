@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+      "id": "1GmsPCcpKgF9OhlNXjOsbS",
+      "name": "Lizzy McAlpine",
+      "type": "artist",
+      "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Harbour Artists & Music under exclusive license to AWAL Recordings America, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Harbour Artists & Music under exclusive license to AWAL Recordings America, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197187991778"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/06tHRR1xXpauOmo47S1DTL",
+  "id": "06tHRR1xXpauOmo47S1DTL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737efd91e885fd81901e0a6a75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027efd91e885fd81901e0a6a75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517efd91e885fd81901e0a6a75",
+      "width": 64
+    }
+  ],
+  "label": "Harbour Artists & Music",
+  "name": "Hold On (From \"Dear Edward\")",
+  "popularity": 0,
+  "release_date": "2023-02-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/06tHRR1xXpauOmo47S1DTL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+            "id": "1GmsPCcpKgF9OhlNXjOsbS",
+            "name": "Lizzy McAlpine",
+            "type": "artist",
+            "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39YmS0tsTXHloxBgU3sYf9",
+        "id": "39YmS0tsTXHloxBgU3sYf9",
+        "is_local": false,
+        "name": "Hold On (From \"Dear Edward\")",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:39YmS0tsTXHloxBgU3sYf9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:06tHRR1xXpauOmo47S1DTL"
+}

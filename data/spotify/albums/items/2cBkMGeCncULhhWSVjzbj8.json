@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+      },
+      "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+      "id": "6w9ToX5slZ4uIdmD17hJ3c",
+      "name": "Bryant Myers",
+      "type": "artist",
+      "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+      },
+      "href": "https://api.spotify.com/v1/artists/2DspEsT7UXGKd2VaaedgG4",
+      "id": "2DspEsT7UXGKd2VaaedgG4",
+      "name": "Alex Rose",
+      "type": "artist",
+      "uri": "spotify:artist:2DspEsT7UXGKd2VaaedgG4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 La Commission, LLC & Entertainment One U.S., LP",
+      "type": "C"
+    },
+    {
+      "text": "2019 La Commission, LLC & Entertainment One U.S., LP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164185824"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2cBkMGeCncULhhWSVjzbj8",
+  "id": "2cBkMGeCncULhhWSVjzbj8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273654a8c6cf7ecedb1b8bd4246",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02654a8c6cf7ecedb1b8bd4246",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851654a8c6cf7ecedb1b8bd4246",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Bandolera",
+  "popularity": 14,
+  "release_date": "2019-06-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2cBkMGeCncULhhWSVjzbj8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+            "id": "6w9ToX5slZ4uIdmD17hJ3c",
+            "name": "Bryant Myers",
+            "type": "artist",
+            "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DspEsT7UXGKd2VaaedgG4",
+            "id": "2DspEsT7UXGKd2VaaedgG4",
+            "name": "Alex Rose",
+            "type": "artist",
+            "uri": "spotify:artist:2DspEsT7UXGKd2VaaedgG4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31jZbIjJFvIJaWjqmeEl71",
+        "id": "31jZbIjJFvIJaWjqmeEl71",
+        "is_local": false,
+        "name": "Bandolera",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:31jZbIjJFvIJaWjqmeEl71"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2cBkMGeCncULhhWSVjzbj8"
+}

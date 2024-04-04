@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+      },
+      "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+      "id": "246dkjvS1zLTtiykXe5h60",
+      "name": "Post Malone",
+      "type": "artist",
+      "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557283563"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4BC7xFBCxUMBEgGpxRBaCy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4BC7xFBCxUMBEgGpxRBaCy",
+  "id": "4BC7xFBCxUMBEgGpxRBaCy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef0a1733da0930726775eb02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef0a1733da0930726775eb02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef0a1733da0930726775eb02",
+      "width": 64
+    }
+  ],
+  "label": "Universal Records",
+  "name": "Congratulations",
+  "popularity": 0,
+  "release_date": "2016-11-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4BC7xFBCxUMBEgGpxRBaCy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+            },
+            "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+            "id": "246dkjvS1zLTtiykXe5h60",
+            "name": "Post Malone",
+            "type": "artist",
+            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+            "id": "0VRj0yCOv2FXJNP47XQnx5",
+            "name": "Quavo",
+            "type": "artist",
+            "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220320,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TnmrW9L8GSaBMhTtEQtCK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TnmrW9L8GSaBMhTtEQtCK",
+        "id": "0TnmrW9L8GSaBMhTtEQtCK",
+        "is_local": false,
+        "name": "Congratulations",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0TnmrW9L8GSaBMhTtEQtCK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4BC7xFBCxUMBEgGpxRBaCy"
+}

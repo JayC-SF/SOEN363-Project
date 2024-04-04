@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+      },
+      "href": "https://api.spotify.com/v1/artists/4WaTBVJBxGQ71Ch0swa8DA",
+      "id": "4WaTBVJBxGQ71Ch0swa8DA",
+      "name": "Sebjak",
+      "type": "artist",
+      "uri": "spotify:artist:4WaTBVJBxGQ71Ch0swa8DA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lFGvLLUwT6MB6Fx0CkRwk",
+      "id": "6lFGvLLUwT6MB6Fx0CkRwk",
+      "name": "Fahlberg",
+      "type": "artist",
+      "uri": "spotify:artist:6lFGvLLUwT6MB6Fx0CkRwk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 ABRACADABRA",
+      "type": "C"
+    },
+    {
+      "text": "2022 ABRACADABRA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060944577568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6A6oGWjdOX6v40tZU9pW44",
+  "id": "6A6oGWjdOX6v40tZU9pW44",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733169fc0296b0468cedefe649",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023169fc0296b0468cedefe649",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513169fc0296b0468cedefe649",
+      "width": 64
+    }
+  ],
+  "label": "ABRACADABRA Music",
+  "name": "Somebody",
+  "popularity": 2,
+  "release_date": "2022-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6A6oGWjdOX6v40tZU9pW44/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WaTBVJBxGQ71Ch0swa8DA",
+            "id": "4WaTBVJBxGQ71Ch0swa8DA",
+            "name": "Sebjak",
+            "type": "artist",
+            "uri": "spotify:artist:4WaTBVJBxGQ71Ch0swa8DA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lFGvLLUwT6MB6Fx0CkRwk",
+            "id": "6lFGvLLUwT6MB6Fx0CkRwk",
+            "name": "Fahlberg",
+            "type": "artist",
+            "uri": "spotify:artist:6lFGvLLUwT6MB6Fx0CkRwk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223604,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cdZ4dvrNBK7ZjN896yVw3",
+        "id": "6cdZ4dvrNBK7ZjN896yVw3",
+        "is_local": false,
+        "name": "Somebody - Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6cdZ4dvrNBK7ZjN896yVw3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6A6oGWjdOX6v40tZU9pW44"
+}

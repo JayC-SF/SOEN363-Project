@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+      },
+      "href": "https://api.spotify.com/v1/artists/2r3HmBK84dHpMW5WFNdWNP",
+      "id": "2r3HmBK84dHpMW5WFNdWNP",
+      "name": "Ezu",
+      "type": "artist",
+      "uri": "spotify:artist:2r3HmBK84dHpMW5WFNdWNP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 VIP Records Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2020 VIP Records Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059552103146"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0xvMfn4Tbso3MxgAWVTtHG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0xvMfn4Tbso3MxgAWVTtHG",
+  "id": "0xvMfn4Tbso3MxgAWVTtHG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e508a96198a95b2d70d1a38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e508a96198a95b2d70d1a38",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519e508a96198a95b2d70d1a38",
+      "width": 64
+    }
+  ],
+  "label": "VIP Records",
+  "name": "Sapni",
+  "popularity": 0,
+  "release_date": "2020-07-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0xvMfn4Tbso3MxgAWVTtHG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+            },
+            "href": "https://api.spotify.com/v1/artists/2r3HmBK84dHpMW5WFNdWNP",
+            "id": "2r3HmBK84dHpMW5WFNdWNP",
+            "name": "Ezu",
+            "type": "artist",
+            "uri": "spotify:artist:2r3HmBK84dHpMW5WFNdWNP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205436,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BvBzQdTEmZFHh0OViMhdl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BvBzQdTEmZFHh0OViMhdl",
+        "id": "7BvBzQdTEmZFHh0OViMhdl",
+        "is_local": false,
+        "name": "Sapni",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BvBzQdTEmZFHh0OViMhdl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0xvMfn4Tbso3MxgAWVTtHG"
+}

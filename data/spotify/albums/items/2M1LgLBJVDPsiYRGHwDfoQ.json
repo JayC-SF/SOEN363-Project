@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+      "id": "6LnJKrtFnTEGdbWQ2riWCL",
+      "name": "Ezhel",
+      "type": "artist",
+      "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+    }
+  ],
+  "available_markets": [
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Koal Arts GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Koal Arts GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196006920616"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2M1LgLBJVDPsiYRGHwDfoQ",
+  "id": "2M1LgLBJVDPsiYRGHwDfoQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b42e100079c0b3132d3ed25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026b42e100079c0b3132d3ed25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516b42e100079c0b3132d3ed25",
+      "width": 64
+    }
+  ],
+  "label": "Koal Arts GmbH",
+  "name": "Bul Beni",
+  "popularity": 53,
+  "release_date": "2021-07-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2M1LgLBJVDPsiYRGHwDfoQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+            "id": "6LnJKrtFnTEGdbWQ2riWCL",
+            "name": "Ezhel",
+            "type": "artist",
+            "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+          }
+        ],
+        "available_markets": [
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 154173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ipyu0Am4avjFkBcFAhVAz",
+        "id": "6ipyu0Am4avjFkBcFAhVAz",
+        "is_local": false,
+        "name": "Bul Beni",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ipyu0Am4avjFkBcFAhVAz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2M1LgLBJVDPsiYRGHwDfoQ"
+}

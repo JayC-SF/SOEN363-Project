@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+      },
+      "href": "https://api.spotify.com/v1/artists/1u7DsNFbakULvxnDGtMm90",
+      "id": "1u7DsNFbakULvxnDGtMm90",
+      "name": "Enrico Sangiuliano",
+      "type": "artist",
+      "uri": "spotify:artist:1u7DsNFbakULvxnDGtMm90"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 NINETOZERO",
+      "type": "C"
+    },
+    {
+      "text": "2022 NINETOZERO",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060972805121"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0CW5qDbO13Ax7GxwWNaeUT",
+  "id": "0CW5qDbO13Ax7GxwWNaeUT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f42989dbf49c7219a9225db5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f42989dbf49c7219a9225db5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f42989dbf49c7219a9225db5",
+      "width": 64
+    }
+  ],
+  "label": "NINETOZERO",
+  "name": "Sound Of Space EP",
+  "popularity": 1,
+  "release_date": "2022-09-30",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0CW5qDbO13Ax7GxwWNaeUT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1u7DsNFbakULvxnDGtMm90",
+            "id": "1u7DsNFbakULvxnDGtMm90",
+            "name": "Enrico Sangiuliano",
+            "type": "artist",
+            "uri": "spotify:artist:1u7DsNFbakULvxnDGtMm90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 498461,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CYS0ibZaJm201ZKonnqih",
+        "id": "7CYS0ibZaJm201ZKonnqih",
+        "is_local": false,
+        "name": "The Sound Of Space",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7CYS0ibZaJm201ZKonnqih"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1u7DsNFbakULvxnDGtMm90",
+            "id": "1u7DsNFbakULvxnDGtMm90",
+            "name": "Enrico Sangiuliano",
+            "type": "artist",
+            "uri": "spotify:artist:1u7DsNFbakULvxnDGtMm90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 348444,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rAdstq2FtKpApOYyouwAf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rAdstq2FtKpApOYyouwAf",
+        "id": "0rAdstq2FtKpApOYyouwAf",
+        "is_local": false,
+        "name": "Spatial Perception",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0rAdstq2FtKpApOYyouwAf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0CW5qDbO13Ax7GxwWNaeUT"
+}

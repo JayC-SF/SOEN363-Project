@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FIPvZeXQpcA62WXcoCELX"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FIPvZeXQpcA62WXcoCELX",
+      "id": "1FIPvZeXQpcA62WXcoCELX",
+      "name": "M4rkim",
+      "type": "artist",
+      "uri": "spotify:artist:1FIPvZeXQpcA62WXcoCELX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 M4rkim",
+      "type": "C"
+    },
+    {
+      "text": "2022 M4rkim",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207641669"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2zDQsRvyROnQph4aFUlUti"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2zDQsRvyROnQph4aFUlUti",
+  "id": "2zDQsRvyROnQph4aFUlUti",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ee786f7f8705e46c9b012c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020ee786f7f8705e46c9b012c4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510ee786f7f8705e46c9b012c4",
+      "width": 64
+    }
+  ],
+  "label": "M4rkim",
+  "name": "Hashiras x Kokushibou, Castelo Infinito",
+  "popularity": 0,
+  "release_date": "2022-09-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2zDQsRvyROnQph4aFUlUti/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FIPvZeXQpcA62WXcoCELX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FIPvZeXQpcA62WXcoCELX",
+            "id": "1FIPvZeXQpcA62WXcoCELX",
+            "name": "M4rkim",
+            "type": "artist",
+            "uri": "spotify:artist:1FIPvZeXQpcA62WXcoCELX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 406274,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rJlySX7TP6Jf096g7333V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rJlySX7TP6Jf096g7333V",
+        "id": "3rJlySX7TP6Jf096g7333V",
+        "is_local": false,
+        "name": "Hashiras x Kokushibou, Castelo Infinito",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3rJlySX7TP6Jf096g7333V"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2zDQsRvyROnQph4aFUlUti"
+}

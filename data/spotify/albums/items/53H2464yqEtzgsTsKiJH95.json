@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3K49BAizpfWdDws7kKsdwu",
+      "id": "3K49BAizpfWdDws7kKsdwu",
+      "name": "Blksmiith",
+      "type": "artist",
+      "uri": "spotify:artist:3K49BAizpfWdDws7kKsdwu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 time passes",
+      "type": "C"
+    },
+    {
+      "text": "2022 time passes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197274052863"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53H2464yqEtzgsTsKiJH95"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53H2464yqEtzgsTsKiJH95",
+  "id": "53H2464yqEtzgsTsKiJH95",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f237f6ee0ba83412ae982724",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f237f6ee0ba83412ae982724",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f237f6ee0ba83412ae982724",
+      "width": 64
+    }
+  ],
+  "label": "time passes",
+  "name": "unknown",
+  "popularity": 28,
+  "release_date": "2022-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53H2464yqEtzgsTsKiJH95/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3K49BAizpfWdDws7kKsdwu",
+            "id": "3K49BAizpfWdDws7kKsdwu",
+            "name": "Blksmiith",
+            "type": "artist",
+            "uri": "spotify:artist:3K49BAizpfWdDws7kKsdwu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6seY41NvQtBg2pW2PzyWaa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6seY41NvQtBg2pW2PzyWaa",
+        "id": "6seY41NvQtBg2pW2PzyWaa",
+        "is_local": false,
+        "name": "unknown",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6seY41NvQtBg2pW2PzyWaa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3K49BAizpfWdDws7kKsdwu",
+            "id": "3K49BAizpfWdDws7kKsdwu",
+            "name": "Blksmiith",
+            "type": "artist",
+            "uri": "spotify:artist:3K49BAizpfWdDws7kKsdwu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139885,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1x0juMRWwFN514FItOiESU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1x0juMRWwFN514FItOiESU",
+        "id": "1x0juMRWwFN514FItOiESU",
+        "is_local": false,
+        "name": "unknown - sped up",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1x0juMRWwFN514FItOiESU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:53H2464yqEtzgsTsKiJH95"
+}

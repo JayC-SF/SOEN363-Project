@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R9nALPSOaTrVFIbMLeMuU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4R9nALPSOaTrVFIbMLeMuU",
+      "id": "4R9nALPSOaTrVFIbMLeMuU",
+      "name": "ivzdanii",
+      "type": "artist",
+      "uri": "spotify:artist:4R9nALPSOaTrVFIbMLeMuU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 ivzdanii",
+      "type": "C"
+    },
+    {
+      "text": "2023 ivzdanii",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "711709562576"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5l7g26XENwnzW7ay1sUytz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5l7g26XENwnzW7ay1sUytz",
+  "id": "5l7g26XENwnzW7ay1sUytz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27376ab571b0d7b66fffdccc10a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276ab571b0d7b66fffdccc10a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485176ab571b0d7b66fffdccc10a",
+      "width": 64
+    }
+  ],
+  "label": "ivzdanii",
+  "name": "Ando Pa Ti",
+  "popularity": 0,
+  "release_date": "2023-08-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5l7g26XENwnzW7ay1sUytz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4R9nALPSOaTrVFIbMLeMuU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4R9nALPSOaTrVFIbMLeMuU",
+            "id": "4R9nALPSOaTrVFIbMLeMuU",
+            "name": "ivzdanii",
+            "type": "artist",
+            "uri": "spotify:artist:4R9nALPSOaTrVFIbMLeMuU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128724,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rec04mU4g9VPGZ205ClwM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rec04mU4g9VPGZ205ClwM",
+        "id": "5rec04mU4g9VPGZ205ClwM",
+        "is_local": false,
+        "name": "Ando Pa Ti",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5rec04mU4g9VPGZ205ClwM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5l7g26XENwnzW7ay1sUytz"
+}

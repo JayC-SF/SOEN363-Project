@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+      "id": "6VD4UEUPvtsemqD3mmTqCR",
+      "name": "Deorro",
+      "type": "artist",
+      "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 PRMD, LLC under exclusive license to Ultra Records, LLC / B1 Recordings GmbH",
+      "type": "C"
+    },
+    {
+      "text": "2015 PRMD, LLC under exclusive license to Ultra Records, LLC / B1 Recordings GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465601453"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10SD9Mtq2r7FRFtVQ8y19P"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10SD9Mtq2r7FRFtVQ8y19P",
+  "id": "10SD9Mtq2r7FRFtVQ8y19P",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8833c726c2838adb7874c06",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8833c726c2838adb7874c06",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8833c726c2838adb7874c06",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Five More Hours (Deorro x Chris Brown)",
+  "popularity": 7,
+  "release_date": "2015-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10SD9Mtq2r7FRFtVQ8y19P/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+            "id": "6VD4UEUPvtsemqD3mmTqCR",
+            "name": "Deorro",
+            "type": "artist",
+            "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211975,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6omW6DQqbdBwJ4NKAcyAng"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6omW6DQqbdBwJ4NKAcyAng",
+        "id": "6omW6DQqbdBwJ4NKAcyAng",
+        "is_local": false,
+        "name": "Five More Hours",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6omW6DQqbdBwJ4NKAcyAng"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10SD9Mtq2r7FRFtVQ8y19P"
+}

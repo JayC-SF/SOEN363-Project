@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0u5rgUuCTC6ckcfELKvw6O"
+      },
+      "href": "https://api.spotify.com/v1/artists/0u5rgUuCTC6ckcfELKvw6O",
+      "id": "0u5rgUuCTC6ckcfELKvw6O",
+      "name": "DVRKMANE",
+      "type": "artist",
+      "uri": "spotify:artist:0u5rgUuCTC6ckcfELKvw6O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "730530144843"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7efUW2SU402py4kRva092E"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7efUW2SU402py4kRva092E",
+  "id": "7efUW2SU402py4kRva092E",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e11a1ceff44abc70fec6c16",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027e11a1ceff44abc70fec6c16",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517e11a1ceff44abc70fec6c16",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "Demonrave",
+  "popularity": 0,
+  "release_date": "2023-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7efUW2SU402py4kRva092E/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0u5rgUuCTC6ckcfELKvw6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/0u5rgUuCTC6ckcfELKvw6O",
+            "id": "0u5rgUuCTC6ckcfELKvw6O",
+            "name": "DVRKMANE",
+            "type": "artist",
+            "uri": "spotify:artist:0u5rgUuCTC6ckcfELKvw6O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 134117,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iIp9HHgIpBAY4nHS6qQRB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3iIp9HHgIpBAY4nHS6qQRB",
+        "id": "3iIp9HHgIpBAY4nHS6qQRB",
+        "is_local": false,
+        "name": "Demonrave",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3iIp9HHgIpBAY4nHS6qQRB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7efUW2SU402py4kRva092E"
+}

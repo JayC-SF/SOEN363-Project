@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+      },
+      "href": "https://api.spotify.com/v1/artists/24RDdXWdq95PlTMTpFTvC6",
+      "id": "24RDdXWdq95PlTMTpFTvC6",
+      "name": "Stevan",
+      "type": "artist",
+      "uri": "spotify:artist:24RDdXWdq95PlTMTpFTvC6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Honeymoon",
+      "type": "C"
+    },
+    {
+      "text": "2022 Honeymoon",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194690797101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3V6ocE8HwhNK3HY0w1adzF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3V6ocE8HwhNK3HY0w1adzF",
+  "id": "3V6ocE8HwhNK3HY0w1adzF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e58c2609b6537532d9b6ebe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e58c2609b6537532d9b6ebe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e58c2609b6537532d9b6ebe",
+      "width": 64
+    }
+  ],
+  "label": "Honeymoon",
+  "name": "The Wave",
+  "popularity": 0,
+  "release_date": "2022-04-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3V6ocE8HwhNK3HY0w1adzF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+            },
+            "href": "https://api.spotify.com/v1/artists/24RDdXWdq95PlTMTpFTvC6",
+            "id": "24RDdXWdq95PlTMTpFTvC6",
+            "name": "Stevan",
+            "type": "artist",
+            "uri": "spotify:artist:24RDdXWdq95PlTMTpFTvC6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152313,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4AmW5yhWe6CcQp5s80Ysdk",
+        "id": "4AmW5yhWe6CcQp5s80Ysdk",
+        "is_local": false,
+        "name": "The Wave",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4AmW5yhWe6CcQp5s80Ysdk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3V6ocE8HwhNK3HY0w1adzF"
+}

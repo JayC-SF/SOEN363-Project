@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1rSGNXhhYuWoq9BEz5DZGO",
+      "id": "1rSGNXhhYuWoq9BEz5DZGO",
+      "name": "ARTY",
+      "type": "artist",
+      "uri": "spotify:artist:1rSGNXhhYuWoq9BEz5DZGO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dIbvdQQd3HXfQcRjR6lb7",
+      "id": "3dIbvdQQd3HXfQcRjR6lb7",
+      "name": "Griff Clawson",
+      "type": "artist",
+      "uri": "spotify:artist:3dIbvdQQd3HXfQcRjR6lb7"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2021 Armada Music B.V. This recording under exclusive license to Sony Music Entertainment Canada Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449716371"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qCFuCsuANkOiqbziNZ2Fy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qCFuCsuANkOiqbziNZ2Fy",
+  "id": "7qCFuCsuANkOiqbziNZ2Fy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27371fccb0ada2eca999be9f65b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0271fccb0ada2eca999be9f65b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485171fccb0ada2eca999be9f65b",
+      "width": 64
+    }
+  ],
+  "label": "Armada",
+  "name": "Those Eyes (feat. Griff Clawson)",
+  "popularity": 31,
+  "release_date": "2021-10-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qCFuCsuANkOiqbziNZ2Fy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1rSGNXhhYuWoq9BEz5DZGO",
+            "id": "1rSGNXhhYuWoq9BEz5DZGO",
+            "name": "ARTY",
+            "type": "artist",
+            "uri": "spotify:artist:1rSGNXhhYuWoq9BEz5DZGO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dIbvdQQd3HXfQcRjR6lb7",
+            "id": "3dIbvdQQd3HXfQcRjR6lb7",
+            "name": "Griff Clawson",
+            "type": "artist",
+            "uri": "spotify:artist:3dIbvdQQd3HXfQcRjR6lb7"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 162786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33ArLNq6JksceoJUONafnX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33ArLNq6JksceoJUONafnX",
+        "id": "33ArLNq6JksceoJUONafnX",
+        "is_local": false,
+        "name": "Those Eyes (feat. Griff Clawson)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d6310da10b3526120a8a23dd16a2621f248ad1d7?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:33ArLNq6JksceoJUONafnX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qCFuCsuANkOiqbziNZ2Fy"
+}

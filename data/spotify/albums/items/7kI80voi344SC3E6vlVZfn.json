@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id": "4YRxDV8wJFPHPTeXepOstw",
+      "name": "Arijit Singh",
+      "type": "artist",
+      "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id": "1wRPtKGflJrBx9BmLsSwlU",
+      "name": "Pritam",
+      "type": "artist",
+      "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Zee Music Company",
+      "type": "C"
+    },
+    {
+      "text": "2019 Zee Music Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857678571"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7kI80voi344SC3E6vlVZfn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7kI80voi344SC3E6vlVZfn",
+  "id": "7kI80voi344SC3E6vlVZfn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d84b170e5902706ee28b927e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d84b170e5902706ee28b927e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d84b170e5902706ee28b927e",
+      "width": 64
+    }
+  ],
+  "label": "Zee Music Company",
+  "name": "Kalank - Title Track (Kalank)",
+  "popularity": 0,
+  "release_date": "2019-03-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7kI80voi344SC3E6vlVZfn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 311186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y8jKq7CYLEW6PWp11jWZC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Y8jKq7CYLEW6PWp11jWZC",
+        "id": "1Y8jKq7CYLEW6PWp11jWZC",
+        "is_local": false,
+        "name": "Kalank (Title Track)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Y8jKq7CYLEW6PWp11jWZC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7kI80voi344SC3E6vlVZfn"
+}

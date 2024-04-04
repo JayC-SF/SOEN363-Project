@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+      },
+      "href": "https://api.spotify.com/v1/artists/71UIOLnsacxQHlU55TvfiH",
+      "id": "71UIOLnsacxQHlU55TvfiH",
+      "name": "Da-iCE",
+      "type": "artist",
+      "uri": "spotify:artist:71UIOLnsacxQHlU55TvfiH"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "OCTAVE / ULTRA-VYBE,Inc. , tearbridge production",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4515793847924"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5VRjQKWRCMR1Mlbh1eXsDa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5VRjQKWRCMR1Mlbh1eXsDa",
+  "id": "5VRjQKWRCMR1Mlbh1eXsDa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d01706fbdea0d63fa6bf661",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d01706fbdea0d63fa6bf661",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d01706fbdea0d63fa6bf661",
+      "width": 64
+    }
+  ],
+  "label": "Octave",
+  "name": "I'll be back",
+  "popularity": 32,
+  "release_date": "2013-06-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5VRjQKWRCMR1Mlbh1eXsDa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+            },
+            "href": "https://api.spotify.com/v1/artists/71UIOLnsacxQHlU55TvfiH",
+            "id": "71UIOLnsacxQHlU55TvfiH",
+            "name": "Da-iCE",
+            "type": "artist",
+            "uri": "spotify:artist:71UIOLnsacxQHlU55TvfiH"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 186570,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YnDKO4UzBZ6kXJsgGYZNO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0YnDKO4UzBZ6kXJsgGYZNO",
+        "id": "0YnDKO4UzBZ6kXJsgGYZNO",
+        "is_local": false,
+        "name": "I'll be back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0YnDKO4UzBZ6kXJsgGYZNO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5VRjQKWRCMR1Mlbh1eXsDa"
+}

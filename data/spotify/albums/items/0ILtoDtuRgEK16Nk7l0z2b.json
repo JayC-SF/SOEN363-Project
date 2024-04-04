@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42EevZ5yhMNB4WNqYIVxPg"
+      },
+      "href": "https://api.spotify.com/v1/artists/42EevZ5yhMNB4WNqYIVxPg",
+      "id": "42EevZ5yhMNB4WNqYIVxPg",
+      "name": "ZiBBZ",
+      "type": "artist",
+      "uri": "spotify:artist:42EevZ5yhMNB4WNqYIVxPg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 ZiBBZ",
+      "type": "C"
+    },
+    {
+      "text": "2018 6003 Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7640151869748"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ILtoDtuRgEK16Nk7l0z2b"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ILtoDtuRgEK16Nk7l0z2b",
+  "id": "0ILtoDtuRgEK16Nk7l0z2b",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388e795cd523056bf1d72b79f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288e795cd523056bf1d72b79f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188e795cd523056bf1d72b79f",
+      "width": 64
+    }
+  ],
+  "label": "6003 Records",
+  "name": "Stones",
+  "popularity": 8,
+  "release_date": "2018-01-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ILtoDtuRgEK16Nk7l0z2b/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42EevZ5yhMNB4WNqYIVxPg"
+            },
+            "href": "https://api.spotify.com/v1/artists/42EevZ5yhMNB4WNqYIVxPg",
+            "id": "42EevZ5yhMNB4WNqYIVxPg",
+            "name": "ZiBBZ",
+            "type": "artist",
+            "uri": "spotify:artist:42EevZ5yhMNB4WNqYIVxPg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178124,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fYKSTyUG6Yy6Kmem8LbLI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fYKSTyUG6Yy6Kmem8LbLI",
+        "id": "4fYKSTyUG6Yy6Kmem8LbLI",
+        "is_local": false,
+        "name": "Stones",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4fYKSTyUG6Yy6Kmem8LbLI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ILtoDtuRgEK16Nk7l0z2b"
+}

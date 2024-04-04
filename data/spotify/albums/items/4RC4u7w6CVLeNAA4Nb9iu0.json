@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3wrdNgjTSLLQZ382sPyoA5",
+      "id": "3wrdNgjTSLLQZ382sPyoA5",
+      "name": "Dan Owen",
+      "type": "artist",
+      "uri": "spotify:artist:3wrdNgjTSLLQZ382sPyoA5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "LAB Records, Ltd",
+      "type": "C"
+    },
+    {
+      "text": "LAB Records, Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614599847792"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RC4u7w6CVLeNAA4Nb9iu0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4RC4u7w6CVLeNAA4Nb9iu0",
+  "id": "4RC4u7w6CVLeNAA4Nb9iu0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d32c26c2b30841f890c013c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d32c26c2b30841f890c013c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d32c26c2b30841f890c013c7",
+      "width": 64
+    }
+  ],
+  "label": "LAB Records, Ltd",
+  "name": "Made to Love You",
+  "popularity": 0,
+  "release_date": "2016-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4RC4u7w6CVLeNAA4Nb9iu0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3wrdNgjTSLLQZ382sPyoA5",
+            "id": "3wrdNgjTSLLQZ382sPyoA5",
+            "name": "Dan Owen",
+            "type": "artist",
+            "uri": "spotify:artist:3wrdNgjTSLLQZ382sPyoA5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TFGNGyFaIIdDoM2SXRida"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TFGNGyFaIIdDoM2SXRida",
+        "id": "0TFGNGyFaIIdDoM2SXRida",
+        "is_local": false,
+        "name": "Made to Love You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0TFGNGyFaIIdDoM2SXRida"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4RC4u7w6CVLeNAA4Nb9iu0"
+}

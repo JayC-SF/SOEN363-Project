@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+      },
+      "href": "https://api.spotify.com/v1/artists/66U02qGDesTqZImnLSiYeE",
+      "id": "66U02qGDesTqZImnLSiYeE",
+      "name": "Elvis Martinez",
+      "type": "artist",
+      "uri": "spotify:artist:66U02qGDesTqZImnLSiYeE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Camaron Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Camaron Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193665191333"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2NSJr2BEKI8Drad4yjpSkK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2NSJr2BEKI8Drad4yjpSkK",
+  "id": "2NSJr2BEKI8Drad4yjpSkK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7c286e578dd65715bf52761",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7c286e578dd65715bf52761",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7c286e578dd65715bf52761",
+      "width": 64
+    }
+  ],
+  "label": "Camaron Records",
+  "name": "Directo Al Coraz\u00f3n",
+  "popularity": 0,
+  "release_date": "2000-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2NSJr2BEKI8Drad4yjpSkK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+            },
+            "href": "https://api.spotify.com/v1/artists/66U02qGDesTqZImnLSiYeE",
+            "id": "66U02qGDesTqZImnLSiYeE",
+            "name": "Elvis Martinez",
+            "type": "artist",
+            "uri": "spotify:artist:66U02qGDesTqZImnLSiYeE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207882,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XQmdFq5wJdty1SPTIKXhq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XQmdFq5wJdty1SPTIKXhq",
+        "id": "1XQmdFq5wJdty1SPTIKXhq",
+        "is_local": false,
+        "name": "Directo Al Coraz\u00f3n",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XQmdFq5wJdty1SPTIKXhq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2NSJr2BEKI8Drad4yjpSkK"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+      },
+      "href": "https://api.spotify.com/v1/artists/1g9S6C1WRQYwddKiR3Kwcv",
+      "id": "1g9S6C1WRQYwddKiR3Kwcv",
+      "name": "Oberg",
+      "type": "artist",
+      "uri": "spotify:artist:1g9S6C1WRQYwddKiR3Kwcv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0"
+      },
+      "href": "https://api.spotify.com/v1/artists/0XNvr6bnNywV946ZKaJtr0",
+      "id": "0XNvr6bnNywV946ZKaJtr0",
+      "name": "Joakim Lundell",
+      "type": "artist",
+      "uri": "spotify:artist:0XNvr6bnNywV946ZKaJtr0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Ninetone Records under exclusive license to Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Ninetone Records under exclusive license to Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465037597"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36eJN6S0Oe7dOxxhaFu90q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/36eJN6S0Oe7dOxxhaFu90q",
+  "id": "36eJN6S0Oe7dOxxhaFu90q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa0884135a2124b74772dde0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa0884135a2124b74772dde0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa0884135a2124b74772dde0",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Sun Goes Down",
+  "popularity": 4,
+  "release_date": "2021-11-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/36eJN6S0Oe7dOxxhaFu90q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g9S6C1WRQYwddKiR3Kwcv",
+            "id": "1g9S6C1WRQYwddKiR3Kwcv",
+            "name": "Oberg",
+            "type": "artist",
+            "uri": "spotify:artist:1g9S6C1WRQYwddKiR3Kwcv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0"
+            },
+            "href": "https://api.spotify.com/v1/artists/0XNvr6bnNywV946ZKaJtr0",
+            "id": "0XNvr6bnNywV946ZKaJtr0",
+            "name": "Joakim Lundell",
+            "type": "artist",
+            "uri": "spotify:artist:0XNvr6bnNywV946ZKaJtr0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135711,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rGrqBvabeB9BHXlVvxAeE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rGrqBvabeB9BHXlVvxAeE",
+        "id": "3rGrqBvabeB9BHXlVvxAeE",
+        "is_local": false,
+        "name": "Sun Goes Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3rGrqBvabeB9BHXlVvxAeE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:36eJN6S0Oe7dOxxhaFu90q"
+}

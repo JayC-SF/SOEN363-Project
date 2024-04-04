@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78GdFYPETzCgutsc5O5COH"
+      },
+      "href": "https://api.spotify.com/v1/artists/78GdFYPETzCgutsc5O5COH",
+      "id": "78GdFYPETzCgutsc5O5COH",
+      "name": "Mak Sauce",
+      "type": "artist",
+      "uri": "spotify:artist:78GdFYPETzCgutsc5O5COH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Run-iT-Up Records / Saturn Savages Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733098033"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MaAahepZoxCyUaxfM0erD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MaAahepZoxCyUaxfM0erD",
+  "id": "6MaAahepZoxCyUaxfM0erD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735739ee9b2ffce36f553f0e3c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025739ee9b2ffce36f553f0e3c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515739ee9b2ffce36f553f0e3c",
+      "width": 64
+    }
+  ],
+  "label": "Run-iT-Up Records / Saturn Savages Records",
+  "name": "Good Morning",
+  "popularity": 0,
+  "release_date": "2019-06-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MaAahepZoxCyUaxfM0erD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78GdFYPETzCgutsc5O5COH"
+            },
+            "href": "https://api.spotify.com/v1/artists/78GdFYPETzCgutsc5O5COH",
+            "id": "78GdFYPETzCgutsc5O5COH",
+            "name": "Mak Sauce",
+            "type": "artist",
+            "uri": "spotify:artist:78GdFYPETzCgutsc5O5COH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155742,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XuoyFromotNqDFl6vzwC6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XuoyFromotNqDFl6vzwC6",
+        "id": "3XuoyFromotNqDFl6vzwC6",
+        "is_local": false,
+        "name": "Good Morning",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XuoyFromotNqDFl6vzwC6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MaAahepZoxCyUaxfM0erD"
+}

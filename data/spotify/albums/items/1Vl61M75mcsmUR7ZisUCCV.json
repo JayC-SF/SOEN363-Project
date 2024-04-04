@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4h2BgkCTcoJ9pxUC7TARKr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4h2BgkCTcoJ9pxUC7TARKr",
+      "id": "4h2BgkCTcoJ9pxUC7TARKr",
+      "name": "Klam",
+      "type": "artist",
+      "uri": "spotify:artist:4h2BgkCTcoJ9pxUC7TARKr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Weshmusic",
+      "type": "C"
+    },
+    {
+      "text": "2022 Weshmusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616845707584"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Vl61M75mcsmUR7ZisUCCV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Vl61M75mcsmUR7ZisUCCV",
+  "id": "1Vl61M75mcsmUR7ZisUCCV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327778d4b4fd3a5c8a005f6f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227778d4b4fd3a5c8a005f6f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127778d4b4fd3a5c8a005f6f0",
+      "width": 64
+    }
+  ],
+  "label": "Wesh Music",
+  "name": "Hbelle Vie 2",
+  "popularity": 2,
+  "release_date": "2022-03-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Vl61M75mcsmUR7ZisUCCV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4h2BgkCTcoJ9pxUC7TARKr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4h2BgkCTcoJ9pxUC7TARKr",
+            "id": "4h2BgkCTcoJ9pxUC7TARKr",
+            "name": "Klam",
+            "type": "artist",
+            "uri": "spotify:artist:4h2BgkCTcoJ9pxUC7TARKr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195254,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wCeRfrG3EdCYL0oAJXsLt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wCeRfrG3EdCYL0oAJXsLt",
+        "id": "0wCeRfrG3EdCYL0oAJXsLt",
+        "is_local": false,
+        "name": "Hbelle Vie 2",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0wCeRfrG3EdCYL0oAJXsLt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Vl61M75mcsmUR7ZisUCCV"
+}

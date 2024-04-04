@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ArkPxPSwZoQw5ESuxt4oG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ArkPxPSwZoQw5ESuxt4oG",
+      "id": "7ArkPxPSwZoQw5ESuxt4oG",
+      "name": "Rok Nardin",
+      "type": "artist",
+      "uri": "spotify:artist:7ArkPxPSwZoQw5ESuxt4oG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13FTHoOzbdwyu2iuVxdO6Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/13FTHoOzbdwyu2iuVxdO6Y",
+      "id": "13FTHoOzbdwyu2iuVxdO6Y",
+      "name": "Epic Music World",
+      "type": "artist",
+      "uri": "spotify:artist:13FTHoOzbdwyu2iuVxdO6Y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Epic Music World",
+      "type": "C"
+    },
+    {
+      "text": "2020 Epic Music World",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194152263069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5PChrnEMnU9j8YcuGQ3bcx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5PChrnEMnU9j8YcuGQ3bcx",
+  "id": "5PChrnEMnU9j8YcuGQ3bcx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b7a00a5ef97d3f4e1409a9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b7a00a5ef97d3f4e1409a9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b7a00a5ef97d3f4e1409a9b",
+      "width": 64
+    }
+  ],
+  "label": "Epic Music World",
+  "name": "You Can't Kill Me",
+  "popularity": 0,
+  "release_date": "2021-06-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5PChrnEMnU9j8YcuGQ3bcx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ArkPxPSwZoQw5ESuxt4oG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ArkPxPSwZoQw5ESuxt4oG",
+            "id": "7ArkPxPSwZoQw5ESuxt4oG",
+            "name": "Rok Nardin",
+            "type": "artist",
+            "uri": "spotify:artist:7ArkPxPSwZoQw5ESuxt4oG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13FTHoOzbdwyu2iuVxdO6Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/13FTHoOzbdwyu2iuVxdO6Y",
+            "id": "13FTHoOzbdwyu2iuVxdO6Y",
+            "name": "Epic Music World",
+            "type": "artist",
+            "uri": "spotify:artist:13FTHoOzbdwyu2iuVxdO6Y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255731,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FiMyHnjWgRNp6BLzzITJh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6FiMyHnjWgRNp6BLzzITJh",
+        "id": "6FiMyHnjWgRNp6BLzzITJh",
+        "is_local": false,
+        "name": "You Can't Kill Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6FiMyHnjWgRNp6BLzzITJh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5PChrnEMnU9j8YcuGQ3bcx"
+}

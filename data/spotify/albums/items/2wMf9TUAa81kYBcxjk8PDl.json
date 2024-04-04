@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2aEIFPiL6kSSF7nHUFUtHo"
+      },
+      "href": "https://api.spotify.com/v1/artists/2aEIFPiL6kSSF7nHUFUtHo",
+      "id": "2aEIFPiL6kSSF7nHUFUtHo",
+      "name": "New Carti",
+      "type": "artist",
+      "uri": "spotify:artist:2aEIFPiL6kSSF7nHUFUtHo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 New Carti",
+      "type": "C"
+    },
+    {
+      "text": "2024 New Carti",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063373409141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2wMf9TUAa81kYBcxjk8PDl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2wMf9TUAa81kYBcxjk8PDl",
+  "id": "2wMf9TUAa81kYBcxjk8PDl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab30db324850a3d7aa4ce295",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab30db324850a3d7aa4ce295",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab30db324850a3d7aa4ce295",
+      "width": 64
+    }
+  ],
+  "label": "New Carti",
+  "name": "Pop Out",
+  "popularity": 38,
+  "release_date": "2023-10-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2wMf9TUAa81kYBcxjk8PDl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2aEIFPiL6kSSF7nHUFUtHo"
+            },
+            "href": "https://api.spotify.com/v1/artists/2aEIFPiL6kSSF7nHUFUtHo",
+            "id": "2aEIFPiL6kSSF7nHUFUtHo",
+            "name": "New Carti",
+            "type": "artist",
+            "uri": "spotify:artist:2aEIFPiL6kSSF7nHUFUtHo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138948,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dSjwVzmSro2cWeARf8lRD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dSjwVzmSro2cWeARf8lRD",
+        "id": "7dSjwVzmSro2cWeARf8lRD",
+        "is_local": false,
+        "name": "Pop Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7dSjwVzmSro2cWeARf8lRD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2wMf9TUAa81kYBcxjk8PDl"
+}

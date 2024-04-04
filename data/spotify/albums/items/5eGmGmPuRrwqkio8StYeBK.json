@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+      "id": "6wxP7SSzfvi21Cnl8JicdQ",
+      "name": "Machel Montano",
+      "type": "artist",
+      "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Ruf Rex Records / Xtatik Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2011 Ruf Rex Records / Xtatik Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859707243490"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5eGmGmPuRrwqkio8StYeBK",
+  "id": "5eGmGmPuRrwqkio8StYeBK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd3d04a43d8c41cf33604dc1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd3d04a43d8c41cf33604dc1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd3d04a43d8c41cf33604dc1",
+      "width": 64
+    }
+  ],
+  "label": "Ruf Rex Records / Xtatik Ltd.",
+  "name": "Mr. Fete",
+  "popularity": 0,
+  "release_date": "2011-11-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5eGmGmPuRrwqkio8StYeBK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+            "id": "6wxP7SSzfvi21Cnl8JicdQ",
+            "name": "Machel Montano",
+            "type": "artist",
+            "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231050,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2cTbXePq0kurJhdxG7qBd5",
+        "id": "2cTbXePq0kurJhdxG7qBd5",
+        "is_local": false,
+        "name": "Mr. Fete",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2cTbXePq0kurJhdxG7qBd5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5eGmGmPuRrwqkio8StYeBK"
+}

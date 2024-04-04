@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6JxQbC46LapcvanSk4J3OP",
+      "id": "6JxQbC46LapcvanSk4J3OP",
+      "name": "Alt Bloom",
+      "type": "artist",
+      "uri": "spotify:artist:6JxQbC46LapcvanSk4J3OP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 BigMTN Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 BigMTN Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00050087429850"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Kqsw587YyuGhPxcqvKnOS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Kqsw587YyuGhPxcqvKnOS",
+  "id": "6Kqsw587YyuGhPxcqvKnOS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a0127b6f947b2f76c4abfb7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a0127b6f947b2f76c4abfb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a0127b6f947b2f76c4abfb7",
+      "width": 64
+    }
+  ],
+  "label": "BigMTN Records",
+  "name": "West Coast",
+  "popularity": 0,
+  "release_date": "2020-01-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Kqsw587YyuGhPxcqvKnOS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6JxQbC46LapcvanSk4J3OP",
+            "id": "6JxQbC46LapcvanSk4J3OP",
+            "name": "Alt Bloom",
+            "type": "artist",
+            "uri": "spotify:artist:6JxQbC46LapcvanSk4J3OP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mUww2X4MIzPnaZpPGycsB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mUww2X4MIzPnaZpPGycsB",
+        "id": "5mUww2X4MIzPnaZpPGycsB",
+        "is_local": false,
+        "name": "West Coast",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5mUww2X4MIzPnaZpPGycsB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Kqsw587YyuGhPxcqvKnOS"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4sIuoDOzSlBqeiNJl631zX",
+      "id": "4sIuoDOzSlBqeiNJl631zX",
+      "name": "The 502s",
+      "type": "artist",
+      "uri": "spotify:artist:4sIuoDOzSlBqeiNJl631zX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 the 502s distributed by Mick Music",
+      "type": "C"
+    },
+    {
+      "text": "2022 the 502s distributed by Mick Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1963620768158"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/161llzgJp98MoWom3IJOJp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/161llzgJp98MoWom3IJOJp",
+  "id": "161llzgJp98MoWom3IJOJp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aec68aae94b538f535bfbc1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028aec68aae94b538f535bfbc1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518aec68aae94b538f535bfbc1",
+      "width": 64
+    }
+  ],
+  "label": "The 502s",
+  "name": "Hey Julia",
+  "popularity": 49,
+  "release_date": "2022-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/161llzgJp98MoWom3IJOJp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sIuoDOzSlBqeiNJl631zX",
+            "id": "4sIuoDOzSlBqeiNJl631zX",
+            "name": "The 502s",
+            "type": "artist",
+            "uri": "spotify:artist:4sIuoDOzSlBqeiNJl631zX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 119590,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ITcbrMbYwD3kuIG304nxO",
+        "id": "4ITcbrMbYwD3kuIG304nxO",
+        "is_local": false,
+        "name": "Hey Julia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ITcbrMbYwD3kuIG304nxO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:161llzgJp98MoWom3IJOJp"
+}

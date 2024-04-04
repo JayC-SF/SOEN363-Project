@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HUGPIHRwh79LbffYIUJeJ",
+      "id": "5HUGPIHRwh79LbffYIUJeJ",
+      "name": "The Mamas",
+      "type": "artist",
+      "uri": "spotify:artist:5HUGPIHRwh79LbffYIUJeJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Universal Music AB & FEM. Sthlm",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Universal Music AB & FEM. Sthlm",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602435734330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5X6lJlSXJ2sPBTv2jEjlnW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5X6lJlSXJ2sPBTv2jEjlnW",
+  "id": "5X6lJlSXJ2sPBTv2jEjlnW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386329847727301ae619bca75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286329847727301ae619bca75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186329847727301ae619bca75",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AB",
+  "name": "In The Middle",
+  "popularity": 0,
+  "release_date": "2021-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5X6lJlSXJ2sPBTv2jEjlnW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HUGPIHRwh79LbffYIUJeJ",
+            "id": "5HUGPIHRwh79LbffYIUJeJ",
+            "name": "The Mamas",
+            "type": "artist",
+            "uri": "spotify:artist:5HUGPIHRwh79LbffYIUJeJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183195,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nBi3tQiXWt70G6UlXB86E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nBi3tQiXWt70G6UlXB86E",
+        "id": "5nBi3tQiXWt70G6UlXB86E",
+        "is_local": false,
+        "name": "In The Middle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5nBi3tQiXWt70G6UlXB86E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5X6lJlSXJ2sPBTv2jEjlnW"
+}

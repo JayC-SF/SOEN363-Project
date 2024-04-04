@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+      },
+      "href": "https://api.spotify.com/v1/artists/19TPpTWkgX13Qc2stbqVoP",
+      "id": "19TPpTWkgX13Qc2stbqVoP",
+      "name": "Terrian",
+      "type": "artist",
+      "uri": "spotify:artist:19TPpTWkgX13Qc2stbqVoP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Gotee Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Gotee Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "669447020189"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3neRBcOUW8ZMem3hBAU1u1",
+  "id": "3neRBcOUW8ZMem3hBAU1u1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ead55f59ff2459832b8871f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028ead55f59ff2459832b8871f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518ead55f59ff2459832b8871f",
+      "width": 64
+    }
+  ],
+  "label": "Gotee Records",
+  "name": "Big God",
+  "popularity": 34,
+  "release_date": "2023-03-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3neRBcOUW8ZMem3hBAU1u1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+            },
+            "href": "https://api.spotify.com/v1/artists/19TPpTWkgX13Qc2stbqVoP",
+            "id": "19TPpTWkgX13Qc2stbqVoP",
+            "name": "Terrian",
+            "type": "artist",
+            "uri": "spotify:artist:19TPpTWkgX13Qc2stbqVoP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191710,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vrD1zG1gJeGTkscxOMnO3",
+        "id": "3vrD1zG1gJeGTkscxOMnO3",
+        "is_local": false,
+        "name": "Big God",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3vrD1zG1gJeGTkscxOMnO3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3neRBcOUW8ZMem3hBAU1u1"
+}

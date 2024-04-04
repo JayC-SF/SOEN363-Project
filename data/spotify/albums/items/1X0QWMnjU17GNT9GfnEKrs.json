@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c"
+      },
+      "href": "https://api.spotify.com/v1/artists/3q9nybxzbSHsesDBHUlP4c",
+      "id": "3q9nybxzbSHsesDBHUlP4c",
+      "name": "Coleman Hell",
+      "type": "artist",
+      "uri": "spotify:artist:3q9nybxzbSHsesDBHUlP4c"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "2016 sideways music LTD",
+      "type": "C"
+    },
+    {
+      "text": "2016 sideways / 604 Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "825396098628"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1X0QWMnjU17GNT9GfnEKrs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1X0QWMnjU17GNT9GfnEKrs",
+  "id": "1X0QWMnjU17GNT9GfnEKrs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733a500f62ec27f39304146214",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a500f62ec27f39304146214",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a500f62ec27f39304146214",
+      "width": 64
+    }
+  ],
+  "label": "sideways / 604 Records Inc.",
+  "name": "Fireproof",
+  "popularity": 32,
+  "release_date": "2016-04-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1X0QWMnjU17GNT9GfnEKrs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c"
+            },
+            "href": "https://api.spotify.com/v1/artists/3q9nybxzbSHsesDBHUlP4c",
+            "id": "3q9nybxzbSHsesDBHUlP4c",
+            "name": "Coleman Hell",
+            "type": "artist",
+            "uri": "spotify:artist:3q9nybxzbSHsesDBHUlP4c"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 170900,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Iu44ltNt6oj3SLqMfhaPN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Iu44ltNt6oj3SLqMfhaPN",
+        "id": "5Iu44ltNt6oj3SLqMfhaPN",
+        "is_local": false,
+        "name": "Fireproof",
+        "preview_url": "https://p.scdn.co/mp3-preview/1e726dc41af1d23940f5e4bd9f3adef1e8596b63?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Iu44ltNt6oj3SLqMfhaPN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1X0QWMnjU17GNT9GfnEKrs"
+}

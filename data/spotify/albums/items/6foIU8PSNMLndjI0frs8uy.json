@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq",
+      "id": "5iNrZmtVMtYev5M9yoWpEq",
+      "name": "Seeb",
+      "type": "artist",
+      "uri": "spotify:artist:5iNrZmtVMtYev5M9yoWpEq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Sky Music, under exclusive license to Universal Music AS, Norway",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Sky Music, under exclusive license to Universal Music AS, Norway",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557081701"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6foIU8PSNMLndjI0frs8uy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6foIU8PSNMLndjI0frs8uy",
+  "id": "6foIU8PSNMLndjI0frs8uy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7aaa2c40bb689f6272361c5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7aaa2c40bb689f6272361c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7aaa2c40bb689f6272361c5",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "What Do You Love",
+  "popularity": 0,
+  "release_date": "2016-10-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6foIU8PSNMLndjI0frs8uy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq",
+            "id": "5iNrZmtVMtYev5M9yoWpEq",
+            "name": "Seeb",
+            "type": "artist",
+            "uri": "spotify:artist:5iNrZmtVMtYev5M9yoWpEq"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0AepkoQhYvkjEzzwIcGxdV",
+            "id": "0AepkoQhYvkjEzzwIcGxdV",
+            "name": "Jacob Banks",
+            "type": "artist",
+            "uri": "spotify:artist:0AepkoQhYvkjEzzwIcGxdV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211875,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0h4FK0CnlZ3oJnZ6quEk1P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0h4FK0CnlZ3oJnZ6quEk1P",
+        "id": "0h4FK0CnlZ3oJnZ6quEk1P",
+        "is_local": false,
+        "name": "What Do You Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0h4FK0CnlZ3oJnZ6quEk1P"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6foIU8PSNMLndjI0frs8uy"
+}

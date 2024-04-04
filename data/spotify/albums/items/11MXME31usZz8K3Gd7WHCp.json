@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+      "id": "7mnBLXK823vNxN3UWB7Gfz",
+      "name": "The Black Keys",
+      "type": "artist",
+      "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 Nonesuch Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 Nonesuch Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075597978834"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11MXME31usZz8K3Gd7WHCp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11MXME31usZz8K3Gd7WHCp",
+  "id": "11MXME31usZz8K3Gd7WHCp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c40f1baee7afa2d0d7ce88e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c40f1baee7afa2d0d7ce88e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c40f1baee7afa2d0d7ce88e7",
+      "width": 64
+    }
+  ],
+  "label": "Nonesuch/Warner Records",
+  "name": "Tighten Up",
+  "popularity": 10,
+  "release_date": "2010-04-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11MXME31usZz8K3Gd7WHCp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+            },
+            "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+            "id": "7mnBLXK823vNxN3UWB7Gfz",
+            "name": "The Black Keys",
+            "type": "artist",
+            "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 211080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TffLAylCcpWANRIuUCwDg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TffLAylCcpWANRIuUCwDg",
+        "id": "2TffLAylCcpWANRIuUCwDg",
+        "is_local": false,
+        "name": "Tighten Up",
+        "preview_url": "https://p.scdn.co/mp3-preview/dd1645df2f28d473b8a50735acfd95f28e71bdfb?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2TffLAylCcpWANRIuUCwDg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11MXME31usZz8K3Gd7WHCp"
+}

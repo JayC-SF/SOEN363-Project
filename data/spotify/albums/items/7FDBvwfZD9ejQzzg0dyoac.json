@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+      },
+      "href": "https://api.spotify.com/v1/artists/15NtJjjHRFybdNSMyM9smT",
+      "id": "15NtJjjHRFybdNSMyM9smT",
+      "name": "Nevada",
+      "type": "artist",
+      "uri": "spotify:artist:15NtJjjHRFybdNSMyM9smT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Straightforward Music Ltd / Nourishing Music Ltd, under exclusive licence to Capitol Records (a division of Universal Music Operations Limited)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Straightforward Music Ltd / Nourishing Music Ltd, under exclusive licence to Capitol Records (a division of Universal Music Operations Limited)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557206456"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7FDBvwfZD9ejQzzg0dyoac"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7FDBvwfZD9ejQzzg0dyoac",
+  "id": "7FDBvwfZD9ejQzzg0dyoac",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273746ac799032f9af9c5268332",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02746ac799032f9af9c5268332",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851746ac799032f9af9c5268332",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "The Mack",
+  "popularity": 0,
+  "release_date": "2016-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7FDBvwfZD9ejQzzg0dyoac/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+            },
+            "href": "https://api.spotify.com/v1/artists/15NtJjjHRFybdNSMyM9smT",
+            "id": "15NtJjjHRFybdNSMyM9smT",
+            "name": "Nevada",
+            "type": "artist",
+            "uri": "spotify:artist:15NtJjjHRFybdNSMyM9smT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+            },
+            "href": "https://api.spotify.com/v1/artists/6V3F8MZrOKdT9fU686ybE9",
+            "id": "6V3F8MZrOKdT9fU686ybE9",
+            "name": "Mark Morrison",
+            "type": "artist",
+            "uri": "spotify:artist:6V3F8MZrOKdT9fU686ybE9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL",
+            "id": "6PXS4YHDkKvl1wkIl4V8DL",
+            "name": "Fetty Wap",
+            "type": "artist",
+            "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167038,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7aV2mflaASUmGhCErm7kBO",
+        "id": "7aV2mflaASUmGhCErm7kBO",
+        "is_local": false,
+        "name": "The Mack",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7aV2mflaASUmGhCErm7kBO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7FDBvwfZD9ejQzzg0dyoac"
+}

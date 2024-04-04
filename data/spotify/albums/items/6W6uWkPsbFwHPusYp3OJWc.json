@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu"
+      },
+      "href": "https://api.spotify.com/v1/artists/1sxzn6d0We1Q0RKxPE2BCu",
+      "id": "1sxzn6d0We1Q0RKxPE2BCu",
+      "name": "J Neat",
+      "type": "artist",
+      "uri": "spotify:artist:1sxzn6d0We1Q0RKxPE2BCu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Blue Feathers Records Inc",
+      "type": "C"
+    },
+    {
+      "text": "2020 Blue Feathers Records Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859741591328"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6W6uWkPsbFwHPusYp3OJWc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6W6uWkPsbFwHPusYp3OJWc",
+  "id": "6W6uWkPsbFwHPusYp3OJWc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397a83cb71305cfdb826a5a39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297a83cb71305cfdb826a5a39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197a83cb71305cfdb826a5a39",
+      "width": 64
+    }
+  ],
+  "label": "Blue Feathers Records Inc",
+  "name": "Drift & Slide",
+  "popularity": 0,
+  "release_date": "2020-08-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6W6uWkPsbFwHPusYp3OJWc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1sxzn6d0We1Q0RKxPE2BCu",
+            "id": "1sxzn6d0We1Q0RKxPE2BCu",
+            "name": "J Neat",
+            "type": "artist",
+            "uri": "spotify:artist:1sxzn6d0We1Q0RKxPE2BCu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241763,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JXxjIIZGk2JkfsZPyl1af"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JXxjIIZGk2JkfsZPyl1af",
+        "id": "6JXxjIIZGk2JkfsZPyl1af",
+        "is_local": false,
+        "name": "Drift & Slide",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JXxjIIZGk2JkfsZPyl1af"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6W6uWkPsbFwHPusYp3OJWc"
+}

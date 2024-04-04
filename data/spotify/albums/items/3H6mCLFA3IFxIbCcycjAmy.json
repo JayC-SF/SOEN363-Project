@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6cIU84TLDcCIFzj4h24wpr",
+      "id": "6cIU84TLDcCIFzj4h24wpr",
+      "name": "Benny Martin",
+      "type": "artist",
+      "uri": "spotify:artist:6cIU84TLDcCIFzj4h24wpr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+      },
+      "href": "https://api.spotify.com/v1/artists/1q1P9ifOMhgIYCsj9KXxdX",
+      "id": "1q1P9ifOMhgIYCsj9KXxdX",
+      "name": "The Wong Janice",
+      "type": "artist",
+      "uri": "spotify:artist:1q1P9ifOMhgIYCsj9KXxdX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Benny Martin & The Wong Janice",
+      "type": "C"
+    },
+    {
+      "text": "2020 Benny Martin & The Wong Janice",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195069852339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3H6mCLFA3IFxIbCcycjAmy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3H6mCLFA3IFxIbCcycjAmy",
+  "id": "3H6mCLFA3IFxIbCcycjAmy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739598c69b536f1c474f8c5d5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029598c69b536f1c474f8c5d5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519598c69b536f1c474f8c5d5e",
+      "width": 64
+    }
+  ],
+  "label": "Benny Martin & The Wong Janice",
+  "name": "Someone You Loved (Piano & Cello)",
+  "popularity": 0,
+  "release_date": "2020-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3H6mCLFA3IFxIbCcycjAmy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cIU84TLDcCIFzj4h24wpr",
+            "id": "6cIU84TLDcCIFzj4h24wpr",
+            "name": "Benny Martin",
+            "type": "artist",
+            "uri": "spotify:artist:6cIU84TLDcCIFzj4h24wpr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1q1P9ifOMhgIYCsj9KXxdX",
+            "id": "1q1P9ifOMhgIYCsj9KXxdX",
+            "name": "The Wong Janice",
+            "type": "artist",
+            "uri": "spotify:artist:1q1P9ifOMhgIYCsj9KXxdX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Dh6QO21XRZ99tv3I0DA6O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Dh6QO21XRZ99tv3I0DA6O",
+        "id": "1Dh6QO21XRZ99tv3I0DA6O",
+        "is_local": false,
+        "name": "Someone You Loved (Piano & Cello)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Dh6QO21XRZ99tv3I0DA6O"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3H6mCLFA3IFxIbCcycjAmy"
+}

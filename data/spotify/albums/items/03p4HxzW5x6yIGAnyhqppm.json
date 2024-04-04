@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+      },
+      "href": "https://api.spotify.com/v1/artists/7prKK2GchmQEkgUsAFXEz0",
+      "id": "7prKK2GchmQEkgUsAFXEz0",
+      "name": "Dada",
+      "type": "artist",
+      "uri": "spotify:artist:7prKK2GchmQEkgUsAFXEz0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3334",
+      "type": "C"
+    },
+    {
+      "text": "2021 3334",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196167842710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/03p4HxzW5x6yIGAnyhqppm",
+  "id": "03p4HxzW5x6yIGAnyhqppm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273323bee9abde2d9a52433f34c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02323bee9abde2d9a52433f34c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851323bee9abde2d9a52433f34c",
+      "width": 64
+    }
+  ],
+  "label": "3334",
+  "name": "MORAL",
+  "popularity": 0,
+  "release_date": "2021-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/03p4HxzW5x6yIGAnyhqppm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+            },
+            "href": "https://api.spotify.com/v1/artists/7prKK2GchmQEkgUsAFXEz0",
+            "id": "7prKK2GchmQEkgUsAFXEz0",
+            "name": "Dada",
+            "type": "artist",
+            "uri": "spotify:artist:7prKK2GchmQEkgUsAFXEz0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202317,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7xrIIxFmBpIozEoEHBs3YY",
+        "id": "7xrIIxFmBpIozEoEHBs3YY",
+        "is_local": false,
+        "name": "MORAL",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7xrIIxFmBpIozEoEHBs3YY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:03p4HxzW5x6yIGAnyhqppm"
+}

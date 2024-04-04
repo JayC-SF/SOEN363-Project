@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Y0N42tFvxW32Cq6awboBE"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Y0N42tFvxW32Cq6awboBE",
+      "id": "2Y0N42tFvxW32Cq6awboBE",
+      "name": "Pauli Hausmann",
+      "type": "artist",
+      "uri": "spotify:artist:2Y0N42tFvxW32Cq6awboBE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Everrealm Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Everrealm Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197509787683"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qp2kUk7QTTqOIt8IJ7npu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qp2kUk7QTTqOIt8IJ7npu",
+  "id": "7qp2kUk7QTTqOIt8IJ7npu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733b62ce1af88de5cf302dfa89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023b62ce1af88de5cf302dfa89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513b62ce1af88de5cf302dfa89",
+      "width": 64
+    }
+  ],
+  "label": "Everrealm Records",
+  "name": "Astral Diffusion",
+  "popularity": 0,
+  "release_date": "2022-12-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qp2kUk7QTTqOIt8IJ7npu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Y0N42tFvxW32Cq6awboBE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Y0N42tFvxW32Cq6awboBE",
+            "id": "2Y0N42tFvxW32Cq6awboBE",
+            "name": "Pauli Hausmann",
+            "type": "artist",
+            "uri": "spotify:artist:2Y0N42tFvxW32Cq6awboBE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 301044,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fMR1FvOYzlorQJtEnuVTW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fMR1FvOYzlorQJtEnuVTW",
+        "id": "6fMR1FvOYzlorQJtEnuVTW",
+        "is_local": false,
+        "name": "Astral Diffusion",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6fMR1FvOYzlorQJtEnuVTW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qp2kUk7QTTqOIt8IJ7npu"
+}

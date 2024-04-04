@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+      },
+      "href": "https://api.spotify.com/v1/artists/11LbPHLi2sCqOVjknt0jmW",
+      "id": "11LbPHLi2sCqOVjknt0jmW",
+      "name": "John Lundvik",
+      "type": "artist",
+      "uri": "spotify:artist:11LbPHLi2sCqOVjknt0jmW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Warner Music Sweden AB",
+      "type": "C"
+    },
+    {
+      "text": "2018 Warner Music Sweden AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295673819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2jUw8sQX4ZVMgoTVS3qjpf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2jUw8sQX4ZVMgoTVS3qjpf",
+  "id": "2jUw8sQX4ZVMgoTVS3qjpf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ebb77722947ba885d2b4215",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ebb77722947ba885d2b4215",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ebb77722947ba885d2b4215",
+      "width": 64
+    }
+  ],
+  "label": "WM Sweden",
+  "name": "My Turn",
+  "popularity": 0,
+  "release_date": "2018-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2jUw8sQX4ZVMgoTVS3qjpf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+            },
+            "href": "https://api.spotify.com/v1/artists/11LbPHLi2sCqOVjknt0jmW",
+            "id": "11LbPHLi2sCqOVjknt0jmW",
+            "name": "John Lundvik",
+            "type": "artist",
+            "uri": "spotify:artist:11LbPHLi2sCqOVjknt0jmW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5faSzPLmJYUOnk17yFRlIe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5faSzPLmJYUOnk17yFRlIe",
+        "id": "5faSzPLmJYUOnk17yFRlIe",
+        "is_local": false,
+        "name": "My Turn",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5faSzPLmJYUOnk17yFRlIe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2jUw8sQX4ZVMgoTVS3qjpf"
+}

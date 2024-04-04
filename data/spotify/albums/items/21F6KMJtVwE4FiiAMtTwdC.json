@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yhqhO1uyF38Fdievif9Pq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5yhqhO1uyF38Fdievif9Pq",
+      "id": "5yhqhO1uyF38Fdievif9Pq",
+      "name": "Bombo Rosa",
+      "type": "artist",
+      "uri": "spotify:artist:5yhqhO1uyF38Fdievif9Pq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Punks Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Punks Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614979861592"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21F6KMJtVwE4FiiAMtTwdC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21F6KMJtVwE4FiiAMtTwdC",
+  "id": "21F6KMJtVwE4FiiAMtTwdC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4171adbf1c8e54edb46695b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4171adbf1c8e54edb46695b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4171adbf1c8e54edb46695b",
+      "width": 64
+    }
+  ],
+  "label": "Punks",
+  "name": "Doors",
+  "popularity": 0,
+  "release_date": "2018-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21F6KMJtVwE4FiiAMtTwdC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yhqhO1uyF38Fdievif9Pq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yhqhO1uyF38Fdievif9Pq",
+            "id": "5yhqhO1uyF38Fdievif9Pq",
+            "name": "Bombo Rosa",
+            "type": "artist",
+            "uri": "spotify:artist:5yhqhO1uyF38Fdievif9Pq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243870,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jHiox98o3GnvUGjx6Zh2D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jHiox98o3GnvUGjx6Zh2D",
+        "id": "6jHiox98o3GnvUGjx6Zh2D",
+        "is_local": false,
+        "name": "Doors",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6jHiox98o3GnvUGjx6Zh2D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21F6KMJtVwE4FiiAMtTwdC"
+}

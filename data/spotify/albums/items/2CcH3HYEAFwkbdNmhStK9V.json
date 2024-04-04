@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+      },
+      "href": "https://api.spotify.com/v1/artists/2GVtgxcx7jg5xVCZsIHSGN",
+      "id": "2GVtgxcx7jg5xVCZsIHSGN",
+      "name": "Dombresky",
+      "type": "artist",
+      "uri": "spotify:artist:2GVtgxcx7jg5xVCZsIHSGN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Process Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436082600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2CcH3HYEAFwkbdNmhStK9V"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2CcH3HYEAFwkbdNmhStK9V",
+  "id": "2CcH3HYEAFwkbdNmhStK9V",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345512636af715898fea93a4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245512636af715898fea93a4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145512636af715898fea93a4d",
+      "width": 64
+    }
+  ],
+  "label": "Process Records",
+  "name": "Soul Sacrifice",
+  "popularity": 0,
+  "release_date": "2019-01-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2CcH3HYEAFwkbdNmhStK9V/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2GVtgxcx7jg5xVCZsIHSGN",
+            "id": "2GVtgxcx7jg5xVCZsIHSGN",
+            "name": "Dombresky",
+            "type": "artist",
+            "uri": "spotify:artist:2GVtgxcx7jg5xVCZsIHSGN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232211,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01fVbxyW9y2oKdXvg56uE5",
+        "id": "01fVbxyW9y2oKdXvg56uE5",
+        "is_local": false,
+        "name": "Soul Sacrifice",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:01fVbxyW9y2oKdXvg56uE5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2CcH3HYEAFwkbdNmhStK9V"
+}

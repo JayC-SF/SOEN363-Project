@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JQZs5ucypy2rF50IbEz8I"
+      },
+      "href": "https://api.spotify.com/v1/artists/4JQZs5ucypy2rF50IbEz8I",
+      "id": "4JQZs5ucypy2rF50IbEz8I",
+      "name": "Charlie D\u00e9e",
+      "type": "artist",
+      "uri": "spotify:artist:4JQZs5ucypy2rF50IbEz8I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 1031252 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2018 1031252 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193537006499"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/619jcpvr0u6OC4jIUi0etf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/619jcpvr0u6OC4jIUi0etf",
+  "id": "619jcpvr0u6OC4jIUi0etf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ccaebd6201bff95ad1dcce9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ccaebd6201bff95ad1dcce9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ccaebd6201bff95ad1dcce9",
+      "width": 64
+    }
+  ],
+  "label": "1031252 Records DK",
+  "name": "Yesterday Morning",
+  "popularity": 0,
+  "release_date": "2018-11-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/619jcpvr0u6OC4jIUi0etf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JQZs5ucypy2rF50IbEz8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JQZs5ucypy2rF50IbEz8I",
+            "id": "4JQZs5ucypy2rF50IbEz8I",
+            "name": "Charlie D\u00e9e",
+            "type": "artist",
+            "uri": "spotify:artist:4JQZs5ucypy2rF50IbEz8I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HwW1EWzVigXaloJl8J2WY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HwW1EWzVigXaloJl8J2WY",
+        "id": "1HwW1EWzVigXaloJl8J2WY",
+        "is_local": false,
+        "name": "Yesterday Morning",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1HwW1EWzVigXaloJl8J2WY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:619jcpvr0u6OC4jIUi0etf"
+}

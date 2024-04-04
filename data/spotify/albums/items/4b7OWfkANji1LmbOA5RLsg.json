@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+      },
+      "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+      "id": "3grHWM9bx2E9vwJCdlRv9O",
+      "name": "Kenny Chesney",
+      "type": "artist",
+      "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2014 Blue Chair Records, LLC, under exclusive license to Sony Music Nashville, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444653053"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4b7OWfkANji1LmbOA5RLsg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4b7OWfkANji1LmbOA5RLsg",
+  "id": "4b7OWfkANji1LmbOA5RLsg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311da6c91ff151d08390f030b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211da6c91ff151d08390f030b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111da6c91ff151d08390f030b",
+      "width": 64
+    }
+  ],
+  "label": "Blue Chair Records, LLC / Columbia Nashville",
+  "name": "American Kids",
+  "popularity": 0,
+  "release_date": "2014-06-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4b7OWfkANji1LmbOA5RLsg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+            },
+            "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+            "id": "3grHWM9bx2E9vwJCdlRv9O",
+            "name": "Kenny Chesney",
+            "type": "artist",
+            "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61tRRrJoargpHwT0uAEpuY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61tRRrJoargpHwT0uAEpuY",
+        "id": "61tRRrJoargpHwT0uAEpuY",
+        "is_local": false,
+        "name": "American Kids",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61tRRrJoargpHwT0uAEpuY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4b7OWfkANji1LmbOA5RLsg"
+}

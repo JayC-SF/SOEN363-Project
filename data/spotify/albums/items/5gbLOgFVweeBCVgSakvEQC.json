@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kdAJQBwp4nytzwlIU6mC4"
+      },
+      "href": "https://api.spotify.com/v1/artists/1kdAJQBwp4nytzwlIU6mC4",
+      "id": "1kdAJQBwp4nytzwlIU6mC4",
+      "name": "Yukitora",
+      "type": "artist",
+      "uri": "spotify:artist:1kdAJQBwp4nytzwlIU6mC4"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Yukitora",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Yukitora",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859756319597"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gbLOgFVweeBCVgSakvEQC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5gbLOgFVweeBCVgSakvEQC",
+  "id": "5gbLOgFVweeBCVgSakvEQC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea021213a8074a94a7076155",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea021213a8074a94a7076155",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea021213a8074a94a7076155",
+      "width": 64
+    }
+  ],
+  "label": "Yukitora",
+  "name": "KING KONG",
+  "popularity": 3,
+  "release_date": "2020-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5gbLOgFVweeBCVgSakvEQC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kdAJQBwp4nytzwlIU6mC4"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kdAJQBwp4nytzwlIU6mC4",
+            "id": "1kdAJQBwp4nytzwlIU6mC4",
+            "name": "Yukitora",
+            "type": "artist",
+            "uri": "spotify:artist:1kdAJQBwp4nytzwlIU6mC4"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 176510,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FopquKjh8rp6e46Lg0uJj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FopquKjh8rp6e46Lg0uJj",
+        "id": "4FopquKjh8rp6e46Lg0uJj",
+        "is_local": false,
+        "name": "KING KONG",
+        "preview_url": "https://p.scdn.co/mp3-preview/72390dbc20487bdd65944c33c2de101eab124d30?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4FopquKjh8rp6e46Lg0uJj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5gbLOgFVweeBCVgSakvEQC"
+}

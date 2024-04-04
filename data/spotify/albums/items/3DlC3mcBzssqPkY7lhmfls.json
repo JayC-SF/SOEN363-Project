@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3vAaWhdBR38Q02ohXqaNHT",
+      "id": "3vAaWhdBR38Q02ohXqaNHT",
+      "name": "The All-American Rejects",
+      "type": "artist",
+      "uri": "spotify:artist:3vAaWhdBR38Q02ohXqaNHT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557111293"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3DlC3mcBzssqPkY7lhmfls",
+  "id": "3DlC3mcBzssqPkY7lhmfls",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273476a5dcb7071c9e0f590da72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02476a5dcb7071c9e0f590da72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851476a5dcb7071c9e0f590da72",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Sweat",
+  "popularity": 0,
+  "release_date": "2017-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3DlC3mcBzssqPkY7lhmfls/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vAaWhdBR38Q02ohXqaNHT",
+            "id": "3vAaWhdBR38Q02ohXqaNHT",
+            "name": "The All-American Rejects",
+            "type": "artist",
+            "uri": "spotify:artist:3vAaWhdBR38Q02ohXqaNHT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183956,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sZUfl4muDcuWux6KlwaR8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sZUfl4muDcuWux6KlwaR8",
+        "id": "1sZUfl4muDcuWux6KlwaR8",
+        "is_local": false,
+        "name": "Sweat",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1sZUfl4muDcuWux6KlwaR8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vAaWhdBR38Q02ohXqaNHT",
+            "id": "3vAaWhdBR38Q02ohXqaNHT",
+            "name": "The All-American Rejects",
+            "type": "artist",
+            "uri": "spotify:artist:3vAaWhdBR38Q02ohXqaNHT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267935,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nknq3uzBIsYNjEdRiOzMo",
+        "id": "6nknq3uzBIsYNjEdRiOzMo",
+        "is_local": false,
+        "name": "Close Your Eyes",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6nknq3uzBIsYNjEdRiOzMo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3DlC3mcBzssqPkY7lhmfls"
+}

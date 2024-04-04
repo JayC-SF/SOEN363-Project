@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+      },
+      "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+      "id": "1bAftSH8umNcGZ0uyV7LMg",
+      "name": "Duki",
+      "type": "artist",
+      "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Duki",
+      "type": "C"
+    },
+    {
+      "text": "2018 Duki",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "657664582009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1F7NrR7X4rxJflXq1mCLOC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1F7NrR7X4rxJflXq1mCLOC",
+  "id": "1F7NrR7X4rxJflXq1mCLOC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394b8fd535bdd377830fa952e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294b8fd535bdd377830fa952e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194b8fd535bdd377830fa952e",
+      "width": 64
+    }
+  ],
+  "label": "Lauria",
+  "name": "Rockstar",
+  "popularity": 0,
+  "release_date": "2018-03-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1F7NrR7X4rxJflXq1mCLOC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+            "id": "1bAftSH8umNcGZ0uyV7LMg",
+            "name": "Duki",
+            "type": "artist",
+            "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 112273,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DQGkXXLiOhf5cKqIyWh5L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5DQGkXXLiOhf5cKqIyWh5L",
+        "id": "5DQGkXXLiOhf5cKqIyWh5L",
+        "is_local": false,
+        "name": "Rockstar",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5DQGkXXLiOhf5cKqIyWh5L"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1F7NrR7X4rxJflXq1mCLOC"
+}

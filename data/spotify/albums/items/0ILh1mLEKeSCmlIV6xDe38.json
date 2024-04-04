@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+      },
+      "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+      "id": "72IlzE8lIeI5W1C4RTZAGv",
+      "name": "Riccardo",
+      "type": "artist",
+      "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Riccardo",
+      "type": "C"
+    },
+    {
+      "text": "2019 Riccardo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062851953849"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ILh1mLEKeSCmlIV6xDe38"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ILh1mLEKeSCmlIV6xDe38",
+  "id": "0ILh1mLEKeSCmlIV6xDe38",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398a20da73ab4bc4207b0a008",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298a20da73ab4bc4207b0a008",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198a20da73ab4bc4207b0a008",
+      "width": 64
+    }
+  ],
+  "label": "igroovemusic.com",
+  "name": "Marley",
+  "popularity": 0,
+  "release_date": "2019-08-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ILh1mLEKeSCmlIV6xDe38/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv"
+            },
+            "href": "https://api.spotify.com/v1/artists/72IlzE8lIeI5W1C4RTZAGv",
+            "id": "72IlzE8lIeI5W1C4RTZAGv",
+            "name": "Riccardo",
+            "type": "artist",
+            "uri": "spotify:artist:72IlzE8lIeI5W1C4RTZAGv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194136,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gZAN9h8Ptj1JhEa4ZWLOD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1gZAN9h8Ptj1JhEa4ZWLOD",
+        "id": "1gZAN9h8Ptj1JhEa4ZWLOD",
+        "is_local": false,
+        "name": "Marley",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1gZAN9h8Ptj1JhEa4ZWLOD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ILh1mLEKeSCmlIV6xDe38"
+}

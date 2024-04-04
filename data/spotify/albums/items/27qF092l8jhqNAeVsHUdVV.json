@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+      "id": "4DdarB5cR90h2EOgrRNM8P",
+      "name": "Aykut Closer",
+      "type": "artist",
+      "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197047015446"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/27qF092l8jhqNAeVsHUdVV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/27qF092l8jhqNAeVsHUdVV",
+  "id": "27qF092l8jhqNAeVsHUdVV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae60a98a51df2a3a1937acee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae60a98a51df2a3a1937acee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae60a98a51df2a3a1937acee",
+      "width": 64
+    }
+  ],
+  "label": "3473262 Records DK",
+  "name": "My Neck My Back",
+  "popularity": 0,
+  "release_date": "2022-07-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/27qF092l8jhqNAeVsHUdVV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+            "id": "4DdarB5cR90h2EOgrRNM8P",
+            "name": "Aykut Closer",
+            "type": "artist",
+            "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211722,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qc95AnTWiDcHlBev5J3OU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qc95AnTWiDcHlBev5J3OU",
+        "id": "2qc95AnTWiDcHlBev5J3OU",
+        "is_local": false,
+        "name": "My Neck My Back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qc95AnTWiDcHlBev5J3OU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:27qF092l8jhqNAeVsHUdVV"
+}

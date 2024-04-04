@@ -1,0 +1,728 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Big Machine Records, LLC.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Big Machine Records, LLC.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537204755"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5FerdPFXSHSnCVq4OBy4Ey"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5FerdPFXSHSnCVq4OBy4Ey",
+  "id": "5FerdPFXSHSnCVq4OBy4Ey",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d2f918a1b23f98ceb7510fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d2f918a1b23f98ceb7510fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d2f918a1b23f98ceb7510fa",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Red",
+  "popularity": 0,
+  "release_date": "2012-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 22,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5FerdPFXSHSnCVq4OBy4Ey/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 295720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4skZ8JQK5ZT2F5ym6Y05wI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4skZ8JQK5ZT2F5ym6Y05wI",
+        "id": "4skZ8JQK5ZT2F5ym6Y05wI",
+        "is_local": false,
+        "name": "State Of Grace",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4skZ8JQK5ZT2F5ym6Y05wI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12pbmOrWJNjU0TAFZEw2G7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12pbmOrWJNjU0TAFZEw2G7",
+        "id": "12pbmOrWJNjU0TAFZEw2G7",
+        "is_local": false,
+        "name": "Red",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:12pbmOrWJNjU0TAFZEw2G7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VSWBJy08GzBZkddlxpXrq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VSWBJy08GzBZkddlxpXrq",
+        "id": "5VSWBJy08GzBZkddlxpXrq",
+        "is_local": false,
+        "name": "Treacherous",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5VSWBJy08GzBZkddlxpXrq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RjKVXi31fui9m4dbiGRrL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RjKVXi31fui9m4dbiGRrL",
+        "id": "6RjKVXi31fui9m4dbiGRrL",
+        "is_local": false,
+        "name": "I Knew You Were Trouble",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6RjKVXi31fui9m4dbiGRrL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 329160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nWn40QE17X0qKfGkLP4Fc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nWn40QE17X0qKfGkLP4Fc",
+        "id": "0nWn40QE17X0qKfGkLP4Fc",
+        "is_local": false,
+        "name": "All Too Well",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0nWn40QE17X0qKfGkLP4Fc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ybJm6GczjQOgTqmJ0BomP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ybJm6GczjQOgTqmJ0BomP",
+        "id": "5ybJm6GczjQOgTqmJ0BomP",
+        "is_local": false,
+        "name": "22",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5ybJm6GczjQOgTqmJ0BomP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zFLQSVz08MGPWhagm7vMr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4zFLQSVz08MGPWhagm7vMr",
+        "id": "4zFLQSVz08MGPWhagm7vMr",
+        "is_local": false,
+        "name": "I Almost Do",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4zFLQSVz08MGPWhagm7vMr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193146,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1F6oGPF75u9RuHH4BGx9Bf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1F6oGPF75u9RuHH4BGx9Bf",
+        "id": "1F6oGPF75u9RuHH4BGx9Bf",
+        "is_local": false,
+        "name": "We Are Never Ever Getting Back Together",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1F6oGPF75u9RuHH4BGx9Bf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VIE8koSJVH2MtwJbOcfWV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VIE8koSJVH2MtwJbOcfWV",
+        "id": "6VIE8koSJVH2MtwJbOcfWV",
+        "is_local": false,
+        "name": "Stay Stay Stay",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6VIE8koSJVH2MtwJbOcfWV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fCQnw6VSudXBTN5d2QP2z",
+            "id": "3fCQnw6VSudXBTN5d2QP2z",
+            "name": "Gary Lightbody",
+            "type": "artist",
+            "uri": "spotify:artist:3fCQnw6VSudXBTN5d2QP2z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 299013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qZ8QdfmZluZMtBhq6PXOj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qZ8QdfmZluZMtBhq6PXOj",
+        "id": "4qZ8QdfmZluZMtBhq6PXOj",
+        "is_local": false,
+        "name": "The Last Time",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4qZ8QdfmZluZMtBhq6PXOj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jLvoOf3s8YQWRRlFoc7DO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jLvoOf3s8YQWRRlFoc7DO",
+        "id": "3jLvoOf3s8YQWRRlFoc7DO",
+        "is_local": false,
+        "name": "Holy Ground",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3jLvoOf3s8YQWRRlFoc7DO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 284866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vw7C7yF2KWbfwP7KupXs6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5vw7C7yF2KWbfwP7KupXs6",
+        "id": "5vw7C7yF2KWbfwP7KupXs6",
+        "is_local": false,
+        "name": "Sad Beautiful Tragic",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5vw7C7yF2KWbfwP7KupXs6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3A3L0qpT4zgCsvOXYIut3V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3A3L0qpT4zgCsvOXYIut3V",
+        "id": "3A3L0qpT4zgCsvOXYIut3V",
+        "is_local": false,
+        "name": "The Lucky One",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3A3L0qpT4zgCsvOXYIut3V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "name": "Ed Sheeran",
+            "type": "artist",
+            "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2si9smgJqjB3aCRpzz6rYE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2si9smgJqjB3aCRpzz6rYE",
+        "id": "2si9smgJqjB3aCRpzz6rYE",
+        "is_local": false,
+        "name": "Everything Has Changed",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2si9smgJqjB3aCRpzz6rYE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rB99NVQH2qGJrDZV2E5mb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rB99NVQH2qGJrDZV2E5mb",
+        "id": "1rB99NVQH2qGJrDZV2E5mb",
+        "is_local": false,
+        "name": "Starlight",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:1rB99NVQH2qGJrDZV2E5mb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ah8VKcsljm37Ec5kmxH3J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ah8VKcsljm37Ec5kmxH3J",
+        "id": "1ah8VKcsljm37Ec5kmxH3J",
+        "is_local": false,
+        "name": "Begin Again",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:1ah8VKcsljm37Ec5kmxH3J"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 286613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53kG40e97BbXpGAkNP52Rx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53kG40e97BbXpGAkNP52Rx",
+        "id": "53kG40e97BbXpGAkNP52Rx",
+        "is_local": false,
+        "name": "The Moment I Knew",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:53kG40e97BbXpGAkNP52Rx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gTnuOEcW40rsdVVdJTg8e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gTnuOEcW40rsdVVdJTg8e",
+        "id": "4gTnuOEcW40rsdVVdJTg8e",
+        "is_local": false,
+        "name": "Come Back... Be Here",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:4gTnuOEcW40rsdVVdJTg8e"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53dLsoZaSaslRpEwsnvpWe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53dLsoZaSaslRpEwsnvpWe",
+        "id": "53dLsoZaSaslRpEwsnvpWe",
+        "is_local": false,
+        "name": "Girl At Home",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:53dLsoZaSaslRpEwsnvpWe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dHAE7zpQCYCTGYSnpjcMQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dHAE7zpQCYCTGYSnpjcMQ",
+        "id": "0dHAE7zpQCYCTGYSnpjcMQ",
+        "is_local": false,
+        "name": "Treacherous - Original Demo Recording",
+        "preview_url": null,
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:0dHAE7zpQCYCTGYSnpjcMQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38fpk0sWQSYxdeydIOSFeQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/38fpk0sWQSYxdeydIOSFeQ",
+        "id": "38fpk0sWQSYxdeydIOSFeQ",
+        "is_local": false,
+        "name": "Red - Original Demo Recording",
+        "preview_url": null,
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:38fpk0sWQSYxdeydIOSFeQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 323080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6g6ideAIzJ26LLxtpoDHVy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6g6ideAIzJ26LLxtpoDHVy",
+        "id": "6g6ideAIzJ26LLxtpoDHVy",
+        "is_local": false,
+        "name": "State Of Grace - Acoustic Version",
+        "preview_url": null,
+        "track_number": 22,
+        "type": "track",
+        "uri": "spotify:track:6g6ideAIzJ26LLxtpoDHVy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 22
+  },
+  "type": "album",
+  "uri": "spotify:album:5FerdPFXSHSnCVq4OBy4Ey"
+}

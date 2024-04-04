@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "name": "Omar Apollo",
+      "type": "artist",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Omar Apollo",
+      "type": "C"
+    },
+    {
+      "text": "2018 Omar Apollo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526313286"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4FFxpvJlrYnJeOhcCIawKr",
+  "id": "4FFxpvJlrYnJeOhcCIawKr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eab2e962a64358adc1cb6a72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eab2e962a64358adc1cb6a72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eab2e962a64358adc1cb6a72",
+      "width": 64
+    }
+  ],
+  "label": "Omar Apollo",
+  "name": "Unbothered",
+  "popularity": 0,
+  "release_date": "2018-01-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4FFxpvJlrYnJeOhcCIawKr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 124954,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4p1Er46wDz4zGQI7Sxor3W",
+        "id": "4p1Er46wDz4zGQI7Sxor3W",
+        "is_local": false,
+        "name": "Unbothered",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4p1Er46wDz4zGQI7Sxor3W"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4FFxpvJlrYnJeOhcCIawKr"
+}

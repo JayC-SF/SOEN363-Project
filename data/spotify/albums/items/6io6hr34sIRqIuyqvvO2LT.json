@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zg5lxcOnAhFFwgYmROxJx",
+      "id": "5zg5lxcOnAhFFwgYmROxJx",
+      "name": "Yotora",
+      "type": "artist",
+      "uri": "spotify:artist:5zg5lxcOnAhFFwgYmROxJx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 CD Baby",
+      "type": "C"
+    },
+    {
+      "text": "2022 CD Baby",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197086511749"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6io6hr34sIRqIuyqvvO2LT",
+  "id": "6io6hr34sIRqIuyqvvO2LT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273259d5822e5b0085618e7b172",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02259d5822e5b0085618e7b172",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851259d5822e5b0085618e7b172",
+      "width": 64
+    }
+  ],
+  "label": "CD Baby",
+  "name": "alone",
+  "popularity": 0,
+  "release_date": "2022-07-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6io6hr34sIRqIuyqvvO2LT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zg5lxcOnAhFFwgYmROxJx",
+            "id": "5zg5lxcOnAhFFwgYmROxJx",
+            "name": "Yotora",
+            "type": "artist",
+            "uri": "spotify:artist:5zg5lxcOnAhFFwgYmROxJx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154331,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4DOQULDZcy6W3mNKtuAZpz",
+        "id": "4DOQULDZcy6W3mNKtuAZpz",
+        "is_local": false,
+        "name": "alone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4DOQULDZcy6W3mNKtuAZpz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6io6hr34sIRqIuyqvvO2LT"
+}

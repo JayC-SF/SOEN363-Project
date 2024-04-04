@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dCN2w1Hq4EuDvdli56MML",
+      "id": "7dCN2w1Hq4EuDvdli56MML",
+      "name": "H3R3",
+      "type": "artist",
+      "uri": "spotify:artist:7dCN2w1Hq4EuDvdli56MML"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KDUYANKOrdLZklvFCxOoZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KDUYANKOrdLZklvFCxOoZ",
+      "id": "1KDUYANKOrdLZklvFCxOoZ",
+      "name": "Felix Bennett",
+      "type": "artist",
+      "uri": "spotify:artist:1KDUYANKOrdLZklvFCxOoZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 \u7f51\u6613\u98d3\u98ce\u5de5\u4f5c\u5ba4",
+      "type": "C"
+    },
+    {
+      "text": "2020 \u7f51\u6613\u98d3\u98ce\u5de5\u4f5c\u5ba4",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445281212551"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3iS3S5UtPdF2Hb9dZFIgKs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3iS3S5UtPdF2Hb9dZFIgKs",
+  "id": "3iS3S5UtPdF2Hb9dZFIgKs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfb1b697dc28ae9d6d764fd9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfb1b697dc28ae9d6d764fd9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfb1b697dc28ae9d6d764fd9",
+      "width": 64
+    }
+  ],
+  "label": "\u7f51\u6613\u98d3\u98ce\u5de5\u4f5c\u5ba4",
+  "name": "\u4ed6\u53ea\u662f\u7ecf\u8fc7",
+  "popularity": 0,
+  "release_date": "2020-05-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3iS3S5UtPdF2Hb9dZFIgKs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dCN2w1Hq4EuDvdli56MML",
+            "id": "7dCN2w1Hq4EuDvdli56MML",
+            "name": "H3R3",
+            "type": "artist",
+            "uri": "spotify:artist:7dCN2w1Hq4EuDvdli56MML"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KDUYANKOrdLZklvFCxOoZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KDUYANKOrdLZklvFCxOoZ",
+            "id": "1KDUYANKOrdLZklvFCxOoZ",
+            "name": "Felix Bennett",
+            "type": "artist",
+            "uri": "spotify:artist:1KDUYANKOrdLZklvFCxOoZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215381,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74ti089xMQjjk3nUKUbK3E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74ti089xMQjjk3nUKUbK3E",
+        "id": "74ti089xMQjjk3nUKUbK3E",
+        "is_local": false,
+        "name": "\u4ed6\u53ea\u662f\u7ecf\u8fc7",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74ti089xMQjjk3nUKUbK3E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3iS3S5UtPdF2Hb9dZFIgKs"
+}

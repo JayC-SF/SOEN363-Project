@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+      "id": "2XtdZEExbugVrGVxyXwMmM",
+      "name": "Maria Holloway",
+      "type": "artist",
+      "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Maria Holloway, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2018 Maria Holloway, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729162853"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ie7yOHL3uP0eKEPVgoMsM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ie7yOHL3uP0eKEPVgoMsM",
+  "id": "2ie7yOHL3uP0eKEPVgoMsM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac1ceac235996a48cb0a72f7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac1ceac235996a48cb0a72f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac1ceac235996a48cb0a72f7",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Northern Sky",
+  "popularity": 0,
+  "release_date": "2018-07-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ie7yOHL3uP0eKEPVgoMsM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+            "id": "2XtdZEExbugVrGVxyXwMmM",
+            "name": "Maria Holloway",
+            "type": "artist",
+            "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wwHVi98C886uOreYPoSv2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wwHVi98C886uOreYPoSv2",
+        "id": "6wwHVi98C886uOreYPoSv2",
+        "is_local": false,
+        "name": "Northern Sky",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6wwHVi98C886uOreYPoSv2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ie7yOHL3uP0eKEPVgoMsM"
+}

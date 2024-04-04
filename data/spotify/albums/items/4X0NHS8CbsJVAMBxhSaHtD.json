@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "type": "artist",
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537374571"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4X0NHS8CbsJVAMBxhSaHtD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4X0NHS8CbsJVAMBxhSaHtD",
+  "id": "4X0NHS8CbsJVAMBxhSaHtD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273254deb29b1e07b974e38c182",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02254deb29b1e07b974e38c182",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851254deb29b1e07b974e38c182",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Young And Beautiful",
+  "popularity": 0,
+  "release_date": "2013-04-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4X0NHS8CbsJVAMBxhSaHtD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+            },
+            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+            "id": "00FQb4jTyendYWaN8pK0wa",
+            "name": "Lana Del Rey",
+            "type": "artist",
+            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 236053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UzTtUZper0CphnqZYvsIu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UzTtUZper0CphnqZYvsIu",
+        "id": "5UzTtUZper0CphnqZYvsIu",
+        "is_local": false,
+        "name": "Young And Beautiful",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UzTtUZper0CphnqZYvsIu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4X0NHS8CbsJVAMBxhSaHtD"
+}

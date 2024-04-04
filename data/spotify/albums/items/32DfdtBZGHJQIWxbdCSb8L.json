@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gBmiKOt38JSrowmeMqawZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6gBmiKOt38JSrowmeMqawZ",
+      "id": "6gBmiKOt38JSrowmeMqawZ",
+      "name": "Pattesutter",
+      "type": "artist",
+      "uri": "spotify:artist:6gBmiKOt38JSrowmeMqawZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Lil Label",
+      "type": "C"
+    },
+    {
+      "text": "2016 Lil Label",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5710241000831"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/32DfdtBZGHJQIWxbdCSb8L"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/32DfdtBZGHJQIWxbdCSb8L",
+  "id": "32DfdtBZGHJQIWxbdCSb8L",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d9bce3182c3588531fa6211e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d9bce3182c3588531fa6211e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d9bce3182c3588531fa6211e",
+      "width": 64
+    }
+  ],
+  "label": "Lil Label",
+  "name": "Det Ka' Du Ik'",
+  "popularity": 0,
+  "release_date": "2016-08-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/32DfdtBZGHJQIWxbdCSb8L/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gBmiKOt38JSrowmeMqawZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gBmiKOt38JSrowmeMqawZ",
+            "id": "6gBmiKOt38JSrowmeMqawZ",
+            "name": "Pattesutter",
+            "type": "artist",
+            "uri": "spotify:artist:6gBmiKOt38JSrowmeMqawZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161531,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11qTV13rSM3fzsVnQqMoMg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11qTV13rSM3fzsVnQqMoMg",
+        "id": "11qTV13rSM3fzsVnQqMoMg",
+        "is_local": false,
+        "name": "Det Ka\u00b4 Du Ik\u00b4",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11qTV13rSM3fzsVnQqMoMg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gBmiKOt38JSrowmeMqawZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gBmiKOt38JSrowmeMqawZ",
+            "id": "6gBmiKOt38JSrowmeMqawZ",
+            "name": "Pattesutter",
+            "type": "artist",
+            "uri": "spotify:artist:6gBmiKOt38JSrowmeMqawZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161611,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ew1jWQLCXjLH09UIM9ihc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ew1jWQLCXjLH09UIM9ihc",
+        "id": "3ew1jWQLCXjLH09UIM9ihc",
+        "is_local": false,
+        "name": "Madonna",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3ew1jWQLCXjLH09UIM9ihc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:32DfdtBZGHJQIWxbdCSb8L"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11Z78hOagXfA82mOlT6baL"
+      },
+      "href": "https://api.spotify.com/v1/artists/11Z78hOagXfA82mOlT6baL",
+      "id": "11Z78hOagXfA82mOlT6baL",
+      "name": "chata",
+      "type": "artist",
+      "uri": "spotify:artist:11Z78hOagXfA82mOlT6baL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2010 Frontwing",
+      "type": "C"
+    },
+    {
+      "text": "2010 Frontwing",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4538182484036"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0OWzwu6KHpgggEZjZMfgEm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0OWzwu6KHpgggEZjZMfgEm",
+  "id": "0OWzwu6KHpgggEZjZMfgEm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27390a1b9fdff9259aacc91972f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0290a1b9fdff9259aacc91972f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485190a1b9fdff9259aacc91972f",
+      "width": 64
+    }
+  ],
+  "label": "Frontwing",
+  "name": "SKIP",
+  "popularity": 0,
+  "release_date": "2010",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0OWzwu6KHpgggEZjZMfgEm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11Z78hOagXfA82mOlT6baL"
+            },
+            "href": "https://api.spotify.com/v1/artists/11Z78hOagXfA82mOlT6baL",
+            "id": "11Z78hOagXfA82mOlT6baL",
+            "name": "chata",
+            "type": "artist",
+            "uri": "spotify:artist:11Z78hOagXfA82mOlT6baL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245217,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YpXTVaOutEgpVbKe38RBD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0YpXTVaOutEgpVbKe38RBD",
+        "id": "0YpXTVaOutEgpVbKe38RBD",
+        "is_local": false,
+        "name": "SKIP",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0YpXTVaOutEgpVbKe38RBD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0OWzwu6KHpgggEZjZMfgEm"
+}

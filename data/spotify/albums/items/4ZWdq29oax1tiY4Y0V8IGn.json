@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bFkcQbsuV6ROeAkewAHmy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bFkcQbsuV6ROeAkewAHmy",
+      "id": "3bFkcQbsuV6ROeAkewAHmy",
+      "name": "Hardstylerzz",
+      "type": "artist",
+      "uri": "spotify:artist:3bFkcQbsuV6ROeAkewAHmy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Sean Paul, Dua Lipa",
+      "type": "C"
+    },
+    {
+      "text": "2022 Hardstylerzz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063341475321"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZWdq29oax1tiY4Y0V8IGn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZWdq29oax1tiY4Y0V8IGn",
+  "id": "4ZWdq29oax1tiY4Y0V8IGn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364c86e63b38bba8e9253ed1f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264c86e63b38bba8e9253ed1f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164c86e63b38bba8e9253ed1f",
+      "width": 64
+    }
+  ],
+  "label": "Deep Dark Dangerous",
+  "name": "NO LIE",
+  "popularity": 3,
+  "release_date": "2022-08-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZWdq29oax1tiY4Y0V8IGn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bFkcQbsuV6ROeAkewAHmy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bFkcQbsuV6ROeAkewAHmy",
+            "id": "3bFkcQbsuV6ROeAkewAHmy",
+            "name": "Hardstylerzz",
+            "type": "artist",
+            "uri": "spotify:artist:3bFkcQbsuV6ROeAkewAHmy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61kXtqhav4RcjqdnqaWRXf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61kXtqhav4RcjqdnqaWRXf",
+        "id": "61kXtqhav4RcjqdnqaWRXf",
+        "is_local": false,
+        "name": "NO LIE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61kXtqhav4RcjqdnqaWRXf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZWdq29oax1tiY4Y0V8IGn"
+}

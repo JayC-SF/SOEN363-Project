@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nxKz1dRYXnsGzN1lUURtG",
+      "id": "4nxKz1dRYXnsGzN1lUURtG",
+      "name": "Leith Ross",
+      "type": "artist",
+      "uri": "spotify:artist:4nxKz1dRYXnsGzN1lUURtG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Birthday Cake Media Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Birthday Cake Media Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196292156805"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0wfdQFjAZI2tJ506KTGnbY",
+  "id": "0wfdQFjAZI2tJ506KTGnbY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302b40ddd9664f347c3600c99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202b40ddd9664f347c3600c99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102b40ddd9664f347c3600c99",
+      "width": 64
+    }
+  ],
+  "label": "Birthday Cake",
+  "name": "I'd Have to Think About It",
+  "popularity": 9,
+  "release_date": "2021-10-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0wfdQFjAZI2tJ506KTGnbY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nxKz1dRYXnsGzN1lUURtG",
+            "id": "4nxKz1dRYXnsGzN1lUURtG",
+            "name": "Leith Ross",
+            "type": "artist",
+            "uri": "spotify:artist:4nxKz1dRYXnsGzN1lUURtG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150141,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50lUr1G0TYol01m2RlqPzZ",
+        "id": "50lUr1G0TYol01m2RlqPzZ",
+        "is_local": false,
+        "name": "I'd Have to Think About It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:50lUr1G0TYol01m2RlqPzZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nxKz1dRYXnsGzN1lUURtG",
+            "id": "4nxKz1dRYXnsGzN1lUURtG",
+            "name": "Leith Ross",
+            "type": "artist",
+            "uri": "spotify:artist:4nxKz1dRYXnsGzN1lUURtG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nyltn9zx3VG8Inb3oVREy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nyltn9zx3VG8Inb3oVREy",
+        "id": "6nyltn9zx3VG8Inb3oVREy",
+        "is_local": false,
+        "name": "Monogamy",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6nyltn9zx3VG8Inb3oVREy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0wfdQFjAZI2tJ506KTGnbY"
+}

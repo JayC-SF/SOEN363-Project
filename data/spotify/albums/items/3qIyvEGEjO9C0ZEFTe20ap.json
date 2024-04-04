@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2WuXRwEjXIjW5uVZOSxqYS",
+      "id": "2WuXRwEjXIjW5uVZOSxqYS",
+      "name": "Robbie Doherty",
+      "type": "artist",
+      "uri": "spotify:artist:2WuXRwEjXIjW5uVZOSxqYS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 PIV Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 PIV Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4251906625217"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3qIyvEGEjO9C0ZEFTe20ap"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3qIyvEGEjO9C0ZEFTe20ap",
+  "id": "3qIyvEGEjO9C0ZEFTe20ap",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ff3974e6f4fe26b6e8ce4355",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ff3974e6f4fe26b6e8ce4355",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ff3974e6f4fe26b6e8ce4355",
+      "width": 64
+    }
+  ],
+  "label": "PIV Records",
+  "name": "It's My Beat",
+  "popularity": 1,
+  "release_date": "2023-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3qIyvEGEjO9C0ZEFTe20ap/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2WuXRwEjXIjW5uVZOSxqYS",
+            "id": "2WuXRwEjXIjW5uVZOSxqYS",
+            "name": "Robbie Doherty",
+            "type": "artist",
+            "uri": "spotify:artist:2WuXRwEjXIjW5uVZOSxqYS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 393506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NJYP1eK6uH03xR3h4mOEE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NJYP1eK6uH03xR3h4mOEE",
+        "id": "6NJYP1eK6uH03xR3h4mOEE",
+        "is_local": false,
+        "name": "It's My Beat - Extended Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NJYP1eK6uH03xR3h4mOEE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2WuXRwEjXIjW5uVZOSxqYS",
+            "id": "2WuXRwEjXIjW5uVZOSxqYS",
+            "name": "Robbie Doherty",
+            "type": "artist",
+            "uri": "spotify:artist:2WuXRwEjXIjW5uVZOSxqYS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231875,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tgdBEKTHjmRqCsbjNbLWp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tgdBEKTHjmRqCsbjNbLWp",
+        "id": "3tgdBEKTHjmRqCsbjNbLWp",
+        "is_local": false,
+        "name": "It's My Beat - Radio Edit",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3tgdBEKTHjmRqCsbjNbLWp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3qIyvEGEjO9C0ZEFTe20ap"
+}

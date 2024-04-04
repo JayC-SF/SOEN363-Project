@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QwBhFIOXWri9BNtwoIlKY"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QwBhFIOXWri9BNtwoIlKY",
+      "id": "6QwBhFIOXWri9BNtwoIlKY",
+      "name": "Bernadette Carroll",
+      "type": "artist",
+      "uri": "spotify:artist:6QwBhFIOXWri9BNtwoIlKY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Numero Group",
+      "type": "C"
+    },
+    {
+      "text": "2018 Numero Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "825764801669"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uApW2DpzLxalxBRw8VWg5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uApW2DpzLxalxBRw8VWg5",
+  "id": "0uApW2DpzLxalxBRw8VWg5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e8d1b17c2e816181cabdd49",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e8d1b17c2e816181cabdd49",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e8d1b17c2e816181cabdd49",
+      "width": 64
+    }
+  ],
+  "label": "Numero Group",
+  "name": "Laughing on the Outside b/w Heavenly",
+  "popularity": 0,
+  "release_date": "2018-06-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uApW2DpzLxalxBRw8VWg5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QwBhFIOXWri9BNtwoIlKY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QwBhFIOXWri9BNtwoIlKY",
+            "id": "6QwBhFIOXWri9BNtwoIlKY",
+            "name": "Bernadette Carroll",
+            "type": "artist",
+            "uri": "spotify:artist:6QwBhFIOXWri9BNtwoIlKY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JrAHfx5k8nP7dpBKT6NqO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JrAHfx5k8nP7dpBKT6NqO",
+        "id": "2JrAHfx5k8nP7dpBKT6NqO",
+        "is_local": false,
+        "name": "Laughing on the Outside",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JrAHfx5k8nP7dpBKT6NqO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QwBhFIOXWri9BNtwoIlKY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QwBhFIOXWri9BNtwoIlKY",
+            "id": "6QwBhFIOXWri9BNtwoIlKY",
+            "name": "Bernadette Carroll",
+            "type": "artist",
+            "uri": "spotify:artist:6QwBhFIOXWri9BNtwoIlKY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 113960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AaeBgJxlO4sSorQdMKg0R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AaeBgJxlO4sSorQdMKg0R",
+        "id": "5AaeBgJxlO4sSorQdMKg0R",
+        "is_local": false,
+        "name": "Heavenly",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5AaeBgJxlO4sSorQdMKg0R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0uApW2DpzLxalxBRw8VWg5"
+}

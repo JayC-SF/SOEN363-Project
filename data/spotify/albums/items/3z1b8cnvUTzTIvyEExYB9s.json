@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0QmOR0TqxMPtZxtaIJ5klY",
+      "id": "0QmOR0TqxMPtZxtaIJ5klY",
+      "name": "Nadav Guedj",
+      "type": "artist",
+      "uri": "spotify:artist:0QmOR0TqxMPtZxtaIJ5klY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Unicell",
+      "type": "C"
+    },
+    {
+      "text": "2015 Unicell Advanced Cellular Solutions LTD",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7290105444936"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3z1b8cnvUTzTIvyEExYB9s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3z1b8cnvUTzTIvyEExYB9s",
+  "id": "3z1b8cnvUTzTIvyEExYB9s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273420f2baebf102cec0526ec5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02420f2baebf102cec0526ec5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851420f2baebf102cec0526ec5a",
+      "width": 64
+    }
+  ],
+  "label": "Unicell",
+  "name": "Golden Boy",
+  "popularity": 0,
+  "release_date": "2015-10-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3z1b8cnvUTzTIvyEExYB9s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QmOR0TqxMPtZxtaIJ5klY",
+            "id": "0QmOR0TqxMPtZxtaIJ5klY",
+            "name": "Nadav Guedj",
+            "type": "artist",
+            "uri": "spotify:artist:0QmOR0TqxMPtZxtaIJ5klY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180585,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YWFr8BHQrRL4b7RwuqS36",
+        "id": "6YWFr8BHQrRL4b7RwuqS36",
+        "is_local": false,
+        "name": "Golden Boy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6YWFr8BHQrRL4b7RwuqS36"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3z1b8cnvUTzTIvyEExYB9s"
+}

@@ -1,0 +1,74 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Lr7JHaaQ4wLOWtNmOIOcr",
+      "id": "6Lr7JHaaQ4wLOWtNmOIOcr",
+      "name": "Yandere",
+      "type": "artist",
+      "uri": "spotify:artist:6Lr7JHaaQ4wLOWtNmOIOcr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [],
+  "external_ids": {
+    "upc": "053000588429"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4X0z8LNLE2Fa4bG4kz5k1Q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4X0z8LNLE2Fa4bG4kz5k1Q",
+  "id": "4X0z8LNLE2Fa4bG4kz5k1Q",
+  "images": [],
+  "label": "ren",
+  "name": "dreamcore",
+  "popularity": 0,
+  "release_date": "2020-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4X0z8LNLE2Fa4bG4kz5k1Q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Lr7JHaaQ4wLOWtNmOIOcr",
+            "id": "6Lr7JHaaQ4wLOWtNmOIOcr",
+            "name": "Yandere",
+            "type": "artist",
+            "uri": "spotify:artist:6Lr7JHaaQ4wLOWtNmOIOcr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 100310,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/554sInuMaKZAQ75aNg0ca8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/554sInuMaKZAQ75aNg0ca8",
+        "id": "554sInuMaKZAQ75aNg0ca8",
+        "is_local": false,
+        "name": "dreamcore",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:554sInuMaKZAQ75aNg0ca8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4X0z8LNLE2Fa4bG4kz5k1Q"
+}

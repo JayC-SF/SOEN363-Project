@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+      },
+      "href": "https://api.spotify.com/v1/artists/72beYOeW2sb2yfcS4JsRvb",
+      "id": "72beYOeW2sb2yfcS4JsRvb",
+      "name": "Ritviz",
+      "type": "artist",
+      "uri": "spotify:artist:72beYOeW2sb2yfcS4JsRvb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ritviz",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ritviz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615939689324"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7sDecy4TUrJpkPnOmAiVKn",
+  "id": "7sDecy4TUrJpkPnOmAiVKn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fdfb127fabdaaabe0b2dea4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fdfb127fabdaaabe0b2dea4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fdfb127fabdaaabe0b2dea4",
+      "width": 64
+    }
+  ],
+  "label": "Ritviz",
+  "name": "Sage",
+  "popularity": 0,
+  "release_date": "2019-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sDecy4TUrJpkPnOmAiVKn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+            },
+            "href": "https://api.spotify.com/v1/artists/72beYOeW2sb2yfcS4JsRvb",
+            "id": "72beYOeW2sb2yfcS4JsRvb",
+            "name": "Ritviz",
+            "type": "artist",
+            "uri": "spotify:artist:72beYOeW2sb2yfcS4JsRvb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230204,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64RkEV5b7bG697vhIPMlrl",
+        "id": "64RkEV5b7bG697vhIPMlrl",
+        "is_local": false,
+        "name": "Sage",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:64RkEV5b7bG697vhIPMlrl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7sDecy4TUrJpkPnOmAiVKn"
+}

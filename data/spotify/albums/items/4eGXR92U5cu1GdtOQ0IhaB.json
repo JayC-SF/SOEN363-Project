@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7j8zivE9QqBhZJLzNRlr5u"
+      },
+      "href": "https://api.spotify.com/v1/artists/7j8zivE9QqBhZJLzNRlr5u",
+      "id": "7j8zivE9QqBhZJLzNRlr5u",
+      "name": "notsocool",
+      "type": "artist",
+      "uri": "spotify:artist:7j8zivE9QqBhZJLzNRlr5u"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 notsocool",
+      "type": "C"
+    },
+    {
+      "text": "2018 notsocool",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050215421028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4eGXR92U5cu1GdtOQ0IhaB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4eGXR92U5cu1GdtOQ0IhaB",
+  "id": "4eGXR92U5cu1GdtOQ0IhaB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9f343b163598ff7bf4c6451",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a9f343b163598ff7bf4c6451",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a9f343b163598ff7bf4c6451",
+      "width": 64
+    }
+  ],
+  "label": "notsocool",
+  "name": "Yanny Or Laurel",
+  "popularity": 0,
+  "release_date": "2018-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4eGXR92U5cu1GdtOQ0IhaB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7j8zivE9QqBhZJLzNRlr5u"
+            },
+            "href": "https://api.spotify.com/v1/artists/7j8zivE9QqBhZJLzNRlr5u",
+            "id": "7j8zivE9QqBhZJLzNRlr5u",
+            "name": "notsocool",
+            "type": "artist",
+            "uri": "spotify:artist:7j8zivE9QqBhZJLzNRlr5u"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PhEjeAgzNEJ4dxDK60Qix"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PhEjeAgzNEJ4dxDK60Qix",
+            "id": "0PhEjeAgzNEJ4dxDK60Qix",
+            "name": "Cliff Savage",
+            "type": "artist",
+            "uri": "spotify:artist:0PhEjeAgzNEJ4dxDK60Qix"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MipIcOqMXSXLjCZTQcFnr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MipIcOqMXSXLjCZTQcFnr",
+        "id": "6MipIcOqMXSXLjCZTQcFnr",
+        "is_local": false,
+        "name": "Yanny Or Laurel",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6MipIcOqMXSXLjCZTQcFnr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4eGXR92U5cu1GdtOQ0IhaB"
+}

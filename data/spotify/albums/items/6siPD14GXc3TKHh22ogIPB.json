@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5L9XA5GDsOOKNZfeOO8lmo",
+      "id": "5L9XA5GDsOOKNZfeOO8lmo",
+      "name": "fam0uz",
+      "type": "artist",
+      "uri": "spotify:artist:5L9XA5GDsOOKNZfeOO8lmo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Lebanon Hanover",
+      "type": "C"
+    },
+    {
+      "text": "2023 fam0uz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063248650289"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6siPD14GXc3TKHh22ogIPB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6siPD14GXc3TKHh22ogIPB",
+  "id": "6siPD14GXc3TKHh22ogIPB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730411ffd7328542832fa2beac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020411ffd7328542832fa2beac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510411ffd7328542832fa2beac",
+      "width": 64
+    }
+  ],
+  "label": "fam0uz",
+  "name": "Gallowdance (Slowed)",
+  "popularity": 33,
+  "release_date": "2023-02-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6siPD14GXc3TKHh22ogIPB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5L9XA5GDsOOKNZfeOO8lmo",
+            "id": "5L9XA5GDsOOKNZfeOO8lmo",
+            "name": "fam0uz",
+            "type": "artist",
+            "uri": "spotify:artist:5L9XA5GDsOOKNZfeOO8lmo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 90000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Cy7C9MihAh8h5sXMmrix1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Cy7C9MihAh8h5sXMmrix1",
+        "id": "4Cy7C9MihAh8h5sXMmrix1",
+        "is_local": false,
+        "name": "Gallowdance - Slowed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Cy7C9MihAh8h5sXMmrix1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6siPD14GXc3TKHh22ogIPB"
+}

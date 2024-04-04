@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+      },
+      "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+      "id": "4mncDFjVLUa3s025Tct3Ry",
+      "name": "Claptone",
+      "type": "artist",
+      "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Different Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2018 Different Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5414940017533"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78xqQGsopIJUA1qlkjnSuF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78xqQGsopIJUA1qlkjnSuF",
+  "id": "78xqQGsopIJUA1qlkjnSuF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b6d9f0286b0bfa2331bd956",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b6d9f0286b0bfa2331bd956",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b6d9f0286b0bfa2331bd956",
+      "width": 64
+    }
+  ],
+  "label": "Different Recordings",
+  "name": "Stronger",
+  "popularity": 0,
+  "release_date": "2018-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78xqQGsopIJUA1qlkjnSuF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mncDFjVLUa3s025Tct3Ry",
+            "id": "4mncDFjVLUa3s025Tct3Ry",
+            "name": "Claptone",
+            "type": "artist",
+            "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MfYv3Zkj5zwMNbUfbAifz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MfYv3Zkj5zwMNbUfbAifz",
+            "id": "6MfYv3Zkj5zwMNbUfbAifz",
+            "name": "Ben Duffy",
+            "type": "artist",
+            "uri": "spotify:artist:6MfYv3Zkj5zwMNbUfbAifz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2matcDSlt82ECoS7ktF1Ue"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2matcDSlt82ECoS7ktF1Ue",
+        "id": "2matcDSlt82ECoS7ktF1Ue",
+        "is_local": false,
+        "name": "Stronger",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2matcDSlt82ECoS7ktF1Ue"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78xqQGsopIJUA1qlkjnSuF"
+}

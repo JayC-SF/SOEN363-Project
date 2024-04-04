@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+      },
+      "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+      "id": "246dkjvS1zLTtiykXe5h60",
+      "name": "Post Malone",
+      "type": "artist",
+      "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567115625"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/22fC2LDiA1zJgUS9ru5GP5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/22fC2LDiA1zJgUS9ru5GP5",
+  "id": "22fC2LDiA1zJgUS9ru5GP5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf95d2beddffbdb488310f67",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf95d2beddffbdb488310f67",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf95d2beddffbdb488310f67",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Candy Paint",
+  "popularity": 0,
+  "release_date": "2017-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/22fC2LDiA1zJgUS9ru5GP5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+            },
+            "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+            "id": "246dkjvS1zLTtiykXe5h60",
+            "name": "Post Malone",
+            "type": "artist",
+            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229573,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42CeaId2XNlxugDvyqHfDf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42CeaId2XNlxugDvyqHfDf",
+        "id": "42CeaId2XNlxugDvyqHfDf",
+        "is_local": false,
+        "name": "Candy Paint",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42CeaId2XNlxugDvyqHfDf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:22fC2LDiA1zJgUS9ru5GP5"
+}

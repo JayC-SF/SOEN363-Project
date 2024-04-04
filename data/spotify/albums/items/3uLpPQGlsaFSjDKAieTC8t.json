@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SjJtnqcr2h1sGocLdOObR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SjJtnqcr2h1sGocLdOObR",
+      "id": "5SjJtnqcr2h1sGocLdOObR",
+      "name": "Ghosts",
+      "type": "artist",
+      "uri": "spotify:artist:5SjJtnqcr2h1sGocLdOObR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 GOOD LIFE MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 GOOD LIFE MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190374931656"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uLpPQGlsaFSjDKAieTC8t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3uLpPQGlsaFSjDKAieTC8t",
+  "id": "3uLpPQGlsaFSjDKAieTC8t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365b5fa618399a9b3d0c2a778",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265b5fa618399a9b3d0c2a778",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165b5fa618399a9b3d0c2a778",
+      "width": 64
+    }
+  ],
+  "label": "GOOD LIFE MUSIC",
+  "name": "Powerless",
+  "popularity": 0,
+  "release_date": "2016-07-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3uLpPQGlsaFSjDKAieTC8t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SjJtnqcr2h1sGocLdOObR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SjJtnqcr2h1sGocLdOObR",
+            "id": "5SjJtnqcr2h1sGocLdOObR",
+            "name": "Ghosts",
+            "type": "artist",
+            "uri": "spotify:artist:5SjJtnqcr2h1sGocLdOObR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4MAk4LWy7v0m8pqA7JMD1k"
+            },
+            "href": "https://api.spotify.com/v1/artists/4MAk4LWy7v0m8pqA7JMD1k",
+            "id": "4MAk4LWy7v0m8pqA7JMD1k",
+            "name": "Lea Santee",
+            "type": "artist",
+            "uri": "spotify:artist:4MAk4LWy7v0m8pqA7JMD1k"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208141,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bJI6ZpxYXkX984vHvLqgK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bJI6ZpxYXkX984vHvLqgK",
+        "id": "5bJI6ZpxYXkX984vHvLqgK",
+        "is_local": false,
+        "name": "Powerless",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5bJI6ZpxYXkX984vHvLqgK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3uLpPQGlsaFSjDKAieTC8t"
+}

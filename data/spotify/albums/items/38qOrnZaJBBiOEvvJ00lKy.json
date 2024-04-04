@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qyZvLNohKmyyqRhVvRZYI"
+      },
+      "href": "https://api.spotify.com/v1/artists/3qyZvLNohKmyyqRhVvRZYI",
+      "id": "3qyZvLNohKmyyqRhVvRZYI",
+      "name": "Room Temperature",
+      "type": "artist",
+      "uri": "spotify:artist:3qyZvLNohKmyyqRhVvRZYI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Vexxx Bad Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Vexxx Bad Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "848760043444"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/38qOrnZaJBBiOEvvJ00lKy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/38qOrnZaJBBiOEvvJ00lKy",
+  "id": "38qOrnZaJBBiOEvvJ00lKy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a006f192fb70df37d5969199",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a006f192fb70df37d5969199",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a006f192fb70df37d5969199",
+      "width": 64
+    }
+  ],
+  "label": "Vexxx Bad Records",
+  "name": "Fever - Single",
+  "popularity": 0,
+  "release_date": "2017-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/38qOrnZaJBBiOEvvJ00lKy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qyZvLNohKmyyqRhVvRZYI"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qyZvLNohKmyyqRhVvRZYI",
+            "id": "3qyZvLNohKmyyqRhVvRZYI",
+            "name": "Room Temperature",
+            "type": "artist",
+            "uri": "spotify:artist:3qyZvLNohKmyyqRhVvRZYI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204277,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UJRuRbmYWuLlsv80jzNFZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UJRuRbmYWuLlsv80jzNFZ",
+        "id": "5UJRuRbmYWuLlsv80jzNFZ",
+        "is_local": false,
+        "name": "Fever",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UJRuRbmYWuLlsv80jzNFZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:38qOrnZaJBBiOEvvJ00lKy"
+}

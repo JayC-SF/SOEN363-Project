@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+      "id": "2XtdZEExbugVrGVxyXwMmM",
+      "name": "Maria Holloway",
+      "type": "artist",
+      "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Maria Holloway, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2017 Maria Holloway, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729076624"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2cJc6vCXrqS4mg3azEcEiY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2cJc6vCXrqS4mg3azEcEiY",
+  "id": "2cJc6vCXrqS4mg3azEcEiY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273141e88e6a4f634bf5273490b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02141e88e6a4f634bf5273490b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851141e88e6a4f634bf5273490b",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Lament",
+  "popularity": 0,
+  "release_date": "2018-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2cJc6vCXrqS4mg3azEcEiY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+            "id": "2XtdZEExbugVrGVxyXwMmM",
+            "name": "Maria Holloway",
+            "type": "artist",
+            "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176815,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04jLEsS47w70AeRiPU7bmg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/04jLEsS47w70AeRiPU7bmg",
+        "id": "04jLEsS47w70AeRiPU7bmg",
+        "is_local": false,
+        "name": "Lament",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:04jLEsS47w70AeRiPU7bmg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2cJc6vCXrqS4mg3azEcEiY"
+}

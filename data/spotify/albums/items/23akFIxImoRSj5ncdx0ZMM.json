@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YhUSm86okLWldQVwJkLlP",
+      "id": "0YhUSm86okLWldQVwJkLlP",
+      "name": "Bad Suns",
+      "type": "artist",
+      "uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Vagrant Records",
+      "type": "C"
+    },
+    {
+      "text": "2013 Vagrant Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "601091416352"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/23akFIxImoRSj5ncdx0ZMM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/23akFIxImoRSj5ncdx0ZMM",
+  "id": "23akFIxImoRSj5ncdx0ZMM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732affd999aa2588a50a32ea59",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022affd999aa2588a50a32ea59",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512affd999aa2588a50a32ea59",
+      "width": 64
+    }
+  ],
+  "label": "Vagrant",
+  "name": "Cardiac Arrest - Single",
+  "popularity": 0,
+  "release_date": "2013-11-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/23akFIxImoRSj5ncdx0ZMM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YhUSm86okLWldQVwJkLlP",
+            "id": "0YhUSm86okLWldQVwJkLlP",
+            "name": "Bad Suns",
+            "type": "artist",
+            "uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182518,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pxDFUN3LrSGq6RrUKHtaG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3pxDFUN3LrSGq6RrUKHtaG",
+        "id": "3pxDFUN3LrSGq6RrUKHtaG",
+        "is_local": false,
+        "name": "Cardiac Arrest",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3pxDFUN3LrSGq6RrUKHtaG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:23akFIxImoRSj5ncdx0ZMM"
+}

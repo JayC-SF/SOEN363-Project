@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+      },
+      "href": "https://api.spotify.com/v1/artists/7gjIrPoGRWrG0ymsV5TZ16",
+      "id": "7gjIrPoGRWrG0ymsV5TZ16",
+      "name": "rshand",
+      "type": "artist",
+      "uri": "spotify:artist:7gjIrPoGRWrG0ymsV5TZ16"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Setting Sail Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Setting Sail Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063212003080"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4En9kcMWDfTNXcHK29rxaC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4En9kcMWDfTNXcHK29rxaC",
+  "id": "4En9kcMWDfTNXcHK29rxaC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273efb978f91d3ec68bb106a751",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02efb978f91d3ec68bb106a751",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851efb978f91d3ec68bb106a751",
+      "width": 64
+    }
+  ],
+  "label": "Setting Sail Records",
+  "name": "Follow",
+  "popularity": 5,
+  "release_date": "2023-03-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4En9kcMWDfTNXcHK29rxaC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gjIrPoGRWrG0ymsV5TZ16",
+            "id": "7gjIrPoGRWrG0ymsV5TZ16",
+            "name": "rshand",
+            "type": "artist",
+            "uri": "spotify:artist:7gjIrPoGRWrG0ymsV5TZ16"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149072,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pNQmGorrooZyqWV2SJQmL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1pNQmGorrooZyqWV2SJQmL",
+        "id": "1pNQmGorrooZyqWV2SJQmL",
+        "is_local": false,
+        "name": "Follow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1pNQmGorrooZyqWV2SJQmL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4En9kcMWDfTNXcHK29rxaC"
+}

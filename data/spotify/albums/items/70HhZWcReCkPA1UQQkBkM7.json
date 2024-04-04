@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+      },
+      "href": "https://api.spotify.com/v1/artists/35oGZihZclGoTVuICPXRP9",
+      "id": "35oGZihZclGoTVuICPXRP9",
+      "name": "Jere Klein",
+      "type": "artist",
+      "uri": "spotify:artist:35oGZihZclGoTVuICPXRP9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+      },
+      "href": "https://api.spotify.com/v1/artists/20BNHnI2SfySwLwWCAu4ew",
+      "id": "20BNHnI2SfySwLwWCAu4ew",
+      "name": "Drakomafia",
+      "type": "artist",
+      "uri": "spotify:artist:20BNHnI2SfySwLwWCAu4ew"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Jere Klein",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Jere Klein",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197189260827"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/70HhZWcReCkPA1UQQkBkM7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/70HhZWcReCkPA1UQQkBkM7",
+  "id": "70HhZWcReCkPA1UQQkBkM7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dce6ab2b798f64bb8e132d7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dce6ab2b798f64bb8e132d7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dce6ab2b798f64bb8e132d7d",
+      "width": 64
+    }
+  ],
+  "label": "Jere Klein",
+  "name": "Mi Bruja",
+  "popularity": 0,
+  "release_date": "2023-06-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/70HhZWcReCkPA1UQQkBkM7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+            },
+            "href": "https://api.spotify.com/v1/artists/35oGZihZclGoTVuICPXRP9",
+            "id": "35oGZihZclGoTVuICPXRP9",
+            "name": "Jere Klein",
+            "type": "artist",
+            "uri": "spotify:artist:35oGZihZclGoTVuICPXRP9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+            },
+            "href": "https://api.spotify.com/v1/artists/20BNHnI2SfySwLwWCAu4ew",
+            "id": "20BNHnI2SfySwLwWCAu4ew",
+            "name": "Drakomafia",
+            "type": "artist",
+            "uri": "spotify:artist:20BNHnI2SfySwLwWCAu4ew"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157793,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IsCKyajDh4QkLWqmRJdOJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IsCKyajDh4QkLWqmRJdOJ",
+        "id": "0IsCKyajDh4QkLWqmRJdOJ",
+        "is_local": false,
+        "name": "Mi Bruja",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0IsCKyajDh4QkLWqmRJdOJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:70HhZWcReCkPA1UQQkBkM7"
+}

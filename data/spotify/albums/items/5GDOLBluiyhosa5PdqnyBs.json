@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+      "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "name": "Armin van Buuren",
+      "type": "artist",
+      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Kontor Records GmbH / Armada Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2023 Kontor Records GmbH / Armada Music B.V. under exclusive license from Armin Audio B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4255677110330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5GDOLBluiyhosa5PdqnyBs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5GDOLBluiyhosa5PdqnyBs",
+  "id": "5GDOLBluiyhosa5PdqnyBs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27312a2754f54eaeb92c586bb9f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0212a2754f54eaeb92c586bb9f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485112a2754f54eaeb92c586bb9f",
+      "width": 64
+    }
+  ],
+  "label": "Kontor Records",
+  "name": "Space Case",
+  "popularity": 23,
+  "release_date": "2023-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5GDOLBluiyhosa5PdqnyBs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+            "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+            "name": "Armin van Buuren",
+            "type": "artist",
+            "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "CH",
+          "DE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212252,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Q2CrTtaBUQ4SuNRplRs4x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Q2CrTtaBUQ4SuNRplRs4x",
+        "id": "5Q2CrTtaBUQ4SuNRplRs4x",
+        "is_local": false,
+        "name": "Space Case",
+        "preview_url": "https://p.scdn.co/mp3-preview/5f1e3e54e23d50e041d3ce7285871e5102ab12e2?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Q2CrTtaBUQ4SuNRplRs4x"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5GDOLBluiyhosa5PdqnyBs"
+}

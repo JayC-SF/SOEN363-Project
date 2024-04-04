@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0X9dw83QR5kirBVlMffpKW"
+      },
+      "href": "https://api.spotify.com/v1/artists/0X9dw83QR5kirBVlMffpKW",
+      "id": "0X9dw83QR5kirBVlMffpKW",
+      "name": "Liv Harland",
+      "type": "artist",
+      "uri": "spotify:artist:0X9dw83QR5kirBVlMffpKW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Liv Harland under exclusive license to FRTYFVE",
+      "type": "C"
+    },
+    {
+      "text": "2022 Liv Harland",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316471602104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2v1ERI7u4XxtV4jA5vOavZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2v1ERI7u4XxtV4jA5vOavZ",
+  "id": "2v1ERI7u4XxtV4jA5vOavZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b4d46b0080466b9b63f50ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b4d46b0080466b9b63f50ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b4d46b0080466b9b63f50ca",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "My Girl",
+  "popularity": 0,
+  "release_date": "2022-12-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2v1ERI7u4XxtV4jA5vOavZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X9dw83QR5kirBVlMffpKW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X9dw83QR5kirBVlMffpKW",
+            "id": "0X9dw83QR5kirBVlMffpKW",
+            "name": "Liv Harland",
+            "type": "artist",
+            "uri": "spotify:artist:0X9dw83QR5kirBVlMffpKW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162261,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JCFFpbcWM4oAk70Uc3trb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JCFFpbcWM4oAk70Uc3trb",
+        "id": "1JCFFpbcWM4oAk70Uc3trb",
+        "is_local": false,
+        "name": "My Girl",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1JCFFpbcWM4oAk70Uc3trb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2v1ERI7u4XxtV4jA5vOavZ"
+}

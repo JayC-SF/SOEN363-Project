@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1eZ0sjIrNuSNiZSfjTYgi6",
+      "id": "1eZ0sjIrNuSNiZSfjTYgi6",
+      "name": "DANIEL",
+      "type": "artist",
+      "uri": "spotify:artist:1eZ0sjIrNuSNiZSfjTYgi6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Mongaif, under license to POCLANOS",
+      "type": "C"
+    },
+    {
+      "text": "2020 Mongaif, under license to POCLANOS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8809712280135"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/39nv27rmWm0Gws6ZJQbA5l"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/39nv27rmWm0Gws6ZJQbA5l",
+  "id": "39nv27rmWm0Gws6ZJQbA5l",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373e2c249095a7c0fac4a8118",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273e2c249095a7c0fac4a8118",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173e2c249095a7c0fac4a8118",
+      "width": 64
+    }
+  ],
+  "label": "Mongaif",
+  "name": "Flower",
+  "popularity": 0,
+  "release_date": "2020-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/39nv27rmWm0Gws6ZJQbA5l/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1eZ0sjIrNuSNiZSfjTYgi6",
+            "id": "1eZ0sjIrNuSNiZSfjTYgi6",
+            "name": "DANIEL",
+            "type": "artist",
+            "uri": "spotify:artist:1eZ0sjIrNuSNiZSfjTYgi6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 297591,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VMcW8AnDsVbWLHDkwdg3j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VMcW8AnDsVbWLHDkwdg3j",
+        "id": "5VMcW8AnDsVbWLHDkwdg3j",
+        "is_local": false,
+        "name": "Lily of The Valley",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5VMcW8AnDsVbWLHDkwdg3j"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1eZ0sjIrNuSNiZSfjTYgi6",
+            "id": "1eZ0sjIrNuSNiZSfjTYgi6",
+            "name": "DANIEL",
+            "type": "artist",
+            "uri": "spotify:artist:1eZ0sjIrNuSNiZSfjTYgi6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57pUG4Oj0koUqeGq7rgbTX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/57pUG4Oj0koUqeGq7rgbTX",
+        "id": "57pUG4Oj0koUqeGq7rgbTX",
+        "is_local": false,
+        "name": "Flower",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:57pUG4Oj0koUqeGq7rgbTX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:39nv27rmWm0Gws6ZJQbA5l"
+}

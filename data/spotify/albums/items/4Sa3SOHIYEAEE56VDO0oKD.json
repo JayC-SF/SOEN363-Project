@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oV5JExKdhOonDZmNdqUsZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oV5JExKdhOonDZmNdqUsZ",
+      "id": "4oV5JExKdhOonDZmNdqUsZ",
+      "name": "gsip",
+      "type": "artist",
+      "uri": "spotify:artist:4oV5JExKdhOonDZmNdqUsZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 5266187 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 5266187 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197876417541"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Sa3SOHIYEAEE56VDO0oKD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Sa3SOHIYEAEE56VDO0oKD",
+  "id": "4Sa3SOHIYEAEE56VDO0oKD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a2295dfe517f8751d68da88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a2295dfe517f8751d68da88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a2295dfe517f8751d68da88",
+      "width": 64
+    }
+  ],
+  "label": "5266187 Records DK",
+  "name": "irony",
+  "popularity": 0,
+  "release_date": "2023-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Sa3SOHIYEAEE56VDO0oKD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5JExKdhOonDZmNdqUsZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oV5JExKdhOonDZmNdqUsZ",
+            "id": "4oV5JExKdhOonDZmNdqUsZ",
+            "name": "gsip",
+            "type": "artist",
+            "uri": "spotify:artist:4oV5JExKdhOonDZmNdqUsZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183036,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jR9DlgNrWe81fMnvydT8Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jR9DlgNrWe81fMnvydT8Z",
+        "id": "2jR9DlgNrWe81fMnvydT8Z",
+        "is_local": false,
+        "name": "irony",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2jR9DlgNrWe81fMnvydT8Z"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Sa3SOHIYEAEE56VDO0oKD"
+}

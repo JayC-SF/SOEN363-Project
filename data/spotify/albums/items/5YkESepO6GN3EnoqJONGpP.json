@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/36v2TgVqNVxF5tUhvVjfnv"
+      },
+      "href": "https://api.spotify.com/v1/artists/36v2TgVqNVxF5tUhvVjfnv",
+      "id": "36v2TgVqNVxF5tUhvVjfnv",
+      "name": "ShadowStep",
+      "type": "artist",
+      "uri": "spotify:artist:36v2TgVqNVxF5tUhvVjfnv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 ShadowStep",
+      "type": "C"
+    },
+    {
+      "text": "2023 ShadowStep",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8721056132928"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5YkESepO6GN3EnoqJONGpP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5YkESepO6GN3EnoqJONGpP",
+  "id": "5YkESepO6GN3EnoqJONGpP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273046dea62f3e9cab6218168ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02046dea62f3e9cab6218168ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851046dea62f3e9cab6218168ef",
+      "width": 64
+    }
+  ],
+  "label": "Royce",
+  "name": "alone",
+  "popularity": 35,
+  "release_date": "2023-10-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5YkESepO6GN3EnoqJONGpP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/36v2TgVqNVxF5tUhvVjfnv"
+            },
+            "href": "https://api.spotify.com/v1/artists/36v2TgVqNVxF5tUhvVjfnv",
+            "id": "36v2TgVqNVxF5tUhvVjfnv",
+            "name": "ShadowStep",
+            "type": "artist",
+            "uri": "spotify:artist:36v2TgVqNVxF5tUhvVjfnv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154462,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2K4O5olTFrWw3ciQxrUIbA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2K4O5olTFrWw3ciQxrUIbA",
+        "id": "2K4O5olTFrWw3ciQxrUIbA",
+        "is_local": false,
+        "name": "alone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2K4O5olTFrWw3ciQxrUIbA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5YkESepO6GN3EnoqJONGpP"
+}

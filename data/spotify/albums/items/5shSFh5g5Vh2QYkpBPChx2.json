@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+      "id": "2mVVjNmdjXZZDvhgQWiakk",
+      "name": "Khruangbin",
+      "type": "artist",
+      "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Dead Oceans, Inc. In Association with Night Time Stories, Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2020 Dead Oceans, Inc. In Association with Night Time Stories, Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "656605149301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5shSFh5g5Vh2QYkpBPChx2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5shSFh5g5Vh2QYkpBPChx2",
+  "id": "5shSFh5g5Vh2QYkpBPChx2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f65cbac819d0b2d34dd923e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f65cbac819d0b2d34dd923e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f65cbac819d0b2d34dd923e",
+      "width": 64
+    }
+  ],
+  "label": "Dead Oceans",
+  "name": "Time (You and I)",
+  "popularity": 0,
+  "release_date": "2020-04-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5shSFh5g5Vh2QYkpBPChx2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+            "id": "2mVVjNmdjXZZDvhgQWiakk",
+            "name": "Khruangbin",
+            "type": "artist",
+            "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 342189,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QoiyjegLQ3DWKBfFX9ihX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QoiyjegLQ3DWKBfFX9ihX",
+        "id": "2QoiyjegLQ3DWKBfFX9ihX",
+        "is_local": false,
+        "name": "Time (You and I)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2QoiyjegLQ3DWKBfFX9ihX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5shSFh5g5Vh2QYkpBPChx2"
+}

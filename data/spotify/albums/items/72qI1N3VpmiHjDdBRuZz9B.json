@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KaaIknCVW5SstugreNkha"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KaaIknCVW5SstugreNkha",
+      "id": "2KaaIknCVW5SstugreNkha",
+      "name": "Alberto Gambino",
+      "type": "artist",
+      "uri": "spotify:artist:2KaaIknCVW5SstugreNkha"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Alberto Gambino",
+      "type": "C"
+    },
+    {
+      "text": "2019 Alberto Gambino",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8433391616062"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/72qI1N3VpmiHjDdBRuZz9B"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/72qI1N3VpmiHjDdBRuZz9B",
+  "id": "72qI1N3VpmiHjDdBRuZz9B",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273257858e1397f3174a1603bd7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02257858e1397f3174a1603bd7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851257858e1397f3174a1603bd7",
+      "width": 64
+    }
+  ],
+  "label": "KungFumetas",
+  "name": "Purpurina",
+  "popularity": 0,
+  "release_date": "2019-03-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/72qI1N3VpmiHjDdBRuZz9B/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KaaIknCVW5SstugreNkha"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KaaIknCVW5SstugreNkha",
+            "id": "2KaaIknCVW5SstugreNkha",
+            "name": "Alberto Gambino",
+            "type": "artist",
+            "uri": "spotify:artist:2KaaIknCVW5SstugreNkha"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193181,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HFvuMLMgS75OaY3UKzqqs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HFvuMLMgS75OaY3UKzqqs",
+        "id": "5HFvuMLMgS75OaY3UKzqqs",
+        "is_local": false,
+        "name": "Purpurina",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5HFvuMLMgS75OaY3UKzqqs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:72qI1N3VpmiHjDdBRuZz9B"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+      },
+      "href": "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+      "id": "5X4LWwbUFNzPkEas04uU82",
+      "name": "DVBBS",
+      "type": "artist",
+      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
+      },
+      "href": "https://api.spotify.com/v1/artists/05LTJdcIWfHyQXC1za07k8",
+      "id": "05LTJdcIWfHyQXC1za07k8",
+      "name": "BRIDGE",
+      "type": "artist",
+      "uri": "spotify:artist:05LTJdcIWfHyQXC1za07k8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ultra Records, LLC / Kanary Music, Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ultra Records, LLC / Kanary Music, Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465003554"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wKMJfUXwbbjotRP8t8zBp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0wKMJfUXwbbjotRP8t8zBp",
+  "id": "0wKMJfUXwbbjotRP8t8zBp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c99268069bf045fa3f63319",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c99268069bf045fa3f63319",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c99268069bf045fa3f63319",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "GOMF",
+  "popularity": 3,
+  "release_date": "2019-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0wKMJfUXwbbjotRP8t8zBp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+            },
+            "href": "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+            "id": "5X4LWwbUFNzPkEas04uU82",
+            "name": "DVBBS",
+            "type": "artist",
+            "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
+            },
+            "href": "https://api.spotify.com/v1/artists/05LTJdcIWfHyQXC1za07k8",
+            "id": "05LTJdcIWfHyQXC1za07k8",
+            "name": "BRIDGE",
+            "type": "artist",
+            "uri": "spotify:artist:05LTJdcIWfHyQXC1za07k8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197217,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CTzuqi7g4vW8BXcEacvdB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CTzuqi7g4vW8BXcEacvdB",
+        "id": "7CTzuqi7g4vW8BXcEacvdB",
+        "is_local": false,
+        "name": "GOMF",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7CTzuqi7g4vW8BXcEacvdB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0wKMJfUXwbbjotRP8t8zBp"
+}

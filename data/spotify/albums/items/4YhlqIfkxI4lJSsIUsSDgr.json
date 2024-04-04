@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4vQZHrBA70eCLTPn30gTJv"
+      },
+      "href": "https://api.spotify.com/v1/artists/4vQZHrBA70eCLTPn30gTJv",
+      "id": "4vQZHrBA70eCLTPn30gTJv",
+      "name": "Shacoscu",
+      "type": "artist",
+      "uri": "spotify:artist:4vQZHrBA70eCLTPn30gTJv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 ROW Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 ROW Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119633282"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4YhlqIfkxI4lJSsIUsSDgr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4YhlqIfkxI4lJSsIUsSDgr",
+  "id": "4YhlqIfkxI4lJSsIUsSDgr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273556ea8ce9a22ba76b8218802",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02556ea8ce9a22ba76b8218802",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851556ea8ce9a22ba76b8218802",
+      "width": 64
+    }
+  ],
+  "label": "ROW Music",
+  "name": "Nada de Nada",
+  "popularity": 0,
+  "release_date": "2020-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4YhlqIfkxI4lJSsIUsSDgr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vQZHrBA70eCLTPn30gTJv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4vQZHrBA70eCLTPn30gTJv",
+            "id": "4vQZHrBA70eCLTPn30gTJv",
+            "name": "Shacoscu",
+            "type": "artist",
+            "uri": "spotify:artist:4vQZHrBA70eCLTPn30gTJv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174115,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Iy1Pyqjpb7YNpGsziNIWY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Iy1Pyqjpb7YNpGsziNIWY",
+        "id": "6Iy1Pyqjpb7YNpGsziNIWY",
+        "is_local": false,
+        "name": "Nada de Nada - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Iy1Pyqjpb7YNpGsziNIWY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4YhlqIfkxI4lJSsIUsSDgr"
+}

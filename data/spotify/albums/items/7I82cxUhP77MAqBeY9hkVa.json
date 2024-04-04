@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ApQnMT6oR8eLguf24xb9S",
+      "id": "5ApQnMT6oR8eLguf24xb9S",
+      "name": "Foreign Air",
+      "type": "artist",
+      "uri": "spotify:artist:5ApQnMT6oR8eLguf24xb9S"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Foreign Air",
+      "type": "C"
+    },
+    {
+      "text": "2015 Foreign Air",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718066804"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7I82cxUhP77MAqBeY9hkVa",
+  "id": "7I82cxUhP77MAqBeY9hkVa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273094e8ab2029e2b0ca7879eaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02094e8ab2029e2b0ca7879eaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851094e8ab2029e2b0ca7879eaf",
+      "width": 64
+    }
+  ],
+  "label": "Foreign Air",
+  "name": "Free Animal",
+  "popularity": 0,
+  "release_date": "2015-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7I82cxUhP77MAqBeY9hkVa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ApQnMT6oR8eLguf24xb9S",
+            "id": "5ApQnMT6oR8eLguf24xb9S",
+            "name": "Foreign Air",
+            "type": "artist",
+            "uri": "spotify:artist:5ApQnMT6oR8eLguf24xb9S"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5l8oNQsDDPNFUIV5M4lzRJ",
+        "id": "5l8oNQsDDPNFUIV5M4lzRJ",
+        "is_local": false,
+        "name": "Free Animal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5l8oNQsDDPNFUIV5M4lzRJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7I82cxUhP77MAqBeY9hkVa"
+}

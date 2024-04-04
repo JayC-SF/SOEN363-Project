@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY",
+      "id": "0LyP0Zn0mXLb65AgGOS6EY",
+      "name": "Ethan Bortnick",
+      "type": "artist",
+      "uri": "spotify:artist:0LyP0Zn0mXLb65AgGOS6EY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2023 Ethan Bortnick, under exclusive license to Columbia Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196589899101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/257JMntLr2vKOG3esYNkdK",
+  "id": "257JMntLr2vKOG3esYNkdK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273807c41903fe074b3347d6047",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02807c41903fe074b3347d6047",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851807c41903fe074b3347d6047",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "deadly ever after",
+  "popularity": 32,
+  "release_date": "2023-02-03",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/257JMntLr2vKOG3esYNkdK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY",
+            "id": "0LyP0Zn0mXLb65AgGOS6EY",
+            "name": "Ethan Bortnick",
+            "type": "artist",
+            "uri": "spotify:artist:0LyP0Zn0mXLb65AgGOS6EY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173466,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47FdoVKyPNFnrWlj10Jx4z",
+        "id": "47FdoVKyPNFnrWlj10Jx4z",
+        "is_local": false,
+        "name": "engravings",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:47FdoVKyPNFnrWlj10Jx4z"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY",
+            "id": "0LyP0Zn0mXLb65AgGOS6EY",
+            "name": "Ethan Bortnick",
+            "type": "artist",
+            "uri": "spotify:artist:0LyP0Zn0mXLb65AgGOS6EY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196880,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49RVuMbXGzYwu7Q8Jec5Yw",
+        "id": "49RVuMbXGzYwu7Q8Jec5Yw",
+        "is_local": false,
+        "name": "deadly ever after",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:49RVuMbXGzYwu7Q8Jec5Yw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:257JMntLr2vKOG3esYNkdK"
+}

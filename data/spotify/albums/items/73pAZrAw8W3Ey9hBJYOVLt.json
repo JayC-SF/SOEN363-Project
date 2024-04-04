@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "name": "Bruno Mars",
+      "type": "artist",
+      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 TM & 2011 Summit Entertainment, LLC. All rights reserved.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679966223"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/73pAZrAw8W3Ey9hBJYOVLt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/73pAZrAw8W3Ey9hBJYOVLt",
+  "id": "73pAZrAw8W3Ey9hBJYOVLt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c43bd96a211ed67cfe86636",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c43bd96a211ed67cfe86636",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c43bd96a211ed67cfe86636",
+      "width": 64
+    }
+  ],
+  "label": "Elektra (NEK)",
+  "name": "It Will Rain",
+  "popularity": 56,
+  "release_date": "2011-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/73pAZrAw8W3Ey9hBJYOVLt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257847,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4rMNgxEwGWoPHIUcvB5BrB",
+        "id": "4rMNgxEwGWoPHIUcvB5BrB",
+        "is_local": false,
+        "name": "It Will Rain",
+        "preview_url": "https://p.scdn.co/mp3-preview/0927a0cee7a1b4df325be7982ee821944f504002?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4rMNgxEwGWoPHIUcvB5BrB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:73pAZrAw8W3Ey9hBJYOVLt"
+}

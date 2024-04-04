@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+      },
+      "href": "https://api.spotify.com/v1/artists/5azWSYXVoLKYKHlR5zNJ7i",
+      "id": "5azWSYXVoLKYKHlR5zNJ7i",
+      "name": "Sharry Mann",
+      "type": "artist",
+      "uri": "spotify:artist:5azWSYXVoLKYKHlR5zNJ7i"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Panj-aab Records",
+      "type": "C"
+    },
+    {
+      "text": "2015 Panj-aab Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0190374184243"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Rv8GCmVHDCM209udsxi8T"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Rv8GCmVHDCM209udsxi8T",
+  "id": "2Rv8GCmVHDCM209udsxi8T",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273503c19a79c885e342115be0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02503c19a79c885e342115be0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851503c19a79c885e342115be0c",
+      "width": 64
+    }
+  ],
+  "label": "Panj-aab Records",
+  "name": "Hashtag",
+  "popularity": 0,
+  "release_date": "2015-12-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Rv8GCmVHDCM209udsxi8T/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+            },
+            "href": "https://api.spotify.com/v1/artists/5azWSYXVoLKYKHlR5zNJ7i",
+            "id": "5azWSYXVoLKYKHlR5zNJ7i",
+            "name": "Sharry Mann",
+            "type": "artist",
+            "uri": "spotify:artist:5azWSYXVoLKYKHlR5zNJ7i"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 259259,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JqxWMWeYvN95KMCnQ0XT1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JqxWMWeYvN95KMCnQ0XT1",
+        "id": "6JqxWMWeYvN95KMCnQ0XT1",
+        "is_local": false,
+        "name": "Hashtag",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JqxWMWeYvN95KMCnQ0XT1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Rv8GCmVHDCM209udsxi8T"
+}

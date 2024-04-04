@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1rCqdAJIN9FLewFD93T82L"
+      },
+      "href": "https://api.spotify.com/v1/artists/1rCqdAJIN9FLewFD93T82L",
+      "id": "1rCqdAJIN9FLewFD93T82L",
+      "name": "Kinder Malo",
+      "type": "artist",
+      "uri": "spotify:artist:1rCqdAJIN9FLewFD93T82L"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e"
+      },
+      "href": "https://api.spotify.com/v1/artists/6tqRPlUavLUI398ZRw7M6e",
+      "id": "6tqRPlUavLUI398ZRw7M6e",
+      "name": "yeanix",
+      "type": "artist",
+      "uri": "spotify:artist:6tqRPlUavLUI398ZRw7M6e"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Interscope Company",
+      "type": "C"
+    },
+    {
+      "text": "2022 Interscope Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495243007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7J5ZO4AWtOAzeecQZqbdZ9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7J5ZO4AWtOAzeecQZqbdZ9",
+  "id": "7J5ZO4AWtOAzeecQZqbdZ9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733925c7edeab01ef7c6a81e88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023925c7edeab01ef7c6a81e88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513925c7edeab01ef7c6a81e88",
+      "width": 64
+    }
+  ],
+  "label": "Interscope Company",
+  "name": "My Humps (Club Remix)",
+  "popularity": 0,
+  "release_date": "2022-02-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7J5ZO4AWtOAzeecQZqbdZ9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rCqdAJIN9FLewFD93T82L"
+            },
+            "href": "https://api.spotify.com/v1/artists/1rCqdAJIN9FLewFD93T82L",
+            "id": "1rCqdAJIN9FLewFD93T82L",
+            "name": "Kinder Malo",
+            "type": "artist",
+            "uri": "spotify:artist:1rCqdAJIN9FLewFD93T82L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tqRPlUavLUI398ZRw7M6e",
+            "id": "6tqRPlUavLUI398ZRw7M6e",
+            "name": "yeanix",
+            "type": "artist",
+            "uri": "spotify:artist:6tqRPlUavLUI398ZRw7M6e"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167758,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ut8RdccIkvN9vjQkSNG1m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ut8RdccIkvN9vjQkSNG1m",
+        "id": "6ut8RdccIkvN9vjQkSNG1m",
+        "is_local": false,
+        "name": "My Humps - Club Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ut8RdccIkvN9vjQkSNG1m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7J5ZO4AWtOAzeecQZqbdZ9"
+}

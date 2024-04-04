@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hyqLeiGSTDD33TF3s59UQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hyqLeiGSTDD33TF3s59UQ",
+      "id": "1hyqLeiGSTDD33TF3s59UQ",
+      "name": "Digital Lab",
+      "type": "artist",
+      "uri": "spotify:artist:1hyqLeiGSTDD33TF3s59UQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wLEGuZ9XapTanCJdXFeQJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wLEGuZ9XapTanCJdXFeQJ",
+      "id": "0wLEGuZ9XapTanCJdXFeQJ",
+      "name": "MITS",
+      "type": "artist",
+      "uri": "spotify:artist:0wLEGuZ9XapTanCJdXFeQJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Vicious Recordings Pty Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2014 Vicious Recordings Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9330461026266"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3PJb9pe94MMwjK6lWKnHnc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3PJb9pe94MMwjK6lWKnHnc",
+  "id": "3PJb9pe94MMwjK6lWKnHnc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310964910a92c91e356543869",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210964910a92c91e356543869",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110964910a92c91e356543869",
+      "width": 64
+    }
+  ],
+  "label": "Vicious Recordings Pty Ltd",
+  "name": "Here We Go",
+  "popularity": 0,
+  "release_date": "2014-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3PJb9pe94MMwjK6lWKnHnc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hyqLeiGSTDD33TF3s59UQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hyqLeiGSTDD33TF3s59UQ",
+            "id": "1hyqLeiGSTDD33TF3s59UQ",
+            "name": "Digital Lab",
+            "type": "artist",
+            "uri": "spotify:artist:1hyqLeiGSTDD33TF3s59UQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0wLEGuZ9XapTanCJdXFeQJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0wLEGuZ9XapTanCJdXFeQJ",
+            "id": "0wLEGuZ9XapTanCJdXFeQJ",
+            "name": "MITS",
+            "type": "artist",
+            "uri": "spotify:artist:0wLEGuZ9XapTanCJdXFeQJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 312823,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tLQszJvF2BeN8QohOPaXX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tLQszJvF2BeN8QohOPaXX",
+        "id": "2tLQszJvF2BeN8QohOPaXX",
+        "is_local": false,
+        "name": "Here We Go - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2tLQszJvF2BeN8QohOPaXX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3PJb9pe94MMwjK6lWKnHnc"
+}

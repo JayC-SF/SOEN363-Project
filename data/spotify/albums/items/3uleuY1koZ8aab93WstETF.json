@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Ebt7JHILWJCE7aR7JLFB2",
+      "id": "6Ebt7JHILWJCE7aR7JLFB2",
+      "name": "Krafty Kuts",
+      "type": "artist",
+      "uri": "spotify:artist:6Ebt7JHILWJCE7aR7JLFB2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Instant Vibes",
+      "type": "C"
+    },
+    {
+      "text": "Instant Vibes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5051142094391"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uleuY1koZ8aab93WstETF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3uleuY1koZ8aab93WstETF",
+  "id": "3uleuY1koZ8aab93WstETF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fce77d727f17bae651ebada2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fce77d727f17bae651ebada2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fce77d727f17bae651ebada2",
+      "width": 64
+    }
+  ],
+  "label": "Instant Vibes",
+  "name": "Dope 2 Drop",
+  "popularity": 0,
+  "release_date": "2014-12-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3uleuY1koZ8aab93WstETF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Ebt7JHILWJCE7aR7JLFB2",
+            "id": "6Ebt7JHILWJCE7aR7JLFB2",
+            "name": "Krafty Kuts",
+            "type": "artist",
+            "uri": "spotify:artist:6Ebt7JHILWJCE7aR7JLFB2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 306885,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73yARuEAW84iRWrbNyDF6m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73yARuEAW84iRWrbNyDF6m",
+        "id": "73yARuEAW84iRWrbNyDF6m",
+        "is_local": false,
+        "name": "Dope 2 Drop",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:73yARuEAW84iRWrbNyDF6m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3uleuY1koZ8aab93WstETF"
+}

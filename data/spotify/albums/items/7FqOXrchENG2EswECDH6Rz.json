@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "name": "Arctic Monkeys",
+      "type": "artist",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2005 Domino Recording Co Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2005 Domino Recording Co Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5034202121640"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7FqOXrchENG2EswECDH6Rz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7FqOXrchENG2EswECDH6Rz",
+  "id": "7FqOXrchENG2EswECDH6Rz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733dbf3b572ba3d23105efa8ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023dbf3b572ba3d23105efa8ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513dbf3b572ba3d23105efa8ce",
+      "width": 64
+    }
+  ],
+  "label": "Domino Recording Co",
+  "name": "When The Sun Goes Down",
+  "popularity": 0,
+  "release_date": "2006-01-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7FqOXrchENG2EswECDH6Rz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+            "id": "7Ln80lUS6He07XvHI8qqHH",
+            "name": "Arctic Monkeys",
+            "type": "artist",
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KmQMYbLA5emS4ameZuj5Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KmQMYbLA5emS4ameZuj5Q",
+        "id": "4KmQMYbLA5emS4ameZuj5Q",
+        "is_local": false,
+        "name": "When The Sun Goes Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4KmQMYbLA5emS4ameZuj5Q"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+            "id": "7Ln80lUS6He07XvHI8qqHH",
+            "name": "Arctic Monkeys",
+            "type": "artist",
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4D4Zvv4s6HcDfI8umJf6H2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4D4Zvv4s6HcDfI8umJf6H2",
+        "id": "4D4Zvv4s6HcDfI8umJf6H2",
+        "is_local": false,
+        "name": "Settle For A Draw",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4D4Zvv4s6HcDfI8umJf6H2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:7FqOXrchENG2EswECDH6Rz"
+}

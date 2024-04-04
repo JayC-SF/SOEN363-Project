@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+      "id": "3Ayl7mCk0nScecqOzvNp6s",
+      "name": "Jimmy Eat World",
+      "type": "artist",
+      "uri": "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2001 SKG Music L.L.C.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2001 SKG Music L.L.C.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00600445087620"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GeRmfRahq3LeximdzRE7f"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GeRmfRahq3LeximdzRE7f",
+  "id": "1GeRmfRahq3LeximdzRE7f",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9722e28178930c9b9d1f744",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a9722e28178930c9b9d1f744",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a9722e28178930c9b9d1f744",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Division Polydor",
+  "name": "The Middle (International Version)",
+  "popularity": 0,
+  "release_date": "2001-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GeRmfRahq3LeximdzRE7f/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+            "id": "3Ayl7mCk0nScecqOzvNp6s",
+            "name": "Jimmy Eat World",
+            "type": "artist",
+            "uri": "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30FHk0GVCbVwoC6jmJTg0r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30FHk0GVCbVwoC6jmJTg0r",
+        "id": "30FHk0GVCbVwoC6jmJTg0r",
+        "is_local": false,
+        "name": "The Middle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:30FHk0GVCbVwoC6jmJTg0r"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+            "id": "3Ayl7mCk0nScecqOzvNp6s",
+            "name": "Jimmy Eat World",
+            "type": "artist",
+            "uri": "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C0f8eijmDhm9poZLFqEbw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3C0f8eijmDhm9poZLFqEbw",
+        "id": "3C0f8eijmDhm9poZLFqEbw",
+        "is_local": false,
+        "name": "No Sensitivity - Non-Album Version",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3C0f8eijmDhm9poZLFqEbw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1GeRmfRahq3LeximdzRE7f"
+}

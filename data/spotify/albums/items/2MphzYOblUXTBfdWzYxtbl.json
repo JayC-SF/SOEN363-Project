@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+      },
+      "href": "https://api.spotify.com/v1/artists/38dDBc8guRXP1fjvothwyi",
+      "id": "38dDBc8guRXP1fjvothwyi",
+      "name": "Noah Thompson",
+      "type": "artist",
+      "uri": "spotify:artist:38dDBc8guRXP1fjvothwyi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 19 Recordings, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 19 Recordings, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538819663"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2MphzYOblUXTBfdWzYxtbl",
+  "id": "2MphzYOblUXTBfdWzYxtbl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736943df519ee0762bb0800aea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026943df519ee0762bb0800aea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516943df519ee0762bb0800aea",
+      "width": 64
+    }
+  ],
+  "label": "BMG Rights Management (US) LLC",
+  "name": "One Day Tonight",
+  "popularity": 5,
+  "release_date": "2022-05-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2MphzYOblUXTBfdWzYxtbl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+            },
+            "href": "https://api.spotify.com/v1/artists/38dDBc8guRXP1fjvothwyi",
+            "id": "38dDBc8guRXP1fjvothwyi",
+            "name": "Noah Thompson",
+            "type": "artist",
+            "uri": "spotify:artist:38dDBc8guRXP1fjvothwyi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165508,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45MQs7EiPglAvyYg9fkjzA",
+        "id": "45MQs7EiPglAvyYg9fkjzA",
+        "is_local": false,
+        "name": "One Day Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:45MQs7EiPglAvyYg9fkjzA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2MphzYOblUXTBfdWzYxtbl"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+      },
+      "href": "https://api.spotify.com/v1/artists/3yzRiNMZdTsSUgplcyYZ4i",
+      "id": "3yzRiNMZdTsSUgplcyYZ4i",
+      "name": "Blanco Brown",
+      "type": "artist",
+      "uri": "spotify:artist:3yzRiNMZdTsSUgplcyYZ4i"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 TrailerTrapMusic LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 TrailerTrapMusic LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538505528"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/00xSEAMEAPTF17t2rdOFYF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/00xSEAMEAPTF17t2rdOFYF",
+  "id": "00xSEAMEAPTF17t2rdOFYF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bcb80f1284364f71eb7cf9e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bcb80f1284364f71eb7cf9e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bcb80f1284364f71eb7cf9e2",
+      "width": 64
+    }
+  ],
+  "label": "Broken Bow Records",
+  "name": "The Git Up",
+  "popularity": 0,
+  "release_date": "2019-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/00xSEAMEAPTF17t2rdOFYF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+            },
+            "href": "https://api.spotify.com/v1/artists/3yzRiNMZdTsSUgplcyYZ4i",
+            "id": "3yzRiNMZdTsSUgplcyYZ4i",
+            "name": "Blanco Brown",
+            "type": "artist",
+            "uri": "spotify:artist:3yzRiNMZdTsSUgplcyYZ4i"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200593,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dW1VZPcFqB4n0P08rGDgm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dW1VZPcFqB4n0P08rGDgm",
+        "id": "5dW1VZPcFqB4n0P08rGDgm",
+        "is_local": false,
+        "name": "The Git Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5dW1VZPcFqB4n0P08rGDgm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:00xSEAMEAPTF17t2rdOFYF"
+}

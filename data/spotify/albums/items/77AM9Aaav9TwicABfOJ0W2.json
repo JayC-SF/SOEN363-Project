@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+      },
+      "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+      "id": "0TnOYISbd1XYRBk9myaseg",
+      "name": "Pitbull",
+      "type": "artist",
+      "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+      "id": "6LqNN22kT3074XbTVUrhzX",
+      "name": "Kesha",
+      "type": "artist",
+      "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+    }
+  ],
+  "available_markets": [
+    "GB"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2013 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444355186"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/77AM9Aaav9TwicABfOJ0W2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/77AM9Aaav9TwicABfOJ0W2",
+  "id": "77AM9Aaav9TwicABfOJ0W2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a935bd9f1db271e5ccf1d3f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a935bd9f1db271e5ccf1d3f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a935bd9f1db271e5ccf1d3f8",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "Timber",
+  "popularity": 34,
+  "release_date": "2013-12-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/77AM9Aaav9TwicABfOJ0W2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+            "id": "0TnOYISbd1XYRBk9myaseg",
+            "name": "Pitbull",
+            "type": "artist",
+            "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+            "id": "6LqNN22kT3074XbTVUrhzX",
+            "name": "Kesha",
+            "type": "artist",
+            "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+          }
+        ],
+        "available_markets": [
+          "GB"
+        ],
+        "disc_number": 1,
+        "duration_ms": 204280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40ia0VswpL9SUuPdfLyabK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40ia0VswpL9SUuPdfLyabK",
+        "id": "40ia0VswpL9SUuPdfLyabK",
+        "is_local": false,
+        "name": "Timber",
+        "preview_url": "https://p.scdn.co/mp3-preview/54825c719d56bd5b737ac7c1aa3ce41ad3eef338?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40ia0VswpL9SUuPdfLyabK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:77AM9Aaav9TwicABfOJ0W2"
+}

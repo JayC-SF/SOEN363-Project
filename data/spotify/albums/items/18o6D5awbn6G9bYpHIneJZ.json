@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07GczQ6OLSjvh0qTNn2w9Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/07GczQ6OLSjvh0qTNn2w9Z",
+      "id": "07GczQ6OLSjvh0qTNn2w9Z",
+      "name": "Axel Wikner",
+      "type": "artist",
+      "uri": "spotify:artist:07GczQ6OLSjvh0qTNn2w9Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Ninetone Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Ninetone Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "07320470190586"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/18o6D5awbn6G9bYpHIneJZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/18o6D5awbn6G9bYpHIneJZ",
+  "id": "18o6D5awbn6G9bYpHIneJZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f7557c11fc1e64635fcfc75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f7557c11fc1e64635fcfc75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f7557c11fc1e64635fcfc75",
+      "width": 64
+    }
+  ],
+  "label": "Ninetone Records",
+  "name": "Sunburst",
+  "popularity": 0,
+  "release_date": "2014-06-13",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/18o6D5awbn6G9bYpHIneJZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07GczQ6OLSjvh0qTNn2w9Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/07GczQ6OLSjvh0qTNn2w9Z",
+            "id": "07GczQ6OLSjvh0qTNn2w9Z",
+            "name": "Axel Wikner",
+            "type": "artist",
+            "uri": "spotify:artist:07GczQ6OLSjvh0qTNn2w9Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168068,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SuwDNoT7nMWLkrPQIN2BY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SuwDNoT7nMWLkrPQIN2BY",
+        "id": "3SuwDNoT7nMWLkrPQIN2BY",
+        "is_local": false,
+        "name": "Sunburst - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SuwDNoT7nMWLkrPQIN2BY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07GczQ6OLSjvh0qTNn2w9Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/07GczQ6OLSjvh0qTNn2w9Z",
+            "id": "07GczQ6OLSjvh0qTNn2w9Z",
+            "name": "Axel Wikner",
+            "type": "artist",
+            "uri": "spotify:artist:07GczQ6OLSjvh0qTNn2w9Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hC6plB3aoZSS37HibSDmz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hC6plB3aoZSS37HibSDmz",
+        "id": "7hC6plB3aoZSS37HibSDmz",
+        "is_local": false,
+        "name": "Sunburst - Extended Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7hC6plB3aoZSS37HibSDmz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:18o6D5awbn6G9bYpHIneJZ"
+}

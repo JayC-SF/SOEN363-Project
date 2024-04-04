@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yJrGafkJqgcNXUr8aJ9Da",
+      "id": "4yJrGafkJqgcNXUr8aJ9Da",
+      "name": "Mylesxiety",
+      "type": "artist",
+      "uri": "spotify:artist:4yJrGafkJqgcNXUr8aJ9Da"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Mylesxiety",
+      "type": "C"
+    },
+    {
+      "text": "2023 Mylesxiety",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198090991930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4VIeC4RDhny3moLn3WF1E1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4VIeC4RDhny3moLn3WF1E1",
+  "id": "4VIeC4RDhny3moLn3WF1E1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3442d787f3ec7b67e339a96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3442d787f3ec7b67e339a96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3442d787f3ec7b67e339a96",
+      "width": 64
+    }
+  ],
+  "label": "Mylesxiety",
+  "name": "It will be alright",
+  "popularity": 4,
+  "release_date": "2023-10-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4VIeC4RDhny3moLn3WF1E1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da"
+            },
+            "href": "https://api.spotify.com/v1/artists/4yJrGafkJqgcNXUr8aJ9Da",
+            "id": "4yJrGafkJqgcNXUr8aJ9Da",
+            "name": "Mylesxiety",
+            "type": "artist",
+            "uri": "spotify:artist:4yJrGafkJqgcNXUr8aJ9Da"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 124826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cUhw29LwSCvThBMcsG2KC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cUhw29LwSCvThBMcsG2KC",
+        "id": "5cUhw29LwSCvThBMcsG2KC",
+        "is_local": false,
+        "name": "It will be alright",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5cUhw29LwSCvThBMcsG2KC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4VIeC4RDhny3moLn3WF1E1"
+}

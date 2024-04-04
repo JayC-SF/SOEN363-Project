@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+      },
+      "href": "https://api.spotify.com/v1/artists/7kozeGeawfP7IEEL6dddrM",
+      "id": "7kozeGeawfP7IEEL6dddrM",
+      "name": "Kataklysm",
+      "type": "artist",
+      "uri": "spotify:artist:7kozeGeawfP7IEEL6dddrM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Nuclear Blast",
+      "type": "C"
+    },
+    {
+      "text": "2018 Nuclear Blast",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "727361443566"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0v3B3dGGD4rAk6CZDqjNGt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0v3B3dGGD4rAk6CZDqjNGt",
+  "id": "0v3B3dGGD4rAk6CZDqjNGt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735363a882e34904ed88825036",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025363a882e34904ed88825036",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515363a882e34904ed88825036",
+      "width": 64
+    }
+  ],
+  "label": "Nuclear Blast",
+  "name": "Narcissist",
+  "popularity": 0,
+  "release_date": "2018-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0v3B3dGGD4rAk6CZDqjNGt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kozeGeawfP7IEEL6dddrM",
+            "id": "7kozeGeawfP7IEEL6dddrM",
+            "name": "Kataklysm",
+            "type": "artist",
+            "uri": "spotify:artist:7kozeGeawfP7IEEL6dddrM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05cgsSEIazdumuP0oRJnLH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/05cgsSEIazdumuP0oRJnLH",
+        "id": "05cgsSEIazdumuP0oRJnLH",
+        "is_local": false,
+        "name": "Narcissist",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:05cgsSEIazdumuP0oRJnLH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0v3B3dGGD4rAk6CZDqjNGt"
+}

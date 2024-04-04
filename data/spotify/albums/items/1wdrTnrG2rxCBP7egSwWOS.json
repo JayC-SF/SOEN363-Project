@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+      },
+      "href": "https://api.spotify.com/v1/artists/43sKBGtNLR3Ovs81KWzQg7",
+      "id": "43sKBGtNLR3Ovs81KWzQg7",
+      "name": "Laura Zocca",
+      "type": "artist",
+      "uri": "spotify:artist:43sKBGtNLR3Ovs81KWzQg7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Laura Zocca under exclusive license to FRTYFVE",
+      "type": "C"
+    },
+    {
+      "text": "2022 Laura Zocca",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316471467130"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1wdrTnrG2rxCBP7egSwWOS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1wdrTnrG2rxCBP7egSwWOS",
+  "id": "1wdrTnrG2rxCBP7egSwWOS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273598854806c39287277eeea9d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02598854806c39287277eeea9d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851598854806c39287277eeea9d",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "Bullet",
+  "popularity": 0,
+  "release_date": "2022-11-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1wdrTnrG2rxCBP7egSwWOS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+            },
+            "href": "https://api.spotify.com/v1/artists/43sKBGtNLR3Ovs81KWzQg7",
+            "id": "43sKBGtNLR3Ovs81KWzQg7",
+            "name": "Laura Zocca",
+            "type": "artist",
+            "uri": "spotify:artist:43sKBGtNLR3Ovs81KWzQg7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203294,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KNgUJkbNyByHwcIyvMFYa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KNgUJkbNyByHwcIyvMFYa",
+        "id": "0KNgUJkbNyByHwcIyvMFYa",
+        "is_local": false,
+        "name": "Bullet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0KNgUJkbNyByHwcIyvMFYa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1wdrTnrG2rxCBP7egSwWOS"
+}

@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YLQaW1UU3mrVetC8gNkg5",
+      "id": "4YLQaW1UU3mrVetC8gNkg5",
+      "name": "3LAU",
+      "type": "artist",
+      "uri": "spotify:artist:4YLQaW1UU3mrVetC8gNkg5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+      "id": "4LZ4De2MoO3lP6QaNCfvcu",
+      "name": "Said The Sky",
+      "type": "artist",
+      "uri": "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kGEd3OUoUWgCmu9cIaBXV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kGEd3OUoUWgCmu9cIaBXV",
+      "id": "2kGEd3OUoUWgCmu9cIaBXV",
+      "name": "N\u00c9ONH\u00c8ART",
+      "type": "artist",
+      "uri": "spotify:artist:2kGEd3OUoUWgCmu9cIaBXV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 BLUME",
+      "type": "C"
+    },
+    {
+      "text": "2016 BLUME",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526771024"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/41B7cBcRZDSE62bo0eoBTW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/41B7cBcRZDSE62bo0eoBTW",
+  "id": "41B7cBcRZDSE62bo0eoBTW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c7e3bd4745ca214fd69cf304",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c7e3bd4745ca214fd69cf304",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c7e3bd4745ca214fd69cf304",
+      "width": 64
+    }
+  ],
+  "label": "BLUME",
+  "name": "Fire",
+  "popularity": 0,
+  "release_date": "2016-10-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/41B7cBcRZDSE62bo0eoBTW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YLQaW1UU3mrVetC8gNkg5",
+            "id": "4YLQaW1UU3mrVetC8gNkg5",
+            "name": "3LAU",
+            "type": "artist",
+            "uri": "spotify:artist:4YLQaW1UU3mrVetC8gNkg5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+            "id": "4LZ4De2MoO3lP6QaNCfvcu",
+            "name": "Said The Sky",
+            "type": "artist",
+            "uri": "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGEd3OUoUWgCmu9cIaBXV"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGEd3OUoUWgCmu9cIaBXV",
+            "id": "2kGEd3OUoUWgCmu9cIaBXV",
+            "name": "N\u00c9ONH\u00c8ART",
+            "type": "artist",
+            "uri": "spotify:artist:2kGEd3OUoUWgCmu9cIaBXV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204247,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TcAHa91Y6t167Q43sKHrq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TcAHa91Y6t167Q43sKHrq",
+        "id": "3TcAHa91Y6t167Q43sKHrq",
+        "is_local": false,
+        "name": "Fire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3TcAHa91Y6t167Q43sKHrq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:41B7cBcRZDSE62bo0eoBTW"
+}

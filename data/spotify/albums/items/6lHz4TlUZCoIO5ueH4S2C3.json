@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fOzsBf1OZoSnthkylZSGU"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fOzsBf1OZoSnthkylZSGU",
+      "id": "7fOzsBf1OZoSnthkylZSGU",
+      "name": "PABLO BENDR",
+      "type": "artist",
+      "uri": "spotify:artist:7fOzsBf1OZoSnthkylZSGU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 PABLO BENDR",
+      "type": "C"
+    },
+    {
+      "text": "2017 PABLO BENDR",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1827849276361"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lHz4TlUZCoIO5ueH4S2C3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6lHz4TlUZCoIO5ueH4S2C3",
+  "id": "6lHz4TlUZCoIO5ueH4S2C3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369e8a32aeea5c48533800e0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269e8a32aeea5c48533800e0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169e8a32aeea5c48533800e0d",
+      "width": 64
+    }
+  ],
+  "label": "PABLO BENDR",
+  "name": "Coldplay - Fix You (Remix)",
+  "popularity": 0,
+  "release_date": "2018-12-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6lHz4TlUZCoIO5ueH4S2C3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fOzsBf1OZoSnthkylZSGU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fOzsBf1OZoSnthkylZSGU",
+            "id": "7fOzsBf1OZoSnthkylZSGU",
+            "name": "PABLO BENDR",
+            "type": "artist",
+            "uri": "spotify:artist:7fOzsBf1OZoSnthkylZSGU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231944,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5I0kBT1l5QHsDoQnA4nbne"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5I0kBT1l5QHsDoQnA4nbne",
+        "id": "5I0kBT1l5QHsDoQnA4nbne",
+        "is_local": false,
+        "name": "Coldplay - Fix You (Remix)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5I0kBT1l5QHsDoQnA4nbne"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6lHz4TlUZCoIO5ueH4S2C3"
+}

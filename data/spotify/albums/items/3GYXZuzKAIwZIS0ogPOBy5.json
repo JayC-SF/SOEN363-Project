@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+      "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+      "name": "BIGBANG",
+      "type": "artist",
+      "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 YG Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2015 YG Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888272023367"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3GYXZuzKAIwZIS0ogPOBy5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3GYXZuzKAIwZIS0ogPOBy5",
+  "id": "3GYXZuzKAIwZIS0ogPOBy5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd70be0934b155ffd88a8a47",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd70be0934b155ffd88a8a47",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd70be0934b155ffd88a8a47",
+      "width": 64
+    }
+  ],
+  "label": "YG Entertainment",
+  "name": "M",
+  "popularity": 0,
+  "release_date": "2015-05-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3GYXZuzKAIwZIS0ogPOBy5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+            "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+            "name": "BIGBANG",
+            "type": "artist",
+            "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219428,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53gAeYCSCdXiWX7IfvP3oo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53gAeYCSCdXiWX7IfvP3oo",
+        "id": "53gAeYCSCdXiWX7IfvP3oo",
+        "is_local": false,
+        "name": "LOSER",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:53gAeYCSCdXiWX7IfvP3oo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+            "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+            "name": "BIGBANG",
+            "type": "artist",
+            "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169482,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SLZDeEuyeOCHuCQAG8Pf0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4SLZDeEuyeOCHuCQAG8Pf0",
+        "id": "4SLZDeEuyeOCHuCQAG8Pf0",
+        "is_local": false,
+        "name": "BAE BAE",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4SLZDeEuyeOCHuCQAG8Pf0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3GYXZuzKAIwZIS0ogPOBy5"
+}

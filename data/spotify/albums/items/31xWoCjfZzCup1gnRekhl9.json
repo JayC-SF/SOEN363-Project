@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kQfGeicc9EiQMzAYX0f9U",
+      "id": "6kQfGeicc9EiQMzAYX0f9U",
+      "name": "ONEFOUR",
+      "type": "artist",
+      "uri": "spotify:artist:6kQfGeicc9EiQMzAYX0f9U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 ONEFOUR",
+      "type": "C"
+    },
+    {
+      "text": "2019 ONEFOUR",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859735562532"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/31xWoCjfZzCup1gnRekhl9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/31xWoCjfZzCup1gnRekhl9",
+  "id": "31xWoCjfZzCup1gnRekhl9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c99d4b759f89cd287a35e823",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c99d4b759f89cd287a35e823",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c99d4b759f89cd287a35e823",
+      "width": 64
+    }
+  ],
+  "label": "ONEFOUR",
+  "name": "In the Beginning",
+  "popularity": 20,
+  "release_date": "2019-11-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/31xWoCjfZzCup1gnRekhl9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kQfGeicc9EiQMzAYX0f9U",
+            "id": "6kQfGeicc9EiQMzAYX0f9U",
+            "name": "ONEFOUR",
+            "type": "artist",
+            "uri": "spotify:artist:6kQfGeicc9EiQMzAYX0f9U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238297,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y4lKNyzLxFAQh2BZCYgG0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Y4lKNyzLxFAQh2BZCYgG0",
+        "id": "1Y4lKNyzLxFAQh2BZCYgG0",
+        "is_local": false,
+        "name": "In the Beginning",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Y4lKNyzLxFAQh2BZCYgG0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:31xWoCjfZzCup1gnRekhl9"
+}

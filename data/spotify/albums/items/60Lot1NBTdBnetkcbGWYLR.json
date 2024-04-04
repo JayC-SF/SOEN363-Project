@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NhdGz9EDv2FeUw6udu2g1",
+      "id": "2NhdGz9EDv2FeUw6udu2g1",
+      "name": "The Wanted",
+      "type": "artist",
+      "uri": "spotify:artist:2NhdGz9EDv2FeUw6udu2g1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Global Talent Music Recordings Ltd, under exclusive licence to Universal Island Records, a division of Universal Music Operations Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Global Talent Music Recordings Ltd, under exclusive licence to Universal Island Records, a division of Universal Music Operations Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537475315"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/60Lot1NBTdBnetkcbGWYLR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/60Lot1NBTdBnetkcbGWYLR",
+  "id": "60Lot1NBTdBnetkcbGWYLR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273871ffb3268cf814ebd82929e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02871ffb3268cf814ebd82929e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851871ffb3268cf814ebd82929e",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "We Own The Night",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/60Lot1NBTdBnetkcbGWYLR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NhdGz9EDv2FeUw6udu2g1",
+            "id": "2NhdGz9EDv2FeUw6udu2g1",
+            "name": "The Wanted",
+            "type": "artist",
+            "uri": "spotify:artist:2NhdGz9EDv2FeUw6udu2g1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205069,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FZTqomD07F1I2OVIJZz81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FZTqomD07F1I2OVIJZz81",
+        "id": "1FZTqomD07F1I2OVIJZz81",
+        "is_local": false,
+        "name": "We Own The Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1FZTqomD07F1I2OVIJZz81"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:60Lot1NBTdBnetkcbGWYLR"
+}

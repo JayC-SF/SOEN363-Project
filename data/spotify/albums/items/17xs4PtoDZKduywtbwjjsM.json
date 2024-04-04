@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id": "1KpCi9BOfviCVhmpI4G2sY",
+      "name": "Tchami",
+      "type": "artist",
+      "uri": "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2014 Ministry of Sound Recordings Ltd under exclusive license from Fool's Gold Records USA.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5051823101578"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/17xs4PtoDZKduywtbwjjsM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/17xs4PtoDZKduywtbwjjsM",
+  "id": "17xs4PtoDZKduywtbwjjsM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311e073d22a525a295eee04b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211e073d22a525a295eee04b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111e073d22a525a295eee04b7",
+      "width": 64
+    }
+  ],
+  "label": "Ministry of Sound Recordings",
+  "name": "Promesses (feat. Kaleem Taylor)",
+  "popularity": 0,
+  "release_date": "2015-01-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/17xs4PtoDZKduywtbwjjsM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+            "id": "1KpCi9BOfviCVhmpI4G2sY",
+            "name": "Tchami",
+            "type": "artist",
+            "uri": "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+            },
+            "href": "https://api.spotify.com/v1/artists/4eQKo2fvEqEbdopHhSjlug",
+            "id": "4eQKo2fvEqEbdopHhSjlug",
+            "name": "Kaleem Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4eQKo2fvEqEbdopHhSjlug"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159572,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QEhJDZuVfhsTMVBP5Ws45"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QEhJDZuVfhsTMVBP5Ws45",
+        "id": "1QEhJDZuVfhsTMVBP5Ws45",
+        "is_local": false,
+        "name": "Promesses (feat. Kaleem Taylor)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1QEhJDZuVfhsTMVBP5Ws45"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:17xs4PtoDZKduywtbwjjsM"
+}

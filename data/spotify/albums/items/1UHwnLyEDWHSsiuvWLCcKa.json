@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6V7sNDLIQxlTPxw1gvEawJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6V7sNDLIQxlTPxw1gvEawJ",
+      "id": "6V7sNDLIQxlTPxw1gvEawJ",
+      "name": "El Ninii",
+      "type": "artist",
+      "uri": "spotify:artist:6V7sNDLIQxlTPxw1gvEawJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 El Nini 09",
+      "type": "C"
+    },
+    {
+      "text": "2023 El Nini 09",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "789550911263"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1UHwnLyEDWHSsiuvWLCcKa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1UHwnLyEDWHSsiuvWLCcKa",
+  "id": "1UHwnLyEDWHSsiuvWLCcKa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b900b969dc7865ae0c85c67a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b900b969dc7865ae0c85c67a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b900b969dc7865ae0c85c67a",
+      "width": 64
+    }
+  ],
+  "label": "El Nini 09",
+  "name": "El Av",
+  "popularity": 1,
+  "release_date": "2023-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1UHwnLyEDWHSsiuvWLCcKa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6V7sNDLIQxlTPxw1gvEawJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6V7sNDLIQxlTPxw1gvEawJ",
+            "id": "6V7sNDLIQxlTPxw1gvEawJ",
+            "name": "El Ninii",
+            "type": "artist",
+            "uri": "spotify:artist:6V7sNDLIQxlTPxw1gvEawJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272404,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1b5jg9SoUeEMRsZyudgo6c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1b5jg9SoUeEMRsZyudgo6c",
+        "id": "1b5jg9SoUeEMRsZyudgo6c",
+        "is_local": false,
+        "name": "El Av",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1b5jg9SoUeEMRsZyudgo6c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1UHwnLyEDWHSsiuvWLCcKa"
+}

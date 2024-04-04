@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3A9B6c1CrSPauiOblw7pWz",
+      "id": "3A9B6c1CrSPauiOblw7pWz",
+      "name": "Nico Santos",
+      "type": "artist",
+      "uri": "spotify:artist:3A9B6c1CrSPauiOblw7pWz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Polydor/Island, a division of Universal Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 FBBD Music, under exclusive license to Polydor/Island, a division of Universal Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567027072"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4xkfGQYu4OIPiAqant9Az5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4xkfGQYu4OIPiAqant9Az5",
+  "id": "4xkfGQYu4OIPiAqant9Az5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa34287c4d0b3d82667054a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa34287c4d0b3d82667054a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa34287c4d0b3d82667054a0",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Rooftop",
+  "popularity": 0,
+  "release_date": "2017-09-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4xkfGQYu4OIPiAqant9Az5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+            },
+            "href": "https://api.spotify.com/v1/artists/3A9B6c1CrSPauiOblw7pWz",
+            "id": "3A9B6c1CrSPauiOblw7pWz",
+            "name": "Nico Santos",
+            "type": "artist",
+            "uri": "spotify:artist:3A9B6c1CrSPauiOblw7pWz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197114,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/637yH6Qs3wXdgjPjO7QGdr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/637yH6Qs3wXdgjPjO7QGdr",
+        "id": "637yH6Qs3wXdgjPjO7QGdr",
+        "is_local": false,
+        "name": "Rooftop",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:637yH6Qs3wXdgjPjO7QGdr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4xkfGQYu4OIPiAqant9Az5"
+}

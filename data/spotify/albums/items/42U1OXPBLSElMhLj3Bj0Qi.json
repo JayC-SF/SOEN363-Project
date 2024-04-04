@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VNQJiKGjToroNY0f6b38h"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VNQJiKGjToroNY0f6b38h",
+      "id": "1VNQJiKGjToroNY0f6b38h",
+      "name": "Suzi Chavo",
+      "type": "artist",
+      "uri": "spotify:artist:1VNQJiKGjToroNY0f6b38h"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Suzi",
+      "type": "C"
+    },
+    {
+      "text": "2020 Suzi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197727430217"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42U1OXPBLSElMhLj3Bj0Qi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42U1OXPBLSElMhLj3Bj0Qi",
+  "id": "42U1OXPBLSElMhLj3Bj0Qi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b6a5400afcce62b76017e76",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b6a5400afcce62b76017e76",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b6a5400afcce62b76017e76",
+      "width": 64
+    }
+  ],
+  "label": "Karioski",
+  "name": "The Lost Soul Down",
+  "popularity": 0,
+  "release_date": "2020-04-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42U1OXPBLSElMhLj3Bj0Qi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VNQJiKGjToroNY0f6b38h"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VNQJiKGjToroNY0f6b38h",
+            "id": "1VNQJiKGjToroNY0f6b38h",
+            "name": "Suzi Chavo",
+            "type": "artist",
+            "uri": "spotify:artist:1VNQJiKGjToroNY0f6b38h"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211279,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JQhU19AAgbqTE8LvGkyne"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JQhU19AAgbqTE8LvGkyne",
+        "id": "6JQhU19AAgbqTE8LvGkyne",
+        "is_local": false,
+        "name": "The Lost Soul Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JQhU19AAgbqTE8LvGkyne"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42U1OXPBLSElMhLj3Bj0Qi"
+}

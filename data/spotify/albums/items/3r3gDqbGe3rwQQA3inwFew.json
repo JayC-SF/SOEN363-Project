@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1p6xaH4xi0R9OvmCuqHary"
+      },
+      "href": "https://api.spotify.com/v1/artists/1p6xaH4xi0R9OvmCuqHary",
+      "id": "1p6xaH4xi0R9OvmCuqHary",
+      "name": "VCTRYS",
+      "type": "artist",
+      "uri": "spotify:artist:1p6xaH4xi0R9OvmCuqHary"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Position Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Position Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526635937"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3r3gDqbGe3rwQQA3inwFew"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3r3gDqbGe3rwQQA3inwFew",
+  "id": "3r3gDqbGe3rwQQA3inwFew",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273687fa63ab1614d5474c23b84",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02687fa63ab1614d5474c23b84",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851687fa63ab1614d5474c23b84",
+      "width": 64
+    }
+  ],
+  "label": "Position Music",
+  "name": "Black Magic Woman",
+  "popularity": 0,
+  "release_date": "2018-11-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3r3gDqbGe3rwQQA3inwFew/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1p6xaH4xi0R9OvmCuqHary"
+            },
+            "href": "https://api.spotify.com/v1/artists/1p6xaH4xi0R9OvmCuqHary",
+            "id": "1p6xaH4xi0R9OvmCuqHary",
+            "name": "VCTRYS",
+            "type": "artist",
+            "uri": "spotify:artist:1p6xaH4xi0R9OvmCuqHary"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187304,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dSBatBm4GTbcAdXx3cjai"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dSBatBm4GTbcAdXx3cjai",
+        "id": "5dSBatBm4GTbcAdXx3cjai",
+        "is_local": false,
+        "name": "Black Magic Woman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5dSBatBm4GTbcAdXx3cjai"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3r3gDqbGe3rwQQA3inwFew"
+}

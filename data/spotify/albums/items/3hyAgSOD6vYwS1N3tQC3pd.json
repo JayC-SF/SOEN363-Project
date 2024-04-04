@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+      },
+      "href": "https://api.spotify.com/v1/artists/7p9z8XOXVNeBNvs9EOxX2W",
+      "id": "7p9z8XOXVNeBNvs9EOxX2W",
+      "name": "Glokk40Spaz",
+      "type": "artist",
+      "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 EBG RECORDS",
+      "type": "C"
+    },
+    {
+      "text": "2022 EBG RECORDS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197145690132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3hyAgSOD6vYwS1N3tQC3pd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3hyAgSOD6vYwS1N3tQC3pd",
+  "id": "3hyAgSOD6vYwS1N3tQC3pd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c005e7b2029a932409e3708",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c005e7b2029a932409e3708",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c005e7b2029a932409e3708",
+      "width": 64
+    }
+  ],
+  "label": "EBG RECORDS",
+  "name": "Bad Man",
+  "popularity": 0,
+  "release_date": "2022-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3hyAgSOD6vYwS1N3tQC3pd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/7p9z8XOXVNeBNvs9EOxX2W",
+            "id": "7p9z8XOXVNeBNvs9EOxX2W",
+            "name": "Glokk40Spaz",
+            "type": "artist",
+            "uri": "spotify:artist:7p9z8XOXVNeBNvs9EOxX2W"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169240,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RhZdLHnlX7xnBb2KaofGL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RhZdLHnlX7xnBb2KaofGL",
+        "id": "5RhZdLHnlX7xnBb2KaofGL",
+        "is_local": false,
+        "name": "Bad Man",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RhZdLHnlX7xnBb2KaofGL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3hyAgSOD6vYwS1N3tQC3pd"
+}

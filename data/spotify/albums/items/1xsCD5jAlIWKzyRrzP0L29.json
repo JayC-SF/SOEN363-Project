@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ZHfoNoJGTIEavxh6j5fle"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ZHfoNoJGTIEavxh6j5fle",
+      "id": "6ZHfoNoJGTIEavxh6j5fle",
+      "name": "O.A.KLAY",
+      "type": "artist",
+      "uri": "spotify:artist:6ZHfoNoJGTIEavxh6j5fle"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 O.A.KLAY",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 O.A.KLAY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859759360121"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1xsCD5jAlIWKzyRrzP0L29"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1xsCD5jAlIWKzyRrzP0L29",
+  "id": "1xsCD5jAlIWKzyRrzP0L29",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f79dc4873ce02750b26cdd20",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f79dc4873ce02750b26cdd20",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f79dc4873ce02750b26cdd20",
+      "width": 64
+    }
+  ],
+  "label": "O.A.KLAY",
+  "name": "My self",
+  "popularity": 44,
+  "release_date": "2023-03-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1xsCD5jAlIWKzyRrzP0L29/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ZHfoNoJGTIEavxh6j5fle"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ZHfoNoJGTIEavxh6j5fle",
+            "id": "6ZHfoNoJGTIEavxh6j5fle",
+            "name": "O.A.KLAY",
+            "type": "artist",
+            "uri": "spotify:artist:6ZHfoNoJGTIEavxh6j5fle"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qe0oEyRYzElbiNl4oEtAu"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qe0oEyRYzElbiNl4oEtAu",
+            "id": "5qe0oEyRYzElbiNl4oEtAu",
+            "name": "Memento Mori",
+            "type": "artist",
+            "uri": "spotify:artist:5qe0oEyRYzElbiNl4oEtAu"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 232084,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63sZPJaGARmjzQ0ywPVPyv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/63sZPJaGARmjzQ0ywPVPyv",
+        "id": "63sZPJaGARmjzQ0ywPVPyv",
+        "is_local": false,
+        "name": "My self",
+        "preview_url": "https://p.scdn.co/mp3-preview/1cb9f90fcbc576df28a3bf11cf6cf2be4ef0c94d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:63sZPJaGARmjzQ0ywPVPyv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1xsCD5jAlIWKzyRrzP0L29"
+}

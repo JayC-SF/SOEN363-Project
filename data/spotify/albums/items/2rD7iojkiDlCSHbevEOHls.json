@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+      },
+      "href": "https://api.spotify.com/v1/artists/0HxV66MjdNTz6E2oHZxS6g",
+      "id": "0HxV66MjdNTz6E2oHZxS6g",
+      "name": "3markets[ ]",
+      "type": "artist",
+      "uri": "spotify:artist:0HxV66MjdNTz6E2oHZxS6g"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 StrangeStandard",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 StrangeStandard",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4580529532986"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2rD7iojkiDlCSHbevEOHls"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2rD7iojkiDlCSHbevEOHls",
+  "id": "2rD7iojkiDlCSHbevEOHls",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273518f26007ccebc86065ae397",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02518f26007ccebc86065ae397",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851518f26007ccebc86065ae397",
+      "width": 64
+    }
+  ],
+  "label": "StrangeStandard",
+  "name": "\u6687",
+  "popularity": 9,
+  "release_date": "2023-11-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2rD7iojkiDlCSHbevEOHls/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+            },
+            "href": "https://api.spotify.com/v1/artists/0HxV66MjdNTz6E2oHZxS6g",
+            "id": "0HxV66MjdNTz6E2oHZxS6g",
+            "name": "3markets[ ]",
+            "type": "artist",
+            "uri": "spotify:artist:0HxV66MjdNTz6E2oHZxS6g"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 172340,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/293e3CLrYhSFE9gFmwolDL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/293e3CLrYhSFE9gFmwolDL",
+        "id": "293e3CLrYhSFE9gFmwolDL",
+        "is_local": false,
+        "name": "\u6687",
+        "preview_url": "https://p.scdn.co/mp3-preview/3e802545340bc383705ebb2a968b3d2c44aec117?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:293e3CLrYhSFE9gFmwolDL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2rD7iojkiDlCSHbevEOHls"
+}

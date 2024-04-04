@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+      },
+      "href": "https://api.spotify.com/v1/artists/5MQG067ASfGn0Cf1nE0S8g",
+      "id": "5MQG067ASfGn0Cf1nE0S8g",
+      "name": "0to8",
+      "type": "artist",
+      "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/5q1SD3zx3GPnofIAPOIFrY",
+      "id": "5q1SD3zx3GPnofIAPOIFrY",
+      "name": "dnvn",
+      "type": "artist",
+      "uri": "spotify:artist:5q1SD3zx3GPnofIAPOIFrY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "730530911506"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1LjcXbH93ejTQsP7F9AZqJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1LjcXbH93ejTQsP7F9AZqJ",
+  "id": "1LjcXbH93ejTQsP7F9AZqJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730b48c51f91e3bfdffeb9bfd6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020b48c51f91e3bfdffeb9bfd6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510b48c51f91e3bfdffeb9bfd6",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "Moon Vibe",
+  "popularity": 0,
+  "release_date": "2023-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1LjcXbH93ejTQsP7F9AZqJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+            },
+            "href": "https://api.spotify.com/v1/artists/5MQG067ASfGn0Cf1nE0S8g",
+            "id": "5MQG067ASfGn0Cf1nE0S8g",
+            "name": "0to8",
+            "type": "artist",
+            "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/5q1SD3zx3GPnofIAPOIFrY",
+            "id": "5q1SD3zx3GPnofIAPOIFrY",
+            "name": "dnvn",
+            "type": "artist",
+            "uri": "spotify:artist:5q1SD3zx3GPnofIAPOIFrY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kvcPZDsdEq0RvJ8E6OSyi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kvcPZDsdEq0RvJ8E6OSyi",
+        "id": "3kvcPZDsdEq0RvJ8E6OSyi",
+        "is_local": false,
+        "name": "Moon Vibe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kvcPZDsdEq0RvJ8E6OSyi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1LjcXbH93ejTQsP7F9AZqJ"
+}

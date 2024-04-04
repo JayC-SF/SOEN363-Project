@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+      },
+      "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+      "id": "2elBjNSdBE2Y3f0j1mjrql",
+      "name": "Jay Chou",
+      "type": "artist",
+      "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 JVR Music International Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448211747"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/55QITUV7qbf8Ueg5ZYvWqa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/55QITUV7qbf8Ueg5ZYvWqa",
+  "id": "55QITUV7qbf8Ueg5ZYvWqa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309991a671b7317f37baac8c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209991a671b7317f37baac8c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109991a671b7317f37baac8c2",
+      "width": 64
+    }
+  ],
+  "label": "JVR",
+  "name": "\u6211\u662f\u5982\u6b64\u76f8\u4fe1",
+  "popularity": 8,
+  "release_date": "2019-12-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/55QITUV7qbf8Ueg5ZYvWqa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+            },
+            "href": "https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql",
+            "id": "2elBjNSdBE2Y3f0j1mjrql",
+            "name": "Jay Chou",
+            "type": "artist",
+            "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266382,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4olLtprgPPGUJK4P5bRcgI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4olLtprgPPGUJK4P5bRcgI",
+        "id": "4olLtprgPPGUJK4P5bRcgI",
+        "is_local": false,
+        "name": "\u6211\u662f\u5982\u6b64\u76f8\u4fe1",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4olLtprgPPGUJK4P5bRcgI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:55QITUV7qbf8Ueg5ZYvWqa"
+}

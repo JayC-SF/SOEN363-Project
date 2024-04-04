@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5XwDirrHPY6KCzScs3rKGr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5XwDirrHPY6KCzScs3rKGr",
+      "id": "5XwDirrHPY6KCzScs3rKGr",
+      "name": "Tila Tsoli",
+      "type": "artist",
+      "uri": "spotify:artist:5XwDirrHPY6KCzScs3rKGr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 TT",
+      "type": "C"
+    },
+    {
+      "text": "2021 TT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196054196780"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7gmH0AyBqcihmDTbVrqDmF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7gmH0AyBqcihmDTbVrqDmF",
+  "id": "7gmH0AyBqcihmDTbVrqDmF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b325237ada4f462735f981a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b325237ada4f462735f981a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b325237ada4f462735f981a1",
+      "width": 64
+    }
+  ],
+  "label": "TT",
+  "name": "Bimbo Doll",
+  "popularity": 31,
+  "release_date": "2021-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7gmH0AyBqcihmDTbVrqDmF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5XwDirrHPY6KCzScs3rKGr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5XwDirrHPY6KCzScs3rKGr",
+            "id": "5XwDirrHPY6KCzScs3rKGr",
+            "name": "Tila Tsoli",
+            "type": "artist",
+            "uri": "spotify:artist:5XwDirrHPY6KCzScs3rKGr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9"
+            },
+            "href": "https://api.spotify.com/v1/artists/22jHNXFZFhbCjUcEAm5xl9",
+            "id": "22jHNXFZFhbCjUcEAm5xl9",
+            "name": "BJ Lips",
+            "type": "artist",
+            "uri": "spotify:artist:22jHNXFZFhbCjUcEAm5xl9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157536,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mT3nS7uqcSrw7rPvHs8oq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mT3nS7uqcSrw7rPvHs8oq",
+        "id": "3mT3nS7uqcSrw7rPvHs8oq",
+        "is_local": false,
+        "name": "Bimbo Doll",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3mT3nS7uqcSrw7rPvHs8oq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7gmH0AyBqcihmDTbVrqDmF"
+}

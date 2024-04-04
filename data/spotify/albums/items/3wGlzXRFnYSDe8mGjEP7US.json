@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ALIMskSScecdJr78qvB9V",
+      "id": "7ALIMskSScecdJr78qvB9V",
+      "name": "Leozin",
+      "type": "artist",
+      "uri": "spotify:artist:7ALIMskSScecdJr78qvB9V"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 DMusic",
+      "type": "C"
+    },
+    {
+      "text": "2018 DMusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615935601887"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wGlzXRFnYSDe8mGjEP7US"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wGlzXRFnYSDe8mGjEP7US",
+  "id": "3wGlzXRFnYSDe8mGjEP7US",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273117deeafd3f06d6ad225dfa1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02117deeafd3f06d6ad225dfa1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851117deeafd3f06d6ad225dfa1",
+      "width": 64
+    }
+  ],
+  "label": "Dmusic",
+  "name": "It\u00e1lia",
+  "popularity": 0,
+  "release_date": "2018-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wGlzXRFnYSDe8mGjEP7US/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ALIMskSScecdJr78qvB9V",
+            "id": "7ALIMskSScecdJr78qvB9V",
+            "name": "Leozin",
+            "type": "artist",
+            "uri": "spotify:artist:7ALIMskSScecdJr78qvB9V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186935,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ts2AFyuPzayhBHcjg1Sjn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ts2AFyuPzayhBHcjg1Sjn",
+        "id": "1ts2AFyuPzayhBHcjg1Sjn",
+        "is_local": false,
+        "name": "It\u00e1lia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ts2AFyuPzayhBHcjg1Sjn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wGlzXRFnYSDe8mGjEP7US"
+}

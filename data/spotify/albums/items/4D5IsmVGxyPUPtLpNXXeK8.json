@@ -1,0 +1,137 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hrWpLNoJcs1EnWSXvB6JI",
+      "id": "2hrWpLNoJcs1EnWSXvB6JI",
+      "name": "The Rubens",
+      "type": "artist",
+      "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Ivy League Records - A Mushroom Music Recording",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ivy League Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004125377"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4D5IsmVGxyPUPtLpNXXeK8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4D5IsmVGxyPUPtLpNXXeK8",
+  "id": "4D5IsmVGxyPUPtLpNXXeK8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a7624456e907b7b1293e0f75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a7624456e907b7b1293e0f75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a7624456e907b7b1293e0f75",
+      "width": 64
+    }
+  ],
+  "label": "Ivy League Records - A Mushroom Music Recording",
+  "name": "Good Mood",
+  "popularity": 42,
+  "release_date": "2023-10-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4D5IsmVGxyPUPtLpNXXeK8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hrWpLNoJcs1EnWSXvB6JI",
+            "id": "2hrWpLNoJcs1EnWSXvB6JI",
+            "name": "The Rubens",
+            "type": "artist",
+            "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 179440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wqgJddzN1mlpkKnGc2daB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wqgJddzN1mlpkKnGc2daB",
+        "id": "0wqgJddzN1mlpkKnGc2daB",
+        "is_local": false,
+        "name": "Good Mood",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0wqgJddzN1mlpkKnGc2daB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hrWpLNoJcs1EnWSXvB6JI",
+            "id": "2hrWpLNoJcs1EnWSXvB6JI",
+            "name": "The Rubens",
+            "type": "artist",
+            "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 181183,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FHCrf1iZcVDZhbJXYvprm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FHCrf1iZcVDZhbJXYvprm",
+        "id": "0FHCrf1iZcVDZhbJXYvprm",
+        "is_local": false,
+        "name": "Pets and Drugs",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0FHCrf1iZcVDZhbJXYvprm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4D5IsmVGxyPUPtLpNXXeK8"
+}

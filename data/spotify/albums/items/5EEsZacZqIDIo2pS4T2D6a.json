@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YTk2H7LWeoCgdoQ5umieQ",
+      "id": "4YTk2H7LWeoCgdoQ5umieQ",
+      "name": "Rvshvd",
+      "type": "artist",
+      "uri": "spotify:artist:4YTk2H7LWeoCgdoQ5umieQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 The Penthouse",
+      "type": "C"
+    },
+    {
+      "text": "2021 The Penthouse",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194690454196"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EEsZacZqIDIo2pS4T2D6a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EEsZacZqIDIo2pS4T2D6a",
+  "id": "5EEsZacZqIDIo2pS4T2D6a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273043980d87764602db1de3232",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02043980d87764602db1de3232",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851043980d87764602db1de3232",
+      "width": 64
+    }
+  ],
+  "label": "The Penthouse",
+  "name": "Raised Up",
+  "popularity": 0,
+  "release_date": "2021-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EEsZacZqIDIo2pS4T2D6a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YTk2H7LWeoCgdoQ5umieQ",
+            "id": "4YTk2H7LWeoCgdoQ5umieQ",
+            "name": "Rvshvd",
+            "type": "artist",
+            "uri": "spotify:artist:4YTk2H7LWeoCgdoQ5umieQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213597,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01aM1mEEQrIMtJ3J2LvHt6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01aM1mEEQrIMtJ3J2LvHt6",
+        "id": "01aM1mEEQrIMtJ3J2LvHt6",
+        "is_local": false,
+        "name": "Raised Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:01aM1mEEQrIMtJ3J2LvHt6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5EEsZacZqIDIo2pS4T2D6a"
+}

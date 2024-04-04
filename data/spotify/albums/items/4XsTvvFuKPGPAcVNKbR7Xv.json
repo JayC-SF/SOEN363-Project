@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hN9F0iuULZYWXppob22Aj",
+      "id": "6hN9F0iuULZYWXppob22Aj",
+      "name": "Simple Minds",
+      "type": "artist",
+      "uri": "spotify:artist:6hN9F0iuULZYWXppob22Aj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Virgin Records Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Virgin Records Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537624287"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4XsTvvFuKPGPAcVNKbR7Xv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4XsTvvFuKPGPAcVNKbR7Xv",
+  "id": "4XsTvvFuKPGPAcVNKbR7Xv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733bdf8e027f4b13d0bb7ab43b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023bdf8e027f4b13d0bb7ab43b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513bdf8e027f4b13d0bb7ab43b",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Blood Diamonds (John Foxx & The Maths Remix)",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4XsTvvFuKPGPAcVNKbR7Xv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+            },
+            "href": "https://api.spotify.com/v1/artists/6hN9F0iuULZYWXppob22Aj",
+            "id": "6hN9F0iuULZYWXppob22Aj",
+            "name": "Simple Minds",
+            "type": "artist",
+            "uri": "spotify:artist:6hN9F0iuULZYWXppob22Aj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2oWQf70OC3PEPbCa6Hp028"
+            },
+            "href": "https://api.spotify.com/v1/artists/2oWQf70OC3PEPbCa6Hp028",
+            "id": "2oWQf70OC3PEPbCa6Hp028",
+            "name": "John Foxx & The Maths",
+            "type": "artist",
+            "uri": "spotify:artist:2oWQf70OC3PEPbCa6Hp028"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 345516,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1197S5OIX8sEa8xwCUnbV3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1197S5OIX8sEa8xwCUnbV3",
+        "id": "1197S5OIX8sEa8xwCUnbV3",
+        "is_local": false,
+        "name": "Blood Diamonds - John Foxx And The Maths Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1197S5OIX8sEa8xwCUnbV3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4XsTvvFuKPGPAcVNKbR7Xv"
+}

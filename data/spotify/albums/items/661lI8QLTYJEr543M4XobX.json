@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+      },
+      "href": "https://api.spotify.com/v1/artists/1WgXqy2Dd70QQOU7Ay074N",
+      "id": "1WgXqy2Dd70QQOU7Ay074N",
+      "name": "AURORA",
+      "type": "artist",
+      "uri": "spotify:artist:1WgXqy2Dd70QQOU7Ay074N"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2014 Glassnote Entertainment Group LLC, distributed by AWAL",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2014 Glassnote Entertainment Group LLC, distributed by AWAL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004027497"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/661lI8QLTYJEr543M4XobX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/661lI8QLTYJEr543M4XobX",
+  "id": "661lI8QLTYJEr543M4XobX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731abab2aa7d419478189f6c3b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021abab2aa7d419478189f6c3b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511abab2aa7d419478189f6c3b",
+      "width": 64
+    }
+  ],
+  "label": "Glassnote Entertainment Group LLC",
+  "name": "Under Stars",
+  "popularity": 15,
+  "release_date": "2014-12-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/661lI8QLTYJEr543M4XobX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+            },
+            "href": "https://api.spotify.com/v1/artists/1WgXqy2Dd70QQOU7Ay074N",
+            "id": "1WgXqy2Dd70QQOU7Ay074N",
+            "name": "AURORA",
+            "type": "artist",
+            "uri": "spotify:artist:1WgXqy2Dd70QQOU7Ay074N"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 199026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LUI0Mhs41qwY8td5pvB4B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LUI0Mhs41qwY8td5pvB4B",
+        "id": "4LUI0Mhs41qwY8td5pvB4B",
+        "is_local": false,
+        "name": "Under Stars",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd4522120a741ef82d57c10af8bdb6c48c0c953d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4LUI0Mhs41qwY8td5pvB4B"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:661lI8QLTYJEr543M4XobX"
+}

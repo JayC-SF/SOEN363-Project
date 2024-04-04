@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+      },
+      "href": "https://api.spotify.com/v1/artists/5wOlRsRt9ggoBDjjmhaF7x",
+      "id": "5wOlRsRt9ggoBDjjmhaF7x",
+      "name": "Albatraoz",
+      "type": "artist",
+      "uri": "spotify:artist:5wOlRsRt9ggoBDjjmhaF7x"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 House of Albatraoz",
+      "type": "C"
+    },
+    {
+      "text": "2020 House of Albatraoz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0616293598355"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3xLJqNbBCSeixdOhLtVtao"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3xLJqNbBCSeixdOhLtVtao",
+  "id": "3xLJqNbBCSeixdOhLtVtao",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fabfdee05dd300f3c84dd13",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fabfdee05dd300f3c84dd13",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fabfdee05dd300f3c84dd13",
+      "width": 64
+    }
+  ],
+  "label": "House of Albatraoz",
+  "name": "Rave i mitt garage",
+  "popularity": 3,
+  "release_date": "2020-11-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3xLJqNbBCSeixdOhLtVtao/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wOlRsRt9ggoBDjjmhaF7x",
+            "id": "5wOlRsRt9ggoBDjjmhaF7x",
+            "name": "Albatraoz",
+            "type": "artist",
+            "uri": "spotify:artist:5wOlRsRt9ggoBDjjmhaF7x"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Yz57hFbrcXU335FfcE677"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Yz57hFbrcXU335FfcE677",
+        "id": "1Yz57hFbrcXU335FfcE677",
+        "is_local": false,
+        "name": "Rave i mitt garage",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Yz57hFbrcXU335FfcE677"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3xLJqNbBCSeixdOhLtVtao"
+}

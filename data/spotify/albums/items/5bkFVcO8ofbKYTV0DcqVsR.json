@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hMAmP0IoPpYpmAjbG4j8G"
+      },
+      "href": "https://api.spotify.com/v1/artists/4hMAmP0IoPpYpmAjbG4j8G",
+      "id": "4hMAmP0IoPpYpmAjbG4j8G",
+      "name": "Parti Carti",
+      "type": "artist",
+      "uri": "spotify:artist:4hMAmP0IoPpYpmAjbG4j8G"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 PartiCartiStudio",
+      "type": "C"
+    },
+    {
+      "text": "2021 PartiCartiRecords",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059806483000"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5bkFVcO8ofbKYTV0DcqVsR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5bkFVcO8ofbKYTV0DcqVsR",
+  "id": "5bkFVcO8ofbKYTV0DcqVsR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f71d39bcd36d30f0582239f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f71d39bcd36d30f0582239f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f71d39bcd36d30f0582239f",
+      "width": 64
+    }
+  ],
+  "label": "BigBass",
+  "name": "Spaceship",
+  "popularity": 0,
+  "release_date": "2020-02-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5bkFVcO8ofbKYTV0DcqVsR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4hMAmP0IoPpYpmAjbG4j8G"
+            },
+            "href": "https://api.spotify.com/v1/artists/4hMAmP0IoPpYpmAjbG4j8G",
+            "id": "4hMAmP0IoPpYpmAjbG4j8G",
+            "name": "Parti Carti",
+            "type": "artist",
+            "uri": "spotify:artist:4hMAmP0IoPpYpmAjbG4j8G"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185063,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1P6svQDhUygGzdYDsQKBOb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1P6svQDhUygGzdYDsQKBOb",
+        "id": "1P6svQDhUygGzdYDsQKBOb",
+        "is_local": false,
+        "name": "Spaceship",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1P6svQDhUygGzdYDsQKBOb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5bkFVcO8ofbKYTV0DcqVsR"
+}

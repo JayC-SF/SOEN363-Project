@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1dFRlDO2Z2gjAARxHlovAS",
+      "id": "1dFRlDO2Z2gjAARxHlovAS",
+      "name": "Lo ki",
+      "type": "artist",
+      "uri": "spotify:artist:1dFRlDO2Z2gjAARxHlovAS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 DRP Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 DRP Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4800624120568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wqmXcuRE3YBEPMDICVpjm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0wqmXcuRE3YBEPMDICVpjm",
+  "id": "0wqmXcuRE3YBEPMDICVpjm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a22b8548e913f300684346ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a22b8548e913f300684346ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a22b8548e913f300684346ae",
+      "width": 64
+    }
+  ],
+  "label": "DRP Records",
+  "name": "Kagome",
+  "popularity": 0,
+  "release_date": "2021-11-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0wqmXcuRE3YBEPMDICVpjm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dFRlDO2Z2gjAARxHlovAS",
+            "id": "1dFRlDO2Z2gjAARxHlovAS",
+            "name": "Lo ki",
+            "type": "artist",
+            "uri": "spotify:artist:1dFRlDO2Z2gjAARxHlovAS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238285,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wt9jE5GotVt8xuq8rN0Ur"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wt9jE5GotVt8xuq8rN0Ur",
+        "id": "4wt9jE5GotVt8xuq8rN0Ur",
+        "is_local": false,
+        "name": "Kagome",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4wt9jE5GotVt8xuq8rN0Ur"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0wqmXcuRE3YBEPMDICVpjm"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nP79s99csrvcOiXTGjVfg",
+      "id": "5nP79s99csrvcOiXTGjVfg",
+      "name": "Babi",
+      "type": "artist",
+      "uri": "spotify:artist:5nP79s99csrvcOiXTGjVfg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PRbNE8CqQfT4tz9JWCR9E"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PRbNE8CqQfT4tz9JWCR9E",
+      "id": "4PRbNE8CqQfT4tz9JWCR9E",
+      "name": "Raspo",
+      "type": "artist",
+      "uri": "spotify:artist:4PRbNE8CqQfT4tz9JWCR9E"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Babi",
+      "type": "C"
+    },
+    {
+      "text": "2019 Babi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8433391838105"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mqh472CkUfl553wSHWGgO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mqh472CkUfl553wSHWGgO",
+  "id": "3mqh472CkUfl553wSHWGgO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1ffd27653eb723db920dd5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1ffd27653eb723db920dd5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1ffd27653eb723db920dd5a",
+      "width": 64
+    }
+  ],
+  "label": "Babi",
+  "name": "Devu\u00e9lvemelo",
+  "popularity": 0,
+  "release_date": "2019-11-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mqh472CkUfl553wSHWGgO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nP79s99csrvcOiXTGjVfg",
+            "id": "5nP79s99csrvcOiXTGjVfg",
+            "name": "Babi",
+            "type": "artist",
+            "uri": "spotify:artist:5nP79s99csrvcOiXTGjVfg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PRbNE8CqQfT4tz9JWCR9E"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PRbNE8CqQfT4tz9JWCR9E",
+            "id": "4PRbNE8CqQfT4tz9JWCR9E",
+            "name": "Raspo",
+            "type": "artist",
+            "uri": "spotify:artist:4PRbNE8CqQfT4tz9JWCR9E"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242536,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23OYFfmHaZbTOi1wWx80WV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/23OYFfmHaZbTOi1wWx80WV",
+        "id": "23OYFfmHaZbTOi1wWx80WV",
+        "is_local": false,
+        "name": "Devu\u00e9lvemelo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:23OYFfmHaZbTOi1wWx80WV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mqh472CkUfl553wSHWGgO"
+}

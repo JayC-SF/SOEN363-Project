@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2zJ8chFLjiBHRNchfevMRI",
+      "id": "2zJ8chFLjiBHRNchfevMRI",
+      "name": "SNBRN",
+      "type": "artist",
+      "uri": "spotify:artist:2zJ8chFLjiBHRNchfevMRI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PyeXqjH8OMGnt1IOhWgrQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PyeXqjH8OMGnt1IOhWgrQ",
+      "id": "6PyeXqjH8OMGnt1IOhWgrQ",
+      "name": "Malcolm Anthony",
+      "type": "artist",
+      "uri": "spotify:artist:6PyeXqjH8OMGnt1IOhWgrQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ma9LIyEylZ3lxprV7cV3f"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ma9LIyEylZ3lxprV7cV3f",
+      "id": "6ma9LIyEylZ3lxprV7cV3f",
+      "name": "Anthony Isaiah",
+      "type": "artist",
+      "uri": "spotify:artist:6ma9LIyEylZ3lxprV7cV3f"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2020 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465020612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/34ERnQhCoW5y7mLA4yLzFK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/34ERnQhCoW5y7mLA4yLzFK",
+  "id": "34ERnQhCoW5y7mLA4yLzFK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5600d8c6d39b0372989c63c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5600d8c6d39b0372989c63c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5600d8c6d39b0372989c63c",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "James Brown",
+  "popularity": 1,
+  "release_date": "2020-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/34ERnQhCoW5y7mLA4yLzFK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zJ8chFLjiBHRNchfevMRI",
+            "id": "2zJ8chFLjiBHRNchfevMRI",
+            "name": "SNBRN",
+            "type": "artist",
+            "uri": "spotify:artist:2zJ8chFLjiBHRNchfevMRI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PyeXqjH8OMGnt1IOhWgrQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PyeXqjH8OMGnt1IOhWgrQ",
+            "id": "6PyeXqjH8OMGnt1IOhWgrQ",
+            "name": "Malcolm Anthony",
+            "type": "artist",
+            "uri": "spotify:artist:6PyeXqjH8OMGnt1IOhWgrQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ma9LIyEylZ3lxprV7cV3f"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ma9LIyEylZ3lxprV7cV3f",
+            "id": "6ma9LIyEylZ3lxprV7cV3f",
+            "name": "Anthony Isaiah",
+            "type": "artist",
+            "uri": "spotify:artist:6ma9LIyEylZ3lxprV7cV3f"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208759,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/225vG9vU7QrnjJARJXnSpd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/225vG9vU7QrnjJARJXnSpd",
+        "id": "225vG9vU7QrnjJARJXnSpd",
+        "is_local": false,
+        "name": "James Brown",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:225vG9vU7QrnjJARJXnSpd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:34ERnQhCoW5y7mLA4yLzFK"
+}

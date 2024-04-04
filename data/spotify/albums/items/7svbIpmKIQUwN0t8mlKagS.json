@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+      },
+      "href": "https://api.spotify.com/v1/artists/15OPFLuXXC5OKEavps9ukY",
+      "id": "15OPFLuXXC5OKEavps9ukY",
+      "name": "kyszenn",
+      "type": "artist",
+      "uri": "spotify:artist:15OPFLuXXC5OKEavps9ukY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 4184156 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 4184156 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197146492100"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7svbIpmKIQUwN0t8mlKagS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7svbIpmKIQUwN0t8mlKagS",
+  "id": "7svbIpmKIQUwN0t8mlKagS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384ae8899135d75a5ba676346",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284ae8899135d75a5ba676346",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184ae8899135d75a5ba676346",
+      "width": 64
+    }
+  ],
+  "label": "4184156 Records DK",
+  "name": "dark lilac",
+  "popularity": 0,
+  "release_date": "2022-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7svbIpmKIQUwN0t8mlKagS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+            },
+            "href": "https://api.spotify.com/v1/artists/15OPFLuXXC5OKEavps9ukY",
+            "id": "15OPFLuXXC5OKEavps9ukY",
+            "name": "kyszenn",
+            "type": "artist",
+            "uri": "spotify:artist:15OPFLuXXC5OKEavps9ukY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 66430,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iTwLJTBtciGyMvzkLi0et"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7iTwLJTBtciGyMvzkLi0et",
+        "id": "7iTwLJTBtciGyMvzkLi0et",
+        "is_local": false,
+        "name": "dark lilac",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7iTwLJTBtciGyMvzkLi0et"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7svbIpmKIQUwN0t8mlKagS"
+}

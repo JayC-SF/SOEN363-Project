@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id": "586uxXMyD5ObPuzjtrzO1Q",
+      "name": "Sofi Tukker",
+      "type": "artist",
+      "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Sofi Tukker, LLC under exclusive license to Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 Sofi Tukker, LLC under exclusive license to Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465007743"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4L9MrIcjiPN4luIoWP8XgG",
+  "id": "4L9MrIcjiPN4luIoWP8XgG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273818685825c4be7951a2ec4bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02818685825c4be7951a2ec4bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851818685825c4be7951a2ec4bb",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Purple Hat",
+  "popularity": 0,
+  "release_date": "2019-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4L9MrIcjiPN4luIoWP8XgG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+            "id": "586uxXMyD5ObPuzjtrzO1Q",
+            "name": "Sofi Tukker",
+            "type": "artist",
+            "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178369,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bGH7ezs7WdDwpqnsvGf1z",
+        "id": "0bGH7ezs7WdDwpqnsvGf1z",
+        "is_local": false,
+        "name": "Purple Hat",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bGH7ezs7WdDwpqnsvGf1z"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4L9MrIcjiPN4luIoWP8XgG"
+}

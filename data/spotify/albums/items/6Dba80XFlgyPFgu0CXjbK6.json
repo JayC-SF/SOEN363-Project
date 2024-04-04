@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BYp5ey4FIJuNERat8DAEu"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BYp5ey4FIJuNERat8DAEu",
+      "id": "4BYp5ey4FIJuNERat8DAEu",
+      "name": "NoCap 16",
+      "type": "artist",
+      "uri": "spotify:artist:4BYp5ey4FIJuNERat8DAEu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 NoCap 16",
+      "type": "C"
+    },
+    {
+      "text": "2023 NoCap 16",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859779751817"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Dba80XFlgyPFgu0CXjbK6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Dba80XFlgyPFgu0CXjbK6",
+  "id": "6Dba80XFlgyPFgu0CXjbK6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273289a802b787364745e10916f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02289a802b787364745e10916f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851289a802b787364745e10916f",
+      "width": 64
+    }
+  ],
+  "label": "NoCap 16",
+  "name": "Hope I Did It",
+  "popularity": 1,
+  "release_date": "2023-10-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Dba80XFlgyPFgu0CXjbK6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BYp5ey4FIJuNERat8DAEu"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BYp5ey4FIJuNERat8DAEu",
+            "id": "4BYp5ey4FIJuNERat8DAEu",
+            "name": "NoCap 16",
+            "type": "artist",
+            "uri": "spotify:artist:4BYp5ey4FIJuNERat8DAEu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170949,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zflA9o9gRV5yhx3aiKjEi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4zflA9o9gRV5yhx3aiKjEi",
+        "id": "4zflA9o9gRV5yhx3aiKjEi",
+        "is_local": false,
+        "name": "Hope I Did It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4zflA9o9gRV5yhx3aiKjEi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Dba80XFlgyPFgu0CXjbK6"
+}

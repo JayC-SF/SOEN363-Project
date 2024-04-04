@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aAQxfnyKfbTRfkUfxSCIu",
+      "id": "0aAQxfnyKfbTRfkUfxSCIu",
+      "name": "Megan McKenna",
+      "type": "artist",
+      "uri": "spotify:artist:0aAQxfnyKfbTRfkUfxSCIu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Megan McKenna under exclusive license to FRTYFVE",
+      "type": "C"
+    },
+    {
+      "text": "2022 Megan McKenna",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316471489385"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1HISue6jW7MG274xOFF1jB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1HISue6jW7MG274xOFF1jB",
+  "id": "1HISue6jW7MG274xOFF1jB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27376593e98f9ae1ac9ccf0b9fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276593e98f9ae1ac9ccf0b9fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485176593e98f9ae1ac9ccf0b9fb",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "Little Lies",
+  "popularity": 0,
+  "release_date": "2022-11-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1HISue6jW7MG274xOFF1jB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aAQxfnyKfbTRfkUfxSCIu",
+            "id": "0aAQxfnyKfbTRfkUfxSCIu",
+            "name": "Megan McKenna",
+            "type": "artist",
+            "uri": "spotify:artist:0aAQxfnyKfbTRfkUfxSCIu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vN3yEnsWpcJScY9hx41z4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vN3yEnsWpcJScY9hx41z4",
+        "id": "7vN3yEnsWpcJScY9hx41z4",
+        "is_local": false,
+        "name": "Little Lies",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vN3yEnsWpcJScY9hx41z4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1HISue6jW7MG274xOFF1jB"
+}

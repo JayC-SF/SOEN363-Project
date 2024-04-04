@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+      },
+      "href": "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+      "id": "0jNDKefhfSbLR9sFvcPLHo",
+      "name": "San Holo",
+      "type": "artist",
+      "uri": "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 bitbird",
+      "type": "C"
+    },
+    {
+      "text": "2016 bitbird",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857236078"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0CIeTsfxL0sGALv13QrcuE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0CIeTsfxL0sGALv13QrcuE",
+  "id": "0CIeTsfxL0sGALv13QrcuE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364d489da077e3ba2f396a31c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264d489da077e3ba2f396a31c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164d489da077e3ba2f396a31c",
+      "width": 64
+    }
+  ],
+  "label": "bitbird",
+  "name": "Light",
+  "popularity": 0,
+  "release_date": "2016-11-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0CIeTsfxL0sGALv13QrcuE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+            "id": "0jNDKefhfSbLR9sFvcPLHo",
+            "name": "San Holo",
+            "type": "artist",
+            "uri": "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74Ru27B7Jx8mBt5MGvGLLv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74Ru27B7Jx8mBt5MGvGLLv",
+        "id": "74Ru27B7Jx8mBt5MGvGLLv",
+        "is_local": false,
+        "name": "Light",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74Ru27B7Jx8mBt5MGvGLLv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0CIeTsfxL0sGALv13QrcuE"
+}

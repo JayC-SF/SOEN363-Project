@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+      },
+      "href": "https://api.spotify.com/v1/artists/23xJQJM7peht77DF6YNEoq",
+      "id": "23xJQJM7peht77DF6YNEoq",
+      "name": "Model",
+      "type": "artist",
+      "uri": "spotify:artist:23xJQJM7peht77DF6YNEoq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 GNL",
+      "type": "C"
+    },
+    {
+      "text": "2016 GNL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8680126100321"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0LhLMMMhrwhaasQg5RUg7c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0LhLMMMhrwhaasQg5RUg7c",
+  "id": "0LhLMMMhrwhaasQg5RUg7c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d7591b3ec5ef5d0eb626dc0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d7591b3ec5ef5d0eb626dc0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d7591b3ec5ef5d0eb626dc0",
+      "width": 64
+    }
+  ],
+  "label": "GNL",
+  "name": "Mey",
+  "popularity": 0,
+  "release_date": "2016-03-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0LhLMMMhrwhaasQg5RUg7c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+            },
+            "href": "https://api.spotify.com/v1/artists/23xJQJM7peht77DF6YNEoq",
+            "id": "23xJQJM7peht77DF6YNEoq",
+            "name": "Model",
+            "type": "artist",
+            "uri": "spotify:artist:23xJQJM7peht77DF6YNEoq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 287118,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mWCTk8obPLq3rRkzpII4q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mWCTk8obPLq3rRkzpII4q",
+        "id": "6mWCTk8obPLq3rRkzpII4q",
+        "is_local": false,
+        "name": "Mey",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6mWCTk8obPLq3rRkzpII4q"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0LhLMMMhrwhaasQg5RUg7c"
+}

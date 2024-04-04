@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+      "id": "6LuN9FCkKOj5PcnpouEgny",
+      "name": "Khalid",
+      "type": "artist",
+      "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Khalid/Nicholas Barr",
+      "type": "C"
+    },
+    {
+      "text": "2016 Khalid/Nicholas Barr",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859717365861"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35Z0yQ32AbTSDh530LeNKB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/35Z0yQ32AbTSDh530LeNKB",
+  "id": "35Z0yQ32AbTSDh530LeNKB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302f60ea7a290b0f40ba1538e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202f60ea7a290b0f40ba1538e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102f60ea7a290b0f40ba1538e",
+      "width": 64
+    }
+  ],
+  "label": "Khalid/Nicholas Barr",
+  "name": "Location",
+  "popularity": 0,
+  "release_date": "2016-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35Z0yQ32AbTSDh530LeNKB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+            "id": "6LuN9FCkKOj5PcnpouEgny",
+            "name": "Khalid",
+            "type": "artist",
+            "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XOin64PR2Oj4W0tO8GOQv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6XOin64PR2Oj4W0tO8GOQv",
+        "id": "6XOin64PR2Oj4W0tO8GOQv",
+        "is_local": false,
+        "name": "Location",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6XOin64PR2Oj4W0tO8GOQv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:35Z0yQ32AbTSDh530LeNKB"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11ZsvfWrGDwqGQAtIKcS5n"
+      },
+      "href": "https://api.spotify.com/v1/artists/11ZsvfWrGDwqGQAtIKcS5n",
+      "id": "11ZsvfWrGDwqGQAtIKcS5n",
+      "name": "Eve!",
+      "type": "artist",
+      "uri": "spotify:artist:11ZsvfWrGDwqGQAtIKcS5n"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Basic Suburb Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Basic Suburb Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196398803085"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/47dhwl1G546LjXKKQOmGsR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/47dhwl1G546LjXKKQOmGsR",
+  "id": "47dhwl1G546LjXKKQOmGsR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0d015c16acbcd5167d166f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0d015c16acbcd5167d166f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0d015c16acbcd5167d166f2",
+      "width": 64
+    }
+  ],
+  "label": "Basic Suburb Records",
+  "name": "Better Luck Next Time",
+  "popularity": 0,
+  "release_date": "2021-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/47dhwl1G546LjXKKQOmGsR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11ZsvfWrGDwqGQAtIKcS5n"
+            },
+            "href": "https://api.spotify.com/v1/artists/11ZsvfWrGDwqGQAtIKcS5n",
+            "id": "11ZsvfWrGDwqGQAtIKcS5n",
+            "name": "Eve!",
+            "type": "artist",
+            "uri": "spotify:artist:11ZsvfWrGDwqGQAtIKcS5n"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172292,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75d88fk6PyzI8uq4sflXEW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75d88fk6PyzI8uq4sflXEW",
+        "id": "75d88fk6PyzI8uq4sflXEW",
+        "is_local": false,
+        "name": "Better Luck Next Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:75d88fk6PyzI8uq4sflXEW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:47dhwl1G546LjXKKQOmGsR"
+}

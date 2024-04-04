@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+      },
+      "href": "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
+      "id": "77AiFEVeAVj2ORpC85QVJs",
+      "name": "Steve Aoki",
+      "type": "artist",
+      "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TnGh5PKbSjpYqpIdlW5nz",
+      "id": "4TnGh5PKbSjpYqpIdlW5nz",
+      "name": "MONSTA X",
+      "type": "artist",
+      "uri": "spotify:artist:4TnGh5PKbSjpYqpIdlW5nz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9341004065291"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/28WUoBcwY0V5acKZhnzakN",
+  "id": "28WUoBcwY0V5acKZhnzakN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a59ef5b74efaadda5ea5122",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a59ef5b74efaadda5ea5122",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a59ef5b74efaadda5ea5122",
+      "width": 64
+    }
+  ],
+  "label": "Liberator Music/Ultra Records",
+  "name": "Play It Cool",
+  "popularity": 0,
+  "release_date": "2019-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/28WUoBcwY0V5acKZhnzakN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+            },
+            "href": "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
+            "id": "77AiFEVeAVj2ORpC85QVJs",
+            "name": "Steve Aoki",
+            "type": "artist",
+            "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TnGh5PKbSjpYqpIdlW5nz",
+            "id": "4TnGh5PKbSjpYqpIdlW5nz",
+            "name": "MONSTA X",
+            "type": "artist",
+            "uri": "spotify:artist:4TnGh5PKbSjpYqpIdlW5nz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169812,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3WE4GE18Yq8s3Z7uV743I4",
+        "id": "3WE4GE18Yq8s3Z7uV743I4",
+        "is_local": false,
+        "name": "Play It Cool",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3WE4GE18Yq8s3Z7uV743I4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:28WUoBcwY0V5acKZhnzakN"
+}

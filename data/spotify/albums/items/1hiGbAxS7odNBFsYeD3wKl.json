@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U"
+      },
+      "href": "https://api.spotify.com/v1/artists/7blkMNJv8n9ceP9zlA4W2U",
+      "id": "7blkMNJv8n9ceP9zlA4W2U",
+      "name": "Shawn Hook",
+      "type": "artist",
+      "uri": "spotify:artist:7blkMNJv8n9ceP9zlA4W2U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Universal Music Canada, Inc., under exclusive license to Hollywood Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Universal Music Canada, Inc., under exclusive license to Hollywood Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00050087369002"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1hiGbAxS7odNBFsYeD3wKl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1hiGbAxS7odNBFsYeD3wKl",
+  "id": "1hiGbAxS7odNBFsYeD3wKl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b45f9aa205ada64746a32fa9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b45f9aa205ada64746a32fa9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b45f9aa205ada64746a32fa9",
+      "width": 64
+    }
+  ],
+  "label": "Hollywood Records",
+  "name": "Reminding Me",
+  "popularity": 0,
+  "release_date": "2017-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1hiGbAxS7odNBFsYeD3wKl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U"
+            },
+            "href": "https://api.spotify.com/v1/artists/7blkMNJv8n9ceP9zlA4W2U",
+            "id": "7blkMNJv8n9ceP9zlA4W2U",
+            "name": "Shawn Hook",
+            "type": "artist",
+            "uri": "spotify:artist:7blkMNJv8n9ceP9zlA4W2U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+            },
+            "href": "https://api.spotify.com/v1/artists/6G9bygHlCyPgNGxK2l3YdE",
+            "id": "6G9bygHlCyPgNGxK2l3YdE",
+            "name": "Vanessa Hudgens",
+            "type": "artist",
+            "uri": "spotify:artist:6G9bygHlCyPgNGxK2l3YdE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209924,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Mjer7nERC4u3tkkSopwLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Mjer7nERC4u3tkkSopwLp",
+        "id": "3Mjer7nERC4u3tkkSopwLp",
+        "is_local": false,
+        "name": "Reminding Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Mjer7nERC4u3tkkSopwLp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1hiGbAxS7odNBFsYeD3wKl"
+}

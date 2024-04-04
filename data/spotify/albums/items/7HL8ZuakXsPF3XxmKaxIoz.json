@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RddZ3iHvSpGV4dvATac9X",
+      "id": "4RddZ3iHvSpGV4dvATac9X",
+      "name": "Papa Roach",
+      "type": "artist",
+      "uri": "spotify:artist:4RddZ3iHvSpGV4dvATac9X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Eleven Seven Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Eleven Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320050209"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7HL8ZuakXsPF3XxmKaxIoz",
+  "id": "7HL8ZuakXsPF3XxmKaxIoz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f6c624aa840f0dd78aa6901",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f6c624aa840f0dd78aa6901",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f6c624aa840f0dd78aa6901",
+      "width": 64
+    }
+  ],
+  "label": "Eleven Seven Music",
+  "name": "Who Do You Trust?",
+  "popularity": 0,
+  "release_date": "2018-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7HL8ZuakXsPF3XxmKaxIoz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RddZ3iHvSpGV4dvATac9X",
+            "id": "4RddZ3iHvSpGV4dvATac9X",
+            "name": "Papa Roach",
+            "type": "artist",
+            "uri": "spotify:artist:4RddZ3iHvSpGV4dvATac9X"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196863,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kJkTFmKYHrp9LT8w0oqpG",
+        "id": "7kJkTFmKYHrp9LT8w0oqpG",
+        "is_local": false,
+        "name": "Who Do You Trust?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7kJkTFmKYHrp9LT8w0oqpG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7HL8ZuakXsPF3XxmKaxIoz"
+}

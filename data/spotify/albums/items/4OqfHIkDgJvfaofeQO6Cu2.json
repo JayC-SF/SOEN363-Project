@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+      "id": "3zmfs9cQwzJl575W1ZYXeT",
+      "name": "Men I Trust",
+      "type": "artist",
+      "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Men I Trust",
+      "type": "C"
+    },
+    {
+      "text": "2017 Men I Trust",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859723951126"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4OqfHIkDgJvfaofeQO6Cu2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4OqfHIkDgJvfaofeQO6Cu2",
+  "id": "4OqfHIkDgJvfaofeQO6Cu2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730fad23eafd8a89ee479cc611",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020fad23eafd8a89ee479cc611",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510fad23eafd8a89ee479cc611",
+      "width": 64
+    }
+  ],
+  "label": "Men I Trust",
+  "name": "I Hope to Be Around",
+  "popularity": 21,
+  "release_date": "2017-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4OqfHIkDgJvfaofeQO6Cu2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+            "id": "3zmfs9cQwzJl575W1ZYXeT",
+            "name": "Men I Trust",
+            "type": "artist",
+            "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205554,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Molxw6WdYhOifas6NiQL2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Molxw6WdYhOifas6NiQL2",
+        "id": "0Molxw6WdYhOifas6NiQL2",
+        "is_local": false,
+        "name": "I Hope to Be Around",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Molxw6WdYhOifas6NiQL2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4OqfHIkDgJvfaofeQO6Cu2"
+}

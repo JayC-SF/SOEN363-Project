@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+      "id": "3836OTICMPjhTMMcpPw4EC",
+      "name": "Broiler",
+      "type": "artist",
+      "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bprEfGCk6tljbWjtvGQH5",
+      "id": "3bprEfGCk6tljbWjtvGQH5",
+      "name": "PandaPanda",
+      "type": "artist",
+      "uri": "spotify:artist:3bprEfGCk6tljbWjtvGQH5"
+    }
+  ],
+  "available_markets": [
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Sky Agency AS, distributed by Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Sky Agency AS, distributed by Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602455832993"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4mn6Db6CFWf05QqKKTsSS1",
+  "id": "4mn6Db6CFWf05QqKKTsSS1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730063c58dceef0b9c4c0ae97f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020063c58dceef0b9c4c0ae97f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510063c58dceef0b9c4c0ae97f",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AB (Sky Agency AS)",
+  "name": "Idiot",
+  "popularity": 36,
+  "release_date": "2023-05-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4mn6Db6CFWf05QqKKTsSS1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+            "id": "3836OTICMPjhTMMcpPw4EC",
+            "name": "Broiler",
+            "type": "artist",
+            "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bprEfGCk6tljbWjtvGQH5",
+            "id": "3bprEfGCk6tljbWjtvGQH5",
+            "name": "PandaPanda",
+            "type": "artist",
+            "uri": "spotify:artist:3bprEfGCk6tljbWjtvGQH5"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 118766,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dD5RfTAEDEk19GhAz9hUG",
+        "id": "1dD5RfTAEDEk19GhAz9hUG",
+        "is_local": false,
+        "name": "Idiot",
+        "preview_url": "https://p.scdn.co/mp3-preview/c6729daff1956f40879cd870096cfe55905c927a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1dD5RfTAEDEk19GhAz9hUG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4mn6Db6CFWf05QqKKTsSS1"
+}

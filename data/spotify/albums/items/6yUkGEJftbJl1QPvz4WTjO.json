@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+      },
+      "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+      "id": "4npEfmQ6YuiwW1GpUmaq3F",
+      "name": "Ava Max",
+      "type": "artist",
+      "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020",
+      "type": "C"
+    },
+    {
+      "text": "2020",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679822109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6yUkGEJftbJl1QPvz4WTjO",
+  "id": "6yUkGEJftbJl1QPvz4WTjO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273455b66109a326b6ffb3f169b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02455b66109a326b6ffb3f169b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851455b66109a326b6ffb3f169b",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Kings & Queens",
+  "popularity": 0,
+  "release_date": "2020-03-12",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6yUkGEJftbJl1QPvz4WTjO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+            },
+            "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+            "id": "4npEfmQ6YuiwW1GpUmaq3F",
+            "name": "Ava Max",
+            "type": "artist",
+            "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162398,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76nqCfJOcFFWBJN32PAksn",
+        "id": "76nqCfJOcFFWBJN32PAksn",
+        "is_local": false,
+        "name": "Kings & Queens",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:76nqCfJOcFFWBJN32PAksn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+            },
+            "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+            "id": "4npEfmQ6YuiwW1GpUmaq3F",
+            "name": "Ava Max",
+            "type": "artist",
+            "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180283,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Aw1XAceFHTb0rNpeoAcBl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Aw1XAceFHTb0rNpeoAcBl",
+        "id": "1Aw1XAceFHTb0rNpeoAcBl",
+        "is_local": false,
+        "name": "Salt",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1Aw1XAceFHTb0rNpeoAcBl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6yUkGEJftbJl1QPvz4WTjO"
+}

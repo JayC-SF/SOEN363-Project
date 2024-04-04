@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV"
+      },
+      "href": "https://api.spotify.com/v1/artists/3O5HD95HTEPgoPFOjAb7yV",
+      "id": "3O5HD95HTEPgoPFOjAb7yV",
+      "name": "DripReport",
+      "type": "artist",
+      "uri": "spotify:artist:3O5HD95HTEPgoPFOjAb7yV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 1470214 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 1470214 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195037763278"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MSa7LwJLInVk3khgQl8s7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MSa7LwJLInVk3khgQl8s7",
+  "id": "7MSa7LwJLInVk3khgQl8s7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6af8a5b9687bd069c2c8be2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6af8a5b9687bd069c2c8be2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6af8a5b9687bd069c2c8be2",
+      "width": 64
+    }
+  ],
+  "label": "1470214 Records DK",
+  "name": "Skechers",
+  "popularity": 0,
+  "release_date": "2020-01-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MSa7LwJLInVk3khgQl8s7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3O5HD95HTEPgoPFOjAb7yV",
+            "id": "3O5HD95HTEPgoPFOjAb7yV",
+            "name": "DripReport",
+            "type": "artist",
+            "uri": "spotify:artist:3O5HD95HTEPgoPFOjAb7yV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106031,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4z2JaAVPemYJhFKm7e32RA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4z2JaAVPemYJhFKm7e32RA",
+        "id": "4z2JaAVPemYJhFKm7e32RA",
+        "is_local": false,
+        "name": "Skechers",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4z2JaAVPemYJhFKm7e32RA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7MSa7LwJLInVk3khgQl8s7"
+}

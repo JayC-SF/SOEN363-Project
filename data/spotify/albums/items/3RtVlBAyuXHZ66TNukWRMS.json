@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5AiFFE0KopBkOzEZeDbSaH",
+      "id": "5AiFFE0KopBkOzEZeDbSaH",
+      "name": "c\u00e9ro",
+      "type": "artist",
+      "uri": "spotify:artist:5AiFFE0KopBkOzEZeDbSaH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 c\u00e9ro",
+      "type": "C"
+    },
+    {
+      "text": "2023 c\u00e9ro",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316219917606"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3RtVlBAyuXHZ66TNukWRMS",
+  "id": "3RtVlBAyuXHZ66TNukWRMS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273037c26b65099737b1a7c440c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02037c26b65099737b1a7c440c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851037c26b65099737b1a7c440c",
+      "width": 64
+    }
+  ],
+  "label": "c\u00e9ro",
+  "name": "lady madrizZz",
+  "popularity": 44,
+  "release_date": "2023-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3RtVlBAyuXHZ66TNukWRMS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+            },
+            "href": "https://api.spotify.com/v1/artists/5AiFFE0KopBkOzEZeDbSaH",
+            "id": "5AiFFE0KopBkOzEZeDbSaH",
+            "name": "c\u00e9ro",
+            "type": "artist",
+            "uri": "spotify:artist:5AiFFE0KopBkOzEZeDbSaH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131020,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CqTTiYyJRJNmuxZcww8BP",
+        "id": "3CqTTiYyJRJNmuxZcww8BP",
+        "is_local": false,
+        "name": "lady madrizZz",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3CqTTiYyJRJNmuxZcww8BP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3RtVlBAyuXHZ66TNukWRMS"
+}

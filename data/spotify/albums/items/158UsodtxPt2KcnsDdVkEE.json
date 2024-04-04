@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PxCTrv3Y1xVACfngpt7D2",
+      "id": "5PxCTrv3Y1xVACfngpt7D2",
+      "name": "Lostboycrow",
+      "type": "artist",
+      "uri": "spotify:artist:5PxCTrv3Y1xVACfngpt7D2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Real Name Records",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562899410"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/158UsodtxPt2KcnsDdVkEE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/158UsodtxPt2KcnsDdVkEE",
+  "id": "158UsodtxPt2KcnsDdVkEE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c43c2e100b3396104d958278",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c43c2e100b3396104d958278",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c43c2e100b3396104d958278",
+      "width": 64
+    }
+  ],
+  "label": "Real Name Records",
+  "name": "Since The Day I Was Born",
+  "popularity": 0,
+  "release_date": "2018-09-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/158UsodtxPt2KcnsDdVkEE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PxCTrv3Y1xVACfngpt7D2",
+            "id": "5PxCTrv3Y1xVACfngpt7D2",
+            "name": "Lostboycrow",
+            "type": "artist",
+            "uri": "spotify:artist:5PxCTrv3Y1xVACfngpt7D2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217146,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33ZeYeL25528mx7SvtKqPH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33ZeYeL25528mx7SvtKqPH",
+        "id": "33ZeYeL25528mx7SvtKqPH",
+        "is_local": false,
+        "name": "Since The Day I Was Born",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:33ZeYeL25528mx7SvtKqPH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:158UsodtxPt2KcnsDdVkEE"
+}

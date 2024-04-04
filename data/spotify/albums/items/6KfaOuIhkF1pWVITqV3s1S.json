@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01rGMslyVoOrCkqi58c8pN"
+      },
+      "href": "https://api.spotify.com/v1/artists/01rGMslyVoOrCkqi58c8pN",
+      "id": "01rGMslyVoOrCkqi58c8pN",
+      "name": "Zaryah",
+      "type": "artist",
+      "uri": "spotify:artist:01rGMslyVoOrCkqi58c8pN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 deep dive",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "717340238672"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6KfaOuIhkF1pWVITqV3s1S"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6KfaOuIhkF1pWVITqV3s1S",
+  "id": "6KfaOuIhkF1pWVITqV3s1S",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328f79ef898fb37a0bb5600e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228f79ef898fb37a0bb5600e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128f79ef898fb37a0bb5600e4",
+      "width": 64
+    }
+  ],
+  "label": "Big Vox Records",
+  "name": "deep dive",
+  "popularity": 35,
+  "release_date": "2021-09-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6KfaOuIhkF1pWVITqV3s1S/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01rGMslyVoOrCkqi58c8pN"
+            },
+            "href": "https://api.spotify.com/v1/artists/01rGMslyVoOrCkqi58c8pN",
+            "id": "01rGMslyVoOrCkqi58c8pN",
+            "name": "Zaryah",
+            "type": "artist",
+            "uri": "spotify:artist:01rGMslyVoOrCkqi58c8pN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 136199,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hzGYuJ7FVEghlOOCuUxis"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3hzGYuJ7FVEghlOOCuUxis",
+        "id": "3hzGYuJ7FVEghlOOCuUxis",
+        "is_local": false,
+        "name": "deep dive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3hzGYuJ7FVEghlOOCuUxis"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6KfaOuIhkF1pWVITqV3s1S"
+}

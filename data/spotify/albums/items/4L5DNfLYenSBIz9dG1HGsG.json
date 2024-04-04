@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+      "id": "3gqv1kgivAc92KnUm4elKv",
+      "name": "Teddybears",
+      "type": "artist",
+      "uri": "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Big Beat Records, Inc. for the United States and WEA International for the world outside the United States.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Big Beat Records, Inc. for the United States and WEA International for the world outside the United States.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679940407"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4L5DNfLYenSBIz9dG1HGsG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4L5DNfLYenSBIz9dG1HGsG",
+  "id": "4L5DNfLYenSBIz9dG1HGsG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa4930ac3e86def4939d879d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa4930ac3e86def4939d879d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa4930ac3e86def4939d879d",
+      "width": 64
+    }
+  ],
+  "label": "Big Beat Records/Atlantic",
+  "name": "Sunshine",
+  "popularity": 21,
+  "release_date": "2014-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4L5DNfLYenSBIz9dG1HGsG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+            "id": "3gqv1kgivAc92KnUm4elKv",
+            "name": "Teddybears",
+            "type": "artist",
+            "uri": "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 199252,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OXvO7h8MkGueA4ad1LvKm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0OXvO7h8MkGueA4ad1LvKm",
+        "id": "0OXvO7h8MkGueA4ad1LvKm",
+        "is_local": false,
+        "name": "Sunshine",
+        "preview_url": "https://p.scdn.co/mp3-preview/26247a72118a754ee6ad3d5cdc8946d4c1c4951c?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0OXvO7h8MkGueA4ad1LvKm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4L5DNfLYenSBIz9dG1HGsG"
+}

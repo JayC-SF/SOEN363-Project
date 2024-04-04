@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Cp8WN4V8Tu4QJQwCN5Md4",
+      "id": "0Cp8WN4V8Tu4QJQwCN5Md4",
+      "name": "BENEE",
+      "type": "artist",
+      "uri": "spotify:artist:0Cp8WN4V8Tu4QJQwCN5Md4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602445461615"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4u5BWJputhCmihtUEWQ3ll",
+  "id": "4u5BWJputhCmihtUEWQ3ll",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309fbd88063a184ce000c186f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209fbd88063a184ce000c186f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109fbd88063a184ce000c186f",
+      "width": 64
+    }
+  ],
+  "label": "Republic Records",
+  "name": "Beach Boy",
+  "popularity": 0,
+  "release_date": "2022-02-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4u5BWJputhCmihtUEWQ3ll/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Cp8WN4V8Tu4QJQwCN5Md4",
+            "id": "0Cp8WN4V8Tu4QJQwCN5Md4",
+            "name": "BENEE",
+            "type": "artist",
+            "uri": "spotify:artist:0Cp8WN4V8Tu4QJQwCN5Md4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192694,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AEWEYnWHPqXTExnIfxzsT",
+        "id": "7AEWEYnWHPqXTExnIfxzsT",
+        "is_local": false,
+        "name": "Beach Boy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AEWEYnWHPqXTExnIfxzsT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4u5BWJputhCmihtUEWQ3ll"
+}

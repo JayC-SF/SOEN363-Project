@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa"
+      },
+      "href": "https://api.spotify.com/v1/artists/7oaSITFPadI3fnIxbv7hTa",
+      "id": "7oaSITFPadI3fnIxbv7hTa",
+      "name": "Philipp Dittberner",
+      "type": "artist",
+      "uri": "spotify:artist:7oaSITFPadI3fnIxbv7hTa"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK"
+      },
+      "href": "https://api.spotify.com/v1/artists/64hJwJas2snPX2t0qGs1QK",
+      "id": "64hJwJas2snPX2t0qGs1QK",
+      "name": "Marv",
+      "type": "artist",
+      "uri": "spotify:artist:64hJwJas2snPX2t0qGs1QK"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "copyrights": [
+    {
+      "text": "2015 Sonnenkater / Groenland Records under exclusive license from Philipp Dittberner & Marv",
+      "type": "C"
+    },
+    {
+      "text": "2015 Sonnenkater / Groenland Records under exclusive license from Philipp Dittberner & Marv",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615938782866"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1WJ8pUODupPLZdyxkWkG7p"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1WJ8pUODupPLZdyxkWkG7p",
+  "id": "1WJ8pUODupPLZdyxkWkG7p",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27331394a3512443021cb68f0ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0231394a3512443021cb68f0ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485131394a3512443021cb68f0ef",
+      "width": 64
+    }
+  ],
+  "label": "Gr\u00f6nland",
+  "name": "Wolke 4",
+  "popularity": 56,
+  "release_date": "2015-01-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1WJ8pUODupPLZdyxkWkG7p/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa"
+            },
+            "href": "https://api.spotify.com/v1/artists/7oaSITFPadI3fnIxbv7hTa",
+            "id": "7oaSITFPadI3fnIxbv7hTa",
+            "name": "Philipp Dittberner",
+            "type": "artist",
+            "uri": "spotify:artist:7oaSITFPadI3fnIxbv7hTa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK"
+            },
+            "href": "https://api.spotify.com/v1/artists/64hJwJas2snPX2t0qGs1QK",
+            "id": "64hJwJas2snPX2t0qGs1QK",
+            "name": "Marv",
+            "type": "artist",
+            "uri": "spotify:artist:64hJwJas2snPX2t0qGs1QK"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "CH",
+          "DE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 237857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RfxjgQMne0dRNiORcLtMg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RfxjgQMne0dRNiORcLtMg",
+        "id": "5RfxjgQMne0dRNiORcLtMg",
+        "is_local": false,
+        "name": "Wolke 4",
+        "preview_url": "https://p.scdn.co/mp3-preview/7d410f75dc43887deadf3f53e6998736e216b806?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RfxjgQMne0dRNiORcLtMg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1WJ8pUODupPLZdyxkWkG7p"
+}

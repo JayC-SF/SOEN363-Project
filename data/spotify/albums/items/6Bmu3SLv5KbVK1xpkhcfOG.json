@@ -1,0 +1,143 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+      },
+      "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
+      "id": "3QJzdZJYIAcoET1GcfpNGi",
+      "name": "Damian Marley",
+      "type": "artist",
+      "uri": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2005 Universal Records, a Division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2005 Universal Records a division of UMG Recordings Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498845387"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Bmu3SLv5KbVK1xpkhcfOG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Bmu3SLv5KbVK1xpkhcfOG",
+  "id": "6Bmu3SLv5KbVK1xpkhcfOG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736bc0b3be8b6653c5e158cbd1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026bc0b3be8b6653c5e158cbd1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516bc0b3be8b6653c5e158cbd1",
+      "width": 64
+    }
+  ],
+  "label": "Universal Records/Tuff Gong Records",
+  "name": "Welcome To Jamrock",
+  "popularity": 54,
+  "release_date": "2005-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Bmu3SLv5KbVK1xpkhcfOG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+            },
+            "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
+            "id": "3QJzdZJYIAcoET1GcfpNGi",
+            "name": "Damian Marley",
+            "type": "artist",
+            "uri": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "IE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OHd0C4tO7pgLl7daEYUoz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4OHd0C4tO7pgLl7daEYUoz",
+        "id": "4OHd0C4tO7pgLl7daEYUoz",
+        "is_local": false,
+        "name": "Welcome To Jamrock",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4OHd0C4tO7pgLl7daEYUoz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+            },
+            "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
+            "id": "3QJzdZJYIAcoET1GcfpNGi",
+            "name": "Damian Marley",
+            "type": "artist",
+            "uri": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "GB",
+          "IE",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 213280,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4PvVHAkONOaS6v4wgONGYZ",
+        "id": "4PvVHAkONOaS6v4wgONGYZ",
+        "is_local": false,
+        "name": "Welcome To Jamrock",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4PvVHAkONOaS6v4wgONGYZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6Bmu3SLv5KbVK1xpkhcfOG"
+}

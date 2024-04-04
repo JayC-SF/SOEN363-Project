@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1OBizG9nrnHJkrL9NjnWYN",
+      "id": "1OBizG9nrnHJkrL9NjnWYN",
+      "name": "Lucho SSJ",
+      "type": "artist",
+      "uri": "spotify:artist:1OBizG9nrnHJkrL9NjnWYN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 R-i-c",
+      "type": "C"
+    },
+    {
+      "text": "2019 R-i-c",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5057805492627"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2OjIEFTKM4LstW3tblFf3i"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2OjIEFTKM4LstW3tblFf3i",
+  "id": "2OjIEFTKM4LstW3tblFf3i",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737926df36901150843305aed9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027926df36901150843305aed9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517926df36901150843305aed9",
+      "width": 64
+    }
+  ],
+  "label": "SubmarinoAtomico",
+  "name": "Mil Prendas",
+  "popularity": 0,
+  "release_date": "2019-07-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2OjIEFTKM4LstW3tblFf3i/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1OBizG9nrnHJkrL9NjnWYN",
+            "id": "1OBizG9nrnHJkrL9NjnWYN",
+            "name": "Lucho SSJ",
+            "type": "artist",
+            "uri": "spotify:artist:1OBizG9nrnHJkrL9NjnWYN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EcIU574ksr6mC1GMEOe0p",
+            "id": "4EcIU574ksr6mC1GMEOe0p",
+            "name": "Midel",
+            "type": "artist",
+            "uri": "spotify:artist:4EcIU574ksr6mC1GMEOe0p"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bYrD2qoWM2KU9OhDwLhil"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bYrD2qoWM2KU9OhDwLhil",
+        "id": "5bYrD2qoWM2KU9OhDwLhil",
+        "is_local": false,
+        "name": "Mil Prendas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5bYrD2qoWM2KU9OhDwLhil"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2OjIEFTKM4LstW3tblFf3i"
+}

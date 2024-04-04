@@ -1,0 +1,121 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+      },
+      "href": "https://api.spotify.com/v1/artists/11aa081aKYUzmeFm0yHdT2",
+      "id": "11aa081aKYUzmeFm0yHdT2",
+      "name": "S3RL",
+      "type": "artist",
+      "uri": "spotify:artist:11aa081aKYUzmeFm0yHdT2"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Emfa Music, under exclusive license to Caroline, Norway",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Emfa Music, under exclusive license to Caroline, Norway",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547427946"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4SxVWZRs64hr6Xidjl4gYp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4SxVWZRs64hr6Xidjl4gYp",
+  "id": "4SxVWZRs64hr6Xidjl4gYp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdb30cad121d07734e8e1d3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdb30cad121d07734e8e1d3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdb30cad121d07734e8e1d3a",
+      "width": 64
+    }
+  ],
+  "label": "Virgin Music Label And Artist Services",
+  "name": "Genre Police",
+  "popularity": 37,
+  "release_date": "2015-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4SxVWZRs64hr6Xidjl4gYp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+            },
+            "href": "https://api.spotify.com/v1/artists/11aa081aKYUzmeFm0yHdT2",
+            "id": "11aa081aKYUzmeFm0yHdT2",
+            "name": "S3RL",
+            "type": "artist",
+            "uri": "spotify:artist:11aa081aKYUzmeFm0yHdT2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hTpYYuomne0SjqVYHNAZm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hTpYYuomne0SjqVYHNAZm",
+            "id": "0hTpYYuomne0SjqVYHNAZm",
+            "name": "Lexi",
+            "type": "artist",
+            "uri": "spotify:artist:0hTpYYuomne0SjqVYHNAZm"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 196499,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36flWlZzU7ETc40iXFGWzJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36flWlZzU7ETc40iXFGWzJ",
+        "id": "36flWlZzU7ETc40iXFGWzJ",
+        "is_local": false,
+        "name": "Genre Police",
+        "preview_url": "https://p.scdn.co/mp3-preview/68d63c80876ed3e64410c4d8f22aedc94c44a00f?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36flWlZzU7ETc40iXFGWzJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4SxVWZRs64hr6Xidjl4gYp"
+}

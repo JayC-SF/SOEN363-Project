@@ -1,0 +1,561 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+      "id": "2ApaG60P4r0yhBoDCGD8YG",
+      "name": "Elliott Smith",
+      "type": "artist",
+      "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "BB",
+    "BS",
+    "BZ",
+    "CA",
+    "CR",
+    "CW",
+    "DM",
+    "DO",
+    "GD",
+    "GT",
+    "HN",
+    "HT",
+    "JM",
+    "JP",
+    "KN",
+    "LC",
+    "NI",
+    "PA",
+    "PR",
+    "SV",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2010 Kill Rock Stars",
+      "type": "C"
+    },
+    {
+      "text": "2010 Kill Rock Stars",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "759656052320"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6zbWzjBUvXvF16tg98OYck",
+  "id": "6zbWzjBUvXvF16tg98OYck",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4183969a59f4fc222d4a4a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4183969a59f4fc222d4a4a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4183969a59f4fc222d4a4a5",
+      "width": 64
+    }
+  ],
+  "label": "Kill Rock Stars",
+  "name": "Roman Candle",
+  "popularity": 50,
+  "release_date": "2010-04-06",
+  "release_date_precision": "day",
+  "total_tracks": 9,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6zbWzjBUvXvF16tg98OYck/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zUkBorysSm42GV4akxnoB",
+        "id": "3zUkBorysSm42GV4akxnoB",
+        "is_local": false,
+        "name": "Roman Candle",
+        "preview_url": "https://p.scdn.co/mp3-preview/6be433e82d459dac580dc4a5d096c68c3bf1b402?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3zUkBorysSm42GV4akxnoB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 214853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2lUejG76ZEmgY7PvzwxxTj",
+        "id": "2lUejG76ZEmgY7PvzwxxTj",
+        "is_local": false,
+        "name": "Condor Ave",
+        "preview_url": "https://p.scdn.co/mp3-preview/86a4e3d6da4cf44d805d65a90574e6dcbdbbb15b?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2lUejG76ZEmgY7PvzwxxTj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 183053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5fKfzL3IVXqilKqFu1E8is",
+        "id": "5fKfzL3IVXqilKqFu1E8is",
+        "is_local": false,
+        "name": "No Name #1",
+        "preview_url": "https://p.scdn.co/mp3-preview/f052792b0207c5ea22b187c46eebc06add43f3e4?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5fKfzL3IVXqilKqFu1E8is"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 214800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QAHvJbzjFne5mMLSEMmdV",
+        "id": "3QAHvJbzjFne5mMLSEMmdV",
+        "is_local": false,
+        "name": "No Name #2",
+        "preview_url": "https://p.scdn.co/mp3-preview/873481da69bb69fb29d41c142aa387020cd11729?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3QAHvJbzjFne5mMLSEMmdV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1UwBdRQA4dMkNnixlApY7Z",
+        "id": "1UwBdRQA4dMkNnixlApY7Z",
+        "is_local": false,
+        "name": "No Name #3",
+        "preview_url": "https://p.scdn.co/mp3-preview/d6024b139baf98abf2acce86fed12e741b0cf0ee?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1UwBdRQA4dMkNnixlApY7Z"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 156666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34k9jhxernuLhUDVkG63VN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34k9jhxernuLhUDVkG63VN",
+        "id": "34k9jhxernuLhUDVkG63VN",
+        "is_local": false,
+        "name": "Drive All Over Town",
+        "preview_url": "https://p.scdn.co/mp3-preview/6309424afc830bea69a9297e67ea33fa455ad7eb?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:34k9jhxernuLhUDVkG63VN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 149986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CQrY94YLZVMYK6PU65SUR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6CQrY94YLZVMYK6PU65SUR",
+        "id": "6CQrY94YLZVMYK6PU65SUR",
+        "is_local": false,
+        "name": "No Name #4",
+        "preview_url": "https://p.scdn.co/mp3-preview/6b6308ffac65580b87295122ee5e2d41418fbdda?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6CQrY94YLZVMYK6PU65SUR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0f0zWocUiTXlNcV6s0Ulfp",
+        "id": "0f0zWocUiTXlNcV6s0Ulfp",
+        "is_local": false,
+        "name": "Last Call",
+        "preview_url": "https://p.scdn.co/mp3-preview/89a96108ae945ad2dbe5309e597e763a3eecc72a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0f0zWocUiTXlNcV6s0Ulfp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+            "id": "2ApaG60P4r0yhBoDCGD8YG",
+            "name": "Elliott Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "JP",
+          "KN",
+          "LC",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 220840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GwXU2PDHWykajNQ2Gaj8e",
+        "id": "5GwXU2PDHWykajNQ2Gaj8e",
+        "is_local": false,
+        "name": "Kiwi Maddog 20/20 (version 2 of 2)",
+        "preview_url": "https://p.scdn.co/mp3-preview/30999614ecd3355186da0933fb119513082334f6?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5GwXU2PDHWykajNQ2Gaj8e"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9
+  },
+  "type": "album",
+  "uri": "spotify:album:6zbWzjBUvXvF16tg98OYck"
+}

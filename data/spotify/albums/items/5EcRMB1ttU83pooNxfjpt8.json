@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+      },
+      "href": "https://api.spotify.com/v1/artists/5qRSs6mvI17zrkJpOHkCoM",
+      "id": "5qRSs6mvI17zrkJpOHkCoM",
+      "name": "iKON",
+      "type": "artist",
+      "uri": "spotify:artist:5qRSs6mvI17zrkJpOHkCoM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 YG Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2017 YG Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191222001880"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EcRMB1ttU83pooNxfjpt8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EcRMB1ttU83pooNxfjpt8",
+  "id": "5EcRMB1ttU83pooNxfjpt8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737ea35f96f84774bba9924ec5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027ea35f96f84774bba9924ec5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517ea35f96f84774bba9924ec5",
+      "width": 64
+    }
+  ],
+  "label": "YG Entertainment",
+  "name": "NEW KIDS : BEGIN",
+  "popularity": 0,
+  "release_date": "2017-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EcRMB1ttU83pooNxfjpt8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qRSs6mvI17zrkJpOHkCoM",
+            "id": "5qRSs6mvI17zrkJpOHkCoM",
+            "name": "iKON",
+            "type": "artist",
+            "uri": "spotify:artist:5qRSs6mvI17zrkJpOHkCoM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219225,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oE1dVmtTagzTRlxDXhX8t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6oE1dVmtTagzTRlxDXhX8t",
+        "id": "6oE1dVmtTagzTRlxDXhX8t",
+        "is_local": false,
+        "name": "BLING BLING",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6oE1dVmtTagzTRlxDXhX8t"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qRSs6mvI17zrkJpOHkCoM",
+            "id": "5qRSs6mvI17zrkJpOHkCoM",
+            "name": "iKON",
+            "type": "artist",
+            "uri": "spotify:artist:5qRSs6mvI17zrkJpOHkCoM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214584,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pg8HiIhLaxUtA7nHUMOnW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1pg8HiIhLaxUtA7nHUMOnW",
+        "id": "1pg8HiIhLaxUtA7nHUMOnW",
+        "is_local": false,
+        "name": "B-DAY",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1pg8HiIhLaxUtA7nHUMOnW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5EcRMB1ttU83pooNxfjpt8"
+}

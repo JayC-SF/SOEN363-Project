@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+      },
+      "href": "https://api.spotify.com/v1/artists/0g0ZYLiNYI4kMg8MX76bkN",
+      "id": "0g0ZYLiNYI4kMg8MX76bkN",
+      "name": "mikeeysmind",
+      "type": "artist",
+      "uri": "spotify:artist:0g0ZYLiNYI4kMg8MX76bkN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 mikeeysmind",
+      "type": "C"
+    },
+    {
+      "text": "2020 mikeeysmind",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0197745892837"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1YSfWchRmeeeYlZirtb9Pk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1YSfWchRmeeeYlZirtb9Pk",
+  "id": "1YSfWchRmeeeYlZirtb9Pk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6c49b65f640d1399d63d78a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6c49b65f640d1399d63d78a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6c49b65f640d1399d63d78a",
+      "width": 64
+    }
+  ],
+  "label": "mikeeysmind",
+  "name": "#doyalike",
+  "popularity": 6,
+  "release_date": "2020-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1YSfWchRmeeeYlZirtb9Pk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+            },
+            "href": "https://api.spotify.com/v1/artists/0g0ZYLiNYI4kMg8MX76bkN",
+            "id": "0g0ZYLiNYI4kMg8MX76bkN",
+            "name": "mikeeysmind",
+            "type": "artist",
+            "uri": "spotify:artist:0g0ZYLiNYI4kMg8MX76bkN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183054,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1E1Iu7yL3s51muCR7jlTrT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1E1Iu7yL3s51muCR7jlTrT",
+        "id": "1E1Iu7yL3s51muCR7jlTrT",
+        "is_local": false,
+        "name": "#doyalike",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1E1Iu7yL3s51muCR7jlTrT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1YSfWchRmeeeYlZirtb9Pk"
+}

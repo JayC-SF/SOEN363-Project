@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7m0d5KbIfUlF3aY9KnTw5U"
+      },
+      "href": "https://api.spotify.com/v1/artists/7m0d5KbIfUlF3aY9KnTw5U",
+      "id": "7m0d5KbIfUlF3aY9KnTw5U",
+      "name": "Jai Nova",
+      "type": "artist",
+      "uri": "spotify:artist:7m0d5KbIfUlF3aY9KnTw5U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Jai Nova",
+      "type": "C"
+    },
+    {
+      "text": "2021 Jai Nova",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495262404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3KiAdpA9vvW9r82UFIwt9z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3KiAdpA9vvW9r82UFIwt9z",
+  "id": "3KiAdpA9vvW9r82UFIwt9z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dcd8ed59791538ac168204ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dcd8ed59791538ac168204ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dcd8ed59791538ac168204ae",
+      "width": 64
+    }
+  ],
+  "label": "Jai Nova",
+  "name": "Back to Me",
+  "popularity": 0,
+  "release_date": "2021-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3KiAdpA9vvW9r82UFIwt9z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7m0d5KbIfUlF3aY9KnTw5U"
+            },
+            "href": "https://api.spotify.com/v1/artists/7m0d5KbIfUlF3aY9KnTw5U",
+            "id": "7m0d5KbIfUlF3aY9KnTw5U",
+            "name": "Jai Nova",
+            "type": "artist",
+            "uri": "spotify:artist:7m0d5KbIfUlF3aY9KnTw5U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128864,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zYglLHONB2t9mLPwjGbBe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zYglLHONB2t9mLPwjGbBe",
+        "id": "3zYglLHONB2t9mLPwjGbBe",
+        "is_local": false,
+        "name": "Back to Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3zYglLHONB2t9mLPwjGbBe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3KiAdpA9vvW9r82UFIwt9z"
+}

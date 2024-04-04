@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WfL2PHijCihsWmlnwYjtj",
+      "id": "0WfL2PHijCihsWmlnwYjtj",
+      "name": "eyden",
+      "type": "artist",
+      "uri": "spotify:artist:0WfL2PHijCihsWmlnwYjtj"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 eyden",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 eyden",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859758332686"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2vTkeMXSUVWqTfRsvQVh6I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2vTkeMXSUVWqTfRsvQVh6I",
+  "id": "2vTkeMXSUVWqTfRsvQVh6I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd11afadb073cec7464c16f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd11afadb073cec7464c16f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd11afadb073cec7464c16f6",
+      "width": 64
+    }
+  ],
+  "label": "eyden",
+  "name": "HOUSE PARTY",
+  "popularity": 38,
+  "release_date": "2022-06-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2vTkeMXSUVWqTfRsvQVh6I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WfL2PHijCihsWmlnwYjtj",
+            "id": "0WfL2PHijCihsWmlnwYjtj",
+            "name": "eyden",
+            "type": "artist",
+            "uri": "spotify:artist:0WfL2PHijCihsWmlnwYjtj"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 160734,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MquJ1PdhuibOLODelb3xN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MquJ1PdhuibOLODelb3xN",
+        "id": "4MquJ1PdhuibOLODelb3xN",
+        "is_local": false,
+        "name": "HOUSE PARTY",
+        "preview_url": "https://p.scdn.co/mp3-preview/3312a9196a11a8e3f682dd401f466d7b47d771c6?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MquJ1PdhuibOLODelb3xN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2vTkeMXSUVWqTfRsvQVh6I"
+}

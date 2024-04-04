@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PKiJYhDTIDObhzAqQfmR5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PKiJYhDTIDObhzAqQfmR5",
+      "id": "4PKiJYhDTIDObhzAqQfmR5",
+      "name": "Unicornshawty",
+      "type": "artist",
+      "uri": "spotify:artist:4PKiJYhDTIDObhzAqQfmR5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3060481 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3060481 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196398199492"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1JtyznM82Seef5wnKi3YOt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1JtyznM82Seef5wnKi3YOt",
+  "id": "1JtyznM82Seef5wnKi3YOt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba27432ad4d92781c1803dbc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba27432ad4d92781c1803dbc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba27432ad4d92781c1803dbc",
+      "width": 64
+    }
+  ],
+  "label": "3060481 Records DK",
+  "name": "HASAE",
+  "popularity": 0,
+  "release_date": "2021-08-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1JtyznM82Seef5wnKi3YOt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PKiJYhDTIDObhzAqQfmR5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PKiJYhDTIDObhzAqQfmR5",
+            "id": "4PKiJYhDTIDObhzAqQfmR5",
+            "name": "Unicornshawty",
+            "type": "artist",
+            "uri": "spotify:artist:4PKiJYhDTIDObhzAqQfmR5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 63406,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qdg6h9MiSNDG9yAb57tyf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7qdg6h9MiSNDG9yAb57tyf",
+        "id": "7qdg6h9MiSNDG9yAb57tyf",
+        "is_local": false,
+        "name": "HASAE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7qdg6h9MiSNDG9yAb57tyf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1JtyznM82Seef5wnKi3YOt"
+}

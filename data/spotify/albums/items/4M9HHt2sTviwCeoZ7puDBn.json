@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vqXgq7r22OMYcDDxG92Px"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vqXgq7r22OMYcDDxG92Px",
+      "id": "0vqXgq7r22OMYcDDxG92Px",
+      "name": "F.T.S (Frum tha Stablez)",
+      "type": "artist",
+      "uri": "spotify:artist:0vqXgq7r22OMYcDDxG92Px"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Savage Entertainment Ltd - 2014",
+      "type": "C"
+    },
+    {
+      "text": "Savage Entertainment Ltd - 2014",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9421028857055"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4M9HHt2sTviwCeoZ7puDBn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4M9HHt2sTviwCeoZ7puDBn",
+  "id": "4M9HHt2sTviwCeoZ7puDBn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c77a6526189d306564eba90e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c77a6526189d306564eba90e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c77a6526189d306564eba90e",
+      "width": 64
+    }
+  ],
+  "label": "Savage Entertainment Ltd",
+  "name": "Me & You",
+  "popularity": 0,
+  "release_date": "2014-02-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4M9HHt2sTviwCeoZ7puDBn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0vqXgq7r22OMYcDDxG92Px"
+            },
+            "href": "https://api.spotify.com/v1/artists/0vqXgq7r22OMYcDDxG92Px",
+            "id": "0vqXgq7r22OMYcDDxG92Px",
+            "name": "F.T.S (Frum tha Stablez)",
+            "type": "artist",
+            "uri": "spotify:artist:0vqXgq7r22OMYcDDxG92Px"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2nt8exTz3FdwAcrutD2LHt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2nt8exTz3FdwAcrutD2LHt",
+            "id": "2nt8exTz3FdwAcrutD2LHt",
+            "name": "Axeman",
+            "type": "artist",
+            "uri": "spotify:artist:2nt8exTz3FdwAcrutD2LHt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247741,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hY4gS7WJvTMEO9JgApFX2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3hY4gS7WJvTMEO9JgApFX2",
+        "id": "3hY4gS7WJvTMEO9JgApFX2",
+        "is_local": false,
+        "name": "Me & You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3hY4gS7WJvTMEO9JgApFX2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4M9HHt2sTviwCeoZ7puDBn"
+}

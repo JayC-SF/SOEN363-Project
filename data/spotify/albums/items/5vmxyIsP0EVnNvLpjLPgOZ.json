@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+      },
+      "href": "https://api.spotify.com/v1/artists/39KEQQAG9JhIt71g9NEVhh",
+      "id": "39KEQQAG9JhIt71g9NEVhh",
+      "name": "Azet",
+      "type": "artist",
+      "uri": "spotify:artist:39KEQQAG9JhIt71g9NEVhh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 KMN Gang",
+      "type": "C"
+    },
+    {
+      "text": "2017 KMN Gang",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939336523"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5vmxyIsP0EVnNvLpjLPgOZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5vmxyIsP0EVnNvLpjLPgOZ",
+  "id": "5vmxyIsP0EVnNvLpjLPgOZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394bc8a72d476e59167f87a8e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294bc8a72d476e59167f87a8e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194bc8a72d476e59167f87a8e",
+      "width": 64
+    }
+  ],
+  "label": "KMN Gang",
+  "name": "Qa bone",
+  "popularity": 0,
+  "release_date": "2017-12-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5vmxyIsP0EVnNvLpjLPgOZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+            },
+            "href": "https://api.spotify.com/v1/artists/39KEQQAG9JhIt71g9NEVhh",
+            "id": "39KEQQAG9JhIt71g9NEVhh",
+            "name": "Azet",
+            "type": "artist",
+            "uri": "spotify:artist:39KEQQAG9JhIt71g9NEVhh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Dvx6p8JDyzeOPGmaCIH1L",
+            "id": "0Dvx6p8JDyzeOPGmaCIH1L",
+            "name": "RAF Camora",
+            "type": "artist",
+            "uri": "spotify:artist:0Dvx6p8JDyzeOPGmaCIH1L"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190320,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6X0pg9AHaLYLq8Cy5j8Suz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6X0pg9AHaLYLq8Cy5j8Suz",
+        "id": "6X0pg9AHaLYLq8Cy5j8Suz",
+        "is_local": false,
+        "name": "Qa bone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6X0pg9AHaLYLq8Cy5j8Suz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5vmxyIsP0EVnNvLpjLPgOZ"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+      },
+      "href": "https://api.spotify.com/v1/artists/54NKhABnyGAvbek0n63TAu",
+      "id": "54NKhABnyGAvbek0n63TAu",
+      "name": "Aden Foyer",
+      "type": "artist",
+      "uri": "spotify:artist:54NKhABnyGAvbek0n63TAu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Aden Foyer",
+      "type": "C"
+    },
+    {
+      "text": "2022 Aden Foyer",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859766407956"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3YMpocogsCi7WkfwvcVL4I",
+  "id": "3YMpocogsCi7WkfwvcVL4I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300722b0bba742c665c8dc484",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0200722b0bba742c665c8dc484",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485100722b0bba742c665c8dc484",
+      "width": 64
+    }
+  ],
+  "label": "Aden Foyer",
+  "name": "The Ballet Girl",
+  "popularity": 0,
+  "release_date": "2022-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3YMpocogsCi7WkfwvcVL4I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+            },
+            "href": "https://api.spotify.com/v1/artists/54NKhABnyGAvbek0n63TAu",
+            "id": "54NKhABnyGAvbek0n63TAu",
+            "name": "Aden Foyer",
+            "type": "artist",
+            "uri": "spotify:artist:54NKhABnyGAvbek0n63TAu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201424,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yVBxI8TaIL86Rrmah83fd",
+        "id": "1yVBxI8TaIL86Rrmah83fd",
+        "is_local": false,
+        "name": "The Ballet Girl",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yVBxI8TaIL86Rrmah83fd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3YMpocogsCi7WkfwvcVL4I"
+}

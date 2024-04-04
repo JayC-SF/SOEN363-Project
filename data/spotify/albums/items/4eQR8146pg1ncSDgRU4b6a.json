@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AAek7eO022T4AjiibppJn"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AAek7eO022T4AjiibppJn",
+      "id": "4AAek7eO022T4AjiibppJn",
+      "name": "dancing cats",
+      "type": "artist",
+      "uri": "spotify:artist:4AAek7eO022T4AjiibppJn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 dancing cats",
+      "type": "C"
+    },
+    {
+      "text": "2022 dancing cats",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197083210218"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4eQR8146pg1ncSDgRU4b6a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4eQR8146pg1ncSDgRU4b6a",
+  "id": "4eQR8146pg1ncSDgRU4b6a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273068e340f74eed960e44c0fe2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02068e340f74eed960e44c0fe2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851068e340f74eed960e44c0fe2",
+      "width": 64
+    }
+  ],
+  "label": "dancing cats",
+  "name": "Go Kitty Go",
+  "popularity": 0,
+  "release_date": "2022-08-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4eQR8146pg1ncSDgRU4b6a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AAek7eO022T4AjiibppJn"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AAek7eO022T4AjiibppJn",
+            "id": "4AAek7eO022T4AjiibppJn",
+            "name": "dancing cats",
+            "type": "artist",
+            "uri": "spotify:artist:4AAek7eO022T4AjiibppJn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 77693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1X89G6NxLeb0TvGejyHgkX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1X89G6NxLeb0TvGejyHgkX",
+        "id": "1X89G6NxLeb0TvGejyHgkX",
+        "is_local": false,
+        "name": "Go Kitty Go",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1X89G6NxLeb0TvGejyHgkX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4eQR8146pg1ncSDgRU4b6a"
+}

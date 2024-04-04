@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RhVihxqFGSR3bDu32i9B2",
+      "id": "2RhVihxqFGSR3bDu32i9B2",
+      "name": "bennytheghost",
+      "type": "artist",
+      "uri": "spotify:artist:2RhVihxqFGSR3bDu32i9B2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 bennytheghost",
+      "type": "C"
+    },
+    {
+      "text": "2022 bennytheghost",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495304531"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29got4zSooc6xgknMODGii"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29got4zSooc6xgknMODGii",
+  "id": "29got4zSooc6xgknMODGii",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d59c58fb4e0eda37e7e1fe8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d59c58fb4e0eda37e7e1fe8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d59c58fb4e0eda37e7e1fe8c",
+      "width": 64
+    }
+  ],
+  "label": "BTG Recordings",
+  "name": "Say Something",
+  "popularity": 0,
+  "release_date": "2022-02-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29got4zSooc6xgknMODGii/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RhVihxqFGSR3bDu32i9B2",
+            "id": "2RhVihxqFGSR3bDu32i9B2",
+            "name": "bennytheghost",
+            "type": "artist",
+            "uri": "spotify:artist:2RhVihxqFGSR3bDu32i9B2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147853,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NduQjYR9ElRhgSOAqdoOV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NduQjYR9ElRhgSOAqdoOV",
+        "id": "6NduQjYR9ElRhgSOAqdoOV",
+        "is_local": false,
+        "name": "Say Something",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NduQjYR9ElRhgSOAqdoOV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29got4zSooc6xgknMODGii"
+}

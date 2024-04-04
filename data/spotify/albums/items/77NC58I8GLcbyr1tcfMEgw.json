@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RwRoCyyMD8TpyPaRAa0yr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RwRoCyyMD8TpyPaRAa0yr",
+      "id": "5RwRoCyyMD8TpyPaRAa0yr",
+      "name": "Miwata",
+      "type": "artist",
+      "uri": "spotify:artist:5RwRoCyyMD8TpyPaRAa0yr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Jugglerz Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Jugglerz Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050486986455"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/77NC58I8GLcbyr1tcfMEgw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/77NC58I8GLcbyr1tcfMEgw",
+  "id": "77NC58I8GLcbyr1tcfMEgw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f77535718bbdb790bc4c05f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f77535718bbdb790bc4c05f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f77535718bbdb790bc4c05f",
+      "width": 64
+    }
+  ],
+  "label": "Jugglerz Records",
+  "name": "Vielleicht",
+  "popularity": 0,
+  "release_date": "2017-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/77NC58I8GLcbyr1tcfMEgw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RwRoCyyMD8TpyPaRAa0yr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5RwRoCyyMD8TpyPaRAa0yr",
+            "id": "5RwRoCyyMD8TpyPaRAa0yr",
+            "name": "Miwata",
+            "type": "artist",
+            "uri": "spotify:artist:5RwRoCyyMD8TpyPaRAa0yr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200294,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hygGk6bBO1PWumOJ8MFs6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3hygGk6bBO1PWumOJ8MFs6",
+        "id": "3hygGk6bBO1PWumOJ8MFs6",
+        "is_local": false,
+        "name": "Vielleicht",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3hygGk6bBO1PWumOJ8MFs6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:77NC58I8GLcbyr1tcfMEgw"
+}

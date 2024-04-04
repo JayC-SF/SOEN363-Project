@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0X79jVQeTlVeDM881ZhrU1",
+      "id": "0X79jVQeTlVeDM881ZhrU1",
+      "name": "Robert Knight",
+      "type": "artist",
+      "uri": "spotify:artist:0X79jVQeTlVeDM881ZhrU1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "K-tel",
+      "type": "C"
+    },
+    {
+      "text": "K-tel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0805087042307"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2A3hKv3FB8d2HbqR2SEkM0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2A3hKv3FB8d2HbqR2SEkM0",
+  "id": "2A3hKv3FB8d2HbqR2SEkM0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273208ee391095192ec0a2dc3e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02208ee391095192ec0a2dc3e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851208ee391095192ec0a2dc3e1",
+      "width": 64
+    }
+  ],
+  "label": "K-tel",
+  "name": "Everlasting Love/Love On A Mountain Top",
+  "popularity": 0,
+  "release_date": "2008-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2A3hKv3FB8d2HbqR2SEkM0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X79jVQeTlVeDM881ZhrU1",
+            "id": "0X79jVQeTlVeDM881ZhrU1",
+            "name": "Robert Knight",
+            "type": "artist",
+            "uri": "spotify:artist:0X79jVQeTlVeDM881ZhrU1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aAcwmhXOm0yFLUlMH3Hvp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4aAcwmhXOm0yFLUlMH3Hvp",
+        "id": "4aAcwmhXOm0yFLUlMH3Hvp",
+        "is_local": false,
+        "name": "Everlasting Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4aAcwmhXOm0yFLUlMH3Hvp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X79jVQeTlVeDM881ZhrU1",
+            "id": "0X79jVQeTlVeDM881ZhrU1",
+            "name": "Robert Knight",
+            "type": "artist",
+            "uri": "spotify:artist:0X79jVQeTlVeDM881ZhrU1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ct9VpjtLwg5Ume0ZVuEk3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ct9VpjtLwg5Ume0ZVuEk3",
+        "id": "2Ct9VpjtLwg5Ume0ZVuEk3",
+        "is_local": false,
+        "name": "Love On A Mountain Top",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2Ct9VpjtLwg5Ume0ZVuEk3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2A3hKv3FB8d2HbqR2SEkM0"
+}

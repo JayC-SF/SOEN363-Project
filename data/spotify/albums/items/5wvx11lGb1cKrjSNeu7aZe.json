@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qhCyOV0SGO0E140bupXXq"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qhCyOV0SGO0E140bupXXq",
+      "id": "6qhCyOV0SGO0E140bupXXq",
+      "name": "Major Look",
+      "type": "artist",
+      "uri": "spotify:artist:6qhCyOV0SGO0E140bupXXq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Nation of Shopkeepers",
+      "type": "C"
+    },
+    {
+      "text": "2013 Nation of Shopkeepers",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199506579"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5wvx11lGb1cKrjSNeu7aZe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5wvx11lGb1cKrjSNeu7aZe",
+  "id": "5wvx11lGb1cKrjSNeu7aZe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b894e76caab1e27a311bb314",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b894e76caab1e27a311bb314",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b894e76caab1e27a311bb314",
+      "width": 64
+    }
+  ],
+  "label": "Nation of Shopkeepers",
+  "name": "Too Late",
+  "popularity": 0,
+  "release_date": "2013-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5wvx11lGb1cKrjSNeu7aZe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qhCyOV0SGO0E140bupXXq"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qhCyOV0SGO0E140bupXXq",
+            "id": "6qhCyOV0SGO0E140bupXXq",
+            "name": "Major Look",
+            "type": "artist",
+            "uri": "spotify:artist:6qhCyOV0SGO0E140bupXXq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250313,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4P2xnBGu5GHndT2GDMVFCt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4P2xnBGu5GHndT2GDMVFCt",
+        "id": "4P2xnBGu5GHndT2GDMVFCt",
+        "is_local": false,
+        "name": "Too Late",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4P2xnBGu5GHndT2GDMVFCt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5wvx11lGb1cKrjSNeu7aZe"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+      },
+      "href": "https://api.spotify.com/v1/artists/470WlqN9HSRDGNaMufeHHF",
+      "id": "470WlqN9HSRDGNaMufeHHF",
+      "name": "Imaginary Future",
+      "type": "artist",
+      "uri": "spotify:artist:470WlqN9HSRDGNaMufeHHF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Imaginary Future",
+      "type": "C"
+    },
+    {
+      "text": "2017 Imaginary Future",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192378569477"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1SKJYtCqIe2RDhIuhavcdD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1SKJYtCqIe2RDhIuhavcdD",
+  "id": "1SKJYtCqIe2RDhIuhavcdD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e8adb2fa0c4012d10fd55dd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e8adb2fa0c4012d10fd55dd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e8adb2fa0c4012d10fd55dd2",
+      "width": 64
+    }
+  ],
+  "label": "Imaginary Future",
+  "name": "Can't Take My Eyes Off You",
+  "popularity": 0,
+  "release_date": "2017-11-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1SKJYtCqIe2RDhIuhavcdD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+            },
+            "href": "https://api.spotify.com/v1/artists/470WlqN9HSRDGNaMufeHHF",
+            "id": "470WlqN9HSRDGNaMufeHHF",
+            "name": "Imaginary Future",
+            "type": "artist",
+            "uri": "spotify:artist:470WlqN9HSRDGNaMufeHHF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155612,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KLldZwn50DdqvYHFh8a8p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KLldZwn50DdqvYHFh8a8p",
+        "id": "0KLldZwn50DdqvYHFh8a8p",
+        "is_local": false,
+        "name": "Can't Take My Eyes Off You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0KLldZwn50DdqvYHFh8a8p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1SKJYtCqIe2RDhIuhavcdD"
+}

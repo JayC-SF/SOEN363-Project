@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+      "id": "4DdarB5cR90h2EOgrRNM8P",
+      "name": "Aykut Closer",
+      "type": "artist",
+      "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3473262 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197389529809"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5TrIBeYk7TeI8Ng3Ulc5va"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5TrIBeYk7TeI8Ng3Ulc5va",
+  "id": "5TrIBeYk7TeI8Ng3Ulc5va",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b4f9f62cc3291055faecaa91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b4f9f62cc3291055faecaa91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b4f9f62cc3291055faecaa91",
+      "width": 64
+    }
+  ],
+  "label": "3473262 Records DK",
+  "name": "Feelin It",
+  "popularity": 0,
+  "release_date": "2022-12-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5TrIBeYk7TeI8Ng3Ulc5va/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DdarB5cR90h2EOgrRNM8P"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DdarB5cR90h2EOgrRNM8P",
+            "id": "4DdarB5cR90h2EOgrRNM8P",
+            "name": "Aykut Closer",
+            "type": "artist",
+            "uri": "spotify:artist:4DdarB5cR90h2EOgrRNM8P"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178420,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rkXCeM8y3lwvrOtVtSQKK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rkXCeM8y3lwvrOtVtSQKK",
+        "id": "6rkXCeM8y3lwvrOtVtSQKK",
+        "is_local": false,
+        "name": "Feelin It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6rkXCeM8y3lwvrOtVtSQKK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5TrIBeYk7TeI8Ng3Ulc5va"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dXK3gZP0d796saMYIaLPZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0dXK3gZP0d796saMYIaLPZ",
+      "id": "0dXK3gZP0d796saMYIaLPZ",
+      "name": "ripped stitch",
+      "type": "artist",
+      "uri": "spotify:artist:0dXK3gZP0d796saMYIaLPZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 ripped",
+      "type": "C"
+    },
+    {
+      "text": "2023 ripped",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "730530590770"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6s2I0tMIClFq30PTqLy7pX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6s2I0tMIClFq30PTqLy7pX",
+  "id": "6s2I0tMIClFq30PTqLy7pX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27359f3d22e261ee7573ed9954d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0259f3d22e261ee7573ed9954d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485159f3d22e261ee7573ed9954d",
+      "width": 64
+    }
+  ],
+  "label": "ripped",
+  "name": "on some",
+  "popularity": 0,
+  "release_date": "2023-07-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6s2I0tMIClFq30PTqLy7pX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0dXK3gZP0d796saMYIaLPZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0dXK3gZP0d796saMYIaLPZ",
+            "id": "0dXK3gZP0d796saMYIaLPZ",
+            "name": "ripped stitch",
+            "type": "artist",
+            "uri": "spotify:artist:0dXK3gZP0d796saMYIaLPZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 90488,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pT3Vg485JWrxOru2Tw7yU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pT3Vg485JWrxOru2Tw7yU",
+        "id": "6pT3Vg485JWrxOru2Tw7yU",
+        "is_local": false,
+        "name": "on some",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6pT3Vg485JWrxOru2Tw7yU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6s2I0tMIClFq30PTqLy7pX"
+}

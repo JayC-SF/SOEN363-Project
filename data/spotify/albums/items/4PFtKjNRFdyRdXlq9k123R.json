@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1QHzQZO9zzSjv0yRRzgBPO",
+      "id": "1QHzQZO9zzSjv0yRRzgBPO",
+      "name": "Ali Noor",
+      "type": "artist",
+      "uri": "spotify:artist:1QHzQZO9zzSjv0yRRzgBPO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 rearts records",
+      "type": "C"
+    },
+    {
+      "text": "2020 rearts records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195598187056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4PFtKjNRFdyRdXlq9k123R"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4PFtKjNRFdyRdXlq9k123R",
+  "id": "4PFtKjNRFdyRdXlq9k123R",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf71c2af87ee21b2ce830261",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf71c2af87ee21b2ce830261",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf71c2af87ee21b2ce830261",
+      "width": 64
+    }
+  ],
+  "label": "rearts records",
+  "name": "Teray Saath",
+  "popularity": 0,
+  "release_date": "2020-10-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4PFtKjNRFdyRdXlq9k123R/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QHzQZO9zzSjv0yRRzgBPO",
+            "id": "1QHzQZO9zzSjv0yRRzgBPO",
+            "name": "Ali Noor",
+            "type": "artist",
+            "uri": "spotify:artist:1QHzQZO9zzSjv0yRRzgBPO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 312595,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3a7YxVvNmEJYtAvbJ5xYy1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3a7YxVvNmEJYtAvbJ5xYy1",
+        "id": "3a7YxVvNmEJYtAvbJ5xYy1",
+        "is_local": false,
+        "name": "Teray Saath",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3a7YxVvNmEJYtAvbJ5xYy1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4PFtKjNRFdyRdXlq9k123R"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id": "5R3Hr2cnCCjt220Jmt2xLf",
+      "name": "Dillon Francis",
+      "type": "artist",
+      "uri": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+      },
+      "href": "https://api.spotify.com/v1/artists/0g3NiCRhEv7M4SEDMrpItN",
+      "id": "0g3NiCRhEv7M4SEDMrpItN",
+      "name": "Totally Enormous Extinct Dinosaurs",
+      "type": "artist",
+      "uri": "spotify:artist:0g3NiCRhEv7M4SEDMrpItN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Mad Decent",
+      "type": "C"
+    },
+    {
+      "text": "2013 Mad Decent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859649003558"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1crmvi5WU2EUVgRZOAesM1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1crmvi5WU2EUVgRZOAesM1",
+  "id": "1crmvi5WU2EUVgRZOAesM1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395e01a323c4643e93f9e04cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295e01a323c4643e93f9e04cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195e01a323c4643e93f9e04cd",
+      "width": 64
+    }
+  ],
+  "label": "Mad Decent",
+  "name": "Without You",
+  "popularity": 0,
+  "release_date": "2013-08-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1crmvi5WU2EUVgRZOAesM1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+            "id": "5R3Hr2cnCCjt220Jmt2xLf",
+            "name": "Dillon Francis",
+            "type": "artist",
+            "uri": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+            },
+            "href": "https://api.spotify.com/v1/artists/0g3NiCRhEv7M4SEDMrpItN",
+            "id": "0g3NiCRhEv7M4SEDMrpItN",
+            "name": "Totally Enormous Extinct Dinosaurs",
+            "type": "artist",
+            "uri": "spotify:artist:0g3NiCRhEv7M4SEDMrpItN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6K3kOF05SrwfbAGcwqU4s8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6K3kOF05SrwfbAGcwqU4s8",
+        "id": "6K3kOF05SrwfbAGcwqU4s8",
+        "is_local": false,
+        "name": "Without You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6K3kOF05SrwfbAGcwqU4s8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1crmvi5WU2EUVgRZOAesM1"
+}

@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+      "id": "1VJ0briNOlXRtJUAzoUJdt",
+      "name": "FISHER",
+      "type": "artist",
+      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Catch & Release, under exclusive license to etcetc Music Pty Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Catch & Release, under exclusive license to etcetc Music Pty Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577399992"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1kaQClLOAmvOeoUXStuOAQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1kaQClLOAmvOeoUXStuOAQ",
+  "id": "1kaQClLOAmvOeoUXStuOAQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4ccc131831321088462a9e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4ccc131831321088462a9e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4ccc131831321088462a9e6",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Australia (Distribution)",
+  "name": "Losing It",
+  "popularity": 49,
+  "release_date": "2018-07-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1kaQClLOAmvOeoUXStuOAQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+            "id": "1VJ0briNOlXRtJUAzoUJdt",
+            "name": "FISHER",
+            "type": "artist",
+            "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 248035,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62WEkOD8TUO7wzkolOQW9v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62WEkOD8TUO7wzkolOQW9v",
+        "id": "62WEkOD8TUO7wzkolOQW9v",
+        "is_local": false,
+        "name": "Losing It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:62WEkOD8TUO7wzkolOQW9v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1kaQClLOAmvOeoUXStuOAQ"
+}

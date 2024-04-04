@@ -1,0 +1,145 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+      },
+      "href": "https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL",
+      "id": "0BmLNz4nSLfoWYW1cYsElL",
+      "name": "Alexandra Stan",
+      "type": "artist",
+      "uri": "spotify:artist:0BmLNz4nSLfoWYW1cYsElL"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2010 MediaPro Music Entertainment under exclusive license to Ultra Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "617465278952"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3RzskUIdQdGxBvERFFC5hs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3RzskUIdQdGxBvERFFC5hs",
+  "id": "3RzskUIdQdGxBvERFFC5hs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de2a910ba6d5490661c80def",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de2a910ba6d5490661c80def",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de2a910ba6d5490661c80def",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records, LLC",
+  "name": "Mr. Saxobeat",
+  "popularity": 20,
+  "release_date": "2010",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3RzskUIdQdGxBvERFFC5hs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+            },
+            "href": "https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL",
+            "id": "0BmLNz4nSLfoWYW1cYsElL",
+            "name": "Alexandra Stan",
+            "type": "artist",
+            "uri": "spotify:artist:0BmLNz4nSLfoWYW1cYsElL"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 195093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eYznw3dM96R1MlVfLJJgK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5eYznw3dM96R1MlVfLJJgK",
+        "id": "5eYznw3dM96R1MlVfLJJgK",
+        "is_local": false,
+        "name": "Mr. Saxobeat - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/b07d9f0465262ce4083c1e6e234ac59dea70b43d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5eYznw3dM96R1MlVfLJJgK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+            },
+            "href": "https://api.spotify.com/v1/artists/72FGvJgYbs0NBeJqECy6cF",
+            "id": "72FGvJgYbs0NBeJqECy6cF",
+            "name": "Andra",
+            "type": "artist",
+            "uri": "spotify:artist:72FGvJgYbs0NBeJqECy6cF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OM35DQShpFCjiHurYjLLi"
+            },
+            "href": "https://api.spotify.com/v1/artists/4OM35DQShpFCjiHurYjLLi",
+            "id": "4OM35DQShpFCjiHurYjLLi",
+            "name": "Ovidiu Stanescu",
+            "type": "artist",
+            "uri": "spotify:artist:4OM35DQShpFCjiHurYjLLi"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47L48wmLtryb8yCxOUyFLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47L48wmLtryb8yCxOUyFLp",
+        "id": "47L48wmLtryb8yCxOUyFLp",
+        "is_local": false,
+        "name": "Something New - DJ Yaang Remix",
+        "preview_url": "https://p.scdn.co/mp3-preview/ebe411e8d422a57c87e0d65a89e03dd374803099?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:47L48wmLtryb8yCxOUyFLp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3RzskUIdQdGxBvERFFC5hs"
+}

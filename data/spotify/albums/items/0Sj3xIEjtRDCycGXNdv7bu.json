@@ -1,0 +1,137 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nki7yRhxgM509M5ADlN1p",
+      "id": "5nki7yRhxgM509M5ADlN1p",
+      "name": "Oliver Heldens",
+      "type": "artist",
+      "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+      },
+      "href": "https://api.spotify.com/v1/artists/4EPJlUEBy49EX1wuFOvtjK",
+      "id": "4EPJlUEBy49EX1wuFOvtjK",
+      "name": "Becky Hill",
+      "type": "artist",
+      "uri": "spotify:artist:4EPJlUEBy49EX1wuFOvtjK"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AU",
+    "BE",
+    "CW",
+    "ES",
+    "LU",
+    "NL",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Musical Freedom Label Ltd. 2014",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Musical Freedom Label Ltd. 2014",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944457520"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Sj3xIEjtRDCycGXNdv7bu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Sj3xIEjtRDCycGXNdv7bu",
+  "id": "0Sj3xIEjtRDCycGXNdv7bu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27352fcaf14ed99db45fa69a773",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0252fcaf14ed99db45fa69a773",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485152fcaf14ed99db45fa69a773",
+      "width": 64
+    }
+  ],
+  "label": "Musical Freedom",
+  "name": "Gecko (Overdrive)",
+  "popularity": 49,
+  "release_date": "2014-05-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Sj3xIEjtRDCycGXNdv7bu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nki7yRhxgM509M5ADlN1p",
+            "id": "5nki7yRhxgM509M5ADlN1p",
+            "name": "Oliver Heldens",
+            "type": "artist",
+            "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EPJlUEBy49EX1wuFOvtjK",
+            "id": "4EPJlUEBy49EX1wuFOvtjK",
+            "name": "Becky Hill",
+            "type": "artist",
+            "uri": "spotify:artist:4EPJlUEBy49EX1wuFOvtjK"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AU",
+          "BE",
+          "CW",
+          "ES",
+          "LU",
+          "NL",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 165440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nNqmaZvoRqVV8RUOP9CCt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nNqmaZvoRqVV8RUOP9CCt",
+        "id": "3nNqmaZvoRqVV8RUOP9CCt",
+        "is_local": false,
+        "name": "Gecko (Overdrive)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d48f4811953bc43d6137db9a78f9239ce30d5be3?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3nNqmaZvoRqVV8RUOP9CCt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Sj3xIEjtRDCycGXNdv7bu"
+}

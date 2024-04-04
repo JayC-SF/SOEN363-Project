@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bFkcQbsuV6ROeAkewAHmy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bFkcQbsuV6ROeAkewAHmy",
+      "id": "3bFkcQbsuV6ROeAkewAHmy",
+      "name": "Hardstylerzz",
+      "type": "artist",
+      "uri": "spotify:artist:3bFkcQbsuV6ROeAkewAHmy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Jown Newman",
+      "type": "C"
+    },
+    {
+      "text": "2023 Hardstylerzz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063292296365"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5vUqNDSgwf9TCv0POslbGJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5vUqNDSgwf9TCv0POslbGJ",
+  "id": "5vUqNDSgwf9TCv0POslbGJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b23394ba3eb3b6c1af4a452",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b23394ba3eb3b6c1af4a452",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b23394ba3eb3b6c1af4a452",
+      "width": 64
+    }
+  ],
+  "label": "Deep Dark Dangerous",
+  "name": "LOVE ME AGAIN",
+  "popularity": 1,
+  "release_date": "2023-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5vUqNDSgwf9TCv0POslbGJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bFkcQbsuV6ROeAkewAHmy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bFkcQbsuV6ROeAkewAHmy",
+            "id": "3bFkcQbsuV6ROeAkewAHmy",
+            "name": "Hardstylerzz",
+            "type": "artist",
+            "uri": "spotify:artist:3bFkcQbsuV6ROeAkewAHmy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SBecbYG5wkGt7jaMGrYZd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SBecbYG5wkGt7jaMGrYZd",
+        "id": "0SBecbYG5wkGt7jaMGrYZd",
+        "is_local": false,
+        "name": "LOVE ME AGAIN",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0SBecbYG5wkGt7jaMGrYZd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5vUqNDSgwf9TCv0POslbGJ"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1"
+      },
+      "href": "https://api.spotify.com/v1/artists/2VXRxdCCHHajU61ohOXnO1",
+      "id": "2VXRxdCCHHajU61ohOXnO1",
+      "name": "Star Party",
+      "type": "artist",
+      "uri": "spotify:artist:2VXRxdCCHHajU61ohOXnO1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1frSJ3BwjRHE9jgMRQV5wC",
+      "id": "1frSJ3BwjRHE9jgMRQV5wC",
+      "name": "Zookeepers",
+      "type": "artist",
+      "uri": "spotify:artist:1frSJ3BwjRHE9jgMRQV5wC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2016 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199514772"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3xwuqfx9wOpIaJyicth9aY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3xwuqfx9wOpIaJyicth9aY",
+  "id": "3xwuqfx9wOpIaJyicth9aY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353f944c3367aee7c98283341",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253f944c3367aee7c98283341",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153f944c3367aee7c98283341",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Ark",
+  "popularity": 0,
+  "release_date": "2016-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3xwuqfx9wOpIaJyicth9aY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1"
+            },
+            "href": "https://api.spotify.com/v1/artists/2VXRxdCCHHajU61ohOXnO1",
+            "id": "2VXRxdCCHHajU61ohOXnO1",
+            "name": "Star Party",
+            "type": "artist",
+            "uri": "spotify:artist:2VXRxdCCHHajU61ohOXnO1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+            },
+            "href": "https://api.spotify.com/v1/artists/1frSJ3BwjRHE9jgMRQV5wC",
+            "id": "1frSJ3BwjRHE9jgMRQV5wC",
+            "name": "Zookeepers",
+            "type": "artist",
+            "uri": "spotify:artist:1frSJ3BwjRHE9jgMRQV5wC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hjqFVoMk6ssbfgtHEyhsY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2hjqFVoMk6ssbfgtHEyhsY",
+        "id": "2hjqFVoMk6ssbfgtHEyhsY",
+        "is_local": false,
+        "name": "Ark",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2hjqFVoMk6ssbfgtHEyhsY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3xwuqfx9wOpIaJyicth9aY"
+}

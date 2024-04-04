@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id": "1HY2Jd0NmPuamShAr6KMms",
+      "name": "Lady Gaga",
+      "type": "artist",
+      "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG",
+      "id": "4VIvfOurcf0vuLRxLkGnIG",
+      "name": "Bradley Cooper",
+      "type": "artist",
+      "uri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Interscope Records, Motion Picture Artwork \u00a9 2018 Warner Bros. Entertainment Inc. Motion Picture Photography \u00a9 2018 Warner Bros. Entertainment Inc. and Metro-Goldwyn-Mayer Inc.,",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577140327"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/708nDu1WADpksUOEGQ4Qny"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/708nDu1WADpksUOEGQ4Qny",
+  "id": "708nDu1WADpksUOEGQ4Qny",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c13481d4d4b865ee5f8bb616",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c13481d4d4b865ee5f8bb616",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c13481d4d4b865ee5f8bb616",
+      "width": 64
+    }
+  ],
+  "label": "A Star is Born OST",
+  "name": "Shallow",
+  "popularity": 0,
+  "release_date": "2018-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/708nDu1WADpksUOEGQ4Qny/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "type": "artist",
+            "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG",
+            "id": "4VIvfOurcf0vuLRxLkGnIG",
+            "name": "Bradley Cooper",
+            "type": "artist",
+            "uri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lK18Pt33xNudq4qYDxIm8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5lK18Pt33xNudq4qYDxIm8",
+        "id": "5lK18Pt33xNudq4qYDxIm8",
+        "is_local": false,
+        "name": "Shallow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5lK18Pt33xNudq4qYDxIm8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:708nDu1WADpksUOEGQ4Qny"
+}

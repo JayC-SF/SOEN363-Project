@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EJnXRI8LjgcaoOqKizopN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EJnXRI8LjgcaoOqKizopN",
+      "id": "1EJnXRI8LjgcaoOqKizopN",
+      "name": "Demi$e",
+      "type": "artist",
+      "uri": "spotify:artist:1EJnXRI8LjgcaoOqKizopN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Demi$e",
+      "type": "C"
+    },
+    {
+      "text": "2019 Demi$e",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191998842717"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6N5SFTqR6UgzwQBeUmlmXq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6N5SFTqR6UgzwQBeUmlmXq",
+  "id": "6N5SFTqR6UgzwQBeUmlmXq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f16703733c544bac4f8c61e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f16703733c544bac4f8c61e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f16703733c544bac4f8c61e4",
+      "width": 64
+    }
+  ],
+  "label": "Demi$e",
+  "name": "Swiggity Swag",
+  "popularity": 0,
+  "release_date": "2019-10-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6N5SFTqR6UgzwQBeUmlmXq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EJnXRI8LjgcaoOqKizopN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EJnXRI8LjgcaoOqKizopN",
+            "id": "1EJnXRI8LjgcaoOqKizopN",
+            "name": "Demi$e",
+            "type": "artist",
+            "uri": "spotify:artist:1EJnXRI8LjgcaoOqKizopN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 108158,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VDW6pNCIBk3SW1VfkXbQN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VDW6pNCIBk3SW1VfkXbQN",
+        "id": "6VDW6pNCIBk3SW1VfkXbQN",
+        "is_local": false,
+        "name": "Swiggity Swag",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VDW6pNCIBk3SW1VfkXbQN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6N5SFTqR6UgzwQBeUmlmXq"
+}

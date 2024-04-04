@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GkJh85o22LfD2vgL9DP6f",
+      "id": "6GkJh85o22LfD2vgL9DP6f",
+      "name": "Dirty Heads",
+      "type": "artist",
+      "uri": "spotify:artist:6GkJh85o22LfD2vgL9DP6f"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2014 Five Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444623858"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2goHqvU6vwYZ7qiv2JBVLv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2goHqvU6vwYZ7qiv2JBVLv",
+  "id": "2goHqvU6vwYZ7qiv2JBVLv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a714aabba862d279ec3bc553",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a714aabba862d279ec3bc553",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a714aabba862d279ec3bc553",
+      "width": 64
+    }
+  ],
+  "label": "Five Seven Music",
+  "name": "My Sweet Summer",
+  "popularity": 0,
+  "release_date": "2014-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2goHqvU6vwYZ7qiv2JBVLv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GkJh85o22LfD2vgL9DP6f",
+            "id": "6GkJh85o22LfD2vgL9DP6f",
+            "name": "Dirty Heads",
+            "type": "artist",
+            "uri": "spotify:artist:6GkJh85o22LfD2vgL9DP6f"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202632,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UWyI16ZVD4pfThPzb1m5p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UWyI16ZVD4pfThPzb1m5p",
+        "id": "4UWyI16ZVD4pfThPzb1m5p",
+        "is_local": false,
+        "name": "My Sweet Summer",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4UWyI16ZVD4pfThPzb1m5p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2goHqvU6vwYZ7qiv2JBVLv"
+}

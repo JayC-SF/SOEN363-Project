@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5slpk6nu2IwwKx0EHe3GcL",
+      "id": "5slpk6nu2IwwKx0EHe3GcL",
+      "name": "Lena",
+      "type": "artist",
+      "uri": "spotify:artist:5slpk6nu2IwwKx0EHe3GcL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2011 Universal Music Domestic Pop, a division of Universal Music GmbH / Raab TV GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2011 Universal Music Domestic Pop, a division of Universal Music GmbH / Raab TV GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527725253"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5uG3kfp1mrSLJn7RzyDnI7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5uG3kfp1mrSLJn7RzyDnI7",
+  "id": "5uG3kfp1mrSLJn7RzyDnI7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391d66251186d17134d1b042c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291d66251186d17134d1b042c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191d66251186d17134d1b042c",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AS",
+  "name": "Taken By A Stranger",
+  "popularity": 0,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5uG3kfp1mrSLJn7RzyDnI7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5slpk6nu2IwwKx0EHe3GcL",
+            "id": "5slpk6nu2IwwKx0EHe3GcL",
+            "name": "Lena",
+            "type": "artist",
+            "uri": "spotify:artist:5slpk6nu2IwwKx0EHe3GcL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42JJyO1ZBaA0qL6M5gZhxg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42JJyO1ZBaA0qL6M5gZhxg",
+        "id": "42JJyO1ZBaA0qL6M5gZhxg",
+        "is_local": false,
+        "name": "Taken By A Stranger - Single Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42JJyO1ZBaA0qL6M5gZhxg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5slpk6nu2IwwKx0EHe3GcL",
+            "id": "5slpk6nu2IwwKx0EHe3GcL",
+            "name": "Lena",
+            "type": "artist",
+            "uri": "spotify:artist:5slpk6nu2IwwKx0EHe3GcL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tZiFL2vW1vEMu7bLlOKwZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tZiFL2vW1vEMu7bLlOKwZ",
+        "id": "5tZiFL2vW1vEMu7bLlOKwZ",
+        "is_local": false,
+        "name": "That Again",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5tZiFL2vW1vEMu7bLlOKwZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5uG3kfp1mrSLJn7RzyDnI7"
+}

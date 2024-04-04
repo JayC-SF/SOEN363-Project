@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+      },
+      "href": "https://api.spotify.com/v1/artists/7vm3musYjzfqoMloVCEF7v",
+      "id": "7vm3musYjzfqoMloVCEF7v",
+      "name": "Denney",
+      "type": "artist",
+      "uri": "spotify:artist:7vm3musYjzfqoMloVCEF7v"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Crosstown Rebels",
+      "type": "C"
+    },
+    {
+      "text": "2022 Crosstown Rebels",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060944578961"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/19yhnnzXMUkzctGGijNagH",
+  "id": "19yhnnzXMUkzctGGijNagH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d59b9ea8afcd03d6a3f68f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d59b9ea8afcd03d6a3f68f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d59b9ea8afcd03d6a3f68f5",
+      "width": 64
+    }
+  ],
+  "label": "Crosstown Rebels",
+  "name": "Kill The Soundboy",
+  "popularity": 0,
+  "release_date": "2022-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/19yhnnzXMUkzctGGijNagH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vm3musYjzfqoMloVCEF7v",
+            "id": "7vm3musYjzfqoMloVCEF7v",
+            "name": "Denney",
+            "type": "artist",
+            "uri": "spotify:artist:7vm3musYjzfqoMloVCEF7v"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 404000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72AMbEMW0SGjL36DpLuYfY",
+        "id": "72AMbEMW0SGjL36DpLuYfY",
+        "is_local": false,
+        "name": "Kill The Soundboy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:72AMbEMW0SGjL36DpLuYfY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:19yhnnzXMUkzctGGijNagH"
+}

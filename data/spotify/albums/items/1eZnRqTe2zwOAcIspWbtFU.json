@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/3p2pMpzDerhMR4w2xZyHWg",
+      "id": "3p2pMpzDerhMR4w2xZyHWg",
+      "name": "Rosenfeld",
+      "type": "artist",
+      "uri": "spotify:artist:3p2pMpzDerhMR4w2xZyHWg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Rosenfeld",
+      "type": "C"
+    },
+    {
+      "text": "2020 Rosenfeld",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195396570128"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1eZnRqTe2zwOAcIspWbtFU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1eZnRqTe2zwOAcIspWbtFU",
+  "id": "1eZnRqTe2zwOAcIspWbtFU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273edf3babdee450b236a6e4904",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02edf3babdee450b236a6e4904",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851edf3babdee450b236a6e4904",
+      "width": 64
+    }
+  ],
+  "label": "Rosenfeld",
+  "name": "like u",
+  "popularity": 5,
+  "release_date": "2020-07-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1eZnRqTe2zwOAcIspWbtFU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/3p2pMpzDerhMR4w2xZyHWg",
+            "id": "3p2pMpzDerhMR4w2xZyHWg",
+            "name": "Rosenfeld",
+            "type": "artist",
+            "uri": "spotify:artist:3p2pMpzDerhMR4w2xZyHWg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157777,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V8QKyt40AbgQXIhGwhT5f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5V8QKyt40AbgQXIhGwhT5f",
+        "id": "5V8QKyt40AbgQXIhGwhT5f",
+        "is_local": false,
+        "name": "like u",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5V8QKyt40AbgQXIhGwhT5f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1eZnRqTe2zwOAcIspWbtFU"
+}

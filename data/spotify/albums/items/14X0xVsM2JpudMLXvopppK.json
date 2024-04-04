@@ -1,0 +1,482 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+      "id": "1KCSPY1glIKqW2TotWuXOR",
+      "name": "P!nk",
+      "type": "artist",
+      "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2003 Arista Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "828765213950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/14X0xVsM2JpudMLXvopppK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/14X0xVsM2JpudMLXvopppK",
+  "id": "14X0xVsM2JpudMLXvopppK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f1cff57c842e248b6c70117",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f1cff57c842e248b6c70117",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f1cff57c842e248b6c70117",
+      "width": 64
+    }
+  ],
+  "label": "Arista",
+  "name": "Try This",
+  "popularity": 0,
+  "release_date": "2003-11-11",
+  "release_date_precision": "day",
+  "total_tracks": 14,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/14X0xVsM2JpudMLXvopppK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M4L9TSqvVHTAdUgjaaj8a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3M4L9TSqvVHTAdUgjaaj8a",
+        "id": "3M4L9TSqvVHTAdUgjaaj8a",
+        "is_local": false,
+        "name": "Trouble",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3M4L9TSqvVHTAdUgjaaj8a"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225400,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/528upPM5D1jiSGMoS7z1Pd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/528upPM5D1jiSGMoS7z1Pd",
+        "id": "528upPM5D1jiSGMoS7z1Pd",
+        "is_local": false,
+        "name": "God Is a DJ",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:528upPM5D1jiSGMoS7z1Pd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243053,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68Mldx5jfg0qW8LV7Mmwc8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68Mldx5jfg0qW8LV7Mmwc8",
+        "id": "68Mldx5jfg0qW8LV7Mmwc8",
+        "is_local": false,
+        "name": "Last to Know",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:68Mldx5jfg0qW8LV7Mmwc8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 236760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mmTxO9mdsj89EsECbJNXF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mmTxO9mdsj89EsECbJNXF",
+        "id": "5mmTxO9mdsj89EsECbJNXF",
+        "is_local": false,
+        "name": "Tonight's the Night",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5mmTxO9mdsj89EsECbJNXF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gkSl4XpHIHI4I1WQbfXOE",
+            "id": "1gkSl4XpHIHI4I1WQbfXOE",
+            "name": "Peaches",
+            "type": "artist",
+            "uri": "spotify:artist:1gkSl4XpHIHI4I1WQbfXOE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65wsn0sden7fdwb9AXRkyd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65wsn0sden7fdwb9AXRkyd",
+        "id": "65wsn0sden7fdwb9AXRkyd",
+        "is_local": false,
+        "name": "Oh My God",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:65wsn0sden7fdwb9AXRkyd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 302600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ylpq0QgfTn9xnKGtmaMhl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ylpq0QgfTn9xnKGtmaMhl",
+        "id": "5Ylpq0QgfTn9xnKGtmaMhl",
+        "is_local": false,
+        "name": "Catch Me While I'm Sleeping",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5Ylpq0QgfTn9xnKGtmaMhl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 328240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rqTlC1OQz0cPqa5c57uoM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rqTlC1OQz0cPqa5c57uoM",
+        "id": "3rqTlC1OQz0cPqa5c57uoM",
+        "is_local": false,
+        "name": "Waiting for Love",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3rqTlC1OQz0cPqa5c57uoM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196146,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LSAYkkd6PPqZkJ1ODFZtn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LSAYkkd6PPqZkJ1ODFZtn",
+        "id": "4LSAYkkd6PPqZkJ1ODFZtn",
+        "is_local": false,
+        "name": "Save My Life",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4LSAYkkd6PPqZkJ1ODFZtn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34dNNAtWZPAFvh8vzg8Ju0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34dNNAtWZPAFvh8vzg8Ju0",
+        "id": "34dNNAtWZPAFvh8vzg8Ju0",
+        "is_local": false,
+        "name": "Try Too Hard",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:34dNNAtWZPAFvh8vzg8Ju0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4guw2UBr08BScmjykWo17v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4guw2UBr08BScmjykWo17v",
+        "id": "4guw2UBr08BScmjykWo17v",
+        "is_local": false,
+        "name": "Humble Neighborhoods",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4guw2UBr08BScmjykWo17v"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nyFhx5tYNG7nfz4tFbRN5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nyFhx5tYNG7nfz4tFbRN5",
+        "id": "1nyFhx5tYNG7nfz4tFbRN5",
+        "is_local": false,
+        "name": "Walk Away",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1nyFhx5tYNG7nfz4tFbRN5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vuVNNCPEa8YdVTUgPtKcG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vuVNNCPEa8YdVTUgPtKcG",
+        "id": "2vuVNNCPEa8YdVTUgPtKcG",
+        "is_local": false,
+        "name": "Unwind",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2vuVNNCPEa8YdVTUgPtKcG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eVtmnxwv6ppseq34YByQr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2eVtmnxwv6ppseq34YByQr",
+        "id": "2eVtmnxwv6ppseq34YByQr",
+        "is_local": false,
+        "name": "Love Song",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2eVtmnxwv6ppseq34YByQr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+            "id": "1KCSPY1glIKqW2TotWuXOR",
+            "name": "P!nk",
+            "type": "artist",
+            "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bIaXzjr2jjwrzw4VYWeN0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bIaXzjr2jjwrzw4VYWeN0",
+        "id": "4bIaXzjr2jjwrzw4VYWeN0",
+        "is_local": false,
+        "name": "Hooker",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4bIaXzjr2jjwrzw4VYWeN0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+  },
+  "type": "album",
+  "uri": "spotify:album:14X0xVsM2JpudMLXvopppK"
+}

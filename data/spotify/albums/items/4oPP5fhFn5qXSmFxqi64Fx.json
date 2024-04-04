@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
+      },
+      "href": "https://api.spotify.com/v1/artists/2huUeOXso2qC3L0JdJJz7u",
+      "id": "2huUeOXso2qC3L0JdJJz7u",
+      "name": "Vinsmoker",
+      "type": "artist",
+      "uri": "spotify:artist:2huUeOXso2qC3L0JdJJz7u"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+      },
+      "href": "https://api.spotify.com/v1/artists/69kFCyHDE14cRD1cctCCcd",
+      "id": "69kFCyHDE14cRD1cctCCcd",
+      "name": "Marin Hoxha",
+      "type": "artist",
+      "uri": "spotify:artist:69kFCyHDE14cRD1cctCCcd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "732138323354"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4oPP5fhFn5qXSmFxqi64Fx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4oPP5fhFn5qXSmFxqi64Fx",
+  "id": "4oPP5fhFn5qXSmFxqi64Fx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731603bdeaed723209822e5af5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021603bdeaed723209822e5af5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511603bdeaed723209822e5af5",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "Bang Bang",
+  "popularity": 0,
+  "release_date": "2023-01-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4oPP5fhFn5qXSmFxqi64Fx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
+            },
+            "href": "https://api.spotify.com/v1/artists/2huUeOXso2qC3L0JdJJz7u",
+            "id": "2huUeOXso2qC3L0JdJJz7u",
+            "name": "Vinsmoker",
+            "type": "artist",
+            "uri": "spotify:artist:2huUeOXso2qC3L0JdJJz7u"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+            },
+            "href": "https://api.spotify.com/v1/artists/69kFCyHDE14cRD1cctCCcd",
+            "id": "69kFCyHDE14cRD1cctCCcd",
+            "name": "Marin Hoxha",
+            "type": "artist",
+            "uri": "spotify:artist:69kFCyHDE14cRD1cctCCcd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140644,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PvZSTTwvvTPshUi5txeOU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PvZSTTwvvTPshUi5txeOU",
+        "id": "1PvZSTTwvvTPshUi5txeOU",
+        "is_local": false,
+        "name": "Bang Bang",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1PvZSTTwvvTPshUi5txeOU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4oPP5fhFn5qXSmFxqi64Fx"
+}

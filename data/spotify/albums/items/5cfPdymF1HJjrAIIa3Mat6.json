@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3beu77pIElH7E2CuPRM3xr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3beu77pIElH7E2CuPRM3xr",
+      "id": "3beu77pIElH7E2CuPRM3xr",
+      "name": "DJ Stretch",
+      "type": "artist",
+      "uri": "spotify:artist:3beu77pIElH7E2CuPRM3xr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Afrobeats WorldWide",
+      "type": "C"
+    },
+    {
+      "text": "2014 Afrobeats WorldWide",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859713141322"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5cfPdymF1HJjrAIIa3Mat6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5cfPdymF1HJjrAIIa3Mat6",
+  "id": "5cfPdymF1HJjrAIIa3Mat6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736580b963c02aee0b4b4cd6e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026580b963c02aee0b4b4cd6e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516580b963c02aee0b4b4cd6e3",
+      "width": 64
+    }
+  ],
+  "label": "Afrobeats WorldWide",
+  "name": "Adonai (Remix)",
+  "popularity": 0,
+  "release_date": "2014-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5cfPdymF1HJjrAIIa3Mat6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3beu77pIElH7E2CuPRM3xr"
+            },
+            "href": "https://api.spotify.com/v1/artists/3beu77pIElH7E2CuPRM3xr",
+            "id": "3beu77pIElH7E2CuPRM3xr",
+            "name": "DJ Stretch",
+            "type": "artist",
+            "uri": "spotify:artist:3beu77pIElH7E2CuPRM3xr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 288130,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KWRfL1XSV16Pa5wKr6tZO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KWRfL1XSV16Pa5wKr6tZO",
+        "id": "7KWRfL1XSV16Pa5wKr6tZO",
+        "is_local": false,
+        "name": "Adonai (Remix)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7KWRfL1XSV16Pa5wKr6tZO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5cfPdymF1HJjrAIIa3Mat6"
+}

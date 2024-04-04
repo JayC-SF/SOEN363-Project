@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3A9B6c1CrSPauiOblw7pWz",
+      "id": "3A9B6c1CrSPauiOblw7pWz",
+      "name": "Nico Santos",
+      "type": "artist",
+      "uri": "spotify:artist:3A9B6c1CrSPauiOblw7pWz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+      "id": "3836OTICMPjhTMMcpPw4EC",
+      "name": "Broiler",
+      "type": "artist",
+      "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Polydor/Island, a division of Universal Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 FBBD Music, under exclusive license to Polydor/Island, a division of Universal Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557561050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3GAyz53WWvERxc7R12mKLi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3GAyz53WWvERxc7R12mKLi",
+  "id": "3GAyz53WWvERxc7R12mKLi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393834f82c60f8dcfefbe1798",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293834f82c60f8dcfefbe1798",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193834f82c60f8dcfefbe1798",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Goodbye To Love",
+  "popularity": 0,
+  "release_date": "2017-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3GAyz53WWvERxc7R12mKLi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+            },
+            "href": "https://api.spotify.com/v1/artists/3A9B6c1CrSPauiOblw7pWz",
+            "id": "3A9B6c1CrSPauiOblw7pWz",
+            "name": "Nico Santos",
+            "type": "artist",
+            "uri": "spotify:artist:3A9B6c1CrSPauiOblw7pWz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+            "id": "3836OTICMPjhTMMcpPw4EC",
+            "name": "Broiler",
+            "type": "artist",
+            "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZblF7TnUfCVRPWWgBeEhe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZblF7TnUfCVRPWWgBeEhe",
+        "id": "2ZblF7TnUfCVRPWWgBeEhe",
+        "is_local": false,
+        "name": "Goodbye To Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ZblF7TnUfCVRPWWgBeEhe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3GAyz53WWvERxc7R12mKLi"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qM78DOdgnNPpq2CpTNgU5",
+      "id": "0qM78DOdgnNPpq2CpTNgU5",
+      "name": "Born Dirty",
+      "type": "artist",
+      "uri": "spotify:artist:0qM78DOdgnNPpq2CpTNgU5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Insomniac Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Insomniac Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "657664595153"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1z5C19KGbZSFVP4pDOUf53"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1z5C19KGbZSFVP4pDOUf53",
+  "id": "1z5C19KGbZSFVP4pDOUf53",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273433a7af24d595d5b9157e80f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02433a7af24d595d5b9157e80f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851433a7af24d595d5b9157e80f",
+      "width": 64
+    }
+  ],
+  "label": "Insomniac Records",
+  "name": "Crazy",
+  "popularity": 0,
+  "release_date": "2018-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1z5C19KGbZSFVP4pDOUf53/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qM78DOdgnNPpq2CpTNgU5",
+            "id": "0qM78DOdgnNPpq2CpTNgU5",
+            "name": "Born Dirty",
+            "type": "artist",
+            "uri": "spotify:artist:0qM78DOdgnNPpq2CpTNgU5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154842,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ikbanJl4WHDtWYcAAFpmj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ikbanJl4WHDtWYcAAFpmj",
+        "id": "0ikbanJl4WHDtWYcAAFpmj",
+        "is_local": false,
+        "name": "Crazy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ikbanJl4WHDtWYcAAFpmj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1z5C19KGbZSFVP4pDOUf53"
+}

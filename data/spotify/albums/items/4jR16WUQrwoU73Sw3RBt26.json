@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+      "id": "3WGpXCj9YhhfX11TToZcXP",
+      "name": "Troye Sivan",
+      "type": "artist",
+      "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Universal Music Australia Pty Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Universal Music Australia Pty Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458415544"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4jR16WUQrwoU73Sw3RBt26",
+  "id": "4jR16WUQrwoU73Sw3RBt26",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d87c524bbf1aa68ce698da29",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d87c524bbf1aa68ce698da29",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d87c524bbf1aa68ce698da29",
+      "width": 64
+    }
+  ],
+  "label": "EMI Recorded Music Australia Pty Ltd",
+  "name": "Got Me Started",
+  "popularity": 16,
+  "release_date": "2023-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4jR16WUQrwoU73Sw3RBt26/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+            "id": "3WGpXCj9YhhfX11TToZcXP",
+            "name": "Troye Sivan",
+            "type": "artist",
+            "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198448,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Rn2ocU7jk8BqFoh6zwf1Y",
+        "id": "2Rn2ocU7jk8BqFoh6zwf1Y",
+        "is_local": false,
+        "name": "Got Me Started",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Rn2ocU7jk8BqFoh6zwf1Y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+            "id": "3WGpXCj9YhhfX11TToZcXP",
+            "name": "Troye Sivan",
+            "type": "artist",
+            "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156391,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3EUCz8zsdU6mD6Pc2Frr8n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3EUCz8zsdU6mD6Pc2Frr8n",
+        "id": "3EUCz8zsdU6mD6Pc2Frr8n",
+        "is_local": false,
+        "name": "Rush",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3EUCz8zsdU6mD6Pc2Frr8n"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4jR16WUQrwoU73Sw3RBt26"
+}

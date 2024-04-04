@@ -1,0 +1,131 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+      },
+      "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+      "id": "4FqPRilb0Ja0TKG3RS3y4s",
+      "name": "Steve Angello",
+      "type": "artist",
+      "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+      },
+      "href": "https://api.spotify.com/v1/artists/53cQZtWDwDJwVCNZlfJ6Qk",
+      "id": "53cQZtWDwDJwVCNZlfJ6Qk",
+      "name": "Laidback Luke",
+      "type": "artist",
+      "uri": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2009 Data Records / Ministry of Sound Recordings Limited under exclusive licence from Mixmash Records B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5051823005364"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2miu8ZVhdGb34StwR5Ve6w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2miu8ZVhdGb34StwR5Ve6w",
+  "id": "2miu8ZVhdGb34StwR5Ve6w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736212921451f26bf0c1bc4d91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026212921451f26bf0c1bc4d91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516212921451f26bf0c1bc4d91",
+      "width": 64
+    }
+  ],
+  "label": "Ministry of Sound Recordings",
+  "name": "Show Me Love (feat. Robin S)",
+  "popularity": 52,
+  "release_date": "2009-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2miu8ZVhdGb34StwR5Ve6w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+            },
+            "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+            "id": "4FqPRilb0Ja0TKG3RS3y4s",
+            "name": "Steve Angello",
+            "type": "artist",
+            "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+            },
+            "href": "https://api.spotify.com/v1/artists/53cQZtWDwDJwVCNZlfJ6Qk",
+            "id": "53cQZtWDwDJwVCNZlfJ6Qk",
+            "name": "Laidback Luke",
+            "type": "artist",
+            "uri": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3",
+            "id": "2WvLeseDGPX1slhmxI59G3",
+            "name": "Robin S",
+            "type": "artist",
+            "uri": "spotify:artist:2WvLeseDGPX1slhmxI59G3"
+          }
+        ],
+        "available_markets": [
+          "GB",
+          "IE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 187640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55eFVWZ4lLq8kbJ0VwSfA4",
+        "id": "55eFVWZ4lLq8kbJ0VwSfA4",
+        "is_local": false,
+        "name": "Show Me Love (feat. Robin S)",
+        "preview_url": "https://p.scdn.co/mp3-preview/39423ba630d143b2c13c8600b475b1d172584ba1?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:55eFVWZ4lLq8kbJ0VwSfA4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2miu8ZVhdGb34StwR5Ve6w"
+}

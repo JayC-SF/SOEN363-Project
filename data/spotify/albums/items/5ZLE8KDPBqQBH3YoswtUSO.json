@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Y1nFir8L9kJP7n1yZSeYb",
+      "id": "5Y1nFir8L9kJP7n1yZSeYb",
+      "name": "Nicolas Julian",
+      "type": "artist",
+      "uri": "spotify:artist:5Y1nFir8L9kJP7n1yZSeYb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Nicolas Julian",
+      "type": "C"
+    },
+    {
+      "text": "2023 Nicolas Julian",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617228738294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ZLE8KDPBqQBH3YoswtUSO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ZLE8KDPBqQBH3YoswtUSO",
+  "id": "5ZLE8KDPBqQBH3YoswtUSO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7470be6ffd281965b3c3a8d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7470be6ffd281965b3c3a8d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7470be6ffd281965b3c3a8d",
+      "width": 64
+    }
+  ],
+  "label": "Nicolas Julian",
+  "name": "Mask Off",
+  "popularity": 17,
+  "release_date": "2023-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ZLE8KDPBqQBH3YoswtUSO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Y1nFir8L9kJP7n1yZSeYb",
+            "id": "5Y1nFir8L9kJP7n1yZSeYb",
+            "name": "Nicolas Julian",
+            "type": "artist",
+            "uri": "spotify:artist:5Y1nFir8L9kJP7n1yZSeYb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155070,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07nfBlhn6ZlIkPXSXb8SXJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07nfBlhn6ZlIkPXSXb8SXJ",
+        "id": "07nfBlhn6ZlIkPXSXb8SXJ",
+        "is_local": false,
+        "name": "Mask Off",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:07nfBlhn6ZlIkPXSXb8SXJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ZLE8KDPBqQBH3YoswtUSO"
+}

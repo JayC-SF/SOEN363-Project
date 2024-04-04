@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Fynyz6zH922ORQD22YMn8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Fynyz6zH922ORQD22YMn8",
+      "id": "1Fynyz6zH922ORQD22YMn8",
+      "name": "Paul Mathews",
+      "type": "artist",
+      "uri": "spotify:artist:1Fynyz6zH922ORQD22YMn8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+      },
+      "href": "https://api.spotify.com/v1/artists/51jfCC7m2rTGPDz06E2nvS",
+      "id": "51jfCC7m2rTGPDz06E2nvS",
+      "name": "Vinayak Sasikumar",
+      "type": "artist",
+      "uri": "spotify:artist:51jfCC7m2rTGPDz06E2nvS"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2023 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8907212005757"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7kKzpNZOPABMmncfebFnaa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7kKzpNZOPABMmncfebFnaa",
+  "id": "7kKzpNZOPABMmncfebFnaa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f1083e9613aca7faac1e371",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f1083e9613aca7faac1e371",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f1083e9613aca7faac1e371",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "La Koodaram (From \"Ntikkakkakkoru Premandaarnnu\")",
+  "popularity": 7,
+  "release_date": "2023-03-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7kKzpNZOPABMmncfebFnaa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Fynyz6zH922ORQD22YMn8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Fynyz6zH922ORQD22YMn8",
+            "id": "1Fynyz6zH922ORQD22YMn8",
+            "name": "Paul Mathews",
+            "type": "artist",
+            "uri": "spotify:artist:1Fynyz6zH922ORQD22YMn8"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 269936,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uy7rCFN2HYklDVdikmjVc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uy7rCFN2HYklDVdikmjVc",
+        "id": "7uy7rCFN2HYklDVdikmjVc",
+        "is_local": false,
+        "name": "La Koodaram",
+        "preview_url": "https://p.scdn.co/mp3-preview/3b47ab445bdfd8ef589e0edf5c38f3276882592b?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7uy7rCFN2HYklDVdikmjVc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7kKzpNZOPABMmncfebFnaa"
+}

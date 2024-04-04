@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+      },
+      "href": "https://api.spotify.com/v1/artists/4iIRGaMoqtdigrpCvLMKGb",
+      "id": "4iIRGaMoqtdigrpCvLMKGb",
+      "name": "Shy Smith",
+      "type": "artist",
+      "uri": "spotify:artist:4iIRGaMoqtdigrpCvLMKGb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Shy Smith",
+      "type": "C"
+    },
+    {
+      "text": "2021 Shy Smith",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196621806500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3KlEcBtJhRhsqC13wbASjd",
+  "id": "3KlEcBtJhRhsqC13wbASjd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738252ca9e9865d69579eb0583",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028252ca9e9865d69579eb0583",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518252ca9e9865d69579eb0583",
+      "width": 64
+    }
+  ],
+  "label": "2021 Shy Smith",
+  "name": "Soaked",
+  "popularity": 47,
+  "release_date": "2021-11-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3KlEcBtJhRhsqC13wbASjd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+            },
+            "href": "https://api.spotify.com/v1/artists/4iIRGaMoqtdigrpCvLMKGb",
+            "id": "4iIRGaMoqtdigrpCvLMKGb",
+            "name": "Shy Smith",
+            "type": "artist",
+            "uri": "spotify:artist:4iIRGaMoqtdigrpCvLMKGb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179449,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nGIGnJd7jFZaPFdfyQLF2",
+        "id": "3nGIGnJd7jFZaPFdfyQLF2",
+        "is_local": false,
+        "name": "Soaked",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3nGIGnJd7jFZaPFdfyQLF2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3KlEcBtJhRhsqC13wbASjd"
+}

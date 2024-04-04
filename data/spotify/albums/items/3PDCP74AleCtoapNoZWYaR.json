@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xphUgdrqKwGdIpcLVH7ho",
+      "id": "1xphUgdrqKwGdIpcLVH7ho",
+      "name": "Kirli",
+      "type": "artist",
+      "uri": "spotify:artist:1xphUgdrqKwGdIpcLVH7ho"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Unison M\u00fczik",
+      "type": "C"
+    },
+    {
+      "text": "2020 Unison M\u00fczik",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616848642981"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3PDCP74AleCtoapNoZWYaR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3PDCP74AleCtoapNoZWYaR",
+  "id": "3PDCP74AleCtoapNoZWYaR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345459a47244840df657eb33d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245459a47244840df657eb33d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145459a47244840df657eb33d",
+      "width": 64
+    }
+  ],
+  "label": "Unison M\u00fczik",
+  "name": "Ah Aman Aman",
+  "popularity": 0,
+  "release_date": "2020-05-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3PDCP74AleCtoapNoZWYaR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho"
+            },
+            "href": "https://api.spotify.com/v1/artists/1xphUgdrqKwGdIpcLVH7ho",
+            "id": "1xphUgdrqKwGdIpcLVH7ho",
+            "name": "Kirli",
+            "type": "artist",
+            "uri": "spotify:artist:1xphUgdrqKwGdIpcLVH7ho"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225593,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FrxM1fFmhUwvyTa2Vr0jG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FrxM1fFmhUwvyTa2Vr0jG",
+        "id": "3FrxM1fFmhUwvyTa2Vr0jG",
+        "is_local": false,
+        "name": "Ah Aman Aman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FrxM1fFmhUwvyTa2Vr0jG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3PDCP74AleCtoapNoZWYaR"
+}

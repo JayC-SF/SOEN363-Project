@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+      },
+      "href": "https://api.spotify.com/v1/artists/11p2E654TTU8e0nZWBR4AL",
+      "id": "11p2E654TTU8e0nZWBR4AL",
+      "name": "Mark Ambor",
+      "type": "artist",
+      "uri": "spotify:artist:11p2E654TTU8e0nZWBR4AL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 Mark Ambor, LLC in partnership with Hundred Days Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436370950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1RaDxuGnsIuuGR3lHukOPI",
+  "id": "1RaDxuGnsIuuGR3lHukOPI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736525de3ebc7162d9b7c5f2d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026525de3ebc7162d9b7c5f2d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516525de3ebc7162d9b7c5f2d9",
+      "width": 64
+    }
+  ],
+  "label": "Mark Ambor, LLC in partnership with Hundred Days Records",
+  "name": "Belong Together",
+  "popularity": 62,
+  "release_date": "2024-02-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1RaDxuGnsIuuGR3lHukOPI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+            },
+            "href": "https://api.spotify.com/v1/artists/11p2E654TTU8e0nZWBR4AL",
+            "id": "11p2E654TTU8e0nZWBR4AL",
+            "name": "Mark Ambor",
+            "type": "artist",
+            "uri": "spotify:artist:11p2E654TTU8e0nZWBR4AL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 148317,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JGtRHnWyaNq7FIOZoBdPe",
+        "id": "4JGtRHnWyaNq7FIOZoBdPe",
+        "is_local": false,
+        "name": "Belong Together",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4JGtRHnWyaNq7FIOZoBdPe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1RaDxuGnsIuuGR3lHukOPI"
+}

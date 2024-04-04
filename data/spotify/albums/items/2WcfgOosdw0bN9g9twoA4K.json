@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+      },
+      "href": "https://api.spotify.com/v1/artists/0GbqW5TJr7n4is453VOY4C",
+      "id": "0GbqW5TJr7n4is453VOY4C",
+      "name": "Procol Harum",
+      "type": "artist",
+      "uri": "spotify:artist:0GbqW5TJr7n4is453VOY4C"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2007 Bucks Music Group",
+      "type": "C"
+    },
+    {
+      "text": "1967 Fly Records/Onward Music Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5016959003219"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2WcfgOosdw0bN9g9twoA4K",
+  "id": "2WcfgOosdw0bN9g9twoA4K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf631fa808736f9ff55bc2cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf631fa808736f9ff55bc2cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf631fa808736f9ff55bc2cb",
+      "width": 64
+    }
+  ],
+  "label": "Fly Records",
+  "name": "A Whiter Shade Of Pale",
+  "popularity": 0,
+  "release_date": "1967-05-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2WcfgOosdw0bN9g9twoA4K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GbqW5TJr7n4is453VOY4C",
+            "id": "0GbqW5TJr7n4is453VOY4C",
+            "name": "Procol Harum",
+            "type": "artist",
+            "uri": "spotify:artist:0GbqW5TJr7n4is453VOY4C"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 248946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qitymULqEibr7yknRMKU4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qitymULqEibr7yknRMKU4",
+        "id": "3qitymULqEibr7yknRMKU4",
+        "is_local": false,
+        "name": "A Whiter Shade Of Pale",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3qitymULqEibr7yknRMKU4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2WcfgOosdw0bN9g9twoA4K"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ignRjbPmLvKdtMLj9a5Xs",
+      "id": "6ignRjbPmLvKdtMLj9a5Xs",
+      "name": "Ichiko Aoba",
+      "type": "artist",
+      "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 hermine",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 hermine",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859756090953"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6W3coJej8ePDs0jkJUOjpj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6W3coJej8ePDs0jkJUOjpj",
+  "id": "6W3coJej8ePDs0jkJUOjpj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273804240f2a0a55ef130a0fda0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02804240f2a0a55ef130a0fda0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851804240f2a0a55ef130a0fda0",
+      "width": 64
+    }
+  ],
+  "label": "hermine",
+  "name": "Seabed Eden",
+  "popularity": 0,
+  "release_date": "2020-09-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6W3coJej8ePDs0jkJUOjpj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ignRjbPmLvKdtMLj9a5Xs",
+            "id": "6ignRjbPmLvKdtMLj9a5Xs",
+            "name": "Ichiko Aoba",
+            "type": "artist",
+            "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223459,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TpxTyKkAFGyMF1siuAzVA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TpxTyKkAFGyMF1siuAzVA",
+        "id": "0TpxTyKkAFGyMF1siuAzVA",
+        "is_local": false,
+        "name": "Seabed Eden",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0TpxTyKkAFGyMF1siuAzVA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6W3coJej8ePDs0jkJUOjpj"
+}

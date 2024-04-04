@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+      },
+      "href": "https://api.spotify.com/v1/artists/24V5UY0nChKpnb1TBPJhCw",
+      "id": "24V5UY0nChKpnb1TBPJhCw",
+      "name": "Jai Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:24V5UY0nChKpnb1TBPJhCw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5K0BVchFxmuKBw7DojGSQO",
+      "id": "5K0BVchFxmuKBw7DojGSQO",
+      "name": "Chelsea Jade",
+      "type": "artist",
+      "uri": "spotify:artist:5K0BVchFxmuKBw7DojGSQO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Mom+Pop",
+      "type": "C"
+    },
+    {
+      "text": "2018 Mom+Pop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "858275051285"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5BFBhnlWveg1RCn6Q4RX7W",
+  "id": "5BFBhnlWveg1RCn6Q4RX7W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9d34439bd548a02dbf37983",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9d34439bd548a02dbf37983",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9d34439bd548a02dbf37983",
+      "width": 64
+    }
+  ],
+  "label": "Mom+Pop",
+  "name": "Lost (feat. Chelsea Jade)",
+  "popularity": 16,
+  "release_date": "2018-08-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5BFBhnlWveg1RCn6Q4RX7W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+            },
+            "href": "https://api.spotify.com/v1/artists/24V5UY0nChKpnb1TBPJhCw",
+            "id": "24V5UY0nChKpnb1TBPJhCw",
+            "name": "Jai Wolf",
+            "type": "artist",
+            "uri": "spotify:artist:24V5UY0nChKpnb1TBPJhCw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5K0BVchFxmuKBw7DojGSQO",
+            "id": "5K0BVchFxmuKBw7DojGSQO",
+            "name": "Chelsea Jade",
+            "type": "artist",
+            "uri": "spotify:artist:5K0BVchFxmuKBw7DojGSQO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50pEs4BEQlgoZo6rKHNtEA",
+        "id": "50pEs4BEQlgoZo6rKHNtEA",
+        "is_local": false,
+        "name": "Lost (feat. Chelsea Jade)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:50pEs4BEQlgoZo6rKHNtEA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5BFBhnlWveg1RCn6Q4RX7W"
+}

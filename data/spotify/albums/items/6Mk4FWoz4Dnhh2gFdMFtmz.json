@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+      },
+      "href": "https://api.spotify.com/v1/artists/1lAvOODEAbUI5b51WRBbdx",
+      "id": "1lAvOODEAbUI5b51WRBbdx",
+      "name": "Darci",
+      "type": "artist",
+      "uri": "spotify:artist:1lAvOODEAbUI5b51WRBbdx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Darci",
+      "type": "C"
+    },
+    {
+      "text": "2020 Darci",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195039915415"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Mk4FWoz4Dnhh2gFdMFtmz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Mk4FWoz4Dnhh2gFdMFtmz",
+  "id": "6Mk4FWoz4Dnhh2gFdMFtmz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d4afaaec05d14fdcaba0cfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d4afaaec05d14fdcaba0cfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d4afaaec05d14fdcaba0cfa",
+      "width": 64
+    }
+  ],
+  "label": "Darci",
+  "name": "Lights",
+  "popularity": 3,
+  "release_date": "2020-11-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Mk4FWoz4Dnhh2gFdMFtmz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1lAvOODEAbUI5b51WRBbdx",
+            "id": "1lAvOODEAbUI5b51WRBbdx",
+            "name": "Darci",
+            "type": "artist",
+            "uri": "spotify:artist:1lAvOODEAbUI5b51WRBbdx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179153,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yHQcAKq21nBIXtiYYzLIK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yHQcAKq21nBIXtiYYzLIK",
+        "id": "1yHQcAKq21nBIXtiYYzLIK",
+        "is_local": false,
+        "name": "Lights",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yHQcAKq21nBIXtiYYzLIK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Mk4FWoz4Dnhh2gFdMFtmz"
+}

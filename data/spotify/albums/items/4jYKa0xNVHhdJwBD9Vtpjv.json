@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+      "id": "6wxP7SSzfvi21Cnl8JicdQ",
+      "name": "Machel Montano",
+      "type": "artist",
+      "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+      },
+      "href": "https://api.spotify.com/v1/artists/0zqSNymvyHewhIYMbvDBhM",
+      "id": "0zqSNymvyHewhIYMbvDBhM",
+      "name": "Super Blue",
+      "type": "artist",
+      "uri": "spotify:artist:0zqSNymvyHewhIYMbvDBhM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Monk Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Monk Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888915543771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4jYKa0xNVHhdJwBD9Vtpjv",
+  "id": "4jYKa0xNVHhdJwBD9Vtpjv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ff42151851dfd0a93cdc31c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ff42151851dfd0a93cdc31c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ff42151851dfd0a93cdc31c",
+      "width": 64
+    }
+  ],
+  "label": "Monk Music",
+  "name": "Soca Kingdom",
+  "popularity": 0,
+  "release_date": "2018-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4jYKa0xNVHhdJwBD9Vtpjv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+            "id": "6wxP7SSzfvi21Cnl8JicdQ",
+            "name": "Machel Montano",
+            "type": "artist",
+            "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+            },
+            "href": "https://api.spotify.com/v1/artists/0zqSNymvyHewhIYMbvDBhM",
+            "id": "0zqSNymvyHewhIYMbvDBhM",
+            "name": "Super Blue",
+            "type": "artist",
+            "uri": "spotify:artist:0zqSNymvyHewhIYMbvDBhM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202247,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7bXT3nSlUxrx9VuZuWED3R",
+        "id": "7bXT3nSlUxrx9VuZuWED3R",
+        "is_local": false,
+        "name": "Soca Kingdom",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7bXT3nSlUxrx9VuZuWED3R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4jYKa0xNVHhdJwBD9Vtpjv"
+}

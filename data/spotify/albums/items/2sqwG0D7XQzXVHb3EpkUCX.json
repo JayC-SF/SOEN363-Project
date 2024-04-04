@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Cash Money Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Cash Money Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537976423"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2sqwG0D7XQzXVHb3EpkUCX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2sqwG0D7XQzXVHb3EpkUCX",
+  "id": "2sqwG0D7XQzXVHb3EpkUCX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385efc953482b5757c2d805a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285efc953482b5757c2d805a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185efc953482b5757c2d805a1",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "0 To 100 / The Catch Up",
+  "popularity": 0,
+  "release_date": "2013-07-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2sqwG0D7XQzXVHb3EpkUCX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 275226,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mkjekH9rwp4Fg5PxzUTrd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mkjekH9rwp4Fg5PxzUTrd",
+        "id": "0mkjekH9rwp4Fg5PxzUTrd",
+        "is_local": false,
+        "name": "0 To 100 / The Catch Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0mkjekH9rwp4Fg5PxzUTrd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2sqwG0D7XQzXVHb3EpkUCX"
+}

@@ -1,0 +1,443 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+      },
+      "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+      "id": "6igfLpd8s6DBBAuwebRUuo",
+      "name": "Josh Ritter",
+      "type": "artist",
+      "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2013 Josh Ritter under exclusive license to V2 Benelux",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "8717931324076"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1HCg4NPXVnXAV0d6r1ZerN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1HCg4NPXVnXAV0d6r1ZerN",
+  "id": "1HCg4NPXVnXAV0d6r1ZerN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9445fe7cd00fef2eefc4fc9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9445fe7cd00fef2eefc4fc9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9445fe7cd00fef2eefc4fc9",
+      "width": 64
+    }
+  ],
+  "label": "V2 Records Benelux",
+  "name": "The Beast In Its Tracks",
+  "popularity": 0,
+  "release_date": "2013-03-04",
+  "release_date_precision": "day",
+  "total_tracks": 13,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1HCg4NPXVnXAV0d6r1ZerN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 55754,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YCBot7E6HnE5kqHboyKoi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1YCBot7E6HnE5kqHboyKoi",
+        "id": "1YCBot7E6HnE5kqHboyKoi",
+        "is_local": false,
+        "name": "Third Arm",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1YCBot7E6HnE5kqHboyKoi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BIfkWgVy5GEX79QOQa6p6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BIfkWgVy5GEX79QOQa6p6",
+        "id": "7BIfkWgVy5GEX79QOQa6p6",
+        "is_local": false,
+        "name": "Evil Eye",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7BIfkWgVy5GEX79QOQa6p6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169709,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LytGKdXV76WmP3m0tenWo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6LytGKdXV76WmP3m0tenWo",
+        "id": "6LytGKdXV76WmP3m0tenWo",
+        "is_local": false,
+        "name": "A Certain Light",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6LytGKdXV76WmP3m0tenWo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266437,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nrDwQT1VUAOvfhhxsrhIO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nrDwQT1VUAOvfhhxsrhIO",
+        "id": "1nrDwQT1VUAOvfhhxsrhIO",
+        "is_local": false,
+        "name": "Hopeful",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1nrDwQT1VUAOvfhhxsrhIO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WhJJvy9ItH3T1omjpQCwN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WhJJvy9ItH3T1omjpQCwN",
+        "id": "5WhJJvy9ItH3T1omjpQCwN",
+        "is_local": false,
+        "name": "Nightmares",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5WhJJvy9ItH3T1omjpQCwN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268348,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5p9ij9bY7qUju36g22Fjz3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5p9ij9bY7qUju36g22Fjz3",
+        "id": "5p9ij9bY7qUju36g22Fjz3",
+        "is_local": false,
+        "name": "New Lover",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5p9ij9bY7qUju36g22Fjz3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201002,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7segQDegn5aHLbRZ0XGZbC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7segQDegn5aHLbRZ0XGZbC",
+        "id": "7segQDegn5aHLbRZ0XGZbC",
+        "is_local": false,
+        "name": "Heart's Ease",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7segQDegn5aHLbRZ0XGZbC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195579,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fbpNE8JT05XffJHEhwvLC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fbpNE8JT05XffJHEhwvLC",
+        "id": "1fbpNE8JT05XffJHEhwvLC",
+        "is_local": false,
+        "name": "In Your Arms Again",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1fbpNE8JT05XffJHEhwvLC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267323,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mGh9QoLyTDQ9g9pPBLxGT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mGh9QoLyTDQ9g9pPBLxGT",
+        "id": "6mGh9QoLyTDQ9g9pPBLxGT",
+        "is_local": false,
+        "name": "The Appleblossom Rag",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6mGh9QoLyTDQ9g9pPBLxGT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 171254,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7w5MhTFb0YzylhTPT8ltp6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7w5MhTFb0YzylhTPT8ltp6",
+        "id": "7w5MhTFb0YzylhTPT8ltp6",
+        "is_local": false,
+        "name": "Bonfire",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7w5MhTFb0YzylhTPT8ltp6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 123208,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mx1p8rBMW3kSwKCnVPKbh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mx1p8rBMW3kSwKCnVPKbh",
+        "id": "3mx1p8rBMW3kSwKCnVPKbh",
+        "is_local": false,
+        "name": "In Your Arms Awhile",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3mx1p8rBMW3kSwKCnVPKbh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 273554,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6BQUuMJavtLNxxQtCvgi7D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6BQUuMJavtLNxxQtCvgi7D",
+        "id": "6BQUuMJavtLNxxQtCvgi7D",
+        "is_local": false,
+        "name": "Joy To You Baby",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6BQUuMJavtLNxxQtCvgi7D"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+            "id": "6igfLpd8s6DBBAuwebRUuo",
+            "name": "Josh Ritter",
+            "type": "artist",
+            "uri": "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242137,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U4MLqoj0N1yQs7LPR7uwp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U4MLqoj0N1yQs7LPR7uwp",
+        "id": "4U4MLqoj0N1yQs7LPR7uwp",
+        "is_local": false,
+        "name": "Lights",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4U4MLqoj0N1yQs7LPR7uwp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  },
+  "type": "album",
+  "uri": "spotify:album:1HCg4NPXVnXAV0d6r1ZerN"
+}

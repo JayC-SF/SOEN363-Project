@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id": "4F84IBURUo98rz4r61KF70",
+      "name": "The White Stripes",
+      "type": "artist",
+      "uri": "spotify:artist:4F84IBURUo98rz4r61KF70"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Third Man Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2012 Third Man Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "813547022363"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3j6Trfze3J94mQVqRAGisH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3j6Trfze3J94mQVqRAGisH",
+  "id": "3j6Trfze3J94mQVqRAGisH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb536f75ece5cfb58368f09e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb536f75ece5cfb58368f09e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb536f75ece5cfb58368f09e",
+      "width": 64
+    }
+  ],
+  "label": "Third Man Records",
+  "name": "Fell in Love with a Girl",
+  "popularity": 0,
+  "release_date": "2002",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3j6Trfze3J94mQVqRAGisH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+            "id": "4F84IBURUo98rz4r61KF70",
+            "name": "The White Stripes",
+            "type": "artist",
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AFeX7RsYJzNKChOTA3vPf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3AFeX7RsYJzNKChOTA3vPf",
+        "id": "3AFeX7RsYJzNKChOTA3vPf",
+        "is_local": false,
+        "name": "Fell in Love with a Girl",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3AFeX7RsYJzNKChOTA3vPf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+            "id": "4F84IBURUo98rz4r61KF70",
+            "name": "The White Stripes",
+            "type": "artist",
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0E3PFjus7ndsaicPwGFFli"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0E3PFjus7ndsaicPwGFFli",
+        "id": "0E3PFjus7ndsaicPwGFFli",
+        "is_local": false,
+        "name": "I Just Don't Know What To Do With Myself",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0E3PFjus7ndsaicPwGFFli"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3j6Trfze3J94mQVqRAGisH"
+}

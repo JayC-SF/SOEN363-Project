@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3cb9sULs9n1DMoBDQ7YaEC",
+      "id": "3cb9sULs9n1DMoBDQ7YaEC",
+      "name": "Wetty Beatz",
+      "type": "artist",
+      "uri": "spotify:artist:3cb9sULs9n1DMoBDQ7YaEC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 FOX FUSE",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 FOX FUSE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641506130"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lRghnOCeOBFQyfuOkANAi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lRghnOCeOBFQyfuOkANAi",
+  "id": "4lRghnOCeOBFQyfuOkANAi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf7256677a123fac558c146e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf7256677a123fac558c146e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf7256677a123fac558c146e",
+      "width": 64
+    }
+  ],
+  "label": "Fox Fuse",
+  "name": "Ting Go Nice Again",
+  "popularity": 0,
+  "release_date": "2020-05-29",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lRghnOCeOBFQyfuOkANAi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3cb9sULs9n1DMoBDQ7YaEC",
+            "id": "3cb9sULs9n1DMoBDQ7YaEC",
+            "name": "Wetty Beatz",
+            "type": "artist",
+            "uri": "spotify:artist:3cb9sULs9n1DMoBDQ7YaEC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179739,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kAGfsY1IsWM7FZZbPz1NN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kAGfsY1IsWM7FZZbPz1NN",
+        "id": "3kAGfsY1IsWM7FZZbPz1NN",
+        "is_local": false,
+        "name": "Ting Go Nice Again",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kAGfsY1IsWM7FZZbPz1NN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3cb9sULs9n1DMoBDQ7YaEC",
+            "id": "3cb9sULs9n1DMoBDQ7YaEC",
+            "name": "Wetty Beatz",
+            "type": "artist",
+            "uri": "spotify:artist:3cb9sULs9n1DMoBDQ7YaEC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180871,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xrLwRBrbPLXoFMnRVTdNp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xrLwRBrbPLXoFMnRVTdNp",
+        "id": "2xrLwRBrbPLXoFMnRVTdNp",
+        "is_local": false,
+        "name": "Ting Go Nice Again (Instrumental)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2xrLwRBrbPLXoFMnRVTdNp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4lRghnOCeOBFQyfuOkANAi"
+}

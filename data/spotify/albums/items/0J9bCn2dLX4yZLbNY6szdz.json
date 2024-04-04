@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+      "id": "6Dd3NScHWwnW6obMFbl1BH",
+      "name": "Daya",
+      "type": "artist",
+      "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 ARTBEATZ Entertainment LLC. Distributed by RED, a SONY Company",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 ARTBEATZ Entertainment LLC. Distributed by RED, a SONY Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446125961"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0J9bCn2dLX4yZLbNY6szdz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0J9bCn2dLX4yZLbNY6szdz",
+  "id": "0J9bCn2dLX4yZLbNY6szdz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfdb920281d40fb22d0464f3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfdb920281d40fb22d0464f3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfdb920281d40fb22d0464f3",
+      "width": 64
+    }
+  ],
+  "label": "Artbeatz",
+  "name": "Cool",
+  "popularity": 0,
+  "release_date": "2016-09-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0J9bCn2dLX4yZLbNY6szdz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+            "id": "6Dd3NScHWwnW6obMFbl1BH",
+            "name": "Daya",
+            "type": "artist",
+            "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214883,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YlWk2pdedpxI8sLNKJ5zY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YlWk2pdedpxI8sLNKJ5zY",
+        "id": "2YlWk2pdedpxI8sLNKJ5zY",
+        "is_local": false,
+        "name": "Cool",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2YlWk2pdedpxI8sLNKJ5zY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0J9bCn2dLX4yZLbNY6szdz"
+}

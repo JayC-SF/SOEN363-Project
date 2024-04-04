@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+      "id": "6QtGlUje9TIkLrgPZrESuk",
+      "name": "Steve Miller Band",
+      "type": "artist",
+      "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2005 Capitol Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2005 Capitol Records, Inc.. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Catalog,",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00094634988353"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7jnqdsbzjOR9nwQr3M3GgB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7jnqdsbzjOR9nwQr3M3GgB",
+  "id": "7jnqdsbzjOR9nwQr3M3GgB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27378690edd74aea486e6bac152",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0278690edd74aea486e6bac152",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485178690edd74aea486e6bac152",
+      "width": 64
+    }
+  ],
+  "label": "Capitol Records",
+  "name": "Jet Airliner",
+  "popularity": 0,
+  "release_date": "2005-12-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7jnqdsbzjOR9nwQr3M3GgB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+            "id": "6QtGlUje9TIkLrgPZrESuk",
+            "name": "Steve Miller Band",
+            "type": "artist",
+            "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71gU4Kd5eQXcg5npdYheJE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71gU4Kd5eQXcg5npdYheJE",
+        "id": "71gU4Kd5eQXcg5npdYheJE",
+        "is_local": false,
+        "name": "Jet Airliner - 2003 Digital Remaster",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:71gU4Kd5eQXcg5npdYheJE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7jnqdsbzjOR9nwQr3M3GgB"
+}

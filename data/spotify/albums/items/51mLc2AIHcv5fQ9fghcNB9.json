@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+      },
+      "href": "https://api.spotify.com/v1/artists/7CvTknweLr9feJtRGrpDBy",
+      "id": "7CvTknweLr9feJtRGrpDBy",
+      "name": "FloyyMenor",
+      "type": "artist",
+      "uri": "spotify:artist:7CvTknweLr9feJtRGrpDBy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Los Patos Feos inc",
+      "type": "C"
+    },
+    {
+      "text": "2023 Los Patos Feos inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197814785442"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51mLc2AIHcv5fQ9fghcNB9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51mLc2AIHcv5fQ9fghcNB9",
+  "id": "51mLc2AIHcv5fQ9fghcNB9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fdd5497289a58d303b18136b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fdd5497289a58d303b18136b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fdd5497289a58d303b18136b",
+      "width": 64
+    }
+  ],
+  "label": "Los Patos Feos inc",
+  "name": "Un Star",
+  "popularity": 0,
+  "release_date": "2023-01-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51mLc2AIHcv5fQ9fghcNB9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CvTknweLr9feJtRGrpDBy",
+            "id": "7CvTknweLr9feJtRGrpDBy",
+            "name": "FloyyMenor",
+            "type": "artist",
+            "uri": "spotify:artist:7CvTknweLr9feJtRGrpDBy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PjcJOp04pJ3aYcMARr6pX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PjcJOp04pJ3aYcMARr6pX",
+        "id": "1PjcJOp04pJ3aYcMARr6pX",
+        "is_local": false,
+        "name": "Un Star",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1PjcJOp04pJ3aYcMARr6pX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51mLc2AIHcv5fQ9fghcNB9"
+}

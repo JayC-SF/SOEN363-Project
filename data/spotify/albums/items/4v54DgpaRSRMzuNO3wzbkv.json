@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LzeyDrlLtuyBqMSBN4z3U",
+      "id": "0LzeyDrlLtuyBqMSBN4z3U",
+      "name": "Qumu",
+      "type": "artist",
+      "uri": "spotify:artist:0LzeyDrlLtuyBqMSBN4z3U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Qumu",
+      "type": "C"
+    },
+    {
+      "text": "2016 Qumu",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "841787129085"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4v54DgpaRSRMzuNO3wzbkv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4v54DgpaRSRMzuNO3wzbkv",
+  "id": "4v54DgpaRSRMzuNO3wzbkv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee3df84424898c47127c2511",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee3df84424898c47127c2511",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee3df84424898c47127c2511",
+      "width": 64
+    }
+  ],
+  "label": "Qumu",
+  "name": "Luigi's Mansion",
+  "popularity": 0,
+  "release_date": "2016-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4v54DgpaRSRMzuNO3wzbkv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LzeyDrlLtuyBqMSBN4z3U",
+            "id": "0LzeyDrlLtuyBqMSBN4z3U",
+            "name": "Qumu",
+            "type": "artist",
+            "uri": "spotify:artist:0LzeyDrlLtuyBqMSBN4z3U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192923,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dMOu9uZdg42SdQ8aGm4AA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dMOu9uZdg42SdQ8aGm4AA",
+        "id": "4dMOu9uZdg42SdQ8aGm4AA",
+        "is_local": false,
+        "name": "Luigi's Mansion",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4dMOu9uZdg42SdQ8aGm4AA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4v54DgpaRSRMzuNO3wzbkv"
+}

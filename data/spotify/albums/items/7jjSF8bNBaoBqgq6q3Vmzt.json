@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4fphH75OM3CI7WSS6OqG3z"
+      },
+      "href": "https://api.spotify.com/v1/artists/4fphH75OM3CI7WSS6OqG3z",
+      "id": "4fphH75OM3CI7WSS6OqG3z",
+      "name": "Mr Beats Lofi",
+      "type": "artist",
+      "uri": "spotify:artist:4fphH75OM3CI7WSS6OqG3z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Lofi Temple / Opposition",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436269049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7jjSF8bNBaoBqgq6q3Vmzt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7jjSF8bNBaoBqgq6q3Vmzt",
+  "id": "7jjSF8bNBaoBqgq6q3Vmzt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386dc358ccf22d9cc34da2995",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286dc358ccf22d9cc34da2995",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186dc358ccf22d9cc34da2995",
+      "width": 64
+    }
+  ],
+  "label": "Lofi Temple / Opposition",
+  "name": "One Piece",
+  "popularity": 0,
+  "release_date": "2021-09-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7jjSF8bNBaoBqgq6q3Vmzt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4fphH75OM3CI7WSS6OqG3z"
+            },
+            "href": "https://api.spotify.com/v1/artists/4fphH75OM3CI7WSS6OqG3z",
+            "id": "4fphH75OM3CI7WSS6OqG3z",
+            "name": "Mr Beats Lofi",
+            "type": "artist",
+            "uri": "spotify:artist:4fphH75OM3CI7WSS6OqG3z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DNAKvRe7lKq0sGVxW6xoa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DNAKvRe7lKq0sGVxW6xoa",
+        "id": "3DNAKvRe7lKq0sGVxW6xoa",
+        "is_local": false,
+        "name": "One Piece",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3DNAKvRe7lKq0sGVxW6xoa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7jjSF8bNBaoBqgq6q3Vmzt"
+}

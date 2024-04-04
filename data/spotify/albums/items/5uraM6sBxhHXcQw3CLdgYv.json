@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+      },
+      "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+      "id": "67hb7towEyKvt5Z8Bx306c",
+      "name": "Empire Of The Sun",
+      "type": "artist",
+      "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2013 The Sleepy Jackson Pty Ltd and Nick Littlemore",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2013 The Sleepy Jackson Pty Ltd and Nick Littlemore under exclusive licence to EMI Music Australia Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537379965"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5uraM6sBxhHXcQw3CLdgYv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5uraM6sBxhHXcQw3CLdgYv",
+  "id": "5uraM6sBxhHXcQw3CLdgYv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363f903126c63953463df1163",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263f903126c63953463df1163",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163f903126c63953463df1163",
+      "width": 64
+    }
+  ],
+  "label": "Astralwerks",
+  "name": "Alive",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5uraM6sBxhHXcQw3CLdgYv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+            },
+            "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+            "id": "67hb7towEyKvt5Z8Bx306c",
+            "name": "Empire Of The Sun",
+            "type": "artist",
+            "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204591,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tqG3RAo8h9pHxCJFn7bZb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tqG3RAo8h9pHxCJFn7bZb",
+        "id": "7tqG3RAo8h9pHxCJFn7bZb",
+        "is_local": false,
+        "name": "Alive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7tqG3RAo8h9pHxCJFn7bZb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5uraM6sBxhHXcQw3CLdgYv"
+}

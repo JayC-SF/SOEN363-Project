@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+      },
+      "href": "https://api.spotify.com/v1/artists/4otJVkrLLqDF8OxFJOigme",
+      "id": "4otJVkrLLqDF8OxFJOigme",
+      "name": "Mavi Gri",
+      "type": "artist",
+      "uri": "spotify:artist:4otJVkrLLqDF8OxFJOigme"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Mavi Gri",
+      "type": "C"
+    },
+    {
+      "text": "2020 Mavi Gri",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194660535788"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3x4mHd3rmjalBOLYUoIYm6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3x4mHd3rmjalBOLYUoIYm6",
+  "id": "3x4mHd3rmjalBOLYUoIYm6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e42e873aee207fcf0caebf98",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e42e873aee207fcf0caebf98",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e42e873aee207fcf0caebf98",
+      "width": 64
+    }
+  ],
+  "label": "Mavi Gri",
+  "name": "O Ben Olamam",
+  "popularity": 0,
+  "release_date": "2020-01-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3x4mHd3rmjalBOLYUoIYm6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+            },
+            "href": "https://api.spotify.com/v1/artists/4otJVkrLLqDF8OxFJOigme",
+            "id": "4otJVkrLLqDF8OxFJOigme",
+            "name": "Mavi Gri",
+            "type": "artist",
+            "uri": "spotify:artist:4otJVkrLLqDF8OxFJOigme"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 319270,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jwAjmoSIleloreUAmTkBI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jwAjmoSIleloreUAmTkBI",
+        "id": "3jwAjmoSIleloreUAmTkBI",
+        "is_local": false,
+        "name": "O Ben Olamam",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3jwAjmoSIleloreUAmTkBI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3x4mHd3rmjalBOLYUoIYm6"
+}

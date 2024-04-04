@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+      "id": "7GMot9WvBYqhhJz92vhBp6",
+      "name": "EDX",
+      "type": "artist",
+      "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HjbKQXMhybveoJOsOXS07",
+      "id": "5HjbKQXMhybveoJOsOXS07",
+      "name": "Jess Ball",
+      "type": "artist",
+      "uri": "spotify:artist:5HjbKQXMhybveoJOsOXS07"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2020 Armada Music B.V. under exclusive license from Sirup Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "2020 Armada Music B.V. under exclusive license from Sirup Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718522300561"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3P86G1IWPEI9yX9ANvjJ0f"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3P86G1IWPEI9yX9ANvjJ0f",
+  "id": "3P86G1IWPEI9yX9ANvjJ0f",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a52ce90b1f48eb2565c331c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a52ce90b1f48eb2565c331c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a52ce90b1f48eb2565c331c9",
+      "width": 64
+    }
+  ],
+  "label": "Armada Music",
+  "name": "I Found You (Neptune) [feat. Jess Ball]",
+  "popularity": 33,
+  "release_date": "2020-05-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3P86G1IWPEI9yX9ANvjJ0f/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+            "id": "7GMot9WvBYqhhJz92vhBp6",
+            "name": "EDX",
+            "type": "artist",
+            "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HjbKQXMhybveoJOsOXS07",
+            "id": "5HjbKQXMhybveoJOsOXS07",
+            "name": "Jess Ball",
+            "type": "artist",
+            "uri": "spotify:artist:5HjbKQXMhybveoJOsOXS07"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 158735,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/078XSMBD1XBjtxee96dgew"
+        },
+        "href": "https://api.spotify.com/v1/tracks/078XSMBD1XBjtxee96dgew",
+        "id": "078XSMBD1XBjtxee96dgew",
+        "is_local": false,
+        "name": "I Found You (Neptune) [feat. Jess Ball]",
+        "preview_url": "https://p.scdn.co/mp3-preview/96f20a7d376c8385edb61029a56f91060aa660a6?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:078XSMBD1XBjtxee96dgew"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3P86G1IWPEI9yX9ANvjJ0f"
+}

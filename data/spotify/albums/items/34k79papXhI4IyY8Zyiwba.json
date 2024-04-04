@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dMEBGtGI6O7PoTEucAaBT",
+      "id": "7dMEBGtGI6O7PoTEucAaBT",
+      "name": "Ryan Griffin",
+      "type": "artist",
+      "uri": "spotify:artist:7dMEBGtGI6O7PoTEucAaBT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Red Street Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Red Street Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "999990021631"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/34k79papXhI4IyY8Zyiwba"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/34k79papXhI4IyY8Zyiwba",
+  "id": "34k79papXhI4IyY8Zyiwba",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e46a9181306dbfdda9e9f4e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e46a9181306dbfdda9e9f4e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e46a9181306dbfdda9e9f4e7",
+      "width": 64
+    }
+  ],
+  "label": "Red Street Records, LLC",
+  "name": "What I Live For",
+  "popularity": 0,
+  "release_date": "2023-03-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/34k79papXhI4IyY8Zyiwba/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dMEBGtGI6O7PoTEucAaBT",
+            "id": "7dMEBGtGI6O7PoTEucAaBT",
+            "name": "Ryan Griffin",
+            "type": "artist",
+            "uri": "spotify:artist:7dMEBGtGI6O7PoTEucAaBT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190756,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HQjfkdG1vpYj5xvfgisrJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HQjfkdG1vpYj5xvfgisrJ",
+        "id": "1HQjfkdG1vpYj5xvfgisrJ",
+        "is_local": false,
+        "name": "What I Live For",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1HQjfkdG1vpYj5xvfgisrJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:34k79papXhI4IyY8Zyiwba"
+}

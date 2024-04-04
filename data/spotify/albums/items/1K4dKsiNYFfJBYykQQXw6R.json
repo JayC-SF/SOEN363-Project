@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bO19AOone0ubCsfDXDtYt",
+      "id": "3bO19AOone0ubCsfDXDtYt",
+      "name": "Myles Smith",
+      "type": "artist",
+      "uri": "spotify:artist:3bO19AOone0ubCsfDXDtYt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Myles Smith - licensed to Ditto Music",
+      "type": "C"
+    },
+    {
+      "text": "2023 Myles Smith - licensed to Ditto Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063346857740"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1K4dKsiNYFfJBYykQQXw6R",
+  "id": "1K4dKsiNYFfJBYykQQXw6R",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1210ee66c1836d7fc41314e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1210ee66c1836d7fc41314e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1210ee66c1836d7fc41314e",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "My Home",
+  "popularity": 48,
+  "release_date": "2023-10-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1K4dKsiNYFfJBYykQQXw6R/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bO19AOone0ubCsfDXDtYt",
+            "id": "3bO19AOone0ubCsfDXDtYt",
+            "name": "Myles Smith",
+            "type": "artist",
+            "uri": "spotify:artist:3bO19AOone0ubCsfDXDtYt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0MtfUEHee9p6RsqAwW8gyF",
+        "id": "0MtfUEHee9p6RsqAwW8gyF",
+        "is_local": false,
+        "name": "My Home",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0MtfUEHee9p6RsqAwW8gyF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1K4dKsiNYFfJBYykQQXw6R"
+}

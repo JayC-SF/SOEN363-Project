@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6DARBhWbfcS9E4yJzcliqQ",
+      "id": "6DARBhWbfcS9E4yJzcliqQ",
+      "name": "Karan Aujla",
+      "type": "artist",
+      "uri": "spotify:artist:6DARBhWbfcS9E4yJzcliqQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Rehaan Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Rehaan Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193537530932"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6xluuaKp94omPx4iYY5xWc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6xluuaKp94omPx4iYY5xWc",
+  "id": "6xluuaKp94omPx4iYY5xWc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e7ee30bbea95340614de848",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e7ee30bbea95340614de848",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e7ee30bbea95340614de848",
+      "width": 64
+    }
+  ],
+  "label": "Rehaan Records",
+  "name": "Don't Worry",
+  "popularity": 0,
+  "release_date": "2018-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6xluuaKp94omPx4iYY5xWc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DARBhWbfcS9E4yJzcliqQ",
+            "id": "6DARBhWbfcS9E4yJzcliqQ",
+            "name": "Karan Aujla",
+            "type": "artist",
+            "uri": "spotify:artist:6DARBhWbfcS9E4yJzcliqQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/55kkrbuMkdzPGD7YGA6xrJ",
+            "id": "55kkrbuMkdzPGD7YGA6xrJ",
+            "name": "Gurlez Akhtar",
+            "type": "artist",
+            "uri": "spotify:artist:55kkrbuMkdzPGD7YGA6xrJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179487,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lpoDTX6nbIR6wrl2Z9llI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lpoDTX6nbIR6wrl2Z9llI",
+        "id": "0lpoDTX6nbIR6wrl2Z9llI",
+        "is_local": false,
+        "name": "Don't Worry",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lpoDTX6nbIR6wrl2Z9llI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6xluuaKp94omPx4iYY5xWc"
+}

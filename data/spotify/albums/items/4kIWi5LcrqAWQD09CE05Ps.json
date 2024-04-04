@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+      },
+      "href": "https://api.spotify.com/v1/artists/7gZfnEnfiaHzxARJ2LeXrf",
+      "id": "7gZfnEnfiaHzxARJ2LeXrf",
+      "name": "6ix9ine",
+      "type": "artist",
+      "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 6ix9ine, distributed by Create Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2020 6ix9ine, distributed by Create Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119468938"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4kIWi5LcrqAWQD09CE05Ps"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4kIWi5LcrqAWQD09CE05Ps",
+  "id": "4kIWi5LcrqAWQD09CE05Ps",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e68a2c61ab786e2526f7269",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e68a2c61ab786e2526f7269",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e68a2c61ab786e2526f7269",
+      "width": 64
+    }
+  ],
+  "label": "Create Music Group",
+  "name": "GOOBA",
+  "popularity": 0,
+  "release_date": "2020-05-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4kIWi5LcrqAWQD09CE05Ps/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gZfnEnfiaHzxARJ2LeXrf",
+            "id": "7gZfnEnfiaHzxARJ2LeXrf",
+            "name": "6ix9ine",
+            "type": "artist",
+            "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132303,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NhDYoQTYCdWHTvlbGVgwo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NhDYoQTYCdWHTvlbGVgwo",
+        "id": "4NhDYoQTYCdWHTvlbGVgwo",
+        "is_local": false,
+        "name": "GOOBA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4NhDYoQTYCdWHTvlbGVgwo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4kIWi5LcrqAWQD09CE05Ps"
+}

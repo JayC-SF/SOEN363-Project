@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+      },
+      "href": "https://api.spotify.com/v1/artists/7IVgVM49Z4ztdmOqOIxhvP",
+      "id": "7IVgVM49Z4ztdmOqOIxhvP",
+      "name": "Toby Green",
+      "type": "artist",
+      "uri": "spotify:artist:7IVgVM49Z4ztdmOqOIxhvP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Dim Mak Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2018 Dim Mak Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "812339029573"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2UJEcNBmxdzbEn9r9CUrdz",
+  "id": "2UJEcNBmxdzbEn9r9CUrdz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d165d6f27a2373421b4969ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d165d6f27a2373421b4969ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d165d6f27a2373421b4969ad",
+      "width": 64
+    }
+  ],
+  "label": "Dim Mak Records",
+  "name": "Check This Out",
+  "popularity": 4,
+  "release_date": "2018-09-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2UJEcNBmxdzbEn9r9CUrdz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+            },
+            "href": "https://api.spotify.com/v1/artists/7IVgVM49Z4ztdmOqOIxhvP",
+            "id": "7IVgVM49Z4ztdmOqOIxhvP",
+            "name": "Toby Green",
+            "type": "artist",
+            "uri": "spotify:artist:7IVgVM49Z4ztdmOqOIxhvP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151020,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40mYZdW4XYsfVU4D1L3cXx",
+        "id": "40mYZdW4XYsfVU4D1L3cXx",
+        "is_local": false,
+        "name": "Check This Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40mYZdW4XYsfVU4D1L3cXx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2UJEcNBmxdzbEn9r9CUrdz"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Ip8FS7vWT1uKkJSweANQK",
+      "id": "6Ip8FS7vWT1uKkJSweANQK",
+      "name": "Dave",
+      "type": "artist",
+      "uri": "spotify:artist:6Ip8FS7vWT1uKkJSweANQK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 OVO Sound/Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 OVO Sound/Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391960245"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/58w0f9JJztUe8vXg9C0WwD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/58w0f9JJztUe8vXg9C0WwD",
+  "id": "58w0f9JJztUe8vXg9C0WwD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364442a4144ef18be67b37b37",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264442a4144ef18be67b37b37",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164442a4144ef18be67b37b37",
+      "width": 64
+    }
+  ],
+  "label": "OVO Sound/Warner Records",
+  "name": "Wanna Know Remix (feat. Drake)",
+  "popularity": 1,
+  "release_date": "2016-10-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/58w0f9JJztUe8vXg9C0WwD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Ip8FS7vWT1uKkJSweANQK",
+            "id": "6Ip8FS7vWT1uKkJSweANQK",
+            "name": "Dave",
+            "type": "artist",
+            "uri": "spotify:artist:6Ip8FS7vWT1uKkJSweANQK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199019,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bPLo5Fv7h15E2fW3g1mVQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7bPLo5Fv7h15E2fW3g1mVQ",
+        "id": "7bPLo5Fv7h15E2fW3g1mVQ",
+        "is_local": false,
+        "name": "Wanna Know Remix (feat. Drake)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7bPLo5Fv7h15E2fW3g1mVQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:58w0f9JJztUe8vXg9C0WwD"
+}

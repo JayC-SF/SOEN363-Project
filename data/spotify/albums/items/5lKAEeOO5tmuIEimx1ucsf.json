@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6i0vZMk7aCRuxn1B0O1oT5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6i0vZMk7aCRuxn1B0O1oT5",
+      "id": "6i0vZMk7aCRuxn1B0O1oT5",
+      "name": "JJ Rupp",
+      "type": "artist",
+      "uri": "spotify:artist:6i0vZMk7aCRuxn1B0O1oT5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 RAHHH Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 RAHHH Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "661869031330"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5lKAEeOO5tmuIEimx1ucsf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5lKAEeOO5tmuIEimx1ucsf",
+  "id": "5lKAEeOO5tmuIEimx1ucsf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aeebb68a2e522ac02389e007",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aeebb68a2e522ac02389e007",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aeebb68a2e522ac02389e007",
+      "width": 64
+    }
+  ],
+  "label": "RAHHH Records",
+  "name": "Make You Mine",
+  "popularity": 0,
+  "release_date": "2022-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5lKAEeOO5tmuIEimx1ucsf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i0vZMk7aCRuxn1B0O1oT5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6i0vZMk7aCRuxn1B0O1oT5",
+            "id": "6i0vZMk7aCRuxn1B0O1oT5",
+            "name": "JJ Rupp",
+            "type": "artist",
+            "uri": "spotify:artist:6i0vZMk7aCRuxn1B0O1oT5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189245,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fvWzLCoUSrXv0ANeTi3OH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fvWzLCoUSrXv0ANeTi3OH",
+        "id": "0fvWzLCoUSrXv0ANeTi3OH",
+        "is_local": false,
+        "name": "Make You Mine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0fvWzLCoUSrXv0ANeTi3OH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5lKAEeOO5tmuIEimx1ucsf"
+}

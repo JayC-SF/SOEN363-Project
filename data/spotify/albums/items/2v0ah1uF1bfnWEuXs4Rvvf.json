@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EWsHDexsSInArfFkhA2i6",
+      "id": "2EWsHDexsSInArfFkhA2i6",
+      "name": "Jireel",
+      "type": "artist",
+      "uri": "spotify:artist:2EWsHDexsSInArfFkhA2i6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Nivy AB, Under exclusive license to Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Nivy AB, Under exclusive license to Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557409772"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2v0ah1uF1bfnWEuXs4Rvvf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2v0ah1uF1bfnWEuXs4Rvvf",
+  "id": "2v0ah1uF1bfnWEuXs4Rvvf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307e1ff3632c4ee261635ca4e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207e1ff3632c4ee261635ca4e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107e1ff3632c4ee261635ca4e",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Snap",
+  "popularity": 0,
+  "release_date": "2017-01-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2v0ah1uF1bfnWEuXs4Rvvf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+            },
+            "href": "https://api.spotify.com/v1/artists/2EWsHDexsSInArfFkhA2i6",
+            "id": "2EWsHDexsSInArfFkhA2i6",
+            "name": "Jireel",
+            "type": "artist",
+            "uri": "spotify:artist:2EWsHDexsSInArfFkhA2i6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196638,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10gxwEmghUiMK89Bko9vla"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10gxwEmghUiMK89Bko9vla",
+        "id": "10gxwEmghUiMK89Bko9vla",
+        "is_local": false,
+        "name": "Snap",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:10gxwEmghUiMK89Bko9vla"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2v0ah1uF1bfnWEuXs4Rvvf"
+}

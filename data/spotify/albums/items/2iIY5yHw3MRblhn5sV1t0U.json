@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QzzeKV0VcnT2vJMYDPuL4",
+      "id": "6QzzeKV0VcnT2vJMYDPuL4",
+      "name": "Trettmann",
+      "type": "artist",
+      "uri": "spotify:artist:6QzzeKV0VcnT2vJMYDPuL4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 SoulForce Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 SoulForce Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050486987896"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2iIY5yHw3MRblhn5sV1t0U"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2iIY5yHw3MRblhn5sV1t0U",
+  "id": "2iIY5yHw3MRblhn5sV1t0U",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c3a64b9272982555593727f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c3a64b9272982555593727f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c3a64b9272982555593727f1",
+      "width": 64
+    }
+  ],
+  "label": "SoulForce Records",
+  "name": "120 Jahre",
+  "popularity": 0,
+  "release_date": "2017-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2iIY5yHw3MRblhn5sV1t0U/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QzzeKV0VcnT2vJMYDPuL4",
+            "id": "6QzzeKV0VcnT2vJMYDPuL4",
+            "name": "Trettmann",
+            "type": "artist",
+            "uri": "spotify:artist:6QzzeKV0VcnT2vJMYDPuL4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
+            },
+            "href": "https://api.spotify.com/v1/artists/3NjbpG6MmFGVLXwbcPXH90",
+            "id": "3NjbpG6MmFGVLXwbcPXH90",
+            "name": "Haiyti",
+            "type": "artist",
+            "uri": "spotify:artist:3NjbpG6MmFGVLXwbcPXH90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186436,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1o5LyfF5ZbFqU9o4m7XXYu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1o5LyfF5ZbFqU9o4m7XXYu",
+        "id": "1o5LyfF5ZbFqU9o4m7XXYu",
+        "is_local": false,
+        "name": "120 Jahre - KitschKrieg Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1o5LyfF5ZbFqU9o4m7XXYu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2iIY5yHw3MRblhn5sV1t0U"
+}

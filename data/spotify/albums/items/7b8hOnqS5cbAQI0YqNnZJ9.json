@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kXJq5T1MBsdzdA98SYWay"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kXJq5T1MBsdzdA98SYWay",
+      "id": "2kXJq5T1MBsdzdA98SYWay",
+      "name": "elevan.",
+      "type": "artist",
+      "uri": "spotify:artist:2kXJq5T1MBsdzdA98SYWay"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 prodbyelevan",
+      "type": "C"
+    },
+    {
+      "text": "2022 prodbyelevan",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198001749889"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7b8hOnqS5cbAQI0YqNnZJ9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7b8hOnqS5cbAQI0YqNnZJ9",
+  "id": "7b8hOnqS5cbAQI0YqNnZJ9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2e70630969e8547209a7077",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2e70630969e8547209a7077",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2e70630969e8547209a7077",
+      "width": 64
+    }
+  ],
+  "label": "prodbyelevan",
+  "name": "Wok",
+  "popularity": 0,
+  "release_date": "2022-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7b8hOnqS5cbAQI0YqNnZJ9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kXJq5T1MBsdzdA98SYWay"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kXJq5T1MBsdzdA98SYWay",
+            "id": "2kXJq5T1MBsdzdA98SYWay",
+            "name": "elevan.",
+            "type": "artist",
+            "uri": "spotify:artist:2kXJq5T1MBsdzdA98SYWay"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150870,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cuoiTt08kIkHXeAP1jxuj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cuoiTt08kIkHXeAP1jxuj",
+        "id": "6cuoiTt08kIkHXeAP1jxuj",
+        "is_local": false,
+        "name": "Wok",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6cuoiTt08kIkHXeAP1jxuj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7b8hOnqS5cbAQI0YqNnZJ9"
+}

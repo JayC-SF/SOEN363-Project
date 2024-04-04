@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5nkYRuiIHg2xXHFC8bfosJ",
+      "id": "5nkYRuiIHg2xXHFC8bfosJ",
+      "name": "ItaloBrothers",
+      "type": "artist",
+      "uri": "spotify:artist:5nkYRuiIHg2xXHFC8bfosJ"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2011 Zooland Records, under exclusive license to disco:wax",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443284586"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1VI4efbMmJmCTlnxbyXdSS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1VI4efbMmJmCTlnxbyXdSS",
+  "id": "1VI4efbMmJmCTlnxbyXdSS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c6b8e1187270eff19c6860e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c6b8e1187270eff19c6860e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c6b8e1187270eff19c6860e8",
+      "width": 64
+    }
+  ],
+  "label": "disco:wax",
+  "name": "Boom",
+  "popularity": 25,
+  "release_date": "2011-11-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1VI4efbMmJmCTlnxbyXdSS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nkYRuiIHg2xXHFC8bfosJ",
+            "id": "5nkYRuiIHg2xXHFC8bfosJ",
+            "name": "ItaloBrothers",
+            "type": "artist",
+            "uri": "spotify:artist:5nkYRuiIHg2xXHFC8bfosJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Wj6u7zMY2dOLkJGz62bEp",
+            "id": "0Wj6u7zMY2dOLkJGz62bEp",
+            "name": "Carlprit",
+            "type": "artist",
+            "uri": "spotify:artist:0Wj6u7zMY2dOLkJGz62bEp"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 191200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16nSuaoBbkw41J5SfA5var"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16nSuaoBbkw41J5SfA5var",
+        "id": "16nSuaoBbkw41J5SfA5var",
+        "is_local": false,
+        "name": "Boom - Video Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/15cf6e3d9d6c343ee57ec40e364ca3970ca8b09d?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16nSuaoBbkw41J5SfA5var"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1VI4efbMmJmCTlnxbyXdSS"
+}

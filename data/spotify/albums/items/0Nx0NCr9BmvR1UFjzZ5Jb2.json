@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+      },
+      "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+      "id": "0pePYDrJGk8gqMRbXrLJC8",
+      "name": "Luis R Conriquez",
+      "type": "artist",
+      "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Kartel Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "785939657418"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Nx0NCr9BmvR1UFjzZ5Jb2",
+  "id": "0Nx0NCr9BmvR1UFjzZ5Jb2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ca7d233c9856cfd969fb823b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ca7d233c9856cfd969fb823b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ca7d233c9856cfd969fb823b",
+      "width": 64
+    }
+  ],
+  "label": "Kartel Music",
+  "name": "Me Met\u00ed En El Ruedo (En Vivo)",
+  "popularity": 33,
+  "release_date": "2020-11-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Nx0NCr9BmvR1UFjzZ5Jb2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+            "id": "0pePYDrJGk8gqMRbXrLJC8",
+            "name": "Luis R Conriquez",
+            "type": "artist",
+            "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174985,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/69fR39dr6KuJhBr6C9y7Vn",
+        "id": "69fR39dr6KuJhBr6C9y7Vn",
+        "is_local": false,
+        "name": "Me Met\u00ed En El Ruedo (En Vivo)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:69fR39dr6KuJhBr6C9y7Vn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Nx0NCr9BmvR1UFjzZ5Jb2"
+}

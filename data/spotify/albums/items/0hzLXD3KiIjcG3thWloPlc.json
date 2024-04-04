@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tR8hI9nP55dVOK0DBvWbU",
+      "id": "1tR8hI9nP55dVOK0DBvWbU",
+      "name": "Nineb Youk",
+      "type": "artist",
+      "uri": "spotify:artist:1tR8hI9nP55dVOK0DBvWbU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 GC Sweden",
+      "type": "C"
+    },
+    {
+      "text": "2019 GC Sweden",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0885014105503"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0hzLXD3KiIjcG3thWloPlc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0hzLXD3KiIjcG3thWloPlc",
+  "id": "0hzLXD3KiIjcG3thWloPlc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735db5d60586c125eb8c4c05ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025db5d60586c125eb8c4c05ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515db5d60586c125eb8c4c05ca",
+      "width": 64
+    }
+  ],
+  "label": "GC Sweden",
+  "name": "Glocken",
+  "popularity": 0,
+  "release_date": "2019-01-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0hzLXD3KiIjcG3thWloPlc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tR8hI9nP55dVOK0DBvWbU",
+            "id": "1tR8hI9nP55dVOK0DBvWbU",
+            "name": "Nineb Youk",
+            "type": "artist",
+            "uri": "spotify:artist:1tR8hI9nP55dVOK0DBvWbU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SLvVkvlOzoE5vPdVAIn1d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SLvVkvlOzoE5vPdVAIn1d",
+        "id": "3SLvVkvlOzoE5vPdVAIn1d",
+        "is_local": false,
+        "name": "Glocken",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SLvVkvlOzoE5vPdVAIn1d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0hzLXD3KiIjcG3thWloPlc"
+}

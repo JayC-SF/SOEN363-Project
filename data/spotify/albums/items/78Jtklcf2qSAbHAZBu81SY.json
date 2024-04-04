@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aDqKkPMCd390u328YbBAl"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aDqKkPMCd390u328YbBAl",
+      "id": "4aDqKkPMCd390u328YbBAl",
+      "name": "Rozzen",
+      "type": "artist",
+      "uri": "spotify:artist:4aDqKkPMCd390u328YbBAl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 LAROSA",
+      "type": "C"
+    },
+    {
+      "text": "2023 LAROSA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197368319841"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78Jtklcf2qSAbHAZBu81SY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78Jtklcf2qSAbHAZBu81SY",
+  "id": "78Jtklcf2qSAbHAZBu81SY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c0eb4485e995354217d5f56",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c0eb4485e995354217d5f56",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c0eb4485e995354217d5f56",
+      "width": 64
+    }
+  ],
+  "label": "LAROSA",
+  "name": "Great White",
+  "popularity": 0,
+  "release_date": "2023-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78Jtklcf2qSAbHAZBu81SY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aDqKkPMCd390u328YbBAl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aDqKkPMCd390u328YbBAl",
+            "id": "4aDqKkPMCd390u328YbBAl",
+            "name": "Rozzen",
+            "type": "artist",
+            "uri": "spotify:artist:4aDqKkPMCd390u328YbBAl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235357,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36J4KuhLKgWxrMs9lLtRoU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36J4KuhLKgWxrMs9lLtRoU",
+        "id": "36J4KuhLKgWxrMs9lLtRoU",
+        "is_local": false,
+        "name": "Great White",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36J4KuhLKgWxrMs9lLtRoU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aDqKkPMCd390u328YbBAl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aDqKkPMCd390u328YbBAl",
+            "id": "4aDqKkPMCd390u328YbBAl",
+            "name": "Rozzen",
+            "type": "artist",
+            "uri": "spotify:artist:4aDqKkPMCd390u328YbBAl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 327380,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YK5fPEHTl8IINPA5dYjpa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YK5fPEHTl8IINPA5dYjpa",
+        "id": "5YK5fPEHTl8IINPA5dYjpa",
+        "is_local": false,
+        "name": "Great White - Extended",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5YK5fPEHTl8IINPA5dYjpa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:78Jtklcf2qSAbHAZBu81SY"
+}

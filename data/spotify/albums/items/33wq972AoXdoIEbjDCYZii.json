@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2P9JaCtpbQSuZOgvtPrUJ8",
+      "id": "2P9JaCtpbQSuZOgvtPrUJ8",
+      "name": "Jass Manak",
+      "type": "artist",
+      "uri": "spotify:artist:2P9JaCtpbQSuZOgvtPrUJ8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Geet MP3",
+      "type": "C"
+    },
+    {
+      "text": "2018 Geet MP3",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859727218522"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33wq972AoXdoIEbjDCYZii"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33wq972AoXdoIEbjDCYZii",
+  "id": "33wq972AoXdoIEbjDCYZii",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b9f5a8023b9b978ea782a09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b9f5a8023b9b978ea782a09",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b9f5a8023b9b978ea782a09",
+      "width": 64
+    }
+  ],
+  "label": "Geet MP3",
+  "name": "Prada",
+  "popularity": 0,
+  "release_date": "2018-06-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33wq972AoXdoIEbjDCYZii/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2P9JaCtpbQSuZOgvtPrUJ8",
+            "id": "2P9JaCtpbQSuZOgvtPrUJ8",
+            "name": "Jass Manak",
+            "type": "artist",
+            "uri": "spotify:artist:2P9JaCtpbQSuZOgvtPrUJ8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182115,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01X09TTUbyJWQPlv28gUss"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01X09TTUbyJWQPlv28gUss",
+        "id": "01X09TTUbyJWQPlv28gUss",
+        "is_local": false,
+        "name": "Prada",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:01X09TTUbyJWQPlv28gUss"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33wq972AoXdoIEbjDCYZii"
+}

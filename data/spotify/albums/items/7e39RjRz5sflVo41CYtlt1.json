@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+      },
+      "href": "https://api.spotify.com/v1/artists/14XRgLXin9R3eKTNXBNwos",
+      "id": "14XRgLXin9R3eKTNXBNwos",
+      "name": "Leon Faun",
+      "type": "artist",
+      "uri": "spotify:artist:14XRgLXin9R3eKTNXBNwos"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GDpBWbNymzzLV7BHzaTBL",
+      "id": "1GDpBWbNymzzLV7BHzaTBL",
+      "name": "Duffy",
+      "type": "artist",
+      "uri": "spotify:artist:1GDpBWbNymzzLV7BHzaTBL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Leon Faun & Duffy",
+      "type": "C"
+    },
+    {
+      "text": "2019 Leon Faun & Duffy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859735838538"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7e39RjRz5sflVo41CYtlt1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7e39RjRz5sflVo41CYtlt1",
+  "id": "7e39RjRz5sflVo41CYtlt1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc0203d7ddf14eae4d1b2d08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc0203d7ddf14eae4d1b2d08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc0203d7ddf14eae4d1b2d08",
+      "width": 64
+    }
+  ],
+  "label": "Leon Faun & Duffy",
+  "name": "Oh Cacchio",
+  "popularity": 0,
+  "release_date": "2019-11-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7e39RjRz5sflVo41CYtlt1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+            },
+            "href": "https://api.spotify.com/v1/artists/14XRgLXin9R3eKTNXBNwos",
+            "id": "14XRgLXin9R3eKTNXBNwos",
+            "name": "Leon Faun",
+            "type": "artist",
+            "uri": "spotify:artist:14XRgLXin9R3eKTNXBNwos"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GDpBWbNymzzLV7BHzaTBL",
+            "id": "1GDpBWbNymzzLV7BHzaTBL",
+            "name": "Duffy",
+            "type": "artist",
+            "uri": "spotify:artist:1GDpBWbNymzzLV7BHzaTBL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129624,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yjyFN62WDYfjH7FaiVHL8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yjyFN62WDYfjH7FaiVHL8",
+        "id": "1yjyFN62WDYfjH7FaiVHL8",
+        "is_local": false,
+        "name": "Oh Cacchio",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yjyFN62WDYfjH7FaiVHL8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7e39RjRz5sflVo41CYtlt1"
+}

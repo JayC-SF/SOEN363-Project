@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+      },
+      "href": "https://api.spotify.com/v1/artists/2urF8dgLVfDjunO0pcHUEe",
+      "id": "2urF8dgLVfDjunO0pcHUEe",
+      "name": "Alvaro Soler",
+      "type": "artist",
+      "uri": "spotify:artist:2urF8dgLVfDjunO0pcHUEe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Electrola, a division of Universal Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Triebel & Zuckowski GbR, under exclusive license to AIRFORCE1 RECORDS / UNIVERSAL MUSIC CENTRAL EUROPE - a division of Universal Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547878618"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7oOxy4EfyZCCHOLtHnA0iP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7oOxy4EfyZCCHOLtHnA0iP",
+  "id": "7oOxy4EfyZCCHOLtHnA0iP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738937497be9a2da8e95ca718c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028937497be9a2da8e95ca718c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518937497be9a2da8e95ca718c",
+      "width": 64
+    }
+  ],
+  "label": "Airforce1",
+  "name": "Sofia",
+  "popularity": 0,
+  "release_date": "2016-04-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7oOxy4EfyZCCHOLtHnA0iP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+            },
+            "href": "https://api.spotify.com/v1/artists/2urF8dgLVfDjunO0pcHUEe",
+            "id": "2urF8dgLVfDjunO0pcHUEe",
+            "name": "Alvaro Soler",
+            "type": "artist",
+            "uri": "spotify:artist:2urF8dgLVfDjunO0pcHUEe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0urDLEnHddaaQ6pJavi6bR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0urDLEnHddaaQ6pJavi6bR",
+        "id": "0urDLEnHddaaQ6pJavi6bR",
+        "is_local": false,
+        "name": "Sofia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0urDLEnHddaaQ6pJavi6bR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7oOxy4EfyZCCHOLtHnA0iP"
+}

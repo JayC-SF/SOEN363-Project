@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sa0lNcq7YdXNnQKZHFb0D",
+      "id": "6sa0lNcq7YdXNnQKZHFb0D",
+      "name": "biosphere",
+      "type": "artist",
+      "uri": "spotify:artist:6sa0lNcq7YdXNnQKZHFb0D"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 United Common Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 United Common Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193829441847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3VtsRwCksWrczgp2FxMCdb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3VtsRwCksWrczgp2FxMCdb",
+  "id": "3VtsRwCksWrczgp2FxMCdb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e90b828e1b53381c4d7db4b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e90b828e1b53381c4d7db4b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e90b828e1b53381c4d7db4b0",
+      "width": 64
+    }
+  ],
+  "label": "United Common Records",
+  "name": "a simple bunny girl",
+  "popularity": 20,
+  "release_date": "2019-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3VtsRwCksWrczgp2FxMCdb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sa0lNcq7YdXNnQKZHFb0D",
+            "id": "6sa0lNcq7YdXNnQKZHFb0D",
+            "name": "biosphere",
+            "type": "artist",
+            "uri": "spotify:artist:6sa0lNcq7YdXNnQKZHFb0D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WYk7GcpAsqvW0ngT4I2h0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WYk7GcpAsqvW0ngT4I2h0",
+        "id": "2WYk7GcpAsqvW0ngT4I2h0",
+        "is_local": false,
+        "name": "a simple bunny girl",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2WYk7GcpAsqvW0ngT4I2h0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3VtsRwCksWrczgp2FxMCdb"
+}

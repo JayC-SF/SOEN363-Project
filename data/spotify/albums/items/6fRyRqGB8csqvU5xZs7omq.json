@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xFadP7L1YVwVSjDDfjKjM",
+      "id": "4xFadP7L1YVwVSjDDfjKjM",
+      "name": "Snavs",
+      "type": "artist",
+      "uri": "spotify:artist:4xFadP7L1YVwVSjDDfjKjM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Lowly",
+      "type": "C"
+    },
+    {
+      "text": "2021 Lowly",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495286219"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6fRyRqGB8csqvU5xZs7omq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6fRyRqGB8csqvU5xZs7omq",
+  "id": "6fRyRqGB8csqvU5xZs7omq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7800bcc47fa9e9f007c5130",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7800bcc47fa9e9f007c5130",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7800bcc47fa9e9f007c5130",
+      "width": 64
+    }
+  ],
+  "label": "Lowly",
+  "name": "Done To Me",
+  "popularity": 0,
+  "release_date": "2021-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6fRyRqGB8csqvU5xZs7omq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xFadP7L1YVwVSjDDfjKjM",
+            "id": "4xFadP7L1YVwVSjDDfjKjM",
+            "name": "Snavs",
+            "type": "artist",
+            "uri": "spotify:artist:4xFadP7L1YVwVSjDDfjKjM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UrCf8LmvXFfXAR0HtGkSx",
+            "id": "2UrCf8LmvXFfXAR0HtGkSx",
+            "name": "Jack Dawson",
+            "type": "artist",
+            "uri": "spotify:artist:2UrCf8LmvXFfXAR0HtGkSx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150374,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iMUOFY7gZ1Vis3OCdOAyI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6iMUOFY7gZ1Vis3OCdOAyI",
+        "id": "6iMUOFY7gZ1Vis3OCdOAyI",
+        "is_local": false,
+        "name": "Done To Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6iMUOFY7gZ1Vis3OCdOAyI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6fRyRqGB8csqvU5xZs7omq"
+}

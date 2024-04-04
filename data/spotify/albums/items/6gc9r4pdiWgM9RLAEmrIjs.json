@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1noWnd8QFQD9VLxWEeo4Zf",
+      "id": "1noWnd8QFQD9VLxWEeo4Zf",
+      "name": "Don Miguelo",
+      "type": "artist",
+      "uri": "spotify:artist:1noWnd8QFQD9VLxWEeo4Zf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Don Miguelo",
+      "type": "C"
+    },
+    {
+      "text": "2020 Don Miguelo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "755773116723"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6gc9r4pdiWgM9RLAEmrIjs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6gc9r4pdiWgM9RLAEmrIjs",
+  "id": "6gc9r4pdiWgM9RLAEmrIjs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba89160205df90af1437e0b2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba89160205df90af1437e0b2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba89160205df90af1437e0b2",
+      "width": 64
+    }
+  ],
+  "label": "Don Miguelo",
+  "name": "Y Que Fue?",
+  "popularity": 9,
+  "release_date": "2020-07-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6gc9r4pdiWgM9RLAEmrIjs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1noWnd8QFQD9VLxWEeo4Zf",
+            "id": "1noWnd8QFQD9VLxWEeo4Zf",
+            "name": "Don Miguelo",
+            "type": "artist",
+            "uri": "spotify:artist:1noWnd8QFQD9VLxWEeo4Zf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163759,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mNvijqTFRqisyURrtrhwa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mNvijqTFRqisyURrtrhwa",
+        "id": "1mNvijqTFRqisyURrtrhwa",
+        "is_local": false,
+        "name": "Y Que Fue?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mNvijqTFRqisyURrtrhwa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6gc9r4pdiWgM9RLAEmrIjs"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+      "id": "1xU878Z1QtBldR7ru9owdU",
+      "name": "Phoenix",
+      "type": "artist",
+      "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 LOYAUT\u00c9 under exclusive license to Glassnote Entertainment Group LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443868328"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4soW9oGJVCiueMu9VcSMR3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4soW9oGJVCiueMu9VcSMR3",
+  "id": "4soW9oGJVCiueMu9VcSMR3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b50294f5bd8675966c96bff9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b50294f5bd8675966c96bff9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b50294f5bd8675966c96bff9",
+      "width": 64
+    }
+  ],
+  "label": "Glassnote",
+  "name": "Entertainment",
+  "popularity": 0,
+  "release_date": "2013-02-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4soW9oGJVCiueMu9VcSMR3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+            "id": "1xU878Z1QtBldR7ru9owdU",
+            "name": "Phoenix",
+            "type": "artist",
+            "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VQ6FXasIrdkshSHfX6sde"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VQ6FXasIrdkshSHfX6sde",
+        "id": "1VQ6FXasIrdkshSHfX6sde",
+        "is_local": false,
+        "name": "Entertainment",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1VQ6FXasIrdkshSHfX6sde"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4soW9oGJVCiueMu9VcSMR3"
+}

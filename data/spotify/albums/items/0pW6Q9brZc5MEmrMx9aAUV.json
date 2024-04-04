@@ -1,0 +1,731 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+      "id": "4XDi67ZENZcbfKnvMnTYsI",
+      "name": "Jay Park",
+      "type": "artist",
+      "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 AOMG",
+      "type": "C"
+    },
+    {
+      "text": "2016 AOMG",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8809380634810"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0pW6Q9brZc5MEmrMx9aAUV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0pW6Q9brZc5MEmrMx9aAUV",
+  "id": "0pW6Q9brZc5MEmrMx9aAUV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a28bb33c899239e43a26e42",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a28bb33c899239e43a26e42",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a28bb33c899239e43a26e42",
+      "width": 64
+    }
+  ],
+  "label": "AOMG",
+  "name": "Everything You Wanted",
+  "popularity": 0,
+  "release_date": "2016-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 19,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0pW6Q9brZc5MEmrMx9aAUV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163531,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28hn9FOXdzip1x3F9tfpZb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28hn9FOXdzip1x3F9tfpZb",
+        "id": "28hn9FOXdzip1x3F9tfpZb",
+        "is_local": false,
+        "name": "Replay",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:28hn9FOXdzip1x3F9tfpZb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210344,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tWfmoStuRJCsQYZiv5Uwi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tWfmoStuRJCsQYZiv5Uwi",
+        "id": "7tWfmoStuRJCsQYZiv5Uwi",
+        "is_local": false,
+        "name": "I Don\u2019t Disappoint",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7tWfmoStuRJCsQYZiv5Uwi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+            },
+            "href": "https://api.spotify.com/v1/artists/7632p5JJi58r3q9GfhqSyF",
+            "id": "7632p5JJi58r3q9GfhqSyF",
+            "name": "Cha Cha Malone",
+            "type": "artist",
+            "uri": "spotify:artist:7632p5JJi58r3q9GfhqSyF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230414,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GRTqM1hPHPIvtBURQGuk9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7GRTqM1hPHPIvtBURQGuk9",
+        "id": "7GRTqM1hPHPIvtBURQGuk9",
+        "is_local": false,
+        "name": "Feature (feat. Cha Cha Malone)",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7GRTqM1hPHPIvtBURQGuk9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7lXgbtBDcCRbfc5f8FhGUL",
+            "id": "7lXgbtBDcCRbfc5f8FhGUL",
+            "name": "Hoody",
+            "type": "artist",
+            "uri": "spotify:artist:7lXgbtBDcCRbfc5f8FhGUL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2e4G04F77jxVuDYo44TCSm",
+            "id": "2e4G04F77jxVuDYo44TCSm",
+            "name": "Loco",
+            "type": "artist",
+            "uri": "spotify:artist:2e4G04F77jxVuDYo44TCSm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jLsYKGOBRBRvdowIzuyUf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jLsYKGOBRBRvdowIzuyUf",
+        "id": "6jLsYKGOBRBRvdowIzuyUf",
+        "is_local": false,
+        "name": "All I Wanna Do (feat. Hoody & \ub85c\uaf2c Loco) [Korean Version]",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6jLsYKGOBRBRvdowIzuyUf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
+            },
+            "href": "https://api.spotify.com/v1/artists/00190FC20vIUv0wXpeTf8S",
+            "id": "00190FC20vIUv0wXpeTf8S",
+            "name": "KRNFX",
+            "type": "artist",
+            "uri": "spotify:artist:00190FC20vIUv0wXpeTf8S"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243593,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uhnSuj6MRfn6OFGTpUohS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uhnSuj6MRfn6OFGTpUohS",
+        "id": "3uhnSuj6MRfn6OFGTpUohS",
+        "is_local": false,
+        "name": "Limousine (feat. KRNFX)",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3uhnSuj6MRfn6OFGTpUohS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7lXgbtBDcCRbfc5f8FhGUL",
+            "id": "7lXgbtBDcCRbfc5f8FhGUL",
+            "name": "Hoody",
+            "type": "artist",
+            "uri": "spotify:artist:7lXgbtBDcCRbfc5f8FhGUL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219488,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Y6Voc2xpc4lPD5iKpN4o2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Y6Voc2xpc4lPD5iKpN4o2",
+        "id": "4Y6Voc2xpc4lPD5iKpN4o2",
+        "is_local": false,
+        "name": "Solo (feat. Hoody)",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4Y6Voc2xpc4lPD5iKpN4o2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+            },
+            "href": "https://api.spotify.com/v1/artists/5DIi2JWfQPTKffaVBlIYRn",
+            "id": "5DIi2JWfQPTKffaVBlIYRn",
+            "name": "Sik-K",
+            "type": "artist",
+            "uri": "spotify:artist:5DIi2JWfQPTKffaVBlIYRn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 251846,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/639BPHEuG1WQh8aG0CcL8h"
+        },
+        "href": "https://api.spotify.com/v1/tracks/639BPHEuG1WQh8aG0CcL8h",
+        "id": "639BPHEuG1WQh8aG0CcL8h",
+        "is_local": false,
+        "name": "Alone Tonight (feat. Sik-K)",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:639BPHEuG1WQh8aG0CcL8h"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18zqvHBEzvo7q6rFsgVrfW"
+            },
+            "href": "https://api.spotify.com/v1/artists/18zqvHBEzvo7q6rFsgVrfW",
+            "id": "18zqvHBEzvo7q6rFsgVrfW",
+            "name": "Raz Simone",
+            "type": "artist",
+            "uri": "spotify:artist:18zqvHBEzvo7q6rFsgVrfW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wDDAROz4rR525kZgBXeca"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wDDAROz4rR525kZgBXeca",
+        "id": "2wDDAROz4rR525kZgBXeca",
+        "is_local": false,
+        "name": "Only One (feat. Raz Simone)",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2wDDAROz4rR525kZgBXeca"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 236919,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4z8xFgX0Xq1T9xXomoDLJ2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4z8xFgX0Xq1T9xXomoDLJ2",
+        "id": "4z8xFgX0Xq1T9xXomoDLJ2",
+        "is_local": false,
+        "name": "\uc0ac\uc2e4\uc740 The Truth Is",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4z8xFgX0Xq1T9xXomoDLJ2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209633,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FfFX2rqP7AG0o07VC2Dac"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6FfFX2rqP7AG0o07VC2Dac",
+        "id": "6FfFX2rqP7AG0o07VC2Dac",
+        "is_local": false,
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38 Stay with Me",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6FfFX2rqP7AG0o07VC2Dac"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kPEBSt7qgVoRZSbIXMr7W",
+            "id": "3kPEBSt7qgVoRZSbIXMr7W",
+            "name": "GRAY",
+            "type": "artist",
+            "uri": "spotify:artist:3kPEBSt7qgVoRZSbIXMr7W"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212334,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0k6ItoyE50QuW50nGYLO2v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0k6ItoyE50QuW50nGYLO2v",
+        "id": "0k6ItoyE50QuW50nGYLO2v",
+        "is_local": false,
+        "name": "Drive (feat. Gray)",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0k6ItoyE50QuW50nGYLO2v"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252367,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MSjhkw47sGrjbZhColyVx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MSjhkw47sGrjbZhColyVx",
+        "id": "2MSjhkw47sGrjbZhColyVx",
+        "is_local": false,
+        "name": "Aquaman",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2MSjhkw47sGrjbZhColyVx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7lXgbtBDcCRbfc5f8FhGUL",
+            "id": "7lXgbtBDcCRbfc5f8FhGUL",
+            "name": "Hoody",
+            "type": "artist",
+            "uri": "spotify:artist:7lXgbtBDcCRbfc5f8FhGUL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223681,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6b15FKYo8AHNrrJ3K2iR3n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6b15FKYo8AHNrrJ3K2iR3n",
+        "id": "6b15FKYo8AHNrrJ3K2iR3n",
+        "is_local": false,
+        "name": "Me Like Yuh (feat. Hoody) [Korean Version]",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6b15FKYo8AHNrrJ3K2iR3n"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224951,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nf7M40B5prEOjj9sOn5Oa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nf7M40B5prEOjj9sOn5Oa",
+        "id": "1nf7M40B5prEOjj9sOn5Oa",
+        "is_local": false,
+        "name": "2nd Thots",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1nf7M40B5prEOjj9sOn5Oa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+            },
+            "href": "https://api.spotify.com/v1/artists/7632p5JJi58r3q9GfhqSyF",
+            "id": "7632p5JJi58r3q9GfhqSyF",
+            "name": "Cha Cha Malone",
+            "type": "artist",
+            "uri": "spotify:artist:7632p5JJi58r3q9GfhqSyF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190029,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7H5F7xZX2qF7yLDKFHmvpI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7H5F7xZX2qF7yLDKFHmvpI",
+        "id": "7H5F7xZX2qF7yLDKFHmvpI",
+        "is_local": false,
+        "name": "Forever (with DJ Ale Mora) [feat. Cha Cha Malone]",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:7H5F7xZX2qF7yLDKFHmvpI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+            },
+            "href": "https://api.spotify.com/v1/artists/15KDb2KpZRvX1updtyinK1",
+            "id": "15KDb2KpZRvX1updtyinK1",
+            "name": "ELO",
+            "type": "artist",
+            "uri": "spotify:artist:15KDb2KpZRvX1updtyinK1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243492,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RnEQEx7h3QudN9IGkPkBK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RnEQEx7h3QudN9IGkPkBK",
+        "id": "6RnEQEx7h3QudN9IGkPkBK",
+        "is_local": false,
+        "name": "\uc804\ud654\uae30\ub97c \uaebc\ub194 Turn Off Your Phone (feat. Elo) [Remix]",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:6RnEQEx7h3QudN9IGkPkBK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226156,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40ckFj7of1QzXHFz4LaShX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40ckFj7of1QzXHFz4LaShX",
+        "id": "40ckFj7of1QzXHFz4LaShX",
+        "is_local": false,
+        "name": "I Got This",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:40ckFj7of1QzXHFz4LaShX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223641,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5S5gGOsUarzRXKoaSstwba"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5S5gGOsUarzRXKoaSstwba",
+        "id": "5S5gGOsUarzRXKoaSstwba",
+        "is_local": false,
+        "name": "Me Like Yuh",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:5S5gGOsUarzRXKoaSstwba"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+            "id": "4XDi67ZENZcbfKnvMnTYsI",
+            "name": "Jay Park",
+            "type": "artist",
+            "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209392,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47n6zyO3Uf9axGAPIY0ZOd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47n6zyO3Uf9axGAPIY0ZOd",
+        "id": "47n6zyO3Uf9axGAPIY0ZOd",
+        "is_local": false,
+        "name": "All I Wanna Do",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:47n6zyO3Uf9axGAPIY0ZOd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 19
+  },
+  "type": "album",
+  "uri": "spotify:album:0pW6Q9brZc5MEmrMx9aAUV"
+}

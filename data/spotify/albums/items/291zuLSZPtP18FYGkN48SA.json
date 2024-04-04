@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AkcQCQDsV0yycecmhhcBI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AkcQCQDsV0yycecmhhcBI",
+      "id": "4AkcQCQDsV0yycecmhhcBI",
+      "name": "The Juniors",
+      "type": "artist",
+      "uri": "spotify:artist:4AkcQCQDsV0yycecmhhcBI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "K-tel",
+      "type": "C"
+    },
+    {
+      "text": "K-tel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0805087043007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/291zuLSZPtP18FYGkN48SA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/291zuLSZPtP18FYGkN48SA",
+  "id": "291zuLSZPtP18FYGkN48SA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d12fe28f7efdc3d8624e531",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d12fe28f7efdc3d8624e531",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d12fe28f7efdc3d8624e531",
+      "width": 64
+    }
+  ],
+  "label": "K-tel",
+  "name": "At The Hop Rock And Roll Is Here To Stay",
+  "popularity": 0,
+  "release_date": "2008-07-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/291zuLSZPtP18FYGkN48SA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AkcQCQDsV0yycecmhhcBI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AkcQCQDsV0yycecmhhcBI",
+            "id": "4AkcQCQDsV0yycecmhhcBI",
+            "name": "The Juniors",
+            "type": "artist",
+            "uri": "spotify:artist:4AkcQCQDsV0yycecmhhcBI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qyXgLYCg0osV4glEYuQIv",
+            "id": "1qyXgLYCg0osV4glEYuQIv",
+            "name": "Danny",
+            "type": "artist",
+            "uri": "spotify:artist:1qyXgLYCg0osV4glEYuQIv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DJXJaHMwIhVSqoIOSDWg5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1DJXJaHMwIhVSqoIOSDWg5",
+        "id": "1DJXJaHMwIhVSqoIOSDWg5",
+        "is_local": false,
+        "name": "At The Hop",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1DJXJaHMwIhVSqoIOSDWg5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AkcQCQDsV0yycecmhhcBI"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AkcQCQDsV0yycecmhhcBI",
+            "id": "4AkcQCQDsV0yycecmhhcBI",
+            "name": "The Juniors",
+            "type": "artist",
+            "uri": "spotify:artist:4AkcQCQDsV0yycecmhhcBI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qyXgLYCg0osV4glEYuQIv",
+            "id": "1qyXgLYCg0osV4glEYuQIv",
+            "name": "Danny",
+            "type": "artist",
+            "uri": "spotify:artist:1qyXgLYCg0osV4glEYuQIv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5r6apbkP3h8JPDCCl0MZvG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5r6apbkP3h8JPDCCl0MZvG",
+        "id": "5r6apbkP3h8JPDCCl0MZvG",
+        "is_local": false,
+        "name": "Rock And Roll Is Here To Stay",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5r6apbkP3h8JPDCCl0MZvG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:291zuLSZPtP18FYGkN48SA"
+}

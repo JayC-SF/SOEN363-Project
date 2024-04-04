@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs"
+      },
+      "href": "https://api.spotify.com/v1/artists/4fSMtiyC6lF5BUO1tUMWMs",
+      "id": "4fSMtiyC6lF5BUO1tUMWMs",
+      "name": "Kevin MacLeod",
+      "type": "artist",
+      "uri": "spotify:artist:4fSMtiyC6lF5BUO1tUMWMs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mTcyvqv1GInWjOTVkz6h1"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mTcyvqv1GInWjOTVkz6h1",
+      "id": "7mTcyvqv1GInWjOTVkz6h1",
+      "name": "Kevin",
+      "type": "artist",
+      "uri": "spotify:artist:7mTcyvqv1GInWjOTVkz6h1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Kevin Macleod",
+      "type": "C"
+    },
+    {
+      "text": "2019 Kevin Macleod",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194838826847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Vxs0nQGsXL77mOCMRKuRl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Vxs0nQGsXL77mOCMRKuRl",
+  "id": "5Vxs0nQGsXL77mOCMRKuRl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f81d415360fd941332ff0f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021f81d415360fd941332ff0f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511f81d415360fd941332ff0f8",
+      "width": 64
+    }
+  ],
+  "label": "The Other Songs",
+  "name": "Monkeys Spinning Monkeys",
+  "popularity": 0,
+  "release_date": "2019-10-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Vxs0nQGsXL77mOCMRKuRl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4fSMtiyC6lF5BUO1tUMWMs",
+            "id": "4fSMtiyC6lF5BUO1tUMWMs",
+            "name": "Kevin MacLeod",
+            "type": "artist",
+            "uri": "spotify:artist:4fSMtiyC6lF5BUO1tUMWMs"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7mTcyvqv1GInWjOTVkz6h1"
+            },
+            "href": "https://api.spotify.com/v1/artists/7mTcyvqv1GInWjOTVkz6h1",
+            "id": "7mTcyvqv1GInWjOTVkz6h1",
+            "name": "Kevin",
+            "type": "artist",
+            "uri": "spotify:artist:7mTcyvqv1GInWjOTVkz6h1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XtbtOMVVBooqbcGz8UErp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XtbtOMVVBooqbcGz8UErp",
+        "id": "3XtbtOMVVBooqbcGz8UErp",
+        "is_local": false,
+        "name": "Monkeys Spinning Monkeys",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XtbtOMVVBooqbcGz8UErp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Vxs0nQGsXL77mOCMRKuRl"
+}

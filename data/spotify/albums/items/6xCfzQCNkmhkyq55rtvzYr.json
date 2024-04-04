@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+      "id": "5LfGQac0EIXyAN8aUwmNAQ",
+      "name": "The Offspring",
+      "type": "artist",
+      "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Time Bomb Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2015 Time Bomb Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859714099158"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6xCfzQCNkmhkyq55rtvzYr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6xCfzQCNkmhkyq55rtvzYr",
+  "id": "6xCfzQCNkmhkyq55rtvzYr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b2a72aefae593a225294142",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b2a72aefae593a225294142",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b2a72aefae593a225294142",
+      "width": 64
+    }
+  ],
+  "label": "Time Bomb Recordings",
+  "name": "Coming for You",
+  "popularity": 0,
+  "release_date": "2015-01-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6xCfzQCNkmhkyq55rtvzYr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+            "id": "5LfGQac0EIXyAN8aUwmNAQ",
+            "name": "The Offspring",
+            "type": "artist",
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229444,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SZoPX6yKcuejHQ49DtDxr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SZoPX6yKcuejHQ49DtDxr",
+        "id": "1SZoPX6yKcuejHQ49DtDxr",
+        "is_local": false,
+        "name": "Coming for You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SZoPX6yKcuejHQ49DtDxr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6xCfzQCNkmhkyq55rtvzYr"
+}

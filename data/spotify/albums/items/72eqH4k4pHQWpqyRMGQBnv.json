@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu"
+      },
+      "href": "https://api.spotify.com/v1/artists/591B30rR0fT2JeE9zXPPwu",
+      "id": "591B30rR0fT2JeE9zXPPwu",
+      "name": "Home",
+      "type": "artist",
+      "uri": "spotify:artist:591B30rR0fT2JeE9zXPPwu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Home",
+      "type": "C"
+    },
+    {
+      "text": "2014 Home",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0872133025584"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/72eqH4k4pHQWpqyRMGQBnv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/72eqH4k4pHQWpqyRMGQBnv",
+  "id": "72eqH4k4pHQWpqyRMGQBnv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a4241436ede05aecdf3371e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a4241436ede05aecdf3371e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a4241436ede05aecdf3371e",
+      "width": 64
+    }
+  ],
+  "label": "Home",
+  "name": "Resonance",
+  "popularity": 0,
+  "release_date": "2014-07-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/72eqH4k4pHQWpqyRMGQBnv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu"
+            },
+            "href": "https://api.spotify.com/v1/artists/591B30rR0fT2JeE9zXPPwu",
+            "id": "591B30rR0fT2JeE9zXPPwu",
+            "name": "Home",
+            "type": "artist",
+            "uri": "spotify:artist:591B30rR0fT2JeE9zXPPwu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212903,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sf08ejiyPaY9vcIzuTonK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0sf08ejiyPaY9vcIzuTonK",
+        "id": "0sf08ejiyPaY9vcIzuTonK",
+        "is_local": false,
+        "name": "Resonance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0sf08ejiyPaY9vcIzuTonK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:72eqH4k4pHQWpqyRMGQBnv"
+}

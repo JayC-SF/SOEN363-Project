@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MEss2SZXQGXhTufIxrOhA"
+      },
+      "href": "https://api.spotify.com/v1/artists/5MEss2SZXQGXhTufIxrOhA",
+      "id": "5MEss2SZXQGXhTufIxrOhA",
+      "name": "Gokou Kuyt",
+      "type": "artist",
+      "uri": "spotify:artist:5MEss2SZXQGXhTufIxrOhA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CYpYNuLTZkBW4tgkRbbSB",
+      "id": "2CYpYNuLTZkBW4tgkRbbSB",
+      "name": "who28",
+      "type": "artist",
+      "uri": "spotify:artist:2CYpYNuLTZkBW4tgkRbbSB"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Gokou Kuyt & who28",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 Gokou Kuyt & who28",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859754646084"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1dqI0mBY4nPyRLBAj3g8H3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1dqI0mBY4nPyRLBAj3g8H3",
+  "id": "1dqI0mBY4nPyRLBAj3g8H3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d687e050a622910773bea3ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d687e050a622910773bea3ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d687e050a622910773bea3ff",
+      "width": 64
+    }
+  ],
+  "label": "Gokou Kuyt & who28",
+  "name": "Fancy Cozy",
+  "popularity": 26,
+  "release_date": "2018-12-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1dqI0mBY4nPyRLBAj3g8H3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MEss2SZXQGXhTufIxrOhA"
+            },
+            "href": "https://api.spotify.com/v1/artists/5MEss2SZXQGXhTufIxrOhA",
+            "id": "5MEss2SZXQGXhTufIxrOhA",
+            "name": "Gokou Kuyt",
+            "type": "artist",
+            "uri": "spotify:artist:5MEss2SZXQGXhTufIxrOhA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CYpYNuLTZkBW4tgkRbbSB",
+            "id": "2CYpYNuLTZkBW4tgkRbbSB",
+            "name": "who28",
+            "type": "artist",
+            "uri": "spotify:artist:2CYpYNuLTZkBW4tgkRbbSB"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 126903,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CCXOOiq2iL5f0mO5sEk0t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CCXOOiq2iL5f0mO5sEk0t",
+        "id": "7CCXOOiq2iL5f0mO5sEk0t",
+        "is_local": false,
+        "name": "Fancy Cozy",
+        "preview_url": "https://p.scdn.co/mp3-preview/e54e7cc51542a6ae7943cb76b4c30a01e6a41cf2?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7CCXOOiq2iL5f0mO5sEk0t"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1dqI0mBY4nPyRLBAj3g8H3"
+}

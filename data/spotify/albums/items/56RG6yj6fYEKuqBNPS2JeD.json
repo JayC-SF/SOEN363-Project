@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Im8m4STDBosjfmb5hmP80",
+      "id": "2Im8m4STDBosjfmb5hmP80",
+      "name": "Loredana",
+      "type": "artist",
+      "uri": "spotify:artist:2Im8m4STDBosjfmb5hmP80"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Loredana",
+      "type": "C"
+    },
+    {
+      "text": "2019 Loredana",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939372064"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/56RG6yj6fYEKuqBNPS2JeD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/56RG6yj6fYEKuqBNPS2JeD",
+  "id": "56RG6yj6fYEKuqBNPS2JeD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d49bcb892b03b35f771f2ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d49bcb892b03b35f771f2ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d49bcb892b03b35f771f2ab",
+      "width": 64
+    }
+  ],
+  "label": "Loredana",
+  "name": "Labyrinth",
+  "popularity": 0,
+  "release_date": "2019-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/56RG6yj6fYEKuqBNPS2JeD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Im8m4STDBosjfmb5hmP80",
+            "id": "2Im8m4STDBosjfmb5hmP80",
+            "name": "Loredana",
+            "type": "artist",
+            "uri": "spotify:artist:2Im8m4STDBosjfmb5hmP80"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mLBX54nL0dwn54jesMXGU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mLBX54nL0dwn54jesMXGU",
+        "id": "1mLBX54nL0dwn54jesMXGU",
+        "is_local": false,
+        "name": "Labyrinth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mLBX54nL0dwn54jesMXGU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:56RG6yj6fYEKuqBNPS2JeD"
+}

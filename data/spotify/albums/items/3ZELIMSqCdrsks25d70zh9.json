@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+      "id": "3v0QTRruILayLe5VsaYdvk",
+      "name": "HAARPER",
+      "type": "artist",
+      "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Haarper",
+      "type": "C"
+    },
+    {
+      "text": "2022 Haarper",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196834804966"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ZELIMSqCdrsks25d70zh9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ZELIMSqCdrsks25d70zh9",
+  "id": "3ZELIMSqCdrsks25d70zh9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731eed4dc1ba9f7ed72c337475",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021eed4dc1ba9f7ed72c337475",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511eed4dc1ba9f7ed72c337475",
+      "width": 64
+    }
+  ],
+  "label": "1144223 Records DK2",
+  "name": "iCARUS",
+  "popularity": 0,
+  "release_date": "2022-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ZELIMSqCdrsks25d70zh9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+            "id": "3v0QTRruILayLe5VsaYdvk",
+            "name": "HAARPER",
+            "type": "artist",
+            "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 117065,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3usoQ2H8FMM2rPcSMcRHYQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3usoQ2H8FMM2rPcSMcRHYQ",
+        "id": "3usoQ2H8FMM2rPcSMcRHYQ",
+        "is_local": false,
+        "name": "iCARUS",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3usoQ2H8FMM2rPcSMcRHYQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3ZELIMSqCdrsks25d70zh9"
+}

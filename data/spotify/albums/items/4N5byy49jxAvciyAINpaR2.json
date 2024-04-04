@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VQ8riQ31zVHtlxiCC9EZE",
+      "id": "1VQ8riQ31zVHtlxiCC9EZE",
+      "name": "Will Wood",
+      "type": "artist",
+      "uri": "spotify:artist:1VQ8riQ31zVHtlxiCC9EZE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Will Wood LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Will Wood LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195729221406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4N5byy49jxAvciyAINpaR2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4N5byy49jxAvciyAINpaR2",
+  "id": "4N5byy49jxAvciyAINpaR2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300320c1dd2d126ee604dc7ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0200320c1dd2d126ee604dc7ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485100320c1dd2d126ee604dc7ae",
+      "width": 64
+    }
+  ],
+  "label": "Will Wood LLC",
+  "name": "Your Body, My Temple",
+  "popularity": 0,
+  "release_date": "2022-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4N5byy49jxAvciyAINpaR2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VQ8riQ31zVHtlxiCC9EZE",
+            "id": "1VQ8riQ31zVHtlxiCC9EZE",
+            "name": "Will Wood",
+            "type": "artist",
+            "uri": "spotify:artist:1VQ8riQ31zVHtlxiCC9EZE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 258265,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rHj7Js760y5oR8nlNEb4p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rHj7Js760y5oR8nlNEb4p",
+        "id": "6rHj7Js760y5oR8nlNEb4p",
+        "is_local": false,
+        "name": "Your Body, My Temple",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6rHj7Js760y5oR8nlNEb4p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4N5byy49jxAvciyAINpaR2"
+}

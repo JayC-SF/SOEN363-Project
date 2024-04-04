@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NJWI8byqTSqDaJRnqJY2z",
+      "id": "2NJWI8byqTSqDaJRnqJY2z",
+      "name": "KALIM",
+      "type": "artist",
+      "uri": "spotify:artist:2NJWI8byqTSqDaJRnqJY2z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 KALIM",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 KALIM",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602455259615"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2hwxS7sxpiJc4XYqDHWBKV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2hwxS7sxpiJc4XYqDHWBKV",
+  "id": "2hwxS7sxpiJc4XYqDHWBKV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341a3752f75d66a345a0f2d98",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241a3752f75d66a345a0f2d98",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141a3752f75d66a345a0f2d98",
+      "width": 64
+    }
+  ],
+  "label": "Urban",
+  "name": "WRAITH",
+  "popularity": 6,
+  "release_date": "2023-02-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2hwxS7sxpiJc4XYqDHWBKV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NJWI8byqTSqDaJRnqJY2z",
+            "id": "2NJWI8byqTSqDaJRnqJY2z",
+            "name": "KALIM",
+            "type": "artist",
+            "uri": "spotify:artist:2NJWI8byqTSqDaJRnqJY2z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131559,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FRgRHgWULSa5qR6NWVnyJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FRgRHgWULSa5qR6NWVnyJ",
+        "id": "3FRgRHgWULSa5qR6NWVnyJ",
+        "is_local": false,
+        "name": "WRAITH",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FRgRHgWULSa5qR6NWVnyJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2hwxS7sxpiJc4XYqDHWBKV"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0y3xQCaZ9SGmdpRLvSbxak"
+      },
+      "href": "https://api.spotify.com/v1/artists/0y3xQCaZ9SGmdpRLvSbxak",
+      "id": "0y3xQCaZ9SGmdpRLvSbxak",
+      "name": "hi",
+      "type": "artist",
+      "uri": "spotify:artist:0y3xQCaZ9SGmdpRLvSbxak"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 hi, under exclusive license to Mafia Des Droits D'auteur LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840405785252"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3vtktyTxzSqhZLOuSIL5a3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3vtktyTxzSqhZLOuSIL5a3",
+  "id": "3vtktyTxzSqhZLOuSIL5a3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381fb047038846d2b89719d56",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281fb047038846d2b89719d56",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181fb047038846d2b89719d56",
+      "width": 64
+    }
+  ],
+  "label": "hi, under exclusive license to Mafia Des Droits D'auteur LLC",
+  "name": "PRIVET PRIVET 2009 ST (boing boing boing)",
+  "popularity": 32,
+  "release_date": "2023-06-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3vtktyTxzSqhZLOuSIL5a3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0y3xQCaZ9SGmdpRLvSbxak"
+            },
+            "href": "https://api.spotify.com/v1/artists/0y3xQCaZ9SGmdpRLvSbxak",
+            "id": "0y3xQCaZ9SGmdpRLvSbxak",
+            "name": "hi",
+            "type": "artist",
+            "uri": "spotify:artist:0y3xQCaZ9SGmdpRLvSbxak"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qtY1IntEfABZzPZ0AvAlx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qtY1IntEfABZzPZ0AvAlx",
+        "id": "4qtY1IntEfABZzPZ0AvAlx",
+        "is_local": false,
+        "name": "PRIVET PRIVET 2009 ST (boing boing boing)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qtY1IntEfABZzPZ0AvAlx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3vtktyTxzSqhZLOuSIL5a3"
+}

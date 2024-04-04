@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7AceGacY9eupr9q5MIoR8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/7AceGacY9eupr9q5MIoR8L",
+      "id": "7AceGacY9eupr9q5MIoR8L",
+      "name": "jojobii",
+      "type": "artist",
+      "uri": "spotify:artist:7AceGacY9eupr9q5MIoR8L"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 jojobii",
+      "type": "C"
+    },
+    {
+      "text": "2023 jojobii",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "732138888884"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/155lnVjyIIEyGRFLoWh76W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/155lnVjyIIEyGRFLoWh76W",
+  "id": "155lnVjyIIEyGRFLoWh76W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273759b0241b71f034c8a6c5175",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02759b0241b71f034c8a6c5175",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851759b0241b71f034c8a6c5175",
+      "width": 64
+    }
+  ],
+  "label": "jojobii",
+  "name": "Pose for the Fans!",
+  "popularity": 0,
+  "release_date": "2023-04-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/155lnVjyIIEyGRFLoWh76W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7AceGacY9eupr9q5MIoR8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/7AceGacY9eupr9q5MIoR8L",
+            "id": "7AceGacY9eupr9q5MIoR8L",
+            "name": "jojobii",
+            "type": "artist",
+            "uri": "spotify:artist:7AceGacY9eupr9q5MIoR8L"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111818,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49CCvFdMhCjLecxfiBjvvb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49CCvFdMhCjLecxfiBjvvb",
+        "id": "49CCvFdMhCjLecxfiBjvvb",
+        "is_local": false,
+        "name": "Pose for the Fans!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:49CCvFdMhCjLecxfiBjvvb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:155lnVjyIIEyGRFLoWh76W"
+}

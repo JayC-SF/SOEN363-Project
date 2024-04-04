@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+      },
+      "href": "https://api.spotify.com/v1/artists/7tAaeOOFJ3i5EGaiacyDei",
+      "id": "7tAaeOOFJ3i5EGaiacyDei",
+      "name": "Banyan",
+      "type": "artist",
+      "uri": "spotify:artist:7tAaeOOFJ3i5EGaiacyDei"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Setting Sail Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Setting Sail Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063112060077"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0rVs5Di78hisSSJOguwJlP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0rVs5Di78hisSSJOguwJlP",
+  "id": "0rVs5Di78hisSSJOguwJlP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273690cf2d809c0c937bba65340",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02690cf2d809c0c937bba65340",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851690cf2d809c0c937bba65340",
+      "width": 64
+    }
+  ],
+  "label": "Setting Sail Records",
+  "name": "Solace",
+  "popularity": 1,
+  "release_date": "2022-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0rVs5Di78hisSSJOguwJlP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+            },
+            "href": "https://api.spotify.com/v1/artists/7tAaeOOFJ3i5EGaiacyDei",
+            "id": "7tAaeOOFJ3i5EGaiacyDei",
+            "name": "Banyan",
+            "type": "artist",
+            "uri": "spotify:artist:7tAaeOOFJ3i5EGaiacyDei"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5syA030LHnthwwlaiXbRAE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5syA030LHnthwwlaiXbRAE",
+        "id": "5syA030LHnthwwlaiXbRAE",
+        "is_local": false,
+        "name": "Solace",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5syA030LHnthwwlaiXbRAE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0rVs5Di78hisSSJOguwJlP"
+}

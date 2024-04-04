@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1g78KNbyP5nmgmrLnWIOYf",
+      "id": "1g78KNbyP5nmgmrLnWIOYf",
+      "name": "Bisken",
+      "type": "artist",
+      "uri": "spotify:artist:1g78KNbyP5nmgmrLnWIOYf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Bisken Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 Bisken Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194676931086"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53qx1oisvXpe4Cg6PMyDpy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53qx1oisvXpe4Cg6PMyDpy",
+  "id": "53qx1oisvXpe4Cg6PMyDpy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273995c4c9a051e58cbbbeeee2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02995c4c9a051e58cbbbeeee2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851995c4c9a051e58cbbbeeee2e",
+      "width": 64
+    }
+  ],
+  "label": "Bisken Music",
+  "name": "Moonlight",
+  "popularity": 0,
+  "release_date": "2019-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53qx1oisvXpe4Cg6PMyDpy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g78KNbyP5nmgmrLnWIOYf",
+            "id": "1g78KNbyP5nmgmrLnWIOYf",
+            "name": "Bisken",
+            "type": "artist",
+            "uri": "spotify:artist:1g78KNbyP5nmgmrLnWIOYf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131552,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14RJlbgqFn6zmNAGIZZrkR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14RJlbgqFn6zmNAGIZZrkR",
+        "id": "14RJlbgqFn6zmNAGIZZrkR",
+        "is_local": false,
+        "name": "Moonlight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:14RJlbgqFn6zmNAGIZZrkR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:53qx1oisvXpe4Cg6PMyDpy"
+}

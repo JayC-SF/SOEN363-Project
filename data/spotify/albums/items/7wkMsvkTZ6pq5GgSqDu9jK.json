@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ctnkEZGtVBTxS7IMin8nC",
+      "id": "3ctnkEZGtVBTxS7IMin8nC",
+      "name": "Instupendo",
+      "type": "artist",
+      "uri": "spotify:artist:3ctnkEZGtVBTxS7IMin8nC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Instupendo",
+      "type": "C"
+    },
+    {
+      "text": "2017 Instupendo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840095693950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7wkMsvkTZ6pq5GgSqDu9jK",
+  "id": "7wkMsvkTZ6pq5GgSqDu9jK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332227fd005c93be06496502e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232227fd005c93be06496502e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132227fd005c93be06496502e",
+      "width": 64
+    }
+  ],
+  "label": "Instupendo",
+  "name": "Comfort Chain",
+  "popularity": 0,
+  "release_date": "2017-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7wkMsvkTZ6pq5GgSqDu9jK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ctnkEZGtVBTxS7IMin8nC",
+            "id": "3ctnkEZGtVBTxS7IMin8nC",
+            "name": "Instupendo",
+            "type": "artist",
+            "uri": "spotify:artist:3ctnkEZGtVBTxS7IMin8nC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184363,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BAXlRDW3YaPr3rfqV51TA",
+        "id": "5BAXlRDW3YaPr3rfqV51TA",
+        "is_local": false,
+        "name": "Comfort Chain",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5BAXlRDW3YaPr3rfqV51TA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7wkMsvkTZ6pq5GgSqDu9jK"
+}

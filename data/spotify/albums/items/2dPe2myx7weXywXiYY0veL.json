@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+      },
+      "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
+      "id": "49tQo2QULno7gxHutgccqF",
+      "name": "LANY",
+      "type": "artist",
+      "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Sunset Garden",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436332941"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2dPe2myx7weXywXiYY0veL",
+  "id": "2dPe2myx7weXywXiYY0veL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273210c3d6a00af219de847ed55",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02210c3d6a00af219de847ed55",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851210c3d6a00af219de847ed55",
+      "width": 64
+    }
+  ],
+  "label": "Sunset Garden",
+  "name": "Love At First Fight",
+  "popularity": 31,
+  "release_date": "2023-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2dPe2myx7weXywXiYY0veL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+            },
+            "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
+            "id": "49tQo2QULno7gxHutgccqF",
+            "name": "LANY",
+            "type": "artist",
+            "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 192078,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4mSrpsvyDlfDOLjmDX71VE",
+        "id": "4mSrpsvyDlfDOLjmDX71VE",
+        "is_local": false,
+        "name": "Love At First Fight",
+        "preview_url": "https://p.scdn.co/mp3-preview/f8ad440e4a6d3feb6a703132186424d22ccd3d09?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4mSrpsvyDlfDOLjmDX71VE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2dPe2myx7weXywXiYY0veL"
+}

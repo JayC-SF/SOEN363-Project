@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MUENaxB93ZPNclZIDEMMV",
+      "id": "2MUENaxB93ZPNclZIDEMMV",
+      "name": "Kalabrese",
+      "type": "artist",
+      "uri": "spotify:artist:2MUENaxB93ZPNclZIDEMMV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+      },
+      "href": "https://api.spotify.com/v1/artists/6RsLLSkSTcL4YrvgRcBTQd",
+      "id": "6RsLLSkSTcL4YrvgRcBTQd",
+      "name": "Jimi Jules",
+      "type": "artist",
+      "uri": "spotify:artist:6RsLLSkSTcL4YrvgRcBTQd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Compost Records",
+      "type": "C"
+    },
+    {
+      "text": "2014 Rumpelmusig",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0673799430312"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6znwKSX8HENfJiqqhcL0T4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6znwKSX8HENfJiqqhcL0T4",
+  "id": "6znwKSX8HENfJiqqhcL0T4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273418fff45838d703cad73466d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02418fff45838d703cad73466d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851418fff45838d703cad73466d",
+      "width": 64
+    }
+  ],
+  "label": "Rumpelmusig",
+  "name": "Hello Asshole / Kafi Lied",
+  "popularity": 0,
+  "release_date": "2014-04-18",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6znwKSX8HENfJiqqhcL0T4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RsLLSkSTcL4YrvgRcBTQd",
+            "id": "6RsLLSkSTcL4YrvgRcBTQd",
+            "name": "Jimi Jules",
+            "type": "artist",
+            "uri": "spotify:artist:6RsLLSkSTcL4YrvgRcBTQd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 407226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fR0P8NrFJS0T0QDWxIyTG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fR0P8NrFJS0T0QDWxIyTG",
+        "id": "6fR0P8NrFJS0T0QDWxIyTG",
+        "is_local": false,
+        "name": "Hello Asshole",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6fR0P8NrFJS0T0QDWxIyTG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV"
+            },
+            "href": "https://api.spotify.com/v1/artists/2MUENaxB93ZPNclZIDEMMV",
+            "id": "2MUENaxB93ZPNclZIDEMMV",
+            "name": "Kalabrese",
+            "type": "artist",
+            "uri": "spotify:artist:2MUENaxB93ZPNclZIDEMMV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fmTk1MJqNGNmDHw5Upsu5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fmTk1MJqNGNmDHw5Upsu5",
+            "id": "6fmTk1MJqNGNmDHw5Upsu5",
+            "name": "Sarah Palin",
+            "type": "artist",
+            "uri": "spotify:artist:6fmTk1MJqNGNmDHw5Upsu5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 464453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IrWZesp3Yjc6buTJ5R0u3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IrWZesp3Yjc6buTJ5R0u3",
+        "id": "1IrWZesp3Yjc6buTJ5R0u3",
+        "is_local": false,
+        "name": "Kafi Lied",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1IrWZesp3Yjc6buTJ5R0u3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6znwKSX8HENfJiqqhcL0T4"
+}

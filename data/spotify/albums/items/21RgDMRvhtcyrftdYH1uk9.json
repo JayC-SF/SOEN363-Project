@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+      },
+      "href": "https://api.spotify.com/v1/artists/5r5Va4lVQ1zjEfbJSrmCsS",
+      "id": "5r5Va4lVQ1zjEfbJSrmCsS",
+      "name": "BROODS",
+      "type": "artist",
+      "uri": "spotify:artist:5r5Va4lVQ1zjEfbJSrmCsS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2014 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2014 Polydor Ltd. (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537946488"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21RgDMRvhtcyrftdYH1uk9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21RgDMRvhtcyrftdYH1uk9",
+  "id": "21RgDMRvhtcyrftdYH1uk9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732da10561045fbc7682225b07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022da10561045fbc7682225b07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512da10561045fbc7682225b07",
+      "width": 64
+    }
+  ],
+  "label": "Capitol Records",
+  "name": "L.A.F",
+  "popularity": 0,
+  "release_date": "2014-07-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21RgDMRvhtcyrftdYH1uk9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+            },
+            "href": "https://api.spotify.com/v1/artists/5r5Va4lVQ1zjEfbJSrmCsS",
+            "id": "5r5Va4lVQ1zjEfbJSrmCsS",
+            "name": "BROODS",
+            "type": "artist",
+            "uri": "spotify:artist:5r5Va4lVQ1zjEfbJSrmCsS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167656,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6efq1RwNvWhVtt3u5ZmfKr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6efq1RwNvWhVtt3u5ZmfKr",
+        "id": "6efq1RwNvWhVtt3u5ZmfKr",
+        "is_local": false,
+        "name": "L.A.F",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6efq1RwNvWhVtt3u5ZmfKr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21RgDMRvhtcyrftdYH1uk9"
+}

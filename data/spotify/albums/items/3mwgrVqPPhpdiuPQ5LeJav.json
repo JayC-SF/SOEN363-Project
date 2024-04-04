@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18H66ckLzDLg2Gt9VoqDXI"
+      },
+      "href": "https://api.spotify.com/v1/artists/18H66ckLzDLg2Gt9VoqDXI",
+      "id": "18H66ckLzDLg2Gt9VoqDXI",
+      "name": "\u5c0f\u6f58\u6f58",
+      "type": "artist",
+      "uri": "spotify:artist:18H66ckLzDLg2Gt9VoqDXI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5bdOQvxhBQKMwPvN9sSukB"
+      },
+      "href": "https://api.spotify.com/v1/artists/5bdOQvxhBQKMwPvN9sSukB",
+      "id": "5bdOQvxhBQKMwPvN9sSukB",
+      "name": "\u5c0f\u5cf0\u5cf0",
+      "type": "artist",
+      "uri": "spotify:artist:5bdOQvxhBQKMwPvN9sSukB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Linfair Records Limited",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "4717398667734"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mwgrVqPPhpdiuPQ5LeJav"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mwgrVqPPhpdiuPQ5LeJav",
+  "id": "3mwgrVqPPhpdiuPQ5LeJav",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af459093ecbd451a00912a73",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af459093ecbd451a00912a73",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af459093ecbd451a00912a73",
+      "width": 64
+    }
+  ],
+  "label": "Linfair Records Limited",
+  "name": "\u5b78\u8c93\u53eb",
+  "popularity": 0,
+  "release_date": "2018-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mwgrVqPPhpdiuPQ5LeJav/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18H66ckLzDLg2Gt9VoqDXI"
+            },
+            "href": "https://api.spotify.com/v1/artists/18H66ckLzDLg2Gt9VoqDXI",
+            "id": "18H66ckLzDLg2Gt9VoqDXI",
+            "name": "\u5c0f\u6f58\u6f58",
+            "type": "artist",
+            "uri": "spotify:artist:18H66ckLzDLg2Gt9VoqDXI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5bdOQvxhBQKMwPvN9sSukB"
+            },
+            "href": "https://api.spotify.com/v1/artists/5bdOQvxhBQKMwPvN9sSukB",
+            "id": "5bdOQvxhBQKMwPvN9sSukB",
+            "name": "\u5c0f\u5cf0\u5cf0",
+            "type": "artist",
+            "uri": "spotify:artist:5bdOQvxhBQKMwPvN9sSukB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209218,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56y9Vdi0PWuDqjz6RQ2K93"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56y9Vdi0PWuDqjz6RQ2K93",
+        "id": "56y9Vdi0PWuDqjz6RQ2K93",
+        "is_local": false,
+        "name": "\u5b78\u8c93\u53eb",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:56y9Vdi0PWuDqjz6RQ2K93"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mwgrVqPPhpdiuPQ5LeJav"
+}

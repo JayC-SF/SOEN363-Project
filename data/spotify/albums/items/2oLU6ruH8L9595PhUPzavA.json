@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6cIU84TLDcCIFzj4h24wpr",
+      "id": "6cIU84TLDcCIFzj4h24wpr",
+      "name": "Benny Martin",
+      "type": "artist",
+      "uri": "spotify:artist:6cIU84TLDcCIFzj4h24wpr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+      },
+      "href": "https://api.spotify.com/v1/artists/1q1P9ifOMhgIYCsj9KXxdX",
+      "id": "1q1P9ifOMhgIYCsj9KXxdX",
+      "name": "The Wong Janice",
+      "type": "artist",
+      "uri": "spotify:artist:1q1P9ifOMhgIYCsj9KXxdX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Benny Martin & The Wong Janice",
+      "type": "C"
+    },
+    {
+      "text": "2019 Benny Martin & The Wong Janice",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194759523764"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2oLU6ruH8L9595PhUPzavA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2oLU6ruH8L9595PhUPzavA",
+  "id": "2oLU6ruH8L9595PhUPzavA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273abf6fee8bb760bec0976c2a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abf6fee8bb760bec0976c2a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abf6fee8bb760bec0976c2a8",
+      "width": 64
+    }
+  ],
+  "label": "Benny Martin & The Wong Janice",
+  "name": "The Scientist",
+  "popularity": 0,
+  "release_date": "2019-10-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2oLU6ruH8L9595PhUPzavA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cIU84TLDcCIFzj4h24wpr",
+            "id": "6cIU84TLDcCIFzj4h24wpr",
+            "name": "Benny Martin",
+            "type": "artist",
+            "uri": "spotify:artist:6cIU84TLDcCIFzj4h24wpr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1q1P9ifOMhgIYCsj9KXxdX",
+            "id": "1q1P9ifOMhgIYCsj9KXxdX",
+            "name": "The Wong Janice",
+            "type": "artist",
+            "uri": "spotify:artist:1q1P9ifOMhgIYCsj9KXxdX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 285149,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5U20xUgRk7DIdFHDbClAMz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5U20xUgRk7DIdFHDbClAMz",
+        "id": "5U20xUgRk7DIdFHDbClAMz",
+        "is_local": false,
+        "name": "The Scientist",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5U20xUgRk7DIdFHDbClAMz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2oLU6ruH8L9595PhUPzavA"
+}

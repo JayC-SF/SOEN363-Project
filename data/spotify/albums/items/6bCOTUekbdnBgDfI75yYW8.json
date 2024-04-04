@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Uvzk4iffO4mvchgRNJjbs",
+      "id": "3Uvzk4iffO4mvchgRNJjbs",
+      "name": "Audiojack",
+      "type": "artist",
+      "uri": "spotify:artist:3Uvzk4iffO4mvchgRNJjbs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Crosstown Rebels",
+      "type": "C"
+    },
+    {
+      "text": "2016 Crosstown Rebels",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060449914448"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6bCOTUekbdnBgDfI75yYW8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6bCOTUekbdnBgDfI75yYW8",
+  "id": "6bCOTUekbdnBgDfI75yYW8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735532ae98100e36a33b1f6d3c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025532ae98100e36a33b1f6d3c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515532ae98100e36a33b1f6d3c",
+      "width": 64
+    }
+  ],
+  "label": "Crosstown Rebels",
+  "name": "Turya",
+  "popularity": 0,
+  "release_date": "2016-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6bCOTUekbdnBgDfI75yYW8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Uvzk4iffO4mvchgRNJjbs",
+            "id": "3Uvzk4iffO4mvchgRNJjbs",
+            "name": "Audiojack",
+            "type": "artist",
+            "uri": "spotify:artist:3Uvzk4iffO4mvchgRNJjbs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 506880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yJRHf7Nscey0ylJBGM2CM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5yJRHf7Nscey0ylJBGM2CM",
+        "id": "5yJRHf7Nscey0ylJBGM2CM",
+        "is_local": false,
+        "name": "Turya - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5yJRHf7Nscey0ylJBGM2CM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Uvzk4iffO4mvchgRNJjbs",
+            "id": "3Uvzk4iffO4mvchgRNJjbs",
+            "name": "Audiojack",
+            "type": "artist",
+            "uri": "spotify:artist:3Uvzk4iffO4mvchgRNJjbs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 433548,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EQ5crzVaXccLhZRCB02iO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5EQ5crzVaXccLhZRCB02iO",
+        "id": "5EQ5crzVaXccLhZRCB02iO",
+        "is_local": false,
+        "name": "Event Horizon - Original Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5EQ5crzVaXccLhZRCB02iO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6bCOTUekbdnBgDfI75yYW8"
+}

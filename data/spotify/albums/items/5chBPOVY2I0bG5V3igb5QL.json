@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+      "id": "4nDoRrQiYLoBzwC5BhVJzF",
+      "name": "Camila Cabello",
+      "type": "artist",
+      "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446672977"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5chBPOVY2I0bG5V3igb5QL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5chBPOVY2I0bG5V3igb5QL",
+  "id": "5chBPOVY2I0bG5V3igb5QL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d93cf4d07ba50d7b32ca7c44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d93cf4d07ba50d7b32ca7c44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d93cf4d07ba50d7b32ca7c44",
+      "width": 64
+    }
+  ],
+  "label": "Syco Music/Epic",
+  "name": "Havana (feat. Young Thug)",
+  "popularity": 1,
+  "release_date": "2017-08-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5chBPOVY2I0bG5V3igb5QL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+            "name": "Camila Cabello",
+            "type": "artist",
+            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            },
+            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "type": "artist",
+            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216896,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ofbQMrRDsUaVKq2mGLEAb",
+        "id": "0ofbQMrRDsUaVKq2mGLEAb",
+        "is_local": false,
+        "name": "Havana (feat. Young Thug)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ofbQMrRDsUaVKq2mGLEAb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5chBPOVY2I0bG5V3igb5QL"
+}

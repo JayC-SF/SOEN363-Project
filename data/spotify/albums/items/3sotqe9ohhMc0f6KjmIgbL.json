@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0zUt9PboFsELRcvO7UWarr",
+      "id": "0zUt9PboFsELRcvO7UWarr",
+      "name": "Seth Schwarz",
+      "type": "artist",
+      "uri": "spotify:artist:0zUt9PboFsELRcvO7UWarr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BaLB5aiExO29BEGVUisru",
+      "id": "4BaLB5aiExO29BEGVUisru",
+      "name": "Be Svendsen",
+      "type": "artist",
+      "uri": "spotify:artist:4BaLB5aiExO29BEGVUisru"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 All Day I Dream",
+      "type": "C"
+    },
+    {
+      "text": "2015 All Day I Dream",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "881969872514"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3sotqe9ohhMc0f6KjmIgbL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3sotqe9ohhMc0f6KjmIgbL",
+  "id": "3sotqe9ohhMc0f6KjmIgbL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2d8ebeecf2e0d055b1f07bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2d8ebeecf2e0d055b1f07bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2d8ebeecf2e0d055b1f07bd",
+      "width": 64
+    }
+  ],
+  "label": "All Day I Dream",
+  "name": "The Bar Tender",
+  "popularity": 0,
+  "release_date": "2015-12-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3sotqe9ohhMc0f6KjmIgbL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0zUt9PboFsELRcvO7UWarr",
+            "id": "0zUt9PboFsELRcvO7UWarr",
+            "name": "Seth Schwarz",
+            "type": "artist",
+            "uri": "spotify:artist:0zUt9PboFsELRcvO7UWarr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BaLB5aiExO29BEGVUisru",
+            "id": "4BaLB5aiExO29BEGVUisru",
+            "name": "Be Svendsen",
+            "type": "artist",
+            "uri": "spotify:artist:4BaLB5aiExO29BEGVUisru"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 578014,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RiVx5qIZ01g3ntVvCUROA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RiVx5qIZ01g3ntVvCUROA",
+        "id": "2RiVx5qIZ01g3ntVvCUROA",
+        "is_local": false,
+        "name": "The Bar Tender - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2RiVx5qIZ01g3ntVvCUROA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3sotqe9ohhMc0f6KjmIgbL"
+}

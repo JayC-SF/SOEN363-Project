@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3j4FHbC5zwmYGJ7r0ZgaMt",
+      "id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+      "name": "Lissie",
+      "type": "artist",
+      "uri": "spotify:artist:3j4FHbC5zwmYGJ7r0ZgaMt"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Lionboy Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 Lionboy Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446878362"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7lj4gJsKfINy35NCt6lKyJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7lj4gJsKfINy35NCt6lKyJ",
+  "id": "7lj4gJsKfINy35NCt6lKyJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a61cf58d08aab2dccd84b71",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a61cf58d08aab2dccd84b71",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a61cf58d08aab2dccd84b71",
+      "width": 64
+    }
+  ],
+  "label": "Lionboy Records",
+  "name": "Blood & Muscle",
+  "popularity": 5,
+  "release_date": "2017-12-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7lj4gJsKfINy35NCt6lKyJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3j4FHbC5zwmYGJ7r0ZgaMt",
+            "id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+            "name": "Lissie",
+            "type": "artist",
+            "uri": "spotify:artist:3j4FHbC5zwmYGJ7r0ZgaMt"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233363,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3eoWTG1cFk03WIGnZZzDnr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3eoWTG1cFk03WIGnZZzDnr",
+        "id": "3eoWTG1cFk03WIGnZZzDnr",
+        "is_local": false,
+        "name": "Blood & Muscle",
+        "preview_url": "https://p.scdn.co/mp3-preview/af9fcd4f643c33f3405f5e5c138c7d2148ebbec8?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3eoWTG1cFk03WIGnZZzDnr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7lj4gJsKfINy35NCt6lKyJ"
+}

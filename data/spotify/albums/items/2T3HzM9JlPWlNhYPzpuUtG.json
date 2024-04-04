@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id": "2ye2Wgw4gimLv2eAKyk1NB",
+      "name": "Metallica",
+      "type": "artist",
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Blackened Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2018 Blackened Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "858978005899"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2T3HzM9JlPWlNhYPzpuUtG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2T3HzM9JlPWlNhYPzpuUtG",
+  "id": "2T3HzM9JlPWlNhYPzpuUtG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397f3874ee18d3a57d4325c1a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297f3874ee18d3a57d4325c1a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197f3874ee18d3a57d4325c1a",
+      "width": 64
+    }
+  ],
+  "label": "Blackened Recordings",
+  "name": "Eye of the Beholder (Live at Hammersmith Odeon, London, England - October 10th, 1988)",
+  "popularity": 0,
+  "release_date": "2018-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2T3HzM9JlPWlNhYPzpuUtG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+            "id": "2ye2Wgw4gimLv2eAKyk1NB",
+            "name": "Metallica",
+            "type": "artist",
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 364981,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66oprIwCQzRbPSMPLABVJm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/66oprIwCQzRbPSMPLABVJm",
+        "id": "66oprIwCQzRbPSMPLABVJm",
+        "is_local": false,
+        "name": "Eye of the Beholder (Live at Hammersmith Odeon, London, England - October 10th, 1988)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:66oprIwCQzRbPSMPLABVJm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2T3HzM9JlPWlNhYPzpuUtG"
+}

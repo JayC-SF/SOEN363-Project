@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UcV42qoarnaPQWeWudTf6"
+      },
+      "href": "https://api.spotify.com/v1/artists/5UcV42qoarnaPQWeWudTf6",
+      "id": "5UcV42qoarnaPQWeWudTf6",
+      "name": "Jon Kyoto",
+      "type": "artist",
+      "uri": "spotify:artist:5UcV42qoarnaPQWeWudTf6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Kyoto Sound",
+      "type": "C"
+    },
+    {
+      "text": "2020 Kyoto Sound",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195543250255"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1HuOsXl0eWh3vLkCppeBsx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1HuOsXl0eWh3vLkCppeBsx",
+  "id": "1HuOsXl0eWh3vLkCppeBsx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5c0c57633c340ec12938808",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5c0c57633c340ec12938808",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5c0c57633c340ec12938808",
+      "width": 64
+    }
+  ],
+  "label": "Kyoto Sound",
+  "name": "Greed I$land",
+  "popularity": 0,
+  "release_date": "2020-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1HuOsXl0eWh3vLkCppeBsx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UcV42qoarnaPQWeWudTf6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UcV42qoarnaPQWeWudTf6",
+            "id": "5UcV42qoarnaPQWeWudTf6",
+            "name": "Jon Kyoto",
+            "type": "artist",
+            "uri": "spotify:artist:5UcV42qoarnaPQWeWudTf6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144039,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02lqEeMINyL2h2QPpaOkBz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/02lqEeMINyL2h2QPpaOkBz",
+        "id": "02lqEeMINyL2h2QPpaOkBz",
+        "is_local": false,
+        "name": "Greed I$land",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:02lqEeMINyL2h2QPpaOkBz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1HuOsXl0eWh3vLkCppeBsx"
+}

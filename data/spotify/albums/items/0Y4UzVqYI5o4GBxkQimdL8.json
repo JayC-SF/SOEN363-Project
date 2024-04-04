@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+      "id": "3BmGtnKgCSGYIUhmivXKWX",
+      "name": "Kelly Clarkson",
+      "type": "artist",
+      "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Kelly Clarkson under exclusive license to Atlantic Recording Corporation",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Kelly Clarkson under exclusive license to Atlantic Recording Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679690661"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Y4UzVqYI5o4GBxkQimdL8",
+  "id": "0Y4UzVqYI5o4GBxkQimdL8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27344b6886d2f621aceb2702ec5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0244b6886d2f621aceb2702ec5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485144b6886d2f621aceb2702ec5",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "mine / me",
+  "popularity": 0,
+  "release_date": "2023-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Y4UzVqYI5o4GBxkQimdL8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+            },
+            "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+            "id": "3BmGtnKgCSGYIUhmivXKWX",
+            "name": "Kelly Clarkson",
+            "type": "artist",
+            "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191007,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WVwFPBm6bI9KPRV2AUR2T",
+        "id": "5WVwFPBm6bI9KPRV2AUR2T",
+        "is_local": false,
+        "name": "mine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5WVwFPBm6bI9KPRV2AUR2T"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+            },
+            "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+            "id": "3BmGtnKgCSGYIUhmivXKWX",
+            "name": "Kelly Clarkson",
+            "type": "artist",
+            "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214745,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7c3YpeSFcXPKvhvSTDF7qK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7c3YpeSFcXPKvhvSTDF7qK",
+        "id": "7c3YpeSFcXPKvhvSTDF7qK",
+        "is_local": false,
+        "name": "me",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7c3YpeSFcXPKvhvSTDF7qK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0Y4UzVqYI5o4GBxkQimdL8"
+}

@@ -1,0 +1,791 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+      "id": "2AiZXMqpVlCDnz3trZbWaK",
+      "name": "The Latin Brothers",
+      "type": "artist",
+      "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+      "id": "5hOWmWLLYJvAEuERZbyxpk",
+      "name": "John Jairo",
+      "type": "artist",
+      "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+      },
+      "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+      "id": "35HTycyWifnoCzK2EQ3KUX",
+      "name": "Piper Pimienta Diaz",
+      "type": "artist",
+      "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CL",
+    "CO",
+    "CR",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PR",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "copyrights": [
+    {
+      "text": "1975 Discos Fuentes Edim\u00fasica S.A.S.",
+      "type": "C"
+    },
+    {
+      "text": "1975 Discos Fuentes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "780381043536"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/600wO1M2MBcHLPWuEtFM3G"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/600wO1M2MBcHLPWuEtFM3G",
+  "id": "600wO1M2MBcHLPWuEtFM3G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273881f158e2e9198567db327c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02881f158e2e9198567db327c4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851881f158e2e9198567db327c4",
+      "width": 64
+    }
+  ],
+  "label": "Discos Fuentes",
+  "name": "Dale Al Bombo",
+  "popularity": 38,
+  "release_date": "1975-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 9,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/600wO1M2MBcHLPWuEtFM3G/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+            "id": "5hOWmWLLYJvAEuERZbyxpk",
+            "name": "John Jairo",
+            "type": "artist",
+            "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 220966,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RnRNpyhls8NmhGm2vxMuJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RnRNpyhls8NmhGm2vxMuJ",
+        "id": "0RnRNpyhls8NmhGm2vxMuJ",
+        "is_local": false,
+        "name": "Dale Al Bombo",
+        "preview_url": "https://p.scdn.co/mp3-preview/2e0aa5427bfdb5b888ee64c6d53a9f49e2ed7ef6?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0RnRNpyhls8NmhGm2vxMuJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+            },
+            "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+            "id": "35HTycyWifnoCzK2EQ3KUX",
+            "name": "Piper Pimienta Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278335,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UNhBckvdKX8MJi3dQ3KT6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UNhBckvdKX8MJi3dQ3KT6",
+        "id": "4UNhBckvdKX8MJi3dQ3KT6",
+        "is_local": false,
+        "name": "Velorio Y Baile",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4UNhBckvdKX8MJi3dQ3KT6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+            "id": "5hOWmWLLYJvAEuERZbyxpk",
+            "name": "John Jairo",
+            "type": "artist",
+            "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 200938,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rVntlsvpwMeBPqgUE8Mv7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rVntlsvpwMeBPqgUE8Mv7",
+        "id": "5rVntlsvpwMeBPqgUE8Mv7",
+        "is_local": false,
+        "name": "Siempre Contigo",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5rVntlsvpwMeBPqgUE8Mv7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+            },
+            "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+            "id": "35HTycyWifnoCzK2EQ3KUX",
+            "name": "Piper Pimienta Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252312,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oeOZiPgTThAIXA1Xb4sOC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2oeOZiPgTThAIXA1Xb4sOC",
+        "id": "2oeOZiPgTThAIXA1Xb4sOC",
+        "is_local": false,
+        "name": "La Pandilla De La Salsa",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2oeOZiPgTThAIXA1Xb4sOC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+            "id": "5hOWmWLLYJvAEuERZbyxpk",
+            "name": "John Jairo",
+            "type": "artist",
+            "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270913,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TG7Gp8GKRVlvEh6y8xnCj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TG7Gp8GKRVlvEh6y8xnCj",
+        "id": "3TG7Gp8GKRVlvEh6y8xnCj",
+        "is_local": false,
+        "name": "Los Obreros",
+        "preview_url": "https://p.scdn.co/mp3-preview/c85f76d80e8ce047185206afcaa8b8dbb09073ff?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3TG7Gp8GKRVlvEh6y8xnCj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+            },
+            "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+            "id": "35HTycyWifnoCzK2EQ3KUX",
+            "name": "Piper Pimienta Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 277817,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31Vdbu2mOffvjm6F9PcJR7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31Vdbu2mOffvjm6F9PcJR7",
+        "id": "31Vdbu2mOffvjm6F9PcJR7",
+        "is_local": false,
+        "name": "Busc\u00e1ndote",
+        "preview_url": "https://p.scdn.co/mp3-preview/512a4135c31332c2a7dd5105b35b1e77e6bcad84?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:31Vdbu2mOffvjm6F9PcJR7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+            },
+            "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+            "id": "35HTycyWifnoCzK2EQ3KUX",
+            "name": "Piper Pimienta Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+            "id": "5hOWmWLLYJvAEuERZbyxpk",
+            "name": "John Jairo",
+            "type": "artist",
+            "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 573664,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66quM3HtiYnWR2FwhgaQfL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/66quM3HtiYnWR2FwhgaQfL",
+        "id": "66quM3HtiYnWR2FwhgaQfL",
+        "is_local": false,
+        "name": "Duelo De Picoteros",
+        "preview_url": "https://p.scdn.co/mp3-preview/789ebcc80830fe769e4e684ffaa4ce0369963e60?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:66quM3HtiYnWR2FwhgaQfL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hOWmWLLYJvAEuERZbyxpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hOWmWLLYJvAEuERZbyxpk",
+            "id": "5hOWmWLLYJvAEuERZbyxpk",
+            "name": "John Jairo",
+            "type": "artist",
+            "uri": "spotify:artist:5hOWmWLLYJvAEuERZbyxpk"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 234270,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3X11JoxfUf1Kyo0pwfAVoB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3X11JoxfUf1Kyo0pwfAVoB",
+        "id": "3X11JoxfUf1Kyo0pwfAVoB",
+        "is_local": false,
+        "name": "Cumbia A Jos\u00e9 Barros",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3X11JoxfUf1Kyo0pwfAVoB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AiZXMqpVlCDnz3trZbWaK",
+            "id": "2AiZXMqpVlCDnz3trZbWaK",
+            "name": "The Latin Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+            },
+            "href": "https://api.spotify.com/v1/artists/35HTycyWifnoCzK2EQ3KUX",
+            "id": "35HTycyWifnoCzK2EQ3KUX",
+            "name": "Piper Pimienta Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:35HTycyWifnoCzK2EQ3KUX"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PR",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 237941,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TgjKWNaGtXTTxVqDARyiV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TgjKWNaGtXTTxVqDARyiV",
+        "id": "0TgjKWNaGtXTTxVqDARyiV",
+        "is_local": false,
+        "name": "Sombra De Un Pasado",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0TgjKWNaGtXTTxVqDARyiV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9
+  },
+  "type": "album",
+  "uri": "spotify:album:600wO1M2MBcHLPWuEtFM3G"
+}

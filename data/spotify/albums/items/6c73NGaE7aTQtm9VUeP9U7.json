@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wMker0mxwF3876I7JLYOk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wMker0mxwF3876I7JLYOk",
+      "id": "0wMker0mxwF3876I7JLYOk",
+      "name": "Soufiane",
+      "type": "artist",
+      "uri": "spotify:artist:0wMker0mxwF3876I7JLYOk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Soufiane",
+      "type": "C"
+    },
+    {
+      "text": "2022 Soufiane",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720765067538"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6c73NGaE7aTQtm9VUeP9U7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6c73NGaE7aTQtm9VUeP9U7",
+  "id": "6c73NGaE7aTQtm9VUeP9U7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae49c5ee545a9c814e97ecea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae49c5ee545a9c814e97ecea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae49c5ee545a9c814e97ecea",
+      "width": 64
+    }
+  ],
+  "label": "Soufiane",
+  "name": "Batman",
+  "popularity": 0,
+  "release_date": "2022-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6c73NGaE7aTQtm9VUeP9U7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0wMker0mxwF3876I7JLYOk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0wMker0mxwF3876I7JLYOk",
+            "id": "0wMker0mxwF3876I7JLYOk",
+            "name": "Soufiane",
+            "type": "artist",
+            "uri": "spotify:artist:0wMker0mxwF3876I7JLYOk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 99876,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AqlGrU90VafxWfoJexPa6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1AqlGrU90VafxWfoJexPa6",
+        "id": "1AqlGrU90VafxWfoJexPa6",
+        "is_local": false,
+        "name": "Batman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1AqlGrU90VafxWfoJexPa6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6c73NGaE7aTQtm9VUeP9U7"
+}

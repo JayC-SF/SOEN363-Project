@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WbAxASsYdodSlqwserDAW",
+      "id": "0WbAxASsYdodSlqwserDAW",
+      "name": "Gunz For Hire",
+      "type": "artist",
+      "uri": "spotify:artist:0WbAxASsYdodSlqwserDAW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+      },
+      "href": "https://api.spotify.com/v1/artists/4EnzLaY6syM2lVhfMRolW2",
+      "id": "4EnzLaY6syM2lVhfMRolW2",
+      "name": "E-Life",
+      "type": "artist",
+      "uri": "spotify:artist:4EnzLaY6syM2lVhfMRolW2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Roughstate",
+      "type": "C"
+    },
+    {
+      "text": "2022 Roughstate",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719244856473"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2fa9i3XjZnoPF2zSY2vgAU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2fa9i3XjZnoPF2zSY2vgAU",
+  "id": "2fa9i3XjZnoPF2zSY2vgAU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eff306cc379684184a7dbb08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eff306cc379684184a7dbb08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eff306cc379684184a7dbb08",
+      "width": 64
+    }
+  ],
+  "label": "Roughstate",
+  "name": "Mustang",
+  "popularity": 6,
+  "release_date": "2022-05-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2fa9i3XjZnoPF2zSY2vgAU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WbAxASsYdodSlqwserDAW",
+            "id": "0WbAxASsYdodSlqwserDAW",
+            "name": "Gunz For Hire",
+            "type": "artist",
+            "uri": "spotify:artist:0WbAxASsYdodSlqwserDAW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+            },
+            "href": "https://api.spotify.com/v1/artists/4EnzLaY6syM2lVhfMRolW2",
+            "id": "4EnzLaY6syM2lVhfMRolW2",
+            "name": "E-Life",
+            "type": "artist",
+            "uri": "spotify:artist:4EnzLaY6syM2lVhfMRolW2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244731,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EhFWQemhhLJERMg8mPmeF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EhFWQemhhLJERMg8mPmeF",
+        "id": "7EhFWQemhhLJERMg8mPmeF",
+        "is_local": false,
+        "name": "Mustang",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7EhFWQemhhLJERMg8mPmeF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2fa9i3XjZnoPF2zSY2vgAU"
+}

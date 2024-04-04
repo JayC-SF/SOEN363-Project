@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+      },
+      "href": "https://api.spotify.com/v1/artists/1pPmIToKXyGdsCF6LmqLmI",
+      "id": "1pPmIToKXyGdsCF6LmqLmI",
+      "name": "Rich The Kid",
+      "type": "artist",
+      "uri": "spotify:artist:1pPmIToKXyGdsCF6LmqLmI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577345272"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GFQyaljPchccrDbWGM5A0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GFQyaljPchccrDbWGM5A0",
+  "id": "1GFQyaljPchccrDbWGM5A0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345d26140618f0aa22e4e3412",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245d26140618f0aa22e4e3412",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145d26140618f0aa22e4e3412",
+      "width": 64
+    }
+  ],
+  "label": "Rich The Kid / (TDE/ISR PS)",
+  "name": "Splashin",
+  "popularity": 0,
+  "release_date": "2018-12-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GFQyaljPchccrDbWGM5A0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1pPmIToKXyGdsCF6LmqLmI",
+            "id": "1pPmIToKXyGdsCF6LmqLmI",
+            "name": "Rich The Kid",
+            "type": "artist",
+            "uri": "spotify:artist:1pPmIToKXyGdsCF6LmqLmI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177755,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kJRymevi2ZhCokE3NxTjT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2kJRymevi2ZhCokE3NxTjT",
+        "id": "2kJRymevi2ZhCokE3NxTjT",
+        "is_local": false,
+        "name": "Splashin",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2kJRymevi2ZhCokE3NxTjT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1GFQyaljPchccrDbWGM5A0"
+}

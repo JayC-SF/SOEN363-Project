@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7d8iRPIyE1iqRqxXdoqUhE"
+      },
+      "href": "https://api.spotify.com/v1/artists/7d8iRPIyE1iqRqxXdoqUhE",
+      "id": "7d8iRPIyE1iqRqxXdoqUhE",
+      "name": "lil obnoxious",
+      "type": "artist",
+      "uri": "spotify:artist:7d8iRPIyE1iqRqxXdoqUhE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 \u00f8bnoxious",
+      "type": "C"
+    },
+    {
+      "text": "2023 \u00f8bnoxious",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "730530074454"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7oPa914maQ2u7g0h2BKSHg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7oPa914maQ2u7g0h2BKSHg",
+  "id": "7oPa914maQ2u7g0h2BKSHg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d23d5aa6641320673aa4096e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d23d5aa6641320673aa4096e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d23d5aa6641320673aa4096e",
+      "width": 64
+    }
+  ],
+  "label": "\u00f8bnoxious",
+  "name": "Another Thing To Do It",
+  "popularity": 13,
+  "release_date": "2023-05-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7oPa914maQ2u7g0h2BKSHg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7d8iRPIyE1iqRqxXdoqUhE"
+            },
+            "href": "https://api.spotify.com/v1/artists/7d8iRPIyE1iqRqxXdoqUhE",
+            "id": "7d8iRPIyE1iqRqxXdoqUhE",
+            "name": "lil obnoxious",
+            "type": "artist",
+            "uri": "spotify:artist:7d8iRPIyE1iqRqxXdoqUhE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209457,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BafaUqgMk2yZ12TRR6imF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BafaUqgMk2yZ12TRR6imF",
+        "id": "7BafaUqgMk2yZ12TRR6imF",
+        "is_local": false,
+        "name": "Another Thing To Do It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BafaUqgMk2yZ12TRR6imF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7oPa914maQ2u7g0h2BKSHg"
+}

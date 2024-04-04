@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+      "id": "04gDigrS5kc9YWfZHwBETP",
+      "name": "Maroon 5",
+      "type": "artist",
+      "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Interscope Records (222 Records)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Interscope Records (222 Records)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602508101816"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3nR9B40hYLKLcR0Eph3Goc",
+  "id": "3nR9B40hYLKLcR0Eph3Goc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8c0135a218de2d10a8435f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8c0135a218de2d10a8435f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8c0135a218de2d10a8435f5",
+      "width": 64
+    }
+  ],
+  "label": "222 Records/Interscope Records",
+  "name": "Memories",
+  "popularity": 21,
+  "release_date": "2019-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3nR9B40hYLKLcR0Eph3Goc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            },
+            "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+            "id": "04gDigrS5kc9YWfZHwBETP",
+            "name": "Maroon 5",
+            "type": "artist",
+            "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+          }
+        ],
+        "available_markets": [
+          "KR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 189486,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2b8fOow8UzyDFAE27YhOZM",
+        "id": "2b8fOow8UzyDFAE27YhOZM",
+        "is_local": false,
+        "name": "Memories",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2b8fOow8UzyDFAE27YhOZM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3nR9B40hYLKLcR0Eph3Goc"
+}

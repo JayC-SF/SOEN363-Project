@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59oe7CAquFZ5mNjQ1efKPN"
+      },
+      "href": "https://api.spotify.com/v1/artists/59oe7CAquFZ5mNjQ1efKPN",
+      "id": "59oe7CAquFZ5mNjQ1efKPN",
+      "name": "LOBODA",
+      "type": "artist",
+      "uri": "spotify:artist:59oe7CAquFZ5mNjQ1efKPN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 LOBODA",
+      "type": "C"
+    },
+    {
+      "text": "2019 LOBODA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5057827138947"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/34aVcIaDi2xEPpD128lxkh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/34aVcIaDi2xEPpD128lxkh",
+  "id": "34aVcIaDi2xEPpD128lxkh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de62e1937450eb0e96aa1c24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de62e1937450eb0e96aa1c24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de62e1937450eb0e96aa1c24",
+      "width": 64
+    }
+  ],
+  "label": "LOBODA",
+  "name": "\u041f\u0443\u043b\u044f-\u0434\u0443\u0440\u0430",
+  "popularity": 0,
+  "release_date": "2019-04-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/34aVcIaDi2xEPpD128lxkh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59oe7CAquFZ5mNjQ1efKPN"
+            },
+            "href": "https://api.spotify.com/v1/artists/59oe7CAquFZ5mNjQ1efKPN",
+            "id": "59oe7CAquFZ5mNjQ1efKPN",
+            "name": "LOBODA",
+            "type": "artist",
+            "uri": "spotify:artist:59oe7CAquFZ5mNjQ1efKPN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210806,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GD0VCykM3dVXOL1wRrROB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GD0VCykM3dVXOL1wRrROB",
+        "id": "0GD0VCykM3dVXOL1wRrROB",
+        "is_local": false,
+        "name": "\u041f\u0443\u043b\u044f-\u0434\u0443\u0440\u0430",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0GD0VCykM3dVXOL1wRrROB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:34aVcIaDi2xEPpD128lxkh"
+}

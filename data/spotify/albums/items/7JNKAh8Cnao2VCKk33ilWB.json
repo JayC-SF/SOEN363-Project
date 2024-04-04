@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+      },
+      "href": "https://api.spotify.com/v1/artists/0m5FakHKCQdA7UN0PIzMcL",
+      "id": "0m5FakHKCQdA7UN0PIzMcL",
+      "name": "Current Joys",
+      "type": "artist",
+      "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Current Joys",
+      "type": "C"
+    },
+    {
+      "text": "2015 Current Joys",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718554349"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7JNKAh8Cnao2VCKk33ilWB",
+  "id": "7JNKAh8Cnao2VCKk33ilWB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349e640de689d8f9c10104f2a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249e640de689d8f9c10104f2a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149e640de689d8f9c10104f2a",
+      "width": 64
+    }
+  ],
+  "label": "Current Joys",
+  "name": "Kids",
+  "popularity": 0,
+  "release_date": "2015-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7JNKAh8Cnao2VCKk33ilWB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5FakHKCQdA7UN0PIzMcL",
+            "id": "0m5FakHKCQdA7UN0PIzMcL",
+            "name": "Current Joys",
+            "type": "artist",
+            "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 269142,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ixkZ2Q9gQeh52C6GxbETg",
+        "id": "6ixkZ2Q9gQeh52C6GxbETg",
+        "is_local": false,
+        "name": "Kids",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ixkZ2Q9gQeh52C6GxbETg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7JNKAh8Cnao2VCKk33ilWB"
+}

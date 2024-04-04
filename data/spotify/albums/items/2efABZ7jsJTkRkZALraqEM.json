@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+      },
+      "href": "https://api.spotify.com/v1/artists/1cJ5tVoeAEFcZBAwSZ0CtF",
+      "id": "1cJ5tVoeAEFcZBAwSZ0CtF",
+      "name": "The Plot In You",
+      "type": "artist",
+      "uri": "spotify:artist:1cJ5tVoeAEFcZBAwSZ0CtF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Fearless Records, Distributed by Concord.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Fearless Records, Distributed by Concord.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00888072515413"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2efABZ7jsJTkRkZALraqEM",
+  "id": "2efABZ7jsJTkRkZALraqEM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5ed54d7e37d4dd456ec28f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5ed54d7e37d4dd456ec28f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5ed54d7e37d4dd456ec28f1",
+      "width": 64
+    }
+  ],
+  "label": "Fearless Records",
+  "name": "Left Behind",
+  "popularity": 31,
+  "release_date": "2023-02-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2efABZ7jsJTkRkZALraqEM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cJ5tVoeAEFcZBAwSZ0CtF",
+            "id": "1cJ5tVoeAEFcZBAwSZ0CtF",
+            "name": "The Plot In You",
+            "type": "artist",
+            "uri": "spotify:artist:1cJ5tVoeAEFcZBAwSZ0CtF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206924,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5G6jZFDAFlpAA9v5LTV4NI",
+        "id": "5G6jZFDAFlpAA9v5LTV4NI",
+        "is_local": false,
+        "name": "Left Behind",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5G6jZFDAFlpAA9v5LTV4NI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cJ5tVoeAEFcZBAwSZ0CtF",
+            "id": "1cJ5tVoeAEFcZBAwSZ0CtF",
+            "name": "The Plot In You",
+            "type": "artist",
+            "uri": "spotify:artist:1cJ5tVoeAEFcZBAwSZ0CtF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208834,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5e08T6TZ0QlLCUZnR74Ucl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5e08T6TZ0QlLCUZnR74Ucl",
+        "id": "5e08T6TZ0QlLCUZnR74Ucl",
+        "is_local": false,
+        "name": "Divide",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5e08T6TZ0QlLCUZnR74Ucl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2efABZ7jsJTkRkZALraqEM"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VuWZqF7gNIfpKNS8kru2w"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VuWZqF7gNIfpKNS8kru2w",
+      "id": "0VuWZqF7gNIfpKNS8kru2w",
+      "name": "Junior H",
+      "type": "artist",
+      "uri": "spotify:artist:0VuWZqF7gNIfpKNS8kru2w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Antonio Herrera",
+      "type": "C"
+    },
+    {
+      "text": "2022 Antonio Herrera",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "786724400936"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5tzGbSYYRWwIcuqIYH2uN0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5tzGbSYYRWwIcuqIYH2uN0",
+  "id": "5tzGbSYYRWwIcuqIYH2uN0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27368e1383a22a09f7daefb18a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0268e1383a22a09f7daefb18a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485168e1383a22a09f7daefb18a8",
+      "width": 64
+    }
+  ],
+  "label": "Antonio Herrera",
+  "name": "El Tigre",
+  "popularity": 0,
+  "release_date": "2022-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5tzGbSYYRWwIcuqIYH2uN0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VuWZqF7gNIfpKNS8kru2w"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VuWZqF7gNIfpKNS8kru2w",
+            "id": "0VuWZqF7gNIfpKNS8kru2w",
+            "name": "Junior H",
+            "type": "artist",
+            "uri": "spotify:artist:0VuWZqF7gNIfpKNS8kru2w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192282,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uS0tuzO1Pw0ry3gsvK7qp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6uS0tuzO1Pw0ry3gsvK7qp",
+        "id": "6uS0tuzO1Pw0ry3gsvK7qp",
+        "is_local": false,
+        "name": "El Tigre",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6uS0tuzO1Pw0ry3gsvK7qp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5tzGbSYYRWwIcuqIYH2uN0"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+      },
+      "href": "https://api.spotify.com/v1/artists/09Z3wZ88af1pfyJxziESQF",
+      "id": "09Z3wZ88af1pfyJxziESQF",
+      "name": "Nick Wilson",
+      "type": "artist",
+      "uri": "spotify:artist:09Z3wZ88af1pfyJxziESQF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Nick Wilson",
+      "type": "C"
+    },
+    {
+      "text": "2017 Nick Wilson",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054960382725"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3IFrNcCsNHBcD6vBrM6bpX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3IFrNcCsNHBcD6vBrM6bpX",
+  "id": "3IFrNcCsNHBcD6vBrM6bpX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d62967bd355cedeb74b71047",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d62967bd355cedeb74b71047",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d62967bd355cedeb74b71047",
+      "width": 64
+    }
+  ],
+  "label": "Nick Wilson",
+  "name": "Miles Apart",
+  "popularity": 0,
+  "release_date": "2017-08-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3IFrNcCsNHBcD6vBrM6bpX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+            },
+            "href": "https://api.spotify.com/v1/artists/09Z3wZ88af1pfyJxziESQF",
+            "id": "09Z3wZ88af1pfyJxziESQF",
+            "name": "Nick Wilson",
+            "type": "artist",
+            "uri": "spotify:artist:09Z3wZ88af1pfyJxziESQF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224721,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yM488yghMJP9bJnwZKyJT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6yM488yghMJP9bJnwZKyJT",
+        "id": "6yM488yghMJP9bJnwZKyJT",
+        "is_local": false,
+        "name": "Miles Apart",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6yM488yghMJP9bJnwZKyJT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3IFrNcCsNHBcD6vBrM6bpX"
+}

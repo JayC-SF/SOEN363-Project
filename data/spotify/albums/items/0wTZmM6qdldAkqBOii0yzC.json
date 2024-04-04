@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+      },
+      "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+      "id": "6s22t5Y3prQHyaHWUN1R1C",
+      "name": "AJR",
+      "type": "artist",
+      "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2018 AJR Productions under exclusive license to Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447026243"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wTZmM6qdldAkqBOii0yzC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0wTZmM6qdldAkqBOii0yzC",
+  "id": "0wTZmM6qdldAkqBOii0yzC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366595e4fe4a22bb1f7fc7302",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0266595e4fe4a22bb1f7fc7302",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485166595e4fe4a22bb1f7fc7302",
+      "width": 64
+    }
+  ],
+  "label": "Black Butter",
+  "name": "Burn the House Down",
+  "popularity": 38,
+  "release_date": "2018-03-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0wTZmM6qdldAkqBOii0yzC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+            },
+            "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+            "id": "6s22t5Y3prQHyaHWUN1R1C",
+            "name": "AJR",
+            "type": "artist",
+            "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212373,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DOrfjvoK0hLJnxeHsE0xy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6DOrfjvoK0hLJnxeHsE0xy",
+        "id": "6DOrfjvoK0hLJnxeHsE0xy",
+        "is_local": false,
+        "name": "Burn the House Down",
+        "preview_url": "https://p.scdn.co/mp3-preview/69d3d09407b347aa7494a570e4b01be427692bcf?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6DOrfjvoK0hLJnxeHsE0xy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0wTZmM6qdldAkqBOii0yzC"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ccVtqcqedranb7y8eywJ5",
+      "id": "3ccVtqcqedranb7y8eywJ5",
+      "name": "Blanco White",
+      "type": "artist",
+      "uri": "spotify:artist:3ccVtqcqedranb7y8eywJ5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Yucatan Records",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562488294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Vp0P2uTyyuzZvEyWE2m5e"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Vp0P2uTyyuzZvEyWE2m5e",
+  "id": "4Vp0P2uTyyuzZvEyWE2m5e",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc33099dbf82ab3fefce5674",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc33099dbf82ab3fefce5674",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc33099dbf82ab3fefce5674",
+      "width": 64
+    }
+  ],
+  "label": "Yucatan Records",
+  "name": "Nocturne",
+  "popularity": 0,
+  "release_date": "2018-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Vp0P2uTyyuzZvEyWE2m5e/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ccVtqcqedranb7y8eywJ5",
+            "id": "3ccVtqcqedranb7y8eywJ5",
+            "name": "Blanco White",
+            "type": "artist",
+            "uri": "spotify:artist:3ccVtqcqedranb7y8eywJ5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rAoMvrhI0Ozalbow7Lu6F",
+        "id": "1rAoMvrhI0Ozalbow7Lu6F",
+        "is_local": false,
+        "name": "Nocturne",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1rAoMvrhI0Ozalbow7Lu6F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Vp0P2uTyyuzZvEyWE2m5e"
+}

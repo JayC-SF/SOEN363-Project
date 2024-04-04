@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+      "id": "1VJ0briNOlXRtJUAzoUJdt",
+      "name": "FISHER",
+      "type": "artist",
+      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 DIRTYBIRD",
+      "type": "C"
+    },
+    {
+      "text": "2017 DIRTYBIRD",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054283344707"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3fLyVygsOa9KL5OqdiX8Va"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3fLyVygsOa9KL5OqdiX8Va",
+  "id": "3fLyVygsOa9KL5OqdiX8Va",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/fcfe6087e2f67937a0c2e5471e6e95c55fbe77ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ad22894e7d879d7a40e8042b4a1ffe98889d2459",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/9e4013ffb5757903f08b28f25868faa9ff92d961",
+      "width": 64
+    }
+  ],
+  "label": "DIRTYBIRD",
+  "name": "Oi Oi",
+  "popularity": 8,
+  "release_date": "2017-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3fLyVygsOa9KL5OqdiX8Va/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+            "id": "1VJ0briNOlXRtJUAzoUJdt",
+            "name": "FISHER",
+            "type": "artist",
+            "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163790,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qetR2UUyBeUrJ9DbYrpVQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qetR2UUyBeUrJ9DbYrpVQ",
+        "id": "4qetR2UUyBeUrJ9DbYrpVQ",
+        "is_local": false,
+        "name": "Stop It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qetR2UUyBeUrJ9DbYrpVQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+            "id": "1VJ0briNOlXRtJUAzoUJdt",
+            "name": "FISHER",
+            "type": "artist",
+            "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185927,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vtj0Lofn4XQgJPNtDarit"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vtj0Lofn4XQgJPNtDarit",
+        "id": "7vtj0Lofn4XQgJPNtDarit",
+        "is_local": false,
+        "name": "Ya Didn't",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7vtj0Lofn4XQgJPNtDarit"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3fLyVygsOa9KL5OqdiX8Va"
+}

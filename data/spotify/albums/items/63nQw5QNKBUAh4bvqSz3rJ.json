@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+      "id": "7jVv8c5Fj3E9VhNjxT4snq",
+      "name": "Lil Nas X",
+      "type": "artist",
+      "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447622827"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/63nQw5QNKBUAh4bvqSz3rJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/63nQw5QNKBUAh4bvqSz3rJ",
+  "id": "63nQw5QNKBUAh4bvqSz3rJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305211b7d31fe69c3e8adbe95",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205211b7d31fe69c3e8adbe95",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105211b7d31fe69c3e8adbe95",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Old Town Road",
+  "popularity": 17,
+  "release_date": "2019-03-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/63nQw5QNKBUAh4bvqSz3rJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+            "id": "7jVv8c5Fj3E9VhNjxT4snq",
+            "name": "Lil Nas X",
+            "type": "artist",
+            "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+          }
+        ],
+        "available_markets": [
+          "KR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 113013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53CJANUxooaqGOtdsBTh7O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53CJANUxooaqGOtdsBTh7O",
+        "id": "53CJANUxooaqGOtdsBTh7O",
+        "is_local": false,
+        "name": "Old Town Road",
+        "preview_url": "https://p.scdn.co/mp3-preview/c9de05440773961287640cae5ee1fc128d74c11f?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:53CJANUxooaqGOtdsBTh7O"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:63nQw5QNKBUAh4bvqSz3rJ"
+}

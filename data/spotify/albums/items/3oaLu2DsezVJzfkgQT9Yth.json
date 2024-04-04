@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+      },
+      "href": "https://api.spotify.com/v1/artists/7M5pDtJpCdnftEQZtczYco",
+      "id": "7M5pDtJpCdnftEQZtczYco",
+      "name": "Ayesha Erotica",
+      "type": "artist",
+      "uri": "spotify:artist:7M5pDtJpCdnftEQZtczYco"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 AE",
+      "type": "C"
+    },
+    {
+      "text": "2021 AE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "024543695738"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3oaLu2DsezVJzfkgQT9Yth"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3oaLu2DsezVJzfkgQT9Yth",
+  "id": "3oaLu2DsezVJzfkgQT9Yth",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273214bc7425c026047d2db1986",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02214bc7425c026047d2db1986",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851214bc7425c026047d2db1986",
+      "width": 64
+    }
+  ],
+  "label": "AE",
+  "name": "Literal Legend",
+  "popularity": 0,
+  "release_date": "2021-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3oaLu2DsezVJzfkgQT9Yth/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+            },
+            "href": "https://api.spotify.com/v1/artists/7M5pDtJpCdnftEQZtczYco",
+            "id": "7M5pDtJpCdnftEQZtczYco",
+            "name": "Ayesha Erotica",
+            "type": "artist",
+            "uri": "spotify:artist:7M5pDtJpCdnftEQZtczYco"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166069,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c9tMHF4oYTiba7FVPFuKB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3c9tMHF4oYTiba7FVPFuKB",
+        "id": "3c9tMHF4oYTiba7FVPFuKB",
+        "is_local": false,
+        "name": "Literal Legend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3c9tMHF4oYTiba7FVPFuKB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3oaLu2DsezVJzfkgQT9Yth"
+}

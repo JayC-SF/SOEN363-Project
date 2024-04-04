@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5L9XA5GDsOOKNZfeOO8lmo",
+      "id": "5L9XA5GDsOOKNZfeOO8lmo",
+      "name": "fam0uz",
+      "type": "artist",
+      "uri": "spotify:artist:5L9XA5GDsOOKNZfeOO8lmo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Gesaffelstein",
+      "type": "C"
+    },
+    {
+      "text": "2023 fam0uz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063112178482"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1KXkUSBc4yAnqOCrefX7kr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1KXkUSBc4yAnqOCrefX7kr",
+  "id": "1KXkUSBc4yAnqOCrefX7kr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7ad2ad4fdc58434e4d9ee60",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7ad2ad4fdc58434e4d9ee60",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7ad2ad4fdc58434e4d9ee60",
+      "width": 64
+    }
+  ],
+  "label": "fam0uz",
+  "name": "Aleph (Slowed)",
+  "popularity": 18,
+  "release_date": "2023-05-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1KXkUSBc4yAnqOCrefX7kr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5L9XA5GDsOOKNZfeOO8lmo",
+            "id": "5L9XA5GDsOOKNZfeOO8lmo",
+            "name": "fam0uz",
+            "type": "artist",
+            "uri": "spotify:artist:5L9XA5GDsOOKNZfeOO8lmo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 330025,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2szNdEE7gfJrg44urI6EJC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2szNdEE7gfJrg44urI6EJC",
+        "id": "2szNdEE7gfJrg44urI6EJC",
+        "is_local": false,
+        "name": "Aleph - Slowed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2szNdEE7gfJrg44urI6EJC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1KXkUSBc4yAnqOCrefX7kr"
+}

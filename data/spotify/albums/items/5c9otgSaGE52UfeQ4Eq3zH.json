@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+      },
+      "href": "https://api.spotify.com/v1/artists/0lawSNBxNgJFQYJnQzLH8c",
+      "id": "0lawSNBxNgJFQYJnQzLH8c",
+      "name": "khai dreams",
+      "type": "artist",
+      "uri": "spotify:artist:0lawSNBxNgJFQYJnQzLH8c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Khai Dreams",
+      "type": "C"
+    },
+    {
+      "text": "2017 Khai Dreams",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0840094063815"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5c9otgSaGE52UfeQ4Eq3zH",
+  "id": "5c9otgSaGE52UfeQ4Eq3zH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9af056cf0d2cfc06bd8b2f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9af056cf0d2cfc06bd8b2f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9af056cf0d2cfc06bd8b2f2",
+      "width": 64
+    }
+  ],
+  "label": "Khai Dreams",
+  "name": "Lost in You",
+  "popularity": 0,
+  "release_date": "2017-09-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5c9otgSaGE52UfeQ4Eq3zH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lawSNBxNgJFQYJnQzLH8c",
+            "id": "0lawSNBxNgJFQYJnQzLH8c",
+            "name": "khai dreams",
+            "type": "artist",
+            "uri": "spotify:artist:0lawSNBxNgJFQYJnQzLH8c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 101000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mkRGTbm3BwPzNQL9oBV9e",
+        "id": "5mkRGTbm3BwPzNQL9oBV9e",
+        "is_local": false,
+        "name": "Lost in You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5mkRGTbm3BwPzNQL9oBV9e"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5c9otgSaGE52UfeQ4Eq3zH"
+}

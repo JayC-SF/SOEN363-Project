@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+      },
+      "href": "https://api.spotify.com/v1/artists/42vNc7YKaB7aleV5gdBz4l",
+      "id": "42vNc7YKaB7aleV5gdBz4l",
+      "name": "RAZZ",
+      "type": "artist",
+      "uri": "spotify:artist:42vNc7YKaB7aleV5gdBz4l"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1XpsXLUdznEbE60XLLdndG",
+      "id": "1XpsXLUdznEbE60XLLdndG",
+      "name": "Jay Tastic",
+      "type": "artist",
+      "uri": "spotify:artist:1XpsXLUdznEbE60XLLdndG"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2024 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871816663"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0duTaWVBWjwJUYdy1cGsHV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0duTaWVBWjwJUYdy1cGsHV",
+  "id": "0duTaWVBWjwJUYdy1cGsHV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739bbe3f62741a50bbe861b43d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029bbe3f62741a50bbe861b43d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519bbe3f62741a50bbe861b43d",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Need You",
+  "popularity": 21,
+  "release_date": "2024-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0duTaWVBWjwJUYdy1cGsHV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+            },
+            "href": "https://api.spotify.com/v1/artists/42vNc7YKaB7aleV5gdBz4l",
+            "id": "42vNc7YKaB7aleV5gdBz4l",
+            "name": "RAZZ",
+            "type": "artist",
+            "uri": "spotify:artist:42vNc7YKaB7aleV5gdBz4l"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1XpsXLUdznEbE60XLLdndG",
+            "id": "1XpsXLUdznEbE60XLLdndG",
+            "name": "Jay Tastic",
+            "type": "artist",
+            "uri": "spotify:artist:1XpsXLUdznEbE60XLLdndG"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 139057,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JHvusMwxWYlkIwJxjqNEq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JHvusMwxWYlkIwJxjqNEq",
+        "id": "3JHvusMwxWYlkIwJxjqNEq",
+        "is_local": false,
+        "name": "Need You",
+        "preview_url": "https://p.scdn.co/mp3-preview/57f26d0538b1b6eec9e2a712dab9101adc33a161?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3JHvusMwxWYlkIwJxjqNEq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0duTaWVBWjwJUYdy1cGsHV"
+}

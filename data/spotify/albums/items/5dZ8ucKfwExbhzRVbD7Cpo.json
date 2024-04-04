@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kDZSgsJllCJAkgTiFsOJT",
+      "id": "5kDZSgsJllCJAkgTiFsOJT",
+      "name": "A-bug",
+      "type": "artist",
+      "uri": "spotify:artist:5kDZSgsJllCJAkgTiFsOJT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 A-bug",
+      "type": "C"
+    },
+    {
+      "text": "2020 A-bug",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059435245666"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dZ8ucKfwExbhzRVbD7Cpo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5dZ8ucKfwExbhzRVbD7Cpo",
+  "id": "5dZ8ucKfwExbhzRVbD7Cpo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305aea9b4fb931e8813e9dc0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205aea9b4fb931e8813e9dc0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105aea9b4fb931e8813e9dc0c",
+      "width": 64
+    }
+  ],
+  "label": "Flenzes Records",
+  "name": "Lost Woods",
+  "popularity": 0,
+  "release_date": "2020-02-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5dZ8ucKfwExbhzRVbD7Cpo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kDZSgsJllCJAkgTiFsOJT",
+            "id": "5kDZSgsJllCJAkgTiFsOJT",
+            "name": "A-bug",
+            "type": "artist",
+            "uri": "spotify:artist:5kDZSgsJllCJAkgTiFsOJT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Nl2kYAmiDDbKLnkZsuTpU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Nl2kYAmiDDbKLnkZsuTpU",
+            "id": "5Nl2kYAmiDDbKLnkZsuTpU",
+            "name": "Blow Me",
+            "type": "artist",
+            "uri": "spotify:artist:5Nl2kYAmiDDbKLnkZsuTpU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 260000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VYtgNihWA4itShL3wfty6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VYtgNihWA4itShL3wfty6",
+        "id": "4VYtgNihWA4itShL3wfty6",
+        "is_local": false,
+        "name": "Lost Woods",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VYtgNihWA4itShL3wfty6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5dZ8ucKfwExbhzRVbD7Cpo"
+}

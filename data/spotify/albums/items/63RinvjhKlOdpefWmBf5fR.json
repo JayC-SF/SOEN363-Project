@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+      },
+      "href": "https://api.spotify.com/v1/artists/65Tmt9uAPTYGl1ZhsOeEJ6",
+      "id": "65Tmt9uAPTYGl1ZhsOeEJ6",
+      "name": "HAEVN",
+      "type": "artist",
+      "uri": "spotify:artist:65Tmt9uAPTYGl1ZhsOeEJ6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 HAEVN",
+      "type": "C"
+    },
+    {
+      "text": "2015 HAEVN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "872133502559"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/63RinvjhKlOdpefWmBf5fR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/63RinvjhKlOdpefWmBf5fR",
+  "id": "63RinvjhKlOdpefWmBf5fR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385c047f11f737a972ceb19e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285c047f11f737a972ceb19e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185c047f11f737a972ceb19e6",
+      "width": 64
+    }
+  ],
+  "label": "HAEVN",
+  "name": "Finding out More",
+  "popularity": 0,
+  "release_date": "2015-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/63RinvjhKlOdpefWmBf5fR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+            },
+            "href": "https://api.spotify.com/v1/artists/65Tmt9uAPTYGl1ZhsOeEJ6",
+            "id": "65Tmt9uAPTYGl1ZhsOeEJ6",
+            "name": "HAEVN",
+            "type": "artist",
+            "uri": "spotify:artist:65Tmt9uAPTYGl1ZhsOeEJ6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205012,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AIlww0AHmRtHrCd0s2O1R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2AIlww0AHmRtHrCd0s2O1R",
+        "id": "2AIlww0AHmRtHrCd0s2O1R",
+        "is_local": false,
+        "name": "Finding out More",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2AIlww0AHmRtHrCd0s2O1R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:63RinvjhKlOdpefWmBf5fR"
+}

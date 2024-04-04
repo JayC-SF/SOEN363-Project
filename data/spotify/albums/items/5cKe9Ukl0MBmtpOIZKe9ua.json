@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7xN9WPokBDyU1yTL2nxmjz",
+      "id": "7xN9WPokBDyU1yTL2nxmjz",
+      "name": "FRANK ZUMMO",
+      "type": "artist",
+      "uri": "spotify:artist:7xN9WPokBDyU1yTL2nxmjz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Bite This!",
+      "type": "C"
+    },
+    {
+      "text": "2021 Bite This!",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119963280"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5cKe9Ukl0MBmtpOIZKe9ua"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5cKe9Ukl0MBmtpOIZKe9ua",
+  "id": "5cKe9Ukl0MBmtpOIZKe9ua",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a46a32023708d51bfab20a8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a46a32023708d51bfab20a8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a46a32023708d51bfab20a8c",
+      "width": 64
+    }
+  ],
+  "label": "Bite This!",
+  "name": "Night Rider",
+  "popularity": 30,
+  "release_date": "2021-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5cKe9Ukl0MBmtpOIZKe9ua/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+            },
+            "href": "https://api.spotify.com/v1/artists/7xN9WPokBDyU1yTL2nxmjz",
+            "id": "7xN9WPokBDyU1yTL2nxmjz",
+            "name": "FRANK ZUMMO",
+            "type": "artist",
+            "uri": "spotify:artist:7xN9WPokBDyU1yTL2nxmjz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3z97WMRi731dCvKklIf2X6",
+            "id": "3z97WMRi731dCvKklIf2X6",
+            "name": "NEFFEX",
+            "type": "artist",
+            "uri": "spotify:artist:3z97WMRi731dCvKklIf2X6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180700,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DuBQn8miYgbFbcHqgERZO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1DuBQn8miYgbFbcHqgERZO",
+        "id": "1DuBQn8miYgbFbcHqgERZO",
+        "is_local": false,
+        "name": "Night Rider",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1DuBQn8miYgbFbcHqgERZO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5cKe9Ukl0MBmtpOIZKe9ua"
+}

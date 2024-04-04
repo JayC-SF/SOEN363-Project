@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+      },
+      "href": "https://api.spotify.com/v1/artists/70BYFdaZbEKbeauJ670ysI",
+      "id": "70BYFdaZbEKbeauJ670ysI",
+      "name": "Shinedown",
+      "type": "artist",
+      "uri": "spotify:artist:70BYFdaZbEKbeauJ670ysI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Atlantic Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Atlantic Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679759771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2p732bJ3OshHkiQGJfz1Jo",
+  "id": "2p732bJ3OshHkiQGJfz1Jo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386ba21d6c74d3fd270da2475",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286ba21d6c74d3fd270da2475",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186ba21d6c74d3fd270da2475",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Planet Zero",
+  "popularity": 0,
+  "release_date": "2022-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2p732bJ3OshHkiQGJfz1Jo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+            },
+            "href": "https://api.spotify.com/v1/artists/70BYFdaZbEKbeauJ670ysI",
+            "id": "70BYFdaZbEKbeauJ670ysI",
+            "name": "Shinedown",
+            "type": "artist",
+            "uri": "spotify:artist:70BYFdaZbEKbeauJ670ysI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222738,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3GL1RQKHV0TDRq8EXHMhGq",
+        "id": "3GL1RQKHV0TDRq8EXHMhGq",
+        "is_local": false,
+        "name": "Planet Zero",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3GL1RQKHV0TDRq8EXHMhGq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2p732bJ3OshHkiQGJfz1Jo"
+}

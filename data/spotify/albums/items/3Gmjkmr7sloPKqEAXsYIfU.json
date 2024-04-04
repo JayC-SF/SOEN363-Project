@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tgxFlmtGx08MtTKWeqEuR",
+      "id": "4tgxFlmtGx08MtTKWeqEuR",
+      "name": "Amitabh Bachchan",
+      "type": "artist",
+      "uri": "spotify:artist:4tgxFlmtGx08MtTKWeqEuR"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Times Music",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Times Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8902633322349"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Gmjkmr7sloPKqEAXsYIfU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Gmjkmr7sloPKqEAXsYIfU",
+  "id": "3Gmjkmr7sloPKqEAXsYIfU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdcd1f73fc52a8c9b48ae57c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdcd1f73fc52a8c9b48ae57c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdcd1f73fc52a8c9b48ae57c",
+      "width": 64
+    }
+  ],
+  "label": "Times Music",
+  "name": "Sukhkarta Dukhharta",
+  "popularity": 51,
+  "release_date": "2021-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Gmjkmr7sloPKqEAXsYIfU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tgxFlmtGx08MtTKWeqEuR",
+            "id": "4tgxFlmtGx08MtTKWeqEuR",
+            "name": "Amitabh Bachchan",
+            "type": "artist",
+            "uri": "spotify:artist:4tgxFlmtGx08MtTKWeqEuR"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 128993,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DtPCH3Bnv88ef0lLJqZsB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6DtPCH3Bnv88ef0lLJqZsB",
+        "id": "6DtPCH3Bnv88ef0lLJqZsB",
+        "is_local": false,
+        "name": "Sukhkarta Dukhharta",
+        "preview_url": "https://p.scdn.co/mp3-preview/d169857d9b7b34bf83d5e45a11a87f59af211973?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6DtPCH3Bnv88ef0lLJqZsB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Gmjkmr7sloPKqEAXsYIfU"
+}

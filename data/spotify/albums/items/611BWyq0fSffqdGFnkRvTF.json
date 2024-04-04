@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sM5leryX4ysVjBRYgrWU7"
+      },
+      "href": "https://api.spotify.com/v1/artists/5sM5leryX4ysVjBRYgrWU7",
+      "id": "5sM5leryX4ysVjBRYgrWU7",
+      "name": "spl",
+      "type": "artist",
+      "uri": "spotify:artist:5sM5leryX4ysVjBRYgrWU7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 spll",
+      "type": "C"
+    },
+    {
+      "text": "2023 spll",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198090104705"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/611BWyq0fSffqdGFnkRvTF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/611BWyq0fSffqdGFnkRvTF",
+  "id": "611BWyq0fSffqdGFnkRvTF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e9cc813f86b6fdd4ffe3549",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e9cc813f86b6fdd4ffe3549",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e9cc813f86b6fdd4ffe3549",
+      "width": 64
+    }
+  ],
+  "label": "spll",
+  "name": "Ziploc",
+  "popularity": 4,
+  "release_date": "2023-10-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/611BWyq0fSffqdGFnkRvTF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sM5leryX4ysVjBRYgrWU7"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sM5leryX4ysVjBRYgrWU7",
+            "id": "5sM5leryX4ysVjBRYgrWU7",
+            "name": "spl",
+            "type": "artist",
+            "uri": "spotify:artist:5sM5leryX4ysVjBRYgrWU7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 90913,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Vly8MDQpqzj9MSFHou7i6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Vly8MDQpqzj9MSFHou7i6",
+        "id": "1Vly8MDQpqzj9MSFHou7i6",
+        "is_local": false,
+        "name": "Ziploc",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Vly8MDQpqzj9MSFHou7i6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:611BWyq0fSffqdGFnkRvTF"
+}

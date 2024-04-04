@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1feoGrmmD8QmNqtK2Gdwy8",
+      "id": "1feoGrmmD8QmNqtK2Gdwy8",
+      "name": "Tobu",
+      "type": "artist",
+      "uri": "spotify:artist:1feoGrmmD8QmNqtK2Gdwy8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Tobu",
+      "type": "C"
+    },
+    {
+      "text": "2014 Tobu",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5051813952289"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5LuSfhp9urAeVFHxZBaX9z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5LuSfhp9urAeVFHxZBaX9z",
+  "id": "5LuSfhp9urAeVFHxZBaX9z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335ec3af04b753619e346e4b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235ec3af04b753619e346e4b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135ec3af04b753619e346e4b1",
+      "width": 64
+    }
+  ],
+  "label": "Tobu",
+  "name": "Life",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5LuSfhp9urAeVFHxZBaX9z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1feoGrmmD8QmNqtK2Gdwy8",
+            "id": "1feoGrmmD8QmNqtK2Gdwy8",
+            "name": "Tobu",
+            "type": "artist",
+            "uri": "spotify:artist:1feoGrmmD8QmNqtK2Gdwy8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204434,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ORIq2qe5LReUjPanOKt2Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ORIq2qe5LReUjPanOKt2Y",
+        "id": "6ORIq2qe5LReUjPanOKt2Y",
+        "is_local": false,
+        "name": "Life",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ORIq2qe5LReUjPanOKt2Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5LuSfhp9urAeVFHxZBaX9z"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+      },
+      "href": "https://api.spotify.com/v1/artists/4cgw3nEf6uOQ2NqHwSXErR",
+      "id": "4cgw3nEf6uOQ2NqHwSXErR",
+      "name": "Balti",
+      "type": "artist",
+      "uri": "spotify:artist:4cgw3nEf6uOQ2NqHwSXErR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 CHBK",
+      "type": "C"
+    },
+    {
+      "text": "2017 CHBK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5283023900822"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Lx5YFIlW54lV4le4T82mt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Lx5YFIlW54lV4le4T82mt",
+  "id": "4Lx5YFIlW54lV4le4T82mt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4ff99ed4e99ee32e415a983",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4ff99ed4e99ee32e415a983",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4ff99ed4e99ee32e415a983",
+      "width": 64
+    }
+  ],
+  "label": "CHBK",
+  "name": "Ya Lili (feat. Hamouda)",
+  "popularity": 0,
+  "release_date": "2017-11-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Lx5YFIlW54lV4le4T82mt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cgw3nEf6uOQ2NqHwSXErR",
+            "id": "4cgw3nEf6uOQ2NqHwSXErR",
+            "name": "Balti",
+            "type": "artist",
+            "uri": "spotify:artist:4cgw3nEf6uOQ2NqHwSXErR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ep436ioXw7ZOJjpe1tDoN",
+            "id": "7ep436ioXw7ZOJjpe1tDoN",
+            "name": "Hamouda",
+            "type": "artist",
+            "uri": "spotify:artist:7ep436ioXw7ZOJjpe1tDoN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200412,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TZQdpK6xwY3QeS4AJz38P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TZQdpK6xwY3QeS4AJz38P",
+        "id": "5TZQdpK6xwY3QeS4AJz38P",
+        "is_local": false,
+        "name": "Ya Lili (feat. Hamouda)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5TZQdpK6xwY3QeS4AJz38P"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Lx5YFIlW54lV4le4T82mt"
+}

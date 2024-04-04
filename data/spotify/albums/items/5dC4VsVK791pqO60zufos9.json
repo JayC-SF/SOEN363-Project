@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0daugAjUgbJSqdlyYNwIbT",
+      "id": "0daugAjUgbJSqdlyYNwIbT",
+      "name": "Vicetone",
+      "type": "artist",
+      "uri": "spotify:artist:0daugAjUgbJSqdlyYNwIbT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 SpinninRecords.com",
+      "type": "C"
+    },
+    {
+      "text": "2015 SpinninRecords.com",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944490879"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dC4VsVK791pqO60zufos9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5dC4VsVK791pqO60zufos9",
+  "id": "5dC4VsVK791pqO60zufos9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273840a8641a0efe485a3a58cde",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02840a8641a0efe485a3a58cde",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851840a8641a0efe485a3a58cde",
+      "width": 64
+    }
+  ],
+  "label": "Spinnin' Records",
+  "name": "Pitch Black",
+  "popularity": 0,
+  "release_date": "2016-01-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5dC4VsVK791pqO60zufos9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0daugAjUgbJSqdlyYNwIbT",
+            "id": "0daugAjUgbJSqdlyYNwIbT",
+            "name": "Vicetone",
+            "type": "artist",
+            "uri": "spotify:artist:0daugAjUgbJSqdlyYNwIbT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174968,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tTNmSHxNX1ZrM44apIg53"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tTNmSHxNX1ZrM44apIg53",
+        "id": "1tTNmSHxNX1ZrM44apIg53",
+        "is_local": false,
+        "name": "Pitch Black",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1tTNmSHxNX1ZrM44apIg53"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5dC4VsVK791pqO60zufos9"
+}

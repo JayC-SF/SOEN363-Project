@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1iJdyDcY98X3GMnUesl7tf",
+      "id": "1iJdyDcY98X3GMnUesl7tf",
+      "name": "Comethazine",
+      "type": "artist",
+      "uri": "spotify:artist:1iJdyDcY98X3GMnUesl7tf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Alamo Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Alamo Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391094109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2YCMZE4OBWGRA23iBjiN7f"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2YCMZE4OBWGRA23iBjiN7f",
+  "id": "2YCMZE4OBWGRA23iBjiN7f",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382d14df28c43546d3913c433",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282d14df28c43546d3913c433",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182d14df28c43546d3913c433",
+      "width": 64
+    }
+  ],
+  "label": "Alamo Records",
+  "name": "Air Max",
+  "popularity": 0,
+  "release_date": "2020-09-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2YCMZE4OBWGRA23iBjiN7f/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1iJdyDcY98X3GMnUesl7tf",
+            "id": "1iJdyDcY98X3GMnUesl7tf",
+            "name": "Comethazine",
+            "type": "artist",
+            "uri": "spotify:artist:1iJdyDcY98X3GMnUesl7tf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145944,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yImW5vfQJSvj04yBFsF9w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6yImW5vfQJSvj04yBFsF9w",
+        "id": "6yImW5vfQJSvj04yBFsF9w",
+        "is_local": false,
+        "name": "Air Max",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6yImW5vfQJSvj04yBFsF9w"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2YCMZE4OBWGRA23iBjiN7f"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+      "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+      "name": "Childish Gambino",
+      "type": "artist",
+      "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 MCDJ Recording under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL",
+      "type": "C"
+    },
+    {
+      "text": "2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0044003174658"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2G9FRPp7VGiSM2cwViy10h"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2G9FRPp7VGiSM2cwViy10h",
+  "id": "2G9FRPp7VGiSM2cwViy10h",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c0a163b0674c9aa242baea9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c0a163b0674c9aa242baea9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c0a163b0674c9aa242baea9e",
+      "width": 64
+    }
+  ],
+  "label": "Glassnote Entertainment Group LLC",
+  "name": "What Kind of Love",
+  "popularity": 0,
+  "release_date": "2014-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2G9FRPp7VGiSM2cwViy10h/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+            "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "name": "Childish Gambino",
+            "type": "artist",
+            "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EUySk7Gn2No48kuaZUSli"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2EUySk7Gn2No48kuaZUSli",
+        "id": "2EUySk7Gn2No48kuaZUSli",
+        "is_local": false,
+        "name": "What Kind of Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2EUySk7Gn2No48kuaZUSli"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2G9FRPp7VGiSM2cwViy10h"
+}

@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vmOFh6rLOZVBsAMvfimr3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2vmOFh6rLOZVBsAMvfimr3",
+      "id": "2vmOFh6rLOZVBsAMvfimr3",
+      "name": "DEW",
+      "type": "artist",
+      "uri": "spotify:artist:2vmOFh6rLOZVBsAMvfimr3"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871479240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5NX8PGkcnKaJQJ5hvUdjTa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5NX8PGkcnKaJQJ5hvUdjTa",
+  "id": "5NX8PGkcnKaJQJ5hvUdjTa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d47589c1f2e1a91c86022b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d47589c1f2e1a91c86022b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d47589c1f2e1a91c86022b6",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Colorblind",
+  "popularity": 15,
+  "release_date": "2023-10-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5NX8PGkcnKaJQJ5hvUdjTa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vmOFh6rLOZVBsAMvfimr3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2vmOFh6rLOZVBsAMvfimr3",
+            "id": "2vmOFh6rLOZVBsAMvfimr3",
+            "name": "DEW",
+            "type": "artist",
+            "uri": "spotify:artist:2vmOFh6rLOZVBsAMvfimr3"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 156338,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IyUErJzOsR7MwMcZsRH7y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IyUErJzOsR7MwMcZsRH7y",
+        "id": "3IyUErJzOsR7MwMcZsRH7y",
+        "is_local": false,
+        "name": "Colorblind",
+        "preview_url": "https://p.scdn.co/mp3-preview/93cc218b8bb60817fbcb0817d925f04e4e5c5c8c?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3IyUErJzOsR7MwMcZsRH7y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5NX8PGkcnKaJQJ5hvUdjTa"
+}

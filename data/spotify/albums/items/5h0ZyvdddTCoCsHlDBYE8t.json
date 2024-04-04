@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+      },
+      "href": "https://api.spotify.com/v1/artists/0D00AEI0IWmoBtdIH75zXs",
+      "id": "0D00AEI0IWmoBtdIH75zXs",
+      "name": "Dolly Style",
+      "type": "artist",
+      "uri": "spotify:artist:0D00AEI0IWmoBtdIH75zXs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Capitol Music Group AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Capitol Music Group AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547235930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5h0ZyvdddTCoCsHlDBYE8t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5h0ZyvdddTCoCsHlDBYE8t",
+  "id": "5h0ZyvdddTCoCsHlDBYE8t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395f027e94437f453af71482b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295f027e94437f453af71482b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195f027e94437f453af71482b",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Hello Hi",
+  "popularity": 0,
+  "release_date": "2015-02-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5h0ZyvdddTCoCsHlDBYE8t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+            },
+            "href": "https://api.spotify.com/v1/artists/0D00AEI0IWmoBtdIH75zXs",
+            "id": "0D00AEI0IWmoBtdIH75zXs",
+            "name": "Dolly Style",
+            "type": "artist",
+            "uri": "spotify:artist:0D00AEI0IWmoBtdIH75zXs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178953,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VLOR0uGnxPrqmdTFWc96K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0VLOR0uGnxPrqmdTFWc96K",
+        "id": "0VLOR0uGnxPrqmdTFWc96K",
+        "is_local": false,
+        "name": "Hello Hi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0VLOR0uGnxPrqmdTFWc96K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+            },
+            "href": "https://api.spotify.com/v1/artists/0D00AEI0IWmoBtdIH75zXs",
+            "id": "0D00AEI0IWmoBtdIH75zXs",
+            "name": "Dolly Style",
+            "type": "artist",
+            "uri": "spotify:artist:0D00AEI0IWmoBtdIH75zXs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180319,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jOhTdiI93NcyDo8RNzyLj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jOhTdiI93NcyDo8RNzyLj",
+        "id": "2jOhTdiI93NcyDo8RNzyLj",
+        "is_local": false,
+        "name": "Hello Hi - Instrumental",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2jOhTdiI93NcyDo8RNzyLj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5h0ZyvdddTCoCsHlDBYE8t"
+}

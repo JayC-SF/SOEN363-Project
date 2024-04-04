@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fk8clVNrAzhHdtijlFCyr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fk8clVNrAzhHdtijlFCyr",
+      "id": "5fk8clVNrAzhHdtijlFCyr",
+      "name": "DJ.Flaco RD",
+      "type": "artist",
+      "uri": "spotify:artist:5fk8clVNrAzhHdtijlFCyr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 5825565 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 5825565 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198053218623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7hlzeoLFr5VIT2t5haUkvP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7hlzeoLFr5VIT2t5haUkvP",
+  "id": "7hlzeoLFr5VIT2t5haUkvP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273104b07aa1cbf98245ff126fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02104b07aa1cbf98245ff126fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851104b07aa1cbf98245ff126fc",
+      "width": 64
+    }
+  ],
+  "label": "5825565 Records DK",
+  "name": "I Need Your Love",
+  "popularity": 2,
+  "release_date": "2023-09-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7hlzeoLFr5VIT2t5haUkvP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fk8clVNrAzhHdtijlFCyr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fk8clVNrAzhHdtijlFCyr",
+            "id": "5fk8clVNrAzhHdtijlFCyr",
+            "name": "DJ.Flaco RD",
+            "type": "artist",
+            "uri": "spotify:artist:5fk8clVNrAzhHdtijlFCyr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 333717,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ylyLpglgc8GmWmoQiU9kw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ylyLpglgc8GmWmoQiU9kw",
+        "id": "7ylyLpglgc8GmWmoQiU9kw",
+        "is_local": false,
+        "name": "I Need Your Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ylyLpglgc8GmWmoQiU9kw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7hlzeoLFr5VIT2t5haUkvP"
+}

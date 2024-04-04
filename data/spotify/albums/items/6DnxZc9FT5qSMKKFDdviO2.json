@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+      },
+      "href": "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+      "id": "53wZLCnhshZKDRs3uopFBc",
+      "name": "Jai Paul",
+      "type": "artist",
+      "uri": "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 XL Recordings Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2019 XL Recordings Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191404098189"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6DnxZc9FT5qSMKKFDdviO2",
+  "id": "6DnxZc9FT5qSMKKFDdviO2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8bcec375525e027d13b1aa4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8bcec375525e027d13b1aa4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8bcec375525e027d13b1aa4",
+      "width": 64
+    }
+  ],
+  "label": "XL Recordings",
+  "name": "Do You Love Her Now / He",
+  "popularity": 0,
+  "release_date": "2019-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6DnxZc9FT5qSMKKFDdviO2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+            },
+            "href": "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+            "id": "53wZLCnhshZKDRs3uopFBc",
+            "name": "Jai Paul",
+            "type": "artist",
+            "uri": "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 274995,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13JjdKeIUy6P916p3MemXn",
+        "id": "13JjdKeIUy6P916p3MemXn",
+        "is_local": false,
+        "name": "Do You Love Her Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13JjdKeIUy6P916p3MemXn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+            },
+            "href": "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+            "id": "53wZLCnhshZKDRs3uopFBc",
+            "name": "Jai Paul",
+            "type": "artist",
+            "uri": "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ysRK6One7O5GiRVvrs0x1",
+        "id": "6ysRK6One7O5GiRVvrs0x1",
+        "is_local": false,
+        "name": "He",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6ysRK6One7O5GiRVvrs0x1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6DnxZc9FT5qSMKKFDdviO2"
+}

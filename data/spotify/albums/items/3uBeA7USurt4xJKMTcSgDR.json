@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PAFc1G2WeoQ4DeGKETVdi",
+      "id": "1PAFc1G2WeoQ4DeGKETVdi",
+      "name": "Diib",
+      "type": "artist",
+      "uri": "spotify:artist:1PAFc1G2WeoQ4DeGKETVdi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Chabaka",
+      "type": "C"
+    },
+    {
+      "text": "2021 Diib",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5283023961106"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uBeA7USurt4xJKMTcSgDR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3uBeA7USurt4xJKMTcSgDR",
+  "id": "3uBeA7USurt4xJKMTcSgDR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a0bf0b03bdb8b1f91da6360",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a0bf0b03bdb8b1f91da6360",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a0bf0b03bdb8b1f91da6360",
+      "width": 64
+    }
+  ],
+  "label": "diib",
+  "name": "Tafi",
+  "popularity": 0,
+  "release_date": "2021-11-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3uBeA7USurt4xJKMTcSgDR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PAFc1G2WeoQ4DeGKETVdi",
+            "id": "1PAFc1G2WeoQ4DeGKETVdi",
+            "name": "Diib",
+            "type": "artist",
+            "uri": "spotify:artist:1PAFc1G2WeoQ4DeGKETVdi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182996,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06bk0R7dn0Q6O3L8HUO4kY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06bk0R7dn0Q6O3L8HUO4kY",
+        "id": "06bk0R7dn0Q6O3L8HUO4kY",
+        "is_local": false,
+        "name": "Tafi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06bk0R7dn0Q6O3L8HUO4kY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3uBeA7USurt4xJKMTcSgDR"
+}

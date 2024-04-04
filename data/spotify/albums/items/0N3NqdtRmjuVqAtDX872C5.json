@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/27yxcnHWcxFXQLGvwzDFq9"
+      },
+      "href": "https://api.spotify.com/v1/artists/27yxcnHWcxFXQLGvwzDFq9",
+      "id": "27yxcnHWcxFXQLGvwzDFq9",
+      "name": "Barbara Cayo",
+      "type": "artist",
+      "uri": "spotify:artist:27yxcnHWcxFXQLGvwzDFq9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1997 B\u00e1rbara Cayo",
+      "type": "C"
+    },
+    {
+      "text": "1997 B\u00e1rbara Cayo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "651973301498"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0N3NqdtRmjuVqAtDX872C5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0N3NqdtRmjuVqAtDX872C5",
+  "id": "0N3NqdtRmjuVqAtDX872C5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2303d66fb135d046427da0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2303d66fb135d046427da0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2303d66fb135d046427da0c",
+      "width": 64
+    }
+  ],
+  "label": "Independiente",
+  "name": "Solamente t\u00fa",
+  "popularity": 0,
+  "release_date": "1997",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0N3NqdtRmjuVqAtDX872C5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/27yxcnHWcxFXQLGvwzDFq9"
+            },
+            "href": "https://api.spotify.com/v1/artists/27yxcnHWcxFXQLGvwzDFq9",
+            "id": "27yxcnHWcxFXQLGvwzDFq9",
+            "name": "Barbara Cayo",
+            "type": "artist",
+            "uri": "spotify:artist:27yxcnHWcxFXQLGvwzDFq9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CmpWhG5E9CtoobUjsEDeT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5CmpWhG5E9CtoobUjsEDeT",
+        "id": "5CmpWhG5E9CtoobUjsEDeT",
+        "is_local": false,
+        "name": "Solamente t\u00fa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5CmpWhG5E9CtoobUjsEDeT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0N3NqdtRmjuVqAtDX872C5"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7"
+      },
+      "href": "https://api.spotify.com/v1/artists/6RgqlEYDVX9kAnsujuG7H7",
+      "id": "6RgqlEYDVX9kAnsujuG7H7",
+      "name": "VAPA",
+      "type": "artist",
+      "uri": "spotify:artist:6RgqlEYDVX9kAnsujuG7H7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xi8imPySBhgNIoWiqBa9y"
+      },
+      "href": "https://api.spotify.com/v1/artists/0xi8imPySBhgNIoWiqBa9y",
+      "id": "0xi8imPySBhgNIoWiqBa9y",
+      "name": "Cross",
+      "type": "artist",
+      "uri": "spotify:artist:0xi8imPySBhgNIoWiqBa9y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 VAPA",
+      "type": "C"
+    },
+    {
+      "text": "2020 VAPA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3700750984908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FR6eTOFTSSDeHgFj5dBYC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FR6eTOFTSSDeHgFj5dBYC",
+  "id": "1FR6eTOFTSSDeHgFj5dBYC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27367a5b26a4e044884802323be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0267a5b26a4e044884802323be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485167a5b26a4e044884802323be",
+      "width": 64
+    }
+  ],
+  "label": "VAPA",
+  "name": "En Route",
+  "popularity": 0,
+  "release_date": "2020-08-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FR6eTOFTSSDeHgFj5dBYC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0xi8imPySBhgNIoWiqBa9y"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xi8imPySBhgNIoWiqBa9y",
+            "id": "0xi8imPySBhgNIoWiqBa9y",
+            "name": "Cross",
+            "type": "artist",
+            "uri": "spotify:artist:0xi8imPySBhgNIoWiqBa9y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RgqlEYDVX9kAnsujuG7H7",
+            "id": "6RgqlEYDVX9kAnsujuG7H7",
+            "name": "VAPA",
+            "type": "artist",
+            "uri": "spotify:artist:6RgqlEYDVX9kAnsujuG7H7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257851,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7p2QFEeQmDl7M5G3gultr1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7p2QFEeQmDl7M5G3gultr1",
+        "id": "7p2QFEeQmDl7M5G3gultr1",
+        "is_local": false,
+        "name": "En Route",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7p2QFEeQmDl7M5G3gultr1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1FR6eTOFTSSDeHgFj5dBYC"
+}

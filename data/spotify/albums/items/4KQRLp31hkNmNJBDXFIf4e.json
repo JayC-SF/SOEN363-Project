@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7aFhfAl5HIGBcmdjI8rBHS"
+      },
+      "href": "https://api.spotify.com/v1/artists/7aFhfAl5HIGBcmdjI8rBHS",
+      "id": "7aFhfAl5HIGBcmdjI8rBHS",
+      "name": "Bloxernicc",
+      "type": "artist",
+      "uri": "spotify:artist:7aFhfAl5HIGBcmdjI8rBHS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016, Bloxernicc",
+      "type": "C"
+    },
+    {
+      "text": "2016, Bloxernicc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195712247482"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KQRLp31hkNmNJBDXFIf4e"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4KQRLp31hkNmNJBDXFIf4e",
+  "id": "4KQRLp31hkNmNJBDXFIf4e",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a171b38cce351d1c0f006648",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a171b38cce351d1c0f006648",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a171b38cce351d1c0f006648",
+      "width": 64
+    }
+  ],
+  "label": "Bloxernicc",
+  "name": "Noob Song",
+  "popularity": 3,
+  "release_date": "2016-11-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4KQRLp31hkNmNJBDXFIf4e/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aFhfAl5HIGBcmdjI8rBHS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aFhfAl5HIGBcmdjI8rBHS",
+            "id": "7aFhfAl5HIGBcmdjI8rBHS",
+            "name": "Bloxernicc",
+            "type": "artist",
+            "uri": "spotify:artist:7aFhfAl5HIGBcmdjI8rBHS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152671,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MpN1scXmyNEWjNklwEP9O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5MpN1scXmyNEWjNklwEP9O",
+        "id": "5MpN1scXmyNEWjNklwEP9O",
+        "is_local": false,
+        "name": "Noob Song",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5MpN1scXmyNEWjNklwEP9O"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4KQRLp31hkNmNJBDXFIf4e"
+}

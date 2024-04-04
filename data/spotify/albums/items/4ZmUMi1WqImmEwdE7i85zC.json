@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+      },
+      "href": "https://api.spotify.com/v1/artists/0iMnpaEHXkgMT956CmP1kj",
+      "id": "0iMnpaEHXkgMT956CmP1kj",
+      "name": "The Dangerous Summer",
+      "type": "artist",
+      "uri": "spotify:artist:0iMnpaEHXkgMT956CmP1kj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Molly Water Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Molly Water Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395157290"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZmUMi1WqImmEwdE7i85zC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZmUMi1WqImmEwdE7i85zC",
+  "id": "4ZmUMi1WqImmEwdE7i85zC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5cade363ad553da186f2e2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5cade363ad553da186f2e2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5cade363ad553da186f2e2e",
+      "width": 64
+    }
+  ],
+  "label": "Molly Water Music",
+  "name": "Fuck Them All",
+  "popularity": 0,
+  "release_date": "2020-07-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZmUMi1WqImmEwdE7i85zC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+            },
+            "href": "https://api.spotify.com/v1/artists/0iMnpaEHXkgMT956CmP1kj",
+            "id": "0iMnpaEHXkgMT956CmP1kj",
+            "name": "The Dangerous Summer",
+            "type": "artist",
+            "uri": "spotify:artist:0iMnpaEHXkgMT956CmP1kj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XTKO227Jtu81Ni41Fi9Gj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XTKO227Jtu81Ni41Fi9Gj",
+        "id": "5XTKO227Jtu81Ni41Fi9Gj",
+        "is_local": false,
+        "name": "Fuck Them All",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5XTKO227Jtu81Ni41Fi9Gj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZmUMi1WqImmEwdE7i85zC"
+}

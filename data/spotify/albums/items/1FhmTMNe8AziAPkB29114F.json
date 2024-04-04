@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "name": "Rex Orange County",
+      "type": "artist",
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Rex Orange County",
+      "type": "C"
+    },
+    {
+      "text": "2017 Rex Orange County",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526415447"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FhmTMNe8AziAPkB29114F",
+  "id": "1FhmTMNe8AziAPkB29114F",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315f4cfd072793fa7532e674a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215f4cfd072793fa7532e674a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115f4cfd072793fa7532e674a",
+      "width": 64
+    }
+  ],
+  "label": "Rex Orange County",
+  "name": "Sunflower",
+  "popularity": 0,
+  "release_date": "2017-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FhmTMNe8AziAPkB29114F/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252230,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4EpZ4eYuZOwPSSwyqpdHnJ",
+        "id": "4EpZ4eYuZOwPSSwyqpdHnJ",
+        "is_local": false,
+        "name": "Sunflower",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1FhmTMNe8AziAPkB29114F"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HyuVyBL4O5dvdalaDhjwS",
+      "id": "1HyuVyBL4O5dvdalaDhjwS",
+      "name": "Daegho",
+      "type": "artist",
+      "uri": "spotify:artist:1HyuVyBL4O5dvdalaDhjwS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 OUTCAST BLOCK",
+      "type": "C"
+    },
+    {
+      "text": "2020 OUTCAST BLOCK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195598065408"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78q9UtxUAcU2YHqQ2bVS6Q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78q9UtxUAcU2YHqQ2bVS6Q",
+  "id": "78q9UtxUAcU2YHqQ2bVS6Q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355b8084f1ff50f4134eafb5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255b8084f1ff50f4134eafb5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155b8084f1ff50f4134eafb5b",
+      "width": 64
+    }
+  ],
+  "label": "OUTCAST BLOCK",
+  "name": "Eye 4 an Eye",
+  "popularity": 0,
+  "release_date": "2020-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78q9UtxUAcU2YHqQ2bVS6Q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HyuVyBL4O5dvdalaDhjwS",
+            "id": "1HyuVyBL4O5dvdalaDhjwS",
+            "name": "Daegho",
+            "type": "artist",
+            "uri": "spotify:artist:1HyuVyBL4O5dvdalaDhjwS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128294,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BRfgJykWmeq8lhwEZj0jq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BRfgJykWmeq8lhwEZj0jq",
+        "id": "0BRfgJykWmeq8lhwEZj0jq",
+        "is_local": false,
+        "name": "Eye 4 an Eye",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BRfgJykWmeq8lhwEZj0jq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78q9UtxUAcU2YHqQ2bVS6Q"
+}

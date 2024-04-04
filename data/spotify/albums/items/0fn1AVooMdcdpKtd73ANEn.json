@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3H07dNLciWQAMwBFTs26nO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3H07dNLciWQAMwBFTs26nO",
+      "id": "3H07dNLciWQAMwBFTs26nO",
+      "name": "17DaLabel",
+      "type": "artist",
+      "uri": "spotify:artist:3H07dNLciWQAMwBFTs26nO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 17DaLabel",
+      "type": "C"
+    },
+    {
+      "text": "2023 17DaLabel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197875753510"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0fn1AVooMdcdpKtd73ANEn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0fn1AVooMdcdpKtd73ANEn",
+  "id": "0fn1AVooMdcdpKtd73ANEn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731457815b0a7fdde5456f2437",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021457815b0a7fdde5456f2437",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511457815b0a7fdde5456f2437",
+      "width": 64
+    }
+  ],
+  "label": "17DaLabel",
+  "name": "Backdoor",
+  "popularity": 27,
+  "release_date": "2023-09-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0fn1AVooMdcdpKtd73ANEn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3H07dNLciWQAMwBFTs26nO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3H07dNLciWQAMwBFTs26nO",
+            "id": "3H07dNLciWQAMwBFTs26nO",
+            "name": "17DaLabel",
+            "type": "artist",
+            "uri": "spotify:artist:3H07dNLciWQAMwBFTs26nO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125588,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aBbTo0zkCb8GfptrZvbWf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6aBbTo0zkCb8GfptrZvbWf",
+        "id": "6aBbTo0zkCb8GfptrZvbWf",
+        "is_local": false,
+        "name": "Backdoor",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6aBbTo0zkCb8GfptrZvbWf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0fn1AVooMdcdpKtd73ANEn"
+}

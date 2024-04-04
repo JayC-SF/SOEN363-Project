@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
+      },
+      "href": "https://api.spotify.com/v1/artists/0okpgBQamDqOZazBeH0J3I",
+      "id": "0okpgBQamDqOZazBeH0J3I",
+      "name": "Unknown Brain",
+      "type": "artist",
+      "uri": "spotify:artist:0okpgBQamDqOZazBeH0J3I"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Wpn7BDRJ8oq7CcF1EufWI",
+      "id": "5Wpn7BDRJ8oq7CcF1EufWI",
+      "name": "Chris Linton",
+      "type": "artist",
+      "uri": "spotify:artist:5Wpn7BDRJ8oq7CcF1EufWI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2016 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199517056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2TKC9e7mRbxOVx1HbgKHR0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2TKC9e7mRbxOVx1HbgKHR0",
+  "id": "2TKC9e7mRbxOVx1HbgKHR0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f0aaf32a1b1ded2b1095d95",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021f0aaf32a1b1ded2b1095d95",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511f0aaf32a1b1ded2b1095d95",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Superhero",
+  "popularity": 0,
+  "release_date": "2016-11-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2TKC9e7mRbxOVx1HbgKHR0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
+            },
+            "href": "https://api.spotify.com/v1/artists/0okpgBQamDqOZazBeH0J3I",
+            "id": "0okpgBQamDqOZazBeH0J3I",
+            "name": "Unknown Brain",
+            "type": "artist",
+            "uri": "spotify:artist:0okpgBQamDqOZazBeH0J3I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Wpn7BDRJ8oq7CcF1EufWI",
+            "id": "5Wpn7BDRJ8oq7CcF1EufWI",
+            "name": "Chris Linton",
+            "type": "artist",
+            "uri": "spotify:artist:5Wpn7BDRJ8oq7CcF1EufWI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179224,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EYv3adMrIC5mqurz7fHhD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EYv3adMrIC5mqurz7fHhD",
+        "id": "7EYv3adMrIC5mqurz7fHhD",
+        "is_local": false,
+        "name": "Superhero",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7EYv3adMrIC5mqurz7fHhD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2TKC9e7mRbxOVx1HbgKHR0"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7AzjETXRUKNRSJHMW9GIqd",
+      "id": "7AzjETXRUKNRSJHMW9GIqd",
+      "name": "Nina Nesbitt",
+      "type": "artist",
+      "uri": "spotify:artist:7AzjETXRUKNRSJHMW9GIqd"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2018 Cooking Vinyl Limited under exclusive licence to Starwatch Entertainment GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446938493"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2P0XH3QR5ZGumx1ShxkSvA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2P0XH3QR5ZGumx1ShxkSvA",
+  "id": "2P0XH3QR5ZGumx1ShxkSvA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f357ecc0d2a9f098357115be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f357ecc0d2a9f098357115be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f357ecc0d2a9f098357115be",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music/Seven.One Starwatch",
+  "name": "Somebody Special",
+  "popularity": 11,
+  "release_date": "2018-01-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2P0XH3QR5ZGumx1ShxkSvA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+            },
+            "href": "https://api.spotify.com/v1/artists/7AzjETXRUKNRSJHMW9GIqd",
+            "id": "7AzjETXRUKNRSJHMW9GIqd",
+            "name": "Nina Nesbitt",
+            "type": "artist",
+            "uri": "spotify:artist:7AzjETXRUKNRSJHMW9GIqd"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "CH",
+          "DE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198658,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16qL4QnsTjnNNoChtGg01j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16qL4QnsTjnNNoChtGg01j",
+        "id": "16qL4QnsTjnNNoChtGg01j",
+        "is_local": false,
+        "name": "Somebody Special",
+        "preview_url": "https://p.scdn.co/mp3-preview/74b1242dbc4374851135ce998d07fcc30b883a1a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16qL4QnsTjnNNoChtGg01j"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2P0XH3QR5ZGumx1ShxkSvA"
+}

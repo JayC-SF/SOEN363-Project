@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZhXMVV5iZrnrKUIMEhuFW"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZhXMVV5iZrnrKUIMEhuFW",
+      "id": "1ZhXMVV5iZrnrKUIMEhuFW",
+      "name": "Earthquake Lights",
+      "type": "artist",
+      "uri": "spotify:artist:1ZhXMVV5iZrnrKUIMEhuFW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 C2 Management",
+      "type": "C"
+    },
+    {
+      "text": "2022 C2 Management",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "732138237392"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4de6UhKBrZmBacJKSV3J3B"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4de6UhKBrZmBacJKSV3J3B",
+  "id": "4de6UhKBrZmBacJKSV3J3B",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a97cce19ca540f81c3f4edf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a97cce19ca540f81c3f4edf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a97cce19ca540f81c3f4edf",
+      "width": 64
+    }
+  ],
+  "label": "C2 Management",
+  "name": "Another Star",
+  "popularity": 0,
+  "release_date": "2022-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4de6UhKBrZmBacJKSV3J3B/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZhXMVV5iZrnrKUIMEhuFW"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZhXMVV5iZrnrKUIMEhuFW",
+            "id": "1ZhXMVV5iZrnrKUIMEhuFW",
+            "name": "Earthquake Lights",
+            "type": "artist",
+            "uri": "spotify:artist:1ZhXMVV5iZrnrKUIMEhuFW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 294066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31B3aXOVem4hH2bO45VkXl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31B3aXOVem4hH2bO45VkXl",
+        "id": "31B3aXOVem4hH2bO45VkXl",
+        "is_local": false,
+        "name": "Another Star",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:31B3aXOVem4hH2bO45VkXl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4de6UhKBrZmBacJKSV3J3B"
+}

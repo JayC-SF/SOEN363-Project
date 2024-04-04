@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
+      "id": "5ZsFI1h6hIdQRw2ti0hz81",
+      "name": "ZAYN",
+      "type": "artist",
+      "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Universal Studios",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Universal Studios",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557372502"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5MxXY7DbFMUiHFTPUabgJJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5MxXY7DbFMUiHFTPUabgJJ",
+  "id": "5MxXY7DbFMUiHFTPUabgJJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022ae921f082ae5db4d3da818f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512ae921f082ae5db4d3da818f",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+  "popularity": 0,
+  "release_date": "2016-12-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5MxXY7DbFMUiHFTPUabgJJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
+            "id": "5ZsFI1h6hIdQRw2ti0hz81",
+            "name": "ZAYN",
+            "type": "artist",
+            "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3NdDpSvN911VPGivFlV5d0",
+        "id": "3NdDpSvN911VPGivFlV5d0",
+        "is_local": false,
+        "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3NdDpSvN911VPGivFlV5d0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5MxXY7DbFMUiHFTPUabgJJ"
+}

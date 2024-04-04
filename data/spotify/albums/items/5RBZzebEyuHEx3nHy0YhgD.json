@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+      },
+      "href": "https://api.spotify.com/v1/artists/6BV37tKh6pY97mnNdTCzly",
+      "id": "6BV37tKh6pY97mnNdTCzly",
+      "name": "El Malilla",
+      "type": "artist",
+      "uri": "spotify:artist:6BV37tKh6pY97mnNdTCzly"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+      },
+      "href": "https://api.spotify.com/v1/artists/1w4C4n43HhI5bgubu3iIsI",
+      "id": "1w4C4n43HhI5bgubu3iIsI",
+      "name": "Nando Produce",
+      "type": "artist",
+      "uri": "spotify:artist:1w4C4n43HhI5bgubu3iIsI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Esquina Inc",
+      "type": "C"
+    },
+    {
+      "text": "2022 Esquina Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198002922601"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5RBZzebEyuHEx3nHy0YhgD",
+  "id": "5RBZzebEyuHEx3nHy0YhgD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732585c91407fb26036999a5bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022585c91407fb26036999a5bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512585c91407fb26036999a5bd",
+      "width": 64
+    }
+  ],
+  "label": "Esquina Inc",
+  "name": "Barbie Ven",
+  "popularity": 0,
+  "release_date": "2022-01-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5RBZzebEyuHEx3nHy0YhgD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BV37tKh6pY97mnNdTCzly",
+            "id": "6BV37tKh6pY97mnNdTCzly",
+            "name": "El Malilla",
+            "type": "artist",
+            "uri": "spotify:artist:6BV37tKh6pY97mnNdTCzly"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1w4C4n43HhI5bgubu3iIsI",
+            "id": "1w4C4n43HhI5bgubu3iIsI",
+            "name": "Nando Produce",
+            "type": "artist",
+            "uri": "spotify:artist:1w4C4n43HhI5bgubu3iIsI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160942,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FnzbCfyXlz6pgPLkptZbr",
+        "id": "2FnzbCfyXlz6pgPLkptZbr",
+        "is_local": false,
+        "name": "Barbie Ven",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2FnzbCfyXlz6pgPLkptZbr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5RBZzebEyuHEx3nHy0YhgD"
+}

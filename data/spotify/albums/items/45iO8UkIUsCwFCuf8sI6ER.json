@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+      },
+      "href": "https://api.spotify.com/v1/artists/2yLzlEFtIS0Q9UkyBZdQA7",
+      "id": "2yLzlEFtIS0Q9UkyBZdQA7",
+      "name": "Jessie Murph",
+      "type": "artist",
+      "uri": "spotify:artist:2yLzlEFtIS0Q9UkyBZdQA7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2022 Jessie Murph under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196589503329"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/45iO8UkIUsCwFCuf8sI6ER",
+  "id": "45iO8UkIUsCwFCuf8sI6ER",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef0a3fd1b298a9b50defb8ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef0a3fd1b298a9b50defb8ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef0a3fd1b298a9b50defb8ba",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "How Could You",
+  "popularity": 1,
+  "release_date": "2022-10-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/45iO8UkIUsCwFCuf8sI6ER/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yLzlEFtIS0Q9UkyBZdQA7",
+            "id": "2yLzlEFtIS0Q9UkyBZdQA7",
+            "name": "Jessie Murph",
+            "type": "artist",
+            "uri": "spotify:artist:2yLzlEFtIS0Q9UkyBZdQA7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187813,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fkxcbBBsV7keJPnNfNf2L",
+        "id": "7fkxcbBBsV7keJPnNfNf2L",
+        "is_local": false,
+        "name": "How Could You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7fkxcbBBsV7keJPnNfNf2L"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:45iO8UkIUsCwFCuf8sI6ER"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+      },
+      "href": "https://api.spotify.com/v1/artists/5EiDVD35ofoSKq1KE0jcs8",
+      "id": "5EiDVD35ofoSKq1KE0jcs8",
+      "name": "Izzamuzzic",
+      "type": "artist",
+      "uri": "spotify:artist:5EiDVD35ofoSKq1KE0jcs8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Three Dot House",
+      "type": "C"
+    },
+    {
+      "text": "2016 Three Dot House",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054282276610"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3cp7zy47OEnxEEaqNDtSkz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3cp7zy47OEnxEEaqNDtSkz",
+  "id": "3cp7zy47OEnxEEaqNDtSkz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ddc9ce5a8df300a2eae78d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020ddc9ce5a8df300a2eae78d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510ddc9ce5a8df300a2eae78d8",
+      "width": 64
+    }
+  ],
+  "label": "Three Dot House",
+  "name": "Adventure",
+  "popularity": 0,
+  "release_date": "2016-04-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3cp7zy47OEnxEEaqNDtSkz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5EiDVD35ofoSKq1KE0jcs8",
+            "id": "5EiDVD35ofoSKq1KE0jcs8",
+            "name": "Izzamuzzic",
+            "type": "artist",
+            "uri": "spotify:artist:5EiDVD35ofoSKq1KE0jcs8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 319225,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mxpWt3f6U2lG0uzlimbKG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7mxpWt3f6U2lG0uzlimbKG",
+        "id": "7mxpWt3f6U2lG0uzlimbKG",
+        "is_local": false,
+        "name": "Adventure",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7mxpWt3f6U2lG0uzlimbKG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3cp7zy47OEnxEEaqNDtSkz"
+}

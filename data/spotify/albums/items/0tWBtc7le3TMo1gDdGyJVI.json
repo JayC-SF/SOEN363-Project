@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+      },
+      "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+      "id": "3hv9jJF3adDNsBSIQDqcjp",
+      "name": "Mark Ronson",
+      "type": "artist",
+      "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2014 Mark Ronson under exclusive licence to Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444933049"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0tWBtc7le3TMo1gDdGyJVI",
+  "id": "0tWBtc7le3TMo1gDdGyJVI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f39cf5ac73db13318eebd38e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f39cf5ac73db13318eebd38e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f39cf5ac73db13318eebd38e",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Uptown Funk (feat. Bruno Mars)",
+  "popularity": 24,
+  "release_date": "2014-11-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0tWBtc7le3TMo1gDdGyJVI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+            "id": "3hv9jJF3adDNsBSIQDqcjp",
+            "name": "Mark Ronson",
+            "type": "artist",
+            "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270626,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4rmPQGwcLQjCoFq5NrTA0D",
+        "id": "4rmPQGwcLQjCoFq5NrTA0D",
+        "is_local": false,
+        "name": "Uptown Funk (feat. Bruno Mars)",
+        "preview_url": "https://p.scdn.co/mp3-preview/3074e956e6794c0eadea660b9cef671db6b27234?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4rmPQGwcLQjCoFq5NrTA0D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0tWBtc7le3TMo1gDdGyJVI"
+}

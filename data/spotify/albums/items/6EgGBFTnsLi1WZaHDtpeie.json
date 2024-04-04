@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+      "id": "2mLA48B366zkELXYx7hcDN",
+      "name": "Peggy Gou",
+      "type": "artist",
+      "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Gudu Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Gudu Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060670883261"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6EgGBFTnsLi1WZaHDtpeie",
+  "id": "6EgGBFTnsLi1WZaHDtpeie",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374ac2cdc993ce37687b3ead7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274ac2cdc993ce37687b3ead7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174ac2cdc993ce37687b3ead7",
+      "width": 64
+    }
+  ],
+  "label": "Gudu Records",
+  "name": "Starry Night",
+  "popularity": 12,
+  "release_date": "2019-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6EgGBFTnsLi1WZaHDtpeie/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+            "id": "2mLA48B366zkELXYx7hcDN",
+            "name": "Peggy Gou",
+            "type": "artist",
+            "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 398598,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xwzmfxNAxZwMjznQ0eVXL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xwzmfxNAxZwMjznQ0eVXL",
+        "id": "5xwzmfxNAxZwMjznQ0eVXL",
+        "is_local": false,
+        "name": "Starry Night - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5xwzmfxNAxZwMjznQ0eVXL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+            "id": "2mLA48B366zkELXYx7hcDN",
+            "name": "Peggy Gou",
+            "type": "artist",
+            "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233978,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2NeSirLM2VHQW4upn0nMfB",
+        "id": "2NeSirLM2VHQW4upn0nMfB",
+        "is_local": false,
+        "name": "Starry Night - Edit",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2NeSirLM2VHQW4upn0nMfB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6EgGBFTnsLi1WZaHDtpeie"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HPqVfdPh9JkBSlFG5hK6h",
+      "id": "2HPqVfdPh9JkBSlFG5hK6h",
+      "name": "anees",
+      "type": "artist",
+      "uri": "spotify:artist:2HPqVfdPh9JkBSlFG5hK6h"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Anees LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Anees LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196053730206"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4FYt2ycWupuX8zePf7Ps1g",
+  "id": "4FYt2ycWupuX8zePf7Ps1g",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a08b84c7c4e8573d72cb8a6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a08b84c7c4e8573d72cb8a6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a08b84c7c4e8573d72cb8a6c",
+      "width": 64
+    }
+  ],
+  "label": "Anees LLC",
+  "name": "slip",
+  "popularity": 0,
+  "release_date": "2021-04-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4FYt2ycWupuX8zePf7Ps1g/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HPqVfdPh9JkBSlFG5hK6h",
+            "id": "2HPqVfdPh9JkBSlFG5hK6h",
+            "name": "anees",
+            "type": "artist",
+            "uri": "spotify:artist:2HPqVfdPh9JkBSlFG5hK6h"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183124,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VEltwNocXM7dVGSdkAs7A",
+        "id": "3VEltwNocXM7dVGSdkAs7A",
+        "is_local": false,
+        "name": "slip",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3VEltwNocXM7dVGSdkAs7A"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4FYt2ycWupuX8zePf7Ps1g"
+}

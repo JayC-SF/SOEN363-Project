@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zZ88AwlTwfCJkowsFCvLA",
+      "id": "3zZ88AwlTwfCJkowsFCvLA",
+      "name": "Babyface Ray",
+      "type": "artist",
+      "uri": "spotify:artist:3zZ88AwlTwfCJkowsFCvLA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 BabyFace Ray",
+      "type": "C"
+    },
+    {
+      "text": "2019 BabyFace Ray",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859731510117"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2dgv1nA0cmCqbWrLHIeJ5W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2dgv1nA0cmCqbWrLHIeJ5W",
+  "id": "2dgv1nA0cmCqbWrLHIeJ5W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e3de93684e0053f769eeb96c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e3de93684e0053f769eeb96c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e3de93684e0053f769eeb96c",
+      "width": 64
+    }
+  ],
+  "label": "BabyFace Ray",
+  "name": "My Thoughts, Pt. II",
+  "popularity": 0,
+  "release_date": "2019-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2dgv1nA0cmCqbWrLHIeJ5W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zZ88AwlTwfCJkowsFCvLA",
+            "id": "3zZ88AwlTwfCJkowsFCvLA",
+            "name": "Babyface Ray",
+            "type": "artist",
+            "uri": "spotify:artist:3zZ88AwlTwfCJkowsFCvLA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200132,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X6soFQ93ztnMqwoBy6eiw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5X6soFQ93ztnMqwoBy6eiw",
+        "id": "5X6soFQ93ztnMqwoBy6eiw",
+        "is_local": false,
+        "name": "My Thoughts, Pt. II",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5X6soFQ93ztnMqwoBy6eiw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2dgv1nA0cmCqbWrLHIeJ5W"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PvnP3yCzrT289cX3wCdOx",
+      "id": "4PvnP3yCzrT289cX3wCdOx",
+      "name": "Yung Hurn",
+      "type": "artist",
+      "uri": "spotify:artist:4PvnP3yCzrT289cX3wCdOx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Live From Earth",
+      "type": "C"
+    },
+    {
+      "text": "2017 Live From Earth",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614976071802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2LTYEsJOr46SeXwv6CPM9P"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2LTYEsJOr46SeXwv6CPM9P",
+  "id": "2LTYEsJOr46SeXwv6CPM9P",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355ca7e509945277c839c39ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255ca7e509945277c839c39ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155ca7e509945277c839c39ba",
+      "width": 64
+    }
+  ],
+  "label": "Live From Earth",
+  "name": "Popo",
+  "popularity": 0,
+  "release_date": "2017-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2LTYEsJOr46SeXwv6CPM9P/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PvnP3yCzrT289cX3wCdOx",
+            "id": "4PvnP3yCzrT289cX3wCdOx",
+            "name": "Yung Hurn",
+            "type": "artist",
+            "uri": "spotify:artist:4PvnP3yCzrT289cX3wCdOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 258000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GuShXbva4qJjSdFgrALwo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6GuShXbva4qJjSdFgrALwo",
+        "id": "6GuShXbva4qJjSdFgrALwo",
+        "is_local": false,
+        "name": "Popo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6GuShXbva4qJjSdFgrALwo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2LTYEsJOr46SeXwv6CPM9P"
+}

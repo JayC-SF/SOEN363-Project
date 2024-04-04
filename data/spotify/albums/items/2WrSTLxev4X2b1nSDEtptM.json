@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20quvV2hf4N3CjnpZ0lYZJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/20quvV2hf4N3CjnpZ0lYZJ",
+      "id": "20quvV2hf4N3CjnpZ0lYZJ",
+      "name": "Lu",
+      "type": "artist",
+      "uri": "spotify:artist:20quvV2hf4N3CjnpZ0lYZJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 1004825 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2018 1004825 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193537792149"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2WrSTLxev4X2b1nSDEtptM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2WrSTLxev4X2b1nSDEtptM",
+  "id": "2WrSTLxev4X2b1nSDEtptM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735b57d6c0d5659834d67c29e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025b57d6c0d5659834d67c29e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515b57d6c0d5659834d67c29e6",
+      "width": 64
+    }
+  ],
+  "label": "1004825 Records DK",
+  "name": "Loving Freestyle",
+  "popularity": 0,
+  "release_date": "2018-10-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2WrSTLxev4X2b1nSDEtptM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20quvV2hf4N3CjnpZ0lYZJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/20quvV2hf4N3CjnpZ0lYZJ",
+            "id": "20quvV2hf4N3CjnpZ0lYZJ",
+            "name": "Lu",
+            "type": "artist",
+            "uri": "spotify:artist:20quvV2hf4N3CjnpZ0lYZJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198791,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5L6EeE9AWwSoiAGBsdbrwN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5L6EeE9AWwSoiAGBsdbrwN",
+        "id": "5L6EeE9AWwSoiAGBsdbrwN",
+        "is_local": false,
+        "name": "Loving Freestyle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5L6EeE9AWwSoiAGBsdbrwN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2WrSTLxev4X2b1nSDEtptM"
+}

@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jg1EbpTL27toPdfzveorJ",
+      "id": "6jg1EbpTL27toPdfzveorJ",
+      "name": "Ken Boothe",
+      "type": "artist",
+      "uri": "spotify:artist:6jg1EbpTL27toPdfzveorJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+      },
+      "href": "https://api.spotify.com/v1/artists/50UQHipbWWMFQiT6DZYvHN",
+      "id": "50UQHipbWWMFQiT6DZYvHN",
+      "name": "Hugo Lobo",
+      "type": "artist",
+      "uri": "spotify:artist:50UQHipbWWMFQiT6DZYvHN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Liquidator Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Liquidator Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8429006317059"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ywZD8zbafMCfW5fPEuJpH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ywZD8zbafMCfW5fPEuJpH",
+  "id": "4ywZD8zbafMCfW5fPEuJpH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345c401fbafa3b8431f41065b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245c401fbafa3b8431f41065b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145c401fbafa3b8431f41065b",
+      "width": 64
+    }
+  ],
+  "label": "Liquidator Music",
+  "name": "Master Plan",
+  "popularity": 0,
+  "release_date": "2018-11-29",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ywZD8zbafMCfW5fPEuJpH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jg1EbpTL27toPdfzveorJ",
+            "id": "6jg1EbpTL27toPdfzveorJ",
+            "name": "Ken Boothe",
+            "type": "artist",
+            "uri": "spotify:artist:6jg1EbpTL27toPdfzveorJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233437,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4yP5SnP2kUSjGst3Bm1Mr1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4yP5SnP2kUSjGst3Bm1Mr1",
+        "id": "4yP5SnP2kUSjGst3Bm1Mr1",
+        "is_local": false,
+        "name": "Master Plan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4yP5SnP2kUSjGst3Bm1Mr1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+            },
+            "href": "https://api.spotify.com/v1/artists/50UQHipbWWMFQiT6DZYvHN",
+            "id": "50UQHipbWWMFQiT6DZYvHN",
+            "name": "Hugo Lobo",
+            "type": "artist",
+            "uri": "spotify:artist:50UQHipbWWMFQiT6DZYvHN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233468,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gPliijZBk7cNQ6wIABdRr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0gPliijZBk7cNQ6wIABdRr",
+        "id": "0gPliijZBk7cNQ6wIABdRr",
+        "is_local": false,
+        "name": "Laba Laba Craven",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0gPliijZBk7cNQ6wIABdRr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4ywZD8zbafMCfW5fPEuJpH"
+}

@@ -1,0 +1,370 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+      "id": "1ZrBGJWLL8NiAjgNifCy90",
+      "name": "Smith & Thell",
+      "type": "artist",
+      "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Playground Music Scandinavia AB",
+      "type": "C"
+    },
+    {
+      "text": "2021 Playground Music Scandinavia AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7332181104950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7iUoettxCnwOdJIBeydSy1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7iUoettxCnwOdJIBeydSy1",
+  "id": "7iUoettxCnwOdJIBeydSy1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b9b549438f5b3b5581feded",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b9b549438f5b3b5581feded",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b9b549438f5b3b5581feded",
+      "width": 64
+    }
+  ],
+  "label": "Playground Music",
+  "name": "Pixie's Parasol",
+  "popularity": 1,
+  "release_date": "2021-02-05",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7iUoettxCnwOdJIBeydSy1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eQ9gfBnNfT2JKZ4neQ5sj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eQ9gfBnNfT2JKZ4neQ5sj",
+        "id": "0eQ9gfBnNfT2JKZ4neQ5sj",
+        "is_local": false,
+        "name": "Radioactive Rain",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0eQ9gfBnNfT2JKZ4neQ5sj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KbIWjbvfHnlaP4HEQFqlC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KbIWjbvfHnlaP4HEQFqlC",
+        "id": "7KbIWjbvfHnlaP4HEQFqlC",
+        "is_local": false,
+        "name": "Year of the Young",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7KbIWjbvfHnlaP4HEQFqlC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT"
+            },
+            "href": "https://api.spotify.com/v1/artists/599aGczoZFptUe5tbS43LT",
+            "id": "599aGczoZFptUe5tbS43LT",
+            "name": "Swedish Jam Factory",
+            "type": "artist",
+            "uri": "spotify:artist:599aGczoZFptUe5tbS43LT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eoXBfIMYR9EzKxG78SbVN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1eoXBfIMYR9EzKxG78SbVN",
+        "id": "1eoXBfIMYR9EzKxG78SbVN",
+        "is_local": false,
+        "name": "Forgive Me Friend",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1eoXBfIMYR9EzKxG78SbVN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18Tov7aGJbSkKU9tc8DOti"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18Tov7aGJbSkKU9tc8DOti",
+        "id": "18Tov7aGJbSkKU9tc8DOti",
+        "is_local": false,
+        "name": "Nangilima",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:18Tov7aGJbSkKU9tc8DOti"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230933,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UKZyeTptlBLkZkZtHlGm6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UKZyeTptlBLkZkZtHlGm6",
+        "id": "0UKZyeTptlBLkZkZtHlGm6",
+        "is_local": false,
+        "name": "Alice",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0UKZyeTptlBLkZkZtHlGm6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3R8aoBj8ksrQy7Af5CWilW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3R8aoBj8ksrQy7Af5CWilW",
+        "id": "3R8aoBj8ksrQy7Af5CWilW",
+        "is_local": false,
+        "name": "Goliath",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3R8aoBj8ksrQy7Af5CWilW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40xnNb4VYbAB0CJUVth89G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40xnNb4VYbAB0CJUVth89G",
+        "id": "40xnNb4VYbAB0CJUVth89G",
+        "is_local": false,
+        "name": "Hotel Walls",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:40xnNb4VYbAB0CJUVth89G"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qUAsG0F9PlfGIiHmSNm1d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qUAsG0F9PlfGIiHmSNm1d",
+        "id": "2qUAsG0F9PlfGIiHmSNm1d",
+        "is_local": false,
+        "name": "Yatzy",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2qUAsG0F9PlfGIiHmSNm1d"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5j38LHEfeQEHpzvUuHWRCq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5j38LHEfeQEHpzvUuHWRCq",
+        "id": "5j38LHEfeQEHpzvUuHWRCq",
+        "is_local": false,
+        "name": "Telephone Wires",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5j38LHEfeQEHpzvUuHWRCq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZrBGJWLL8NiAjgNifCy90",
+            "id": "1ZrBGJWLL8NiAjgNifCy90",
+            "name": "Smith & Thell",
+            "type": "artist",
+            "uri": "spotify:artist:1ZrBGJWLL8NiAjgNifCy90"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fTUhpQv6Hk5KTFMAKTvPS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fTUhpQv6Hk5KTFMAKTvPS",
+        "id": "0fTUhpQv6Hk5KTFMAKTvPS",
+        "is_local": false,
+        "name": "Parallel Universe",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0fTUhpQv6Hk5KTFMAKTvPS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:7iUoettxCnwOdJIBeydSy1"
+}

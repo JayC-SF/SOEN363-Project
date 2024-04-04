@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SG0vFYTVCYgxsz5KEa1di"
+      },
+      "href": "https://api.spotify.com/v1/artists/1SG0vFYTVCYgxsz5KEa1di",
+      "id": "1SG0vFYTVCYgxsz5KEa1di",
+      "name": "Arkaeo",
+      "type": "artist",
+      "uri": "spotify:artist:1SG0vFYTVCYgxsz5KEa1di"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YNpfkvXN1FbnjFOjFthcS",
+      "id": "2YNpfkvXN1FbnjFOjFthcS",
+      "name": "Dear Me",
+      "type": "artist",
+      "uri": "spotify:artist:2YNpfkvXN1FbnjFOjFthcS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 11:11 Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2022 11:11 Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495050612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4c3l3VBpGfsWAKIuRN16f0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4c3l3VBpGfsWAKIuRN16f0",
+  "id": "4c3l3VBpGfsWAKIuRN16f0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329bce4d7f4e05e431db4fb85",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229bce4d7f4e05e431db4fb85",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129bce4d7f4e05e431db4fb85",
+      "width": 64
+    }
+  ],
+  "label": "11:11 Music Group",
+  "name": "I Could Die, and Nobody Would Notice",
+  "popularity": 0,
+  "release_date": "2022-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4c3l3VBpGfsWAKIuRN16f0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SG0vFYTVCYgxsz5KEa1di"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SG0vFYTVCYgxsz5KEa1di",
+            "id": "1SG0vFYTVCYgxsz5KEa1di",
+            "name": "Arkaeo",
+            "type": "artist",
+            "uri": "spotify:artist:1SG0vFYTVCYgxsz5KEa1di"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YNpfkvXN1FbnjFOjFthcS",
+            "id": "2YNpfkvXN1FbnjFOjFthcS",
+            "name": "Dear Me",
+            "type": "artist",
+            "uri": "spotify:artist:2YNpfkvXN1FbnjFOjFthcS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26"
+            },
+            "href": "https://api.spotify.com/v1/artists/3atbVRVOuIUxjoxeuNbd26",
+            "id": "3atbVRVOuIUxjoxeuNbd26",
+            "name": "Days to Waste",
+            "type": "artist",
+            "uri": "spotify:artist:3atbVRVOuIUxjoxeuNbd26"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189565,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ItOiITKQzeGdhzjq0fBkg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ItOiITKQzeGdhzjq0fBkg",
+        "id": "2ItOiITKQzeGdhzjq0fBkg",
+        "is_local": false,
+        "name": "I Could Die, and Nobody Would Notice",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ItOiITKQzeGdhzjq0fBkg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4c3l3VBpGfsWAKIuRN16f0"
+}

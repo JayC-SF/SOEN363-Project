@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qZyvjwZauLmrobrpJmvib",
+      "id": "0qZyvjwZauLmrobrpJmvib",
+      "name": "Dream, Ivory",
+      "type": "artist",
+      "uri": "spotify:artist:0qZyvjwZauLmrobrpJmvib"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 dream, ivory",
+      "type": "C"
+    },
+    {
+      "text": "2018 dream, ivory",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "053000555148"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ANwwQBHuTl6Hjf5IK4ctf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ANwwQBHuTl6Hjf5IK4ctf",
+  "id": "6ANwwQBHuTl6Hjf5IK4ctf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e2f88445df9cb887332ed9ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e2f88445df9cb887332ed9ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e2f88445df9cb887332ed9ba",
+      "width": 64
+    }
+  ],
+  "label": "dream, ivory",
+  "name": "welcome and goodbye",
+  "popularity": 0,
+  "release_date": "2018-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ANwwQBHuTl6Hjf5IK4ctf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qZyvjwZauLmrobrpJmvib",
+            "id": "0qZyvjwZauLmrobrpJmvib",
+            "name": "Dream, Ivory",
+            "type": "artist",
+            "uri": "spotify:artist:0qZyvjwZauLmrobrpJmvib"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140643,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5F3DM6Iz4axGiLUhxvQLs1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5F3DM6Iz4axGiLUhxvQLs1",
+        "id": "5F3DM6Iz4axGiLUhxvQLs1",
+        "is_local": false,
+        "name": "welcome and goodbye",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5F3DM6Iz4axGiLUhxvQLs1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ANwwQBHuTl6Hjf5IK4ctf"
+}

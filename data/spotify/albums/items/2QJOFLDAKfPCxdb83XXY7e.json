@@ -1,0 +1,133 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IAry1xxkAMoyNSa9EPOQP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0IAry1xxkAMoyNSa9EPOQP",
+      "id": "0IAry1xxkAMoyNSa9EPOQP",
+      "name": "Dawn Vincent",
+      "type": "artist",
+      "uri": "spotify:artist:0IAry1xxkAMoyNSa9EPOQP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UyfRGmsSp7z7rO7TbFvWH"
+      },
+      "href": "https://api.spotify.com/v1/artists/5UyfRGmsSp7z7rO7TbFvWH",
+      "id": "5UyfRGmsSp7z7rO7TbFvWH",
+      "name": "Sreenanda Sreekumar",
+      "type": "artist",
+      "uri": "spotify:artist:5UyfRGmsSp7z7rO7TbFvWH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ccDjsU6h03TcrKOvBeiu2",
+      "id": "6ccDjsU6h03TcrKOvBeiu2",
+      "name": "Anwar Ali",
+      "type": "artist",
+      "uri": "spotify:artist:6ccDjsU6h03TcrKOvBeiu2"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8907212003247"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2QJOFLDAKfPCxdb83XXY7e"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2QJOFLDAKfPCxdb83XXY7e",
+  "id": "2QJOFLDAKfPCxdb83XXY7e",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273265f5b264eb5ad0ef632032b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02265f5b264eb5ad0ef632032b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851265f5b264eb5ad0ef632032b",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Kayalum Kandalum (From \"The Teacher\")",
+  "popularity": 10,
+  "release_date": "2022-11-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2QJOFLDAKfPCxdb83XXY7e/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0IAry1xxkAMoyNSa9EPOQP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IAry1xxkAMoyNSa9EPOQP",
+            "id": "0IAry1xxkAMoyNSa9EPOQP",
+            "name": "Dawn Vincent",
+            "type": "artist",
+            "uri": "spotify:artist:0IAry1xxkAMoyNSa9EPOQP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UyfRGmsSp7z7rO7TbFvWH"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UyfRGmsSp7z7rO7TbFvWH",
+            "id": "5UyfRGmsSp7z7rO7TbFvWH",
+            "name": "Sreenanda Sreekumar",
+            "type": "artist",
+            "uri": "spotify:artist:5UyfRGmsSp7z7rO7TbFvWH"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208688,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zVUlJV7lsMeCKOJn3z6rV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zVUlJV7lsMeCKOJn3z6rV",
+        "id": "2zVUlJV7lsMeCKOJn3z6rV",
+        "is_local": false,
+        "name": "Kayalum Kandalum",
+        "preview_url": "https://p.scdn.co/mp3-preview/a730140dc26ca12e43be25cd3ff988b6503c2440?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zVUlJV7lsMeCKOJn3z6rV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2QJOFLDAKfPCxdb83XXY7e"
+}

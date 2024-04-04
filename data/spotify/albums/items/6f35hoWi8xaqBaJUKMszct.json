@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+      },
+      "href": "https://api.spotify.com/v1/artists/58oPVy7oihAEXE0Ott6JOf",
+      "id": "58oPVy7oihAEXE0Ott6JOf",
+      "name": "Eve",
+      "type": "artist",
+      "uri": "spotify:artist:58oPVy7oihAEXE0Ott6JOf"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2020 TOY'S FACTORY",
+      "type": "C"
+    },
+    {
+      "text": "2020 TOY'S FACTORY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988061912622"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6f35hoWi8xaqBaJUKMszct"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6f35hoWi8xaqBaJUKMszct",
+  "id": "6f35hoWi8xaqBaJUKMszct",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333a8a1d345ed02f6b2b9f50b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233a8a1d345ed02f6b2b9f50b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133a8a1d345ed02f6b2b9f50b",
+      "width": 64
+    }
+  ],
+  "label": "TOY'S FACTORY",
+  "name": "\u5efb\u5efb\u5947\u8b5a",
+  "popularity": 47,
+  "release_date": "2020-10-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6f35hoWi8xaqBaJUKMszct/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+            },
+            "href": "https://api.spotify.com/v1/artists/58oPVy7oihAEXE0Ott6JOf",
+            "id": "58oPVy7oihAEXE0Ott6JOf",
+            "name": "Eve",
+            "type": "artist",
+            "uri": "spotify:artist:58oPVy7oihAEXE0Ott6JOf"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219234,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gSkvrwfCXCgqeugzezn97"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gSkvrwfCXCgqeugzezn97",
+        "id": "2gSkvrwfCXCgqeugzezn97",
+        "is_local": false,
+        "name": "\u5efb\u5efb\u5947\u8b5a",
+        "preview_url": "https://p.scdn.co/mp3-preview/f8d3e24ffde4ff834976fd45a1f25970b3078cf4?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2gSkvrwfCXCgqeugzezn97"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6f35hoWi8xaqBaJUKMszct"
+}

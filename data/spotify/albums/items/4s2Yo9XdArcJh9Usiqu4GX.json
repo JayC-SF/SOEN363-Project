@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/04roC3Teouu613zLDKvHpQ",
+      "id": "04roC3Teouu613zLDKvHpQ",
+      "name": "Drew Parker",
+      "type": "artist",
+      "uri": "spotify:artist:04roC3Teouu613zLDKvHpQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Make Wake Artists",
+      "type": "C"
+    },
+    {
+      "text": "2019 Make Wake Artists",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859735245046"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4s2Yo9XdArcJh9Usiqu4GX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4s2Yo9XdArcJh9Usiqu4GX",
+  "id": "4s2Yo9XdArcJh9Usiqu4GX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2554f3621b1b810be9e575c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2554f3621b1b810be9e575c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2554f3621b1b810be9e575c",
+      "width": 64
+    }
+  ],
+  "label": "Make Wake Artists",
+  "name": "I Was Lying",
+  "popularity": 0,
+  "release_date": "2019-10-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4s2Yo9XdArcJh9Usiqu4GX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/04roC3Teouu613zLDKvHpQ",
+            "id": "04roC3Teouu613zLDKvHpQ",
+            "name": "Drew Parker",
+            "type": "artist",
+            "uri": "spotify:artist:04roC3Teouu613zLDKvHpQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190430,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60jUGJxujsDVyTpBWysM8M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60jUGJxujsDVyTpBWysM8M",
+        "id": "60jUGJxujsDVyTpBWysM8M",
+        "is_local": false,
+        "name": "I Was Lying",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:60jUGJxujsDVyTpBWysM8M"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4s2Yo9XdArcJh9Usiqu4GX"
+}

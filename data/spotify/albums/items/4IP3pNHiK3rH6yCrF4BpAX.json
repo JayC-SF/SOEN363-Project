@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6W0z5p18xVZQ65Jd3XDbOZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6W0z5p18xVZQ65Jd3XDbOZ",
+      "id": "6W0z5p18xVZQ65Jd3XDbOZ",
+      "name": "Orang Utan",
+      "type": "artist",
+      "uri": "spotify:artist:6W0z5p18xVZQ65Jd3XDbOZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465027680"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4IP3pNHiK3rH6yCrF4BpAX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4IP3pNHiK3rH6yCrF4BpAX",
+  "id": "4IP3pNHiK3rH6yCrF4BpAX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d61fdf7527bd7ba1dc58b684",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d61fdf7527bd7ba1dc58b684",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d61fdf7527bd7ba1dc58b684",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Who's Your Love?",
+  "popularity": 0,
+  "release_date": "2021-04-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4IP3pNHiK3rH6yCrF4BpAX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6W0z5p18xVZQ65Jd3XDbOZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6W0z5p18xVZQ65Jd3XDbOZ",
+            "id": "6W0z5p18xVZQ65Jd3XDbOZ",
+            "name": "Orang Utan",
+            "type": "artist",
+            "uri": "spotify:artist:6W0z5p18xVZQ65Jd3XDbOZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161344,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71PHpUqDxcMyfWzwnmpaa3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71PHpUqDxcMyfWzwnmpaa3",
+        "id": "71PHpUqDxcMyfWzwnmpaa3",
+        "is_local": false,
+        "name": "Who's Your Love?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:71PHpUqDxcMyfWzwnmpaa3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4IP3pNHiK3rH6yCrF4BpAX"
+}

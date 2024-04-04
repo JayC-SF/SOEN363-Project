@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dOCnyDR2oEa1hQlvTXvdT",
+      "id": "7dOCnyDR2oEa1hQlvTXvdT",
+      "name": "Cody Fry",
+      "type": "artist",
+      "uri": "spotify:artist:7dOCnyDR2oEa1hQlvTXvdT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Cody Fry",
+      "type": "C"
+    },
+    {
+      "text": "2021 Cody Fry",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196510904959"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1C8oxkHZWXU8aOhaFw7Vpz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1C8oxkHZWXU8aOhaFw7Vpz",
+  "id": "1C8oxkHZWXU8aOhaFw7Vpz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27371d92045b6d3676770cc2fbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0271d92045b6d3676770cc2fbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485171d92045b6d3676770cc2fbb",
+      "width": 64
+    }
+  ],
+  "label": "Cody Fry",
+  "name": "Underground",
+  "popularity": 0,
+  "release_date": "2021-11-12",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1C8oxkHZWXU8aOhaFw7Vpz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dOCnyDR2oEa1hQlvTXvdT",
+            "id": "7dOCnyDR2oEa1hQlvTXvdT",
+            "name": "Cody Fry",
+            "type": "artist",
+            "uri": "spotify:artist:7dOCnyDR2oEa1hQlvTXvdT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MyZiVJJlb4OwfDgzVKxSE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5MyZiVJJlb4OwfDgzVKxSE",
+        "id": "5MyZiVJJlb4OwfDgzVKxSE",
+        "is_local": false,
+        "name": "Caves",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5MyZiVJJlb4OwfDgzVKxSE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dOCnyDR2oEa1hQlvTXvdT",
+            "id": "7dOCnyDR2oEa1hQlvTXvdT",
+            "name": "Cody Fry",
+            "type": "artist",
+            "uri": "spotify:artist:7dOCnyDR2oEa1hQlvTXvdT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 171000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4An9H5fsEyJZTXtclokIaL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4An9H5fsEyJZTXtclokIaL",
+        "id": "4An9H5fsEyJZTXtclokIaL",
+        "is_local": false,
+        "name": "Underground",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4An9H5fsEyJZTXtclokIaL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1C8oxkHZWXU8aOhaFw7Vpz"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+      },
+      "href": "https://api.spotify.com/v1/artists/4iJLPqClelZOBCBifm8Fzv",
+      "id": "4iJLPqClelZOBCBifm8Fzv",
+      "name": "Pierce The Veil",
+      "type": "artist",
+      "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Fearless Records, Distributed by Concord.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Fearless Records, Distributed by Concord.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00888072469600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/50eq5hUKnqB9e51D9GSmKs",
+  "id": "50eq5hUKnqB9e51D9GSmKs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735602ed5181842ed7a69d1df8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025602ed5181842ed7a69d1df8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515602ed5181842ed7a69d1df8",
+      "width": 64
+    }
+  ],
+  "label": "Fearless Records",
+  "name": "Pass The Nirvana",
+  "popularity": 0,
+  "release_date": "2022-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/50eq5hUKnqB9e51D9GSmKs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4iJLPqClelZOBCBifm8Fzv",
+            "id": "4iJLPqClelZOBCBifm8Fzv",
+            "name": "Pierce The Veil",
+            "type": "artist",
+            "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197374,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5SDhI2jKg0S5fzEEqPCHiV",
+        "id": "5SDhI2jKg0S5fzEEqPCHiV",
+        "is_local": false,
+        "name": "Pass The Nirvana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5SDhI2jKg0S5fzEEqPCHiV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:50eq5hUKnqB9e51D9GSmKs"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04IeGZNeGLuWQ783KvMcBO"
+      },
+      "href": "https://api.spotify.com/v1/artists/04IeGZNeGLuWQ783KvMcBO",
+      "id": "04IeGZNeGLuWQ783KvMcBO",
+      "name": "Hell Archive",
+      "type": "artist",
+      "uri": "spotify:artist:04IeGZNeGLuWQ783KvMcBO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 YSL",
+      "type": "C"
+    },
+    {
+      "text": "2024 YSL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198084113621"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1h2j9OfpPInDonGef7csTn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1h2j9OfpPInDonGef7csTn",
+  "id": "1h2j9OfpPInDonGef7csTn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733a4dc2a9832579d39fe70b9a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a4dc2a9832579d39fe70b9a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a4dc2a9832579d39fe70b9a",
+      "width": 64
+    }
+  ],
+  "label": "YSL",
+  "name": "Wanna Know Why",
+  "popularity": 46,
+  "release_date": "2024-03-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1h2j9OfpPInDonGef7csTn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04IeGZNeGLuWQ783KvMcBO"
+            },
+            "href": "https://api.spotify.com/v1/artists/04IeGZNeGLuWQ783KvMcBO",
+            "id": "04IeGZNeGLuWQ783KvMcBO",
+            "name": "Hell Archive",
+            "type": "artist",
+            "uri": "spotify:artist:04IeGZNeGLuWQ783KvMcBO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Gf2zTGXVC9zwS82IfqJyk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Gf2zTGXVC9zwS82IfqJyk",
+            "id": "0Gf2zTGXVC9zwS82IfqJyk",
+            "name": "Gunnaa",
+            "type": "artist",
+            "uri": "spotify:artist:0Gf2zTGXVC9zwS82IfqJyk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160063,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EnSJZoHNM58JextiO5aMW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EnSJZoHNM58JextiO5aMW",
+        "id": "1EnSJZoHNM58JextiO5aMW",
+        "is_local": false,
+        "name": "Wanna Know Why",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1EnSJZoHNM58JextiO5aMW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1h2j9OfpPInDonGef7csTn"
+}

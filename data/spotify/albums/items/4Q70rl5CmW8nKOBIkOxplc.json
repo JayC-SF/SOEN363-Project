@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/265iWAcdttWU3gFXjrcbbh",
+      "id": "265iWAcdttWU3gFXjrcbbh",
+      "name": "Maitchhh",
+      "type": "artist",
+      "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Maitchhh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840389881285"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Q70rl5CmW8nKOBIkOxplc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Q70rl5CmW8nKOBIkOxplc",
+  "id": "4Q70rl5CmW8nKOBIkOxplc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a92ef54a2ff8b69a91bf4f6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a92ef54a2ff8b69a91bf4f6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a92ef54a2ff8b69a91bf4f6c",
+      "width": 64
+    }
+  ],
+  "label": "Maitchhh",
+  "name": "Saved By The Bell",
+  "popularity": 3,
+  "release_date": "2023-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Q70rl5CmW8nKOBIkOxplc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/265iWAcdttWU3gFXjrcbbh",
+            "id": "265iWAcdttWU3gFXjrcbbh",
+            "name": "Maitchhh",
+            "type": "artist",
+            "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140063,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zHYU9ekR8t5CkBmGZdtuc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0zHYU9ekR8t5CkBmGZdtuc",
+        "id": "0zHYU9ekR8t5CkBmGZdtuc",
+        "is_local": false,
+        "name": "Saved By The Bell",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0zHYU9ekR8t5CkBmGZdtuc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Q70rl5CmW8nKOBIkOxplc"
+}

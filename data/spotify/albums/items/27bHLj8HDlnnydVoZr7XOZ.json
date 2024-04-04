@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YP7MBWoSfkTwq0pOMj651",
+      "id": "3YP7MBWoSfkTwq0pOMj651",
+      "name": "Den BB",
+      "type": "artist",
+      "uri": "spotify:artist:3YP7MBWoSfkTwq0pOMj651"
+    }
+  ],
+  "available_markets": [
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Alter Ego Music AS, under exclusive license to Universal Music AS, Norway",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Alter Ego Music AS, under exclusive license to Universal Music AS, Norway",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547936790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/27bHLj8HDlnnydVoZr7XOZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/27bHLj8HDlnnydVoZr7XOZ",
+  "id": "27bHLj8HDlnnydVoZr7XOZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c754d9f161b04a0490cf312",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c754d9f161b04a0490cf312",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c754d9f161b04a0490cf312",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AS",
+  "name": "Tortuga",
+  "popularity": 23,
+  "release_date": "2016-04-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/27bHLj8HDlnnydVoZr7XOZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YP7MBWoSfkTwq0pOMj651",
+            "id": "3YP7MBWoSfkTwq0pOMj651",
+            "name": "Den BB",
+            "type": "artist",
+            "uri": "spotify:artist:3YP7MBWoSfkTwq0pOMj651"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 223655,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ztnQcrRmRbs4DA98Wn9DD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ztnQcrRmRbs4DA98Wn9DD",
+        "id": "6ztnQcrRmRbs4DA98Wn9DD",
+        "is_local": false,
+        "name": "Tortuga",
+        "preview_url": "https://p.scdn.co/mp3-preview/49356e03e6c14653ba9a16a91f0e9aca047a6bf4?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ztnQcrRmRbs4DA98Wn9DD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:27bHLj8HDlnnydVoZr7XOZ"
+}

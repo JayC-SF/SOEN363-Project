@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+      },
+      "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+      "id": "2tIP7SsRs7vjIcLrU85W8J",
+      "name": "The Kid LAROI",
+      "type": "artist",
+      "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2020 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448791942"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5fyH2H1o23bLNIxGu9JcMq",
+  "id": "5fyH2H1o23bLNIxGu9JcMq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e59aad3262c3ca9107ca5c2f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e59aad3262c3ca9107ca5c2f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e59aad3262c3ca9107ca5c2f",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "SO DONE",
+  "popularity": 0,
+  "release_date": "2020-10-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5fyH2H1o23bLNIxGu9JcMq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+            "id": "2tIP7SsRs7vjIcLrU85W8J",
+            "name": "The Kid LAROI",
+            "type": "artist",
+            "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126521,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5psEZhQu6lukjhavJo4AbC",
+        "id": "5psEZhQu6lukjhavJo4AbC",
+        "is_local": false,
+        "name": "SO DONE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5psEZhQu6lukjhavJo4AbC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5fyH2H1o23bLNIxGu9JcMq"
+}

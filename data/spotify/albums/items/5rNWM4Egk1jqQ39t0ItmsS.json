@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+      },
+      "href": "https://api.spotify.com/v1/artists/5mYWkDD4b1eM4ZjFq5axxs",
+      "id": "5mYWkDD4b1eM4ZjFq5axxs",
+      "name": "Aidonia",
+      "type": "artist",
+      "uri": "spotify:artist:5mYWkDD4b1eM4ZjFq5axxs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Emudio Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Emudio Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "848760054341"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5rNWM4Egk1jqQ39t0ItmsS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5rNWM4Egk1jqQ39t0ItmsS",
+  "id": "5rNWM4Egk1jqQ39t0ItmsS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395efede65d52d50619df313b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295efede65d52d50619df313b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195efede65d52d50619df313b",
+      "width": 64
+    }
+  ],
+  "label": "EMudio Records",
+  "name": "Yeah Yeah - Single",
+  "popularity": 0,
+  "release_date": "2017-07-28",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5rNWM4Egk1jqQ39t0ItmsS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mYWkDD4b1eM4ZjFq5axxs",
+            "id": "5mYWkDD4b1eM4ZjFq5axxs",
+            "name": "Aidonia",
+            "type": "artist",
+            "uri": "spotify:artist:5mYWkDD4b1eM4ZjFq5axxs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222222,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CnJWCAJhuFRqTG5mWZnEg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5CnJWCAJhuFRqTG5mWZnEg",
+        "id": "5CnJWCAJhuFRqTG5mWZnEg",
+        "is_local": false,
+        "name": "Yeah Yeah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5CnJWCAJhuFRqTG5mWZnEg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mYWkDD4b1eM4ZjFq5axxs",
+            "id": "5mYWkDD4b1eM4ZjFq5axxs",
+            "name": "Aidonia",
+            "type": "artist",
+            "uri": "spotify:artist:5mYWkDD4b1eM4ZjFq5axxs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131004,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VvwYX5c6dX3BPD2jeBJxK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VvwYX5c6dX3BPD2jeBJxK",
+        "id": "3VvwYX5c6dX3BPD2jeBJxK",
+        "is_local": false,
+        "name": "Yeah Yeah",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3VvwYX5c6dX3BPD2jeBJxK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5rNWM4Egk1jqQ39t0ItmsS"
+}

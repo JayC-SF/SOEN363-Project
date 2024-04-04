@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+      },
+      "href": "https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y",
+      "id": "3QSQFmccmX81fWCUSPTS7y",
+      "name": "Dean Lewis",
+      "type": "artist",
+      "uri": "spotify:artist:3QSQFmccmX81fWCUSPTS7y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Universal Music Australia Pty Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Universal Music Australia Pty Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557181760"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0dcIrW5U3oco3GDCKiJ33I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0dcIrW5U3oco3GDCKiJ33I",
+  "id": "0dcIrW5U3oco3GDCKiJ33I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b58f5def9e2dc9f1bc5e0e6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b58f5def9e2dc9f1bc5e0e6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b58f5def9e2dc9f1bc5e0e6e",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Waves",
+  "popularity": 0,
+  "release_date": "2016-09-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0dcIrW5U3oco3GDCKiJ33I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+            },
+            "href": "https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y",
+            "id": "3QSQFmccmX81fWCUSPTS7y",
+            "name": "Dean Lewis",
+            "type": "artist",
+            "uri": "spotify:artist:3QSQFmccmX81fWCUSPTS7y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241292,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64xJ1MMFxxK6osZxJH857T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64xJ1MMFxxK6osZxJH857T",
+        "id": "64xJ1MMFxxK6osZxJH857T",
+        "is_local": false,
+        "name": "Waves",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:64xJ1MMFxxK6osZxJH857T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0dcIrW5U3oco3GDCKiJ33I"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wlk4iqaEgEvADMVG6QMd8",
+      "id": "6wlk4iqaEgEvADMVG6QMd8",
+      "name": "James Gillespie",
+      "type": "artist",
+      "uri": "spotify:artist:6wlk4iqaEgEvADMVG6QMd8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Operator Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Operator Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526341364"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2H6P17DTGZYVhOXEgOnMye"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2H6P17DTGZYVhOXEgOnMye",
+  "id": "2H6P17DTGZYVhOXEgOnMye",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea74fe981eabbfab983d108c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea74fe981eabbfab983d108c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea74fe981eabbfab983d108c",
+      "width": 64
+    }
+  ],
+  "label": "Operator Records",
+  "name": "Him.Her.",
+  "popularity": 0,
+  "release_date": "2018-11-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2H6P17DTGZYVhOXEgOnMye/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wlk4iqaEgEvADMVG6QMd8",
+            "id": "6wlk4iqaEgEvADMVG6QMd8",
+            "name": "James Gillespie",
+            "type": "artist",
+            "uri": "spotify:artist:6wlk4iqaEgEvADMVG6QMd8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KqKcjIVa2kS9zcYhEXZBp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KqKcjIVa2kS9zcYhEXZBp",
+        "id": "0KqKcjIVa2kS9zcYhEXZBp",
+        "is_local": false,
+        "name": "Him.Her.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0KqKcjIVa2kS9zcYhEXZBp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2H6P17DTGZYVhOXEgOnMye"
+}

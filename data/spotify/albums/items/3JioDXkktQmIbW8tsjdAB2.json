@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CisWhPGY2q2d2sLugwJoD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2CisWhPGY2q2d2sLugwJoD",
+      "id": "2CisWhPGY2q2d2sLugwJoD",
+      "name": "Ian Bauer",
+      "type": "artist",
+      "uri": "spotify:artist:2CisWhPGY2q2d2sLugwJoD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Reinvented, a division of HMG",
+      "type": "C"
+    },
+    {
+      "text": "2023 Reinvented, a division of HMG",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316474395225"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3JioDXkktQmIbW8tsjdAB2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3JioDXkktQmIbW8tsjdAB2",
+  "id": "3JioDXkktQmIbW8tsjdAB2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735b6d8a68a25ad0dddb2fae64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025b6d8a68a25ad0dddb2fae64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515b6d8a68a25ad0dddb2fae64",
+      "width": 64
+    }
+  ],
+  "label": "Reinvented",
+  "name": "Makeba (Remix)",
+  "popularity": 0,
+  "release_date": "2023-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3JioDXkktQmIbW8tsjdAB2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CisWhPGY2q2d2sLugwJoD"
+            },
+            "href": "https://api.spotify.com/v1/artists/2CisWhPGY2q2d2sLugwJoD",
+            "id": "2CisWhPGY2q2d2sLugwJoD",
+            "name": "Ian Bauer",
+            "type": "artist",
+            "uri": "spotify:artist:2CisWhPGY2q2d2sLugwJoD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129677,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IQ4S8VQNQwyKDycHFxPbl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IQ4S8VQNQwyKDycHFxPbl",
+        "id": "7IQ4S8VQNQwyKDycHFxPbl",
+        "is_local": false,
+        "name": "Makeba - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7IQ4S8VQNQwyKDycHFxPbl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3JioDXkktQmIbW8tsjdAB2"
+}

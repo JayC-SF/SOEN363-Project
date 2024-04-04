@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FfFBKjNgYYhHBiot04z1I",
+      "id": "6FfFBKjNgYYhHBiot04z1I",
+      "name": "Rebzyyx",
+      "type": "artist",
+      "uri": "spotify:artist:6FfFBKjNgYYhHBiot04z1I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2818995 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 2818995 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196054748613"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78zySHGi3bB36rQ8NVGxFt",
+  "id": "78zySHGi3bB36rQ8NVGxFt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d42b26c9d197df7d2d1293a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d42b26c9d197df7d2d1293a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d42b26c9d197df7d2d1293a1",
+      "width": 64
+    }
+  ],
+  "label": "2818995 Records DK",
+  "name": "all I want is you",
+  "popularity": 0,
+  "release_date": "2021-02-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78zySHGi3bB36rQ8NVGxFt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I"
+            },
+            "href": "https://api.spotify.com/v1/artists/6FfFBKjNgYYhHBiot04z1I",
+            "id": "6FfFBKjNgYYhHBiot04z1I",
+            "name": "Rebzyyx",
+            "type": "artist",
+            "uri": "spotify:artist:6FfFBKjNgYYhHBiot04z1I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LWHFUzXPTl9BDdJHDE001",
+            "id": "0LWHFUzXPTl9BDdJHDE001",
+            "name": "hoshie star",
+            "type": "artist",
+            "uri": "spotify:artist:0LWHFUzXPTl9BDdJHDE001"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151415,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qYmLmMTMpLPi80Mh0EbGb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qYmLmMTMpLPi80Mh0EbGb",
+        "id": "6qYmLmMTMpLPi80Mh0EbGb",
+        "is_local": false,
+        "name": "all I want is you",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6qYmLmMTMpLPi80Mh0EbGb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78zySHGi3bB36rQ8NVGxFt"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2T4mLZTwr9qV5jYx0soKW4"
+      },
+      "href": "https://api.spotify.com/v1/artists/2T4mLZTwr9qV5jYx0soKW4",
+      "id": "2T4mLZTwr9qV5jYx0soKW4",
+      "name": "Joshua Greenwood",
+      "type": "artist",
+      "uri": "spotify:artist:2T4mLZTwr9qV5jYx0soKW4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 your own kind of music",
+      "type": "C"
+    },
+    {
+      "text": "2023 your own kind of music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197630988331"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0nIWE7ahHsCTsRidU1JnOe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0nIWE7ahHsCTsRidU1JnOe",
+  "id": "0nIWE7ahHsCTsRidU1JnOe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736895e663bc30332e29cd9be7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026895e663bc30332e29cd9be7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516895e663bc30332e29cd9be7",
+      "width": 64
+    }
+  ],
+  "label": "your own kind of music",
+  "name": "Imagine (karaoke piano version)",
+  "popularity": 10,
+  "release_date": "2023-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0nIWE7ahHsCTsRidU1JnOe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2T4mLZTwr9qV5jYx0soKW4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2T4mLZTwr9qV5jYx0soKW4",
+            "id": "2T4mLZTwr9qV5jYx0soKW4",
+            "name": "Joshua Greenwood",
+            "type": "artist",
+            "uri": "spotify:artist:2T4mLZTwr9qV5jYx0soKW4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180794,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0iJpQrlVNK0ddoAoX8HOzA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0iJpQrlVNK0ddoAoX8HOzA",
+        "id": "0iJpQrlVNK0ddoAoX8HOzA",
+        "is_local": false,
+        "name": "Imagine - karaoke piano version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0iJpQrlVNK0ddoAoX8HOzA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0nIWE7ahHsCTsRidU1JnOe"
+}

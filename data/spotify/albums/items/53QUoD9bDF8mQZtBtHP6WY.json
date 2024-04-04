@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+      "id": "3WGpXCj9YhhfX11TToZcXP",
+      "name": "Troye Sivan",
+      "type": "artist",
+      "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Universal Music Australia Pty Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Universal Music Australia Pty Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602455978141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53QUoD9bDF8mQZtBtHP6WY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53QUoD9bDF8mQZtBtHP6WY",
+  "id": "53QUoD9bDF8mQZtBtHP6WY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d687cf0cb89cf9a6d7ad51e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d687cf0cb89cf9a6d7ad51e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d687cf0cb89cf9a6d7ad51e",
+      "width": 64
+    }
+  ],
+  "label": "EMI Recorded Music Australia Pty Ltd",
+  "name": "Rush",
+  "popularity": 1,
+  "release_date": "2023-07-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53QUoD9bDF8mQZtBtHP6WY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+            "id": "3WGpXCj9YhhfX11TToZcXP",
+            "name": "Troye Sivan",
+            "type": "artist",
+            "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156391,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75dkqsijXBu5Dke2dThdys"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75dkqsijXBu5Dke2dThdys",
+        "id": "75dkqsijXBu5Dke2dThdys",
+        "is_local": false,
+        "name": "Rush",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:75dkqsijXBu5Dke2dThdys"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:53QUoD9bDF8mQZtBtHP6WY"
+}

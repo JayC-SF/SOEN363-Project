@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3KMxBCaZB3oCjaixUnFbVu"
+      },
+      "href": "https://api.spotify.com/v1/artists/3KMxBCaZB3oCjaixUnFbVu",
+      "id": "3KMxBCaZB3oCjaixUnFbVu",
+      "name": "Sigma Rule",
+      "type": "artist",
+      "uri": "spotify:artist:3KMxBCaZB3oCjaixUnFbVu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Spotify",
+      "type": "C"
+    },
+    {
+      "text": "2021 Spotify",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196511831414"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5GYrDw2NfVT9JscpO3hBVB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5GYrDw2NfVT9JscpO3hBVB",
+  "id": "5GYrDw2NfVT9JscpO3hBVB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab89fc4cf1239ad7004adb7c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab89fc4cf1239ad7004adb7c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab89fc4cf1239ad7004adb7c",
+      "width": 64
+    }
+  ],
+  "label": "Spotify",
+  "name": "Drive Forever",
+  "popularity": 0,
+  "release_date": "2021-06-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5GYrDw2NfVT9JscpO3hBVB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3KMxBCaZB3oCjaixUnFbVu"
+            },
+            "href": "https://api.spotify.com/v1/artists/3KMxBCaZB3oCjaixUnFbVu",
+            "id": "3KMxBCaZB3oCjaixUnFbVu",
+            "name": "Sigma Rule",
+            "type": "artist",
+            "uri": "spotify:artist:3KMxBCaZB3oCjaixUnFbVu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi"
+            },
+            "href": "https://api.spotify.com/v1/artists/5bgu60VOkifx3xadonzsgi",
+            "id": "5bgu60VOkifx3xadonzsgi",
+            "name": "T3NZU",
+            "type": "artist",
+            "uri": "spotify:artist:5bgu60VOkifx3xadonzsgi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145555,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Q7E0PnDFr4HnLTrxGme3a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Q7E0PnDFr4HnLTrxGme3a",
+        "id": "1Q7E0PnDFr4HnLTrxGme3a",
+        "is_local": false,
+        "name": "Drive Forever",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Q7E0PnDFr4HnLTrxGme3a"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5GYrDw2NfVT9JscpO3hBVB"
+}

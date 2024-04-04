@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+      },
+      "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+      "id": "6XkjpgcEsYab502Vr1bBeW",
+      "name": "Grupo Frontera",
+      "type": "artist",
+      "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Grupo Frontera",
+      "type": "C"
+    },
+    {
+      "text": "2022 Grupo Frontera",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617051510876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/700G54RNkWryfdCZdfyw7A",
+  "id": "700G54RNkWryfdCZdfyw7A",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732905112f1f3f2cf0745610aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022905112f1f3f2cf0745610aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512905112f1f3f2cf0745610aa",
+      "width": 64
+    }
+  ],
+  "label": "Grupo Frontera",
+  "name": "No Se Va (En Vivo)",
+  "popularity": 1,
+  "release_date": "2022-04-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/700G54RNkWryfdCZdfyw7A/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+            "id": "6XkjpgcEsYab502Vr1bBeW",
+            "name": "Grupo Frontera",
+            "type": "artist",
+            "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194019,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JhUm1v5AbI5Yu6jLKCPRO",
+        "id": "5JhUm1v5AbI5Yu6jLKCPRO",
+        "is_local": false,
+        "name": "No Se Va - En Vivo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5JhUm1v5AbI5Yu6jLKCPRO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:700G54RNkWryfdCZdfyw7A"
+}

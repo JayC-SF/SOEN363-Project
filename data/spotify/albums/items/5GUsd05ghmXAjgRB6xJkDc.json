@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2z8AYmzwvtNQmCIUqa3Dun"
+      },
+      "href": "https://api.spotify.com/v1/artists/2z8AYmzwvtNQmCIUqa3Dun",
+      "id": "2z8AYmzwvtNQmCIUqa3Dun",
+      "name": "shmara",
+      "type": "artist",
+      "uri": "spotify:artist:2z8AYmzwvtNQmCIUqa3Dun"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 shmara",
+      "type": "C"
+    },
+    {
+      "text": "2020 shmara",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059487873480"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5GUsd05ghmXAjgRB6xJkDc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5GUsd05ghmXAjgRB6xJkDc",
+  "id": "5GUsd05ghmXAjgRB6xJkDc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273288fd7cbe219a9e91a162ff6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02288fd7cbe219a9e91a162ff6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851288fd7cbe219a9e91a162ff6",
+      "width": 64
+    }
+  ],
+  "label": "shmara",
+  "name": "Carry It",
+  "popularity": 0,
+  "release_date": "2020-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5GUsd05ghmXAjgRB6xJkDc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2z8AYmzwvtNQmCIUqa3Dun"
+            },
+            "href": "https://api.spotify.com/v1/artists/2z8AYmzwvtNQmCIUqa3Dun",
+            "id": "2z8AYmzwvtNQmCIUqa3Dun",
+            "name": "shmara",
+            "type": "artist",
+            "uri": "spotify:artist:2z8AYmzwvtNQmCIUqa3Dun"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192981,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zxs5jeUFHKLl6YNiozyVX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0zxs5jeUFHKLl6YNiozyVX",
+        "id": "0zxs5jeUFHKLl6YNiozyVX",
+        "is_local": false,
+        "name": "Carry It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0zxs5jeUFHKLl6YNiozyVX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5GUsd05ghmXAjgRB6xJkDc"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PvZauqTxHMYEpzLkqbI6X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PvZauqTxHMYEpzLkqbI6X",
+      "id": "4PvZauqTxHMYEpzLkqbI6X",
+      "name": "Scarlet Lane",
+      "type": "artist",
+      "uri": "spotify:artist:4PvZauqTxHMYEpzLkqbI6X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 641899 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2016 641899 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840095846240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/73uBkA0ygXs9R1r58fSkgl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/73uBkA0ygXs9R1r58fSkgl",
+  "id": "73uBkA0ygXs9R1r58fSkgl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7825c33c571408c78c3f764",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7825c33c571408c78c3f764",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7825c33c571408c78c3f764",
+      "width": 64
+    }
+  ],
+  "label": "641899 Records DK",
+  "name": "Welcome to the Jungle",
+  "popularity": 0,
+  "release_date": "2016-12-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/73uBkA0ygXs9R1r58fSkgl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PvZauqTxHMYEpzLkqbI6X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PvZauqTxHMYEpzLkqbI6X",
+            "id": "4PvZauqTxHMYEpzLkqbI6X",
+            "name": "Scarlet Lane",
+            "type": "artist",
+            "uri": "spotify:artist:4PvZauqTxHMYEpzLkqbI6X"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 270317,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hnaChTB0J9E0MrleZ894l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hnaChTB0J9E0MrleZ894l",
+        "id": "1hnaChTB0J9E0MrleZ894l",
+        "is_local": false,
+        "name": "Welcome to the Jungle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1hnaChTB0J9E0MrleZ894l"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:73uBkA0ygXs9R1r58fSkgl"
+}

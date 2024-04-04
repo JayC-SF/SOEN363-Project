@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/79BImQsuJ70xKbfyKG4ZzD"
+      },
+      "href": "https://api.spotify.com/v1/artists/79BImQsuJ70xKbfyKG4ZzD",
+      "id": "79BImQsuJ70xKbfyKG4ZzD",
+      "name": "Luster",
+      "type": "artist",
+      "uri": "spotify:artist:79BImQsuJ70xKbfyKG4ZzD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Animal Farm",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 Animal Farm",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7071245393281"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6uSOUXMPn38wlW9onJ1OMV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6uSOUXMPn38wlW9onJ1OMV",
+  "id": "6uSOUXMPn38wlW9onJ1OMV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350610150b65a1050f696c5e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250610150b65a1050f696c5e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150610150b65a1050f696c5e1",
+      "width": 64
+    }
+  ],
+  "label": "Animal Farm",
+  "name": "You've Got the Heat / Good Dreamer",
+  "popularity": 0,
+  "release_date": "2017-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6uSOUXMPn38wlW9onJ1OMV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/79BImQsuJ70xKbfyKG4ZzD"
+            },
+            "href": "https://api.spotify.com/v1/artists/79BImQsuJ70xKbfyKG4ZzD",
+            "id": "79BImQsuJ70xKbfyKG4ZzD",
+            "name": "Luster",
+            "type": "artist",
+            "uri": "spotify:artist:79BImQsuJ70xKbfyKG4ZzD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6W8dxNDiw2DZKsgvBk6Cfs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6W8dxNDiw2DZKsgvBk6Cfs",
+        "id": "6W8dxNDiw2DZKsgvBk6Cfs",
+        "is_local": false,
+        "name": "You've Got the Heat",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6W8dxNDiw2DZKsgvBk6Cfs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/79BImQsuJ70xKbfyKG4ZzD"
+            },
+            "href": "https://api.spotify.com/v1/artists/79BImQsuJ70xKbfyKG4ZzD",
+            "id": "79BImQsuJ70xKbfyKG4ZzD",
+            "name": "Luster",
+            "type": "artist",
+            "uri": "spotify:artist:79BImQsuJ70xKbfyKG4ZzD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rWaaI0uPCU7yMhtPy7GAN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rWaaI0uPCU7yMhtPy7GAN",
+        "id": "6rWaaI0uPCU7yMhtPy7GAN",
+        "is_local": false,
+        "name": "Good Dreamer",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6rWaaI0uPCU7yMhtPy7GAN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6uSOUXMPn38wlW9onJ1OMV"
+}

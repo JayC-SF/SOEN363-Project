@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ss73LwiIQQRLr9OoLQfuy",
+      "id": "2Ss73LwiIQQRLr9OoLQfuy",
+      "name": "WILYWNKA",
+      "type": "artist",
+      "uri": "spotify:artist:2Ss73LwiIQQRLr9OoLQfuy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5sKvgmG84C0bIMWeS2SRPr",
+      "id": "5sKvgmG84C0bIMWeS2SRPr",
+      "name": "Brasstracks",
+      "type": "artist",
+      "uri": "spotify:artist:5sKvgmG84C0bIMWeS2SRPr"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 1%",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 1%",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757858484"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7kozsQ3NnkrDJPT4Kw7aim"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7kozsQ3NnkrDJPT4Kw7aim",
+  "id": "7kozsQ3NnkrDJPT4Kw7aim",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333c45c41ff00b49a8b5b0cd0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233c45c41ff00b49a8b5b0cd0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133c45c41ff00b49a8b5b0cd0",
+      "width": 64
+    }
+  ],
+  "label": "1%",
+  "name": "Our Style",
+  "popularity": 42,
+  "release_date": "2021-06-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7kozsQ3NnkrDJPT4Kw7aim/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Ss73LwiIQQRLr9OoLQfuy",
+            "id": "2Ss73LwiIQQRLr9OoLQfuy",
+            "name": "WILYWNKA",
+            "type": "artist",
+            "uri": "spotify:artist:2Ss73LwiIQQRLr9OoLQfuy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sKvgmG84C0bIMWeS2SRPr",
+            "id": "5sKvgmG84C0bIMWeS2SRPr",
+            "name": "Brasstracks",
+            "type": "artist",
+            "uri": "spotify:artist:5sKvgmG84C0bIMWeS2SRPr"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 242486,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/765pHb1dyOx4VH6A446cwU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/765pHb1dyOx4VH6A446cwU",
+        "id": "765pHb1dyOx4VH6A446cwU",
+        "is_local": false,
+        "name": "Our Style",
+        "preview_url": "https://p.scdn.co/mp3-preview/42a88999658037561d3a118e069d1cad8313799a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:765pHb1dyOx4VH6A446cwU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7kozsQ3NnkrDJPT4Kw7aim"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h"
+      },
+      "href": "https://api.spotify.com/v1/artists/142KXPkDuhALyplZx3lY0h",
+      "id": "142KXPkDuhALyplZx3lY0h",
+      "name": "Aanex",
+      "type": "artist",
+      "uri": "spotify:artist:142KXPkDuhALyplZx3lY0h"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 VR4E",
+      "type": "C"
+    },
+    {
+      "text": "2023 VR4E",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197993620732"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6L8CCL8i40zIbsMp9dzUoi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6L8CCL8i40zIbsMp9dzUoi",
+  "id": "6L8CCL8i40zIbsMp9dzUoi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae0422e3e78e4b47cdd78eaa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae0422e3e78e4b47cdd78eaa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae0422e3e78e4b47cdd78eaa",
+      "width": 64
+    }
+  ],
+  "label": "VR4E",
+  "name": "Like A Riff",
+  "popularity": 0,
+  "release_date": "2023-08-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6L8CCL8i40zIbsMp9dzUoi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h"
+            },
+            "href": "https://api.spotify.com/v1/artists/142KXPkDuhALyplZx3lY0h",
+            "id": "142KXPkDuhALyplZx3lY0h",
+            "name": "Aanex",
+            "type": "artist",
+            "uri": "spotify:artist:142KXPkDuhALyplZx3lY0h"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241896,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fmKRvUljO4AyJRjvhGOBL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fmKRvUljO4AyJRjvhGOBL",
+        "id": "2fmKRvUljO4AyJRjvhGOBL",
+        "is_local": false,
+        "name": "Like A Riff",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2fmKRvUljO4AyJRjvhGOBL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6L8CCL8i40zIbsMp9dzUoi"
+}

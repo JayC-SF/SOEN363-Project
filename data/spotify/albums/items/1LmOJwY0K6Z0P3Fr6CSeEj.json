@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+      "id": "7GMot9WvBYqhhJz92vhBp6",
+      "name": "EDX",
+      "type": "artist",
+      "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Sirup Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "2017 Sirup Music (Sirup Music)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7640130694866"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1LmOJwY0K6Z0P3Fr6CSeEj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1LmOJwY0K6Z0P3Fr6CSeEj",
+  "id": "1LmOJwY0K6Z0P3Fr6CSeEj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8f87f16221caf17ff5b98f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8f87f16221caf17ff5b98f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d8f87f16221caf17ff5b98f8",
+      "width": 64
+    }
+  ],
+  "label": "Sirup Music",
+  "name": "Feel the Rush",
+  "popularity": 0,
+  "release_date": "2017-05-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1LmOJwY0K6Z0P3Fr6CSeEj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+            "id": "7GMot9WvBYqhhJz92vhBp6",
+            "name": "EDX",
+            "type": "artist",
+            "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207217,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gFGqm3n4eyFCHdlUip7xb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gFGqm3n4eyFCHdlUip7xb",
+        "id": "3gFGqm3n4eyFCHdlUip7xb",
+        "is_local": false,
+        "name": "Feel the Rush",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3gFGqm3n4eyFCHdlUip7xb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1LmOJwY0K6Z0P3Fr6CSeEj"
+}

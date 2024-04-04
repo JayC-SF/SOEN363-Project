@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lHO1eGthNnos9KP2BH0cG",
+      "id": "6lHO1eGthNnos9KP2BH0cG",
+      "name": "Puma Blue",
+      "type": "artist",
+      "uri": "spotify:artist:6lHO1eGthNnos9KP2BH0cG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Blue Flowers Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Blue Flowers Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5051083129619"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Ay2IpoL3zP4FLUvwgLIE8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Ay2IpoL3zP4FLUvwgLIE8",
+  "id": "4Ay2IpoL3zP4FLUvwgLIE8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734abb0c706b91d87ea9abe984",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024abb0c706b91d87ea9abe984",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514abb0c706b91d87ea9abe984",
+      "width": 64
+    }
+  ],
+  "label": "Blue Flowers Music",
+  "name": "Moon Undah Water",
+  "popularity": 0,
+  "release_date": "2018-03-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Ay2IpoL3zP4FLUvwgLIE8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lHO1eGthNnos9KP2BH0cG",
+            "id": "6lHO1eGthNnos9KP2BH0cG",
+            "name": "Puma Blue",
+            "type": "artist",
+            "uri": "spotify:artist:6lHO1eGthNnos9KP2BH0cG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 332318,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZWDvjDY3OCwN300x1ktae"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ZWDvjDY3OCwN300x1ktae",
+        "id": "0ZWDvjDY3OCwN300x1ktae",
+        "is_local": false,
+        "name": "Moon Undah Water",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ZWDvjDY3OCwN300x1ktae"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Ay2IpoL3zP4FLUvwgLIE8"
+}

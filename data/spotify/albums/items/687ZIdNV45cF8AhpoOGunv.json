@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4cnFw4bkIWVGKUBsr93OS5",
+      "id": "4cnFw4bkIWVGKUBsr93OS5",
+      "name": "Stephen Day",
+      "type": "artist",
+      "uri": "spotify:artist:4cnFw4bkIWVGKUBsr93OS5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Stephen Day",
+      "type": "C"
+    },
+    {
+      "text": "2021 Stephen Day",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859744430587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/687ZIdNV45cF8AhpoOGunv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/687ZIdNV45cF8AhpoOGunv",
+  "id": "687ZIdNV45cF8AhpoOGunv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739b46d06d671b96a5c88cbd62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029b46d06d671b96a5c88cbd62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519b46d06d671b96a5c88cbd62",
+      "width": 64
+    }
+  ],
+  "label": "Stephen Day",
+  "name": "Start Again",
+  "popularity": 0,
+  "release_date": "2021-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/687ZIdNV45cF8AhpoOGunv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cnFw4bkIWVGKUBsr93OS5",
+            "id": "4cnFw4bkIWVGKUBsr93OS5",
+            "name": "Stephen Day",
+            "type": "artist",
+            "uri": "spotify:artist:4cnFw4bkIWVGKUBsr93OS5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XCxDzqLWSmP6JfS8P93Wn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XCxDzqLWSmP6JfS8P93Wn",
+        "id": "1XCxDzqLWSmP6JfS8P93Wn",
+        "is_local": false,
+        "name": "Start Again (Live at Franky Ave)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XCxDzqLWSmP6JfS8P93Wn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cnFw4bkIWVGKUBsr93OS5",
+            "id": "4cnFw4bkIWVGKUBsr93OS5",
+            "name": "Stephen Day",
+            "type": "artist",
+            "uri": "spotify:artist:4cnFw4bkIWVGKUBsr93OS5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NtkuvXRJA6eHDsElCo1dX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2NtkuvXRJA6eHDsElCo1dX",
+        "id": "2NtkuvXRJA6eHDsElCo1dX",
+        "is_local": false,
+        "name": "Start Again",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2NtkuvXRJA6eHDsElCo1dX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:687ZIdNV45cF8AhpoOGunv"
+}

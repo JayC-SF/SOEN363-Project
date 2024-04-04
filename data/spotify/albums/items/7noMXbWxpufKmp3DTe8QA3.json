@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+      },
+      "href": "https://api.spotify.com/v1/artists/48jyKugtgYM5RdzwF7zKde",
+      "id": "48jyKugtgYM5RdzwF7zKde",
+      "name": "THIRST",
+      "type": "artist",
+      "uri": "spotify:artist:48jyKugtgYM5RdzwF7zKde"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "734167921471"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7noMXbWxpufKmp3DTe8QA3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7noMXbWxpufKmp3DTe8QA3",
+  "id": "7noMXbWxpufKmp3DTe8QA3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273793015d7cd8d6924bc838705",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02793015d7cd8d6924bc838705",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851793015d7cd8d6924bc838705",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "DANCE",
+  "popularity": 0,
+  "release_date": "2023-01-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7noMXbWxpufKmp3DTe8QA3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+            },
+            "href": "https://api.spotify.com/v1/artists/48jyKugtgYM5RdzwF7zKde",
+            "id": "48jyKugtgYM5RdzwF7zKde",
+            "name": "THIRST",
+            "type": "artist",
+            "uri": "spotify:artist:48jyKugtgYM5RdzwF7zKde"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 115636,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rcEhhu744CN1GCAO2WxWj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rcEhhu744CN1GCAO2WxWj",
+        "id": "0rcEhhu744CN1GCAO2WxWj",
+        "is_local": false,
+        "name": "DANCE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0rcEhhu744CN1GCAO2WxWj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7noMXbWxpufKmp3DTe8QA3"
+}

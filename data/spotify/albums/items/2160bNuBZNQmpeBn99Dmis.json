@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+      "id": "0ZrpamOxcZybMHGg1AYtHP",
+      "name": "Robin Thicke",
+      "type": "artist",
+      "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Star Trak, LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Star Trak, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537349715"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2160bNuBZNQmpeBn99Dmis"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2160bNuBZNQmpeBn99Dmis",
+  "id": "2160bNuBZNQmpeBn99Dmis",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f7774e89198e37dd098edc7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f7774e89198e37dd098edc7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f7774e89198e37dd098edc7",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Blurred Lines",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2160bNuBZNQmpeBn99Dmis/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+            "id": "0ZrpamOxcZybMHGg1AYtHP",
+            "name": "Robin Thicke",
+            "type": "artist",
+            "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+            "id": "4OBJLual30L7gRl5UkeRcT",
+            "name": "T.I.",
+            "type": "artist",
+            "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 263053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XzkemXSiXJa7VgDFPfU4S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XzkemXSiXJa7VgDFPfU4S",
+        "id": "0XzkemXSiXJa7VgDFPfU4S",
+        "is_local": false,
+        "name": "Blurred Lines",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0XzkemXSiXJa7VgDFPfU4S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2160bNuBZNQmpeBn99Dmis"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+      "id": "3zJ68q2vwXpeJypOxOM1DU",
+      "name": "Daniel Caine Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2010 Silva Screen Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2010 Silva Screen Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "738572453046"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2R2LEtnNjEa4Vi995wctKu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2R2LEtnNjEa4Vi995wctKu",
+  "id": "2R2LEtnNjEa4Vi995wctKu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273908251fa24439ae2d546f782",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02908251fa24439ae2d546f782",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851908251fa24439ae2d546f782",
+      "width": 64
+    }
+  ],
+  "label": "Silva Screen Records",
+  "name": "Theme from The A-Team",
+  "popularity": 0,
+  "release_date": "2010-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2R2LEtnNjEa4Vi995wctKu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+            "id": "3zJ68q2vwXpeJypOxOM1DU",
+            "name": "Daniel Caine Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04UmpF9VhAOGjikGpjW4Nb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/04UmpF9VhAOGjikGpjW4Nb",
+        "id": "04UmpF9VhAOGjikGpjW4Nb",
+        "is_local": false,
+        "name": "The A-Team - Title Theme",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:04UmpF9VhAOGjikGpjW4Nb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2R2LEtnNjEa4Vi995wctKu"
+}

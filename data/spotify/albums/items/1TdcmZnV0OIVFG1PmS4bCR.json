@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NKYLVOD0HH7O1anuALOBU",
+      "id": "2NKYLVOD0HH7O1anuALOBU",
+      "name": "The Bare Bones",
+      "type": "artist",
+      "uri": "spotify:artist:2NKYLVOD0HH7O1anuALOBU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 The Bare Bones",
+      "type": "C"
+    },
+    {
+      "text": "2021 The Bare Bones",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195999714561"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TdcmZnV0OIVFG1PmS4bCR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1TdcmZnV0OIVFG1PmS4bCR",
+  "id": "1TdcmZnV0OIVFG1PmS4bCR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320d8dfd2690dd49ced589aec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0220d8dfd2690dd49ced589aec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485120d8dfd2690dd49ced589aec",
+      "width": 64
+    }
+  ],
+  "label": "Two Wild Women Records",
+  "name": "Exile",
+  "popularity": 0,
+  "release_date": "2021-04-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1TdcmZnV0OIVFG1PmS4bCR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NKYLVOD0HH7O1anuALOBU",
+            "id": "2NKYLVOD0HH7O1anuALOBU",
+            "name": "The Bare Bones",
+            "type": "artist",
+            "uri": "spotify:artist:2NKYLVOD0HH7O1anuALOBU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 273350,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uF1iBnBKUvX9DQoKD8eAh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uF1iBnBKUvX9DQoKD8eAh",
+        "id": "1uF1iBnBKUvX9DQoKD8eAh",
+        "is_local": false,
+        "name": "Exile",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1uF1iBnBKUvX9DQoKD8eAh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1TdcmZnV0OIVFG1PmS4bCR"
+}

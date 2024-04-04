@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB"
+      },
+      "href": "https://api.spotify.com/v1/artists/4HGo8l4MbcAYghnxg5kZmB",
+      "id": "4HGo8l4MbcAYghnxg5kZmB",
+      "name": "J Verse",
+      "type": "artist",
+      "uri": "spotify:artist:4HGo8l4MbcAYghnxg5kZmB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Teamwrk Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Teamwrk Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "795397234274"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/27Yt0uaMAKusbnwvS7dzlx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/27Yt0uaMAKusbnwvS7dzlx",
+  "id": "27Yt0uaMAKusbnwvS7dzlx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379004da1ea7a7fa3003d164b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279004da1ea7a7fa3003d164b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179004da1ea7a7fa3003d164b",
+      "width": 64
+    }
+  ],
+  "label": "Teamwrk Records",
+  "name": "My Lil Dancer",
+  "popularity": 0,
+  "release_date": "2022-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/27Yt0uaMAKusbnwvS7dzlx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4HGo8l4MbcAYghnxg5kZmB",
+            "id": "4HGo8l4MbcAYghnxg5kZmB",
+            "name": "J Verse",
+            "type": "artist",
+            "uri": "spotify:artist:4HGo8l4MbcAYghnxg5kZmB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69EkBoYuLneOkFTJ1AyUgd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/69EkBoYuLneOkFTJ1AyUgd",
+        "id": "69EkBoYuLneOkFTJ1AyUgd",
+        "is_local": false,
+        "name": "My Lil Dancer",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:69EkBoYuLneOkFTJ1AyUgd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:27Yt0uaMAKusbnwvS7dzlx"
+}

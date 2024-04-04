@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jthYU5bP4hYeOKxUnOsdj"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jthYU5bP4hYeOKxUnOsdj",
+      "id": "1jthYU5bP4hYeOKxUnOsdj",
+      "name": "bloomin",
+      "type": "artist",
+      "uri": "spotify:artist:1jthYU5bP4hYeOKxUnOsdj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 geeked",
+      "type": "C"
+    },
+    {
+      "text": "2023 geeked",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5905271247466"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4WtC3l1veG9bmkgnjWojnH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4WtC3l1veG9bmkgnjWojnH",
+  "id": "4WtC3l1veG9bmkgnjWojnH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c39c2dff1741eb280b74a67a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c39c2dff1741eb280b74a67a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c39c2dff1741eb280b74a67a",
+      "width": 64
+    }
+  ],
+  "label": "geeked",
+  "name": "Where U @?",
+  "popularity": 17,
+  "release_date": "2023-11-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4WtC3l1veG9bmkgnjWojnH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jthYU5bP4hYeOKxUnOsdj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jthYU5bP4hYeOKxUnOsdj",
+            "id": "1jthYU5bP4hYeOKxUnOsdj",
+            "name": "bloomin",
+            "type": "artist",
+            "uri": "spotify:artist:1jthYU5bP4hYeOKxUnOsdj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164414,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IyOGw8yl5wLEgNoUXSZqs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IyOGw8yl5wLEgNoUXSZqs",
+        "id": "0IyOGw8yl5wLEgNoUXSZqs",
+        "is_local": false,
+        "name": "Where U @?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0IyOGw8yl5wLEgNoUXSZqs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4WtC3l1veG9bmkgnjWojnH"
+}

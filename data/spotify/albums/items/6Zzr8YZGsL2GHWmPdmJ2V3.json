@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TIlROeJjCAhax6c000Pcd",
+      "id": "3TIlROeJjCAhax6c000Pcd",
+      "name": "Devilskin",
+      "type": "artist",
+      "uri": "spotify:artist:3TIlROeJjCAhax6c000Pcd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Devilskin Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2015 Devilskin Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9421030305490"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Zzr8YZGsL2GHWmPdmJ2V3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Zzr8YZGsL2GHWmPdmJ2V3",
+  "id": "6Zzr8YZGsL2GHWmPdmJ2V3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b548cace9ca2e4a0ce9b0e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b548cace9ca2e4a0ce9b0e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b548cace9ca2e4a0ce9b0e1",
+      "width": 64
+    }
+  ],
+  "label": "Devilskin Ltd",
+  "name": "Mountains",
+  "popularity": 0,
+  "release_date": "2015-07-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Zzr8YZGsL2GHWmPdmJ2V3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TIlROeJjCAhax6c000Pcd",
+            "id": "3TIlROeJjCAhax6c000Pcd",
+            "name": "Devilskin",
+            "type": "artist",
+            "uri": "spotify:artist:3TIlROeJjCAhax6c000Pcd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218943,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XlhqIGMRR8ZgrVDtpkbdt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XlhqIGMRR8ZgrVDtpkbdt",
+        "id": "2XlhqIGMRR8ZgrVDtpkbdt",
+        "is_local": false,
+        "name": "Mountains",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2XlhqIGMRR8ZgrVDtpkbdt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Zzr8YZGsL2GHWmPdmJ2V3"
+}

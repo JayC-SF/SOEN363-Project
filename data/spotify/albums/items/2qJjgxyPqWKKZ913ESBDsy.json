@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tqkjPwp6drUKd3A3rmoxC"
+      },
+      "href": "https://api.spotify.com/v1/artists/2tqkjPwp6drUKd3A3rmoxC",
+      "id": "2tqkjPwp6drUKd3A3rmoxC",
+      "name": "Perfect Phase",
+      "type": "artist",
+      "uri": "spotify:artist:2tqkjPwp6drUKd3A3rmoxC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Tripoli Trax",
+      "type": "C"
+    },
+    {
+      "text": "Copyright Control",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653436144"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2qJjgxyPqWKKZ913ESBDsy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2qJjgxyPqWKKZ913ESBDsy",
+  "id": "2qJjgxyPqWKKZ913ESBDsy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5f6a271c1f8681c2816a325",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5f6a271c1f8681c2816a325",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5f6a271c1f8681c2816a325",
+      "width": 64
+    }
+  ],
+  "label": "Tripoli Trax",
+  "name": "Slammer Jammer",
+  "popularity": 0,
+  "release_date": "2002-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2qJjgxyPqWKKZ913ESBDsy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tqkjPwp6drUKd3A3rmoxC"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tqkjPwp6drUKd3A3rmoxC",
+            "id": "2tqkjPwp6drUKd3A3rmoxC",
+            "name": "Perfect Phase",
+            "type": "artist",
+            "uri": "spotify:artist:2tqkjPwp6drUKd3A3rmoxC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 356613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NwjDEIAVqnmF54gAb5n3I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NwjDEIAVqnmF54gAb5n3I",
+        "id": "6NwjDEIAVqnmF54gAb5n3I",
+        "is_local": false,
+        "name": "Slammer Jammer - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NwjDEIAVqnmF54gAb5n3I"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tqkjPwp6drUKd3A3rmoxC"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tqkjPwp6drUKd3A3rmoxC",
+            "id": "2tqkjPwp6drUKd3A3rmoxC",
+            "name": "Perfect Phase",
+            "type": "artist",
+            "uri": "spotify:artist:2tqkjPwp6drUKd3A3rmoxC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 394506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rB2Q0oDBzYpiZTNis8DC0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rB2Q0oDBzYpiZTNis8DC0",
+        "id": "5rB2Q0oDBzYpiZTNis8DC0",
+        "is_local": false,
+        "name": "Slammer Jammer - Mr.Bishi Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5rB2Q0oDBzYpiZTNis8DC0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2qJjgxyPqWKKZ913ESBDsy"
+}

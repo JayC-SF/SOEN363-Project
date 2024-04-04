@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+      },
+      "href": "https://api.spotify.com/v1/artists/5QatamYwvUTOmMHW6WA0AG",
+      "id": "5QatamYwvUTOmMHW6WA0AG",
+      "name": "Terror Jr",
+      "type": "artist",
+      "uri": "spotify:artist:5QatamYwvUTOmMHW6WA0AG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 EFFESS",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 EFFESS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889326620273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4gMbbxJntU8IBrjbexnnrJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4gMbbxJntU8IBrjbexnnrJ",
+  "id": "4gMbbxJntU8IBrjbexnnrJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273256b128491af7494da21fe14",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02256b128491af7494da21fe14",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851256b128491af7494da21fe14",
+      "width": 64
+    }
+  ],
+  "label": "EFFESS",
+  "name": "3 Strikes",
+  "popularity": 0,
+  "release_date": "2016-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4gMbbxJntU8IBrjbexnnrJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QatamYwvUTOmMHW6WA0AG",
+            "id": "5QatamYwvUTOmMHW6WA0AG",
+            "name": "Terror Jr",
+            "type": "artist",
+            "uri": "spotify:artist:5QatamYwvUTOmMHW6WA0AG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 175900,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FrQfROirwZQH9YPskADJA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7FrQfROirwZQH9YPskADJA",
+        "id": "7FrQfROirwZQH9YPskADJA",
+        "is_local": false,
+        "name": "3 Strikes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7FrQfROirwZQH9YPskADJA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4gMbbxJntU8IBrjbexnnrJ"
+}

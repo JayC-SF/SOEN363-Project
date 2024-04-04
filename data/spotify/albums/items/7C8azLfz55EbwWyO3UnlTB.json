@@ -1,0 +1,356 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+      "id": "5M86PSFFaRNTKidvlgHDEE",
+      "name": "Henry Smith",
+      "type": "artist",
+      "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2021 Sony Music Entertainment Sweden AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449811229"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7C8azLfz55EbwWyO3UnlTB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7C8azLfz55EbwWyO3UnlTB",
+  "id": "7C8azLfz55EbwWyO3UnlTB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273541b780cfc855aa13c0fd3d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02541b780cfc855aa13c0fd3d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851541b780cfc855aa13c0fd3d7",
+      "width": 64
+    }
+  ],
+  "label": "Filtr",
+  "name": "80s Piano Covers",
+  "popularity": 2,
+  "release_date": "2021-12-24",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7C8azLfz55EbwWyO3UnlTB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BOtAYDB9ZCSelBaybU6dj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BOtAYDB9ZCSelBaybU6dj",
+        "id": "7BOtAYDB9ZCSelBaybU6dj",
+        "is_local": false,
+        "name": "(I've Had) The Time of My Life - Piano Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BOtAYDB9ZCSelBaybU6dj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62E2MEzW2cnLhCw4V6CO46"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62E2MEzW2cnLhCw4V6CO46",
+        "id": "62E2MEzW2cnLhCw4V6CO46",
+        "is_local": false,
+        "name": "Africa - Piano Version",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:62E2MEzW2cnLhCw4V6CO46"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NbgduIN3ZUXBtTBexCGdk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NbgduIN3ZUXBtTBexCGdk",
+        "id": "1NbgduIN3ZUXBtTBexCGdk",
+        "is_local": false,
+        "name": "Don't Stop Believin - Piano Version",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1NbgduIN3ZUXBtTBexCGdk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kelDZjqfWB0fVtdp3Enf5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kelDZjqfWB0fVtdp3Enf5",
+        "id": "1kelDZjqfWB0fVtdp3Enf5",
+        "is_local": false,
+        "name": "Eye of the Tiger - Piano Version",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1kelDZjqfWB0fVtdp3Enf5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IDGGiQKiavOy8eN12Zlp5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IDGGiQKiavOy8eN12Zlp5",
+        "id": "3IDGGiQKiavOy8eN12Zlp5",
+        "is_local": false,
+        "name": "Fame - Piano Version",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3IDGGiQKiavOy8eN12Zlp5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181125,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1M8ShG8wOQT63zZFv65VA3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1M8ShG8wOQT63zZFv65VA3",
+        "id": "1M8ShG8wOQT63zZFv65VA3",
+        "is_local": false,
+        "name": "I Wanna Dance with Somebody (Who Loves Me) - Piano Version",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1M8ShG8wOQT63zZFv65VA3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qIZQhfNRDsXymVEmMHSEl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qIZQhfNRDsXymVEmMHSEl",
+        "id": "3qIZQhfNRDsXymVEmMHSEl",
+        "is_local": false,
+        "name": "I'm So Excited - Piano Version",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3qIZQhfNRDsXymVEmMHSEl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43wzrTVueVttw9bUgOvOKl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43wzrTVueVttw9bUgOvOKl",
+        "id": "43wzrTVueVttw9bUgOvOKl",
+        "is_local": false,
+        "name": "Take On Me - Piano Version",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:43wzrTVueVttw9bUgOvOKl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pMQzJrvLyoW8Qd0Naz3bi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pMQzJrvLyoW8Qd0Naz3bi",
+        "id": "7pMQzJrvLyoW8Qd0Naz3bi",
+        "is_local": false,
+        "name": "The Final Countdown - Piano Version",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7pMQzJrvLyoW8Qd0Naz3bi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M86PSFFaRNTKidvlgHDEE",
+            "id": "5M86PSFFaRNTKidvlgHDEE",
+            "name": "Henry Smith",
+            "type": "artist",
+            "uri": "spotify:artist:5M86PSFFaRNTKidvlgHDEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185181,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zUJJmvkRMhqpvWfssPrMw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zUJJmvkRMhqpvWfssPrMw",
+        "id": "5zUJJmvkRMhqpvWfssPrMw",
+        "is_local": false,
+        "name": "The Winner Takes It All - Piano Version",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5zUJJmvkRMhqpvWfssPrMw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:7C8azLfz55EbwWyO3UnlTB"
+}

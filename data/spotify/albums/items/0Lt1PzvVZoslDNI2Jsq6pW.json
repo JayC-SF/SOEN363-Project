@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2sf28o6euxEDpYkG9dMtuM",
+      "id": "2sf28o6euxEDpYkG9dMtuM",
+      "name": "Cartoon",
+      "type": "artist",
+      "uri": "spotify:artist:2sf28o6euxEDpYkG9dMtuM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/0cA0C4yBNRaN2EZsE2wT3Y",
+      "id": "0cA0C4yBNRaN2EZsE2wT3Y",
+      "name": "Daniel Levi",
+      "type": "artist",
+      "uri": "spotify:artist:0cA0C4yBNRaN2EZsE2wT3Y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2015 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199513140"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Lt1PzvVZoslDNI2Jsq6pW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Lt1PzvVZoslDNI2Jsq6pW",
+  "id": "0Lt1PzvVZoslDNI2Jsq6pW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732773b7d6ca91258a83d06783",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022773b7d6ca91258a83d06783",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512773b7d6ca91258a83d06783",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "On & On",
+  "popularity": 0,
+  "release_date": "2015-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Lt1PzvVZoslDNI2Jsq6pW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sf28o6euxEDpYkG9dMtuM",
+            "id": "2sf28o6euxEDpYkG9dMtuM",
+            "name": "Cartoon",
+            "type": "artist",
+            "uri": "spotify:artist:2sf28o6euxEDpYkG9dMtuM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/0cA0C4yBNRaN2EZsE2wT3Y",
+            "id": "0cA0C4yBNRaN2EZsE2wT3Y",
+            "name": "Daniel Levi",
+            "type": "artist",
+            "uri": "spotify:artist:0cA0C4yBNRaN2EZsE2wT3Y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207068,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4B2kkxg3wKSTZw5JPaUtzQ",
+        "id": "4B2kkxg3wKSTZw5JPaUtzQ",
+        "is_local": false,
+        "name": "On & On",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4B2kkxg3wKSTZw5JPaUtzQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Lt1PzvVZoslDNI2Jsq6pW"
+}

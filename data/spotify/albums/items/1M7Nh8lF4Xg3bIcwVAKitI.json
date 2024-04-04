@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aby7MYHsm3JS0eSifxu3I",
+      "id": "0aby7MYHsm3JS0eSifxu3I",
+      "name": "Stan Christ",
+      "type": "artist",
+      "uri": "spotify:artist:0aby7MYHsm3JS0eSifxu3I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Revised Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Revised Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195541883554"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1M7Nh8lF4Xg3bIcwVAKitI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1M7Nh8lF4Xg3bIcwVAKitI",
+  "id": "1M7Nh8lF4Xg3bIcwVAKitI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b232f51e71aa84a6a40d54c8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b232f51e71aa84a6a40d54c8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b232f51e71aa84a6a40d54c8",
+      "width": 64
+    }
+  ],
+  "label": "Revised Records",
+  "name": "Trepidation",
+  "popularity": 7,
+  "release_date": "2020-08-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1M7Nh8lF4Xg3bIcwVAKitI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aby7MYHsm3JS0eSifxu3I",
+            "id": "0aby7MYHsm3JS0eSifxu3I",
+            "name": "Stan Christ",
+            "type": "artist",
+            "uri": "spotify:artist:0aby7MYHsm3JS0eSifxu3I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 262400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xDPYggKsvXFblelNnCnu4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xDPYggKsvXFblelNnCnu4",
+        "id": "2xDPYggKsvXFblelNnCnu4",
+        "is_local": false,
+        "name": "Trepidation",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xDPYggKsvXFblelNnCnu4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1M7Nh8lF4Xg3bIcwVAKitI"
+}

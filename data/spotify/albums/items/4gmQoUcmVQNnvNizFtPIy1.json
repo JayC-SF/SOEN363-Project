@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Y8i0N5eDGrqRbk3MJGBni",
+      "id": "2Y8i0N5eDGrqRbk3MJGBni",
+      "name": "Liad Abraham",
+      "type": "artist",
+      "uri": "spotify:artist:2Y8i0N5eDGrqRbk3MJGBni"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 EMMAYA Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 EMMAYA Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195397797166"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4gmQoUcmVQNnvNizFtPIy1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4gmQoUcmVQNnvNizFtPIy1",
+  "id": "4gmQoUcmVQNnvNizFtPIy1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d855e5eac09f33165c57891f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d855e5eac09f33165c57891f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d855e5eac09f33165c57891f",
+      "width": 64
+    }
+  ],
+  "label": "EMMAYA Records",
+  "name": "Take on Me",
+  "popularity": 0,
+  "release_date": "2020-07-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4gmQoUcmVQNnvNizFtPIy1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Y8i0N5eDGrqRbk3MJGBni",
+            "id": "2Y8i0N5eDGrqRbk3MJGBni",
+            "name": "Liad Abraham",
+            "type": "artist",
+            "uri": "spotify:artist:2Y8i0N5eDGrqRbk3MJGBni"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163780,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77XzsThBtBHRS9jk1RYql5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77XzsThBtBHRS9jk1RYql5",
+        "id": "77XzsThBtBHRS9jk1RYql5",
+        "is_local": false,
+        "name": "Take on Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77XzsThBtBHRS9jk1RYql5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4gmQoUcmVQNnvNizFtPIy1"
+}

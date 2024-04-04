@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id": "6KImCVD70vtIoJWnq6nGn3",
+      "name": "Harry Styles",
+      "type": "artist",
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Erskine Records Limited, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448132844"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/659e2eKbsMH0vYCs5qgFmy",
+  "id": "659e2eKbsMH0vYCs5qgFmy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737cf2b9825bb43083d123ac22",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027cf2b9825bb43083d123ac22",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517cf2b9825bb43083d123ac22",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Watermelon Sugar",
+  "popularity": 1,
+  "release_date": "2019-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/659e2eKbsMH0vYCs5qgFmy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "type": "artist",
+            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1e9oZCCiX42nJl0AcqriVo",
+        "id": "1e9oZCCiX42nJl0AcqriVo",
+        "is_local": false,
+        "name": "Watermelon Sugar",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1e9oZCCiX42nJl0AcqriVo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "type": "artist",
+            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aJEh9Oqdz7PRLKTpH25pB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aJEh9Oqdz7PRLKTpH25pB",
+        "id": "5aJEh9Oqdz7PRLKTpH25pB",
+        "is_local": false,
+        "name": "Lights Up",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5aJEh9Oqdz7PRLKTpH25pB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:659e2eKbsMH0vYCs5qgFmy"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
+      "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+      "name": "One Direction",
+      "type": "artist",
+      "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2015 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445381610"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7LnU0hAOYe9aq91PCKMI7A"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7LnU0hAOYe9aq91PCKMI7A",
+  "id": "7LnU0hAOYe9aq91PCKMI7A",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370e2af26b1812efc5b9e44c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270e2af26b1812efc5b9e44c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170e2af26b1812efc5b9e44c6",
+      "width": 64
+    }
+  ],
+  "label": "Syco Music",
+  "name": "Drag Me Down",
+  "popularity": 0,
+  "release_date": "2015-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7LnU0hAOYe9aq91PCKMI7A/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
+            "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+            "name": "One Direction",
+            "type": "artist",
+            "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70OTIpw8x8UXUsuCHW9i1i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70OTIpw8x8UXUsuCHW9i1i",
+        "id": "70OTIpw8x8UXUsuCHW9i1i",
+        "is_local": false,
+        "name": "Drag Me Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70OTIpw8x8UXUsuCHW9i1i"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7LnU0hAOYe9aq91PCKMI7A"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VBAKMui4zm5MnBWNn3NbL",
+      "id": "1VBAKMui4zm5MnBWNn3NbL",
+      "name": "Devault",
+      "type": "artist",
+      "uri": "spotify:artist:1VBAKMui4zm5MnBWNn3NbL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+      },
+      "href": "https://api.spotify.com/v1/artists/4u5smJBskI6Adzv08PuiUP",
+      "id": "4u5smJBskI6Adzv08PuiUP",
+      "name": "Kiiara",
+      "type": "artist",
+      "uri": "spotify:artist:4u5smJBskI6Adzv08PuiUP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465032158"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/14FYO8daZMySiSi43HX3Zg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/14FYO8daZMySiSi43HX3Zg",
+  "id": "14FYO8daZMySiSi43HX3Zg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730cbceb3de6a06277e23a68b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020cbceb3de6a06277e23a68b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510cbceb3de6a06277e23a68b4",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Never Felt Like This (feat. Kiiara)",
+  "popularity": 0,
+  "release_date": "2021-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/14FYO8daZMySiSi43HX3Zg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBAKMui4zm5MnBWNn3NbL",
+            "id": "1VBAKMui4zm5MnBWNn3NbL",
+            "name": "Devault",
+            "type": "artist",
+            "uri": "spotify:artist:1VBAKMui4zm5MnBWNn3NbL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/4u5smJBskI6Adzv08PuiUP",
+            "id": "4u5smJBskI6Adzv08PuiUP",
+            "name": "Kiiara",
+            "type": "artist",
+            "uri": "spotify:artist:4u5smJBskI6Adzv08PuiUP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 259672,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6H6NYmcW2ZvpIu33vFQOpp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6H6NYmcW2ZvpIu33vFQOpp",
+        "id": "6H6NYmcW2ZvpIu33vFQOpp",
+        "is_local": false,
+        "name": "Never Felt Like This",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6H6NYmcW2ZvpIu33vFQOpp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:14FYO8daZMySiSi43HX3Zg"
+}

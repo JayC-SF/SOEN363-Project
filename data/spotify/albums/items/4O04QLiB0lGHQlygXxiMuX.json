@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+      "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+      "name": "Selena Gomez",
+      "type": "artist",
+      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602508470523"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4O04QLiB0lGHQlygXxiMuX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4O04QLiB0lGHQlygXxiMuX",
+  "id": "4O04QLiB0lGHQlygXxiMuX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d4349841a125fd697100285",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d4349841a125fd697100285",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d4349841a125fd697100285",
+      "width": 64
+    }
+  ],
+  "label": "Interscope Records",
+  "name": "Look At Her Now",
+  "popularity": 2,
+  "release_date": "2019-10-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4O04QLiB0lGHQlygXxiMuX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+            "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+            "name": "Selena Gomez",
+            "type": "artist",
+            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+          }
+        ],
+        "available_markets": [
+          "KR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 162595,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4yI3HpbSFSgFZtJP2kDe5m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4yI3HpbSFSgFZtJP2kDe5m",
+        "id": "4yI3HpbSFSgFZtJP2kDe5m",
+        "is_local": false,
+        "name": "Look At Her Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4yI3HpbSFSgFZtJP2kDe5m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4O04QLiB0lGHQlygXxiMuX"
+}

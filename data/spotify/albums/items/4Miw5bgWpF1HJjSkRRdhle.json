@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1rseljH1vr6bx1XaqNx47Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/1rseljH1vr6bx1XaqNx47Q",
+      "id": "1rseljH1vr6bx1XaqNx47Q",
+      "name": "The Gee Cees / Jimmy Gordon",
+      "type": "artist",
+      "uri": "spotify:artist:1rseljH1vr6bx1XaqNx47Q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Sundazed Music, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2019 American Music (BMI)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "090771810816"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Miw5bgWpF1HJjSkRRdhle"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Miw5bgWpF1HJjSkRRdhle",
+  "id": "4Miw5bgWpF1HJjSkRRdhle",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273000f5165d3a598ca09f8cd17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02000f5165d3a598ca09f8cd17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851000f5165d3a598ca09f8cd17",
+      "width": 64
+    }
+  ],
+  "label": "Sundazed Music / Modern Harmonic",
+  "name": "Buzz Saw / Buzzzzzz",
+  "popularity": 0,
+  "release_date": "2019-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Miw5bgWpF1HJjSkRRdhle/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7z5dGQlHRJ7VpuJiKqvcLV"
+            },
+            "href": "https://api.spotify.com/v1/artists/7z5dGQlHRJ7VpuJiKqvcLV",
+            "id": "7z5dGQlHRJ7VpuJiKqvcLV",
+            "name": "The Gee Cees",
+            "type": "artist",
+            "uri": "spotify:artist:7z5dGQlHRJ7VpuJiKqvcLV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 130000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qaD8dm3lAuzN0ewmm7RBl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qaD8dm3lAuzN0ewmm7RBl",
+        "id": "0qaD8dm3lAuzN0ewmm7RBl",
+        "is_local": false,
+        "name": "Buzz Saw",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0qaD8dm3lAuzN0ewmm7RBl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23IQyjNDpOf4Kco9XXRhIC"
+            },
+            "href": "https://api.spotify.com/v1/artists/23IQyjNDpOf4Kco9XXRhIC",
+            "id": "23IQyjNDpOf4Kco9XXRhIC",
+            "name": "Jimmy Gordon",
+            "type": "artist",
+            "uri": "spotify:artist:23IQyjNDpOf4Kco9XXRhIC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0G9fmrU0pWmP9aDz0RZfnS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0G9fmrU0pWmP9aDz0RZfnS",
+        "id": "0G9fmrU0pWmP9aDz0RZfnS",
+        "is_local": false,
+        "name": "Buzzzzzz",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0G9fmrU0pWmP9aDz0RZfnS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4Miw5bgWpF1HJjSkRRdhle"
+}

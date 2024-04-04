@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Db8AKNMsmpj2CN9H8lVxH",
+      "id": "7Db8AKNMsmpj2CN9H8lVxH",
+      "name": "Justin Champagne",
+      "type": "artist",
+      "uri": "spotify:artist:7Db8AKNMsmpj2CN9H8lVxH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Country Boy Livin' Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Country Boy Livin' Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497337200"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6NmIZGdsfYh21Fz2vFRI8K",
+  "id": "6NmIZGdsfYh21Fz2vFRI8K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273367e08e9405c419c8b80ad14",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02367e08e9405c419c8b80ad14",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851367e08e9405c419c8b80ad14",
+      "width": 64
+    }
+  ],
+  "label": "Country Boy Livin' Music",
+  "name": "When I Pull Up",
+  "popularity": 0,
+  "release_date": "2020-10-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6NmIZGdsfYh21Fz2vFRI8K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Db8AKNMsmpj2CN9H8lVxH",
+            "id": "7Db8AKNMsmpj2CN9H8lVxH",
+            "name": "Justin Champagne",
+            "type": "artist",
+            "uri": "spotify:artist:7Db8AKNMsmpj2CN9H8lVxH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36YL11gGDlMvhPvrIOYqQn",
+        "id": "36YL11gGDlMvhPvrIOYqQn",
+        "is_local": false,
+        "name": "When I Pull Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36YL11gGDlMvhPvrIOYqQn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6NmIZGdsfYh21Fz2vFRI8K"
+}

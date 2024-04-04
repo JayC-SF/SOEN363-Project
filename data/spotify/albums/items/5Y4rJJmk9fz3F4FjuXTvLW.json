@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+      "id": "3dBVyJ7JuOMt4GE9607Qin",
+      "name": "T. Rex",
+      "type": "artist",
+      "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 1972 Spirit Catalog Holdings, S.\u00e0.r.l. administered by Spirit One Music (BMI)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1972 Spirit Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00811790027852"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Y4rJJmk9fz3F4FjuXTvLW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Y4rJJmk9fz3F4FjuXTvLW",
+  "id": "5Y4rJJmk9fz3F4FjuXTvLW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5c3f0126bd9b57d1d826171",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5c3f0126bd9b57d1d826171",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5c3f0126bd9b57d1d826171",
+      "width": 64
+    }
+  ],
+  "label": "T-Rex Catalog (Spirit Music)",
+  "name": "Children Of The Revolution",
+  "popularity": 39,
+  "release_date": "1972-09-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Y4rJJmk9fz3F4FjuXTvLW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin",
+            "id": "3dBVyJ7JuOMt4GE9607Qin",
+            "name": "T. Rex",
+            "type": "artist",
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 150186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3P4uUs9X0cPw7rf37NTndV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3P4uUs9X0cPw7rf37NTndV",
+        "id": "3P4uUs9X0cPw7rf37NTndV",
+        "is_local": false,
+        "name": "Children Of The Revolution",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3P4uUs9X0cPw7rf37NTndV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Y4rJJmk9fz3F4FjuXTvLW"
+}

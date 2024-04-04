@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+      },
+      "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+      "id": "57ylwQTnFnIhJh4nu4rxCs",
+      "name": "In Flames",
+      "type": "artist",
+      "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Nuclear Blast",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Nuclear Blast",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577345661"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2gocWkA7KIxe4DN7CqKuJQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2gocWkA7KIxe4DN7CqKuJQ",
+  "id": "2gocWkA7KIxe4DN7CqKuJQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27360d5c3352420ccdf031fc6f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0260d5c3352420ccdf031fc6f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485160d5c3352420ccdf031fc6f2",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Australia Pty. Ltd.",
+  "name": "I Am Above",
+  "popularity": 0,
+  "release_date": "2018-12-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2gocWkA7KIxe4DN7CqKuJQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+            },
+            "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+            "id": "57ylwQTnFnIhJh4nu4rxCs",
+            "name": "In Flames",
+            "type": "artist",
+            "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229816,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RbSpgqV4oDW0x6NxeHlqn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RbSpgqV4oDW0x6NxeHlqn",
+        "id": "6RbSpgqV4oDW0x6NxeHlqn",
+        "is_local": false,
+        "name": "I Am Above",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6RbSpgqV4oDW0x6NxeHlqn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2gocWkA7KIxe4DN7CqKuJQ"
+}

@@ -1,0 +1,147 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+      "id": "0NGAZxHanS9e0iNHpR8f2W",
+      "name": "Alok",
+      "type": "artist",
+      "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/5veVxxPm1vzgi6pO2iVA8L",
+      "id": "5veVxxPm1vzgi6pO2iVA8L",
+      "name": "Bruno Martini",
+      "type": "artist",
+      "uri": "spotify:artist:5veVxxPm1vzgi6pO2iVA8L"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Spinnin Records B.V., Under exclusive license to Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Spinnin Records B.V., Under exclusive license to Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557287141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6apmeAAgvzvhBKio8WYThf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6apmeAAgvzvhBKio8WYThf",
+  "id": "6apmeAAgvzvhBKio8WYThf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273292563f7ccd0361f68a743e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02292563f7ccd0361f68a743e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851292563f7ccd0361f68a743e1",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AB",
+  "name": "Hear Me Now",
+  "popularity": 42,
+  "release_date": "2016-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6apmeAAgvzvhBKio8WYThf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+            "id": "0NGAZxHanS9e0iNHpR8f2W",
+            "name": "Alok",
+            "type": "artist",
+            "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/5veVxxPm1vzgi6pO2iVA8L",
+            "id": "5veVxxPm1vzgi6pO2iVA8L",
+            "name": "Bruno Martini",
+            "type": "artist",
+            "uri": "spotify:artist:5veVxxPm1vzgi6pO2iVA8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qPLO2XOUaRrRxkvLZ3AEK",
+            "id": "7qPLO2XOUaRrRxkvLZ3AEK",
+            "name": "Zeeba",
+            "type": "artist",
+            "uri": "spotify:artist:7qPLO2XOUaRrRxkvLZ3AEK"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "EE",
+          "FI",
+          "IS",
+          "LT",
+          "LV",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 192846,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1a5Yu5L18qNxVhXx38njON",
+        "id": "1a5Yu5L18qNxVhXx38njON",
+        "is_local": false,
+        "name": "Hear Me Now",
+        "preview_url": "https://p.scdn.co/mp3-preview/f38328731683bef5fcc6b8dee13900883e810b9c?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1a5Yu5L18qNxVhXx38njON"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6apmeAAgvzvhBKio8WYThf"
+}

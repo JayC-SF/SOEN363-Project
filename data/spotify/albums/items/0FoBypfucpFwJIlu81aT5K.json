@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GDbiv3spRmZ1XdM1jQbT7",
+      "id": "1GDbiv3spRmZ1XdM1jQbT7",
+      "name": "NATTI NATASHA",
+      "type": "artist",
+      "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+      },
+      "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+      "id": "1i8SpTcr7yvPOmcqrbnVXY",
+      "name": "Ozuna",
+      "type": "artist",
+      "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Pina Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Pina Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446674223"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0FoBypfucpFwJIlu81aT5K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0FoBypfucpFwJIlu81aT5K",
+  "id": "0FoBypfucpFwJIlu81aT5K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ff16b23d53ff793a64ec2138",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ff16b23d53ff793a64ec2138",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ff16b23d53ff793a64ec2138",
+      "width": 64
+    }
+  ],
+  "label": "Pina Records",
+  "name": "Criminal",
+  "popularity": 0,
+  "release_date": "2017-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0FoBypfucpFwJIlu81aT5K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GDbiv3spRmZ1XdM1jQbT7",
+            "id": "1GDbiv3spRmZ1XdM1jQbT7",
+            "name": "NATTI NATASHA",
+            "type": "artist",
+            "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+            },
+            "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+            "id": "1i8SpTcr7yvPOmcqrbnVXY",
+            "name": "Ozuna",
+            "type": "artist",
+            "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232549,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SmgFAhQkQCQPyBiBxR6Te"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SmgFAhQkQCQPyBiBxR6Te",
+        "id": "2SmgFAhQkQCQPyBiBxR6Te",
+        "is_local": false,
+        "name": "Criminal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SmgFAhQkQCQPyBiBxR6Te"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0FoBypfucpFwJIlu81aT5K"
+}

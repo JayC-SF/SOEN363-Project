@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NWbwDZY1VkRqFafuQm6wk",
+      "id": "0NWbwDZY1VkRqFafuQm6wk",
+      "name": "Mike WiLL Made-It",
+      "type": "artist",
+      "uri": "spotify:artist:0NWbwDZY1VkRqFafuQm6wk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "name": "Rihanna",
+      "type": "artist",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Westbury Road Entertainment, LLC, under exclusive license to EarDruma/Interscope Records.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Westbury Road Entertainment, LLC, under exclusive license to EarDruma/Interscope Records.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557010343"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7yOTJiQr9w0uJdJLIdNYdb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7yOTJiQr9w0uJdJLIdNYdb",
+  "id": "7yOTJiQr9w0uJdJLIdNYdb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5359168a1feaa06da78b9f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5359168a1feaa06da78b9f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5359168a1feaa06da78b9f0",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Nothing Is Promised",
+  "popularity": 0,
+  "release_date": "2016-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7yOTJiQr9w0uJdJLIdNYdb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NWbwDZY1VkRqFafuQm6wk",
+            "id": "0NWbwDZY1VkRqFafuQm6wk",
+            "name": "Mike WiLL Made-It",
+            "type": "artist",
+            "uri": "spotify:artist:0NWbwDZY1VkRqFafuQm6wk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170680,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ARLOHcUfEh9qdlRiKDjEU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ARLOHcUfEh9qdlRiKDjEU",
+        "id": "5ARLOHcUfEh9qdlRiKDjEU",
+        "is_local": false,
+        "name": "Nothing Is Promised",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ARLOHcUfEh9qdlRiKDjEU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7yOTJiQr9w0uJdJLIdNYdb"
+}

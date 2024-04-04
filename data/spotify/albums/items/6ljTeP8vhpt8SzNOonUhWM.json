@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75LPMzMMXdqp5WxuDrmq7j"
+      },
+      "href": "https://api.spotify.com/v1/artists/75LPMzMMXdqp5WxuDrmq7j",
+      "id": "75LPMzMMXdqp5WxuDrmq7j",
+      "name": "The Free Movement",
+      "type": "artist",
+      "uri": "spotify:artist:75LPMzMMXdqp5WxuDrmq7j"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Delta Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Delta Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634457027985"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ljTeP8vhpt8SzNOonUhWM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ljTeP8vhpt8SzNOonUhWM",
+  "id": "6ljTeP8vhpt8SzNOonUhWM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bb00cdf9c0ef33b3958b7d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bb00cdf9c0ef33b3958b7d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bb00cdf9c0ef33b3958b7d7",
+      "width": 64
+    }
+  ],
+  "label": "Delta Records",
+  "name": "I\u2019ve Found Someone of My Own",
+  "popularity": 0,
+  "release_date": "2020-07-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ljTeP8vhpt8SzNOonUhWM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75LPMzMMXdqp5WxuDrmq7j"
+            },
+            "href": "https://api.spotify.com/v1/artists/75LPMzMMXdqp5WxuDrmq7j",
+            "id": "75LPMzMMXdqp5WxuDrmq7j",
+            "name": "The Free Movement",
+            "type": "artist",
+            "uri": "spotify:artist:75LPMzMMXdqp5WxuDrmq7j"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hxIpLgfV2czen9N6GSFY3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hxIpLgfV2czen9N6GSFY3",
+        "id": "1hxIpLgfV2czen9N6GSFY3",
+        "is_local": false,
+        "name": "I\u2019ve Found Someone of My Own",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1hxIpLgfV2czen9N6GSFY3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ljTeP8vhpt8SzNOonUhWM"
+}

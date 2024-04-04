@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GV5OpDaGm4sYeWlaXMHnJ",
+      "id": "6GV5OpDaGm4sYeWlaXMHnJ",
+      "name": "Mel Blue",
+      "type": "artist",
+      "uri": "spotify:artist:6GV5OpDaGm4sYeWlaXMHnJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Mel Blue",
+      "type": "C"
+    },
+    {
+      "text": "2020 Mel Blue",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9324690184958"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ENDP3BlhECOMmoVPHJjhI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ENDP3BlhECOMmoVPHJjhI",
+  "id": "2ENDP3BlhECOMmoVPHJjhI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273342d492f07e10eed92a9488e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02342d492f07e10eed92a9488e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851342d492f07e10eed92a9488e",
+      "width": 64
+    }
+  ],
+  "label": "Mel Blue",
+  "name": "Wake Up Call",
+  "popularity": 0,
+  "release_date": "2020-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ENDP3BlhECOMmoVPHJjhI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GV5OpDaGm4sYeWlaXMHnJ",
+            "id": "6GV5OpDaGm4sYeWlaXMHnJ",
+            "name": "Mel Blue",
+            "type": "artist",
+            "uri": "spotify:artist:6GV5OpDaGm4sYeWlaXMHnJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PIoQZVq8iDRc7mioP5RgB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6PIoQZVq8iDRc7mioP5RgB",
+        "id": "6PIoQZVq8iDRc7mioP5RgB",
+        "is_local": false,
+        "name": "Wake Up Call",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6PIoQZVq8iDRc7mioP5RgB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ENDP3BlhECOMmoVPHJjhI"
+}

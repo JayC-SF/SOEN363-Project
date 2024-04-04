@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MKpGPhBp9KeXjGooKHNDX",
+      "id": "3MKpGPhBp9KeXjGooKHNDX",
+      "name": "A.L.A",
+      "type": "artist",
+      "uri": "spotify:artist:3MKpGPhBp9KeXjGooKHNDX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 A.L.A",
+      "type": "C"
+    },
+    {
+      "text": "2023 A.L.A",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197982781673"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lyP8oDaitJX5TY0t5JicB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0lyP8oDaitJX5TY0t5JicB",
+  "id": "0lyP8oDaitJX5TY0t5JicB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730eebf1b122b5931b1f539b89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020eebf1b122b5931b1f539b89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510eebf1b122b5931b1f539b89",
+      "width": 64
+    }
+  ],
+  "label": "A.L.A",
+  "name": "LVL 10",
+  "popularity": 1,
+  "release_date": "2020-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0lyP8oDaitJX5TY0t5JicB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MKpGPhBp9KeXjGooKHNDX",
+            "id": "3MKpGPhBp9KeXjGooKHNDX",
+            "name": "A.L.A",
+            "type": "artist",
+            "uri": "spotify:artist:3MKpGPhBp9KeXjGooKHNDX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jWPWd604AyuZUuYg1NQRM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jWPWd604AyuZUuYg1NQRM",
+        "id": "0jWPWd604AyuZUuYg1NQRM",
+        "is_local": false,
+        "name": "LVL 10",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jWPWd604AyuZUuYg1NQRM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0lyP8oDaitJX5TY0t5JicB"
+}

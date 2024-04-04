@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JP4Fq5xI2TaoBZB8qfvcl"
+      },
+      "href": "https://api.spotify.com/v1/artists/4JP4Fq5xI2TaoBZB8qfvcl",
+      "id": "4JP4Fq5xI2TaoBZB8qfvcl",
+      "name": "Shiny Goose",
+      "type": "artist",
+      "uri": "spotify:artist:4JP4Fq5xI2TaoBZB8qfvcl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Romain Bodier",
+      "type": "C"
+    },
+    {
+      "text": "2014 Romain Bodier",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3610156840114"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0YUnsSfzQL0bvezhdg74JQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0YUnsSfzQL0bvezhdg74JQ",
+  "id": "0YUnsSfzQL0bvezhdg74JQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733b68f7a398777f6b64d27514",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023b68f7a398777f6b64d27514",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513b68f7a398777f6b64d27514",
+      "width": 64
+    }
+  ],
+  "label": "Shiny Goose - Only",
+  "name": "Amnesia",
+  "popularity": 0,
+  "release_date": "2014-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0YUnsSfzQL0bvezhdg74JQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JP4Fq5xI2TaoBZB8qfvcl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JP4Fq5xI2TaoBZB8qfvcl",
+            "id": "4JP4Fq5xI2TaoBZB8qfvcl",
+            "name": "Shiny Goose",
+            "type": "artist",
+            "uri": "spotify:artist:4JP4Fq5xI2TaoBZB8qfvcl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 288027,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2p5nnjrfMCL0ux5qW6kMcc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2p5nnjrfMCL0ux5qW6kMcc",
+        "id": "2p5nnjrfMCL0ux5qW6kMcc",
+        "is_local": false,
+        "name": "Amnesia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2p5nnjrfMCL0ux5qW6kMcc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JP4Fq5xI2TaoBZB8qfvcl"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JP4Fq5xI2TaoBZB8qfvcl",
+            "id": "4JP4Fq5xI2TaoBZB8qfvcl",
+            "name": "Shiny Goose",
+            "type": "artist",
+            "uri": "spotify:artist:4JP4Fq5xI2TaoBZB8qfvcl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 314907,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PP3c2VnSAb4X14y6dWndN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6PP3c2VnSAb4X14y6dWndN",
+        "id": "6PP3c2VnSAb4X14y6dWndN",
+        "is_local": false,
+        "name": "Ljuda",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6PP3c2VnSAb4X14y6dWndN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0YUnsSfzQL0bvezhdg74JQ"
+}

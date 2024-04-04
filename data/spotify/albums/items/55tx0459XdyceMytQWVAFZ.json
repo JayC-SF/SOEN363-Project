@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dQqbhUDOp8p48N2zxrZT4"
+      },
+      "href": "https://api.spotify.com/v1/artists/1dQqbhUDOp8p48N2zxrZT4",
+      "id": "1dQqbhUDOp8p48N2zxrZT4",
+      "name": "OGF",
+      "type": "artist",
+      "uri": "spotify:artist:1dQqbhUDOp8p48N2zxrZT4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qMwn0A1NkYRIo8jyOMygH",
+      "id": "0qMwn0A1NkYRIo8jyOMygH",
+      "name": "ZOT on the WAVE",
+      "type": "artist",
+      "uri": "spotify:artist:0qMwn0A1NkYRIo8jyOMygH"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2020 OGF",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 OGF",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859755955543"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/55tx0459XdyceMytQWVAFZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/55tx0459XdyceMytQWVAFZ",
+  "id": "55tx0459XdyceMytQWVAFZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1851167768efbf67a4169ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1851167768efbf67a4169ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1851167768efbf67a4169ee",
+      "width": 64
+    }
+  ],
+  "label": "OGF",
+  "name": "TAKI",
+  "popularity": 29,
+  "release_date": "2020-07-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/55tx0459XdyceMytQWVAFZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dQqbhUDOp8p48N2zxrZT4"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dQqbhUDOp8p48N2zxrZT4",
+            "id": "1dQqbhUDOp8p48N2zxrZT4",
+            "name": "OGF",
+            "type": "artist",
+            "uri": "spotify:artist:1dQqbhUDOp8p48N2zxrZT4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qMwn0A1NkYRIo8jyOMygH",
+            "id": "0qMwn0A1NkYRIo8jyOMygH",
+            "name": "ZOT on the WAVE",
+            "type": "artist",
+            "uri": "spotify:artist:0qMwn0A1NkYRIo8jyOMygH"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 172687,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r5Nli2R698XMhkJB5raPh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0r5Nli2R698XMhkJB5raPh",
+        "id": "0r5Nli2R698XMhkJB5raPh",
+        "is_local": false,
+        "name": "TAKI",
+        "preview_url": "https://p.scdn.co/mp3-preview/ab46c5c25f13cc1145e8714f2a1b9214e8ff19f5?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0r5Nli2R698XMhkJB5raPh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:55tx0459XdyceMytQWVAFZ"
+}

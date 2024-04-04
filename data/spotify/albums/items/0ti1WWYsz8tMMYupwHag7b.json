@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MNLhvqJkWsO6tcjY9ps62",
+      "id": "3MNLhvqJkWsO6tcjY9ps62",
+      "name": "Maude Latour",
+      "type": "artist",
+      "uri": "spotify:artist:3MNLhvqJkWsO6tcjY9ps62"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Maude Latour",
+      "type": "C"
+    },
+    {
+      "text": "2021 Maude Latour",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7290114327947"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ti1WWYsz8tMMYupwHag7b",
+  "id": "0ti1WWYsz8tMMYupwHag7b",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273979db397d95c8c368c0334ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02979db397d95c8c368c0334ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851979db397d95c8c368c0334ca",
+      "width": 64
+    }
+  ],
+  "label": "Maude Latour",
+  "name": "Walk Backwards",
+  "popularity": 0,
+  "release_date": "2021-02-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ti1WWYsz8tMMYupwHag7b/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MNLhvqJkWsO6tcjY9ps62",
+            "id": "3MNLhvqJkWsO6tcjY9ps62",
+            "name": "Maude Latour",
+            "type": "artist",
+            "uri": "spotify:artist:3MNLhvqJkWsO6tcjY9ps62"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HtwantcVnMCOzGmiyeGmT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4HtwantcVnMCOzGmiyeGmT",
+        "id": "4HtwantcVnMCOzGmiyeGmT",
+        "is_local": false,
+        "name": "Walk Backwards",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4HtwantcVnMCOzGmiyeGmT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ti1WWYsz8tMMYupwHag7b"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG"
+      },
+      "href": "https://api.spotify.com/v1/artists/2tnTYLzDkug2iNhsBpWmuG",
+      "id": "2tnTYLzDkug2iNhsBpWmuG",
+      "name": "Michelle Qureshi",
+      "type": "artist",
+      "uri": "spotify:artist:2tnTYLzDkug2iNhsBpWmuG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Music As Metaphor",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436128964"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3JjkIGz4v1DqgMBhquFJk3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3JjkIGz4v1DqgMBhquFJk3",
+  "id": "3JjkIGz4v1DqgMBhquFJk3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739195855e7a88a4ac3002779e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029195855e7a88a4ac3002779e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519195855e7a88a4ac3002779e",
+      "width": 64
+    }
+  ],
+  "label": "Music As Metaphor",
+  "name": "Because We Knew",
+  "popularity": 0,
+  "release_date": "2019-04-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3JjkIGz4v1DqgMBhquFJk3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tnTYLzDkug2iNhsBpWmuG",
+            "id": "2tnTYLzDkug2iNhsBpWmuG",
+            "name": "Michelle Qureshi",
+            "type": "artist",
+            "uri": "spotify:artist:2tnTYLzDkug2iNhsBpWmuG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 366500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7utTBzoFdishyzcKBgl2KI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7utTBzoFdishyzcKBgl2KI",
+        "id": "7utTBzoFdishyzcKBgl2KI",
+        "is_local": false,
+        "name": "Because We Knew",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7utTBzoFdishyzcKBgl2KI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3JjkIGz4v1DqgMBhquFJk3"
+}

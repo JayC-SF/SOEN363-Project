@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7D1rdyxM8nFRcbuQStVIXS"
+      },
+      "href": "https://api.spotify.com/v1/artists/7D1rdyxM8nFRcbuQStVIXS",
+      "id": "7D1rdyxM8nFRcbuQStVIXS",
+      "name": "Trills",
+      "type": "artist",
+      "uri": "spotify:artist:7D1rdyxM8nFRcbuQStVIXS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Trills music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Trills music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526228474"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0vkpDp3UzBSQdxvEwqVc0k"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0vkpDp3UzBSQdxvEwqVc0k",
+  "id": "0vkpDp3UzBSQdxvEwqVc0k",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3667aaff43b9293dbceda18",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3667aaff43b9293dbceda18",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3667aaff43b9293dbceda18",
+      "width": 64
+    }
+  ],
+  "label": "Trills music",
+  "name": "Speak Loud",
+  "popularity": 0,
+  "release_date": "2018-05-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0vkpDp3UzBSQdxvEwqVc0k/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7D1rdyxM8nFRcbuQStVIXS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7D1rdyxM8nFRcbuQStVIXS",
+            "id": "7D1rdyxM8nFRcbuQStVIXS",
+            "name": "Trills",
+            "type": "artist",
+            "uri": "spotify:artist:7D1rdyxM8nFRcbuQStVIXS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226206,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sK0EeRju1WhFyl10o9o2G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sK0EeRju1WhFyl10o9o2G",
+        "id": "1sK0EeRju1WhFyl10o9o2G",
+        "is_local": false,
+        "name": "Speak Loud",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1sK0EeRju1WhFyl10o9o2G"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0vkpDp3UzBSQdxvEwqVc0k"
+}

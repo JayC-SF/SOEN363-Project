@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+      "id": "1vCWHaC5f2uS3yhpwWbIA6",
+      "name": "Avicii",
+      "type": "artist",
+      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Avicii Music AB, under exclusive license to Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Avicii Music AB, under exclusive license to Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537691906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7aWSGbRJvnNazltliRJCP5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7aWSGbRJvnNazltliRJCP5",
+  "id": "7aWSGbRJvnNazltliRJCP5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1123e633b892b56f346aaca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1123e633b892b56f346aaca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1123e633b892b56f346aaca",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Wake Me Up (Remixes II)",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7aWSGbRJvnNazltliRJCP5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+            "id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "name": "Avicii",
+            "type": "artist",
+            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 372010,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rehD9tYlljYfBqR26j6UN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rehD9tYlljYfBqR26j6UN",
+        "id": "3rehD9tYlljYfBqR26j6UN",
+        "is_local": false,
+        "name": "Wake Me Up - PANG! Slowing Things Down Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3rehD9tYlljYfBqR26j6UN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+            "id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "name": "Avicii",
+            "type": "artist",
+            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 392812,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55Gb4zxb1RsYTcwFy5pBLh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55Gb4zxb1RsYTcwFy5pBLh",
+        "id": "55Gb4zxb1RsYTcwFy5pBLh",
+        "is_local": false,
+        "name": "Wake Me Up - EDX Miami Sunset Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:55Gb4zxb1RsYTcwFy5pBLh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:7aWSGbRJvnNazltliRJCP5"
+}

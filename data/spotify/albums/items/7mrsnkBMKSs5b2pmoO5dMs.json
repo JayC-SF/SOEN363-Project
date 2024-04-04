@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+      "id": "3fMbdgg4jU18AjLCKBhRSm",
+      "name": "Michael Jackson",
+      "type": "artist",
+      "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2012 MJJ Productions Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443617087"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7mrsnkBMKSs5b2pmoO5dMs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7mrsnkBMKSs5b2pmoO5dMs",
+  "id": "7mrsnkBMKSs5b2pmoO5dMs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4d553ba18ddad65b741b963",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4d553ba18ddad65b741b963",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4d553ba18ddad65b741b963",
+      "width": 64
+    }
+  ],
+  "label": "Epic/Legacy",
+  "name": "Bad (Remix By Afrojack Featuring Pitbull- DJ Buddha Edit) (feat. Pitbull)",
+  "popularity": 0,
+  "release_date": "2012-08-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7mrsnkBMKSs5b2pmoO5dMs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+            "id": "3fMbdgg4jU18AjLCKBhRSm",
+            "name": "Michael Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+            "id": "0TnOYISbd1XYRBk9myaseg",
+            "name": "Pitbull",
+            "type": "artist",
+            "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+            },
+            "href": "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+            "id": "4D75GcNG95ebPtNvoNVXhz",
+            "name": "AFROJACK",
+            "type": "artist",
+            "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yIk7ZPkFA9w08yyyX1vAR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yIk7ZPkFA9w08yyyX1vAR",
+        "id": "0yIk7ZPkFA9w08yyyX1vAR",
+        "is_local": false,
+        "name": "Bad (feat. Pitbull)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0yIk7ZPkFA9w08yyyX1vAR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7mrsnkBMKSs5b2pmoO5dMs"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7iDYNK08NVbrIjmhL1dC4H"
+      },
+      "href": "https://api.spotify.com/v1/artists/7iDYNK08NVbrIjmhL1dC4H",
+      "id": "7iDYNK08NVbrIjmhL1dC4H",
+      "name": "Liam Howard",
+      "type": "artist",
+      "uri": "spotify:artist:7iDYNK08NVbrIjmhL1dC4H"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 liam",
+      "type": "C"
+    },
+    {
+      "text": "2021 liam",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192650892507"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lvdJouGordI1nKwOk73En"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6lvdJouGordI1nKwOk73En",
+  "id": "6lvdJouGordI1nKwOk73En",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273191b5da6a5550db0156d0053",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02191b5da6a5550db0156d0053",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851191b5da6a5550db0156d0053",
+      "width": 64
+    }
+  ],
+  "label": "Lasmus Records",
+  "name": "\u043f\u043e\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043b\u044e\u0431\u043e\u0432\u044c (remix)",
+  "popularity": 0,
+  "release_date": "2021-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6lvdJouGordI1nKwOk73En/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iDYNK08NVbrIjmhL1dC4H"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iDYNK08NVbrIjmhL1dC4H",
+            "id": "7iDYNK08NVbrIjmhL1dC4H",
+            "name": "Liam Howard",
+            "type": "artist",
+            "uri": "spotify:artist:7iDYNK08NVbrIjmhL1dC4H"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6y91g8ZPGm8yhe2rXMZAvl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6y91g8ZPGm8yhe2rXMZAvl",
+        "id": "6y91g8ZPGm8yhe2rXMZAvl",
+        "is_local": false,
+        "name": "\u043f\u043e\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043b\u044e\u0431\u043e\u0432\u044c - remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6y91g8ZPGm8yhe2rXMZAvl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6lvdJouGordI1nKwOk73En"
+}

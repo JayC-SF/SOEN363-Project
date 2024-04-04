@@ -1,0 +1,460 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+      },
+      "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+      "id": "5WQw86oZtrTc4nUfagqpcU",
+      "name": "Vinicius Cantuaria",
+      "type": "artist",
+      "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2010 na\u00efve",
+      "type": "C"
+    },
+    {
+      "text": "2010 na\u00efve",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3298499017815"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/03GWjwXKmSCjrIxkySrNxb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/03GWjwXKmSCjrIxkySrNxb",
+  "id": "03GWjwXKmSCjrIxkySrNxb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c09c5a649faee5b36e8de01c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c09c5a649faee5b36e8de01c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c09c5a649faee5b36e8de01c",
+      "width": 64
+    }
+  ],
+  "label": "na\u00efve jazz",
+  "name": "Lagrimas mexicanas",
+  "popularity": 0,
+  "release_date": "2011-01-17",
+  "release_date_precision": "day",
+  "total_tracks": 10,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/03GWjwXKmSCjrIxkySrNxb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 423773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rlxD95Xow8TmGoFFQ1tF5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rlxD95Xow8TmGoFFQ1tF5",
+        "id": "2rlxD95Xow8TmGoFFQ1tF5",
+        "is_local": false,
+        "name": "Mi Declaration",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2rlxD95Xow8TmGoFFQ1tF5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Mzwd5BUM6HNfq2oUbmNef"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Mzwd5BUM6HNfq2oUbmNef",
+        "id": "6Mzwd5BUM6HNfq2oUbmNef",
+        "is_local": false,
+        "name": "Calle 7",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6Mzwd5BUM6HNfq2oUbmNef"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ll7XWM2L0Rd7c1992QoiO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ll7XWM2L0Rd7c1992QoiO",
+        "id": "0ll7XWM2L0Rd7c1992QoiO",
+        "is_local": false,
+        "name": "la curva",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0ll7XWM2L0Rd7c1992QoiO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 275133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qWmIM9YLui5uru6AYtC6V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qWmIM9YLui5uru6AYtC6V",
+        "id": "4qWmIM9YLui5uru6AYtC6V",
+        "is_local": false,
+        "name": "Lagrimas mexicanas",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4qWmIM9YLui5uru6AYtC6V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 300880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30jCwUxl8mzC6QlgxgIiSa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30jCwUxl8mzC6QlgxgIiSa",
+        "id": "30jCwUxl8mzC6QlgxgIiSa",
+        "is_local": false,
+        "name": "Lagrimas de amor",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:30jCwUxl8mzC6QlgxgIiSa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 97360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7b3Jo6ADkcHTYXC9ySQCDf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7b3Jo6ADkcHTYXC9ySQCDf",
+        "id": "7b3Jo6ADkcHTYXC9ySQCDf",
+        "is_local": false,
+        "name": "Capezinho",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7b3Jo6ADkcHTYXC9ySQCDf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vLVc99PbNCvnxfm9EsZId"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6vLVc99PbNCvnxfm9EsZId",
+        "id": "6vLVc99PbNCvnxfm9EsZId",
+        "is_local": false,
+        "name": "El Camino",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6vLVc99PbNCvnxfm9EsZId"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 310120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7y26nhTc5vn516GN5bXRab"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7y26nhTc5vn516GN5bXRab",
+        "id": "7y26nhTc5vn516GN5bXRab",
+        "is_local": false,
+        "name": "Aquela mulher",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7y26nhTc5vn516GN5bXRab"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 280786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sGJL9EqPgtddDKhudwx8m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sGJL9EqPgtddDKhudwx8m",
+        "id": "6sGJL9EqPgtddDKhudwx8m",
+        "is_local": false,
+        "name": "Briga de namorados",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6sGJL9EqPgtddDKhudwx8m"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WQw86oZtrTc4nUfagqpcU",
+            "id": "5WQw86oZtrTc4nUfagqpcU",
+            "name": "Vinicius Cantuaria",
+            "type": "artist",
+            "uri": "spotify:artist:5WQw86oZtrTc4nUfagqpcU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+            "id": "3SONlwqLIP2GtaMh9pLYe5",
+            "name": "Bill Frisell",
+            "type": "artist",
+            "uri": "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 115520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vp4qiKDEZJWiNpEfRisYM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vp4qiKDEZJWiNpEfRisYM",
+        "id": "7vp4qiKDEZJWiNpEfRisYM",
+        "is_local": false,
+        "name": "Forinfas",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7vp4qiKDEZJWiNpEfRisYM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  },
+  "type": "album",
+  "uri": "spotify:album:03GWjwXKmSCjrIxkySrNxb"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5slSOLb4CcoPOgptg4tsxo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5slSOLb4CcoPOgptg4tsxo",
+      "id": "5slSOLb4CcoPOgptg4tsxo",
+      "name": "Michael Chapman",
+      "type": "artist",
+      "uri": "spotify:artist:5slSOLb4CcoPOgptg4tsxo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Paradise of Bachelors",
+      "type": "C"
+    },
+    {
+      "text": "2019 Paradise of Bachelors",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843563103869"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7xTNAzSB5PoMv5ct3JoOQi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7xTNAzSB5PoMv5ct3JoOQi",
+  "id": "7xTNAzSB5PoMv5ct3JoOQi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737897399d8f43dcd86e1c7296",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027897399d8f43dcd86e1c7296",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517897399d8f43dcd86e1c7296",
+      "width": 64
+    }
+  ],
+  "label": "Paradise of Bachelors",
+  "name": "After All This Time",
+  "popularity": 0,
+  "release_date": "2019-01-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7xTNAzSB5PoMv5ct3JoOQi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5slSOLb4CcoPOgptg4tsxo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5slSOLb4CcoPOgptg4tsxo",
+            "id": "5slSOLb4CcoPOgptg4tsxo",
+            "name": "Michael Chapman",
+            "type": "artist",
+            "uri": "spotify:artist:5slSOLb4CcoPOgptg4tsxo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245510,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xHvwJsVvg3T9oQW8uuNk1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xHvwJsVvg3T9oQW8uuNk1",
+        "id": "0xHvwJsVvg3T9oQW8uuNk1",
+        "is_local": false,
+        "name": "After All This Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xHvwJsVvg3T9oQW8uuNk1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7xTNAzSB5PoMv5ct3JoOQi"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vpFNyHReL2ASeI97LlvAK"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vpFNyHReL2ASeI97LlvAK",
+      "id": "0vpFNyHReL2ASeI97LlvAK",
+      "name": "1600j",
+      "type": "artist",
+      "uri": "spotify:artist:0vpFNyHReL2ASeI97LlvAK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 10K Projects",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 10K Projects",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00810130441303"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Hi49zE7DhwAl05cTLsr0F"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Hi49zE7DhwAl05cTLsr0F",
+  "id": "5Hi49zE7DhwAl05cTLsr0F",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c599979f444faf7e52fee67b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c599979f444faf7e52fee67b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c599979f444faf7e52fee67b",
+      "width": 64
+    }
+  ],
+  "label": "10k Projects",
+  "name": "Like That",
+  "popularity": 4,
+  "release_date": "2023-04-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Hi49zE7DhwAl05cTLsr0F/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0vpFNyHReL2ASeI97LlvAK"
+            },
+            "href": "https://api.spotify.com/v1/artists/0vpFNyHReL2ASeI97LlvAK",
+            "id": "0vpFNyHReL2ASeI97LlvAK",
+            "name": "1600j",
+            "type": "artist",
+            "uri": "spotify:artist:0vpFNyHReL2ASeI97LlvAK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174785,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tazFAP3nmOngDZrgbbFpk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tazFAP3nmOngDZrgbbFpk",
+        "id": "6tazFAP3nmOngDZrgbbFpk",
+        "is_local": false,
+        "name": "Like That",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6tazFAP3nmOngDZrgbbFpk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Hi49zE7DhwAl05cTLsr0F"
+}

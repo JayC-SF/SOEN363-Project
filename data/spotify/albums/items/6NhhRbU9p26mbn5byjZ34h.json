@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+      },
+      "href": "https://api.spotify.com/v1/artists/53k2km8u55n9YaJJB7scjX",
+      "id": "53k2km8u55n9YaJJB7scjX",
+      "name": "carwash",
+      "type": "artist",
+      "uri": "spotify:artist:53k2km8u55n9YaJJB7scjX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 playroom",
+      "type": "C"
+    },
+    {
+      "text": "2019 playroom",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194838342569"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6NhhRbU9p26mbn5byjZ34h",
+  "id": "6NhhRbU9p26mbn5byjZ34h",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9f00262963ee3898d25c0f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9f00262963ee3898d25c0f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9f00262963ee3898d25c0f5",
+      "width": 64
+    }
+  ],
+  "label": "Playroom",
+  "name": "striptease",
+  "popularity": 0,
+  "release_date": "2019-11-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6NhhRbU9p26mbn5byjZ34h/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+            },
+            "href": "https://api.spotify.com/v1/artists/53k2km8u55n9YaJJB7scjX",
+            "id": "53k2km8u55n9YaJJB7scjX",
+            "name": "carwash",
+            "type": "artist",
+            "uri": "spotify:artist:53k2km8u55n9YaJJB7scjX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160659,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2g0Bmi3kYEntusDP6xlAGZ",
+        "id": "2g0Bmi3kYEntusDP6xlAGZ",
+        "is_local": false,
+        "name": "striptease",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2g0Bmi3kYEntusDP6xlAGZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6NhhRbU9p26mbn5byjZ34h"
+}

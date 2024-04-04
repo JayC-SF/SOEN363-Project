@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+      "id": "2kCcBybjl3SAtIcwdWpUe3",
+      "name": "Lil Peep",
+      "type": "artist",
+      "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+      },
+      "href": "https://api.spotify.com/v1/artists/5g63iWaMJ2UrkZMkCC8dMi",
+      "id": "5g63iWaMJ2UrkZMkCC8dMi",
+      "name": "Lil Tracy",
+      "type": "artist",
+      "uri": "spotify:artist:5g63iWaMJ2UrkZMkCC8dMi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Lil Peep / AUTNMY",
+      "type": "C"
+    },
+    {
+      "text": "2016 Lil Peep / AUTNMY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526393950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/31ytJD8mpNnjpZ0XhBWJf3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/31ytJD8mpNnjpZ0XhBWJf3",
+  "id": "31ytJD8mpNnjpZ0XhBWJf3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273139686ff157232288ca0fd9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02139686ff157232288ca0fd9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851139686ff157232288ca0fd9e",
+      "width": 64
+    }
+  ],
+  "label": "Lil Peep",
+  "name": "White Wine",
+  "popularity": 0,
+  "release_date": "2017-06-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/31ytJD8mpNnjpZ0XhBWJf3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+            "id": "2kCcBybjl3SAtIcwdWpUe3",
+            "name": "Lil Peep",
+            "type": "artist",
+            "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+            },
+            "href": "https://api.spotify.com/v1/artists/5g63iWaMJ2UrkZMkCC8dMi",
+            "id": "5g63iWaMJ2UrkZMkCC8dMi",
+            "name": "Lil Tracy",
+            "type": "artist",
+            "uri": "spotify:artist:5g63iWaMJ2UrkZMkCC8dMi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Q241k92c1I5sqKbdw6Ujb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Q241k92c1I5sqKbdw6Ujb",
+        "id": "3Q241k92c1I5sqKbdw6Ujb",
+        "is_local": false,
+        "name": "white wine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Q241k92c1I5sqKbdw6Ujb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:31ytJD8mpNnjpZ0XhBWJf3"
+}

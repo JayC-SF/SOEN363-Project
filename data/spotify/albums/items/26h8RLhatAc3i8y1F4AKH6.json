@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Xtaqhj8MygkfndSArQOOS",
+      "id": "3Xtaqhj8MygkfndSArQOOS",
+      "name": "Blooom",
+      "type": "artist",
+      "uri": "spotify:artist:3Xtaqhj8MygkfndSArQOOS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2020 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199550497"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/26h8RLhatAc3i8y1F4AKH6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/26h8RLhatAc3i8y1F4AKH6",
+  "id": "26h8RLhatAc3i8y1F4AKH6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0fcf7ba9b12d4ce652758cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b0fcf7ba9b12d4ce652758cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b0fcf7ba9b12d4ce652758cd",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Be Around",
+  "popularity": 0,
+  "release_date": "2020-04-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/26h8RLhatAc3i8y1F4AKH6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Xtaqhj8MygkfndSArQOOS",
+            "id": "3Xtaqhj8MygkfndSArQOOS",
+            "name": "Blooom",
+            "type": "artist",
+            "uri": "spotify:artist:3Xtaqhj8MygkfndSArQOOS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ESjOXn7iahDSKSq5bZq7X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ESjOXn7iahDSKSq5bZq7X",
+        "id": "4ESjOXn7iahDSKSq5bZq7X",
+        "is_local": false,
+        "name": "Be Around",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ESjOXn7iahDSKSq5bZq7X"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:26h8RLhatAc3i8y1F4AKH6"
+}

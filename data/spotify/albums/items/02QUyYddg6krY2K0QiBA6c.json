@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB"
+      },
+      "href": "https://api.spotify.com/v1/artists/29ADVF7I6YQyY2SGUlzCcB",
+      "id": "29ADVF7I6YQyY2SGUlzCcB",
+      "name": "Theia",
+      "type": "artist",
+      "uri": "spotify:artist:29ADVF7I6YQyY2SGUlzCcB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Theia under exclusive license to Warner Music New Zealand Limited",
+      "type": "C"
+    },
+    {
+      "text": "2016 Theia under exclusive license to Warner Music New Zealand Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295911997"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/02QUyYddg6krY2K0QiBA6c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/02QUyYddg6krY2K0QiBA6c",
+  "id": "02QUyYddg6krY2K0QiBA6c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273134eedaf08eb5824fcb6bd5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02134eedaf08eb5824fcb6bd5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851134eedaf08eb5824fcb6bd5e",
+      "width": 64
+    }
+  ],
+  "label": "WM New Zealand",
+  "name": "Roam",
+  "popularity": 0,
+  "release_date": "2016-08-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/02QUyYddg6krY2K0QiBA6c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB"
+            },
+            "href": "https://api.spotify.com/v1/artists/29ADVF7I6YQyY2SGUlzCcB",
+            "id": "29ADVF7I6YQyY2SGUlzCcB",
+            "name": "Theia",
+            "type": "artist",
+            "uri": "spotify:artist:29ADVF7I6YQyY2SGUlzCcB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227977,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RnRmjHFLSynYWAEejtqqK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RnRmjHFLSynYWAEejtqqK",
+        "id": "1RnRmjHFLSynYWAEejtqqK",
+        "is_local": false,
+        "name": "Roam",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RnRmjHFLSynYWAEejtqqK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:02QUyYddg6krY2K0QiBA6c"
+}

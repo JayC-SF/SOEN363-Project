@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pBMkZNIlbGTH3hrsQJqAa",
+      "id": "5pBMkZNIlbGTH3hrsQJqAa",
+      "name": "Mc Kevin",
+      "type": "artist",
+      "uri": "spotify:artist:5pBMkZNIlbGTH3hrsQJqAa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Gr6 Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 GR6 MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562196618"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lb72znwdAOD1FK2NSyOR6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6lb72znwdAOD1FK2NSyOR6",
+  "id": "6lb72znwdAOD1FK2NSyOR6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730923b829a5f047c188db38d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020923b829a5f047c188db38d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510923b829a5f047c188db38d5",
+      "width": 64
+    }
+  ],
+  "label": "GR6 MUSIC",
+  "name": "Seu Jeito de Olhar",
+  "popularity": 0,
+  "release_date": "2018-02-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6lb72znwdAOD1FK2NSyOR6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pBMkZNIlbGTH3hrsQJqAa",
+            "id": "5pBMkZNIlbGTH3hrsQJqAa",
+            "name": "Mc Kevin",
+            "type": "artist",
+            "uri": "spotify:artist:5pBMkZNIlbGTH3hrsQJqAa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+            },
+            "href": "https://api.spotify.com/v1/artists/6E2st8OqIaS7PU5gj95FSE",
+            "id": "6E2st8OqIaS7PU5gj95FSE",
+            "name": "1Kilo",
+            "type": "artist",
+            "uri": "spotify:artist:6E2st8OqIaS7PU5gj95FSE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219110,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fFGwKlt8V2LZwC4RDh2mB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fFGwKlt8V2LZwC4RDh2mB",
+        "id": "3fFGwKlt8V2LZwC4RDh2mB",
+        "is_local": false,
+        "name": "Seu Jeito de Olhar",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3fFGwKlt8V2LZwC4RDh2mB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6lb72znwdAOD1FK2NSyOR6"
+}

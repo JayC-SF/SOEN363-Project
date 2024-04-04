@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+      },
+      "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
+      "id": "5y8tKLUfMvliMe8IKamR32",
+      "name": "d4vd",
+      "type": "artist",
+      "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3519830 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3519830 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196698262995"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2GUXfDCJBll4hNevaWdf2R"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2GUXfDCJBll4hNevaWdf2R",
+  "id": "2GUXfDCJBll4hNevaWdf2R",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330b59df2d3cb1cf25a8acbfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230b59df2d3cb1cf25a8acbfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130b59df2d3cb1cf25a8acbfa",
+      "width": 64
+    }
+  ],
+  "label": "3519830 Records DK",
+  "name": "You and I",
+  "popularity": 0,
+  "release_date": "2022-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2GUXfDCJBll4hNevaWdf2R/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+            },
+            "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
+            "id": "5y8tKLUfMvliMe8IKamR32",
+            "name": "d4vd",
+            "type": "artist",
+            "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151694,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DiZYLKGeRJn1u3qLeI87N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5DiZYLKGeRJn1u3qLeI87N",
+        "id": "5DiZYLKGeRJn1u3qLeI87N",
+        "is_local": false,
+        "name": "You and I",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5DiZYLKGeRJn1u3qLeI87N"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2GUXfDCJBll4hNevaWdf2R"
+}

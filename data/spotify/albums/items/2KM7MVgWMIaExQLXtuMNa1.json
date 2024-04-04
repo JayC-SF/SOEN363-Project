@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+      "id": "3v0QTRruILayLe5VsaYdvk",
+      "name": "HAARPER",
+      "type": "artist",
+      "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Haarper",
+      "type": "C"
+    },
+    {
+      "text": "2022 Haarper",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196777819089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2KM7MVgWMIaExQLXtuMNa1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2KM7MVgWMIaExQLXtuMNa1",
+  "id": "2KM7MVgWMIaExQLXtuMNa1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cb5bdca10b9669f00eafeb9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cb5bdca10b9669f00eafeb9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cb5bdca10b9669f00eafeb9",
+      "width": 64
+    }
+  ],
+  "label": "1144223 Records DK2",
+  "name": "CINNAMON",
+  "popularity": 0,
+  "release_date": "2022-02-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2KM7MVgWMIaExQLXtuMNa1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+            "id": "3v0QTRruILayLe5VsaYdvk",
+            "name": "HAARPER",
+            "type": "artist",
+            "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128909,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vOX0HZYNRCXe3vTGI3Vrm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vOX0HZYNRCXe3vTGI3Vrm",
+        "id": "4vOX0HZYNRCXe3vTGI3Vrm",
+        "is_local": false,
+        "name": "CINNAMON",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4vOX0HZYNRCXe3vTGI3Vrm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2KM7MVgWMIaExQLXtuMNa1"
+}

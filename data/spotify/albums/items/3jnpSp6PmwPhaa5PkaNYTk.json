@@ -1,0 +1,97 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Nvaq4y2ygxIqfwXyz0HeH",
+      "id": "2Nvaq4y2ygxIqfwXyz0HeH",
+      "name": "VHS Collection",
+      "type": "artist",
+      "uri": "spotify:artist:2Nvaq4y2ygxIqfwXyz0HeH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "VHS Collection",
+      "type": "C"
+    },
+    {
+      "text": "VHS Collection",
+      "type": "P"
+    }
+  ],
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3jnpSp6PmwPhaa5PkaNYTk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3jnpSp6PmwPhaa5PkaNYTk",
+  "id": "3jnpSp6PmwPhaa5PkaNYTk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0c579b573eebe91e0b7eedb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b0c579b573eebe91e0b7eedb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b0c579b573eebe91e0b7eedb",
+      "width": 64
+    }
+  ],
+  "label": "VHS Collection",
+  "name": "One",
+  "popularity": 0,
+  "release_date": "2018-04-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3jnpSp6PmwPhaa5PkaNYTk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Nvaq4y2ygxIqfwXyz0HeH",
+            "id": "2Nvaq4y2ygxIqfwXyz0HeH",
+            "name": "VHS Collection",
+            "type": "artist",
+            "uri": "spotify:artist:2Nvaq4y2ygxIqfwXyz0HeH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 282386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ld77zaq65SISfHELLtBWr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Ld77zaq65SISfHELLtBWr",
+        "id": "0Ld77zaq65SISfHELLtBWr",
+        "is_local": false,
+        "name": "One",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Ld77zaq65SISfHELLtBWr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3jnpSp6PmwPhaa5PkaNYTk"
+}

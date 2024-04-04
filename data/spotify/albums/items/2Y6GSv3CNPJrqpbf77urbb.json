@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0S5gD7VAwtV4l9U2Jx8jyK"
+      },
+      "href": "https://api.spotify.com/v1/artists/0S5gD7VAwtV4l9U2Jx8jyK",
+      "id": "0S5gD7VAwtV4l9U2Jx8jyK",
+      "name": "Riven",
+      "type": "artist",
+      "uri": "spotify:artist:0S5gD7VAwtV4l9U2Jx8jyK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 lil altima riven",
+      "type": "C"
+    },
+    {
+      "text": "2018 lil altima riven",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "053000139324"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Y6GSv3CNPJrqpbf77urbb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Y6GSv3CNPJrqpbf77urbb",
+  "id": "2Y6GSv3CNPJrqpbf77urbb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c301a36e3a8b9d95497d889",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c301a36e3a8b9d95497d889",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c301a36e3a8b9d95497d889",
+      "width": 64
+    }
+  ],
+  "label": "lil altima riven",
+  "name": "starships",
+  "popularity": 0,
+  "release_date": "2018-03-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Y6GSv3CNPJrqpbf77urbb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0S5gD7VAwtV4l9U2Jx8jyK"
+            },
+            "href": "https://api.spotify.com/v1/artists/0S5gD7VAwtV4l9U2Jx8jyK",
+            "id": "0S5gD7VAwtV4l9U2Jx8jyK",
+            "name": "Riven",
+            "type": "artist",
+            "uri": "spotify:artist:0S5gD7VAwtV4l9U2Jx8jyK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128104,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xQWx3xMyf1oNeF98Yzwox"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xQWx3xMyf1oNeF98Yzwox",
+        "id": "0xQWx3xMyf1oNeF98Yzwox",
+        "is_local": false,
+        "name": "starships",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xQWx3xMyf1oNeF98Yzwox"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Y6GSv3CNPJrqpbf77urbb"
+}

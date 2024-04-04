@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HBjj22wzbscIZ9sEb5dyf",
+      "id": "1HBjj22wzbscIZ9sEb5dyf",
+      "name": "Jonas Blue",
+      "type": "artist",
+      "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Jonas Blue Music, under exclusive license to Virgin EMI Records, a division of Universal Music Operations Ltd",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Jonas Blue Music, under exclusive license to Virgin EMI Records, a division of Universal Music Operations Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567059264"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3qPeztqcJx17T5AlE6C1mM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3qPeztqcJx17T5AlE6C1mM",
+  "id": "3qPeztqcJx17T5AlE6C1mM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341acb292d0daebf9d7d293fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241acb292d0daebf9d7d293fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141acb292d0daebf9d7d293fd",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "We Could Go Back",
+  "popularity": 0,
+  "release_date": "2017-10-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3qPeztqcJx17T5AlE6C1mM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HBjj22wzbscIZ9sEb5dyf",
+            "id": "1HBjj22wzbscIZ9sEb5dyf",
+            "name": "Jonas Blue",
+            "type": "artist",
+            "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mctsJBrfcWvWH7S8h716D",
+            "id": "6mctsJBrfcWvWH7S8h716D",
+            "name": "Moelogo",
+            "type": "artist",
+            "uri": "spotify:artist:6mctsJBrfcWvWH7S8h716D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192449,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PJ55QsqjSVwN2esqfMDFu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PJ55QsqjSVwN2esqfMDFu",
+        "id": "2PJ55QsqjSVwN2esqfMDFu",
+        "is_local": false,
+        "name": "We Could Go Back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2PJ55QsqjSVwN2esqfMDFu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3qPeztqcJx17T5AlE6C1mM"
+}

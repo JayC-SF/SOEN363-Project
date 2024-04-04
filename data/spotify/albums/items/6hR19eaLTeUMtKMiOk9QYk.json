@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+      "id": "4ehtJnVumNf6xzSCDk8aLB",
+      "name": "Martin Jensen",
+      "type": "artist",
+      "uri": "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3iMzbvXlgNUpoFccD60bvr",
+      "id": "3iMzbvXlgNUpoFccD60bvr",
+      "name": "Prezioso",
+      "type": "artist",
+      "uri": "spotify:artist:3iMzbvXlgNUpoFccD60bvr"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871483773"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6hR19eaLTeUMtKMiOk9QYk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6hR19eaLTeUMtKMiOk9QYk",
+  "id": "6hR19eaLTeUMtKMiOk9QYk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27316840f763d7aa7a11c6b0a96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0216840f763d7aa7a11c6b0a96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485116840f763d7aa7a11c6b0a96",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Hollywood",
+  "popularity": 33,
+  "release_date": "2023-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6hR19eaLTeUMtKMiOk9QYk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+            "id": "4ehtJnVumNf6xzSCDk8aLB",
+            "name": "Martin Jensen",
+            "type": "artist",
+            "uri": "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+            },
+            "href": "https://api.spotify.com/v1/artists/3iMzbvXlgNUpoFccD60bvr",
+            "id": "3iMzbvXlgNUpoFccD60bvr",
+            "name": "Prezioso",
+            "type": "artist",
+            "uri": "spotify:artist:3iMzbvXlgNUpoFccD60bvr"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 145591,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23JWLtiaMJzKZsk2eN2vJb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/23JWLtiaMJzKZsk2eN2vJb",
+        "id": "23JWLtiaMJzKZsk2eN2vJb",
+        "is_local": false,
+        "name": "Hollywood",
+        "preview_url": "https://p.scdn.co/mp3-preview/2e2389527a8aaeafaf1adcb60c37bfc1f615ed68?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:23JWLtiaMJzKZsk2eN2vJb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6hR19eaLTeUMtKMiOk9QYk"
+}

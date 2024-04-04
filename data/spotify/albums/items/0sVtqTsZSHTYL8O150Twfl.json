@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ErzCpIMyLcjPiwT4elrtZ",
+      "id": "0ErzCpIMyLcjPiwT4elrtZ",
+      "name": "NLE Choppa",
+      "type": "artist",
+      "uri": "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 No Love Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2019 No Love Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191998209695"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0sVtqTsZSHTYL8O150Twfl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0sVtqTsZSHTYL8O150Twfl",
+  "id": "0sVtqTsZSHTYL8O150Twfl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bbe85c97294a5d543fcbf770",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bbe85c97294a5d543fcbf770",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bbe85c97294a5d543fcbf770",
+      "width": 64
+    }
+  ],
+  "label": "No Love Entertainment",
+  "name": "CAPO",
+  "popularity": 0,
+  "release_date": "2019-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0sVtqTsZSHTYL8O150Twfl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ErzCpIMyLcjPiwT4elrtZ",
+            "id": "0ErzCpIMyLcjPiwT4elrtZ",
+            "name": "NLE Choppa",
+            "type": "artist",
+            "uri": "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192200,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KjQPDJQCUuqDj3AmfSBCa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KjQPDJQCUuqDj3AmfSBCa",
+        "id": "1KjQPDJQCUuqDj3AmfSBCa",
+        "is_local": false,
+        "name": "CAPO",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1KjQPDJQCUuqDj3AmfSBCa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0sVtqTsZSHTYL8O150Twfl"
+}

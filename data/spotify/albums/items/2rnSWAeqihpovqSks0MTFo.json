@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel"
+      },
+      "href": "https://api.spotify.com/v1/artists/6oRmvag0pQojcoSnLNsZel",
+      "id": "6oRmvag0pQojcoSnLNsZel",
+      "name": "R3YAN",
+      "type": "artist",
+      "uri": "spotify:artist:6oRmvag0pQojcoSnLNsZel"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16sUimtcZ5UiRVxHrlsM61"
+      },
+      "href": "https://api.spotify.com/v1/artists/16sUimtcZ5UiRVxHrlsM61",
+      "id": "16sUimtcZ5UiRVxHrlsM61",
+      "name": "P3ONK",
+      "type": "artist",
+      "uri": "spotify:artist:16sUimtcZ5UiRVxHrlsM61"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "725336698379"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2rnSWAeqihpovqSks0MTFo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2rnSWAeqihpovqSks0MTFo",
+  "id": "2rnSWAeqihpovqSks0MTFo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27312020a64f110265dbb3314d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0212020a64f110265dbb3314d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485112020a64f110265dbb3314d9",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "SAN ANDREAS",
+  "popularity": 0,
+  "release_date": "2023-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2rnSWAeqihpovqSks0MTFo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel"
+            },
+            "href": "https://api.spotify.com/v1/artists/6oRmvag0pQojcoSnLNsZel",
+            "id": "6oRmvag0pQojcoSnLNsZel",
+            "name": "R3YAN",
+            "type": "artist",
+            "uri": "spotify:artist:6oRmvag0pQojcoSnLNsZel"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16sUimtcZ5UiRVxHrlsM61"
+            },
+            "href": "https://api.spotify.com/v1/artists/16sUimtcZ5UiRVxHrlsM61",
+            "id": "16sUimtcZ5UiRVxHrlsM61",
+            "name": "P3ONK",
+            "type": "artist",
+            "uri": "spotify:artist:16sUimtcZ5UiRVxHrlsM61"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Q5miEXgCcjpfs6ocfrpbW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Q5miEXgCcjpfs6ocfrpbW",
+        "id": "1Q5miEXgCcjpfs6ocfrpbW",
+        "is_local": false,
+        "name": "SAN ANDREAS",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Q5miEXgCcjpfs6ocfrpbW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2rnSWAeqihpovqSks0MTFo"
+}

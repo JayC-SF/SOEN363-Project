@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5RivQkx7CAT7TSVFJKvbDz",
+      "id": "5RivQkx7CAT7TSVFJKvbDz",
+      "name": "BigWalkDog",
+      "type": "artist",
+      "uri": "spotify:artist:5RivQkx7CAT7TSVFJKvbDz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 1017 Global Music, LLC and Atlantic Recording Corporation",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 1017 Global Music, LLC and Atlantic Recording Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679658920"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bHk4Pi1CM2ISeUSDyVVZC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bHk4Pi1CM2ISeUSDyVVZC",
+  "id": "1bHk4Pi1CM2ISeUSDyVVZC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736664f67bf5833000b98fd4a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026664f67bf5833000b98fd4a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516664f67bf5833000b98fd4a9",
+      "width": 64
+    }
+  ],
+  "label": "1017/Atlantic",
+  "name": "Crown Me",
+  "popularity": 19,
+  "release_date": "2023-12-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bHk4Pi1CM2ISeUSDyVVZC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5RivQkx7CAT7TSVFJKvbDz",
+            "id": "5RivQkx7CAT7TSVFJKvbDz",
+            "name": "BigWalkDog",
+            "type": "artist",
+            "uri": "spotify:artist:5RivQkx7CAT7TSVFJKvbDz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169811,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Z7PKPhCTAmLg8xhqPomZO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Z7PKPhCTAmLg8xhqPomZO",
+        "id": "5Z7PKPhCTAmLg8xhqPomZO",
+        "is_local": false,
+        "name": "Crown Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Z7PKPhCTAmLg8xhqPomZO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1bHk4Pi1CM2ISeUSDyVVZC"
+}

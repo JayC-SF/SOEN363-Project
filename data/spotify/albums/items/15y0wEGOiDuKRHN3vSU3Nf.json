@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+      "id": "2OxyMQXlbUfE4zpHG3fwqk",
+      "name": "malte",
+      "type": "artist",
+      "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3736470 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197046296334"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/15y0wEGOiDuKRHN3vSU3Nf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/15y0wEGOiDuKRHN3vSU3Nf",
+  "id": "15y0wEGOiDuKRHN3vSU3Nf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306de5a4e3a5d49aa97759686",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206de5a4e3a5d49aa97759686",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106de5a4e3a5d49aa97759686",
+      "width": 64
+    }
+  ],
+  "label": "3736470 Records DK",
+  "name": "idfc",
+  "popularity": 0,
+  "release_date": "2022-07-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/15y0wEGOiDuKRHN3vSU3Nf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OxyMQXlbUfE4zpHG3fwqk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OxyMQXlbUfE4zpHG3fwqk",
+            "id": "2OxyMQXlbUfE4zpHG3fwqk",
+            "name": "malte",
+            "type": "artist",
+            "uri": "spotify:artist:2OxyMQXlbUfE4zpHG3fwqk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 133158,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6M6NCHEjkuIYo97M8BI02m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6M6NCHEjkuIYo97M8BI02m",
+        "id": "6M6NCHEjkuIYo97M8BI02m",
+        "is_local": false,
+        "name": "idfc",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6M6NCHEjkuIYo97M8BI02m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:15y0wEGOiDuKRHN3vSU3Nf"
+}

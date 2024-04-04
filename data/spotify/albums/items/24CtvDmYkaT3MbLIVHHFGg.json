@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NB5HROxc8dDBXpkIi1v3d",
+      "id": "0NB5HROxc8dDBXpkIi1v3d",
+      "name": "Remi Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:0NB5HROxc8dDBXpkIi1v3d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Remi Wolf, under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Remi Wolf, under exclusive license to Island Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602438694563"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/24CtvDmYkaT3MbLIVHHFGg",
+  "id": "24CtvDmYkaT3MbLIVHHFGg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfadb177b0046fa1593f46b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfadb177b0046fa1593f46b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfadb177b0046fa1593f46b1",
+      "width": 64
+    }
+  ],
+  "label": "Island Records",
+  "name": "Quiet On Set / Grumpy Old Man",
+  "popularity": 0,
+  "release_date": "2021-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/24CtvDmYkaT3MbLIVHHFGg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NB5HROxc8dDBXpkIi1v3d",
+            "id": "0NB5HROxc8dDBXpkIi1v3d",
+            "name": "Remi Wolf",
+            "type": "artist",
+            "uri": "spotify:artist:0NB5HROxc8dDBXpkIi1v3d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195038,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7yjum1B7kQ8gFWTP0cqKMu",
+        "id": "7yjum1B7kQ8gFWTP0cqKMu",
+        "is_local": false,
+        "name": "Quiet On Set",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7yjum1B7kQ8gFWTP0cqKMu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NB5HROxc8dDBXpkIi1v3d",
+            "id": "0NB5HROxc8dDBXpkIi1v3d",
+            "name": "Remi Wolf",
+            "type": "artist",
+            "uri": "spotify:artist:0NB5HROxc8dDBXpkIi1v3d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211185,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/793evHjtSB1fGik1VvdKZb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/793evHjtSB1fGik1VvdKZb",
+        "id": "793evHjtSB1fGik1VvdKZb",
+        "is_local": false,
+        "name": "Grumpy Old Man",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:793evHjtSB1fGik1VvdKZb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:24CtvDmYkaT3MbLIVHHFGg"
+}

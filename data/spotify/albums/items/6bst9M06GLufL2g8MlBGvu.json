@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2jHp7gQArCQrlMvdrIVFCg",
+      "id": "2jHp7gQArCQrlMvdrIVFCg",
+      "name": "Anson Seabra",
+      "type": "artist",
+      "uri": "spotify:artist:2jHp7gQArCQrlMvdrIVFCg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Anson Seabra",
+      "type": "C"
+    },
+    {
+      "text": "2019 Anson Seabra",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733361090"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6bst9M06GLufL2g8MlBGvu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6bst9M06GLufL2g8MlBGvu",
+  "id": "6bst9M06GLufL2g8MlBGvu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357b64d15c3797d5bc6d2bb91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257b64d15c3797d5bc6d2bb91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157b64d15c3797d5bc6d2bb91",
+      "width": 64
+    }
+  ],
+  "label": "Anson Seabra",
+  "name": "Broken",
+  "popularity": 0,
+  "release_date": "2019-08-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6bst9M06GLufL2g8MlBGvu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jHp7gQArCQrlMvdrIVFCg",
+            "id": "2jHp7gQArCQrlMvdrIVFCg",
+            "name": "Anson Seabra",
+            "type": "artist",
+            "uri": "spotify:artist:2jHp7gQArCQrlMvdrIVFCg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 305675,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SoR3NCP3P9dtdoTnpPNi1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SoR3NCP3P9dtdoTnpPNi1",
+        "id": "1SoR3NCP3P9dtdoTnpPNi1",
+        "is_local": false,
+        "name": "Broken",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SoR3NCP3P9dtdoTnpPNi1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6bst9M06GLufL2g8MlBGvu"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+      },
+      "href": "https://api.spotify.com/v1/artists/31shErrQgVvu6r5rvF3unD",
+      "id": "31shErrQgVvu6r5rvF3unD",
+      "name": "MD DJ",
+      "type": "artist",
+      "uri": "spotify:artist:31shErrQgVvu6r5rvF3unD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 MD MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "2020 MD MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526005457"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/48Z0eSXhM6YmtmEvHfbag6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/48Z0eSXhM6YmtmEvHfbag6",
+  "id": "48Z0eSXhM6YmtmEvHfbag6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a56881547069c57434365802",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a56881547069c57434365802",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a56881547069c57434365802",
+      "width": 64
+    }
+  ],
+  "label": "MD MUSIC",
+  "name": "Killing Me Softly",
+  "popularity": 0,
+  "release_date": "2020-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/48Z0eSXhM6YmtmEvHfbag6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+            },
+            "href": "https://api.spotify.com/v1/artists/31shErrQgVvu6r5rvF3unD",
+            "id": "31shErrQgVvu6r5rvF3unD",
+            "name": "MD DJ",
+            "type": "artist",
+            "uri": "spotify:artist:31shErrQgVvu6r5rvF3unD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200357,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/625gx1CmpKBqa659MK5TMd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/625gx1CmpKBqa659MK5TMd",
+        "id": "625gx1CmpKBqa659MK5TMd",
+        "is_local": false,
+        "name": "Killing Me Softly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:625gx1CmpKBqa659MK5TMd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:48Z0eSXhM6YmtmEvHfbag6"
+}

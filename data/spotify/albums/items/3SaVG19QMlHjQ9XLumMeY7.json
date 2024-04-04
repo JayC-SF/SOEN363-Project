@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IbEL2xjRtKsunfmsahLuO",
+      "id": "5IbEL2xjRtKsunfmsahLuO",
+      "name": "$NOT",
+      "type": "artist",
+      "uri": "spotify:artist:5IbEL2xjRtKsunfmsahLuO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Repost Network",
+      "type": "C"
+    },
+    {
+      "text": "2018 Repost Network",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "053000600435"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3SaVG19QMlHjQ9XLumMeY7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3SaVG19QMlHjQ9XLumMeY7",
+  "id": "3SaVG19QMlHjQ9XLumMeY7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df2ba108abfee27ad9fc5f03",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df2ba108abfee27ad9fc5f03",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df2ba108abfee27ad9fc5f03",
+      "width": 64
+    }
+  ],
+  "label": "Repost Network",
+  "name": "GOSHA",
+  "popularity": 0,
+  "release_date": "2018-09-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3SaVG19QMlHjQ9XLumMeY7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IbEL2xjRtKsunfmsahLuO",
+            "id": "5IbEL2xjRtKsunfmsahLuO",
+            "name": "$NOT",
+            "type": "artist",
+            "uri": "spotify:artist:5IbEL2xjRtKsunfmsahLuO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LisUkIP1m3se2oBPkmmHD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6LisUkIP1m3se2oBPkmmHD",
+        "id": "6LisUkIP1m3se2oBPkmmHD",
+        "is_local": false,
+        "name": "GOSHA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6LisUkIP1m3se2oBPkmmHD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3SaVG19QMlHjQ9XLumMeY7"
+}

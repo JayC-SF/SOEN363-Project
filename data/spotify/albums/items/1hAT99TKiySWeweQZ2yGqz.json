@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id": "1gWjcmBsveEYMxOZ0VRi32",
+      "name": "Koffee",
+      "type": "artist",
+      "uri": "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Promised Land Recordings Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447699676"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1hAT99TKiySWeweQZ2yGqz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1hAT99TKiySWeweQZ2yGqz",
+  "id": "1hAT99TKiySWeweQZ2yGqz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273113f02aa27d0a774375516ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02113f02aa27d0a774375516ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851113f02aa27d0a774375516ae",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Rapture (feat. Govana) [Remix]",
+  "popularity": 12,
+  "release_date": "2019-05-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1hAT99TKiySWeweQZ2yGqz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+            "id": "1gWjcmBsveEYMxOZ0VRi32",
+            "name": "Koffee",
+            "type": "artist",
+            "uri": "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Xi3NfsVBIEbaWVUfBTy39",
+            "id": "5Xi3NfsVBIEbaWVUfBTy39",
+            "name": "Govana",
+            "type": "artist",
+            "uri": "spotify:artist:5Xi3NfsVBIEbaWVUfBTy39"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183564,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ax46NPMcayblVzLaMu83f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ax46NPMcayblVzLaMu83f",
+        "id": "3ax46NPMcayblVzLaMu83f",
+        "is_local": false,
+        "name": "Rapture (feat. Govana) - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ax46NPMcayblVzLaMu83f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1hAT99TKiySWeweQZ2yGqz"
+}

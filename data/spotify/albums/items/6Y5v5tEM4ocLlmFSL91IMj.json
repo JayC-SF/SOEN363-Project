@@ -1,0 +1,801 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id": "6PAt558ZEZl0DmdXlnjMgD",
+      "name": "Eric Clapton",
+      "type": "artist",
+      "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 1995 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "This Compilation \u2117 1995 Universal International Music B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00731452747228"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Y5v5tEM4ocLlmFSL91IMj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Y5v5tEM4ocLlmFSL91IMj",
+  "id": "6Y5v5tEM4ocLlmFSL91IMj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e7d1203842d672e942220cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e7d1203842d672e942220cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e7d1203842d672e942220cc",
+      "width": 64
+    }
+  ],
+  "label": "Polydor Records",
+  "name": "Eric Clapton's Rainbow Concert",
+  "popularity": 34,
+  "release_date": "1973",
+  "release_date_precision": "year",
+  "total_tracks": 14,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Y5v5tEM4ocLlmFSL91IMj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 385637,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0e4os6wHr1jbFn4yPtSEOe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0e4os6wHr1jbFn4yPtSEOe",
+        "id": "0e4os6wHr1jbFn4yPtSEOe",
+        "is_local": false,
+        "name": "Layla",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0e4os6wHr1jbFn4yPtSEOe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IYXEc8JZJEGArU8THZZxf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IYXEc8JZJEGArU8THZZxf",
+        "id": "7IYXEc8JZJEGArU8THZZxf",
+        "is_local": false,
+        "name": "Badge",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7IYXEc8JZJEGArU8THZZxf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 363266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NaQg4Trq5zI03FOVexhqI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NaQg4Trq5zI03FOVexhqI",
+        "id": "1NaQg4Trq5zI03FOVexhqI",
+        "is_local": false,
+        "name": "Blues Power",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1NaQg4Trq5zI03FOVexhqI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2trabg402VHqltecGnUJuc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2trabg402VHqltecGnUJuc",
+        "id": "2trabg402VHqltecGnUJuc",
+        "is_local": false,
+        "name": "Roll It Over",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2trabg402VHqltecGnUJuc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 276293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hC3Skj99Nl7LY0BT5dL4g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hC3Skj99Nl7LY0BT5dL4g",
+        "id": "1hC3Skj99Nl7LY0BT5dL4g",
+        "is_local": false,
+        "name": "Little Wing",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1hC3Skj99Nl7LY0BT5dL4g"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 231666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60c1oFizToVpuuevN8rQFN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60c1oFizToVpuuevN8rQFN",
+        "id": "60c1oFizToVpuuevN8rQFN",
+        "is_local": false,
+        "name": "Bottle Of Red Wine",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:60c1oFizToVpuuevN8rQFN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6c8Mq3CgKea1fWRHvnYPCc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6c8Mq3CgKea1fWRHvnYPCc",
+        "id": "6c8Mq3CgKea1fWRHvnYPCc",
+        "is_local": false,
+        "name": "After Midnight",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6c8Mq3CgKea1fWRHvnYPCc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 385683,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33KvZHwY39R9rBF7RMYBtD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33KvZHwY39R9rBF7RMYBtD",
+        "id": "33KvZHwY39R9rBF7RMYBtD",
+        "is_local": false,
+        "name": "Bell Bottom Blues",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:33KvZHwY39R9rBF7RMYBtD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 318093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78JkejWjiFv4GOreqB9jZy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78JkejWjiFv4GOreqB9jZy",
+        "id": "78JkejWjiFv4GOreqB9jZy",
+        "is_local": false,
+        "name": "Presence Of The Lord",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:78JkejWjiFv4GOreqB9jZy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 364692,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IsG6ZRULlSridY0DixlsQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IsG6ZRULlSridY0DixlsQ",
+        "id": "0IsG6ZRULlSridY0DixlsQ",
+        "is_local": false,
+        "name": "Tell The Truth",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0IsG6ZRULlSridY0DixlsQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 295973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4A6BWnN5JiYAKRpVayONye"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4A6BWnN5JiYAKRpVayONye",
+        "id": "4A6BWnN5JiYAKRpVayONye",
+        "is_local": false,
+        "name": "Pearly Queen",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4A6BWnN5JiYAKRpVayONye"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 346693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lIuxuE41zY237XUmyfYeF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6lIuxuE41zY237XUmyfYeF",
+        "id": "6lIuxuE41zY237XUmyfYeF",
+        "is_local": false,
+        "name": "Key To The Highway",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6lIuxuE41zY237XUmyfYeF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 466466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uRwVLv8XxNZtxknbivFhE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6uRwVLv8XxNZtxknbivFhE",
+        "id": "6uRwVLv8XxNZtxknbivFhE",
+        "is_local": false,
+        "name": "Let It Rain",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6uRwVLv8XxNZtxknbivFhE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+            "id": "6PAt558ZEZl0DmdXlnjMgD",
+            "name": "Eric Clapton",
+            "type": "artist",
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ftaaffBbGrL31XXgYaDCy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ftaaffBbGrL31XXgYaDCy",
+        "id": "4ftaaffBbGrL31XXgYaDCy",
+        "is_local": false,
+        "name": "Crossroads",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4ftaaffBbGrL31XXgYaDCy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+  },
+  "type": "album",
+  "uri": "spotify:album:6Y5v5tEM4ocLlmFSL91IMj"
+}

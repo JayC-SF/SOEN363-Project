@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1feoGrmmD8QmNqtK2Gdwy8",
+      "id": "1feoGrmmD8QmNqtK2Gdwy8",
+      "name": "Tobu",
+      "type": "artist",
+      "uri": "spotify:artist:1feoGrmmD8QmNqtK2Gdwy8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU"
+      },
+      "href": "https://api.spotify.com/v1/artists/43Rudxki6fpPr4tX8F7BeU",
+      "id": "43Rudxki6fpPr4tX8F7BeU",
+      "name": "Tom M\u00e5rtensson",
+      "type": "artist",
+      "uri": "spotify:artist:43Rudxki6fpPr4tX8F7BeU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2022 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199557960"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0QefDAEkbSEFUIXkbgZAl7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0QefDAEkbSEFUIXkbgZAl7",
+  "id": "0QefDAEkbSEFUIXkbgZAl7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa6aa0bedb43f73c7372a7b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa6aa0bedb43f73c7372a7b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa6aa0bedb43f73c7372a7b4",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "If I Disappear",
+  "popularity": 0,
+  "release_date": "2022-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0QefDAEkbSEFUIXkbgZAl7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1feoGrmmD8QmNqtK2Gdwy8",
+            "id": "1feoGrmmD8QmNqtK2Gdwy8",
+            "name": "Tobu",
+            "type": "artist",
+            "uri": "spotify:artist:1feoGrmmD8QmNqtK2Gdwy8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU"
+            },
+            "href": "https://api.spotify.com/v1/artists/43Rudxki6fpPr4tX8F7BeU",
+            "id": "43Rudxki6fpPr4tX8F7BeU",
+            "name": "Tom M\u00e5rtensson",
+            "type": "artist",
+            "uri": "spotify:artist:43Rudxki6fpPr4tX8F7BeU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208067,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mIcxmKHXnhY1lJJDKJGxW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mIcxmKHXnhY1lJJDKJGxW",
+        "id": "5mIcxmKHXnhY1lJJDKJGxW",
+        "is_local": false,
+        "name": "If I Disappear",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5mIcxmKHXnhY1lJJDKJGxW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0QefDAEkbSEFUIXkbgZAl7"
+}

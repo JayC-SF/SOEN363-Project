@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R"
+      },
+      "href": "https://api.spotify.com/v1/artists/4awnjjqiUnSBA4ucPVbF8R",
+      "id": "4awnjjqiUnSBA4ucPVbF8R",
+      "name": "TM Juke",
+      "type": "artist",
+      "uri": "spotify:artist:4awnjjqiUnSBA4ucPVbF8R"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2006 Tru Thoughts Recordings",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2006 Tru Thoughts Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "05060205159533"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0StNFYzgi1tZ04f9hJ0loS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0StNFYzgi1tZ04f9hJ0loS",
+  "id": "0StNFYzgi1tZ04f9hJ0loS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d09707a810e555086ea6869a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d09707a810e555086ea6869a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d09707a810e555086ea6869a",
+      "width": 64
+    }
+  ],
+  "label": "Tru Thoughts Recordings",
+  "name": "Marbles & Drains",
+  "popularity": 0,
+  "release_date": "2006-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0StNFYzgi1tZ04f9hJ0loS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R"
+            },
+            "href": "https://api.spotify.com/v1/artists/4awnjjqiUnSBA4ucPVbF8R",
+            "id": "4awnjjqiUnSBA4ucPVbF8R",
+            "name": "TM Juke",
+            "type": "artist",
+            "uri": "spotify:artist:4awnjjqiUnSBA4ucPVbF8R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 289695,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EARh5ogVDTyrFRvTRUYTi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2EARh5ogVDTyrFRvTRUYTi",
+        "id": "2EARh5ogVDTyrFRvTRUYTi",
+        "is_local": false,
+        "name": "Marbles & Drains",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2EARh5ogVDTyrFRvTRUYTi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0StNFYzgi1tZ04f9hJ0loS"
+}

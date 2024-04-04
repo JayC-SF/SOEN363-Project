@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0DrzKyq66BJLP9V5IjiE4d"
+      },
+      "href": "https://api.spotify.com/v1/artists/0DrzKyq66BJLP9V5IjiE4d",
+      "id": "0DrzKyq66BJLP9V5IjiE4d",
+      "name": "DJ Babs",
+      "type": "artist",
+      "uri": "spotify:artist:0DrzKyq66BJLP9V5IjiE4d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 LOYAL LABEL",
+      "type": "C"
+    },
+    {
+      "text": "2018 LOYAL LABEL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859727210069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0MT9q9xTMZx28x4DK0jVEF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0MT9q9xTMZx28x4DK0jVEF",
+  "id": "0MT9q9xTMZx28x4DK0jVEF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735043a7956834916d04ae3d39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025043a7956834916d04ae3d39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515043a7956834916d04ae3d39",
+      "width": 64
+    }
+  ],
+  "label": "LOYAL LABEL",
+  "name": "Tout est bon",
+  "popularity": 0,
+  "release_date": "2018-06-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0MT9q9xTMZx28x4DK0jVEF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0DrzKyq66BJLP9V5IjiE4d"
+            },
+            "href": "https://api.spotify.com/v1/artists/0DrzKyq66BJLP9V5IjiE4d",
+            "id": "0DrzKyq66BJLP9V5IjiE4d",
+            "name": "DJ Babs",
+            "type": "artist",
+            "uri": "spotify:artist:0DrzKyq66BJLP9V5IjiE4d"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LUi4eKMEFKFM4awgurcSs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2LUi4eKMEFKFM4awgurcSs",
+            "id": "2LUi4eKMEFKFM4awgurcSs",
+            "name": "4Keus",
+            "type": "artist",
+            "uri": "spotify:artist:2LUi4eKMEFKFM4awgurcSs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188085,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11isH5A99DyVhzRHoZcIHz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11isH5A99DyVhzRHoZcIHz",
+        "id": "11isH5A99DyVhzRHoZcIHz",
+        "is_local": false,
+        "name": "Tout est bon",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11isH5A99DyVhzRHoZcIHz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0MT9q9xTMZx28x4DK0jVEF"
+}

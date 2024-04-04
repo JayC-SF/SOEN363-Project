@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54Qjs2ocpqrVoPLXMBdz0r"
+      },
+      "href": "https://api.spotify.com/v1/artists/54Qjs2ocpqrVoPLXMBdz0r",
+      "id": "54Qjs2ocpqrVoPLXMBdz0r",
+      "name": "Yeck",
+      "type": "artist",
+      "uri": "spotify:artist:54Qjs2ocpqrVoPLXMBdz0r"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Yeck",
+      "type": "C"
+    },
+    {
+      "text": "2023 Yeck",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859769813730"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Zc7s1E8VmFujYI4nUhL3B"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Zc7s1E8VmFujYI4nUhL3B",
+  "id": "2Zc7s1E8VmFujYI4nUhL3B",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273964a582949cbf461ce54375f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02964a582949cbf461ce54375f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851964a582949cbf461ce54375f",
+      "width": 64
+    }
+  ],
+  "label": "Yeck",
+  "name": "Guts Rage",
+  "popularity": 0,
+  "release_date": "2023-01-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Zc7s1E8VmFujYI4nUhL3B/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/54Qjs2ocpqrVoPLXMBdz0r"
+            },
+            "href": "https://api.spotify.com/v1/artists/54Qjs2ocpqrVoPLXMBdz0r",
+            "id": "54Qjs2ocpqrVoPLXMBdz0r",
+            "name": "Yeck",
+            "type": "artist",
+            "uri": "spotify:artist:54Qjs2ocpqrVoPLXMBdz0r"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191901,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AfpvJ2GSNebv6irLRnLPI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AfpvJ2GSNebv6irLRnLPI",
+        "id": "5AfpvJ2GSNebv6irLRnLPI",
+        "is_local": false,
+        "name": "Guts Rage",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5AfpvJ2GSNebv6irLRnLPI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Zc7s1E8VmFujYI4nUhL3B"
+}

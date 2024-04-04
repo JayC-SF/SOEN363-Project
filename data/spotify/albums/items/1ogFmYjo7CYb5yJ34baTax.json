@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fmcLXdUj5tVr806b7Uzt3",
+      "id": "7fmcLXdUj5tVr806b7Uzt3",
+      "name": "7liwa",
+      "type": "artist",
+      "uri": "spotify:artist:7fmcLXdUj5tVr806b7Uzt3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 7liwa",
+      "type": "C"
+    },
+    {
+      "text": "2018 Chbk",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5283023903205"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1ogFmYjo7CYb5yJ34baTax"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1ogFmYjo7CYb5yJ34baTax",
+  "id": "1ogFmYjo7CYb5yJ34baTax",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc994aba3fc4294841d27c2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc994aba3fc4294841d27c2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc994aba3fc4294841d27c2e",
+      "width": 64
+    }
+  ],
+  "label": "7liwa",
+  "name": "Yema",
+  "popularity": 0,
+  "release_date": "2018-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1ogFmYjo7CYb5yJ34baTax/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fmcLXdUj5tVr806b7Uzt3",
+            "id": "7fmcLXdUj5tVr806b7Uzt3",
+            "name": "7liwa",
+            "type": "artist",
+            "uri": "spotify:artist:7fmcLXdUj5tVr806b7Uzt3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cgw3nEf6uOQ2NqHwSXErR",
+            "id": "4cgw3nEf6uOQ2NqHwSXErR",
+            "name": "Balti",
+            "type": "artist",
+            "uri": "spotify:artist:4cgw3nEf6uOQ2NqHwSXErR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217475,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7MEPp6ACqymKQL16ynLsxH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7MEPp6ACqymKQL16ynLsxH",
+        "id": "7MEPp6ACqymKQL16ynLsxH",
+        "is_local": false,
+        "name": "Yema",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7MEPp6ACqymKQL16ynLsxH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1ogFmYjo7CYb5yJ34baTax"
+}

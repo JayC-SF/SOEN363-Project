@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BTy6efn1U8Bqo1E0gAlcT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BTy6efn1U8Bqo1E0gAlcT",
+      "id": "3BTy6efn1U8Bqo1E0gAlcT",
+      "name": "X V I",
+      "type": "artist",
+      "uri": "spotify:artist:3BTy6efn1U8Bqo1E0gAlcT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K"
+      },
+      "href": "https://api.spotify.com/v1/artists/0U8NYuumNlHvaXwMAvu87K",
+      "id": "0U8NYuumNlHvaXwMAvu87K",
+      "name": "NOCTURN",
+      "type": "artist",
+      "uri": "spotify:artist:0U8NYuumNlHvaXwMAvu87K"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Lyric House LLC",
+      "type": "C"
+    },
+    {
+      "text": "2022 Lyric House LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197085588162"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21JpIZaRvIxzYFaGb34jyL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21JpIZaRvIxzYFaGb34jyL",
+  "id": "21JpIZaRvIxzYFaGb34jyL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dcd0d8f62cdea525f8bcfcae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dcd0d8f62cdea525f8bcfcae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dcd0d8f62cdea525f8bcfcae",
+      "width": 64
+    }
+  ],
+  "label": "Lyric House LLC",
+  "name": "Dirty Little Secret",
+  "popularity": 0,
+  "release_date": "2022-07-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21JpIZaRvIxzYFaGb34jyL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3BTy6efn1U8Bqo1E0gAlcT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3BTy6efn1U8Bqo1E0gAlcT",
+            "id": "3BTy6efn1U8Bqo1E0gAlcT",
+            "name": "X V I",
+            "type": "artist",
+            "uri": "spotify:artist:3BTy6efn1U8Bqo1E0gAlcT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U8NYuumNlHvaXwMAvu87K",
+            "id": "0U8NYuumNlHvaXwMAvu87K",
+            "name": "NOCTURN",
+            "type": "artist",
+            "uri": "spotify:artist:0U8NYuumNlHvaXwMAvu87K"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MVLr5Ny3RiKPEKUmdWyiO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MVLr5Ny3RiKPEKUmdWyiO",
+        "id": "4MVLr5Ny3RiKPEKUmdWyiO",
+        "is_local": false,
+        "name": "Dirty Little Secret",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MVLr5Ny3RiKPEKUmdWyiO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21JpIZaRvIxzYFaGb34jyL"
+}

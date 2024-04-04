@@ -1,0 +1,97 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PULA4EFzYTrxYvOVlwpiQ",
+      "id": "4PULA4EFzYTrxYvOVlwpiQ",
+      "name": "Sidhu Moose Wala",
+      "type": "artist",
+      "uri": "spotify:artist:4PULA4EFzYTrxYvOVlwpiQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Sidhu Moose Wala",
+      "type": "C"
+    },
+    {
+      "text": "Sidhu Moose Wala",
+      "type": "P"
+    }
+  ],
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6XD0TTkUs8oJGrStnEN2QP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6XD0TTkUs8oJGrStnEN2QP",
+  "id": "6XD0TTkUs8oJGrStnEN2QP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730aade2b77f39525377172882",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020aade2b77f39525377172882",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510aade2b77f39525377172882",
+      "width": 64
+    }
+  ],
+  "label": "Sidhu Moose Wala",
+  "name": "Sanju (Original)",
+  "popularity": 0,
+  "release_date": "2020-07-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6XD0TTkUs8oJGrStnEN2QP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PULA4EFzYTrxYvOVlwpiQ",
+            "id": "4PULA4EFzYTrxYvOVlwpiQ",
+            "name": "Sidhu Moose Wala",
+            "type": "artist",
+            "uri": "spotify:artist:4PULA4EFzYTrxYvOVlwpiQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235994,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HTmIopKxjAVRK2Z9nxLnN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HTmIopKxjAVRK2Z9nxLnN",
+        "id": "5HTmIopKxjAVRK2Z9nxLnN",
+        "is_local": false,
+        "name": "Sanju",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5HTmIopKxjAVRK2Z9nxLnN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6XD0TTkUs8oJGrStnEN2QP"
+}

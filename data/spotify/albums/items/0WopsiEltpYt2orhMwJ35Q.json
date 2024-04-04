@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pRlKxATEYXaSwYkFbkmMm",
+      "id": "5pRlKxATEYXaSwYkFbkmMm",
+      "name": "ARIA",
+      "type": "artist",
+      "uri": "spotify:artist:5pRlKxATEYXaSwYkFbkmMm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 ARIA",
+      "type": "C"
+    },
+    {
+      "text": "2019 ARIA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193664630192"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0WopsiEltpYt2orhMwJ35Q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0WopsiEltpYt2orhMwJ35Q",
+  "id": "0WopsiEltpYt2orhMwJ35Q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730b9e3d0281ce1e4b997c42e5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020b9e3d0281ce1e4b997c42e5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510b9e3d0281ce1e4b997c42e5",
+      "width": 64
+    }
+  ],
+  "label": "ARIA",
+  "name": "On Me Tho",
+  "popularity": 32,
+  "release_date": "2019-02-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0WopsiEltpYt2orhMwJ35Q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pRlKxATEYXaSwYkFbkmMm",
+            "id": "5pRlKxATEYXaSwYkFbkmMm",
+            "name": "ARIA",
+            "type": "artist",
+            "uri": "spotify:artist:5pRlKxATEYXaSwYkFbkmMm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178319,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53n57niOjaqRABl1HjMFWV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53n57niOjaqRABl1HjMFWV",
+        "id": "53n57niOjaqRABl1HjMFWV",
+        "is_local": false,
+        "name": "On Me Tho",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:53n57niOjaqRABl1HjMFWV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0WopsiEltpYt2orhMwJ35Q"
+}

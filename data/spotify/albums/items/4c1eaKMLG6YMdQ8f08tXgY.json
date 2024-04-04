@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+      },
+      "href": "https://api.spotify.com/v1/artists/43mQpC11b5yKRPDURZOC76",
+      "id": "43mQpC11b5yKRPDURZOC76",
+      "name": "Baby Blood",
+      "type": "artist",
+      "uri": "spotify:artist:43mQpC11b5yKRPDURZOC76"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Ghost Worldwide",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ghost Worldwide",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617223861515"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4c1eaKMLG6YMdQ8f08tXgY",
+  "id": "4c1eaKMLG6YMdQ8f08tXgY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394d673d9efeafcbe9c922f10",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294d673d9efeafcbe9c922f10",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194d673d9efeafcbe9c922f10",
+      "width": 64
+    }
+  ],
+  "label": "Ghost Worldwide",
+  "name": "3 AM",
+  "popularity": 21,
+  "release_date": "2023-07-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4c1eaKMLG6YMdQ8f08tXgY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+            },
+            "href": "https://api.spotify.com/v1/artists/43mQpC11b5yKRPDURZOC76",
+            "id": "43mQpC11b5yKRPDURZOC76",
+            "name": "Baby Blood",
+            "type": "artist",
+            "uri": "spotify:artist:43mQpC11b5yKRPDURZOC76"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176786,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CrpqsFrk3PdqMFSW7nlDV",
+        "id": "7CrpqsFrk3PdqMFSW7nlDV",
+        "is_local": false,
+        "name": "3 AM",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7CrpqsFrk3PdqMFSW7nlDV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4c1eaKMLG6YMdQ8f08tXgY"
+}

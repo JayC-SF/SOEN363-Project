@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+      },
+      "href": "https://api.spotify.com/v1/artists/7j6DKwmjbxvpQO8h914uEz",
+      "id": "7j6DKwmjbxvpQO8h914uEz",
+      "name": "Ryan Castro",
+      "type": "artist",
+      "uri": "spotify:artist:7j6DKwmjbxvpQO8h914uEz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 King Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 King Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616555249466"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GuZxmifdAu3zq2189iT5M",
+  "id": "1GuZxmifdAu3zq2189iT5M",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a60c2f9c4737c3319da3e5d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a60c2f9c4737c3319da3e5d4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a60c2f9c4737c3319da3e5d4",
+      "width": 64
+    }
+  ],
+  "label": "King Records",
+  "name": "Jordan",
+  "popularity": 0,
+  "release_date": "2021-04-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GuZxmifdAu3zq2189iT5M/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+            },
+            "href": "https://api.spotify.com/v1/artists/7j6DKwmjbxvpQO8h914uEz",
+            "id": "7j6DKwmjbxvpQO8h914uEz",
+            "name": "Ryan Castro",
+            "type": "artist",
+            "uri": "spotify:artist:7j6DKwmjbxvpQO8h914uEz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176142,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rDZhKnPaPG054ExZ6nXUS",
+        "id": "2rDZhKnPaPG054ExZ6nXUS",
+        "is_local": false,
+        "name": "Jordan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2rDZhKnPaPG054ExZ6nXUS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1GuZxmifdAu3zq2189iT5M"
+}

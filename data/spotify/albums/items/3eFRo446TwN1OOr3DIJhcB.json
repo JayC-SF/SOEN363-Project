@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5yOvAmpIR7hVxiS6Ls5DPO",
+      "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+      "name": "Omah Lay",
+      "type": "artist",
+      "uri": "spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 KeyQaad",
+      "type": "C"
+    },
+    {
+      "text": "2021 KeyQaad",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0757572921348"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3eFRo446TwN1OOr3DIJhcB",
+  "id": "3eFRo446TwN1OOr3DIJhcB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c467b6a2afa43680ab06d564",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c467b6a2afa43680ab06d564",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c467b6a2afa43680ab06d564",
+      "width": 64
+    }
+  ],
+  "label": "KeyQaad",
+  "name": "Understand",
+  "popularity": 2,
+  "release_date": "2021-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3eFRo446TwN1OOr3DIJhcB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yOvAmpIR7hVxiS6Ls5DPO",
+            "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+            "name": "Omah Lay",
+            "type": "artist",
+            "uri": "spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174545,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cC17ZyEHU4ljycyCaWbbr",
+        "id": "3cC17ZyEHU4ljycyCaWbbr",
+        "is_local": false,
+        "name": "understand",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3cC17ZyEHU4ljycyCaWbbr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3eFRo446TwN1OOr3DIJhcB"
+}

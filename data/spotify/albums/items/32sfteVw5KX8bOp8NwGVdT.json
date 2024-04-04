@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Vm1tmhfZEa9INOt0sr4WX",
+      "id": "6Vm1tmhfZEa9INOt0sr4WX",
+      "name": "Alper E\u011fri",
+      "type": "artist",
+      "uri": "spotify:artist:6Vm1tmhfZEa9INOt0sr4WX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 egrimusic",
+      "type": "C"
+    },
+    {
+      "text": "2022 egrimusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196697359337"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/32sfteVw5KX8bOp8NwGVdT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/32sfteVw5KX8bOp8NwGVdT",
+  "id": "32sfteVw5KX8bOp8NwGVdT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738632b3439dad535a141b0c6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028632b3439dad535a141b0c6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518632b3439dad535a141b0c6c",
+      "width": 64
+    }
+  ],
+  "label": "egrimusic",
+  "name": "Cash",
+  "popularity": 6,
+  "release_date": "2022-01-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/32sfteVw5KX8bOp8NwGVdT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Vm1tmhfZEa9INOt0sr4WX",
+            "id": "6Vm1tmhfZEa9INOt0sr4WX",
+            "name": "Alper E\u011fri",
+            "type": "artist",
+            "uri": "spotify:artist:6Vm1tmhfZEa9INOt0sr4WX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183414,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3w4Te6QOGTS7cz9kLAk54O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3w4Te6QOGTS7cz9kLAk54O",
+        "id": "3w4Te6QOGTS7cz9kLAk54O",
+        "is_local": false,
+        "name": "Cash",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3w4Te6QOGTS7cz9kLAk54O"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:32sfteVw5KX8bOp8NwGVdT"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "name": "Omar Apollo",
+      "type": "artist",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Omar Apollo",
+      "type": "C"
+    },
+    {
+      "text": "2017 Omar Apollo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526313293"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3GOEdUsWz1MjGzfSAaO5U7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3GOEdUsWz1MjGzfSAaO5U7",
+  "id": "3GOEdUsWz1MjGzfSAaO5U7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1559d9c06b091ac8af7dffe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1559d9c06b091ac8af7dffe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1559d9c06b091ac8af7dffe",
+      "width": 64
+    }
+  ],
+  "label": "Omar Apollo",
+  "name": "Pram",
+  "popularity": 0,
+  "release_date": "2017-07-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3GOEdUsWz1MjGzfSAaO5U7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+            "id": "5FxD8fkQZ6KcsSYupDVoSO",
+            "name": "Omar Apollo",
+            "type": "artist",
+            "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xr7HgmjHFmS2DAvRphBQc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Xr7HgmjHFmS2DAvRphBQc",
+        "id": "2Xr7HgmjHFmS2DAvRphBQc",
+        "is_local": false,
+        "name": "Pram",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Xr7HgmjHFmS2DAvRphBQc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3GOEdUsWz1MjGzfSAaO5U7"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id": "0SCbttzoZTnLFebDYmAWCm",
+      "name": "Glee Cast",
+      "type": "artist",
+      "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2012 Twentieth Century Fox Film Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443631090"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5HIHIkOagZ9YQoMPubtGmk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5HIHIkOagZ9YQoMPubtGmk",
+  "id": "5HIHIkOagZ9YQoMPubtGmk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733bd44b2e196ca0ac342cbfef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023bd44b2e196ca0ac342cbfef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513bd44b2e196ca0ac342cbfef",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Chasing Pavements (Glee Cast Version)",
+  "popularity": 0,
+  "release_date": "2012-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5HIHIkOagZ9YQoMPubtGmk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5i98Yte3FwqdTJnyaKyIZU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5i98Yte3FwqdTJnyaKyIZU",
+        "id": "5i98Yte3FwqdTJnyaKyIZU",
+        "is_local": false,
+        "name": "Chasing Pavements (Glee Cast Version)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5i98Yte3FwqdTJnyaKyIZU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5HIHIkOagZ9YQoMPubtGmk"
+}

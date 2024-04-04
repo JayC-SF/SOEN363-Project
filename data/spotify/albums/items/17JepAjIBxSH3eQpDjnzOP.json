@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+      },
+      "href": "https://api.spotify.com/v1/artists/34qyuX5yO72yzL8Z4JclBc",
+      "id": "34qyuX5yO72yzL8Z4JclBc",
+      "name": "Nate Traveller",
+      "type": "artist",
+      "uri": "spotify:artist:34qyuX5yO72yzL8Z4JclBc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 couchboycitrus LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 couchboycitrus LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733406487"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/17JepAjIBxSH3eQpDjnzOP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/17JepAjIBxSH3eQpDjnzOP",
+  "id": "17JepAjIBxSH3eQpDjnzOP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5f853c23a57bb564f964e91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5f853c23a57bb564f964e91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5f853c23a57bb564f964e91",
+      "width": 64
+    }
+  ],
+  "label": "couchboycitrus LLC",
+  "name": "Solace",
+  "popularity": 0,
+  "release_date": "2019-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/17JepAjIBxSH3eQpDjnzOP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+            },
+            "href": "https://api.spotify.com/v1/artists/34qyuX5yO72yzL8Z4JclBc",
+            "id": "34qyuX5yO72yzL8Z4JclBc",
+            "name": "Nate Traveller",
+            "type": "artist",
+            "uri": "spotify:artist:34qyuX5yO72yzL8Z4JclBc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221183,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kAgZ5P5zOCZ5O3QgBQtLe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5kAgZ5P5zOCZ5O3QgBQtLe",
+        "id": "5kAgZ5P5zOCZ5O3QgBQtLe",
+        "is_local": false,
+        "name": "Solace",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5kAgZ5P5zOCZ5O3QgBQtLe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:17JepAjIBxSH3eQpDjnzOP"
+}

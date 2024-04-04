@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LU7BxbUvvuA4eNDdEO22D",
+      "id": "1LU7BxbUvvuA4eNDdEO22D",
+      "name": "3AM",
+      "type": "artist",
+      "uri": "spotify:artist:1LU7BxbUvvuA4eNDdEO22D"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3AM",
+      "type": "C"
+    },
+    {
+      "text": "2021 3AM",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196053295132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FeDJCbUzJXqgY4NP65TaR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FeDJCbUzJXqgY4NP65TaR",
+  "id": "1FeDJCbUzJXqgY4NP65TaR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273355fb50cfa0bdd0c4d1e1dd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02355fb50cfa0bdd0c4d1e1dd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851355fb50cfa0bdd0c4d1e1dd2",
+      "width": 64
+    }
+  ],
+  "label": "2505910 Records DK2",
+  "name": "Una Rosa",
+  "popularity": 0,
+  "release_date": "2021-03-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FeDJCbUzJXqgY4NP65TaR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+            },
+            "href": "https://api.spotify.com/v1/artists/1LU7BxbUvvuA4eNDdEO22D",
+            "id": "1LU7BxbUvvuA4eNDdEO22D",
+            "name": "3AM",
+            "type": "artist",
+            "uri": "spotify:artist:1LU7BxbUvvuA4eNDdEO22D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166079,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SjBdLvMyIj4lh1mR91pNg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SjBdLvMyIj4lh1mR91pNg",
+        "id": "1SjBdLvMyIj4lh1mR91pNg",
+        "is_local": false,
+        "name": "Una Rosa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SjBdLvMyIj4lh1mR91pNg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1FeDJCbUzJXqgY4NP65TaR"
+}

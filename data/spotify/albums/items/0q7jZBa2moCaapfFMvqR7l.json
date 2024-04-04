@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1WfvKfrFJPJQrTCkum2qxm"
+      },
+      "href": "https://api.spotify.com/v1/artists/1WfvKfrFJPJQrTCkum2qxm",
+      "id": "1WfvKfrFJPJQrTCkum2qxm",
+      "name": "Holy Modee",
+      "type": "artist",
+      "uri": "spotify:artist:1WfvKfrFJPJQrTCkum2qxm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 IMMER.READY",
+      "type": "C"
+    },
+    {
+      "text": "2018 IMMER.READY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050215396340"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0q7jZBa2moCaapfFMvqR7l"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0q7jZBa2moCaapfFMvqR7l",
+  "id": "0q7jZBa2moCaapfFMvqR7l",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d8c85444b9f0a84922195f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d8c85444b9f0a84922195f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d8c85444b9f0a84922195f6",
+      "width": 64
+    }
+  ],
+  "label": "IMMER.READY",
+  "name": "Wir rauchen Joints",
+  "popularity": 0,
+  "release_date": "2018-04-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0q7jZBa2moCaapfFMvqR7l/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1WfvKfrFJPJQrTCkum2qxm"
+            },
+            "href": "https://api.spotify.com/v1/artists/1WfvKfrFJPJQrTCkum2qxm",
+            "id": "1WfvKfrFJPJQrTCkum2qxm",
+            "name": "Holy Modee",
+            "type": "artist",
+            "uri": "spotify:artist:1WfvKfrFJPJQrTCkum2qxm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zm2fEZIrEF47izmw0Cj8F"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zm2fEZIrEF47izmw0Cj8F",
+            "id": "2zm2fEZIrEF47izmw0Cj8F",
+            "name": "Marvin Game",
+            "type": "artist",
+            "uri": "spotify:artist:2zm2fEZIrEF47izmw0Cj8F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167075,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pkwWCFkRKJNGtQiwZj9mW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2pkwWCFkRKJNGtQiwZj9mW",
+        "id": "2pkwWCFkRKJNGtQiwZj9mW",
+        "is_local": false,
+        "name": "Wir rauchen Joints",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2pkwWCFkRKJNGtQiwZj9mW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0q7jZBa2moCaapfFMvqR7l"
+}

@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ecIJx38Dwdtdguyzhvt4k",
+      "id": "7ecIJx38Dwdtdguyzhvt4k",
+      "name": "Peer Pressure",
+      "type": "artist",
+      "uri": "spotify:artist:7ecIJx38Dwdtdguyzhvt4k"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4S3RcsRj9GhHgrIGY7rww0"
+      },
+      "href": "https://api.spotify.com/v1/artists/4S3RcsRj9GhHgrIGY7rww0",
+      "id": "4S3RcsRj9GhHgrIGY7rww0",
+      "name": "KITTY VALIUM",
+      "type": "artist",
+      "uri": "spotify:artist:4S3RcsRj9GhHgrIGY7rww0"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871083393"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/73wuyFeBX9RQPQj6JPbeBB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/73wuyFeBX9RQPQj6JPbeBB",
+  "id": "73wuyFeBX9RQPQj6JPbeBB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273110be5c97d2765072befb1fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02110be5c97d2765072befb1fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851110be5c97d2765072befb1fb",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "Lose It",
+  "popularity": 27,
+  "release_date": "2023-05-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/73wuyFeBX9RQPQj6JPbeBB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ecIJx38Dwdtdguyzhvt4k",
+            "id": "7ecIJx38Dwdtdguyzhvt4k",
+            "name": "Peer Pressure",
+            "type": "artist",
+            "uri": "spotify:artist:7ecIJx38Dwdtdguyzhvt4k"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4S3RcsRj9GhHgrIGY7rww0"
+            },
+            "href": "https://api.spotify.com/v1/artists/4S3RcsRj9GhHgrIGY7rww0",
+            "id": "4S3RcsRj9GhHgrIGY7rww0",
+            "name": "KITTY VALIUM",
+            "type": "artist",
+            "uri": "spotify:artist:4S3RcsRj9GhHgrIGY7rww0"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 172500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00SR68yKLJwnJqHICX8SZx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00SR68yKLJwnJqHICX8SZx",
+        "id": "00SR68yKLJwnJqHICX8SZx",
+        "is_local": false,
+        "name": "Lose It",
+        "preview_url": "https://p.scdn.co/mp3-preview/fbf80f7b94d9a11be90a63c65a86169639c9ecfa?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:00SR68yKLJwnJqHICX8SZx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:73wuyFeBX9RQPQj6JPbeBB"
+}

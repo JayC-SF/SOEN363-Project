@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lOk7hCr8x3O9vHwylXyHR",
+      "id": "6lOk7hCr8x3O9vHwylXyHR",
+      "name": "The Penguins",
+      "type": "artist",
+      "uri": "spotify:artist:6lOk7hCr8x3O9vHwylXyHR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2012 MS Embassy",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718564792232"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42sz9A7lXIP7qmMkFh3sOQ",
+  "id": "42sz9A7lXIP7qmMkFh3sOQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d41a512d79f52f428344536",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d41a512d79f52f428344536",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d41a512d79f52f428344536",
+      "width": 64
+    }
+  ],
+  "label": "MS Embassy",
+  "name": "The Original Hit Recording - Earth Angel",
+  "popularity": 0,
+  "release_date": "2012-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42sz9A7lXIP7qmMkFh3sOQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lOk7hCr8x3O9vHwylXyHR",
+            "id": "6lOk7hCr8x3O9vHwylXyHR",
+            "name": "The Penguins",
+            "type": "artist",
+            "uri": "spotify:artist:6lOk7hCr8x3O9vHwylXyHR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75Mwp7YsQRk0ZBq1lOdL2T",
+        "id": "75Mwp7YsQRk0ZBq1lOdL2T",
+        "is_local": false,
+        "name": "Earth Angel",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:75Mwp7YsQRk0ZBq1lOdL2T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42sz9A7lXIP7qmMkFh3sOQ"
+}

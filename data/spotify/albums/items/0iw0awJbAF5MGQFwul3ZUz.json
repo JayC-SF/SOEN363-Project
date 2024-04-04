@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Cav8jyZKAHMFbAusOmjku",
+      "id": "0Cav8jyZKAHMFbAusOmjku",
+      "name": "Christina Grimmie",
+      "type": "artist",
+      "uri": "spotify:artist:0Cav8jyZKAHMFbAusOmjku"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 LH7 Management",
+      "type": "C"
+    },
+    {
+      "text": "2015 LH7 Management",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "748252056795"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0iw0awJbAF5MGQFwul3ZUz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0iw0awJbAF5MGQFwul3ZUz",
+  "id": "0iw0awJbAF5MGQFwul3ZUz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f316598754743f0f827662f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f316598754743f0f827662f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f316598754743f0f827662f",
+      "width": 64
+    }
+  ],
+  "label": "LH7 Management",
+  "name": "Cliche",
+  "popularity": 0,
+  "release_date": "2015-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0iw0awJbAF5MGQFwul3ZUz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Cav8jyZKAHMFbAusOmjku",
+            "id": "0Cav8jyZKAHMFbAusOmjku",
+            "name": "Christina Grimmie",
+            "type": "artist",
+            "uri": "spotify:artist:0Cav8jyZKAHMFbAusOmjku"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VeyLBtYDtaVFfKntnkAK4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VeyLBtYDtaVFfKntnkAK4",
+        "id": "4VeyLBtYDtaVFfKntnkAK4",
+        "is_local": false,
+        "name": "Cliche",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VeyLBtYDtaVFfKntnkAK4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0iw0awJbAF5MGQFwul3ZUz"
+}

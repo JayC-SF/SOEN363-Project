@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W"
+      },
+      "href": "https://api.spotify.com/v1/artists/4m1i53DaEliWzSkSFwqv5W",
+      "id": "4m1i53DaEliWzSkSFwqv5W",
+      "name": "L'Orchestra Cinematique",
+      "type": "artist",
+      "uri": "spotify:artist:4m1i53DaEliWzSkSFwqv5W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/60xTPRePNppYh4Ol5esmPA"
+      },
+      "href": "https://api.spotify.com/v1/artists/60xTPRePNppYh4Ol5esmPA",
+      "id": "60xTPRePNppYh4Ol5esmPA",
+      "name": "Alala",
+      "type": "artist",
+      "uri": "spotify:artist:60xTPRePNppYh4Ol5esmPA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Chapel Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Chapel Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055414736941"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6yRb94cfY13wZ1DEZwNBiX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6yRb94cfY13wZ1DEZwNBiX",
+  "id": "6yRb94cfY13wZ1DEZwNBiX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373283378cb655c926b327b8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273283378cb655c926b327b8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173283378cb655c926b327b8c",
+      "width": 64
+    }
+  ],
+  "label": "HM Chapel Music",
+  "name": "No Time to Die",
+  "popularity": 0,
+  "release_date": "2020-03-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6yRb94cfY13wZ1DEZwNBiX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2af2Bi5ZbigvxvUxhid3Q4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2af2Bi5ZbigvxvUxhid3Q4",
+            "id": "2af2Bi5ZbigvxvUxhid3Q4",
+            "name": "L'Orchestra Cinematique & Alala",
+            "type": "artist",
+            "uri": "spotify:artist:2af2Bi5ZbigvxvUxhid3Q4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247379,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52jltHCs4AjFMPslpohznh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52jltHCs4AjFMPslpohznh",
+        "id": "52jltHCs4AjFMPslpohznh",
+        "is_local": false,
+        "name": "No Time to Die - Epic Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:52jltHCs4AjFMPslpohznh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6yRb94cfY13wZ1DEZwNBiX"
+}

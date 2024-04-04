@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0HyM2wwUfOsZYD4Dj5IOOZ",
+      "id": "0HyM2wwUfOsZYD4Dj5IOOZ",
+      "name": "Alexandra Streliski",
+      "type": "artist",
+      "uri": "spotify:artist:0HyM2wwUfOsZYD4Dj5IOOZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2lx9raTcn0VcuURpecfa0L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2lx9raTcn0VcuURpecfa0L",
+      "id": "2lx9raTcn0VcuURpecfa0L",
+      "name": "Julia Kotarba",
+      "type": "artist",
+      "uri": "spotify:artist:2lx9raTcn0VcuURpecfa0L"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "2023 Pianoscope Inc. under exclusive license to Secret City Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2023 Pianoscope Inc. under exclusive license to Secret City Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "680341696133"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1jhJAVLgGXABBxrPEriK15"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1jhJAVLgGXABBxrPEriK15",
+  "id": "1jhJAVLgGXABBxrPEriK15",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731975f21213d70104c7b93b0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021975f21213d70104c7b93b0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511975f21213d70104c7b93b0f",
+      "width": 64
+    }
+  ],
+  "label": "Secret City Records",
+  "name": "Prelude in Lodz",
+  "popularity": 20,
+  "release_date": "2023-10-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1jhJAVLgGXABBxrPEriK15/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0HyM2wwUfOsZYD4Dj5IOOZ",
+            "id": "0HyM2wwUfOsZYD4Dj5IOOZ",
+            "name": "Alexandra Streliski",
+            "type": "artist",
+            "uri": "spotify:artist:0HyM2wwUfOsZYD4Dj5IOOZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2lx9raTcn0VcuURpecfa0L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2lx9raTcn0VcuURpecfa0L",
+            "id": "2lx9raTcn0VcuURpecfa0L",
+            "name": "Julia Kotarba",
+            "type": "artist",
+            "uri": "spotify:artist:2lx9raTcn0VcuURpecfa0L"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194444,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/617wKmpcrnVGdvce7drZAy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/617wKmpcrnVGdvce7drZAy",
+        "id": "617wKmpcrnVGdvce7drZAy",
+        "is_local": false,
+        "name": "Prelude in Lodz",
+        "preview_url": "https://p.scdn.co/mp3-preview/401888a1f069b626f3226d6bae558bdd91bf97f2?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:617wKmpcrnVGdvce7drZAy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1jhJAVLgGXABBxrPEriK15"
+}

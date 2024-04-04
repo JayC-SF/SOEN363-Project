@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
+      },
+      "href": "https://api.spotify.com/v1/artists/4kyLueNyhG8PKhJagDDOJD",
+      "id": "4kyLueNyhG8PKhJagDDOJD",
+      "name": "Patricia Sosa",
+      "type": "artist",
+      "uri": "spotify:artist:4kyLueNyhG8PKhJagDDOJD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2009 Leader Music/Media Music",
+      "type": "C"
+    },
+    {
+      "text": "2009 Leader Music/Media Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0605457035621"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iQjd3jvFcaILRPwUvIA51"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5iQjd3jvFcaILRPwUvIA51",
+  "id": "5iQjd3jvFcaILRPwUvIA51",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397b0d8b4febb215cc25d9983",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297b0d8b4febb215cc25d9983",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197b0d8b4febb215cc25d9983",
+      "width": 64
+    }
+  ],
+  "label": "Leader Music",
+  "name": "Bendigo",
+  "popularity": 0,
+  "release_date": "2009-10-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5iQjd3jvFcaILRPwUvIA51/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
+            },
+            "href": "https://api.spotify.com/v1/artists/4kyLueNyhG8PKhJagDDOJD",
+            "id": "4kyLueNyhG8PKhJagDDOJD",
+            "name": "Patricia Sosa",
+            "type": "artist",
+            "uri": "spotify:artist:4kyLueNyhG8PKhJagDDOJD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283097,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EymyNYJXx4kQOL0w07F0w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EymyNYJXx4kQOL0w07F0w",
+        "id": "1EymyNYJXx4kQOL0w07F0w",
+        "is_local": false,
+        "name": "Bendigo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1EymyNYJXx4kQOL0w07F0w"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5iQjd3jvFcaILRPwUvIA51"
+}

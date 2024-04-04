@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pWUVnrc1y0FpWZ6VCy0Hg",
+      "id": "5pWUVnrc1y0FpWZ6VCy0Hg",
+      "name": "kenzie",
+      "type": "artist",
+      "uri": "spotify:artist:5pWUVnrc1y0FpWZ6VCy0Hg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2017 frtyfve",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0190296959790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/71Q6xyioELNnO0J8ZdoOb4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/71Q6xyioELNnO0J8ZdoOb4",
+  "id": "71Q6xyioELNnO0J8ZdoOb4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df3ae8e8ec3b0f5ab23b47fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df3ae8e8ec3b0f5ab23b47fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df3ae8e8ec3b0f5ab23b47fe",
+      "width": 64
+    }
+  ],
+  "label": "frtyfve",
+  "name": "Breathe",
+  "popularity": 0,
+  "release_date": "2017-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/71Q6xyioELNnO0J8ZdoOb4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pWUVnrc1y0FpWZ6VCy0Hg",
+            "id": "5pWUVnrc1y0FpWZ6VCy0Hg",
+            "name": "kenzie",
+            "type": "artist",
+            "uri": "spotify:artist:5pWUVnrc1y0FpWZ6VCy0Hg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208950,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fbDRqmiSIiEIBWzHHQ1Wa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fbDRqmiSIiEIBWzHHQ1Wa",
+        "id": "4fbDRqmiSIiEIBWzHHQ1Wa",
+        "is_local": false,
+        "name": "Breathe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4fbDRqmiSIiEIBWzHHQ1Wa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:71Q6xyioELNnO0J8ZdoOb4"
+}

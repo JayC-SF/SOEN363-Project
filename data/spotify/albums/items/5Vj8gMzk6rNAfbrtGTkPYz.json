@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3B66ZYRS04oOasN3dSH3wP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3B66ZYRS04oOasN3dSH3wP",
+      "id": "3B66ZYRS04oOasN3dSH3wP",
+      "name": "Beckham",
+      "type": "artist",
+      "uri": "spotify:artist:3B66ZYRS04oOasN3dSH3wP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Beckham",
+      "type": "C"
+    },
+    {
+      "text": "2021 Beckham",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283041837"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Vj8gMzk6rNAfbrtGTkPYz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Vj8gMzk6rNAfbrtGTkPYz",
+  "id": "5Vj8gMzk6rNAfbrtGTkPYz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fee8fb1988900b2e6d4c6570",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fee8fb1988900b2e6d4c6570",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fee8fb1988900b2e6d4c6570",
+      "width": 64
+    }
+  ],
+  "label": "Beckham",
+  "name": "Switch Domain",
+  "popularity": 0,
+  "release_date": "2021-10-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Vj8gMzk6rNAfbrtGTkPYz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3B66ZYRS04oOasN3dSH3wP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3B66ZYRS04oOasN3dSH3wP",
+            "id": "3B66ZYRS04oOasN3dSH3wP",
+            "name": "Beckham",
+            "type": "artist",
+            "uri": "spotify:artist:3B66ZYRS04oOasN3dSH3wP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135555,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cl8pNqUg5x3gKAqDrttl3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cl8pNqUg5x3gKAqDrttl3",
+        "id": "3cl8pNqUg5x3gKAqDrttl3",
+        "is_local": false,
+        "name": "Switch Domain",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3cl8pNqUg5x3gKAqDrttl3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Vj8gMzk6rNAfbrtGTkPYz"
+}

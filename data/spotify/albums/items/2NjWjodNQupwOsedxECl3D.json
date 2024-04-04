@@ -1,0 +1,936 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+      },
+      "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+      "id": "02Nbktg6lCJiazPM6YYTMz",
+      "name": "Miguel Mateos",
+      "type": "artist",
+      "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2011 Orfeon",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "099441384022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2NjWjodNQupwOsedxECl3D"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2NjWjodNQupwOsedxECl3D",
+  "id": "2NjWjodNQupwOsedxECl3D",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a93377e78002f441503b04b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a93377e78002f441503b04b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a93377e78002f441503b04b",
+      "width": 64
+    }
+  ],
+  "label": "Orfeon",
+  "name": "Miguel Mateos y Su Historia",
+  "popularity": 0,
+  "release_date": "2011-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 30,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2NjWjodNQupwOsedxECl3D/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UYxbHfuL6u6b0mjdbQWLi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UYxbHfuL6u6b0mjdbQWLi",
+        "id": "5UYxbHfuL6u6b0mjdbQWLi",
+        "is_local": false,
+        "name": "Cuando Seas Grande",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UYxbHfuL6u6b0mjdbQWLi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QdHX9mqIfSEvZh8SBpz9r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QdHX9mqIfSEvZh8SBpz9r",
+        "id": "4QdHX9mqIfSEvZh8SBpz9r",
+        "is_local": false,
+        "name": "Un Poco De Satisfaccion",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4QdHX9mqIfSEvZh8SBpz9r"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 370653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ensRGUcFtHJtja8k3WvLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ensRGUcFtHJtja8k3WvLp",
+        "id": "0ensRGUcFtHJtja8k3WvLp",
+        "is_local": false,
+        "name": "Perdiendo En Control",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0ensRGUcFtHJtja8k3WvLp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 293520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MjQU8Rlkj56AE8KGFQaXS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MjQU8Rlkj56AE8KGFQaXS",
+        "id": "1MjQU8Rlkj56AE8KGFQaXS",
+        "is_local": false,
+        "name": "Mi Sombra En La Pared",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1MjQU8Rlkj56AE8KGFQaXS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AqTPjYmLaam4BphjU5RQw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AqTPjYmLaam4BphjU5RQw",
+        "id": "0AqTPjYmLaam4BphjU5RQw",
+        "is_local": false,
+        "name": "Un Gato En La Ciudad",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0AqTPjYmLaam4BphjU5RQw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 439400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5euOcnkUwDwVIDMYJLHd6M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5euOcnkUwDwVIDMYJLHd6M",
+        "id": "5euOcnkUwDwVIDMYJLHd6M",
+        "is_local": false,
+        "name": "Tira Para Arriba",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5euOcnkUwDwVIDMYJLHd6M"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 289426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NAyShwApj2u2zFmaK1nv5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NAyShwApj2u2zFmaK1nv5",
+        "id": "5NAyShwApj2u2zFmaK1nv5",
+        "is_local": false,
+        "name": "Solo Fuego",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5NAyShwApj2u2zFmaK1nv5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75lZ79JtQQwTe3Cao8XHS2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75lZ79JtQQwTe3Cao8XHS2",
+        "id": "75lZ79JtQQwTe3Cao8XHS2",
+        "is_local": false,
+        "name": "Dejen Las Armas",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:75lZ79JtQQwTe3Cao8XHS2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7H6elV2PUQzt7LODJxobIO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7H6elV2PUQzt7LODJxobIO",
+        "id": "7H6elV2PUQzt7LODJxobIO",
+        "is_local": false,
+        "name": "Lucy En La Tierra / Con Amantes",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7H6elV2PUQzt7LODJxobIO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UsoCNvbRUFmHLAxJKYHuT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UsoCNvbRUFmHLAxJKYHuT",
+        "id": "0UsoCNvbRUFmHLAxJKYHuT",
+        "is_local": false,
+        "name": "Extra, Extra",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0UsoCNvbRUFmHLAxJKYHuT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 316426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zzmGeAoflO8xwfqYPs6es"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6zzmGeAoflO8xwfqYPs6es",
+        "id": "6zzmGeAoflO8xwfqYPs6es",
+        "is_local": false,
+        "name": "Tomame Mientras Puedas",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6zzmGeAoflO8xwfqYPs6es"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 271506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1V1flWPbIe4v6JKkmolvnz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1V1flWPbIe4v6JKkmolvnz",
+        "id": "1V1flWPbIe4v6JKkmolvnz",
+        "is_local": false,
+        "name": "Llamame Si Me Necesitas",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1V1flWPbIe4v6JKkmolvnz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 332493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lDLxA1cruEUaeG5ESyMEh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lDLxA1cruEUaeG5ESyMEh",
+        "id": "1lDLxA1cruEUaeG5ESyMEh",
+        "is_local": false,
+        "name": "Damelo Nena, Damelo",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1lDLxA1cruEUaeG5ESyMEh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 396466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MU68K32sqFy0II8pmslBw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MU68K32sqFy0II8pmslBw",
+        "id": "1MU68K32sqFy0II8pmslBw",
+        "is_local": false,
+        "name": "Bull Dog",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1MU68K32sqFy0II8pmslBw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 280080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hJAjjghBXfYGpzuCbuWuk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hJAjjghBXfYGpzuCbuWuk",
+        "id": "1hJAjjghBXfYGpzuCbuWuk",
+        "is_local": false,
+        "name": "Un Mundo Feliz",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:1hJAjjghBXfYGpzuCbuWuk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 298493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65qTRNUa9xeFV1k9OK7E06"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65qTRNUa9xeFV1k9OK7E06",
+        "id": "65qTRNUa9xeFV1k9OK7E06",
+        "is_local": false,
+        "name": "Tengo Que Parar",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65qTRNUa9xeFV1k9OK7E06"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 329520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pAao7i8U3aqagjcdKRu6U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pAao7i8U3aqagjcdKRu6U",
+        "id": "0pAao7i8U3aqagjcdKRu6U",
+        "is_local": false,
+        "name": "Chico Marginado",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0pAao7i8U3aqagjcdKRu6U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 210586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23VK729nIF6DdapzelPqL5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/23VK729nIF6DdapzelPqL5",
+        "id": "23VK729nIF6DdapzelPqL5",
+        "is_local": false,
+        "name": "En La Cocina Huevos",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:23VK729nIF6DdapzelPqL5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 291560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13g2CNfWexQQYnTCSHAEVt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13g2CNfWexQQYnTCSHAEVt",
+        "id": "13g2CNfWexQQYnTCSHAEVt",
+        "is_local": false,
+        "name": "Solo Una Noche Mas",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:13g2CNfWexQQYnTCSHAEVt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 270480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IlEklCQcv2fyPzKdDlYAr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IlEklCQcv2fyPzKdDlYAr",
+        "id": "7IlEklCQcv2fyPzKdDlYAr",
+        "is_local": false,
+        "name": "Si Me Robaste Todo",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7IlEklCQcv2fyPzKdDlYAr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 388546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tjyoX0HTT2bLtgQwI9tsf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tjyoX0HTT2bLtgQwI9tsf",
+        "id": "1tjyoX0HTT2bLtgQwI9tsf",
+        "is_local": false,
+        "name": "Solos En America",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1tjyoX0HTT2bLtgQwI9tsf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 304680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4T148mXd24oYZMEmqhZEDo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4T148mXd24oYZMEmqhZEDo",
+        "id": "4T148mXd24oYZMEmqhZEDo",
+        "is_local": false,
+        "name": "Ana La Dulce",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4T148mXd24oYZMEmqhZEDo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 284493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DxG7ltT5BeN3o7iWUatxG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DxG7ltT5BeN3o7iWUatxG",
+        "id": "7DxG7ltT5BeN3o7iWUatxG",
+        "is_local": false,
+        "name": "Mi Maquina De Volar",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7DxG7ltT5BeN3o7iWUatxG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 213600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6t227daE0WSmG4bvhsNOCF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6t227daE0WSmG4bvhsNOCF",
+        "id": "6t227daE0WSmG4bvhsNOCF",
+        "is_local": false,
+        "name": "Informacion / Confidencial",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6t227daE0WSmG4bvhsNOCF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 215773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/405puNrGofZTaseJ5qrVlv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/405puNrGofZTaseJ5qrVlv",
+        "id": "405puNrGofZTaseJ5qrVlv",
+        "is_local": false,
+        "name": "Exilio En Paris",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:405puNrGofZTaseJ5qrVlv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 371666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Y8ydsSIZS5fkUSpAId1Fm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Y8ydsSIZS5fkUSpAId1Fm",
+        "id": "5Y8ydsSIZS5fkUSpAId1Fm",
+        "is_local": false,
+        "name": "Hagamos El Amor",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5Y8ydsSIZS5fkUSpAId1Fm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 460586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AqNLvxX6KWwmlOM1vfc1d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AqNLvxX6KWwmlOM1vfc1d",
+        "id": "5AqNLvxX6KWwmlOM1vfc1d",
+        "is_local": false,
+        "name": "Va Para Vos, Va Para Vos",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5AqNLvxX6KWwmlOM1vfc1d"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 255533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0R8uu1aeWHYbnZT5ohxHZp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0R8uu1aeWHYbnZT5ohxHZp",
+        "id": "0R8uu1aeWHYbnZT5ohxHZp",
+        "is_local": false,
+        "name": "Amame Ahora, No Ma\u00f1ana",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0R8uu1aeWHYbnZT5ohxHZp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 256760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DVTFZRsKg77KNPll6HIT4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DVTFZRsKg77KNPll6HIT4",
+        "id": "3DVTFZRsKg77KNPll6HIT4",
+        "is_local": false,
+        "name": "Mujer Sin Ley",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3DVTFZRsKg77KNPll6HIT4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+            },
+            "href": "https://api.spotify.com/v1/artists/02Nbktg6lCJiazPM6YYTMz",
+            "id": "02Nbktg6lCJiazPM6YYTMz",
+            "name": "Miguel Mateos",
+            "type": "artist",
+            "uri": "spotify:artist:02Nbktg6lCJiazPM6YYTMz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 152533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QpuVz4aeOXRSfPs6JsTj3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QpuVz4aeOXRSfPs6JsTj3",
+        "id": "4QpuVz4aeOXRSfPs6JsTj3",
+        "is_local": false,
+        "name": "Bobby Moto",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:4QpuVz4aeOXRSfPs6JsTj3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 30
+  },
+  "type": "album",
+  "uri": "spotify:album:2NjWjodNQupwOsedxECl3D"
+}

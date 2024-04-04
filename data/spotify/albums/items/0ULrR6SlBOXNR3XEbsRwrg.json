@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1exdBtfrQbujTIhWd5mEFS"
+      },
+      "href": "https://api.spotify.com/v1/artists/1exdBtfrQbujTIhWd5mEFS",
+      "id": "1exdBtfrQbujTIhWd5mEFS",
+      "name": "Exsire",
+      "type": "artist",
+      "uri": "spotify:artist:1exdBtfrQbujTIhWd5mEFS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Exsire",
+      "type": "C"
+    },
+    {
+      "text": "2023 Exsire",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197876144942"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ULrR6SlBOXNR3XEbsRwrg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ULrR6SlBOXNR3XEbsRwrg",
+  "id": "0ULrR6SlBOXNR3XEbsRwrg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736adae0cd3537fc67b9d73387",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026adae0cd3537fc67b9d73387",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516adae0cd3537fc67b9d73387",
+      "width": 64
+    }
+  ],
+  "label": "Exsire",
+  "name": "You Ballin' In The Wrong Neighborhood",
+  "popularity": 4,
+  "release_date": "2023-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ULrR6SlBOXNR3XEbsRwrg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1exdBtfrQbujTIhWd5mEFS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1exdBtfrQbujTIhWd5mEFS",
+            "id": "1exdBtfrQbujTIhWd5mEFS",
+            "name": "Exsire",
+            "type": "artist",
+            "uri": "spotify:artist:1exdBtfrQbujTIhWd5mEFS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 104768,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31Nov7IBNkkeEFZbk9UnJZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31Nov7IBNkkeEFZbk9UnJZ",
+        "id": "31Nov7IBNkkeEFZbk9UnJZ",
+        "is_local": false,
+        "name": "You Ballin' In The Wrong Neighborhood",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:31Nov7IBNkkeEFZbk9UnJZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ULrR6SlBOXNR3XEbsRwrg"
+}

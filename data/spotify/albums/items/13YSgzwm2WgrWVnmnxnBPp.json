@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0IHg6uUuIes2nxFoT0otpr",
+      "id": "0IHg6uUuIes2nxFoT0otpr",
+      "name": "Rygin King",
+      "type": "artist",
+      "uri": "spotify:artist:0IHg6uUuIes2nxFoT0otpr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Good Good Productions",
+      "type": "C"
+    },
+    {
+      "text": "2019 Good Good Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840042808451"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/13YSgzwm2WgrWVnmnxnBPp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/13YSgzwm2WgrWVnmnxnBPp",
+  "id": "13YSgzwm2WgrWVnmnxnBPp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d479b954f120b424a40b5f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d479b954f120b424a40b5f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d479b954f120b424a40b5f9",
+      "width": 64
+    }
+  ],
+  "label": "Good Good Productions",
+  "name": "Monument - Single",
+  "popularity": 0,
+  "release_date": "2019-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/13YSgzwm2WgrWVnmnxnBPp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IHg6uUuIes2nxFoT0otpr",
+            "id": "0IHg6uUuIes2nxFoT0otpr",
+            "name": "Rygin King",
+            "type": "artist",
+            "uri": "spotify:artist:0IHg6uUuIes2nxFoT0otpr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203668,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15aq0mv804PRfkRpXLw7he"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15aq0mv804PRfkRpXLw7he",
+        "id": "15aq0mv804PRfkRpXLw7he",
+        "is_local": false,
+        "name": "Monument",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15aq0mv804PRfkRpXLw7he"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IHg6uUuIes2nxFoT0otpr",
+            "id": "0IHg6uUuIes2nxFoT0otpr",
+            "name": "Rygin King",
+            "type": "artist",
+            "uri": "spotify:artist:0IHg6uUuIes2nxFoT0otpr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203668,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53ZsfIAACKjiVTNSa77u35"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53ZsfIAACKjiVTNSa77u35",
+        "id": "53ZsfIAACKjiVTNSa77u35",
+        "is_local": false,
+        "name": "Monument",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:53ZsfIAACKjiVTNSa77u35"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:13YSgzwm2WgrWVnmnxnBPp"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+      },
+      "href": "https://api.spotify.com/v1/artists/06EfEcjc0vdvI6VNL0soIO",
+      "id": "06EfEcjc0vdvI6VNL0soIO",
+      "name": "Rameses B",
+      "type": "artist",
+      "uri": "spotify:artist:06EfEcjc0vdvI6VNL0soIO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Monstercat",
+      "type": "C"
+    },
+    {
+      "text": "2014 Monstercat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859711824210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1OWbibeuqiU665ZkH4ryaC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1OWbibeuqiU665ZkH4ryaC",
+  "id": "1OWbibeuqiU665ZkH4ryaC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302d30152615807284b50fa6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202d30152615807284b50fa6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102d30152615807284b50fa6e",
+      "width": 64
+    }
+  ],
+  "label": "Monstercat",
+  "name": "Transformations (feat. Laura Brehm)",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1OWbibeuqiU665ZkH4ryaC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+            },
+            "href": "https://api.spotify.com/v1/artists/06EfEcjc0vdvI6VNL0soIO",
+            "id": "06EfEcjc0vdvI6VNL0soIO",
+            "name": "Rameses B",
+            "type": "artist",
+            "uri": "spotify:artist:06EfEcjc0vdvI6VNL0soIO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ddnIV2r4SLjuwyGlgLIWt",
+            "id": "7ddnIV2r4SLjuwyGlgLIWt",
+            "name": "Laura Brehm",
+            "type": "artist",
+            "uri": "spotify:artist:7ddnIV2r4SLjuwyGlgLIWt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 342000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6c2plQ4ltMJ8LHRayGs2xR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6c2plQ4ltMJ8LHRayGs2xR",
+        "id": "6c2plQ4ltMJ8LHRayGs2xR",
+        "is_local": false,
+        "name": "Transformations (feat. Laura Brehm)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6c2plQ4ltMJ8LHRayGs2xR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1OWbibeuqiU665ZkH4ryaC"
+}

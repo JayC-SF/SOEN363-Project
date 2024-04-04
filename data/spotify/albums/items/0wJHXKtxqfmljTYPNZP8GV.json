@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+      "id": "3v0QTRruILayLe5VsaYdvk",
+      "name": "HAARPER",
+      "type": "artist",
+      "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Haarper",
+      "type": "C"
+    },
+    {
+      "text": "2020 Haarper",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195595671152"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wJHXKtxqfmljTYPNZP8GV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0wJHXKtxqfmljTYPNZP8GV",
+  "id": "0wJHXKtxqfmljTYPNZP8GV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e90737e445567750dc2e1696",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e90737e445567750dc2e1696",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e90737e445567750dc2e1696",
+      "width": 64
+    }
+  ],
+  "label": "1144223 Records DK2",
+  "name": "Mothman",
+  "popularity": 0,
+  "release_date": "2020-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0wJHXKtxqfmljTYPNZP8GV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+            "id": "3v0QTRruILayLe5VsaYdvk",
+            "name": "HAARPER",
+            "type": "artist",
+            "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 112694,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65lWutTAfD8LCgDt0186ST"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65lWutTAfD8LCgDt0186ST",
+        "id": "65lWutTAfD8LCgDt0186ST",
+        "is_local": false,
+        "name": "Mothman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65lWutTAfD8LCgDt0186ST"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0wJHXKtxqfmljTYPNZP8GV"
+}

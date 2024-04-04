@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+      },
+      "href": "https://api.spotify.com/v1/artists/6gxRXj2KUJ02vfIgkNUq5b",
+      "id": "6gxRXj2KUJ02vfIgkNUq5b",
+      "name": "Justh",
+      "type": "artist",
+      "uri": "spotify:artist:6gxRXj2KUJ02vfIgkNUq5b"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Justh",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Justh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859781235633"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/39noVgiQirYCWfBIrBzP30",
+  "id": "39noVgiQirYCWfBIrBzP30",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350dc9a7df1149d73980d34e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250dc9a7df1149d73980d34e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150dc9a7df1149d73980d34e3",
+      "width": 64
+    }
+  ],
+  "label": "Justh",
+  "name": "Chor",
+  "popularity": 61,
+  "release_date": "2023-12-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/39noVgiQirYCWfBIrBzP30/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gxRXj2KUJ02vfIgkNUq5b",
+            "id": "6gxRXj2KUJ02vfIgkNUq5b",
+            "name": "Justh",
+            "type": "artist",
+            "uri": "spotify:artist:6gxRXj2KUJ02vfIgkNUq5b"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53gdHIMmv3XubECRLL6R62",
+        "id": "53gdHIMmv3XubECRLL6R62",
+        "is_local": false,
+        "name": "Chor",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:53gdHIMmv3XubECRLL6R62"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:39noVgiQirYCWfBIrBzP30"
+}

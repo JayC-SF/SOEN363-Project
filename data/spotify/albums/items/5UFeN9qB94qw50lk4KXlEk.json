@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+      },
+      "href": "https://api.spotify.com/v1/artists/68nZwIknhC5s9gLHPly09S",
+      "id": "68nZwIknhC5s9gLHPly09S",
+      "name": "We Are Domi",
+      "type": "artist",
+      "uri": "spotify:artist:68nZwIknhC5s9gLHPly09S"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 DOMI",
+      "type": "C"
+    },
+    {
+      "text": "2021 DOMI",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059950212235"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5UFeN9qB94qw50lk4KXlEk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5UFeN9qB94qw50lk4KXlEk",
+  "id": "5UFeN9qB94qw50lk4KXlEk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e623c9995da511a5fd32104",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e623c9995da511a5fd32104",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e623c9995da511a5fd32104",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Lights Off",
+  "popularity": 0,
+  "release_date": "2021-12-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5UFeN9qB94qw50lk4KXlEk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+            },
+            "href": "https://api.spotify.com/v1/artists/68nZwIknhC5s9gLHPly09S",
+            "id": "68nZwIknhC5s9gLHPly09S",
+            "name": "We Are Domi",
+            "type": "artist",
+            "uri": "spotify:artist:68nZwIknhC5s9gLHPly09S"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178645,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/223mp598OfHDxzCI9J0198"
+        },
+        "href": "https://api.spotify.com/v1/tracks/223mp598OfHDxzCI9J0198",
+        "id": "223mp598OfHDxzCI9J0198",
+        "is_local": false,
+        "name": "Lights Off",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:223mp598OfHDxzCI9J0198"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5UFeN9qB94qw50lk4KXlEk"
+}

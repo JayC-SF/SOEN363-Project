@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+      "id": "2oQX8QiMXOyuqbcZEFsZfm",
+      "name": "El Alfa",
+      "type": "artist",
+      "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 EL JEFE RECORDS",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 EL JEFE RECORDS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197188211516"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6OOgmb8FF0GxEH0FzttnLD",
+  "id": "6OOgmb8FF0GxEH0FzttnLD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300c1da899892094197757778",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0200c1da899892094197757778",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485100c1da899892094197757778",
+      "width": 64
+    }
+  ],
+  "label": "EL JEFE RECORDS",
+  "name": "Helicoptero",
+  "popularity": 0,
+  "release_date": "2023-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6OOgmb8FF0GxEH0FzttnLD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+            "id": "2oQX8QiMXOyuqbcZEFsZfm",
+            "name": "El Alfa",
+            "type": "artist",
+            "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 137014,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xGuA6Amh6K4MVoxXgYrKU",
+        "id": "4xGuA6Amh6K4MVoxXgYrKU",
+        "is_local": false,
+        "name": "Helicoptero",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4xGuA6Amh6K4MVoxXgYrKU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6OOgmb8FF0GxEH0FzttnLD"
+}

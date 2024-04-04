@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+      },
+      "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+      "id": "23fqKkggKUBHNkbKtXEls4",
+      "name": "Kygo",
+      "type": "artist",
+      "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      },
+      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "name": "Imagine Dragons",
+      "type": "artist",
+      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Kygo AS, under exclusive license to KIDinaKORNER/Interscope Records, a division of UMG Recordings Inc/ Sony Music Entertainment International Ltd/Ultra Records LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Kygo AS, under exclusive license to KIDinaKORNER/Interscope Records, a division of UMG Recordings Inc/ Sony Music Entertainment International Ltd/Ultra Records LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567797890"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Nlbg1BHLXDKqQVQ9ErCmg",
+  "id": "3Nlbg1BHLXDKqQVQ9ErCmg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337084df74688999caf0cbb9f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237084df74688999caf0cbb9f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137084df74688999caf0cbb9f",
+      "width": 64
+    }
+  ],
+  "label": "Kygo & Imagine Dragons",
+  "name": "Born To Be Yours",
+  "popularity": 56,
+  "release_date": "2018-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Nlbg1BHLXDKqQVQ9ErCmg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+            },
+            "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+            "id": "23fqKkggKUBHNkbKtXEls4",
+            "name": "Kygo",
+            "type": "artist",
+            "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            },
+            "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+            "id": "53XhwfbYqKCa1cC15pYq2q",
+            "name": "Imagine Dragons",
+            "type": "artist",
+            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WVAQaxrT0wsGEG4BCVSn2",
+        "id": "0WVAQaxrT0wsGEG4BCVSn2",
+        "is_local": false,
+        "name": "Born To Be Yours",
+        "preview_url": "https://p.scdn.co/mp3-preview/27d57f25038cb292263e0caaf91190130aa9afec?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0WVAQaxrT0wsGEG4BCVSn2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Nlbg1BHLXDKqQVQ9ErCmg"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vkJFCwstOoJO7yQ4lTtLK",
+      "id": "1vkJFCwstOoJO7yQ4lTtLK",
+      "name": "Paris Hilton",
+      "type": "artist",
+      "uri": "spotify:artist:1vkJFCwstOoJO7yQ4lTtLK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 11:11 Media LLC",
+      "type": "C"
+    },
+    {
+      "text": "2023 11:11 Media LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197773302988"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6mdumRNcYvRzSX8T8im1VZ",
+  "id": "6mdumRNcYvRzSX8T8im1VZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27372cc60a7942a7d68d81bc6f3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0272cc60a7942a7d68d81bc6f3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485172cc60a7942a7d68d81bc6f3",
+      "width": 64
+    }
+  ],
+  "label": "11:11 Media LLC",
+  "name": "Hot One",
+  "popularity": 0,
+  "release_date": "2023-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6mdumRNcYvRzSX8T8im1VZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vkJFCwstOoJO7yQ4lTtLK",
+            "id": "1vkJFCwstOoJO7yQ4lTtLK",
+            "name": "Paris Hilton",
+            "type": "artist",
+            "uri": "spotify:artist:1vkJFCwstOoJO7yQ4lTtLK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110403,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HGYijnaimWpxBkxwNOQko",
+        "id": "1HGYijnaimWpxBkxwNOQko",
+        "is_local": false,
+        "name": "Hot One",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1HGYijnaimWpxBkxwNOQko"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6mdumRNcYvRzSX8T8im1VZ"
+}

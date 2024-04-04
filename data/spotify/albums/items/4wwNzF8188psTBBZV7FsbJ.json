@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jmYC65MdphAoJjceYPKZR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jmYC65MdphAoJjceYPKZR",
+      "id": "1jmYC65MdphAoJjceYPKZR",
+      "name": "Zurando",
+      "type": "artist",
+      "uri": "spotify:artist:1jmYC65MdphAoJjceYPKZR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Cygnus Music",
+      "type": "C"
+    },
+    {
+      "text": "2023 Cygnus Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391336194"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4wwNzF8188psTBBZV7FsbJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4wwNzF8188psTBBZV7FsbJ",
+  "id": "4wwNzF8188psTBBZV7FsbJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a7eaf69a4a3a6f1203b3bcf1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a7eaf69a4a3a6f1203b3bcf1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a7eaf69a4a3a6f1203b3bcf1",
+      "width": 64
+    }
+  ],
+  "label": "Cygnus Music",
+  "name": "Bank Don't Close",
+  "popularity": 49,
+  "release_date": "2023-12-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4wwNzF8188psTBBZV7FsbJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jmYC65MdphAoJjceYPKZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jmYC65MdphAoJjceYPKZR",
+            "id": "1jmYC65MdphAoJjceYPKZR",
+            "name": "Zurando",
+            "type": "artist",
+            "uri": "spotify:artist:1jmYC65MdphAoJjceYPKZR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146076,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2d6EnecKyJekFCJawkky27"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2d6EnecKyJekFCJawkky27",
+        "id": "2d6EnecKyJekFCJawkky27",
+        "is_local": false,
+        "name": "Bank Don't Close",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2d6EnecKyJekFCJawkky27"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4wwNzF8188psTBBZV7FsbJ"
+}

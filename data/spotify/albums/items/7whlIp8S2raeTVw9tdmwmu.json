@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+      },
+      "href": "https://api.spotify.com/v1/artists/0oouuXi8tdasgUgk520Jy6",
+      "id": "0oouuXi8tdasgUgk520Jy6",
+      "name": "Will Paquin",
+      "type": "artist",
+      "uri": "spotify:artist:0oouuXi8tdasgUgk520Jy6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Sonder House",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436251327"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7whlIp8S2raeTVw9tdmwmu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7whlIp8S2raeTVw9tdmwmu",
+  "id": "7whlIp8S2raeTVw9tdmwmu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf342ba56c2bf86361748d5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf342ba56c2bf86361748d5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf342ba56c2bf86361748d5f",
+      "width": 64
+    }
+  ],
+  "label": "Sonder House",
+  "name": "Now You Know",
+  "popularity": 0,
+  "release_date": "2021-02-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7whlIp8S2raeTVw9tdmwmu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+            },
+            "href": "https://api.spotify.com/v1/artists/0oouuXi8tdasgUgk520Jy6",
+            "id": "0oouuXi8tdasgUgk520Jy6",
+            "name": "Will Paquin",
+            "type": "artist",
+            "uri": "spotify:artist:0oouuXi8tdasgUgk520Jy6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 121404,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5O06k1mpaajgmj5zPFrZF0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5O06k1mpaajgmj5zPFrZF0",
+        "id": "5O06k1mpaajgmj5zPFrZF0",
+        "is_local": false,
+        "name": "Now You Know",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5O06k1mpaajgmj5zPFrZF0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7whlIp8S2raeTVw9tdmwmu"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+      },
+      "href": "https://api.spotify.com/v1/artists/7fmcLXdUj5tVr806b7Uzt3",
+      "id": "7fmcLXdUj5tVr806b7Uzt3",
+      "name": "7liwa",
+      "type": "artist",
+      "uri": "spotify:artist:7fmcLXdUj5tVr806b7Uzt3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 7liwa",
+      "type": "C"
+    },
+    {
+      "text": "2016 Chbk",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615939141693"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5NqwUNdOmLtZSz6tQZD5lZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5NqwUNdOmLtZSz6tQZD5lZ",
+  "id": "5NqwUNdOmLtZSz6tQZD5lZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0de383f9b1a111a2852431f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b0de383f9b1a111a2852431f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b0de383f9b1a111a2852431f",
+      "width": 64
+    }
+  ],
+  "label": "7liwa",
+  "name": "Nik Dt",
+  "popularity": 0,
+  "release_date": "2016-04-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5NqwUNdOmLtZSz6tQZD5lZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fmcLXdUj5tVr806b7Uzt3",
+            "id": "7fmcLXdUj5tVr806b7Uzt3",
+            "name": "7liwa",
+            "type": "artist",
+            "uri": "spotify:artist:7fmcLXdUj5tVr806b7Uzt3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195077,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FOq6TdEOjmNZeIpG665bx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FOq6TdEOjmNZeIpG665bx",
+        "id": "2FOq6TdEOjmNZeIpG665bx",
+        "is_local": false,
+        "name": "Nik Dt",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2FOq6TdEOjmNZeIpG665bx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5NqwUNdOmLtZSz6tQZD5lZ"
+}

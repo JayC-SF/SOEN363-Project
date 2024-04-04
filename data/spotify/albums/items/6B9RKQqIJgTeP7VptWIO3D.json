@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+      "id": "6jJ0s89eD6GaHleKKya26X",
+      "name": "Katy Perry",
+      "type": "artist",
+      "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Capitol Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Capitol Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557700039"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6B9RKQqIJgTeP7VptWIO3D"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6B9RKQqIJgTeP7VptWIO3D",
+  "id": "6B9RKQqIJgTeP7VptWIO3D",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273848921f387d27842fcafc62f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02848921f387d27842fcafc62f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851848921f387d27842fcafc62f",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Swish Swish",
+  "popularity": 0,
+  "release_date": "2017-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6B9RKQqIJgTeP7VptWIO3D/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+            "id": "6jJ0s89eD6GaHleKKya26X",
+            "name": "Katy Perry",
+            "type": "artist",
+            "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+            "id": "0hCNtLu0JehylgoiP8L4Gh",
+            "name": "Nicki Minaj",
+            "type": "artist",
+            "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242173,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VRk65lHSwqd90TAkQqhvB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VRk65lHSwqd90TAkQqhvB",
+        "id": "3VRk65lHSwqd90TAkQqhvB",
+        "is_local": false,
+        "name": "Swish Swish",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3VRk65lHSwqd90TAkQqhvB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6B9RKQqIJgTeP7VptWIO3D"
+}

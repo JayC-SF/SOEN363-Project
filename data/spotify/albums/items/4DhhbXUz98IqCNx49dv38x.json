@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qfEFJ6L2AaZ5iuoqTNAZI"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qfEFJ6L2AaZ5iuoqTNAZI",
+      "id": "7qfEFJ6L2AaZ5iuoqTNAZI",
+      "name": "KeeP",
+      "type": "artist",
+      "uri": "spotify:artist:7qfEFJ6L2AaZ5iuoqTNAZI"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 KeeP",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 KeeP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859756784227"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4DhhbXUz98IqCNx49dv38x"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4DhhbXUz98IqCNx49dv38x",
+  "id": "4DhhbXUz98IqCNx49dv38x",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f506a32af81b5cf62db8f830",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f506a32af81b5cf62db8f830",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f506a32af81b5cf62db8f830",
+      "width": 64
+    }
+  ],
+  "label": "KeeP",
+  "name": "AM2:00drive",
+  "popularity": 48,
+  "release_date": "2021-04-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4DhhbXUz98IqCNx49dv38x/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qfEFJ6L2AaZ5iuoqTNAZI"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qfEFJ6L2AaZ5iuoqTNAZI",
+            "id": "7qfEFJ6L2AaZ5iuoqTNAZI",
+            "name": "KeeP",
+            "type": "artist",
+            "uri": "spotify:artist:7qfEFJ6L2AaZ5iuoqTNAZI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5r8lJrL1enJRw3S8dS4WCg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5r8lJrL1enJRw3S8dS4WCg",
+            "id": "5r8lJrL1enJRw3S8dS4WCg",
+            "name": "\u30e6\u30a8",
+            "type": "artist",
+            "uri": "spotify:artist:5r8lJrL1enJRw3S8dS4WCg"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 162000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qF1egtNOSgL0Wd6dpEEsC",
+        "id": "2qF1egtNOSgL0Wd6dpEEsC",
+        "is_local": false,
+        "name": "AM2:00drive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qF1egtNOSgL0Wd6dpEEsC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4DhhbXUz98IqCNx49dv38x"
+}

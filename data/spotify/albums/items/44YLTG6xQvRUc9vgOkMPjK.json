@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+      },
+      "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+      "id": "6w9ToX5slZ4uIdmD17hJ3c",
+      "name": "Bryant Myers",
+      "type": "artist",
+      "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Entertainment One",
+      "type": "C"
+    },
+    {
+      "text": "2020 Entertainment One",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164211424"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/44YLTG6xQvRUc9vgOkMPjK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/44YLTG6xQvRUc9vgOkMPjK",
+  "id": "44YLTG6xQvRUc9vgOkMPjK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ddf1fbcf93aa718a5a806758",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ddf1fbcf93aa718a5a806758",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ddf1fbcf93aa718a5a806758",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Como Panas",
+  "popularity": 19,
+  "release_date": "2020-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/44YLTG6xQvRUc9vgOkMPjK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+            "id": "6w9ToX5slZ4uIdmD17hJ3c",
+            "name": "Bryant Myers",
+            "type": "artist",
+            "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198997,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07MrcfLozSPBfEI8GPOZgc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07MrcfLozSPBfEI8GPOZgc",
+        "id": "07MrcfLozSPBfEI8GPOZgc",
+        "is_local": false,
+        "name": "Como Panas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:07MrcfLozSPBfEI8GPOZgc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:44YLTG6xQvRUc9vgOkMPjK"
+}

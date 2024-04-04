@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+      "id": "2XtdZEExbugVrGVxyXwMmM",
+      "name": "Maria Holloway",
+      "type": "artist",
+      "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Maria Holloway, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2018 Maria Holloway, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729137417"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1MHTxA8m75efvwJRGMEuUY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1MHTxA8m75efvwJRGMEuUY",
+  "id": "1MHTxA8m75efvwJRGMEuUY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a420a0c50168fc747494cfd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a420a0c50168fc747494cfd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a420a0c50168fc747494cfd2",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Leaving",
+  "popularity": 0,
+  "release_date": "2018-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1MHTxA8m75efvwJRGMEuUY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2XtdZEExbugVrGVxyXwMmM",
+            "id": "2XtdZEExbugVrGVxyXwMmM",
+            "name": "Maria Holloway",
+            "type": "artist",
+            "uri": "spotify:artist:2XtdZEExbugVrGVxyXwMmM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 143091,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XtMCHvFhF62cXP3tbfN34"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XtMCHvFhF62cXP3tbfN34",
+        "id": "1XtMCHvFhF62cXP3tbfN34",
+        "is_local": false,
+        "name": "Leaving",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XtMCHvFhF62cXP3tbfN34"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1MHTxA8m75efvwJRGMEuUY"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YQg0jqLV5RT98HjMXxzaO",
+      "id": "1YQg0jqLV5RT98HjMXxzaO",
+      "name": "TheDoDo",
+      "type": "artist",
+      "uri": "spotify:artist:1YQg0jqLV5RT98HjMXxzaO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 pbb",
+      "type": "C"
+    },
+    {
+      "text": "2019 pbb",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859731782637"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Tv5yKzMCqvkDb202yjbWk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Tv5yKzMCqvkDb202yjbWk",
+  "id": "1Tv5yKzMCqvkDb202yjbWk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337eb8deee586155a43557304",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237eb8deee586155a43557304",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137eb8deee586155a43557304",
+      "width": 64
+    }
+  ],
+  "label": "pbb",
+  "name": "Komm mit",
+  "popularity": 0,
+  "release_date": "2019-04-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Tv5yKzMCqvkDb202yjbWk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YQg0jqLV5RT98HjMXxzaO",
+            "id": "1YQg0jqLV5RT98HjMXxzaO",
+            "name": "TheDoDo",
+            "type": "artist",
+            "uri": "spotify:artist:1YQg0jqLV5RT98HjMXxzaO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245581,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nq0NsJCaZ226LfXC12eRW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nq0NsJCaZ226LfXC12eRW",
+        "id": "3nq0NsJCaZ226LfXC12eRW",
+        "is_local": false,
+        "name": "Komm mit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3nq0NsJCaZ226LfXC12eRW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Tv5yKzMCqvkDb202yjbWk"
+}

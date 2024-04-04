@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+      },
+      "href": "https://api.spotify.com/v1/artists/1kfWoWgCugPkyxQP8lkRlY",
+      "id": "1kfWoWgCugPkyxQP8lkRlY",
+      "name": "Jackson Wang",
+      "type": "artist",
+      "uri": "spotify:artist:1kfWoWgCugPkyxQP8lkRlY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 88rising Records/Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 88rising Records/Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296851612"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5lSO3Vtlfqu8BJZ9lKa4va",
+  "id": "5lSO3Vtlfqu8BJZ9lKa4va",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b501645e76339b3ce7bbe314",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b501645e76339b3ce7bbe314",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b501645e76339b3ce7bbe314",
+      "width": 64
+    }
+  ],
+  "label": "88rising Music/Warner Records",
+  "name": "100 Ways",
+  "popularity": 28,
+  "release_date": "2020-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5lSO3Vtlfqu8BJZ9lKa4va/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kfWoWgCugPkyxQP8lkRlY",
+            "id": "1kfWoWgCugPkyxQP8lkRlY",
+            "name": "Jackson Wang",
+            "type": "artist",
+            "uri": "spotify:artist:1kfWoWgCugPkyxQP8lkRlY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mQMvcRtQou5yI8mjuJ1lf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4mQMvcRtQou5yI8mjuJ1lf",
+        "id": "4mQMvcRtQou5yI8mjuJ1lf",
+        "is_local": false,
+        "name": "100 Ways",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4mQMvcRtQou5yI8mjuJ1lf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5lSO3Vtlfqu8BJZ9lKa4va"
+}

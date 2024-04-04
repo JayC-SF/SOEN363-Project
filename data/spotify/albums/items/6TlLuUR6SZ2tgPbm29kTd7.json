@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Iwoy31N647ZAX06wPbcGg",
+      "id": "2Iwoy31N647ZAX06wPbcGg",
+      "name": "Fourfive",
+      "type": "artist",
+      "uri": "spotify:artist:2Iwoy31N647ZAX06wPbcGg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Four Ent",
+      "type": "C"
+    },
+    {
+      "text": "2023 Four Ent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197630632388"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6TlLuUR6SZ2tgPbm29kTd7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6TlLuUR6SZ2tgPbm29kTd7",
+  "id": "6TlLuUR6SZ2tgPbm29kTd7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f836d79680cb6bf4eb208fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f836d79680cb6bf4eb208fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f836d79680cb6bf4eb208fb",
+      "width": 64
+    }
+  ],
+  "label": "Four Ent",
+  "name": "1OAK",
+  "popularity": 0,
+  "release_date": "2023-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6TlLuUR6SZ2tgPbm29kTd7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Iwoy31N647ZAX06wPbcGg",
+            "id": "2Iwoy31N647ZAX06wPbcGg",
+            "name": "Fourfive",
+            "type": "artist",
+            "uri": "spotify:artist:2Iwoy31N647ZAX06wPbcGg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 113777,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bqyoyhq6MiPCAtthx5ngm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bqyoyhq6MiPCAtthx5ngm",
+        "id": "0bqyoyhq6MiPCAtthx5ngm",
+        "is_local": false,
+        "name": "1OAK",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bqyoyhq6MiPCAtthx5ngm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6TlLuUR6SZ2tgPbm29kTd7"
+}

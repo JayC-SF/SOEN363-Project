@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VejXt26cu0BRsdaBOcenJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VejXt26cu0BRsdaBOcenJ",
+      "id": "5VejXt26cu0BRsdaBOcenJ",
+      "name": "MANSION PARK",
+      "type": "artist",
+      "uri": "spotify:artist:5VejXt26cu0BRsdaBOcenJ"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 MANSION PARK",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 MANSION PARK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859759608711"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3J8ykJhDmUyuSoXeqF1BWg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3J8ykJhDmUyuSoXeqF1BWg",
+  "id": "3J8ykJhDmUyuSoXeqF1BWg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fd2a4c84de0cf93ed63cb7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fd2a4c84de0cf93ed63cb7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fd2a4c84de0cf93ed63cb7d",
+      "width": 64
+    }
+  ],
+  "label": "MANSION PARK",
+  "name": "One verse",
+  "popularity": 42,
+  "release_date": "2023-05-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3J8ykJhDmUyuSoXeqF1BWg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VejXt26cu0BRsdaBOcenJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5VejXt26cu0BRsdaBOcenJ",
+            "id": "5VejXt26cu0BRsdaBOcenJ",
+            "name": "MANSION PARK",
+            "type": "artist",
+            "uri": "spotify:artist:5VejXt26cu0BRsdaBOcenJ"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 202940,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SnniKYmKZb7xEApe7rRkv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SnniKYmKZb7xEApe7rRkv",
+        "id": "0SnniKYmKZb7xEApe7rRkv",
+        "is_local": false,
+        "name": "One verse",
+        "preview_url": "https://p.scdn.co/mp3-preview/7ca9b27bdea6202ba0e3f1d466fe71b440f5f4fe?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0SnniKYmKZb7xEApe7rRkv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3J8ykJhDmUyuSoXeqF1BWg"
+}

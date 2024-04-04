@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w"
+      },
+      "href": "https://api.spotify.com/v1/artists/4T8dF8zYAxgtlPPICuFQ5w",
+      "id": "4T8dF8zYAxgtlPPICuFQ5w",
+      "name": "Pascal Junior",
+      "type": "artist",
+      "uri": "spotify:artist:4T8dF8zYAxgtlPPICuFQ5w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Epic Tones Records",
+      "type": "C"
+    },
+    {
+      "text": "Epic Tones Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054282831741"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6k92ci36dsTZEKAGneOh75"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6k92ci36dsTZEKAGneOh75",
+  "id": "6k92ci36dsTZEKAGneOh75",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/43cf7d12840b713791d3ea523634292bd1a06a7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/bfb7a7fc302766b2fca554b90b33258716e10dde",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/d996941c98c07fe15ee25df44049234c267a4719",
+      "width": 64
+    }
+  ],
+  "label": "Epic Tones Records",
+  "name": "Holdin' On",
+  "popularity": 0,
+  "release_date": "2017-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6k92ci36dsTZEKAGneOh75/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w"
+            },
+            "href": "https://api.spotify.com/v1/artists/4T8dF8zYAxgtlPPICuFQ5w",
+            "id": "4T8dF8zYAxgtlPPICuFQ5w",
+            "name": "Pascal Junior",
+            "type": "artist",
+            "uri": "spotify:artist:4T8dF8zYAxgtlPPICuFQ5w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 383000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LK51iiEOv49Cd10APam1o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1LK51iiEOv49Cd10APam1o",
+        "id": "1LK51iiEOv49Cd10APam1o",
+        "is_local": false,
+        "name": "Holdin' On",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1LK51iiEOv49Cd10APam1o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6k92ci36dsTZEKAGneOh75"
+}

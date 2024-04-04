@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2tFi8VSdCE13OM3yfr8qnp"
+      },
+      "href": "https://api.spotify.com/v1/artists/2tFi8VSdCE13OM3yfr8qnp",
+      "id": "2tFi8VSdCE13OM3yfr8qnp",
+      "name": "RUDY",
+      "type": "artist",
+      "uri": "spotify:artist:2tFi8VSdCE13OM3yfr8qnp"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871559638"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1jFudkOO7JRI3iCkOEBSoD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1jFudkOO7JRI3iCkOEBSoD",
+  "id": "1jFudkOO7JRI3iCkOEBSoD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273258d0b36239798ec7b442503",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02258d0b36239798ec7b442503",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851258d0b36239798ec7b442503",
+      "width": 64
+    }
+  ],
+  "label": "One Seven",
+  "name": "On Repeat",
+  "popularity": 23,
+  "release_date": "2023-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1jFudkOO7JRI3iCkOEBSoD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2tFi8VSdCE13OM3yfr8qnp"
+            },
+            "href": "https://api.spotify.com/v1/artists/2tFi8VSdCE13OM3yfr8qnp",
+            "id": "2tFi8VSdCE13OM3yfr8qnp",
+            "name": "RUDY",
+            "type": "artist",
+            "uri": "spotify:artist:2tFi8VSdCE13OM3yfr8qnp"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 154250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0i9JHWufj1j3cNwpK6XBcV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0i9JHWufj1j3cNwpK6XBcV",
+        "id": "0i9JHWufj1j3cNwpK6XBcV",
+        "is_local": false,
+        "name": "On Repeat",
+        "preview_url": "https://p.scdn.co/mp3-preview/3e5fa9804e226c8d3bbd4ac9f970d1a1a3c2fecb?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0i9JHWufj1j3cNwpK6XBcV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1jFudkOO7JRI3iCkOEBSoD"
+}

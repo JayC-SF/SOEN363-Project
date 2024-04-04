@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08ZemgcDMEjBkgDZ3DYpHz"
+      },
+      "href": "https://api.spotify.com/v1/artists/08ZemgcDMEjBkgDZ3DYpHz",
+      "id": "08ZemgcDMEjBkgDZ3DYpHz",
+      "name": "stxr29",
+      "type": "artist",
+      "uri": "spotify:artist:08ZemgcDMEjBkgDZ3DYpHz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 stxr29",
+      "type": "C"
+    },
+    {
+      "text": "2023 stxr29",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197930800555"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2IN518WPZufwKN9DaGo0uo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2IN518WPZufwKN9DaGo0uo",
+  "id": "2IN518WPZufwKN9DaGo0uo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c8be6c889169abb013e20a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c8be6c889169abb013e20a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c8be6c889169abb013e20a8",
+      "width": 64
+    }
+  ],
+  "label": "stxr29",
+  "name": "New magic",
+  "popularity": 3,
+  "release_date": "1990-10-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2IN518WPZufwKN9DaGo0uo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08ZemgcDMEjBkgDZ3DYpHz"
+            },
+            "href": "https://api.spotify.com/v1/artists/08ZemgcDMEjBkgDZ3DYpHz",
+            "id": "08ZemgcDMEjBkgDZ3DYpHz",
+            "name": "stxr29",
+            "type": "artist",
+            "uri": "spotify:artist:08ZemgcDMEjBkgDZ3DYpHz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 68933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MWVDBWRwTCeuWezAvOt83"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MWVDBWRwTCeuWezAvOt83",
+        "id": "2MWVDBWRwTCeuWezAvOt83",
+        "is_local": false,
+        "name": "New magic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2MWVDBWRwTCeuWezAvOt83"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2IN518WPZufwKN9DaGo0uo"
+}

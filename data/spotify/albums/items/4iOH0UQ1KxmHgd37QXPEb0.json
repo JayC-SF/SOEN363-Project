@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+      "id": "7qmpXeNz2ojlMl2EEfkeLs",
+      "name": "Nicky Youre",
+      "type": "artist",
+      "uri": "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+      },
+      "href": "https://api.spotify.com/v1/artists/0IErJSgNHRD1DAH0X7yHvn",
+      "id": "0IErJSgNHRD1DAH0X7yHvn",
+      "name": "david hugo",
+      "type": "artist",
+      "uri": "spotify:artist:0IErJSgNHRD1DAH0X7yHvn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Thirty Knots",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436284110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4iOH0UQ1KxmHgd37QXPEb0",
+  "id": "4iOH0UQ1KxmHgd37QXPEb0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273418d34f7760156273f809b6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02418d34f7760156273f809b6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851418d34f7760156273f809b6e",
+      "width": 64
+    }
+  ],
+  "label": "Thirty Knots",
+  "name": "Never Go Wrong",
+  "popularity": 0,
+  "release_date": "2022-03-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4iOH0UQ1KxmHgd37QXPEb0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+            "id": "7qmpXeNz2ojlMl2EEfkeLs",
+            "name": "Nicky Youre",
+            "type": "artist",
+            "uri": "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IErJSgNHRD1DAH0X7yHvn",
+            "id": "0IErJSgNHRD1DAH0X7yHvn",
+            "name": "david hugo",
+            "type": "artist",
+            "uri": "spotify:artist:0IErJSgNHRD1DAH0X7yHvn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155962,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2K036A2TOlSr13Ej8s6ODk",
+        "id": "2K036A2TOlSr13Ej8s6ODk",
+        "is_local": false,
+        "name": "Never Go Wrong",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2K036A2TOlSr13Ej8s6ODk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4iOH0UQ1KxmHgd37QXPEb0"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+      "id": "2jku7tDXc6XoB6MO2hFuqg",
+      "name": "Tory Lanez",
+      "type": "artist",
+      "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Mad Love/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Mad Love/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557144925"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0hgD3qxebmquukRD8ZzASU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0hgD3qxebmquukRD8ZzASU",
+  "id": "0hgD3qxebmquukRD8ZzASU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac85506f42cba4db88c1a4cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac85506f42cba4db88c1a4cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac85506f42cba4db88c1a4cd",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "LUV (Remix)",
+  "popularity": 0,
+  "release_date": "2016-10-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0hgD3qxebmquukRD8ZzASU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+            "id": "2jku7tDXc6XoB6MO2hFuqg",
+            "name": "Tory Lanez",
+            "type": "artist",
+            "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9",
+            "id": "3Isy6kedDrgPYoTS1dazA9",
+            "name": "Sean Paul",
+            "type": "artist",
+            "uri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xsbcGmQ4wbXoc6ifRmcj5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xsbcGmQ4wbXoc6ifRmcj5",
+        "id": "4xsbcGmQ4wbXoc6ifRmcj5",
+        "is_local": false,
+        "name": "LUV - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4xsbcGmQ4wbXoc6ifRmcj5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0hgD3qxebmquukRD8ZzASU"
+}

@@ -1,0 +1,135 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+      "id": "7vk5e3vY1uw9plTHJAMwjN",
+      "name": "Alan Walker",
+      "type": "artist",
+      "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+      },
+      "href": "https://api.spotify.com/v1/artists/6pWcSL9wSJZQ9ne0TnhdWr",
+      "id": "6pWcSL9wSJZQ9ne0TnhdWr",
+      "name": "K-391",
+      "type": "artist",
+      "uri": "spotify:artist:6pWcSL9wSJZQ9ne0TnhdWr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0xu4jAQQv7ZAqvFGdc9HgP",
+      "id": "0xu4jAQQv7ZAqvFGdc9HgP",
+      "name": "Boy In Space",
+      "type": "artist",
+      "uri": "spotify:artist:0xu4jAQQv7ZAqvFGdc9HgP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2021 Kreatell Music under exclusive license to Sony Music Entertainment Sweden AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449560578"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6R6Q9qbwHVHTtS7J3jQSa6",
+  "id": "6R6Q9qbwHVHTtS7J3jQSa6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323a37196f5186930d0c43fbd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223a37196f5186930d0c43fbd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123a37196f5186930d0c43fbd",
+      "width": 64
+    }
+  ],
+  "label": "Kreatell Music",
+  "name": "Paradise",
+  "popularity": 0,
+  "release_date": "2021-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6R6Q9qbwHVHTtS7J3jQSa6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+            "id": "7vk5e3vY1uw9plTHJAMwjN",
+            "name": "Alan Walker",
+            "type": "artist",
+            "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+            },
+            "href": "https://api.spotify.com/v1/artists/6pWcSL9wSJZQ9ne0TnhdWr",
+            "id": "6pWcSL9wSJZQ9ne0TnhdWr",
+            "name": "K-391",
+            "type": "artist",
+            "uri": "spotify:artist:6pWcSL9wSJZQ9ne0TnhdWr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xu4jAQQv7ZAqvFGdc9HgP",
+            "id": "0xu4jAQQv7ZAqvFGdc9HgP",
+            "name": "Boy In Space",
+            "type": "artist",
+            "uri": "spotify:artist:0xu4jAQQv7ZAqvFGdc9HgP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60STJ5y9RdFsbFBVwsLpEP",
+        "id": "60STJ5y9RdFsbFBVwsLpEP",
+        "is_local": false,
+        "name": "Paradise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:60STJ5y9RdFsbFBVwsLpEP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6R6Q9qbwHVHTtS7J3jQSa6"
+}

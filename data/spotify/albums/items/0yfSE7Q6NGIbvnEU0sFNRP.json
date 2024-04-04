@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+      "id": "2oX42qP5ineK3hrhBECLmj",
+      "name": "Andy Grammer",
+      "type": "artist",
+      "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 S-Curve Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 S-Curve Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538478501"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0yfSE7Q6NGIbvnEU0sFNRP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0yfSE7Q6NGIbvnEU0sFNRP",
+  "id": "0yfSE7Q6NGIbvnEU0sFNRP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9e8d2b10e75af36a5101053",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9e8d2b10e75af36a5101053",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9e8d2b10e75af36a5101053",
+      "width": 64
+    }
+  ],
+  "label": "S-Curve Records",
+  "name": "Don't Give Up On Me (From \"Five Feet Apart\")",
+  "popularity": 0,
+  "release_date": "2019-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0yfSE7Q6NGIbvnEU0sFNRP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+            },
+            "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+            "id": "2oX42qP5ineK3hrhBECLmj",
+            "name": "Andy Grammer",
+            "type": "artist",
+            "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196187,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Y0TtDriFlN3XZoQx6PYsu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Y0TtDriFlN3XZoQx6PYsu",
+        "id": "4Y0TtDriFlN3XZoQx6PYsu",
+        "is_local": false,
+        "name": "Don't Give Up On Me - (From \"Five Feet Apart\")",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Y0TtDriFlN3XZoQx6PYsu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0yfSE7Q6NGIbvnEU0sFNRP"
+}

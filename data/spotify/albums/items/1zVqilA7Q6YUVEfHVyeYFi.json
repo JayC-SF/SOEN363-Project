@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5G9kmDLg3OeUyj8KVBLzbu",
+      "id": "5G9kmDLg3OeUyj8KVBLzbu",
+      "name": "mike.",
+      "type": "artist",
+      "uri": "spotify:artist:5G9kmDLg3OeUyj8KVBLzbu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 4TheHomies",
+      "type": "C"
+    },
+    {
+      "text": "2018 4TheHomies",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859727459468"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zVqilA7Q6YUVEfHVyeYFi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1zVqilA7Q6YUVEfHVyeYFi",
+  "id": "1zVqilA7Q6YUVEfHVyeYFi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fb0da2283efa46da64c3607",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fb0da2283efa46da64c3607",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fb0da2283efa46da64c3607",
+      "width": 64
+    }
+  ],
+  "label": "4TheHomies",
+  "name": "Honolulu",
+  "popularity": 0,
+  "release_date": "2018-07-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1zVqilA7Q6YUVEfHVyeYFi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+            },
+            "href": "https://api.spotify.com/v1/artists/5G9kmDLg3OeUyj8KVBLzbu",
+            "id": "5G9kmDLg3OeUyj8KVBLzbu",
+            "name": "mike.",
+            "type": "artist",
+            "uri": "spotify:artist:5G9kmDLg3OeUyj8KVBLzbu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180950,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nAHGV1nCQAH1jIsBxO26w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nAHGV1nCQAH1jIsBxO26w",
+        "id": "1nAHGV1nCQAH1jIsBxO26w",
+        "is_local": false,
+        "name": "Honolulu",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1nAHGV1nCQAH1jIsBxO26w"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1zVqilA7Q6YUVEfHVyeYFi"
+}

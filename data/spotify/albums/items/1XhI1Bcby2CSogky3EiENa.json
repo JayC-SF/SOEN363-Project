@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id": "6xrCU6zdcSTsG2hLrojpmI",
+      "name": "Jos\u00e9 Gonz\u00e1lez",
+      "type": "artist",
+      "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Imperial Recordings under exclusive license to Mute for US & Canada",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Imperial Recordings under exclusive license to Mute for US & Canada",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "724596205358"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1XhI1Bcby2CSogky3EiENa",
+  "id": "1XhI1Bcby2CSogky3EiENa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2d9b943297fcaac9ed8b76e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2d9b943297fcaac9ed8b76e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2d9b943297fcaac9ed8b76e",
+      "width": 64
+    }
+  ],
+  "label": "Mute",
+  "name": "El Invento",
+  "popularity": 31,
+  "release_date": "2021-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1XhI1Bcby2CSogky3EiENa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+            "id": "6xrCU6zdcSTsG2hLrojpmI",
+            "name": "Jos\u00e9 Gonz\u00e1lez",
+            "type": "artist",
+            "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 153413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7daItyBA4UqHyFItCVgzBn",
+        "id": "7daItyBA4UqHyFItCVgzBn",
+        "is_local": false,
+        "name": "El Invento",
+        "preview_url": "https://p.scdn.co/mp3-preview/91ed828d48796430f2dce71d1f28709f92000069?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7daItyBA4UqHyFItCVgzBn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1XhI1Bcby2CSogky3EiENa"
+}

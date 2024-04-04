@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+      },
+      "href": "https://api.spotify.com/v1/artists/3CJKkU0XuElRT1z8rEtIYg",
+      "id": "3CJKkU0XuElRT1z8rEtIYg",
+      "name": "Luciano",
+      "type": "artist",
+      "uri": "spotify:artist:3CJKkU0XuElRT1z8rEtIYg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Locosquad GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Locosquad GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458710298"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/178ZIErbAVb5aHLTELBGqQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/178ZIErbAVb5aHLTELBGqQ",
+  "id": "178ZIErbAVb5aHLTELBGqQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738783420bab3b3f6f41a869a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028783420bab3b3f6f41a869a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518783420bab3b3f6f41a869a8",
+      "width": 64
+    }
+  ],
+  "label": "URBAN",
+  "name": "Cold Princess",
+  "popularity": 42,
+  "release_date": "2023-10-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/178ZIErbAVb5aHLTELBGqQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+            },
+            "href": "https://api.spotify.com/v1/artists/3CJKkU0XuElRT1z8rEtIYg",
+            "id": "3CJKkU0XuElRT1z8rEtIYg",
+            "name": "Luciano",
+            "type": "artist",
+            "uri": "spotify:artist:3CJKkU0XuElRT1z8rEtIYg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ww41FseIYOCL0qP6MIGG5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ww41FseIYOCL0qP6MIGG5",
+        "id": "4Ww41FseIYOCL0qP6MIGG5",
+        "is_local": false,
+        "name": "Cold Princess",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Ww41FseIYOCL0qP6MIGG5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:178ZIErbAVb5aHLTELBGqQ"
+}

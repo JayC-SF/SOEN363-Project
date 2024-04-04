@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
+      },
+      "href": "https://api.spotify.com/v1/artists/3pePTtlR2VKfTkALz8Wvs3",
+      "id": "3pePTtlR2VKfTkALz8Wvs3",
+      "name": "D3",
+      "type": "artist",
+      "uri": "spotify:artist:3pePTtlR2VKfTkALz8Wvs3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ChTJTWndw0hFKEnn4ukYv",
+      "id": "2ChTJTWndw0hFKEnn4ukYv",
+      "name": "2run",
+      "type": "artist",
+      "uri": "spotify:artist:2ChTJTWndw0hFKEnn4ukYv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 ANAF",
+      "type": "C"
+    },
+    {
+      "text": "2023 ANAF",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7333466122348"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6zf6Wl4mc9Grdd5EBp5ed7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6zf6Wl4mc9Grdd5EBp5ed7",
+  "id": "6zf6Wl4mc9Grdd5EBp5ed7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6522e009098208eccf8906e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6522e009098208eccf8906e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e6522e009098208eccf8906e",
+      "width": 64
+    }
+  ],
+  "label": "ANAF",
+  "name": "Kalbim Duman",
+  "popularity": 5,
+  "release_date": "2023-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6zf6Wl4mc9Grdd5EBp5ed7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pePTtlR2VKfTkALz8Wvs3",
+            "id": "3pePTtlR2VKfTkALz8Wvs3",
+            "name": "D3",
+            "type": "artist",
+            "uri": "spotify:artist:3pePTtlR2VKfTkALz8Wvs3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ChTJTWndw0hFKEnn4ukYv",
+            "id": "2ChTJTWndw0hFKEnn4ukYv",
+            "name": "2run",
+            "type": "artist",
+            "uri": "spotify:artist:2ChTJTWndw0hFKEnn4ukYv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gaAtUTbpMX2bAMiwcDiro"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gaAtUTbpMX2bAMiwcDiro",
+        "id": "7gaAtUTbpMX2bAMiwcDiro",
+        "is_local": false,
+        "name": "Kalbim Duman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7gaAtUTbpMX2bAMiwcDiro"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6zf6Wl4mc9Grdd5EBp5ed7"
+}

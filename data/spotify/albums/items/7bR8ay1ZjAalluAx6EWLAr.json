@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kVuxWc0beQxt41B7h3AY0",
+      "id": "5kVuxWc0beQxt41B7h3AY0",
+      "name": "Franchize",
+      "type": "artist",
+      "uri": "spotify:artist:5kVuxWc0beQxt41B7h3AY0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Rel8ted Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Rel8ted Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "019805763812"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7bR8ay1ZjAalluAx6EWLAr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7bR8ay1ZjAalluAx6EWLAr",
+  "id": "7bR8ay1ZjAalluAx6EWLAr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c26759e960cdac4f13b73518",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c26759e960cdac4f13b73518",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c26759e960cdac4f13b73518",
+      "width": 64
+    }
+  ],
+  "label": "Rel8ted Records",
+  "name": "Espolon Flow",
+  "popularity": 5,
+  "release_date": "2023-12-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7bR8ay1ZjAalluAx6EWLAr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kVuxWc0beQxt41B7h3AY0",
+            "id": "5kVuxWc0beQxt41B7h3AY0",
+            "name": "Franchize",
+            "type": "artist",
+            "uri": "spotify:artist:5kVuxWc0beQxt41B7h3AY0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205440,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CfEXw03HBiEKL8k1soooZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6CfEXw03HBiEKL8k1soooZ",
+        "id": "6CfEXw03HBiEKL8k1soooZ",
+        "is_local": false,
+        "name": "Espolon Flow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6CfEXw03HBiEKL8k1soooZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7bR8ay1ZjAalluAx6EWLAr"
+}

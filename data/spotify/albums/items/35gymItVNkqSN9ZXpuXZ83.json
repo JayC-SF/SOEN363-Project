@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DabGEOrvBxxta0YlaaJpJ",
+      "id": "4DabGEOrvBxxta0YlaaJpJ",
+      "name": "Axel Boy",
+      "type": "artist",
+      "uri": "spotify:artist:4DabGEOrvBxxta0YlaaJpJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Most Addictive Records",
+      "type": "C"
+    },
+    {
+      "text": "Most Addictive Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614591513343"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35gymItVNkqSN9ZXpuXZ83"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/35gymItVNkqSN9ZXpuXZ83",
+  "id": "35gymItVNkqSN9ZXpuXZ83",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e90f657cab6b9e21d9d7bb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e90f657cab6b9e21d9d7bb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e90f657cab6b9e21d9d7bb5",
+      "width": 64
+    }
+  ],
+  "label": "Most Addictive Records",
+  "name": "Noughts & Crosses (feat. Natalie Holmes)",
+  "popularity": 0,
+  "release_date": "2015-04-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35gymItVNkqSN9ZXpuXZ83/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DabGEOrvBxxta0YlaaJpJ",
+            "id": "4DabGEOrvBxxta0YlaaJpJ",
+            "name": "Axel Boy",
+            "type": "artist",
+            "uri": "spotify:artist:4DabGEOrvBxxta0YlaaJpJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31dQ6lbXKJp9yLgUhb8qkJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/31dQ6lbXKJp9yLgUhb8qkJ",
+            "id": "31dQ6lbXKJp9yLgUhb8qkJ",
+            "name": "Natalie Holmes",
+            "type": "artist",
+            "uri": "spotify:artist:31dQ6lbXKJp9yLgUhb8qkJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 253714,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wbLxM6I9wfuqzMUXZg9ud"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wbLxM6I9wfuqzMUXZg9ud",
+        "id": "0wbLxM6I9wfuqzMUXZg9ud",
+        "is_local": false,
+        "name": "Noughts & Crosses",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0wbLxM6I9wfuqzMUXZg9ud"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:35gymItVNkqSN9ZXpuXZ83"
+}

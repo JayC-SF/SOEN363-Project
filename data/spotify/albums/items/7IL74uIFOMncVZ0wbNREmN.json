@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0he4k0Cc94d9mjWJ3sTPxk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0he4k0Cc94d9mjWJ3sTPxk",
+      "id": "0he4k0Cc94d9mjWJ3sTPxk",
+      "name": "lil ib.",
+      "type": "artist",
+      "uri": "spotify:artist:0he4k0Cc94d9mjWJ3sTPxk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 lil ib.",
+      "type": "C"
+    },
+    {
+      "text": "2021 lil ib.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196022689740"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7IL74uIFOMncVZ0wbNREmN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7IL74uIFOMncVZ0wbNREmN",
+  "id": "7IL74uIFOMncVZ0wbNREmN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9bb4f2296ee194b78b328bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9bb4f2296ee194b78b328bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9bb4f2296ee194b78b328bd",
+      "width": 64
+    }
+  ],
+  "label": "lil ib.",
+  "name": "wish you well",
+  "popularity": 0,
+  "release_date": "2021-03-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7IL74uIFOMncVZ0wbNREmN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0he4k0Cc94d9mjWJ3sTPxk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0he4k0Cc94d9mjWJ3sTPxk",
+            "id": "0he4k0Cc94d9mjWJ3sTPxk",
+            "name": "lil ib.",
+            "type": "artist",
+            "uri": "spotify:artist:0he4k0Cc94d9mjWJ3sTPxk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196754,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18l2bhFkuEoYr7EUtCrFIP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18l2bhFkuEoYr7EUtCrFIP",
+        "id": "18l2bhFkuEoYr7EUtCrFIP",
+        "is_local": false,
+        "name": "wish you well",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:18l2bhFkuEoYr7EUtCrFIP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7IL74uIFOMncVZ0wbNREmN"
+}

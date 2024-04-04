@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+      },
+      "href": "https://api.spotify.com/v1/artists/25bvyjHJAszeSV3q0TmEhY",
+      "id": "25bvyjHJAszeSV3q0TmEhY",
+      "name": "Jazzy B",
+      "type": "artist",
+      "uri": "spotify:artist:25bvyjHJAszeSV3q0TmEhY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Times Music / Speed Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Times Music / Speed Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8902633279223"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6v17FM2JOQobg79DNi0iCq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6v17FM2JOQobg79DNi0iCq",
+  "id": "6v17FM2JOQobg79DNi0iCq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273697091b650f4e5bfbc146aa4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02697091b650f4e5bfbc146aa4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851697091b650f4e5bfbc146aa4",
+      "width": 64
+    }
+  ],
+  "label": "Times Music",
+  "name": "This Party Getting Hot",
+  "popularity": 0,
+  "release_date": "2012-12-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6v17FM2JOQobg79DNi0iCq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+            },
+            "href": "https://api.spotify.com/v1/artists/25bvyjHJAszeSV3q0TmEhY",
+            "id": "25bvyjHJAszeSV3q0TmEhY",
+            "name": "Jazzy B",
+            "type": "artist",
+            "uri": "spotify:artist:25bvyjHJAszeSV3q0TmEhY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212990,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76SE03itQtXEwZfmSHahcW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76SE03itQtXEwZfmSHahcW",
+        "id": "76SE03itQtXEwZfmSHahcW",
+        "is_local": false,
+        "name": "This Party Getting Hot",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:76SE03itQtXEwZfmSHahcW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6v17FM2JOQobg79DNi0iCq"
+}

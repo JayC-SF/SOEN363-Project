@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+      },
+      "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+      "id": "45gHcnDnMC15sgx3VL7ROG",
+      "name": "42 Dugg",
+      "type": "artist",
+      "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 42 ENTERTAINMENT",
+      "type": "C"
+    },
+    {
+      "text": "2017 42 ENTERTAINMENT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859723541006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3fxjGL91gaG02xk8EqsjWw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3fxjGL91gaG02xk8EqsjWw",
+  "id": "3fxjGL91gaG02xk8EqsjWw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bb3bf80227f0aba540e3138",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bb3bf80227f0aba540e3138",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bb3bf80227f0aba540e3138",
+      "width": 64
+    }
+  ],
+  "label": "42 ENTERTAINMENT",
+  "name": "We Gone Get It (feat. 42 Twinz)",
+  "popularity": 0,
+  "release_date": "2017-10-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3fxjGL91gaG02xk8EqsjWw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+            },
+            "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+            "id": "45gHcnDnMC15sgx3VL7ROG",
+            "name": "42 Dugg",
+            "type": "artist",
+            "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0COs186pbsB7w86wy4KPy4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0COs186pbsB7w86wy4KPy4",
+            "id": "0COs186pbsB7w86wy4KPy4",
+            "name": "42 Twinz",
+            "type": "artist",
+            "uri": "spotify:artist:0COs186pbsB7w86wy4KPy4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157309,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DtRHQ4mIKHqJlarnRibOM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6DtRHQ4mIKHqJlarnRibOM",
+        "id": "6DtRHQ4mIKHqJlarnRibOM",
+        "is_local": false,
+        "name": "We Gone Get It (feat. 42 Twinz)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6DtRHQ4mIKHqJlarnRibOM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3fxjGL91gaG02xk8EqsjWw"
+}

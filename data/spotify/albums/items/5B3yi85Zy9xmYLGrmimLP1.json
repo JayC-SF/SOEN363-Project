@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OvGNY9H8YN4MJCVsTW17R"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OvGNY9H8YN4MJCVsTW17R",
+      "id": "2OvGNY9H8YN4MJCVsTW17R",
+      "name": "\u864e\u97fb",
+      "type": "artist",
+      "uri": "spotify:artist:2OvGNY9H8YN4MJCVsTW17R"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 \u864e\u97fb",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 \u864e\u97fb",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859758928070"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5B3yi85Zy9xmYLGrmimLP1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5B3yi85Zy9xmYLGrmimLP1",
+  "id": "5B3yi85Zy9xmYLGrmimLP1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27392430eff40f96d597b86d811",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292430eff40f96d597b86d811",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485192430eff40f96d597b86d811",
+      "width": 64
+    }
+  ],
+  "label": "\u864e\u97fb",
+  "name": "One More Time",
+  "popularity": 44,
+  "release_date": "2022-11-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5B3yi85Zy9xmYLGrmimLP1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OvGNY9H8YN4MJCVsTW17R"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OvGNY9H8YN4MJCVsTW17R",
+            "id": "2OvGNY9H8YN4MJCVsTW17R",
+            "name": "\u864e\u97fb",
+            "type": "artist",
+            "uri": "spotify:artist:2OvGNY9H8YN4MJCVsTW17R"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qQXYwUKXGc89sCsi4pmF5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4qQXYwUKXGc89sCsi4pmF5",
+            "id": "4qQXYwUKXGc89sCsi4pmF5",
+            "name": "N\u00d8Z",
+            "type": "artist",
+            "uri": "spotify:artist:4qQXYwUKXGc89sCsi4pmF5"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 211200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZVlbQ4rjvT65JyV7xrM1r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ZVlbQ4rjvT65JyV7xrM1r",
+        "id": "3ZVlbQ4rjvT65JyV7xrM1r",
+        "is_local": false,
+        "name": "One More Time",
+        "preview_url": "https://p.scdn.co/mp3-preview/ec5b27f22ea4c80613b54df11c261024fbc6cba3?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ZVlbQ4rjvT65JyV7xrM1r"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5B3yi85Zy9xmYLGrmimLP1"
+}

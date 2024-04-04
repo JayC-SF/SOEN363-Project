@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+      },
+      "href": "https://api.spotify.com/v1/artists/323gjVOWgnKGW3VuT8VKTx",
+      "id": "323gjVOWgnKGW3VuT8VKTx",
+      "name": "Skinz",
+      "type": "artist",
+      "uri": "spotify:artist:323gjVOWgnKGW3VuT8VKTx"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Warner Music Denmark A/S",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Warner Music Denmark A/S",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295782894"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0IOxhoH5PYPeHZ8rYaZjf9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0IOxhoH5PYPeHZ8rYaZjf9",
+  "id": "0IOxhoH5PYPeHZ8rYaZjf9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e58be4022717887bbb4ec45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e58be4022717887bbb4ec45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e58be4022717887bbb4ec45",
+      "width": 64
+    }
+  ],
+  "label": "WM Denmark",
+  "name": "I Min Zone",
+  "popularity": 0,
+  "release_date": "2017-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0IOxhoH5PYPeHZ8rYaZjf9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+            },
+            "href": "https://api.spotify.com/v1/artists/323gjVOWgnKGW3VuT8VKTx",
+            "id": "323gjVOWgnKGW3VuT8VKTx",
+            "name": "Skinz",
+            "type": "artist",
+            "uri": "spotify:artist:323gjVOWgnKGW3VuT8VKTx"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 177239,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tVmntyj8rlJaFNBiUoWSC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tVmntyj8rlJaFNBiUoWSC",
+        "id": "5tVmntyj8rlJaFNBiUoWSC",
+        "is_local": false,
+        "name": "I min zone",
+        "preview_url": "https://p.scdn.co/mp3-preview/a68400446e87faf4d20f047f245698a18e21ebb7?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5tVmntyj8rlJaFNBiUoWSC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0IOxhoH5PYPeHZ8rYaZjf9"
+}

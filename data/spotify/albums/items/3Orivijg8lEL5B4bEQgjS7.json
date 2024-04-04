@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+      "id": "6LnJKrtFnTEGdbWQ2riWCL",
+      "name": "Ezhel",
+      "type": "artist",
+      "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+    }
+  ],
+  "available_markets": [
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Koal Arts GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Koal Arts GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196292380644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Orivijg8lEL5B4bEQgjS7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Orivijg8lEL5B4bEQgjS7",
+  "id": "3Orivijg8lEL5B4bEQgjS7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b1ea16d0fcaa115817c83ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b1ea16d0fcaa115817c83ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b1ea16d0fcaa115817c83ad",
+      "width": 64
+    }
+  ],
+  "label": "Koal Arts GmbH",
+  "name": "Mayrig",
+  "popularity": 43,
+  "release_date": "2021-09-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Orivijg8lEL5B4bEQgjS7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LnJKrtFnTEGdbWQ2riWCL",
+            "id": "6LnJKrtFnTEGdbWQ2riWCL",
+            "name": "Ezhel",
+            "type": "artist",
+            "uri": "spotify:artist:6LnJKrtFnTEGdbWQ2riWCL"
+          }
+        ],
+        "available_markets": [
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vHt2462X3GJflTVK57ECX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vHt2462X3GJflTVK57ECX",
+        "id": "7vHt2462X3GJflTVK57ECX",
+        "is_local": false,
+        "name": "Mayrig",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vHt2462X3GJflTVK57ECX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Orivijg8lEL5B4bEQgjS7"
+}

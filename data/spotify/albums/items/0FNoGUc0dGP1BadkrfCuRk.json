@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BjVF2Hr1e9oUaK6nsjKCX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BjVF2Hr1e9oUaK6nsjKCX",
+      "id": "4BjVF2Hr1e9oUaK6nsjKCX",
+      "name": "Mike Bowers",
+      "type": "artist",
+      "uri": "spotify:artist:4BjVF2Hr1e9oUaK6nsjKCX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Bowers A.M.G.",
+      "type": "C"
+    },
+    {
+      "text": "2013 Bowers A.M.G.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "887516931093"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0FNoGUc0dGP1BadkrfCuRk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0FNoGUc0dGP1BadkrfCuRk",
+  "id": "0FNoGUc0dGP1BadkrfCuRk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd446370be0b589473598c5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd446370be0b589473598c5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd446370be0b589473598c5b",
+      "width": 64
+    }
+  ],
+  "label": "Bowers A.M.G.",
+  "name": "Let Her Cry (Acoustic Live Series)",
+  "popularity": 0,
+  "release_date": "2013-03-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0FNoGUc0dGP1BadkrfCuRk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BjVF2Hr1e9oUaK6nsjKCX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BjVF2Hr1e9oUaK6nsjKCX",
+            "id": "4BjVF2Hr1e9oUaK6nsjKCX",
+            "name": "Mike Bowers",
+            "type": "artist",
+            "uri": "spotify:artist:4BjVF2Hr1e9oUaK6nsjKCX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VQ86ppZzyGEU6jkcxCzeQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VQ86ppZzyGEU6jkcxCzeQ",
+        "id": "6VQ86ppZzyGEU6jkcxCzeQ",
+        "is_local": false,
+        "name": "Let Her Cry (Acoustic Live Series)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VQ86ppZzyGEU6jkcxCzeQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0FNoGUc0dGP1BadkrfCuRk"
+}

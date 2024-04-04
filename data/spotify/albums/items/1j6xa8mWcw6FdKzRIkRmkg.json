@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Y4GWlZVnj2QoLJb5r85of",
+      "id": "2Y4GWlZVnj2QoLJb5r85of",
+      "name": "Ogranya",
+      "type": "artist",
+      "uri": "spotify:artist:2Y4GWlZVnj2QoLJb5r85of"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 RedClaye Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "717340230409"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1j6xa8mWcw6FdKzRIkRmkg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1j6xa8mWcw6FdKzRIkRmkg",
+  "id": "1j6xa8mWcw6FdKzRIkRmkg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c6fae89394d99a87e4dbd826",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c6fae89394d99a87e4dbd826",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c6fae89394d99a87e4dbd826",
+      "width": 64
+    }
+  ],
+  "label": "RedClaye Entertainment",
+  "name": "Do You",
+  "popularity": 24,
+  "release_date": "2021-09-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1j6xa8mWcw6FdKzRIkRmkg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Y4GWlZVnj2QoLJb5r85of",
+            "id": "2Y4GWlZVnj2QoLJb5r85of",
+            "name": "Ogranya",
+            "type": "artist",
+            "uri": "spotify:artist:2Y4GWlZVnj2QoLJb5r85of"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+            },
+            "href": "https://api.spotify.com/v1/artists/39r1XfRA5kvyYjPYKzqBGL",
+            "id": "39r1XfRA5kvyYjPYKzqBGL",
+            "name": "T'neeya",
+            "type": "artist",
+            "uri": "spotify:artist:39r1XfRA5kvyYjPYKzqBGL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 136170,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5vy09xIeMnSBMzSMFORP4G",
+        "id": "5vy09xIeMnSBMzSMFORP4G",
+        "is_local": false,
+        "name": "Do You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5vy09xIeMnSBMzSMFORP4G"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1j6xa8mWcw6FdKzRIkRmkg"
+}

@@ -1,0 +1,133 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+      },
+      "href": "https://api.spotify.com/v1/artists/1qFp8zDvsXyCsC5dqz8X4S",
+      "id": "1qFp8zDvsXyCsC5dqz8X4S",
+      "name": "Sushin Shyam",
+      "type": "artist",
+      "uri": "spotify:artist:1qFp8zDvsXyCsC5dqz8X4S"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LbVwcfU9ifwvdgDPLgOxZ",
+      "id": "0LbVwcfU9ifwvdgDPLgOxZ",
+      "name": "Rex Vijayan",
+      "type": "artist",
+      "uri": "spotify:artist:0LbVwcfU9ifwvdgDPLgOxZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+      },
+      "href": "https://api.spotify.com/v1/artists/51jfCC7m2rTGPDz06E2nvS",
+      "id": "51jfCC7m2rTGPDz06E2nvS",
+      "name": "Vinayak Sasikumar",
+      "type": "artist",
+      "uri": "spotify:artist:51jfCC7m2rTGPDz06E2nvS"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2022 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8907212002909"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/28hXFkMP4Hr3AhormrvyA4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/28hXFkMP4Hr3AhormrvyA4",
+  "id": "28hXFkMP4Hr3AhormrvyA4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2ec4c307b7e93c469d6daec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2ec4c307b7e93c469d6daec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2ec4c307b7e93c469d6daec",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Manuja (From \"Romancham\")",
+  "popularity": 35,
+  "release_date": "2022-10-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/28hXFkMP4Hr3AhormrvyA4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qFp8zDvsXyCsC5dqz8X4S",
+            "id": "1qFp8zDvsXyCsC5dqz8X4S",
+            "name": "Sushin Shyam",
+            "type": "artist",
+            "uri": "spotify:artist:1qFp8zDvsXyCsC5dqz8X4S"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LbVwcfU9ifwvdgDPLgOxZ",
+            "id": "0LbVwcfU9ifwvdgDPLgOxZ",
+            "name": "Rex Vijayan",
+            "type": "artist",
+            "uri": "spotify:artist:0LbVwcfU9ifwvdgDPLgOxZ"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 209494,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GCj3E49TvAfIwBrNG30Pk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3GCj3E49TvAfIwBrNG30Pk",
+        "id": "3GCj3E49TvAfIwBrNG30Pk",
+        "is_local": false,
+        "name": "Manuja",
+        "preview_url": "https://p.scdn.co/mp3-preview/7ef45282066b0ea3bd88b95bf11f2a3bd1d7d532?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3GCj3E49TvAfIwBrNG30Pk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:28hXFkMP4Hr3AhormrvyA4"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+      },
+      "href": "https://api.spotify.com/v1/artists/4hheW577K2nAMAwDuTGAA4",
+      "id": "4hheW577K2nAMAwDuTGAA4",
+      "name": "Luca",
+      "type": "artist",
+      "uri": "spotify:artist:4hheW577K2nAMAwDuTGAA4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 We Are Diamond",
+      "type": "C"
+    },
+    {
+      "text": "2020 We Are Diamond",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4250523809314"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/72vyIISmGKqwtrupICwqZp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/72vyIISmGKqwtrupICwqZp",
+  "id": "72vyIISmGKqwtrupICwqZp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a096f1741bc2fd8d58fda5fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a096f1741bc2fd8d58fda5fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a096f1741bc2fd8d58fda5fa",
+      "width": 64
+    }
+  ],
+  "label": "We Are Diamond",
+  "name": "Sunset",
+  "popularity": 0,
+  "release_date": "2020-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/72vyIISmGKqwtrupICwqZp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4hheW577K2nAMAwDuTGAA4",
+            "id": "4hheW577K2nAMAwDuTGAA4",
+            "name": "Luca",
+            "type": "artist",
+            "uri": "spotify:artist:4hheW577K2nAMAwDuTGAA4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152202,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mSn6P5AXKpeRokSxOH7bu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mSn6P5AXKpeRokSxOH7bu",
+        "id": "5mSn6P5AXKpeRokSxOH7bu",
+        "is_local": false,
+        "name": "Sunset",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5mSn6P5AXKpeRokSxOH7bu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:72vyIISmGKqwtrupICwqZp"
+}

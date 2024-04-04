@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31mLqxszOKRyhAWse1MRwA"
+      },
+      "href": "https://api.spotify.com/v1/artists/31mLqxszOKRyhAWse1MRwA",
+      "id": "31mLqxszOKRyhAWse1MRwA",
+      "name": "Zoraah",
+      "type": "artist",
+      "uri": "spotify:artist:31mLqxszOKRyhAWse1MRwA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3743689 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3743689 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196778521233"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21wS3UvyXniyevPzpxpFf4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21wS3UvyXniyevPzpxpFf4",
+  "id": "21wS3UvyXniyevPzpxpFf4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7571fd8f97f4def120858cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7571fd8f97f4def120858cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7571fd8f97f4def120858cb",
+      "width": 64
+    }
+  ],
+  "label": "3743689 Records DK",
+  "name": "My loving you they're only heartaches",
+  "popularity": 5,
+  "release_date": "2022-03-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21wS3UvyXniyevPzpxpFf4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31mLqxszOKRyhAWse1MRwA"
+            },
+            "href": "https://api.spotify.com/v1/artists/31mLqxszOKRyhAWse1MRwA",
+            "id": "31mLqxszOKRyhAWse1MRwA",
+            "name": "Zoraah",
+            "type": "artist",
+            "uri": "spotify:artist:31mLqxszOKRyhAWse1MRwA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188383,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5h4dswm26IDnlVXYfa6B5e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5h4dswm26IDnlVXYfa6B5e",
+        "id": "5h4dswm26IDnlVXYfa6B5e",
+        "is_local": false,
+        "name": "My loving you they're only heartaches",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5h4dswm26IDnlVXYfa6B5e"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21wS3UvyXniyevPzpxpFf4"
+}

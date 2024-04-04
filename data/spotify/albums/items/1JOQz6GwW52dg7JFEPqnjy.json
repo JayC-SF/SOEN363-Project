@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1R9wh7ipERSUrJ958PBpre"
+      },
+      "href": "https://api.spotify.com/v1/artists/1R9wh7ipERSUrJ958PBpre",
+      "id": "1R9wh7ipERSUrJ958PBpre",
+      "name": "bazuky",
+      "type": "artist",
+      "uri": "spotify:artist:1R9wh7ipERSUrJ958PBpre"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 bazuky",
+      "type": "C"
+    },
+    {
+      "text": "2023 bazuky",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063373459962"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1JOQz6GwW52dg7JFEPqnjy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1JOQz6GwW52dg7JFEPqnjy",
+  "id": "1JOQz6GwW52dg7JFEPqnjy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e80f3e94704b9188a0a27c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e80f3e94704b9188a0a27c4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e80f3e94704b9188a0a27c4",
+      "width": 64
+    }
+  ],
+  "label": "bazuky",
+  "name": "Watcha on",
+  "popularity": 0,
+  "release_date": "2023-10-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1JOQz6GwW52dg7JFEPqnjy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1R9wh7ipERSUrJ958PBpre"
+            },
+            "href": "https://api.spotify.com/v1/artists/1R9wh7ipERSUrJ958PBpre",
+            "id": "1R9wh7ipERSUrJ958PBpre",
+            "name": "bazuky",
+            "type": "artist",
+            "uri": "spotify:artist:1R9wh7ipERSUrJ958PBpre"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125441,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3EgDmpfFXDzzMD3ojvuwLd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3EgDmpfFXDzzMD3ojvuwLd",
+        "id": "3EgDmpfFXDzzMD3ojvuwLd",
+        "is_local": false,
+        "name": "Watcha on",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3EgDmpfFXDzzMD3ojvuwLd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1JOQz6GwW52dg7JFEPqnjy"
+}

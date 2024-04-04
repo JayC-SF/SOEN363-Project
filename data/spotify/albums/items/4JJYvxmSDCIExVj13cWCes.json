@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0eI3X5rAzHRZVe5FPk4MN1",
+      "id": "0eI3X5rAzHRZVe5FPk4MN1",
+      "name": "Bad Wolves",
+      "type": "artist",
+      "uri": "spotify:artist:0eI3X5rAzHRZVe5FPk4MN1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Eleven Seven Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 Eleven Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320059103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4JJYvxmSDCIExVj13cWCes",
+  "id": "4JJYvxmSDCIExVj13cWCes",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273352d2b48224430577aae2c65",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02352d2b48224430577aae2c65",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851352d2b48224430577aae2c65",
+      "width": 64
+    }
+  ],
+  "label": "Eleven Seven Music",
+  "name": "Killing Me Slowly",
+  "popularity": 0,
+  "release_date": "2019-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4JJYvxmSDCIExVj13cWCes/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0eI3X5rAzHRZVe5FPk4MN1",
+            "id": "0eI3X5rAzHRZVe5FPk4MN1",
+            "name": "Bad Wolves",
+            "type": "artist",
+            "uri": "spotify:artist:0eI3X5rAzHRZVe5FPk4MN1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 237065,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6E5gsJm3t0RqmiHBfUBaya",
+        "id": "6E5gsJm3t0RqmiHBfUBaya",
+        "is_local": false,
+        "name": "Killing Me Slowly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6E5gsJm3t0RqmiHBfUBaya"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4JJYvxmSDCIExVj13cWCes"
+}

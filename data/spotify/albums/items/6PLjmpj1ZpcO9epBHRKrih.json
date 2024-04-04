@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+      },
+      "href": "https://api.spotify.com/v1/artists/33X2jfLSVyDevoksJjRZoS",
+      "id": "33X2jfLSVyDevoksJjRZoS",
+      "name": "Strandz",
+      "type": "artist",
+      "uri": "spotify:artist:33X2jfLSVyDevoksJjRZoS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Strandz",
+      "type": "C"
+    },
+    {
+      "text": "2022 Strandz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "694365372645"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6PLjmpj1ZpcO9epBHRKrih"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6PLjmpj1ZpcO9epBHRKrih",
+  "id": "6PLjmpj1ZpcO9epBHRKrih",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4fde9edcabc101f537c53a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4fde9edcabc101f537c53a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4fde9edcabc101f537c53a0",
+      "width": 64
+    }
+  ],
+  "label": "Strandz",
+  "name": "Us Against The World",
+  "popularity": 0,
+  "release_date": "2022-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6PLjmpj1ZpcO9epBHRKrih/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+            },
+            "href": "https://api.spotify.com/v1/artists/33X2jfLSVyDevoksJjRZoS",
+            "id": "33X2jfLSVyDevoksJjRZoS",
+            "name": "Strandz",
+            "type": "artist",
+            "uri": "spotify:artist:33X2jfLSVyDevoksJjRZoS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139777,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LRR8OAP798uKqHjx5sQB6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3LRR8OAP798uKqHjx5sQB6",
+        "id": "3LRR8OAP798uKqHjx5sQB6",
+        "is_local": false,
+        "name": "Us Against The World",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3LRR8OAP798uKqHjx5sQB6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6PLjmpj1ZpcO9epBHRKrih"
+}

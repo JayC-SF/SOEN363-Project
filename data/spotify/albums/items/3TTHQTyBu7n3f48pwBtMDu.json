@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+      },
+      "href": "https://api.spotify.com/v1/artists/1W7FNibLa0O0b572tB2w7t",
+      "id": "1W7FNibLa0O0b572tB2w7t",
+      "name": "Pink Sweat$",
+      "type": "artist",
+      "uri": "spotify:artist:1W7FNibLa0O0b572tB2w7t"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Human Re Sources",
+      "type": "C"
+    },
+    {
+      "text": "2018 Human Re Sources",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843357165509"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3TTHQTyBu7n3f48pwBtMDu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3TTHQTyBu7n3f48pwBtMDu",
+  "id": "3TTHQTyBu7n3f48pwBtMDu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739bacb25620556225574a7392",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029bacb25620556225574a7392",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519bacb25620556225574a7392",
+      "width": 64
+    }
+  ],
+  "label": "Human Re Sources",
+  "name": "Honesty",
+  "popularity": 0,
+  "release_date": "2018-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3TTHQTyBu7n3f48pwBtMDu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+            },
+            "href": "https://api.spotify.com/v1/artists/1W7FNibLa0O0b572tB2w7t",
+            "id": "1W7FNibLa0O0b572tB2w7t",
+            "name": "Pink Sweat$",
+            "type": "artist",
+            "uri": "spotify:artist:1W7FNibLa0O0b572tB2w7t"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2B1JaRSd7T7YP90n6sCh9I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2B1JaRSd7T7YP90n6sCh9I",
+        "id": "2B1JaRSd7T7YP90n6sCh9I",
+        "is_local": false,
+        "name": "Honesty",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2B1JaRSd7T7YP90n6sCh9I"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3TTHQTyBu7n3f48pwBtMDu"
+}

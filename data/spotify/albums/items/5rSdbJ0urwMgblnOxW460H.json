@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+      },
+      "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+      "id": "4csQIMQm6vI2A2SCVDuM2z",
+      "name": "Hayden James",
+      "type": "artist",
+      "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Future Classic",
+      "type": "C"
+    },
+    {
+      "text": "2021 Future Classic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "653738074326"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5rSdbJ0urwMgblnOxW460H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5rSdbJ0urwMgblnOxW460H",
+  "id": "5rSdbJ0urwMgblnOxW460H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfd7e5f96db9b5b80a0d13ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfd7e5f96db9b5b80a0d13ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfd7e5f96db9b5b80a0d13ff",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "Rather Be With You",
+  "popularity": 3,
+  "release_date": "2021-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5rSdbJ0urwMgblnOxW460H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+            },
+            "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+            "id": "4csQIMQm6vI2A2SCVDuM2z",
+            "name": "Hayden James",
+            "type": "artist",
+            "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aA1GTrIMutjIh4GlPPUVN",
+            "id": "0aA1GTrIMutjIh4GlPPUVN",
+            "name": "Crooked Colours",
+            "type": "artist",
+            "uri": "spotify:artist:0aA1GTrIMutjIh4GlPPUVN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188418,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Kc1nMxyLCWtx3BganIsQs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Kc1nMxyLCWtx3BganIsQs",
+        "id": "4Kc1nMxyLCWtx3BganIsQs",
+        "is_local": false,
+        "name": "Rather Be With You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Kc1nMxyLCWtx3BganIsQs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5rSdbJ0urwMgblnOxW460H"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id": "4gzpq5DPGxSnKTe4SA8HAU",
+      "name": "Coldplay",
+      "type": "artist",
+      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2008 Parlophone Records Ltd, a Warner Music Group Company",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2008 Parlophone Records Ltd, a Warner Music Group Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5099921784958"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5A2FItyDVQ2YxaqCw4X5x2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5A2FItyDVQ2YxaqCw4X5x2",
+  "id": "5A2FItyDVQ2YxaqCw4X5x2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2c8e5d9ef865b809f989be5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2c8e5d9ef865b809f989be5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2c8e5d9ef865b809f989be5",
+      "width": 64
+    }
+  ],
+  "label": "Parlophone UK",
+  "name": "Violet Hill",
+  "popularity": 22,
+  "release_date": "2008-05-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5A2FItyDVQ2YxaqCw4X5x2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+            "id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "name": "Coldplay",
+            "type": "artist",
+            "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 222653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51inJOifIQ6J8aAXbNFIGM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/51inJOifIQ6J8aAXbNFIGM",
+        "id": "51inJOifIQ6J8aAXbNFIGM",
+        "is_local": false,
+        "name": "Violet Hill",
+        "preview_url": "https://p.scdn.co/mp3-preview/7aa7da3f8b5c795517e24dcf19fe8386056c16e8?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:51inJOifIQ6J8aAXbNFIGM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5A2FItyDVQ2YxaqCw4X5x2"
+}

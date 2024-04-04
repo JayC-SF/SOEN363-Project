@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
+      "id": "3AQRLZ9PuTAozP28Skbq8V",
+      "name": "The Script",
+      "type": "artist",
+      "uri": "spotify:artist:3AQRLZ9PuTAozP28Skbq8V"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447932032"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7hKlP3f3yyQjizcUIKWvZk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7hKlP3f3yyQjizcUIKWvZk",
+  "id": "7hKlP3f3yyQjizcUIKWvZk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a22d71aa4218b8e687f1688",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029a22d71aa4218b8e687f1688",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a22d71aa4218b8e687f1688",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "The Last Time",
+  "popularity": 0,
+  "release_date": "2019-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7hKlP3f3yyQjizcUIKWvZk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
+            "id": "3AQRLZ9PuTAozP28Skbq8V",
+            "name": "The Script",
+            "type": "artist",
+            "uri": "spotify:artist:3AQRLZ9PuTAozP28Skbq8V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196366,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1maoY6K6fsTEv9fhXhBL14"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1maoY6K6fsTEv9fhXhBL14",
+        "id": "1maoY6K6fsTEv9fhXhBL14",
+        "is_local": false,
+        "name": "The Last Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1maoY6K6fsTEv9fhXhBL14"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7hKlP3f3yyQjizcUIKWvZk"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+      },
+      "href": "https://api.spotify.com/v1/artists/0lawSNBxNgJFQYJnQzLH8c",
+      "id": "0lawSNBxNgJFQYJnQzLH8c",
+      "name": "khai dreams",
+      "type": "artist",
+      "uri": "spotify:artist:0lawSNBxNgJFQYJnQzLH8c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 650367 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2017 650367 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192378576802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ATE98DN7sMocKj5CYsVal"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ATE98DN7sMocKj5CYsVal",
+  "id": "2ATE98DN7sMocKj5CYsVal",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2a9d65246f61615c855ec61",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2a9d65246f61615c855ec61",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2a9d65246f61615c855ec61",
+      "width": 64
+    }
+  ],
+  "label": "650367 Records DK",
+  "name": "Ultimately",
+  "popularity": 0,
+  "release_date": "2017-11-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ATE98DN7sMocKj5CYsVal/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lawSNBxNgJFQYJnQzLH8c",
+            "id": "0lawSNBxNgJFQYJnQzLH8c",
+            "name": "khai dreams",
+            "type": "artist",
+            "uri": "spotify:artist:0lawSNBxNgJFQYJnQzLH8c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142028,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dIPAPCa05Hh2Esift0sVX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2dIPAPCa05Hh2Esift0sVX",
+        "id": "2dIPAPCa05Hh2Esift0sVX",
+        "is_local": false,
+        "name": "Ultimately",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2dIPAPCa05Hh2Esift0sVX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ATE98DN7sMocKj5CYsVal"
+}

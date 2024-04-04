@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+      },
+      "href": "https://api.spotify.com/v1/artists/31431J9PD3bfNsPKkezt0d",
+      "id": "31431J9PD3bfNsPKkezt0d",
+      "name": "Leanna Firestone",
+      "type": "artist",
+      "uri": "spotify:artist:31431J9PD3bfNsPKkezt0d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Leanna Firestone under exclusive license to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2022 Leanna Firestone",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316470314305"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1nBm5rHMr2g9dqIU98OmcT",
+  "id": "1nBm5rHMr2g9dqIU98OmcT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739f7f0706cad33f927cead2d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029f7f0706cad33f927cead2d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519f7f0706cad33f927cead2d6",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "Smitten",
+  "popularity": 25,
+  "release_date": "2022-01-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1nBm5rHMr2g9dqIU98OmcT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+            },
+            "href": "https://api.spotify.com/v1/artists/31431J9PD3bfNsPKkezt0d",
+            "id": "31431J9PD3bfNsPKkezt0d",
+            "name": "Leanna Firestone",
+            "type": "artist",
+            "uri": "spotify:artist:31431J9PD3bfNsPKkezt0d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149269,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ECcVxvtmcKyemj7GLu8V0",
+        "id": "4ECcVxvtmcKyemj7GLu8V0",
+        "is_local": false,
+        "name": "Smitten",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ECcVxvtmcKyemj7GLu8V0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1nBm5rHMr2g9dqIU98OmcT"
+}

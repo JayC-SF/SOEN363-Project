@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Tglaf8nvDzwSQnpSrjLHP",
+      "id": "2Tglaf8nvDzwSQnpSrjLHP",
+      "name": "Cuco",
+      "type": "artist",
+      "uri": "spotify:artist:2Tglaf8nvDzwSQnpSrjLHP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag",
+      "name": "Clairo",
+      "type": "artist",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Cuco x Clairo",
+      "type": "C"
+    },
+    {
+      "text": "2018 Cuco x Clairo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526025028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Az1XhIF7MTkO0kr5fRJOd",
+  "id": "6Az1XhIF7MTkO0kr5fRJOd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb461f74ecc3cd02f81dfed3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb461f74ecc3cd02f81dfed3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb461f74ecc3cd02f81dfed3",
+      "width": 64
+    }
+  ],
+  "label": "Cuco",
+  "name": "Drown",
+  "popularity": 0,
+  "release_date": "2018-08-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Az1XhIF7MTkO0kr5fRJOd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Tglaf8nvDzwSQnpSrjLHP",
+            "id": "2Tglaf8nvDzwSQnpSrjLHP",
+            "name": "Cuco",
+            "type": "artist",
+            "uri": "spotify:artist:2Tglaf8nvDzwSQnpSrjLHP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234055,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03ZkvqZOANKndGXfAAPywG",
+        "id": "03ZkvqZOANKndGXfAAPywG",
+        "is_local": false,
+        "name": "Drown",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:03ZkvqZOANKndGXfAAPywG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Az1XhIF7MTkO0kr5fRJOd"
+}
