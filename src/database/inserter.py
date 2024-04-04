@@ -48,7 +48,7 @@ class DatabaseInserter:
             case 'authors':
                 self.__insert_authors()
             case 'aliases':
-                pass
+                self.__insert_aliases()
             case 'tracks_artists':
                 self.__insert_tracks_artists()
             case 'artists_aliases':
@@ -204,6 +204,119 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} artists and genres in {end_time - start_time} seconds")
+
+    def __insert_aliases(self):
+        parser = SpotifyParser('aliases', AliasModel)
+        aliases: List[AliasModel] = parser.parse_all()
+        cursor = self.__db.cursor()
+
+        queue = Queue()
+
+        for alias in aliases:
+            queue.put(alias)
+
+        def worker():
+            db = mysql.connector.connect(
+                host=DATABASE_HOST,
+                user=DATABASE_USER,
+                password=DATABASE_PASSWORD,
+                database=DATABASE_NAME
+            )
+            cursor = db.cursor()
+
+            while not queue.empty():
+                alias: AliasModel = queue.get()
+                try:
+                    insert_query = """
+                                    INSERT INTO Alias (alias_name)
+                                    VALUES (%s)
+                                            """
+                    alias_data = (
+                        alias.alias_name
+                    )
+                    cursor.execute(insert_query, alias_data)
+                    db.commit()
+                #     print(f"Inserted track data for {track.spotify_id}")
+                # else:
+                #     print(f"Row already exists for {track.spotify_id}, skipping.")
+                finally:
+                    queue.task_done()
+
+        start_time = time.time()
+
+        threads = []
+        for i in range(5):
+            thread = threading.Thread(target=worker)
+            thread.start()
+            threads.append(thread)
+
+        queue.join()
+
+        for thread in threads:
+            thread.join()
+
+        count_query = "SELECT COUNT(*) FROM Alias"
+        cursor = self.__db.cursor()
+        cursor.execute(count_query)
+        row_count = cursor.fetchone()[0]
+
+        end_time = time.time()
+        print(f"Finished inserting Aliases. Total tracks in database: {row_count}")
+        print(f"Finished inserting tracks in {end_time - start_time} seconds")
+
+    def __insert_artists_aliases(self):
+        pass
+        # parser = SpotifyParser('tracks', TrackModel)
+        # tracks: List[TrackModel] = parser.parse_all(
+        #     middleware=lambda mapped_object, json_data: (
+        #             setattr(mapped_object, 'available_markets', json_data.get('available_markets')) or mapped_object
+        #     )
+        # )
+
+        # # Use buffered cursor to avoid "Unread result found" error
+        # cursor = self.__db.cursor(buffered=True)
+        # start_time = time.time()
+        # num_inserts = 0
+
+        # # Get all markets and their ids
+        # cursor.execute("SELECT market_id, country_code FROM Market")
+        # markets = cursor.fetchall()
+        # market_map = {}
+        # for market in markets:
+        #     market_id, country_code = market
+        #     market_map[country_code] = market_id
+
+        # for track in tracks:
+        #     # Check if track exists in Audio table
+        #     cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (track.spotify_id,))
+        #     result = cursor.fetchone()
+        #     if not result:
+        #         continue
+
+        #     track_id = result[0]
+
+        #     # Check if track exists in Track table
+        #     cursor.execute("SELECT EXISTS(SELECT 1 FROM Track WHERE track_id = %s)", (track_id,))
+        #     exists = cursor.fetchone()[0]
+        #     if not exists:
+        #         continue
+
+        #     for market in track.available_markets:
+        #         market_id = market_map[market]
+
+        #         cursor.execute("SELECT COUNT(1) FROM Available_Markets_Tracks WHERE market_id = %s AND track_id = %s",
+        #                        (market_id, track_id))
+        #         if cursor.fetchone()[0] == 0:
+        #             cursor.execute("INSERT INTO Available_Markets_Tracks (track_id, market_id) VALUES (%s, %s)",
+        #                            (track_id, market_id))
+        #             self.__db.commit()
+        #             num_inserts += 1
+        #         #     print(f"Inserted market, track data for {market_id}, {track_id}")
+        #         # else:
+        #         #     print(f"Row already exists for {market_id}, {track_id}, skipping.")
+
+        # end_time = time.time()
+        # print(f"Successfully inserted {num_inserts} market-track relationships in {end_time - start_time} seconds")
 
     def __insert_chapters_genres(self):
         parser = SpotifyParser('chapters', ChapterModel)
@@ -621,11 +734,6 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} market-album relationships in {end_time - start_time} seconds")
-
-    def __insert_aliases(self):
-        parser = SpotifyParser('aliases', AliasModel)
-        aliases: List[AliasModel] = parser.parse_all()
-        cursor = self.__db.cursor()
 
     def __insert_available_markets_tracks(self):
         parser = SpotifyParser('tracks', TrackModel)
