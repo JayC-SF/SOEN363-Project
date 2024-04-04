@@ -30,8 +30,8 @@ DROP TABLE IF EXISTS Chapters;
 CREATE TABLE Audio
 (
     audio_id     INT AUTO_INCREMENT,
-    spotify_id   VARCHAR(200),
     audio_name   VARCHAR(200) NOT NULL,
+    spotify_id   VARCHAR(200),
     uri          VARCHAR(200),
     href         VARCHAR(200),
     external_url VARCHAR(200),
@@ -234,8 +234,8 @@ CREATE TABLE Audiobooks_Chapters
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook (audiobook_id) ON DELETE CASCADE
 );
 
-SELECT table_schema                                  "database name",
-       sum(data_length + index_length) / 1024 / 1024 "database size in MB",
-       sum(data_free) / 1024 / 1024                  "free space in MB"
-FROM information_schema.TABLES
-GROUP BY table_schema; 
+-- SELECT table_schema                                  "database name",
+--        sum(data_length + index_length) / 1024 / 1024 "database size in MB",
+--        sum(data_free) / 1024 / 1024                  "free space in MB"
+-- FROM information_schema.TABLES
+-- GROUP BY table_schema; 
