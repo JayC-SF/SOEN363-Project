@@ -7,6 +7,6 @@ class PlaylistModel:
         self.nb_followers = nb_followers
         self.collaborative = collaborative
         self.snapshot_id = snapshot_id
+        self.uri = uri
         self.href = href
         self.external_url = external_url
-        self.uri = uri
