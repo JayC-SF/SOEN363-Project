@@ -24,11 +24,14 @@ def load_info_from_playlists():
     artists_size = len(artists_df)
     for _, playlist_row in playlists_df.iterrows():
         playlist_id = playlist_row['ID']
-        new_tracks_df, new_albums_df, new_artists_df = load_info_from_playlist(playlist_id, playlist_items_folder)
+        load_info_from_playlist(playlist_id, playlist_items_folder, tracks_df, albums_df, artists_df)
         # append new dfs in original dataframe set
-        tracks_df = pd.concat([tracks_df, new_tracks_df], ignore_index=True)
-        albums_df = pd.concat([albums_df, new_albums_df], ignore_index=True)
-        artists_df = pd.concat([artists_df, new_artists_df], ignore_index=True)
+        # tracks_df = pd.concat([tracks_df, new_tracks_df], ignore_index=True)
+        # albums_df = pd.concat([albums_df, new_albums_df], ignore_index=True)
+        # artists_df = pd.concat([artists_df, new_artists_df], ignore_index=True)
+        # tracks_df._append(new_tracks_df, ignore_index=True, inplace=True)
+        # albums_df._append(new_albums_df, ignore_index=True, inplace=True)
+        # artists_df._append(new_artists_df, ignore_index=True, inplace=True)
     # drop duplicates
     tracks_df.drop_duplicates(subset=['ID'], inplace=True)
     albums_df.drop_duplicates(subset=['ID'], inplace=True)
@@ -42,16 +45,16 @@ def load_info_from_playlists():
     print(f"Added {len(artists_df) - artists_size} new artists from playlists.")
 
 
-def load_info_from_playlist(playlist_id, playlist_items_folder):
+def load_info_from_playlist(playlist_id, playlist_items_folder, tracks_df, albums_df, artists_df):
     # check if the playlist has been scraped
     playlist_json_file = os.path.join(playlist_items_folder, f"{playlist_id}.json")
     if not os.path.exists(playlist_json_file):
         print(f"Playlist {playlist_id} needs to be scraped before loading tracks")
         return
-    data = {'ID': [], 'CACHED': []}
-    tracks_df = pd.DataFrame(data)
-    albums_df = tracks_df.copy()
-    artists_df = tracks_df.copy()
+    # data = {'ID': [], 'CACHED': []}
+    # tracks_df = pd.DataFrame(data)
+    # albums_df = tracks_df.copy()
+    # artists_df = tracks_df.copy()
     # load the json object
     with open(playlist_json_file, "r") as f:
         playlist_json = json.load(f)
@@ -74,9 +77,9 @@ def load_info_from_playlist(playlist_id, playlist_items_folder):
             artists_df.loc[len(artists_df)] = [artist['id'], False]
 
     # drop all duplicates in the dataframe
-    tracks_df.drop_duplicates(subset=['ID'])
-    albums_df.drop_duplicates(subset=['ID'])
-    artists_df.drop_duplicates(subset=['ID'])
+    # tracks_df.drop_duplicates(subset=['ID'])
+    # albums_df.drop_duplicates(subset=['ID'])
+    # artists_df.drop_duplicates(subset=['ID'])
     return (tracks_df, albums_df, artists_df)
 
 

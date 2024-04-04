@@ -84,7 +84,8 @@ class SpotifyScraper:
             res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, id)
 
             # gives a random time to sleep between 0 and SLEEP_TIMER_AVG
-            timer = random.random()*SLEEP_TIMER_AVG*2
+            # timer = random.random()*SLEEP_TIMER_AVG*2
+            timer = SLEEP_TIMER_AVG
 
             # check if we still have a success code
             if not is_success_code(res.status_code):
@@ -145,7 +146,8 @@ class SpotifyScraper:
 
             res = send_request_with_wait(SpotifyScraper.scrape_batch_ids, self, batch_ids)
 
-            timer = random.random()*SLEEP_TIMER_AVG*2
+            # timer = random.random()*SLEEP_TIMER_AVG*2
+            timer = SLEEP_TIMER_AVG
             # send request without batch, by sending a request 1 by 1
             if not is_success_code(res.status_code):
                 print(f"Status error code {res.status_code} while fetching:\n{str(res.content)}")
@@ -161,7 +163,8 @@ class SpotifyScraper:
                     res = send_request_with_wait(SpotifyScraper.scrape_single_id, self, batch_id)
 
                     # Set the timer for the next round
-                    timer = random.random()*SLEEP_TIMER_AVG*2
+                    # timer = random.random()*SLEEP_TIMER_AVG*2
+                    timer = SLEEP_TIMER_AVG
 
                     if not is_success_code(res.status_code):
                         print(f"Status error code while fetching {batch_id}: {res.status_code}\n{res.json()}")
