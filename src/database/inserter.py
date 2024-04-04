@@ -210,59 +210,82 @@ class DatabaseInserter:
         aliases: List[AliasModel] = parser.parse_all()
         cursor = self.__db.cursor()
 
-        queue = Queue()
+        start_time = time.time()
+        num_inserts = 0
 
         for alias in aliases:
-            queue.put(alias)
-
-        def worker():
-            db = mysql.connector.connect(
-                host=DATABASE_HOST,
-                user=DATABASE_USER,
-                password=DATABASE_PASSWORD,
-                database=DATABASE_NAME
+            
+            # If the album does not exist, insert it
+            insert_query = """
+                        INSERT INTO Alias (alias_name)
+                        VALUES (%s)
+                        """
+            alias_data = (
+                alias.alias_name
             )
-            cursor = db.cursor()
-
-            while not queue.empty():
-                alias: AliasModel = queue.get()
-                try:
-                    insert_query = """
-                                    INSERT INTO Alias (alias_name)
-                                    VALUES (%s)
-                                            """
-                    alias_data = (
-                        alias.alias_name
-                    )
-                    cursor.execute(insert_query, alias_data)
-                    db.commit()
-                #     print(f"Inserted track data for {track.spotify_id}")
-                # else:
-                #     print(f"Row already exists for {track.spotify_id}, skipping.")
-                finally:
-                    queue.task_done()
-
-        start_time = time.time()
-
-        threads = []
-        for i in range(5):
-            thread = threading.Thread(target=worker)
-            thread.start()
-            threads.append(thread)
-
-        queue.join()
-
-        for thread in threads:
-            thread.join()
-
-        count_query = "SELECT COUNT(*) FROM Alias"
-        cursor = self.__db.cursor()
-        cursor.execute(count_query)
-        row_count = cursor.fetchone()[0]
+            cursor.execute(insert_query, alias_data)
+            self.__db.commit()
+            print(f"Inserted album data for {alias.alias_name}")
+            num_inserts += 1
+        else:
+            print(f"Row already exists for {alias.alias_name}, skipping.")
 
         end_time = time.time()
-        print(f"Finished inserting Aliases. Total tracks in database: {row_count}")
-        print(f"Finished inserting aliases in {end_time - start_time} seconds")
+        print(f"Successfully inserted {num_inserts} albums in {end_time - start_time} seconds")
+
+        # queue = Queue()
+
+        # for alias in aliases:
+        #     queue.put(alias)
+
+        # def worker():
+        #     db = mysql.connector.connect(
+        #         host=DATABASE_HOST,
+        #         user=DATABASE_USER,
+        #         password=DATABASE_PASSWORD,
+        #         database=DATABASE_NAME
+        #     )
+        #     cursor = db.cursor()
+
+        #     while not queue.empty():
+        #         alias: AliasModel = queue.get()
+        #         try:
+        #             insert_query = """
+        #                             INSERT INTO Alias (alias_name)
+        #                             VALUES (%s)
+        #                                     """
+        #             alias_data = (
+        #                 alias.alias_name
+        #             )
+        #             cursor.execute(insert_query, alias_data)
+        #             db.commit()
+        #         #     print(f"Inserted track data for {track.spotify_id}")
+        #         # else:
+        #         #     print(f"Row already exists for {track.spotify_id}, skipping.")
+        #         finally:
+        #             queue.task_done()
+
+        # start_time = time.time()
+
+        # threads = []
+        # for i in range(5):
+        #     thread = threading.Thread(target=worker)
+        #     thread.start()
+        #     threads.append(thread)
+
+        # queue.join()
+
+        # for thread in threads:
+        #     thread.join()
+
+        # count_query = "SELECT COUNT(*) FROM Alias"
+        # cursor = self.__db.cursor()
+        # cursor.execute(count_query)
+        # row_count = cursor.fetchone()[0]
+
+        # end_time = time.time()
+        # print(f"Finished inserting Aliases. Total tracks in database: {row_count}")
+        # print(f"Finished inserting aliases in {end_time - start_time} seconds")
 
     def __insert_artists_aliases(self):
         pass
