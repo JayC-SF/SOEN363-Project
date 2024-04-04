@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2s8bgT1CE6KOA0a2omeCDk",
+      "id": "2s8bgT1CE6KOA0a2omeCDk",
+      "name": "Lilly Ahlberg",
+      "type": "artist",
+      "uri": "spotify:artist:2s8bgT1CE6KOA0a2omeCDk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Twelve Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2020 Twelve Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526034617"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lZcxdH9hFVWUMxORAqYV1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lZcxdH9hFVWUMxORAqYV1",
+  "id": "4lZcxdH9hFVWUMxORAqYV1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bf2bf73ec3e2bc132bc715c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bf2bf73ec3e2bc132bc715c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bf2bf73ec3e2bc132bc715c",
+      "width": 64
+    }
+  ],
+  "label": "Twelve Entertainment",
+  "name": "Ocean Song (You & I)",
+  "popularity": 0,
+  "release_date": "2020-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lZcxdH9hFVWUMxORAqYV1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2s8bgT1CE6KOA0a2omeCDk",
+            "id": "2s8bgT1CE6KOA0a2omeCDk",
+            "name": "Lilly Ahlberg",
+            "type": "artist",
+            "uri": "spotify:artist:2s8bgT1CE6KOA0a2omeCDk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211029,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4P38KV7Nxro8VmOC1HujaT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4P38KV7Nxro8VmOC1HujaT",
+        "id": "4P38KV7Nxro8VmOC1HujaT",
+        "is_local": false,
+        "name": "Ocean Song (You & I)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4P38KV7Nxro8VmOC1HujaT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4lZcxdH9hFVWUMxORAqYV1"
+}

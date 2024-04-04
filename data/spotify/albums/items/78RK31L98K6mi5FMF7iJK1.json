@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DjvnBVnM1YGCC6jrEKcTR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1DjvnBVnM1YGCC6jrEKcTR",
+      "id": "1DjvnBVnM1YGCC6jrEKcTR",
+      "name": "Thom Stone",
+      "type": "artist",
+      "uri": "spotify:artist:1DjvnBVnM1YGCC6jrEKcTR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2008 Airbag Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2008 Airbag Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5050580517462"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78RK31L98K6mi5FMF7iJK1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78RK31L98K6mi5FMF7iJK1",
+  "id": "78RK31L98K6mi5FMF7iJK1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc703bce884c5a4cb90a5621",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc703bce884c5a4cb90a5621",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc703bce884c5a4cb90a5621",
+      "width": 64
+    }
+  ],
+  "label": "Airbag Recordings",
+  "name": "She Knows",
+  "popularity": 0,
+  "release_date": "2008-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78RK31L98K6mi5FMF7iJK1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DjvnBVnM1YGCC6jrEKcTR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DjvnBVnM1YGCC6jrEKcTR",
+            "id": "1DjvnBVnM1YGCC6jrEKcTR",
+            "name": "Thom Stone",
+            "type": "artist",
+            "uri": "spotify:artist:1DjvnBVnM1YGCC6jrEKcTR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zgMNq6lQEFky2xmtqKqkD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zgMNq6lQEFky2xmtqKqkD",
+        "id": "5zgMNq6lQEFky2xmtqKqkD",
+        "is_local": false,
+        "name": "She Knows",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zgMNq6lQEFky2xmtqKqkD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78RK31L98K6mi5FMF7iJK1"
+}

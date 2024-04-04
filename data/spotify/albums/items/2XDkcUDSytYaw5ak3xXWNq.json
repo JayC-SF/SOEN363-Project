@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6pU5oz09VUYtnFTd4P1Mxn",
+      "id": "6pU5oz09VUYtnFTd4P1Mxn",
+      "name": "Ranjit Bawa",
+      "type": "artist",
+      "uri": "spotify:artist:6pU5oz09VUYtnFTd4P1Mxn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Ranjit Bawa",
+      "type": "C"
+    },
+    {
+      "text": "2020 Ranjit Bawa",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194923659169"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2XDkcUDSytYaw5ak3xXWNq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2XDkcUDSytYaw5ak3xXWNq",
+  "id": "2XDkcUDSytYaw5ak3xXWNq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1d770d2460e24ed422f4d47",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1d770d2460e24ed422f4d47",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1d770d2460e24ed422f4d47",
+      "width": 64
+    }
+  ],
+  "label": "Ranjit Bawa",
+  "name": "Jean",
+  "popularity": 0,
+  "release_date": "2020-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2XDkcUDSytYaw5ak3xXWNq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+            },
+            "href": "https://api.spotify.com/v1/artists/6pU5oz09VUYtnFTd4P1Mxn",
+            "id": "6pU5oz09VUYtnFTd4P1Mxn",
+            "name": "Ranjit Bawa",
+            "type": "artist",
+            "uri": "spotify:artist:6pU5oz09VUYtnFTd4P1Mxn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211905,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Hw2gOKEmH3AmDZrivi3zF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Hw2gOKEmH3AmDZrivi3zF",
+        "id": "0Hw2gOKEmH3AmDZrivi3zF",
+        "is_local": false,
+        "name": "Jean",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Hw2gOKEmH3AmDZrivi3zF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2XDkcUDSytYaw5ak3xXWNq"
+}

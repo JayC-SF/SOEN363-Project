@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lO3fSdhsdpeOcrbqAJsRU",
+      "id": "6lO3fSdhsdpeOcrbqAJsRU",
+      "name": "Aero Chord",
+      "type": "artist",
+      "uri": "spotify:artist:6lO3fSdhsdpeOcrbqAJsRU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Monstercat",
+      "type": "C"
+    },
+    {
+      "text": "2014 Monstercat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859712488602"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zN6UAifpSmyow9TbLBRwD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1zN6UAifpSmyow9TbLBRwD",
+  "id": "1zN6UAifpSmyow9TbLBRwD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342bcc4bb60ad21adf79d9802",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242bcc4bb60ad21adf79d9802",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142bcc4bb60ad21adf79d9802",
+      "width": 64
+    }
+  ],
+  "label": "Monstercat",
+  "name": "Surface",
+  "popularity": 0,
+  "release_date": "2014-04-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1zN6UAifpSmyow9TbLBRwD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lO3fSdhsdpeOcrbqAJsRU",
+            "id": "6lO3fSdhsdpeOcrbqAJsRU",
+            "name": "Aero Chord",
+            "type": "artist",
+            "uri": "spotify:artist:6lO3fSdhsdpeOcrbqAJsRU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254117,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ERWSokrBWx8sUwHV6QN93"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ERWSokrBWx8sUwHV6QN93",
+        "id": "5ERWSokrBWx8sUwHV6QN93",
+        "is_local": false,
+        "name": "Surface",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ERWSokrBWx8sUwHV6QN93"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1zN6UAifpSmyow9TbLBRwD"
+}

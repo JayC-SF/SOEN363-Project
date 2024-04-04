@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zRP76y8bnV3OdkaraLHuy",
+      "id": "7zRP76y8bnV3OdkaraLHuy",
+      "name": "Grind",
+      "type": "artist",
+      "uri": "spotify:artist:7zRP76y8bnV3OdkaraLHuy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59ycNOpi4mio7LGJqfknv2"
+      },
+      "href": "https://api.spotify.com/v1/artists/59ycNOpi4mio7LGJqfknv2",
+      "id": "59ycNOpi4mio7LGJqfknv2",
+      "name": "Makro",
+      "type": "artist",
+      "uri": "spotify:artist:59ycNOpi4mio7LGJqfknv2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0GrCABg3DQIGdEN05tz9Q1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0GrCABg3DQIGdEN05tz9Q1",
+      "id": "0GrCABg3DQIGdEN05tz9Q1",
+      "name": "Los Hijos de la Luna",
+      "type": "artist",
+      "uri": "spotify:artist:0GrCABg3DQIGdEN05tz9Q1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 Stelars Clothing / Kraken Distribuci\u00f3n",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 Stelars Clothing / Kraken Distribuci\u00f3n",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483574523"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Cwhx5wijAPtW9ra5nNIaW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Cwhx5wijAPtW9ra5nNIaW",
+  "id": "2Cwhx5wijAPtW9ra5nNIaW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f78a335f5386d926db02e024",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f78a335f5386d926db02e024",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f78a335f5386d926db02e024",
+      "width": 64
+    }
+  ],
+  "label": "Stelars Clothing",
+  "name": "Loyalty II",
+  "popularity": 0,
+  "release_date": "2019-03-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Cwhx5wijAPtW9ra5nNIaW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GrCABg3DQIGdEN05tz9Q1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GrCABg3DQIGdEN05tz9Q1",
+            "id": "0GrCABg3DQIGdEN05tz9Q1",
+            "name": "Los Hijos de la Luna",
+            "type": "artist",
+            "uri": "spotify:artist:0GrCABg3DQIGdEN05tz9Q1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zRP76y8bnV3OdkaraLHuy",
+            "id": "7zRP76y8bnV3OdkaraLHuy",
+            "name": "Grind",
+            "type": "artist",
+            "uri": "spotify:artist:7zRP76y8bnV3OdkaraLHuy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59ycNOpi4mio7LGJqfknv2"
+            },
+            "href": "https://api.spotify.com/v1/artists/59ycNOpi4mio7LGJqfknv2",
+            "id": "59ycNOpi4mio7LGJqfknv2",
+            "name": "Makro",
+            "type": "artist",
+            "uri": "spotify:artist:59ycNOpi4mio7LGJqfknv2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202285,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61j5PHVq4XnSHc4KfUwz5c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61j5PHVq4XnSHc4KfUwz5c",
+        "id": "61j5PHVq4XnSHc4KfUwz5c",
+        "is_local": false,
+        "name": "Loyalty II",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61j5PHVq4XnSHc4KfUwz5c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Cwhx5wijAPtW9ra5nNIaW"
+}

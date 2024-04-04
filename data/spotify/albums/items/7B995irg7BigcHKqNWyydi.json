@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+      },
+      "href": "https://api.spotify.com/v1/artists/3I6e2ZqqoxQhXc9z7Tp5ci",
+      "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+      "name": "Rising Appalachia",
+      "type": "artist",
+      "uri": "spotify:artist:3I6e2ZqqoxQhXc9z7Tp5ci"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HNzOuRGvIWVIMTp1B7PSg"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HNzOuRGvIWVIMTp1B7PSg",
+      "id": "1HNzOuRGvIWVIMTp1B7PSg",
+      "name": "Castanea",
+      "type": "artist",
+      "uri": "spotify:artist:1HNzOuRGvIWVIMTp1B7PSg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Rising Appalachia",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195079404535"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7B995irg7BigcHKqNWyydi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7B995irg7BigcHKqNWyydi",
+  "id": "7B995irg7BigcHKqNWyydi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373b93160fcd4665aac326be9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273b93160fcd4665aac326be9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173b93160fcd4665aac326be9",
+      "width": 64
+    }
+  ],
+  "label": "Rising Appalachia",
+  "name": "Resilient (Remix)",
+  "popularity": 0,
+  "release_date": "2020-05-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7B995irg7BigcHKqNWyydi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+            },
+            "href": "https://api.spotify.com/v1/artists/3I6e2ZqqoxQhXc9z7Tp5ci",
+            "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+            "name": "Rising Appalachia",
+            "type": "artist",
+            "uri": "spotify:artist:3I6e2ZqqoxQhXc9z7Tp5ci"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HNzOuRGvIWVIMTp1B7PSg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HNzOuRGvIWVIMTp1B7PSg",
+            "id": "1HNzOuRGvIWVIMTp1B7PSg",
+            "name": "Castanea",
+            "type": "artist",
+            "uri": "spotify:artist:1HNzOuRGvIWVIMTp1B7PSg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 296249,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lcopQeTsxU7LSFoggyiwc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4lcopQeTsxU7LSFoggyiwc",
+        "id": "4lcopQeTsxU7LSFoggyiwc",
+        "is_local": false,
+        "name": "Resilient (Remix)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4lcopQeTsxU7LSFoggyiwc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7B995irg7BigcHKqNWyydi"
+}

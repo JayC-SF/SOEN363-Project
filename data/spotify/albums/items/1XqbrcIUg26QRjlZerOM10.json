@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TAoP0f9OuWZUesao43xUW",
+      "id": "4TAoP0f9OuWZUesao43xUW",
+      "name": "Mr Eazi",
+      "type": "artist",
+      "uri": "spotify:artist:4TAoP0f9OuWZUesao43xUW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Meister Music",
+      "type": "C"
+    },
+    {
+      "text": "2015 Meister Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859715473988"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XqbrcIUg26QRjlZerOM10"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1XqbrcIUg26QRjlZerOM10",
+  "id": "1XqbrcIUg26QRjlZerOM10",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a0635b7c179730c59f86703",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a0635b7c179730c59f86703",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a0635b7c179730c59f86703",
+      "width": 64
+    }
+  ],
+  "label": "Meister Music",
+  "name": "Skin Tight (feat. Efya)",
+  "popularity": 0,
+  "release_date": "2015-08-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1XqbrcIUg26QRjlZerOM10/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TAoP0f9OuWZUesao43xUW",
+            "id": "4TAoP0f9OuWZUesao43xUW",
+            "name": "Mr Eazi",
+            "type": "artist",
+            "uri": "spotify:artist:4TAoP0f9OuWZUesao43xUW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dlInrJwE0KSP9hZ0ALsI6",
+            "id": "1dlInrJwE0KSP9hZ0ALsI6",
+            "name": "Efya",
+            "type": "artist",
+            "uri": "spotify:artist:1dlInrJwE0KSP9hZ0ALsI6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 248626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vpMQ2vmU6O2qFG7aNKwiL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vpMQ2vmU6O2qFG7aNKwiL",
+        "id": "7vpMQ2vmU6O2qFG7aNKwiL",
+        "is_local": false,
+        "name": "Skin Tight (feat. Efya)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vpMQ2vmU6O2qFG7aNKwiL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1XqbrcIUg26QRjlZerOM10"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+      },
+      "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+      "id": "2R21vXR83lH98kGeO99Y66",
+      "name": "Anuel AA",
+      "type": "artist",
+      "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 High Society",
+      "type": "C"
+    },
+    {
+      "text": "2016 High Society",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7705553833718"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MqFD0XWxIHzf90vL1zULL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MqFD0XWxIHzf90vL1zULL",
+  "id": "6MqFD0XWxIHzf90vL1zULL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735644dcf06981765053e5a97e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025644dcf06981765053e5a97e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515644dcf06981765053e5a97e",
+      "width": 64
+    }
+  ],
+  "label": "High Society",
+  "name": "En El Castillo",
+  "popularity": 0,
+  "release_date": "2016-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MqFD0XWxIHzf90vL1zULL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+            },
+            "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+            "id": "2R21vXR83lH98kGeO99Y66",
+            "name": "Anuel AA",
+            "type": "artist",
+            "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231392,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UJlnU21o2BmMdW0oDxljM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UJlnU21o2BmMdW0oDxljM",
+        "id": "0UJlnU21o2BmMdW0oDxljM",
+        "is_local": false,
+        "name": "En El Castillo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0UJlnU21o2BmMdW0oDxljM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MqFD0XWxIHzf90vL1zULL"
+}

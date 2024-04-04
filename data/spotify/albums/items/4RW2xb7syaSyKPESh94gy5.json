@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LEIVUkXKIOds1qAwz9zf4"
+      },
+      "href": "https://api.spotify.com/v1/artists/7LEIVUkXKIOds1qAwz9zf4",
+      "id": "7LEIVUkXKIOds1qAwz9zf4",
+      "name": "Emcee KB",
+      "type": "artist",
+      "uri": "spotify:artist:7LEIVUkXKIOds1qAwz9zf4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Young Emcee Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Young Emcee Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207395586"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RW2xb7syaSyKPESh94gy5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4RW2xb7syaSyKPESh94gy5",
+  "id": "4RW2xb7syaSyKPESh94gy5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f7aec8bfee5b77c469eb65c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f7aec8bfee5b77c469eb65c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f7aec8bfee5b77c469eb65c",
+      "width": 64
+    }
+  ],
+  "label": "Young Emcee Records",
+  "name": "60 Minutes",
+  "popularity": 3,
+  "release_date": "2022-10-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4RW2xb7syaSyKPESh94gy5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LEIVUkXKIOds1qAwz9zf4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LEIVUkXKIOds1qAwz9zf4",
+            "id": "7LEIVUkXKIOds1qAwz9zf4",
+            "name": "Emcee KB",
+            "type": "artist",
+            "uri": "spotify:artist:7LEIVUkXKIOds1qAwz9zf4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161824,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YOiVj2ZhZZYLNq2EAlFu3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YOiVj2ZhZZYLNq2EAlFu3",
+        "id": "5YOiVj2ZhZZYLNq2EAlFu3",
+        "is_local": false,
+        "name": "60 Minutes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5YOiVj2ZhZZYLNq2EAlFu3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4RW2xb7syaSyKPESh94gy5"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Dyfxq0ZrFjjeFBdSNxDbo",
+      "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+      "name": "Yotto",
+      "type": "artist",
+      "uri": "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Green",
+      "type": "C"
+    },
+    {
+      "text": "2017 Green",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5414165084617"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bjl74d1H06Nb4CfAeNewP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bjl74d1H06Nb4CfAeNewP",
+  "id": "1bjl74d1H06Nb4CfAeNewP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f67ddd4a98d997dda01a3ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f67ddd4a98d997dda01a3ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f67ddd4a98d997dda01a3ec",
+      "width": 64
+    }
+  ],
+  "label": "Green",
+  "name": "Marisa",
+  "popularity": 0,
+  "release_date": "2017-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bjl74d1H06Nb4CfAeNewP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Dyfxq0ZrFjjeFBdSNxDbo",
+            "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+            "name": "Yotto",
+            "type": "artist",
+            "uri": "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272711,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27UtOb6UHjnFngQLyDzWlC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27UtOb6UHjnFngQLyDzWlC",
+        "id": "27UtOb6UHjnFngQLyDzWlC",
+        "is_local": false,
+        "name": "Marisa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:27UtOb6UHjnFngQLyDzWlC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Dyfxq0ZrFjjeFBdSNxDbo",
+            "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+            "name": "Yotto",
+            "type": "artist",
+            "uri": "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 292401,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hOux3QFGlQ1OCFmKzknx0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hOux3QFGlQ1OCFmKzknx0",
+        "id": "4hOux3QFGlQ1OCFmKzknx0",
+        "is_local": false,
+        "name": "Oscillations",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4hOux3QFGlQ1OCFmKzknx0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1bjl74d1H06Nb4CfAeNewP"
+}

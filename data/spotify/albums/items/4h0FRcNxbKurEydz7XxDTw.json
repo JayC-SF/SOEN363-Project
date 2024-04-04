@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35d9HY68hiP3dEPohszJlh"
+      },
+      "href": "https://api.spotify.com/v1/artists/35d9HY68hiP3dEPohszJlh",
+      "id": "35d9HY68hiP3dEPohszJlh",
+      "name": "MC Madan",
+      "type": "artist",
+      "uri": "spotify:artist:35d9HY68hiP3dEPohszJlh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 KondZilla",
+      "type": "C"
+    },
+    {
+      "text": "2019 KondZilla",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "760655289723"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4h0FRcNxbKurEydz7XxDTw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4h0FRcNxbKurEydz7XxDTw",
+  "id": "4h0FRcNxbKurEydz7XxDTw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273603d9d40fc0f98eb8400d822",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02603d9d40fc0f98eb8400d822",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851603d9d40fc0f98eb8400d822",
+      "width": 64
+    }
+  ],
+  "label": "KondZilla",
+  "name": "Baile Funk Virou Rave",
+  "popularity": 0,
+  "release_date": "2019-08-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4h0FRcNxbKurEydz7XxDTw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35d9HY68hiP3dEPohszJlh"
+            },
+            "href": "https://api.spotify.com/v1/artists/35d9HY68hiP3dEPohszJlh",
+            "id": "35d9HY68hiP3dEPohszJlh",
+            "name": "MC Madan",
+            "type": "artist",
+            "uri": "spotify:artist:35d9HY68hiP3dEPohszJlh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JjmdilZHyHJTrxzqf1fWF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JjmdilZHyHJTrxzqf1fWF",
+        "id": "3JjmdilZHyHJTrxzqf1fWF",
+        "is_local": false,
+        "name": "Baile Funk Virou Rave",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3JjmdilZHyHJTrxzqf1fWF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4h0FRcNxbKurEydz7XxDTw"
+}

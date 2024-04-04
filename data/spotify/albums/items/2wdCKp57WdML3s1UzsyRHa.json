@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Zwt7HXzjxAHMfrNhwUuSm"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Zwt7HXzjxAHMfrNhwUuSm",
+      "id": "1Zwt7HXzjxAHMfrNhwUuSm",
+      "name": "Benoit & Sergio",
+      "type": "artist",
+      "uri": "spotify:artist:1Zwt7HXzjxAHMfrNhwUuSm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Hot Creations",
+      "type": "C"
+    },
+    {
+      "text": "2013 Hot Creations",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060247386454"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2wdCKp57WdML3s1UzsyRHa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2wdCKp57WdML3s1UzsyRHa",
+  "id": "2wdCKp57WdML3s1UzsyRHa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6832c6feeed27346b8c85e0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6832c6feeed27346b8c85e0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6832c6feeed27346b8c85e0",
+      "width": 64
+    }
+  ],
+  "label": "Hot Creations",
+  "name": "Bridge So Far",
+  "popularity": 0,
+  "release_date": "2013-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2wdCKp57WdML3s1UzsyRHa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Zwt7HXzjxAHMfrNhwUuSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Zwt7HXzjxAHMfrNhwUuSm",
+            "id": "1Zwt7HXzjxAHMfrNhwUuSm",
+            "name": "Benoit & Sergio",
+            "type": "artist",
+            "uri": "spotify:artist:1Zwt7HXzjxAHMfrNhwUuSm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 379581,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CRbm6LPPWuhR7hOx7mMqZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CRbm6LPPWuhR7hOx7mMqZ",
+        "id": "3CRbm6LPPWuhR7hOx7mMqZ",
+        "is_local": false,
+        "name": "Bridge So Far - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3CRbm6LPPWuhR7hOx7mMqZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Zwt7HXzjxAHMfrNhwUuSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Zwt7HXzjxAHMfrNhwUuSm",
+            "id": "1Zwt7HXzjxAHMfrNhwUuSm",
+            "name": "Benoit & Sergio",
+            "type": "artist",
+            "uri": "spotify:artist:1Zwt7HXzjxAHMfrNhwUuSm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 386194,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1h27zl0DAKv4ZJZ81YUViP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1h27zl0DAKv4ZJZ81YUViP",
+        "id": "1h27zl0DAKv4ZJZ81YUViP",
+        "is_local": false,
+        "name": "$100 Bill - Original Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1h27zl0DAKv4ZJZ81YUViP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2wdCKp57WdML3s1UzsyRHa"
+}

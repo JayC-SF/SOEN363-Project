@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dKp4aDiMBVUCwoyDWkEbc"
+      },
+      "href": "https://api.spotify.com/v1/artists/1dKp4aDiMBVUCwoyDWkEbc",
+      "id": "1dKp4aDiMBVUCwoyDWkEbc",
+      "name": "SLF",
+      "type": "artist",
+      "uri": "spotify:artist:1dKp4aDiMBVUCwoyDWkEbc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 SLF, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2019 SLF, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729384279"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Lu9NZGcJxM1p9FnR4nZoQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Lu9NZGcJxM1p9FnR4nZoQ",
+  "id": "1Lu9NZGcJxM1p9FnR4nZoQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fbd7ac189ff080be6e935f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fbd7ac189ff080be6e935f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fbd7ac189ff080be6e935f6",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Ambi Weint",
+  "popularity": 0,
+  "release_date": "2019-02-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Lu9NZGcJxM1p9FnR4nZoQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKp4aDiMBVUCwoyDWkEbc"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKp4aDiMBVUCwoyDWkEbc",
+            "id": "1dKp4aDiMBVUCwoyDWkEbc",
+            "name": "SLF",
+            "type": "artist",
+            "uri": "spotify:artist:1dKp4aDiMBVUCwoyDWkEbc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rjQ78Ud803pJpGPEwZHKm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7rjQ78Ud803pJpGPEwZHKm",
+        "id": "7rjQ78Ud803pJpGPEwZHKm",
+        "is_local": false,
+        "name": "Ambi Weint",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7rjQ78Ud803pJpGPEwZHKm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Lu9NZGcJxM1p9FnR4nZoQ"
+}

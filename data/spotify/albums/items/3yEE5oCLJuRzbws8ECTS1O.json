@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VftS6I87aCiaNvLRYhgBM",
+      "id": "4VftS6I87aCiaNvLRYhgBM",
+      "name": "Evening Tales from the Stars",
+      "type": "artist",
+      "uri": "spotify:artist:4VftS6I87aCiaNvLRYhgBM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Abcomposing",
+      "type": "C"
+    },
+    {
+      "text": "2020 Abcomposing",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195756472161"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3yEE5oCLJuRzbws8ECTS1O"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3yEE5oCLJuRzbws8ECTS1O",
+  "id": "3yEE5oCLJuRzbws8ECTS1O",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27378f73f111e5293a2fce2ec25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0278f73f111e5293a2fce2ec25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485178f73f111e5293a2fce2ec25",
+      "width": 64
+    }
+  ],
+  "label": "Abcomposing",
+  "name": "Zone Out",
+  "popularity": 0,
+  "release_date": "2020-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3yEE5oCLJuRzbws8ECTS1O/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4VftS6I87aCiaNvLRYhgBM",
+            "id": "4VftS6I87aCiaNvLRYhgBM",
+            "name": "Evening Tales from the Stars",
+            "type": "artist",
+            "uri": "spotify:artist:4VftS6I87aCiaNvLRYhgBM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3b2Ie0uCYHa9hvwsyBigxz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3b2Ie0uCYHa9hvwsyBigxz",
+        "id": "3b2Ie0uCYHa9hvwsyBigxz",
+        "is_local": false,
+        "name": "Zone Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3b2Ie0uCYHa9hvwsyBigxz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3yEE5oCLJuRzbws8ECTS1O"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3peEllG3urQKzvyoZf4UgN",
+      "id": "3peEllG3urQKzvyoZf4UgN",
+      "name": "Shai T",
+      "type": "artist",
+      "uri": "spotify:artist:3peEllG3urQKzvyoZf4UgN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Lost Miracle",
+      "type": "C"
+    },
+    {
+      "text": "2020 Lost Miracle",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060731227188"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1VCVFqJCZRVMTRPy6zxjCp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1VCVFqJCZRVMTRPy6zxjCp",
+  "id": "1VCVFqJCZRVMTRPy6zxjCp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d82d1de8d3c092668c76bd0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d82d1de8d3c092668c76bd0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d82d1de8d3c092668c76bd0f",
+      "width": 64
+    }
+  ],
+  "label": "Lost Miracle",
+  "name": "Where The Heart Is",
+  "popularity": 0,
+  "release_date": "2020-04-10",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1VCVFqJCZRVMTRPy6zxjCp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3peEllG3urQKzvyoZf4UgN",
+            "id": "3peEllG3urQKzvyoZf4UgN",
+            "name": "Shai T",
+            "type": "artist",
+            "uri": "spotify:artist:3peEllG3urQKzvyoZf4UgN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 442348,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5A20aOPPZG9Uq6xJNhiGlN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5A20aOPPZG9Uq6xJNhiGlN",
+        "id": "5A20aOPPZG9Uq6xJNhiGlN",
+        "is_local": false,
+        "name": "Where The Heart Is",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5A20aOPPZG9Uq6xJNhiGlN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3peEllG3urQKzvyoZf4UgN",
+            "id": "3peEllG3urQKzvyoZf4UgN",
+            "name": "Shai T",
+            "type": "artist",
+            "uri": "spotify:artist:3peEllG3urQKzvyoZf4UgN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 425546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zv5Y1z8yQJ9yafZTQzx8f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zv5Y1z8yQJ9yafZTQzx8f",
+        "id": "5zv5Y1z8yQJ9yafZTQzx8f",
+        "is_local": false,
+        "name": "Reflections",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5zv5Y1z8yQJ9yafZTQzx8f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1VCVFqJCZRVMTRPy6zxjCp"
+}

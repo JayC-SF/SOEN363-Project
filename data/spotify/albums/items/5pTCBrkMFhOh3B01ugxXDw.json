@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id": "0LyfQWJT6nXafLPZqxe9Of",
+      "name": "Various Artists",
+      "type": "artist",
+      "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2006 WaterTower Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2006 WaterTower Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00794043906862"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5pTCBrkMFhOh3B01ugxXDw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5pTCBrkMFhOh3B01ugxXDw",
+  "id": "5pTCBrkMFhOh3B01ugxXDw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273035255cbb42b6d20ccfa3e08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02035255cbb42b6d20ccfa3e08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851035255cbb42b6d20ccfa3e08",
+      "width": 64
+    }
+  ],
+  "label": "WaterTower Music",
+  "name": "Snakes on a Plane - The Album",
+  "popularity": 0,
+  "release_date": "2006-04-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5pTCBrkMFhOh3B01ugxXDw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2aYJ5LAta2ScCdfLhKgZOY",
+            "id": "2aYJ5LAta2ScCdfLhKgZOY",
+            "name": "Cobra Starship",
+            "type": "artist",
+            "uri": "spotify:artist:2aYJ5LAta2ScCdfLhKgZOY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fopJQJsnZ1ewQ5u8RTdsR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fopJQJsnZ1ewQ5u8RTdsR",
+        "id": "2fopJQJsnZ1ewQ5u8RTdsR",
+        "is_local": false,
+        "name": "Snakes on a Plane (Bring It)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2fopJQJsnZ1ewQ5u8RTdsR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5pTCBrkMFhOh3B01ugxXDw"
+}

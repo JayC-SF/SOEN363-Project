@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href": "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id": "6TQj5BFPooTa08A7pk8AQ1",
+      "name": "Kaskade",
+      "type": "artist",
+      "uri": "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+      },
+      "href": "https://api.spotify.com/v1/artists/15xvsJMf8phaNa1LYvL9Qv",
+      "id": "15xvsJMf8phaNa1LYvL9Qv",
+      "name": "John Dahlb\u00e4ck",
+      "type": "artist",
+      "uri": "spotify:artist:15xvsJMf8phaNa1LYvL9Qv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Audio Arkade",
+      "type": "C"
+    },
+    {
+      "text": "2014 Audio Arkade",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0848422154600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2BbvMD9sUOSCajfsmqDQTE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2BbvMD9sUOSCajfsmqDQTE",
+  "id": "2BbvMD9sUOSCajfsmqDQTE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d51f82ad56cd5608963859e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d51f82ad56cd5608963859e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d51f82ad56cd5608963859e",
+      "width": 64
+    }
+  ],
+  "label": "Arkade",
+  "name": "A Little More",
+  "popularity": 0,
+  "release_date": "2014-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2BbvMD9sUOSCajfsmqDQTE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+            "id": "6TQj5BFPooTa08A7pk8AQ1",
+            "name": "Kaskade",
+            "type": "artist",
+            "uri": "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+            },
+            "href": "https://api.spotify.com/v1/artists/15xvsJMf8phaNa1LYvL9Qv",
+            "id": "15xvsJMf8phaNa1LYvL9Qv",
+            "name": "John Dahlb\u00e4ck",
+            "type": "artist",
+            "uri": "spotify:artist:15xvsJMf8phaNa1LYvL9Qv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ghRItoYhcGjBtH8xSGCC9",
+            "id": "5ghRItoYhcGjBtH8xSGCC9",
+            "name": "Sansa",
+            "type": "artist",
+            "uri": "spotify:artist:5ghRItoYhcGjBtH8xSGCC9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233232,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5g6QMEXgFeqJpVbhs4Z7Az"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5g6QMEXgFeqJpVbhs4Z7Az",
+        "id": "5g6QMEXgFeqJpVbhs4Z7Az",
+        "is_local": false,
+        "name": "A Little More",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5g6QMEXgFeqJpVbhs4Z7Az"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2BbvMD9sUOSCajfsmqDQTE"
+}

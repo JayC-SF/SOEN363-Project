@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74V1geSW988aQBRHM8A3nr"
+      },
+      "href": "https://api.spotify.com/v1/artists/74V1geSW988aQBRHM8A3nr",
+      "id": "74V1geSW988aQBRHM8A3nr",
+      "name": "Jemak",
+      "type": "artist",
+      "uri": "spotify:artist:74V1geSW988aQBRHM8A3nr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Jemak",
+      "type": "C"
+    },
+    {
+      "text": "2022 Jemak",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7909890658489"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/633VPqcJGlWKEFTT5tcoTN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/633VPqcJGlWKEFTT5tcoTN",
+  "id": "633VPqcJGlWKEFTT5tcoTN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0b0cc11a7e12187964c8798",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0b0cc11a7e12187964c8798",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0b0cc11a7e12187964c8798",
+      "width": 64
+    }
+  ],
+  "label": "Jemak",
+  "name": "Somewhere Only We Know (Electric Guitar Version)",
+  "popularity": 0,
+  "release_date": "2022-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/633VPqcJGlWKEFTT5tcoTN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74V1geSW988aQBRHM8A3nr"
+            },
+            "href": "https://api.spotify.com/v1/artists/74V1geSW988aQBRHM8A3nr",
+            "id": "74V1geSW988aQBRHM8A3nr",
+            "name": "Jemak",
+            "type": "artist",
+            "uri": "spotify:artist:74V1geSW988aQBRHM8A3nr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234033,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mqjIiEItlQaBIbHvPfa67"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7mqjIiEItlQaBIbHvPfa67",
+        "id": "7mqjIiEItlQaBIbHvPfa67",
+        "is_local": false,
+        "name": "Somewhere Only We Know (Electric Guitar Version)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7mqjIiEItlQaBIbHvPfa67"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:633VPqcJGlWKEFTT5tcoTN"
+}

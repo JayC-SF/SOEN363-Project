@@ -1,0 +1,511 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+      },
+      "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+      "id": "2DlGxzQSjYe5N6G9nkYghR",
+      "name": "Jennifer Lopez",
+      "type": "artist",
+      "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2000, 2001 Sony Music Entertainment Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7509950055021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4TlzQ4FABU9yI2lDvoGVb9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4TlzQ4FABU9yI2lDvoGVb9",
+  "id": "4TlzQ4FABU9yI2lDvoGVb9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a0797e28d8f68c14f657422e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a0797e28d8f68c14f657422e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a0797e28d8f68c14f657422e",
+      "width": 64
+    }
+  ],
+  "label": "Epic",
+  "name": "J.Lo",
+  "popularity": 0,
+  "release_date": "2001-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 15,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4TlzQ4FABU9yI2lDvoGVb9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LK1zq7x8Xxd7Nc32anUoH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LK1zq7x8Xxd7Nc32anUoH",
+        "id": "4LK1zq7x8Xxd7Nc32anUoH",
+        "is_local": false,
+        "name": "Love Don't Cost a Thing",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4LK1zq7x8Xxd7Nc32anUoH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 297973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3njxLkJ3ZimtxHey6mVS4i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3njxLkJ3ZimtxHey6mVS4i",
+        "id": "3njxLkJ3ZimtxHey6mVS4i",
+        "is_local": false,
+        "name": "I'm Real",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3njxLkJ3ZimtxHey6mVS4i"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212693,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NgK5rdp1McscRQCLQxOMF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3NgK5rdp1McscRQCLQxOMF",
+        "id": "3NgK5rdp1McscRQCLQxOMF",
+        "is_local": false,
+        "name": "Play",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3NgK5rdp1McscRQCLQxOMF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0axOYrRYXrm9bmTveHURH9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0axOYrRYXrm9bmTveHURH9",
+        "id": "0axOYrRYXrm9bmTveHURH9",
+        "is_local": false,
+        "name": "Walking On Sunshine",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0axOYrRYXrm9bmTveHURH9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2glSi4PRdGUzLaz5QpiNJV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2glSi4PRdGUzLaz5QpiNJV",
+        "id": "2glSi4PRdGUzLaz5QpiNJV",
+        "is_local": false,
+        "name": "Ain't It Funny",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2glSi4PRdGUzLaz5QpiNJV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nwH5Y7KSPUojgU3SALf5V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nwH5Y7KSPUojgU3SALf5V",
+        "id": "3nwH5Y7KSPUojgU3SALf5V",
+        "is_local": false,
+        "name": "Cari\u00f1o",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3nwH5Y7KSPUojgU3SALf5V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 292266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4S5XcQscbLURa2jaVZqcLX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4S5XcQscbLURa2jaVZqcLX",
+        "id": "4S5XcQscbLURa2jaVZqcLX",
+        "is_local": false,
+        "name": "Come Over",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4S5XcQscbLURa2jaVZqcLX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3F5H4MTCu5B0RQt7i4TtOg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3F5H4MTCu5B0RQt7i4TtOg",
+        "id": "3F5H4MTCu5B0RQt7i4TtOg",
+        "is_local": false,
+        "name": "We Gotta Talk",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3F5H4MTCu5B0RQt7i4TtOg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 271466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tjWXiWtyhMXr6ImkdXxtG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tjWXiWtyhMXr6ImkdXxtG",
+        "id": "2tjWXiWtyhMXr6ImkdXxtG",
+        "is_local": false,
+        "name": "That's Not Me",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2tjWXiWtyhMXr6ImkdXxtG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cedhOGYvgB8iY0eNia9JJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cedhOGYvgB8iY0eNia9JJ",
+        "id": "3cedhOGYvgB8iY0eNia9JJ",
+        "is_local": false,
+        "name": "Dance With Me",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3cedhOGYvgB8iY0eNia9JJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YNZEDi3a7Y4AqYy0yQ8wK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0YNZEDi3a7Y4AqYy0yQ8wK",
+        "id": "0YNZEDi3a7Y4AqYy0yQ8wK",
+        "is_local": false,
+        "name": "Secretly",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0YNZEDi3a7Y4AqYy0yQ8wK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NdsfGKYOmEiIXh7Fi95w4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NdsfGKYOmEiIXh7Fi95w4",
+        "id": "4NdsfGKYOmEiIXh7Fi95w4",
+        "is_local": false,
+        "name": "I'm Gonna Be Alright",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4NdsfGKYOmEiIXh7Fi95w4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hUDPOk4ujCMcG7BaKKBY8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5hUDPOk4ujCMcG7BaKKBY8",
+        "id": "5hUDPOk4ujCMcG7BaKKBY8",
+        "is_local": false,
+        "name": "That's The Way",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:5hUDPOk4ujCMcG7BaKKBY8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1JbemQ1fPt2YmSLjAFhPBv",
+            "id": "1JbemQ1fPt2YmSLjAFhPBv",
+            "name": "Chayanne",
+            "type": "artist",
+            "uri": "spotify:artist:1JbemQ1fPt2YmSLjAFhPBv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sfjbI3Hjf05kBX4jTJFR0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sfjbI3Hjf05kBX4jTJFR0",
+        "id": "5sfjbI3Hjf05kBX4jTJFR0",
+        "is_local": false,
+        "name": "Dame (with Chayanne) - Touch Me",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5sfjbI3Hjf05kBX4jTJFR0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "name": "Jennifer Lopez",
+            "type": "artist",
+            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ubdw97h1M2ULSIvW6lmyK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ubdw97h1M2ULSIvW6lmyK",
+        "id": "4ubdw97h1M2ULSIvW6lmyK",
+        "is_local": false,
+        "name": "Si Ya Se Acabo",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:4ubdw97h1M2ULSIvW6lmyK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15
+  },
+  "type": "album",
+  "uri": "spotify:album:4TlzQ4FABU9yI2lDvoGVb9"
+}

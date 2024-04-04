@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY",
+      "id": "0LyP0Zn0mXLb65AgGOS6EY",
+      "name": "Ethan Bortnick",
+      "type": "artist",
+      "uri": "spotify:artist:0LyP0Zn0mXLb65AgGOS6EY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2022 Ethan Bortnick, under exclusive license to Columbia Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196589229007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2SbLcM1nwlKO76evmEuX6w",
+  "id": "2SbLcM1nwlKO76evmEuX6w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317b049a4a38194672655a852",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217b049a4a38194672655a852",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117b049a4a38194672655a852",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "engravings",
+  "popularity": 0,
+  "release_date": "2022-06-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2SbLcM1nwlKO76evmEuX6w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyP0Zn0mXLb65AgGOS6EY",
+            "id": "0LyP0Zn0mXLb65AgGOS6EY",
+            "name": "Ethan Bortnick",
+            "type": "artist",
+            "uri": "spotify:artist:0LyP0Zn0mXLb65AgGOS6EY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173466,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4u5CfuAGAHNYDIHSSW7BiY",
+        "id": "4u5CfuAGAHNYDIHSSW7BiY",
+        "is_local": false,
+        "name": "engravings",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4u5CfuAGAHNYDIHSSW7BiY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2SbLcM1nwlKO76evmEuX6w"
+}

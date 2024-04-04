@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+      },
+      "href": "https://api.spotify.com/v1/artists/4u1nYxjl132D6rcMeYQ6Zz",
+      "id": "4u1nYxjl132D6rcMeYQ6Zz",
+      "name": "Rival",
+      "type": "artist",
+      "uri": "spotify:artist:4u1nYxjl132D6rcMeYQ6Zz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bmpMHIiXjoOP4KORU9bCL"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bmpMHIiXjoOP4KORU9bCL",
+      "id": "3bmpMHIiXjoOP4KORU9bCL",
+      "name": "Bryan Finlay",
+      "type": "artist",
+      "uri": "spotify:artist:3bmpMHIiXjoOP4KORU9bCL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2019 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199527567"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iVU5lIcHqh73fpb0k3WEZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5iVU5lIcHqh73fpb0k3WEZ",
+  "id": "5iVU5lIcHqh73fpb0k3WEZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a9232e47eb64d60e4b9fa32",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a9232e47eb64d60e4b9fa32",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a9232e47eb64d60e4b9fa32",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Walls",
+  "popularity": 0,
+  "release_date": "2019-05-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5iVU5lIcHqh73fpb0k3WEZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+            },
+            "href": "https://api.spotify.com/v1/artists/4u1nYxjl132D6rcMeYQ6Zz",
+            "id": "4u1nYxjl132D6rcMeYQ6Zz",
+            "name": "Rival",
+            "type": "artist",
+            "uri": "spotify:artist:4u1nYxjl132D6rcMeYQ6Zz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bmpMHIiXjoOP4KORU9bCL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bmpMHIiXjoOP4KORU9bCL",
+            "id": "3bmpMHIiXjoOP4KORU9bCL",
+            "name": "Bryan Finlay",
+            "type": "artist",
+            "uri": "spotify:artist:3bmpMHIiXjoOP4KORU9bCL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1irK4JbZj8nlWJxyuaMtV0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1irK4JbZj8nlWJxyuaMtV0",
+        "id": "1irK4JbZj8nlWJxyuaMtV0",
+        "is_local": false,
+        "name": "Walls",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1irK4JbZj8nlWJxyuaMtV0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5iVU5lIcHqh73fpb0k3WEZ"
+}

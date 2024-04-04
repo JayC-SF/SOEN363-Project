@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hzoO43ekTZmvvbTWweOcR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5hzoO43ekTZmvvbTWweOcR",
+      "id": "5hzoO43ekTZmvvbTWweOcR",
+      "name": "J Sky",
+      "type": "artist",
+      "uri": "spotify:artist:5hzoO43ekTZmvvbTWweOcR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Finyl Igzam",
+      "type": "C"
+    },
+    {
+      "text": "2020 Finyl Igzam",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195069361022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78pBWoC7fBkfvAMBasnMeA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78pBWoC7fBkfvAMBasnMeA",
+  "id": "78pBWoC7fBkfvAMBasnMeA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f39497c2e6b006dd7f2e744",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f39497c2e6b006dd7f2e744",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f39497c2e6b006dd7f2e744",
+      "width": 64
+    }
+  ],
+  "label": "Finyl Igzam",
+  "name": "Nobody Here",
+  "popularity": 3,
+  "release_date": "2020-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78pBWoC7fBkfvAMBasnMeA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hzoO43ekTZmvvbTWweOcR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hzoO43ekTZmvvbTWweOcR",
+            "id": "5hzoO43ekTZmvvbTWweOcR",
+            "name": "J Sky",
+            "type": "artist",
+            "uri": "spotify:artist:5hzoO43ekTZmvvbTWweOcR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182230,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mgp51TQ4oIF9e5l3sGVHe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mgp51TQ4oIF9e5l3sGVHe",
+        "id": "3mgp51TQ4oIF9e5l3sGVHe",
+        "is_local": false,
+        "name": "Nobody Here",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3mgp51TQ4oIF9e5l3sGVHe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:78pBWoC7fBkfvAMBasnMeA"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+      },
+      "href": "https://api.spotify.com/v1/artists/0b1sIQumIAsNbqAoIClSpy",
+      "id": "0b1sIQumIAsNbqAoIClSpy",
+      "name": "j-hope",
+      "type": "artist",
+      "uri": "spotify:artist:0b1sIQumIAsNbqAoIClSpy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 BIGHIT MUSIC / HYBE",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 BIGHIT MUSIC / HYBE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194491382438"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/76IRLp7YzBVLKsat6Ro9ae",
+  "id": "76IRLp7YzBVLKsat6Ro9ae",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02819e2d9468a6792735c0ec77",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851819e2d9468a6792735c0ec77",
+      "width": 64
+    }
+  ],
+  "label": "BIGHIT MUSIC / HYBE",
+  "name": "Chicken Noodle Soup (feat. Becky G)",
+  "popularity": 0,
+  "release_date": "2019-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/76IRLp7YzBVLKsat6Ro9ae/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0b1sIQumIAsNbqAoIClSpy",
+            "id": "0b1sIQumIAsNbqAoIClSpy",
+            "name": "j-hope",
+            "type": "artist",
+            "uri": "spotify:artist:0b1sIQumIAsNbqAoIClSpy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+            },
+            "href": "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
+            "id": "4obzFoKoKRHIphyHzJ35G3",
+            "name": "Becky G",
+            "type": "artist",
+            "uri": "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235497,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wyr4ReB05D9sJB1Rsmcqo",
+        "id": "6wyr4ReB05D9sJB1Rsmcqo",
+        "is_local": false,
+        "name": "Chicken Noodle Soup (feat. Becky G)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6wyr4ReB05D9sJB1Rsmcqo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:76IRLp7YzBVLKsat6Ro9ae"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+      },
+      "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+      "id": "28DdkLhrzQNizZ0ExQpyku",
+      "name": "Rizky Febian",
+      "type": "artist",
+      "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Rfas Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Rfas Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616407635898"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3RXFJhSVoiynNkU8Lcc7bt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3RXFJhSVoiynNkU8Lcc7bt",
+  "id": "3RXFJhSVoiynNkU8Lcc7bt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397cad26314655b542c57b92f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297cad26314655b542c57b92f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197cad26314655b542c57b92f",
+      "width": 64
+    }
+  ],
+  "label": "Rfas Music",
+  "name": "Mantra Cinta",
+  "popularity": 0,
+  "release_date": "2020-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3RXFJhSVoiynNkU8Lcc7bt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+            },
+            "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+            "id": "28DdkLhrzQNizZ0ExQpyku",
+            "name": "Rizky Febian",
+            "type": "artist",
+            "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219943,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ROCaprX5ROfL2GkkbkCWy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ROCaprX5ROfL2GkkbkCWy",
+        "id": "2ROCaprX5ROfL2GkkbkCWy",
+        "is_local": false,
+        "name": "Mantra Cinta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ROCaprX5ROfL2GkkbkCWy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3RXFJhSVoiynNkU8Lcc7bt"
+}

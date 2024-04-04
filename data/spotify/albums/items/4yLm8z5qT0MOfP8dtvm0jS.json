@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+      },
+      "href": "https://api.spotify.com/v1/artists/1L9i6qZYIGQedgM9QLSyzb",
+      "id": "1L9i6qZYIGQedgM9QLSyzb",
+      "name": "Klingande",
+      "type": "artist",
+      "uri": "spotify:artist:1L9i6qZYIGQedgM9QLSyzb"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Klingande Music, under exclusive license to Universal Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Klingande Music, under exclusive license to Universal Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557972658"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4yLm8z5qT0MOfP8dtvm0jS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4yLm8z5qT0MOfP8dtvm0jS",
+  "id": "4yLm8z5qT0MOfP8dtvm0jS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273902e162d286587fc492239ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02902e162d286587fc492239ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851902e162d286587fc492239ca",
+      "width": 64
+    }
+  ],
+  "label": "Virgin",
+  "name": "Pumped Up",
+  "popularity": 25,
+  "release_date": "2017-09-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4yLm8z5qT0MOfP8dtvm0jS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+            },
+            "href": "https://api.spotify.com/v1/artists/1L9i6qZYIGQedgM9QLSyzb",
+            "id": "1L9i6qZYIGQedgM9QLSyzb",
+            "name": "Klingande",
+            "type": "artist",
+            "uri": "spotify:artist:1L9i6qZYIGQedgM9QLSyzb"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "CH",
+          "DE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 177073,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LClQ0Lm1SqtuxSyDt3ZCv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LClQ0Lm1SqtuxSyDt3ZCv",
+        "id": "7LClQ0Lm1SqtuxSyDt3ZCv",
+        "is_local": false,
+        "name": "Pumped Up",
+        "preview_url": "https://p.scdn.co/mp3-preview/7ed1591076101f8d984d37cfd5b3e3fe88dfc492?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7LClQ0Lm1SqtuxSyDt3ZCv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4yLm8z5qT0MOfP8dtvm0jS"
+}

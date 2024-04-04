@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SADfFk1veonsGgV5F7Vbb"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SADfFk1veonsGgV5F7Vbb",
+      "id": "0SADfFk1veonsGgV5F7Vbb",
+      "name": "Lil Gijs",
+      "type": "artist",
+      "uri": "spotify:artist:0SADfFk1veonsGgV5F7Vbb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Lil Gijs",
+      "type": "C"
+    },
+    {
+      "text": "2021 Lil Gijs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196193618426"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/429XNSnIJBTntxX59EJiX0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/429XNSnIJBTntxX59EJiX0",
+  "id": "429XNSnIJBTntxX59EJiX0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273448e16f8b911a69e7f0960f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02448e16f8b911a69e7f0960f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851448e16f8b911a69e7f0960f6",
+      "width": 64
+    }
+  ],
+  "label": "Lil Gijs",
+  "name": "The Beach Slowed",
+  "popularity": 0,
+  "release_date": "2021-06-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/429XNSnIJBTntxX59EJiX0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SADfFk1veonsGgV5F7Vbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SADfFk1veonsGgV5F7Vbb",
+            "id": "0SADfFk1veonsGgV5F7Vbb",
+            "name": "Lil Gijs",
+            "type": "artist",
+            "uri": "spotify:artist:0SADfFk1veonsGgV5F7Vbb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267517,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xe46z06peWbmLva1ABvKT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xe46z06peWbmLva1ABvKT",
+        "id": "0xe46z06peWbmLva1ABvKT",
+        "is_local": false,
+        "name": "The Beach Slowed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xe46z06peWbmLva1ABvKT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:429XNSnIJBTntxX59EJiX0"
+}

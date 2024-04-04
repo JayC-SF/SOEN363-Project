@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+      "id": "2kCcBybjl3SAtIcwdWpUe3",
+      "name": "Lil Peep",
+      "type": "artist",
+      "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Lil Peep / AUTNMY",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 Lil Peep / AUTNMY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197187310906"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1YHRqOs5yxMvHVX69bJuxv",
+  "id": "1YHRqOs5yxMvHVX69bJuxv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273683aa2b8fc370b5ae3adb27f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02683aa2b8fc370b5ae3adb27f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851683aa2b8fc370b5ae3adb27f",
+      "width": 64
+    }
+  ],
+  "label": "Lil Peep / AUTNMY",
+  "name": "about u",
+  "popularity": 0,
+  "release_date": "2022-11-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1YHRqOs5yxMvHVX69bJuxv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+            "id": "2kCcBybjl3SAtIcwdWpUe3",
+            "name": "Lil Peep",
+            "type": "artist",
+            "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194773,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zLGJENQMphktQdZ1qipP4",
+        "id": "5zLGJENQMphktQdZ1qipP4",
+        "is_local": false,
+        "name": "about u",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zLGJENQMphktQdZ1qipP4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1YHRqOs5yxMvHVX69bJuxv"
+}

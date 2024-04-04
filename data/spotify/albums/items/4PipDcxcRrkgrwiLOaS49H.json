@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+      },
+      "href": "https://api.spotify.com/v1/artists/48bqPGhLPTuS8gKg3UTtf9",
+      "id": "48bqPGhLPTuS8gKg3UTtf9",
+      "name": "Fabvl",
+      "type": "artist",
+      "uri": "spotify:artist:48bqPGhLPTuS8gKg3UTtf9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 FabvL Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 FabvL Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195755176961"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4PipDcxcRrkgrwiLOaS49H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4PipDcxcRrkgrwiLOaS49H",
+  "id": "4PipDcxcRrkgrwiLOaS49H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380739dba9c7976db4ab0edd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280739dba9c7976db4ab0edd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180739dba9c7976db4ab0edd2",
+      "width": 64
+    }
+  ],
+  "label": "FabvL Records",
+  "name": "Straight to the End",
+  "popularity": 0,
+  "release_date": "2020-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4PipDcxcRrkgrwiLOaS49H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+            },
+            "href": "https://api.spotify.com/v1/artists/48bqPGhLPTuS8gKg3UTtf9",
+            "id": "48bqPGhLPTuS8gKg3UTtf9",
+            "name": "Fabvl",
+            "type": "artist",
+            "uri": "spotify:artist:48bqPGhLPTuS8gKg3UTtf9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Q5AMYQRVkVB3GZxjSK5BS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Q5AMYQRVkVB3GZxjSK5BS",
+            "id": "4Q5AMYQRVkVB3GZxjSK5BS",
+            "name": "Zach Boucher",
+            "type": "artist",
+            "uri": "spotify:artist:4Q5AMYQRVkVB3GZxjSK5BS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/738alLRCBVso23ivjqy9uU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/738alLRCBVso23ivjqy9uU",
+        "id": "738alLRCBVso23ivjqy9uU",
+        "is_local": false,
+        "name": "Straight to the End",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:738alLRCBVso23ivjqy9uU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4PipDcxcRrkgrwiLOaS49H"
+}

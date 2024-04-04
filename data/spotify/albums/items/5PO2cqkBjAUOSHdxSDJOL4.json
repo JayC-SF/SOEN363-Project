@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id": "02kJSzxNuaWGqwubyUba0Z",
+      "name": "G-Eazy",
+      "type": "artist",
+      "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+      },
+      "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+      "id": "0cGUm45nv7Z6M6qdXYQGTX",
+      "name": "Kehlani",
+      "type": "artist",
+      "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Motion Picture Artwork, Artwork Title, and Photos 2017 Universal Studios",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679898555"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5PO2cqkBjAUOSHdxSDJOL4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5PO2cqkBjAUOSHdxSDJOL4",
+  "id": "5PO2cqkBjAUOSHdxSDJOL4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcc36f9c0515e6e7faa2030b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcc36f9c0515e6e7faa2030b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcc36f9c0515e6e7faa2030b",
+      "width": 64
+    }
+  ],
+  "label": "Artist Partner",
+  "name": "Good Life (with G-Eazy & Kehlani)",
+  "popularity": 50,
+  "release_date": "2017-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5PO2cqkBjAUOSHdxSDJOL4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+            "id": "02kJSzxNuaWGqwubyUba0Z",
+            "name": "G-Eazy",
+            "type": "artist",
+            "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+            "id": "0cGUm45nv7Z6M6qdXYQGTX",
+            "name": "Kehlani",
+            "type": "artist",
+            "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 225525,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Eck97uRMlprKOOJN9oO1E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Eck97uRMlprKOOJN9oO1E",
+        "id": "1Eck97uRMlprKOOJN9oO1E",
+        "is_local": false,
+        "name": "Good Life (with G-Eazy & Kehlani)",
+        "preview_url": "https://p.scdn.co/mp3-preview/44277204a6c71145a487055bc874a9a9a982a0b0?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Eck97uRMlprKOOJN9oO1E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5PO2cqkBjAUOSHdxSDJOL4"
+}

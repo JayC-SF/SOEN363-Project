@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+      },
+      "href": "https://api.spotify.com/v1/artists/51UDJfCuXko0jNa0wdN9Cz",
+      "id": "51UDJfCuXko0jNa0wdN9Cz",
+      "name": "SWIT EME",
+      "type": "artist",
+      "uri": "spotify:artist:51UDJfCuXko0jNa0wdN9Cz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 La Cantera",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 La Cantera",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196006966560"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3OwwJ2oeG7obFlF3ZeWW9k"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3OwwJ2oeG7obFlF3ZeWW9k",
+  "id": "3OwwJ2oeG7obFlF3ZeWW9k",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732da2c9e375b9a083a344278e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022da2c9e375b9a083a344278e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512da2c9e375b9a083a344278e",
+      "width": 64
+    }
+  ],
+  "label": "La Cantera",
+  "name": "Rabia",
+  "popularity": 0,
+  "release_date": "2021-06-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3OwwJ2oeG7obFlF3ZeWW9k/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+            },
+            "href": "https://api.spotify.com/v1/artists/51UDJfCuXko0jNa0wdN9Cz",
+            "id": "51UDJfCuXko0jNa0wdN9Cz",
+            "name": "SWIT EME",
+            "type": "artist",
+            "uri": "spotify:artist:51UDJfCuXko0jNa0wdN9Cz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166660,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27dwGFPgvCSAhhjzcaGu3F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27dwGFPgvCSAhhjzcaGu3F",
+        "id": "27dwGFPgvCSAhhjzcaGu3F",
+        "is_local": false,
+        "name": "Rabia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:27dwGFPgvCSAhhjzcaGu3F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3OwwJ2oeG7obFlF3ZeWW9k"
+}

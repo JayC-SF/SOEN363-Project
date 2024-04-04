@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iDqEobZRSTiBSAk6jLp4A",
+      "id": "5iDqEobZRSTiBSAk6jLp4A",
+      "name": "Oscu",
+      "type": "artist",
+      "uri": "spotify:artist:5iDqEobZRSTiBSAk6jLp4A"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Oscu Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Oscu Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859737747005"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3dUcXIoTyemwCwKbc9YDld"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3dUcXIoTyemwCwKbc9YDld",
+  "id": "3dUcXIoTyemwCwKbc9YDld",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8ee30633609504adc9d99be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8ee30633609504adc9d99be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8ee30633609504adc9d99be",
+      "width": 64
+    }
+  ],
+  "label": "Oscu Records",
+  "name": "La Tengo Engancha",
+  "popularity": 0,
+  "release_date": "2020-03-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3dUcXIoTyemwCwKbc9YDld/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iDqEobZRSTiBSAk6jLp4A",
+            "id": "5iDqEobZRSTiBSAk6jLp4A",
+            "name": "Oscu",
+            "type": "artist",
+            "uri": "spotify:artist:5iDqEobZRSTiBSAk6jLp4A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169354,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/739N5ZWJZCxoFmcRo9vEil"
+        },
+        "href": "https://api.spotify.com/v1/tracks/739N5ZWJZCxoFmcRo9vEil",
+        "id": "739N5ZWJZCxoFmcRo9vEil",
+        "is_local": false,
+        "name": "La Tengo Engancha",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:739N5ZWJZCxoFmcRo9vEil"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3dUcXIoTyemwCwKbc9YDld"
+}

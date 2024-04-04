@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+      },
+      "href": "https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz",
+      "id": "6fOMl44jA4Sp5b9PpYCkzz",
+      "name": "NF",
+      "type": "artist",
+      "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Capitol CMG Label Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Capitol CMG Label Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557199710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7M6iAIHCupOngCI1es6xKp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7M6iAIHCupOngCI1es6xKp",
+  "id": "7M6iAIHCupOngCI1es6xKp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273001e91b46a965b322231b52b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02001e91b46a965b322231b52b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851001e91b46a965b322231b52b",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Warm Up",
+  "popularity": 0,
+  "release_date": "2016-10-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7M6iAIHCupOngCI1es6xKp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz",
+            "id": "6fOMl44jA4Sp5b9PpYCkzz",
+            "name": "NF",
+            "type": "artist",
+            "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6R78poKo1EqzJXLboV2L9i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6R78poKo1EqzJXLboV2L9i",
+        "id": "6R78poKo1EqzJXLboV2L9i",
+        "is_local": false,
+        "name": "Warm Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6R78poKo1EqzJXLboV2L9i"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7M6iAIHCupOngCI1es6xKp"
+}

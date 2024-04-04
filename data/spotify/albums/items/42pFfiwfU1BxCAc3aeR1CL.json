@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IHoZ3RrDJIikMRsYgHjhy",
+      "id": "2IHoZ3RrDJIikMRsYgHjhy",
+      "name": "Kizo",
+      "type": "artist",
+      "uri": "spotify:artist:2IHoZ3RrDJIikMRsYgHjhy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 spacerange",
+      "type": "C"
+    },
+    {
+      "text": "2021 spacerange",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0000742780406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42pFfiwfU1BxCAc3aeR1CL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42pFfiwfU1BxCAc3aeR1CL",
+  "id": "42pFfiwfU1BxCAc3aeR1CL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf5d3d8306bcaa8ecd71f548",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf5d3d8306bcaa8ecd71f548",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf5d3d8306bcaa8ecd71f548",
+      "width": 64
+    }
+  ],
+  "label": "spacerange",
+  "name": "Disney",
+  "popularity": 0,
+  "release_date": "2021-06-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42pFfiwfU1BxCAc3aeR1CL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+            },
+            "href": "https://api.spotify.com/v1/artists/2IHoZ3RrDJIikMRsYgHjhy",
+            "id": "2IHoZ3RrDJIikMRsYgHjhy",
+            "name": "Kizo",
+            "type": "artist",
+            "uri": "spotify:artist:2IHoZ3RrDJIikMRsYgHjhy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219268,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fLClepW4DP6WrwTbAuDOn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fLClepW4DP6WrwTbAuDOn",
+        "id": "2fLClepW4DP6WrwTbAuDOn",
+        "is_local": false,
+        "name": "Disney",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2fLClepW4DP6WrwTbAuDOn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42pFfiwfU1BxCAc3aeR1CL"
+}

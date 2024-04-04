@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6e9dyfp9Y8eiosc52OlwWj",
+      "id": "6e9dyfp9Y8eiosc52OlwWj",
+      "name": "Kronus",
+      "type": "artist",
+      "uri": "spotify:artist:6e9dyfp9Y8eiosc52OlwWj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 June Productions LLC",
+      "type": "C"
+    },
+    {
+      "text": "2023 June Productions LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197851351174"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36NioW5A1lImMhdAezoPgX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/36NioW5A1lImMhdAezoPgX",
+  "id": "36NioW5A1lImMhdAezoPgX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e8c2a15884d995ba2db13c3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e8c2a15884d995ba2db13c3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e8c2a15884d995ba2db13c3a",
+      "width": 64
+    }
+  ],
+  "label": "June Productions LLC",
+  "name": "Ethereal",
+  "popularity": 3,
+  "release_date": "2023-05-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/36NioW5A1lImMhdAezoPgX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj"
+            },
+            "href": "https://api.spotify.com/v1/artists/6e9dyfp9Y8eiosc52OlwWj",
+            "id": "6e9dyfp9Y8eiosc52OlwWj",
+            "name": "Kronus",
+            "type": "artist",
+            "uri": "spotify:artist:6e9dyfp9Y8eiosc52OlwWj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192140,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2S29C2RcDdrSMvXBeLD2zQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2S29C2RcDdrSMvXBeLD2zQ",
+        "id": "2S29C2RcDdrSMvXBeLD2zQ",
+        "is_local": false,
+        "name": "Ethereal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2S29C2RcDdrSMvXBeLD2zQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:36NioW5A1lImMhdAezoPgX"
+}

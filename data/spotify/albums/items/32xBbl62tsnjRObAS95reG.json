@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6TNhBCROl8UtT191VE96Kt"
+      },
+      "href": "https://api.spotify.com/v1/artists/6TNhBCROl8UtT191VE96Kt",
+      "id": "6TNhBCROl8UtT191VE96Kt",
+      "name": "wex",
+      "type": "artist",
+      "uri": "spotify:artist:6TNhBCROl8UtT191VE96Kt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 wex",
+      "type": "C"
+    },
+    {
+      "text": "2020 wex",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195188329163"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/32xBbl62tsnjRObAS95reG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/32xBbl62tsnjRObAS95reG",
+  "id": "32xBbl62tsnjRObAS95reG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309fcee6f9c55b09baa30a7a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209fcee6f9c55b09baa30a7a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109fcee6f9c55b09baa30a7a9",
+      "width": 64
+    }
+  ],
+  "label": "wex",
+  "name": "END OF LIFE",
+  "popularity": 0,
+  "release_date": "2018-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/32xBbl62tsnjRObAS95reG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6TNhBCROl8UtT191VE96Kt"
+            },
+            "href": "https://api.spotify.com/v1/artists/6TNhBCROl8UtT191VE96Kt",
+            "id": "6TNhBCROl8UtT191VE96Kt",
+            "name": "wex",
+            "type": "artist",
+            "uri": "spotify:artist:6TNhBCROl8UtT191VE96Kt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139664,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RPelzsIiv3yh2xwmjQbdT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RPelzsIiv3yh2xwmjQbdT",
+        "id": "5RPelzsIiv3yh2xwmjQbdT",
+        "is_local": false,
+        "name": "END OF LIFE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RPelzsIiv3yh2xwmjQbdT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:32xBbl62tsnjRObAS95reG"
+}

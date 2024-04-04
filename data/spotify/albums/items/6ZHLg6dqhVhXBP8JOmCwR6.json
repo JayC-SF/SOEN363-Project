@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Vm1tmhfZEa9INOt0sr4WX",
+      "id": "6Vm1tmhfZEa9INOt0sr4WX",
+      "name": "Alper E\u011fri",
+      "type": "artist",
+      "uri": "spotify:artist:6Vm1tmhfZEa9INOt0sr4WX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 egrimusic",
+      "type": "C"
+    },
+    {
+      "text": "2021 egrimusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196321676298"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ZHLg6dqhVhXBP8JOmCwR6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ZHLg6dqhVhXBP8JOmCwR6",
+  "id": "6ZHLg6dqhVhXBP8JOmCwR6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e848856bdf8acafa2ab2cc99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e848856bdf8acafa2ab2cc99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e848856bdf8acafa2ab2cc99",
+      "width": 64
+    }
+  ],
+  "label": "egrimusic",
+  "name": "Tekila",
+  "popularity": 14,
+  "release_date": "2021-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ZHLg6dqhVhXBP8JOmCwR6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Vm1tmhfZEa9INOt0sr4WX",
+            "id": "6Vm1tmhfZEa9INOt0sr4WX",
+            "name": "Alper E\u011fri",
+            "type": "artist",
+            "uri": "spotify:artist:6Vm1tmhfZEa9INOt0sr4WX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229684,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jCMovtsOMEYchX1Z07k78"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jCMovtsOMEYchX1Z07k78",
+        "id": "0jCMovtsOMEYchX1Z07k78",
+        "is_local": false,
+        "name": "Tekila",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jCMovtsOMEYchX1Z07k78"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ZHLg6dqhVhXBP8JOmCwR6"
+}

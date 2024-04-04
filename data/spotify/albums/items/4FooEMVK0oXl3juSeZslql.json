@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hc6sfcpH13ri21MI6j6RF"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hc6sfcpH13ri21MI6j6RF",
+      "id": "0hc6sfcpH13ri21MI6j6RF",
+      "name": "whoiscylas",
+      "type": "artist",
+      "uri": "spotify:artist:0hc6sfcpH13ri21MI6j6RF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 2023 whoiscylas",
+      "type": "C"
+    },
+    {
+      "text": "2023 2023 whoiscylas",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063245072190"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4FooEMVK0oXl3juSeZslql"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4FooEMVK0oXl3juSeZslql",
+  "id": "4FooEMVK0oXl3juSeZslql",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321785fe135637373fa9af17b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221785fe135637373fa9af17b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121785fe135637373fa9af17b",
+      "width": 64
+    }
+  ],
+  "label": "2023 whoiscylas",
+  "name": "2k21",
+  "popularity": 0,
+  "release_date": "2023-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4FooEMVK0oXl3juSeZslql/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hc6sfcpH13ri21MI6j6RF"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hc6sfcpH13ri21MI6j6RF",
+            "id": "0hc6sfcpH13ri21MI6j6RF",
+            "name": "whoiscylas",
+            "type": "artist",
+            "uri": "spotify:artist:0hc6sfcpH13ri21MI6j6RF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 107993,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iVulUJJ3AEKAsoytaknoM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3iVulUJJ3AEKAsoytaknoM",
+        "id": "3iVulUJJ3AEKAsoytaknoM",
+        "is_local": false,
+        "name": "2k21",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3iVulUJJ3AEKAsoytaknoM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4FooEMVK0oXl3juSeZslql"
+}

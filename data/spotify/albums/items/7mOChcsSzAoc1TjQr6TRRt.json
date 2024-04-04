@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+      },
+      "href": "https://api.spotify.com/v1/artists/14fxWsn0UdNiW2GQIsL1wR",
+      "id": "14fxWsn0UdNiW2GQIsL1wR",
+      "name": "Lion Rezz",
+      "type": "artist",
+      "uri": "spotify:artist:14fxWsn0UdNiW2GQIsL1wR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Lion Rezz",
+      "type": "C"
+    },
+    {
+      "text": "2019 Lion Rezz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9420058732875"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7mOChcsSzAoc1TjQr6TRRt",
+  "id": "7mOChcsSzAoc1TjQr6TRRt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311d604686a41a5c4a70cb42c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211d604686a41a5c4a70cb42c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111d604686a41a5c4a70cb42c",
+      "width": 64
+    }
+  ],
+  "label": "Lion Rezz",
+  "name": "Do Anything",
+  "popularity": 2,
+  "release_date": "2019-08-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7mOChcsSzAoc1TjQr6TRRt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+            },
+            "href": "https://api.spotify.com/v1/artists/14fxWsn0UdNiW2GQIsL1wR",
+            "id": "14fxWsn0UdNiW2GQIsL1wR",
+            "name": "Lion Rezz",
+            "type": "artist",
+            "uri": "spotify:artist:14fxWsn0UdNiW2GQIsL1wR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177428,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RPWvTmpHCKp46eyjVZCWm",
+        "id": "0RPWvTmpHCKp46eyjVZCWm",
+        "is_local": false,
+        "name": "Do Anything",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0RPWvTmpHCKp46eyjVZCWm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7mOChcsSzAoc1TjQr6TRRt"
+}

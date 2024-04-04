@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id": "0SCbttzoZTnLFebDYmAWCm",
+      "name": "Glee Cast",
+      "type": "artist",
+      "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Twentieth Century Fox Film Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443850651"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mG6GJB5OpsmvDoITqAgPk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6mG6GJB5OpsmvDoITqAgPk",
+  "id": "6mG6GJB5OpsmvDoITqAgPk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd5c3e51e88609b10004ba41",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd5c3e51e88609b10004ba41",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd5c3e51e88609b10004ba41",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Nutbush City Limits (Glee Cast Version)",
+  "popularity": 0,
+  "release_date": "2013-02-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6mG6GJB5OpsmvDoITqAgPk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Qi2ATFJdr6qFe3TL9J9kh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Qi2ATFJdr6qFe3TL9J9kh",
+        "id": "0Qi2ATFJdr6qFe3TL9J9kh",
+        "is_local": false,
+        "name": "Nutbush City Limits (Glee Cast Version)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Qi2ATFJdr6qFe3TL9J9kh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6mG6GJB5OpsmvDoITqAgPk"
+}

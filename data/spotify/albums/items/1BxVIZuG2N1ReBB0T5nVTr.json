@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1rpHb27OjM9LHmYm2zjnk5",
+      "id": "1rpHb27OjM9LHmYm2zjnk5",
+      "name": "Electro-Light",
+      "type": "artist",
+      "uri": "spotify:artist:1rpHb27OjM9LHmYm2zjnk5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199507644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1BxVIZuG2N1ReBB0T5nVTr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1BxVIZuG2N1ReBB0T5nVTr",
+  "id": "1BxVIZuG2N1ReBB0T5nVTr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b44de5b9f5eba409dfa753e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b44de5b9f5eba409dfa753e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b44de5b9f5eba409dfa753e6",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Symbolism",
+  "popularity": 0,
+  "release_date": "2014-11-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1BxVIZuG2N1ReBB0T5nVTr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1rpHb27OjM9LHmYm2zjnk5",
+            "id": "1rpHb27OjM9LHmYm2zjnk5",
+            "name": "Electro-Light",
+            "type": "artist",
+            "uri": "spotify:artist:1rpHb27OjM9LHmYm2zjnk5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 293300,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zVJlAEB0ublkqJMIn43AE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zVJlAEB0ublkqJMIn43AE",
+        "id": "2zVJlAEB0ublkqJMIn43AE",
+        "is_local": false,
+        "name": "Symbolism",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zVJlAEB0ublkqJMIn43AE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1BxVIZuG2N1ReBB0T5nVTr"
+}

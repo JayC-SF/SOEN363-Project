@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IfJHO9jIE1GVuC517P3nr",
+      "id": "5IfJHO9jIE1GVuC517P3nr",
+      "name": "Jaz Dhami",
+      "type": "artist",
+      "uri": "spotify:artist:5IfJHO9jIE1GVuC517P3nr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Artist Originals",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436106528"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3azERKZ9Yg7x0AUcd7Ijhk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3azERKZ9Yg7x0AUcd7Ijhk",
+  "id": "3azERKZ9Yg7x0AUcd7Ijhk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b502631087a1ef9e384fbaff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b502631087a1ef9e384fbaff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b502631087a1ef9e384fbaff",
+      "width": 64
+    }
+  ],
+  "label": "Artist Originals",
+  "name": "Kiwe Dassa",
+  "popularity": 0,
+  "release_date": "2019-02-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3azERKZ9Yg7x0AUcd7Ijhk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IfJHO9jIE1GVuC517P3nr",
+            "id": "5IfJHO9jIE1GVuC517P3nr",
+            "name": "Jaz Dhami",
+            "type": "artist",
+            "uri": "spotify:artist:5IfJHO9jIE1GVuC517P3nr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jQkBMk5URec0RTNDh8P96",
+            "id": "6jQkBMk5URec0RTNDh8P96",
+            "name": "Alan Sampson",
+            "type": "artist",
+            "uri": "spotify:artist:6jQkBMk5URec0RTNDh8P96"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160728,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CFstU95a3UvtXggptzNCQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2CFstU95a3UvtXggptzNCQ",
+        "id": "2CFstU95a3UvtXggptzNCQ",
+        "is_local": false,
+        "name": "Kiwe Dassa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2CFstU95a3UvtXggptzNCQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3azERKZ9Yg7x0AUcd7Ijhk"
+}

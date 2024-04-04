@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AMeiDbfU2vonrTkpXDKUu",
+      "id": "2AMeiDbfU2vonrTkpXDKUu",
+      "name": "Kay Flock",
+      "type": "artist",
+      "uri": "spotify:artist:2AMeiDbfU2vonrTkpXDKUu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Kay Flock",
+      "type": "C"
+    },
+    {
+      "text": "2021 Kay Flock",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196193755664"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MZSGDIHElRseCp9fe7GXz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MZSGDIHElRseCp9fe7GXz",
+  "id": "7MZSGDIHElRseCp9fe7GXz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311f58270776b4a14cc4a2697",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211f58270776b4a14cc4a2697",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111f58270776b4a14cc4a2697",
+      "width": 64
+    }
+  ],
+  "label": "Kay Flock",
+  "name": "Pop That",
+  "popularity": 0,
+  "release_date": "2021-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MZSGDIHElRseCp9fe7GXz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AMeiDbfU2vonrTkpXDKUu",
+            "id": "2AMeiDbfU2vonrTkpXDKUu",
+            "name": "Kay Flock",
+            "type": "artist",
+            "uri": "spotify:artist:2AMeiDbfU2vonrTkpXDKUu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ykgQbKcZFy5qoKBU4YiWj",
+            "id": "6ykgQbKcZFy5qoKBU4YiWj",
+            "name": "Dougie B",
+            "type": "artist",
+            "uri": "spotify:artist:6ykgQbKcZFy5qoKBU4YiWj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178259,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vWSMu9HKQquxW6PIcVPVb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vWSMu9HKQquxW6PIcVPVb",
+        "id": "4vWSMu9HKQquxW6PIcVPVb",
+        "is_local": false,
+        "name": "Pop That",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4vWSMu9HKQquxW6PIcVPVb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7MZSGDIHElRseCp9fe7GXz"
+}

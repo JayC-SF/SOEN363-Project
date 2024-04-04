@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz"
+      },
+      "href": "https://api.spotify.com/v1/artists/0UdoKjWIe3tHyiqc4qT3Oz",
+      "id": "0UdoKjWIe3tHyiqc4qT3Oz",
+      "name": "OMFG",
+      "type": "artist",
+      "uri": "spotify:artist:0UdoKjWIe3tHyiqc4qT3Oz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Seeking Blue",
+      "type": "C"
+    },
+    {
+      "text": "2015 Seeking Blue",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859714234993"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5d6ZzLIHeICTGFY0JWuZOu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5d6ZzLIHeICTGFY0JWuZOu",
+  "id": "5d6ZzLIHeICTGFY0JWuZOu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ff2ac1959309b54624a1702",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ff2ac1959309b54624a1702",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ff2ac1959309b54624a1702",
+      "width": 64
+    }
+  ],
+  "label": "Seeking Blue",
+  "name": "I Love You",
+  "popularity": 0,
+  "release_date": "2015-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5d6ZzLIHeICTGFY0JWuZOu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz"
+            },
+            "href": "https://api.spotify.com/v1/artists/0UdoKjWIe3tHyiqc4qT3Oz",
+            "id": "0UdoKjWIe3tHyiqc4qT3Oz",
+            "name": "OMFG",
+            "type": "artist",
+            "uri": "spotify:artist:0UdoKjWIe3tHyiqc4qT3Oz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 237393,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2M4LQorC36M3p6jjaX6OwF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2M4LQorC36M3p6jjaX6OwF",
+        "id": "2M4LQorC36M3p6jjaX6OwF",
+        "is_local": false,
+        "name": "I Love You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2M4LQorC36M3p6jjaX6OwF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5d6ZzLIHeICTGFY0JWuZOu"
+}

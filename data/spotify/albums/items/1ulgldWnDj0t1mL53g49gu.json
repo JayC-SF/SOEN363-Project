@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+      "id": "6wxP7SSzfvi21Cnl8JicdQ",
+      "name": "Machel Montano",
+      "type": "artist",
+      "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Mad Bull Music",
+      "type": "C"
+    },
+    {
+      "text": "2014 Mad Bull Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859713641297"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1ulgldWnDj0t1mL53g49gu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1ulgldWnDj0t1mL53g49gu",
+  "id": "1ulgldWnDj0t1mL53g49gu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321a17156faa8b9e226ffc63e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221a17156faa8b9e226ffc63e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121a17156faa8b9e226ffc63e",
+      "width": 64
+    }
+  ],
+  "label": "Mad Bull Music",
+  "name": "Remedy",
+  "popularity": 0,
+  "release_date": "2014-11-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1ulgldWnDj0t1mL53g49gu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+            "id": "6wxP7SSzfvi21Cnl8JicdQ",
+            "name": "Machel Montano",
+            "type": "artist",
+            "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199220,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dkIFXZGxB2iZNwrbYQ6zH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dkIFXZGxB2iZNwrbYQ6zH",
+        "id": "4dkIFXZGxB2iZNwrbYQ6zH",
+        "is_local": false,
+        "name": "Remedy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4dkIFXZGxB2iZNwrbYQ6zH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1ulgldWnDj0t1mL53g49gu"
+}

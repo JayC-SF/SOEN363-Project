@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+      },
+      "href": "https://api.spotify.com/v1/artists/2t0oDEgacnqOQRFJqiTH8s",
+      "id": "2t0oDEgacnqOQRFJqiTH8s",
+      "name": "Elizabeth Grace",
+      "type": "artist",
+      "uri": "spotify:artist:2t0oDEgacnqOQRFJqiTH8s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Ray Ervin Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Ray Ervin Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840091078485"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0OOBKQWUax70V9bF7gvdDc",
+  "id": "0OOBKQWUax70V9bF7gvdDc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273efbd32dec71b0c1afff6e750",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02efbd32dec71b0c1afff6e750",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851efbd32dec71b0c1afff6e750",
+      "width": 64
+    }
+  ],
+  "label": "Ray Ervin Music",
+  "name": "Gravity",
+  "popularity": 3,
+  "release_date": "2018-08-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0OOBKQWUax70V9bF7gvdDc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+            },
+            "href": "https://api.spotify.com/v1/artists/2t0oDEgacnqOQRFJqiTH8s",
+            "id": "2t0oDEgacnqOQRFJqiTH8s",
+            "name": "Elizabeth Grace",
+            "type": "artist",
+            "uri": "spotify:artist:2t0oDEgacnqOQRFJqiTH8s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202710,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36J64RkkFvdrJNKfiwY0iB",
+        "id": "36J64RkkFvdrJNKfiwY0iB",
+        "is_local": false,
+        "name": "Gravity",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36J64RkkFvdrJNKfiwY0iB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0OOBKQWUax70V9bF7gvdDc"
+}

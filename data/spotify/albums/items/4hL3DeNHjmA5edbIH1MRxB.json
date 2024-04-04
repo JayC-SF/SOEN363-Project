@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PT0WPDrchM47JRRojzjhA",
+      "id": "4PT0WPDrchM47JRRojzjhA",
+      "name": "Langston",
+      "type": "artist",
+      "uri": "spotify:artist:4PT0WPDrchM47JRRojzjhA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Tama's Little Music Shop",
+      "type": "C"
+    },
+    {
+      "text": "2023 Tama's Little Music Shop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197852262189"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4hL3DeNHjmA5edbIH1MRxB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4hL3DeNHjmA5edbIH1MRxB",
+  "id": "4hL3DeNHjmA5edbIH1MRxB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f891b015336a76d0502bce81",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f891b015336a76d0502bce81",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f891b015336a76d0502bce81",
+      "width": 64
+    }
+  ],
+  "label": "Tama's Little Music Shop",
+  "name": "Summer Holiday",
+  "popularity": 7,
+  "release_date": "2023-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4hL3DeNHjmA5edbIH1MRxB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PT0WPDrchM47JRRojzjhA",
+            "id": "4PT0WPDrchM47JRRojzjhA",
+            "name": "Langston",
+            "type": "artist",
+            "uri": "spotify:artist:4PT0WPDrchM47JRRojzjhA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fpJfjWhZtQPShRKxqO33f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fpJfjWhZtQPShRKxqO33f",
+        "id": "1fpJfjWhZtQPShRKxqO33f",
+        "is_local": false,
+        "name": "Summer Holiday",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1fpJfjWhZtQPShRKxqO33f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4hL3DeNHjmA5edbIH1MRxB"
+}

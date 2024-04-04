@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6P6GTRTigHBp8ZesNtpCKH",
+      "id": "6P6GTRTigHBp8ZesNtpCKH",
+      "name": "Almighty",
+      "type": "artist",
+      "uri": "spotify:artist:6P6GTRTigHBp8ZesNtpCKH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 PANDA ENTERTAINMENT",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 PANDA ENTERTAINMENT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191018906696"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/07a4r3FjO0LHllVlvpvkPC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/07a4r3FjO0LHllVlvpvkPC",
+  "id": "07a4r3FjO0LHllVlvpvkPC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c9387dade88bbe9a1a55951",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c9387dade88bbe9a1a55951",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c9387dade88bbe9a1a55951",
+      "width": 64
+    }
+  ],
+  "label": "2015 Panda Entertainment",
+  "name": "Falso Profeta",
+  "popularity": 0,
+  "release_date": "2015-07-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/07a4r3FjO0LHllVlvpvkPC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6P6GTRTigHBp8ZesNtpCKH",
+            "id": "6P6GTRTigHBp8ZesNtpCKH",
+            "name": "Almighty",
+            "type": "artist",
+            "uri": "spotify:artist:6P6GTRTigHBp8ZesNtpCKH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 382346,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34W5bPNUpi2ozIQRs3oKuv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34W5bPNUpi2ozIQRs3oKuv",
+        "id": "34W5bPNUpi2ozIQRs3oKuv",
+        "is_local": false,
+        "name": "Falso Profeta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:34W5bPNUpi2ozIQRs3oKuv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:07a4r3FjO0LHllVlvpvkPC"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+      },
+      "href": "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+      "id": "18ISxWwWjV6rPLoVCXf1dz",
+      "name": "RIN",
+      "type": "artist",
+      "uri": "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 DIVISION",
+      "type": "C"
+    },
+    {
+      "text": "2018 DIVISION",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939352219"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4WLI8Isy5gRKugArp9xA2d"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4WLI8Isy5gRKugArp9xA2d",
+  "id": "4WLI8Isy5gRKugArp9xA2d",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738361f702c4b7db5e66a75b53",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028361f702c4b7db5e66a75b53",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518361f702c4b7db5e66a75b53",
+      "width": 64
+    }
+  ],
+  "label": "DIVISION",
+  "name": "Dior 2001",
+  "popularity": 0,
+  "release_date": "2018-08-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4WLI8Isy5gRKugArp9xA2d/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+            },
+            "href": "https://api.spotify.com/v1/artists/18ISxWwWjV6rPLoVCXf1dz",
+            "id": "18ISxWwWjV6rPLoVCXf1dz",
+            "name": "RIN",
+            "type": "artist",
+            "uri": "spotify:artist:18ISxWwWjV6rPLoVCXf1dz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192941,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4o1hgRrpSiuxkHUBuXALDZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4o1hgRrpSiuxkHUBuXALDZ",
+        "id": "4o1hgRrpSiuxkHUBuXALDZ",
+        "is_local": false,
+        "name": "Dior 2001",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4o1hgRrpSiuxkHUBuXALDZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4WLI8Isy5gRKugArp9xA2d"
+}

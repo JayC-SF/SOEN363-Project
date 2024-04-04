@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+      },
+      "href": "https://api.spotify.com/v1/artists/6caPJFLv1wesmM7gwK1ACy",
+      "id": "6caPJFLv1wesmM7gwK1ACy",
+      "name": "Boris Brejcha",
+      "type": "artist",
+      "uri": "spotify:artist:6caPJFLv1wesmM7gwK1ACy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465028618"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3nB4U7gdNErhJHY3v10NMr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3nB4U7gdNErhJHY3v10NMr",
+  "id": "3nB4U7gdNErhJHY3v10NMr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273676d557f05ad331f1f68eeac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02676d557f05ad331f1f68eeac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851676d557f05ad331f1f68eeac",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "House Music (feat. Arctic Lake) [Edit]",
+  "popularity": 9,
+  "release_date": "2021-04-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3nB4U7gdNErhJHY3v10NMr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+            },
+            "href": "https://api.spotify.com/v1/artists/6caPJFLv1wesmM7gwK1ACy",
+            "id": "6caPJFLv1wesmM7gwK1ACy",
+            "name": "Boris Brejcha",
+            "type": "artist",
+            "uri": "spotify:artist:6caPJFLv1wesmM7gwK1ACy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+            },
+            "href": "https://api.spotify.com/v1/artists/0IEPb9ily3E5IAYMSkwtQ6",
+            "id": "0IEPb9ily3E5IAYMSkwtQ6",
+            "name": "Arctic Lake",
+            "type": "artist",
+            "uri": "spotify:artist:0IEPb9ily3E5IAYMSkwtQ6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aAgQEbQUFMhXqk9fz3fcK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aAgQEbQUFMhXqk9fz3fcK",
+        "id": "3aAgQEbQUFMhXqk9fz3fcK",
+        "is_local": false,
+        "name": "House Music (feat. Arctic Lake) - Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3aAgQEbQUFMhXqk9fz3fcK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3nB4U7gdNErhJHY3v10NMr"
+}

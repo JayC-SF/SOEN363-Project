@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+      },
+      "href": "https://api.spotify.com/v1/artists/1l2ekx5skC4gJH8djERwh1",
+      "id": "1l2ekx5skC4gJH8djERwh1",
+      "name": "Don Diablo",
+      "type": "artist",
+      "uri": "spotify:artist:1l2ekx5skC4gJH8djERwh1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fLTK12xF2IMaNmKMSue6g"
+      },
+      "href": "https://api.spotify.com/v1/artists/0fLTK12xF2IMaNmKMSue6g",
+      "id": "0fLTK12xF2IMaNmKMSue6g",
+      "name": "Khrebto",
+      "type": "artist",
+      "uri": "spotify:artist:0fLTK12xF2IMaNmKMSue6g"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 SpinninRecords.com",
+      "type": "C"
+    },
+    {
+      "text": "2015 SpinninRecords.com",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944486520"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bvXpRVwbeAZE9sC7qzjUB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bvXpRVwbeAZE9sC7qzjUB",
+  "id": "1bvXpRVwbeAZE9sC7qzjUB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27367834c2cf566853885b81f38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0267834c2cf566853885b81f38",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485167834c2cf566853885b81f38",
+      "width": 64
+    }
+  ],
+  "label": "Spinnin' Records",
+  "name": "Got The Love",
+  "popularity": 0,
+  "release_date": "2015-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bvXpRVwbeAZE9sC7qzjUB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1l2ekx5skC4gJH8djERwh1",
+            "id": "1l2ekx5skC4gJH8djERwh1",
+            "name": "Don Diablo",
+            "type": "artist",
+            "uri": "spotify:artist:1l2ekx5skC4gJH8djERwh1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fLTK12xF2IMaNmKMSue6g"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fLTK12xF2IMaNmKMSue6g",
+            "id": "0fLTK12xF2IMaNmKMSue6g",
+            "name": "Khrebto",
+            "type": "artist",
+            "uri": "spotify:artist:0fLTK12xF2IMaNmKMSue6g"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XeuoKNikCzGg0ZUgK8Dkr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XeuoKNikCzGg0ZUgK8Dkr",
+        "id": "3XeuoKNikCzGg0ZUgK8Dkr",
+        "is_local": false,
+        "name": "Got The Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XeuoKNikCzGg0ZUgK8Dkr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1bvXpRVwbeAZE9sC7qzjUB"
+}

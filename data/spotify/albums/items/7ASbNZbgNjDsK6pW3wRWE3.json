@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+      },
+      "href": "https://api.spotify.com/v1/artists/2zWqENF4cnsd1nLmraG9IE",
+      "id": "2zWqENF4cnsd1nLmraG9IE",
+      "name": "DJ Lucas Beat",
+      "type": "artist",
+      "uri": "spotify:artist:2zWqENF4cnsd1nLmraG9IE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 iMusics",
+      "type": "C"
+    },
+    {
+      "text": "2020 iMusics",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "024543018094"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7ASbNZbgNjDsK6pW3wRWE3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7ASbNZbgNjDsK6pW3wRWE3",
+  "id": "7ASbNZbgNjDsK6pW3wRWE3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353eb68dbded562dec2ef6c74",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253eb68dbded562dec2ef6c74",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153eb68dbded562dec2ef6c74",
+      "width": 64
+    }
+  ],
+  "label": "iMusics",
+  "name": "Sentimento Seu Nenhum",
+  "popularity": 0,
+  "release_date": "2020-10-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7ASbNZbgNjDsK6pW3wRWE3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zWqENF4cnsd1nLmraG9IE",
+            "id": "2zWqENF4cnsd1nLmraG9IE",
+            "name": "DJ Lucas Beat",
+            "type": "artist",
+            "uri": "spotify:artist:2zWqENF4cnsd1nLmraG9IE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140307,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74mDE76hPSE74NkqqJk4Ke"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74mDE76hPSE74NkqqJk4Ke",
+        "id": "74mDE76hPSE74NkqqJk4Ke",
+        "is_local": false,
+        "name": "Sentimento Seu Nenhum",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74mDE76hPSE74NkqqJk4Ke"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7ASbNZbgNjDsK6pW3wRWE3"
+}

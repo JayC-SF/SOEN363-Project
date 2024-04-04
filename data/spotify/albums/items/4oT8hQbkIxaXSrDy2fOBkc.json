@@ -1,0 +1,850 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+      "id": "3sFl2kyQgKddOq2sKgv6ah",
+      "name": "Johnny Ace",
+      "type": "artist",
+      "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2004 Geffen Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2004 Geffen Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498626559"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4oT8hQbkIxaXSrDy2fOBkc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4oT8hQbkIxaXSrDy2fOBkc",
+  "id": "4oT8hQbkIxaXSrDy2fOBkc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d878a4f8de7c6cae783f7b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d878a4f8de7c6cae783f7b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d878a4f8de7c6cae783f7b0",
+      "width": 64
+    }
+  ],
+  "label": "Universal Records",
+  "name": "The Complete Duke Recordings",
+  "popularity": 0,
+  "release_date": "2004-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 20,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4oT8hQbkIxaXSrDy2fOBkc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6G7vliG9zFzlFUX2YR11rc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6G7vliG9zFzlFUX2YR11rc",
+        "id": "6G7vliG9zFzlFUX2YR11rc",
+        "is_local": false,
+        "name": "My Song",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6G7vliG9zFzlFUX2YR11rc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ao16NaAHniX0H3z4Ar2Xe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ao16NaAHniX0H3z4Ar2Xe",
+        "id": "6ao16NaAHniX0H3z4Ar2Xe",
+        "is_local": false,
+        "name": "Follow The Rule",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6ao16NaAHniX0H3z4Ar2Xe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6q1elGNINcAHoFT1OegKtG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6q1elGNINcAHoFT1OegKtG",
+        "id": "6q1elGNINcAHoFT1OegKtG",
+        "is_local": false,
+        "name": "Angel",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6q1elGNINcAHoFT1OegKtG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ny8vWtRkTi4SN2rzUIXxW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ny8vWtRkTi4SN2rzUIXxW",
+        "id": "2Ny8vWtRkTi4SN2rzUIXxW",
+        "is_local": false,
+        "name": "Ace's Wild",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2Ny8vWtRkTi4SN2rzUIXxW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28lnsQtmTUPpcoH9DsZhbB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28lnsQtmTUPpcoH9DsZhbB",
+        "id": "28lnsQtmTUPpcoH9DsZhbB",
+        "is_local": false,
+        "name": "Cross My Heart",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:28lnsQtmTUPpcoH9DsZhbB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IXxmblFoCjmCYqo8PdCFs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IXxmblFoCjmCYqo8PdCFs",
+        "id": "2IXxmblFoCjmCYqo8PdCFs",
+        "is_local": false,
+        "name": "Burley Cutie",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2IXxmblFoCjmCYqo8PdCFs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrSO2ISK8b6xGzMotV4Jr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrSO2ISK8b6xGzMotV4Jr",
+            "id": "0YrSO2ISK8b6xGzMotV4Jr",
+            "name": "The Beale Streeters",
+            "type": "artist",
+            "uri": "spotify:artist:0YrSO2ISK8b6xGzMotV4Jr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iMUn4D4dJkAsOtpfo4IpM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7iMUn4D4dJkAsOtpfo4IpM",
+        "id": "7iMUn4D4dJkAsOtpfo4IpM",
+        "is_local": false,
+        "name": "The Clock",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7iMUn4D4dJkAsOtpfo4IpM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qtyAY9gfoH3qfa4lFVsoM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qtyAY9gfoH3qfa4lFVsoM",
+        "id": "5qtyAY9gfoH3qfa4lFVsoM",
+        "is_local": false,
+        "name": "Saving My Love For You",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5qtyAY9gfoH3qfa4lFVsoM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+            },
+            "href": "https://api.spotify.com/v1/artists/6bR0cgMtkCVpm0I5yrDNzO",
+            "id": "6bR0cgMtkCVpm0I5yrDNzO",
+            "name": "Big Mama Thornton",
+            "type": "artist",
+            "uri": "spotify:artist:6bR0cgMtkCVpm0I5yrDNzO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YQYfemu7BUTOSRfcqHntj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YQYfemu7BUTOSRfcqHntj",
+        "id": "6YQYfemu7BUTOSRfcqHntj",
+        "is_local": false,
+        "name": "Yes, Baby",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6YQYfemu7BUTOSRfcqHntj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 143133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QUkgEtMtL21p5HLnabglg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QUkgEtMtL21p5HLnabglg",
+        "id": "2QUkgEtMtL21p5HLnabglg",
+        "is_local": false,
+        "name": "Please Forgive Me",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2QUkgEtMtL21p5HLnabglg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3n5XTkigNI8tOxGzX4IUys"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3n5XTkigNI8tOxGzX4IUys",
+        "id": "3n5XTkigNI8tOxGzX4IUys",
+        "is_local": false,
+        "name": "Still Love You So",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3n5XTkigNI8tOxGzX4IUys"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24fNECxVA6hdsh6XgKUTN4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/24fNECxVA6hdsh6XgKUTN4",
+        "id": "24fNECxVA6hdsh6XgKUTN4",
+        "is_local": false,
+        "name": "Pledging My Love",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:24fNECxVA6hdsh6XgKUTN4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e2mav4VZkpOHteU4ZZOzG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3e2mav4VZkpOHteU4ZZOzG",
+        "id": "3e2mav4VZkpOHteU4ZZOzG",
+        "is_local": false,
+        "name": "So Lonely",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3e2mav4VZkpOHteU4ZZOzG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xVSoHrhhN6zw44swl4Rf8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xVSoHrhhN6zw44swl4Rf8",
+        "id": "5xVSoHrhhN6zw44swl4Rf8",
+        "is_local": false,
+        "name": "You've Been Gone So Long",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5xVSoHrhhN6zw44swl4Rf8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PGt6fQNjLKhYYeGLWKWcM",
+            "id": "5PGt6fQNjLKhYYeGLWKWcM",
+            "name": "Johnny Otis",
+            "type": "artist",
+            "uri": "spotify:artist:5PGt6fQNjLKhYYeGLWKWcM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eFEhV0SOpWhOK2qyW1PN9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1eFEhV0SOpWhOK2qyW1PN9",
+        "id": "1eFEhV0SOpWhOK2qyW1PN9",
+        "is_local": false,
+        "name": "Anymore - Edit",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:1eFEhV0SOpWhOK2qyW1PN9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yKKNSREe14qdABXxVVFpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yKKNSREe14qdABXxVVFpe",
+            "id": "0yKKNSREe14qdABXxVVFpe",
+            "name": "Johnny Board & His Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0yKKNSREe14qdABXxVVFpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sFl8D0cWcETLi6Z3Mp7IR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3sFl8D0cWcETLi6Z3Mp7IR",
+        "id": "3sFl8D0cWcETLi6Z3Mp7IR",
+        "is_local": false,
+        "name": "No Money",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:3sFl8D0cWcETLi6Z3Mp7IR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yKKNSREe14qdABXxVVFpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yKKNSREe14qdABXxVVFpe",
+            "id": "0yKKNSREe14qdABXxVVFpe",
+            "name": "Johnny Board & His Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0yKKNSREe14qdABXxVVFpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 136106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kHtpSq4wc6OOXTAaIGe67"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kHtpSq4wc6OOXTAaIGe67",
+        "id": "1kHtpSq4wc6OOXTAaIGe67",
+        "is_local": false,
+        "name": "I'm Crazy Baby",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:1kHtpSq4wc6OOXTAaIGe67"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yKKNSREe14qdABXxVVFpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yKKNSREe14qdABXxVVFpe",
+            "id": "0yKKNSREe14qdABXxVVFpe",
+            "name": "Johnny Board & His Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0yKKNSREe14qdABXxVVFpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ofx6T2rNAevqPSEvEuuCZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Ofx6T2rNAevqPSEvEuuCZ",
+        "id": "0Ofx6T2rNAevqPSEvEuuCZ",
+        "is_local": false,
+        "name": "Don't You Know",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:0Ofx6T2rNAevqPSEvEuuCZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yKKNSREe14qdABXxVVFpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yKKNSREe14qdABXxVVFpe",
+            "id": "0yKKNSREe14qdABXxVVFpe",
+            "name": "Johnny Board & His Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0yKKNSREe14qdABXxVVFpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QzgugWB0LqosZgsHjMzYG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QzgugWB0LqosZgsHjMzYG",
+        "id": "5QzgugWB0LqosZgsHjMzYG",
+        "is_local": false,
+        "name": "Never Let Me Go - Edit",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:5QzgugWB0LqosZgsHjMzYG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sFl2kyQgKddOq2sKgv6ah",
+            "id": "3sFl2kyQgKddOq2sKgv6ah",
+            "name": "Johnny Ace",
+            "type": "artist",
+            "uri": "spotify:artist:3sFl2kyQgKddOq2sKgv6ah"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yKKNSREe14qdABXxVVFpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/0yKKNSREe14qdABXxVVFpe",
+            "id": "0yKKNSREe14qdABXxVVFpe",
+            "name": "Johnny Board & His Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:0yKKNSREe14qdABXxVVFpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kPWzOdThwW8M4NeqOZanh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5kPWzOdThwW8M4NeqOZanh",
+        "id": "5kPWzOdThwW8M4NeqOZanh",
+        "is_local": false,
+        "name": "How Can You Be So Mean",
+        "preview_url": null,
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:5kPWzOdThwW8M4NeqOZanh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 20
+  },
+  "type": "album",
+  "uri": "spotify:album:4oT8hQbkIxaXSrDy2fOBkc"
+}

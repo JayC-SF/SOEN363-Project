@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+      },
+      "href": "https://api.spotify.com/v1/artists/64DvMieEUCdrYKmEIhDt8G",
+      "id": "64DvMieEUCdrYKmEIhDt8G",
+      "name": "Arjan Dhillon",
+      "type": "artist",
+      "uri": "spotify:artist:64DvMieEUCdrYKmEIhDt8G"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2824893 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 2824893 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196165904700"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2YT1XyyISpTqoa6jG6XW5f"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2YT1XyyISpTqoa6jG6XW5f",
+  "id": "2YT1XyyISpTqoa6jG6XW5f",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735075c509fc8e073117acc241",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025075c509fc8e073117acc241",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515075c509fc8e073117acc241",
+      "width": 64
+    }
+  ],
+  "label": "2824893 Records DK",
+  "name": "Pind",
+  "popularity": 0,
+  "release_date": "2021-04-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2YT1XyyISpTqoa6jG6XW5f/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+            },
+            "href": "https://api.spotify.com/v1/artists/64DvMieEUCdrYKmEIhDt8G",
+            "id": "64DvMieEUCdrYKmEIhDt8G",
+            "name": "Arjan Dhillon",
+            "type": "artist",
+            "uri": "spotify:artist:64DvMieEUCdrYKmEIhDt8G"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106848,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BSva2s6tpWHD7mvGmWwMz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BSva2s6tpWHD7mvGmWwMz",
+        "id": "5BSva2s6tpWHD7mvGmWwMz",
+        "is_local": false,
+        "name": "Pind",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5BSva2s6tpWHD7mvGmWwMz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2YT1XyyISpTqoa6jG6XW5f"
+}

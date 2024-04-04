@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4348sVIMKJjUEqs5cgPVsG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4348sVIMKJjUEqs5cgPVsG",
+      "id": "4348sVIMKJjUEqs5cgPVsG",
+      "name": "Ellen Gee",
+      "type": "artist",
+      "uri": "spotify:artist:4348sVIMKJjUEqs5cgPVsG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2000 Sym Music Srl",
+      "type": "C"
+    },
+    {
+      "text": "2000 Sym Music Srl",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8019991683767"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2C4c21WNExdQgXX0RVKbPH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2C4c21WNExdQgXX0RVKbPH",
+  "id": "2C4c21WNExdQgXX0RVKbPH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273195a265dae18585f740d3d6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02195a265dae18585f740d3d6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851195a265dae18585f740d3d6c",
+      "width": 64
+    }
+  ],
+  "label": "Sym Recording",
+  "name": "Movin on - Single",
+  "popularity": 0,
+  "release_date": "2000",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2C4c21WNExdQgXX0RVKbPH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4348sVIMKJjUEqs5cgPVsG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4348sVIMKJjUEqs5cgPVsG",
+            "id": "4348sVIMKJjUEqs5cgPVsG",
+            "name": "Ellen Gee",
+            "type": "artist",
+            "uri": "spotify:artist:4348sVIMKJjUEqs5cgPVsG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7F5WxJiHOLOXePNyrYKe15"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7F5WxJiHOLOXePNyrYKe15",
+        "id": "7F5WxJiHOLOXePNyrYKe15",
+        "is_local": false,
+        "name": "Movin on - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7F5WxJiHOLOXePNyrYKe15"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4348sVIMKJjUEqs5cgPVsG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4348sVIMKJjUEqs5cgPVsG",
+            "id": "4348sVIMKJjUEqs5cgPVsG",
+            "name": "Ellen Gee",
+            "type": "artist",
+            "uri": "spotify:artist:4348sVIMKJjUEqs5cgPVsG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 308506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tTe8qA9dGWO0pJXNhE07C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tTe8qA9dGWO0pJXNhE07C",
+        "id": "3tTe8qA9dGWO0pJXNhE07C",
+        "is_local": false,
+        "name": "Movin on - Extended Moon Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3tTe8qA9dGWO0pJXNhE07C"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2C4c21WNExdQgXX0RVKbPH"
+}

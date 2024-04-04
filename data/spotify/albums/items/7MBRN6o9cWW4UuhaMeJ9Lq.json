@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Gp8VWTInvWvTiKu30ANd9"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Gp8VWTInvWvTiKu30ANd9",
+      "id": "3Gp8VWTInvWvTiKu30ANd9",
+      "name": "Matze Knop",
+      "type": "artist",
+      "uri": "spotify:artist:3Gp8VWTInvWvTiKu30ANd9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2008 Seven Days Music / 313 Music JWP AG",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977522006"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MBRN6o9cWW4UuhaMeJ9Lq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MBRN6o9cWW4UuhaMeJ9Lq",
+  "id": "7MBRN6o9cWW4UuhaMeJ9Lq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db5dafd625693e1bc2cabb1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db5dafd625693e1bc2cabb1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db5dafd625693e1bc2cabb1c",
+      "width": 64
+    }
+  ],
+  "label": "Seven Days Music",
+  "name": "Numero Uno",
+  "popularity": 0,
+  "release_date": "2008",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MBRN6o9cWW4UuhaMeJ9Lq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Gp8VWTInvWvTiKu30ANd9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Gp8VWTInvWvTiKu30ANd9",
+            "id": "3Gp8VWTInvWvTiKu30ANd9",
+            "name": "Matze Knop",
+            "type": "artist",
+            "uri": "spotify:artist:3Gp8VWTInvWvTiKu30ANd9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IBdqbicDankaxcBns7G18"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IBdqbicDankaxcBns7G18",
+        "id": "7IBdqbicDankaxcBns7G18",
+        "is_local": false,
+        "name": "Numero Uno",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7IBdqbicDankaxcBns7G18"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Gp8VWTInvWvTiKu30ANd9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Gp8VWTInvWvTiKu30ANd9",
+            "id": "3Gp8VWTInvWvTiKu30ANd9",
+            "name": "Matze Knop",
+            "type": "artist",
+            "uri": "spotify:artist:3Gp8VWTInvWvTiKu30ANd9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ce7Du8KUdrGtEdO1VGWrX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ce7Du8KUdrGtEdO1VGWrX",
+        "id": "3ce7Du8KUdrGtEdO1VGWrX",
+        "is_local": false,
+        "name": "Heio die Welle",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3ce7Du8KUdrGtEdO1VGWrX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:7MBRN6o9cWW4UuhaMeJ9Lq"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75OpU10VolujEA1pl0h1dX"
+      },
+      "href": "https://api.spotify.com/v1/artists/75OpU10VolujEA1pl0h1dX",
+      "id": "75OpU10VolujEA1pl0h1dX",
+      "name": "Nadine Shah",
+      "type": "artist",
+      "uri": "spotify:artist:75OpU10VolujEA1pl0h1dX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Apollo Records",
+      "type": "C"
+    },
+    {
+      "text": "2014 Apollo Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055274703763"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/25IzAwdhIRfdUHxMArdF5s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/25IzAwdhIRfdUHxMArdF5s",
+  "id": "25IzAwdhIRfdUHxMArdF5s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347c7640353059196d481866a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247c7640353059196d481866a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147c7640353059196d481866a",
+      "width": 64
+    }
+  ],
+  "label": "Apollo",
+  "name": "Ville Morose / The Devil",
+  "popularity": 0,
+  "release_date": "2014-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/25IzAwdhIRfdUHxMArdF5s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75OpU10VolujEA1pl0h1dX"
+            },
+            "href": "https://api.spotify.com/v1/artists/75OpU10VolujEA1pl0h1dX",
+            "id": "75OpU10VolujEA1pl0h1dX",
+            "name": "Nadine Shah",
+            "type": "artist",
+            "uri": "spotify:artist:75OpU10VolujEA1pl0h1dX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203218,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XKzr2XgUEiyqRAUdFqeGL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XKzr2XgUEiyqRAUdFqeGL",
+        "id": "0XKzr2XgUEiyqRAUdFqeGL",
+        "is_local": false,
+        "name": "Ville Morose",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0XKzr2XgUEiyqRAUdFqeGL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75OpU10VolujEA1pl0h1dX"
+            },
+            "href": "https://api.spotify.com/v1/artists/75OpU10VolujEA1pl0h1dX",
+            "id": "75OpU10VolujEA1pl0h1dX",
+            "name": "Nadine Shah",
+            "type": "artist",
+            "uri": "spotify:artist:75OpU10VolujEA1pl0h1dX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QHwWKdA4yBEECkXMtRqaS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QHwWKdA4yBEECkXMtRqaS",
+        "id": "4QHwWKdA4yBEECkXMtRqaS",
+        "is_local": false,
+        "name": "The Devil",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4QHwWKdA4yBEECkXMtRqaS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:25IzAwdhIRfdUHxMArdF5s"
+}

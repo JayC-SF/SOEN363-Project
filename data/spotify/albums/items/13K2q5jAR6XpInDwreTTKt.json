@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+      },
+      "href": "https://api.spotify.com/v1/artists/59E9dYtwLTUAGuAppwFKAW",
+      "id": "59E9dYtwLTUAGuAppwFKAW",
+      "name": "Cherrie",
+      "type": "artist",
+      "uri": "spotify:artist:59E9dYtwLTUAGuAppwFKAW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Araweelo",
+      "type": "C"
+    },
+    {
+      "text": "2018 Araweelo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7071245508166"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/13K2q5jAR6XpInDwreTTKt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/13K2q5jAR6XpInDwreTTKt",
+  "id": "13K2q5jAR6XpInDwreTTKt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273970df4d7f9fa0fe41c733670",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02970df4d7f9fa0fe41c733670",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851970df4d7f9fa0fe41c733670",
+      "width": 64
+    }
+  ],
+  "label": "Araweelo",
+  "name": "Det Sl\u00e5r Mig Ibland",
+  "popularity": 0,
+  "release_date": "2018-05-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/13K2q5jAR6XpInDwreTTKt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+            },
+            "href": "https://api.spotify.com/v1/artists/59E9dYtwLTUAGuAppwFKAW",
+            "id": "59E9dYtwLTUAGuAppwFKAW",
+            "name": "Cherrie",
+            "type": "artist",
+            "uri": "spotify:artist:59E9dYtwLTUAGuAppwFKAW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212592,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FMd3b0i4agFy8UsIfHMdi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7FMd3b0i4agFy8UsIfHMdi",
+        "id": "7FMd3b0i4agFy8UsIfHMdi",
+        "is_local": false,
+        "name": "Det Sl\u00e5r Mig Ibland",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7FMd3b0i4agFy8UsIfHMdi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:13K2q5jAR6XpInDwreTTKt"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3SRvHbQxTUFWLGDbIGgkkb"
+      },
+      "href": "https://api.spotify.com/v1/artists/3SRvHbQxTUFWLGDbIGgkkb",
+      "id": "3SRvHbQxTUFWLGDbIGgkkb",
+      "name": "Damian The Producer",
+      "type": "artist",
+      "uri": "spotify:artist:3SRvHbQxTUFWLGDbIGgkkb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Damian The Producer",
+      "type": "C"
+    },
+    {
+      "text": "2017 Damian The Producer",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "039853878887"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uSc3o2zRnAB6IzhKRZZUn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uSc3o2zRnAB6IzhKRZZUn",
+  "id": "0uSc3o2zRnAB6IzhKRZZUn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f8b2f98ac12429ff7f5c845",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f8b2f98ac12429ff7f5c845",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f8b2f98ac12429ff7f5c845",
+      "width": 64
+    }
+  ],
+  "label": "Damian The Producer",
+  "name": "Mask Off",
+  "popularity": 0,
+  "release_date": "2017-08-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uSc3o2zRnAB6IzhKRZZUn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SRvHbQxTUFWLGDbIGgkkb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SRvHbQxTUFWLGDbIGgkkb",
+            "id": "3SRvHbQxTUFWLGDbIGgkkb",
+            "name": "Damian The Producer",
+            "type": "artist",
+            "uri": "spotify:artist:3SRvHbQxTUFWLGDbIGgkkb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206408,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/199PqWwIltCTTRoae1me6g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/199PqWwIltCTTRoae1me6g",
+        "id": "199PqWwIltCTTRoae1me6g",
+        "is_local": false,
+        "name": "Mask Off",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:199PqWwIltCTTRoae1me6g"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0uSc3o2zRnAB6IzhKRZZUn"
+}

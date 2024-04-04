@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65zaftDLgoj6AAEpkAp1pA"
+      },
+      "href": "https://api.spotify.com/v1/artists/65zaftDLgoj6AAEpkAp1pA",
+      "id": "65zaftDLgoj6AAEpkAp1pA",
+      "name": "Jaggi Singh",
+      "type": "artist",
+      "uri": "spotify:artist:65zaftDLgoj6AAEpkAp1pA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Simran Music Industries",
+      "type": "C"
+    },
+    {
+      "text": "2018 Ditto Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8902356518210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1ZOCGaJqr7pvFMkY7vb9GL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1ZOCGaJqr7pvFMkY7vb9GL",
+  "id": "1ZOCGaJqr7pvFMkY7vb9GL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e19839eae42a4634ce4f854",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e19839eae42a4634ce4f854",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e19839eae42a4634ce4f854",
+      "width": 64
+    }
+  ],
+  "label": "SMI/Ditto",
+  "name": "Chitta",
+  "popularity": 0,
+  "release_date": "2014-12-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1ZOCGaJqr7pvFMkY7vb9GL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/65zaftDLgoj6AAEpkAp1pA"
+            },
+            "href": "https://api.spotify.com/v1/artists/65zaftDLgoj6AAEpkAp1pA",
+            "id": "65zaftDLgoj6AAEpkAp1pA",
+            "name": "Jaggi Singh",
+            "type": "artist",
+            "uri": "spotify:artist:65zaftDLgoj6AAEpkAp1pA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210163,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4p1kQN2Y8MOSTy94lowmRo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4p1kQN2Y8MOSTy94lowmRo",
+        "id": "4p1kQN2Y8MOSTy94lowmRo",
+        "is_local": false,
+        "name": "Chitta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4p1kQN2Y8MOSTy94lowmRo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1ZOCGaJqr7pvFMkY7vb9GL"
+}

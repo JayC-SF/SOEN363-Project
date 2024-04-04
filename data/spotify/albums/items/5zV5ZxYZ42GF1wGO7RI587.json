@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Bllzm0olEwqGwPujaLiuA",
+      "id": "6Bllzm0olEwqGwPujaLiuA",
+      "name": "Arlie",
+      "type": "artist",
+      "uri": "spotify:artist:6Bllzm0olEwqGwPujaLiuA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Intermission Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Intermission Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840095529945"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5zV5ZxYZ42GF1wGO7RI587",
+  "id": "5zV5ZxYZ42GF1wGO7RI587",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df45bf084dc78b777c631eba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df45bf084dc78b777c631eba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df45bf084dc78b777c631eba",
+      "width": 64
+    }
+  ],
+  "label": "Intermission Records",
+  "name": "Big Fat Mouth",
+  "popularity": 0,
+  "release_date": "2017-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5zV5ZxYZ42GF1wGO7RI587/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Bllzm0olEwqGwPujaLiuA",
+            "id": "6Bllzm0olEwqGwPujaLiuA",
+            "name": "Arlie",
+            "type": "artist",
+            "uri": "spotify:artist:6Bllzm0olEwqGwPujaLiuA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216983,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H57VA9OzK2NLmweUfJTdq",
+        "id": "2H57VA9OzK2NLmweUfJTdq",
+        "is_local": false,
+        "name": "Big Fat Mouth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2H57VA9OzK2NLmweUfJTdq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5zV5ZxYZ42GF1wGO7RI587"
+}

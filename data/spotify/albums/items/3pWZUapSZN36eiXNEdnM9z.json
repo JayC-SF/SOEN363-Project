@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1MP7xlABJ13LtmHfG77SCJ",
+      "id": "1MP7xlABJ13LtmHfG77SCJ",
+      "name": "Loveless",
+      "type": "artist",
+      "uri": "spotify:artist:1MP7xlABJ13LtmHfG77SCJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Loveless",
+      "type": "C"
+    },
+    {
+      "text": "2021 Loveless",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "608539500338"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3pWZUapSZN36eiXNEdnM9z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3pWZUapSZN36eiXNEdnM9z",
+  "id": "3pWZUapSZN36eiXNEdnM9z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e2c68efb18a551b9689fc0ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e2c68efb18a551b9689fc0ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e2c68efb18a551b9689fc0ea",
+      "width": 64
+    }
+  ],
+  "label": "Loveless",
+  "name": "sorry i'm a downer",
+  "popularity": 0,
+  "release_date": "2021-09-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3pWZUapSZN36eiXNEdnM9z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1MP7xlABJ13LtmHfG77SCJ",
+            "id": "1MP7xlABJ13LtmHfG77SCJ",
+            "name": "Loveless",
+            "type": "artist",
+            "uri": "spotify:artist:1MP7xlABJ13LtmHfG77SCJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170670,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HthgwQJXeulWos92AfIrg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HthgwQJXeulWos92AfIrg",
+        "id": "5HthgwQJXeulWos92AfIrg",
+        "is_local": false,
+        "name": "sorry i'm a downer",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5HthgwQJXeulWos92AfIrg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3pWZUapSZN36eiXNEdnM9z"
+}

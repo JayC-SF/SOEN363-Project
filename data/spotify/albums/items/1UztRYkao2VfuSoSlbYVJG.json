@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+      },
+      "href": "https://api.spotify.com/v1/artists/2W6kbe0nm96COrHzNmfLLd",
+      "id": "2W6kbe0nm96COrHzNmfLLd",
+      "name": "MC Fioti",
+      "type": "artist",
+      "uri": "spotify:artist:2W6kbe0nm96COrHzNmfLLd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+      },
+      "href": "https://api.spotify.com/v1/artists/5AWdsNtZ3cFCrvGQovuPzu",
+      "id": "5AWdsNtZ3cFCrvGQovuPzu",
+      "name": "Novo Imp\u00e9rio",
+      "type": "artist",
+      "uri": "spotify:artist:5AWdsNtZ3cFCrvGQovuPzu"
+    }
+  ],
+  "available_markets": [
+    "BR"
+  ],
+  "copyrights": [
+    {
+      "text": "2017 N.V.I Novo Imperio",
+      "type": "C"
+    },
+    {
+      "text": "2017 N.V.I Novo Imperio",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "655036173466"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1UztRYkao2VfuSoSlbYVJG",
+  "id": "1UztRYkao2VfuSoSlbYVJG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273318bd9ab1e89d8146aa079b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02318bd9ab1e89d8146aa079b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851318bd9ab1e89d8146aa079b6",
+      "width": 64
+    }
+  ],
+  "label": "RW Produtora",
+  "name": "Bum Bum Tam Tam",
+  "popularity": 50,
+  "release_date": "2017-02-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1UztRYkao2VfuSoSlbYVJG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+            },
+            "href": "https://api.spotify.com/v1/artists/2W6kbe0nm96COrHzNmfLLd",
+            "id": "2W6kbe0nm96COrHzNmfLLd",
+            "name": "MC Fioti",
+            "type": "artist",
+            "uri": "spotify:artist:2W6kbe0nm96COrHzNmfLLd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+            },
+            "href": "https://api.spotify.com/v1/artists/5AWdsNtZ3cFCrvGQovuPzu",
+            "id": "5AWdsNtZ3cFCrvGQovuPzu",
+            "name": "Novo Imp\u00e9rio",
+            "type": "artist",
+            "uri": "spotify:artist:5AWdsNtZ3cFCrvGQovuPzu"
+          }
+        ],
+        "available_markets": [
+          "BR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 155550,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KBfjlQ85Fqs2MCCvXSW0c",
+        "id": "7KBfjlQ85Fqs2MCCvXSW0c",
+        "is_local": false,
+        "name": "Bum Bum Tam Tam",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7KBfjlQ85Fqs2MCCvXSW0c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1UztRYkao2VfuSoSlbYVJG"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sHCvZe1PHrOAuYlwTLNH4",
+      "id": "6sHCvZe1PHrOAuYlwTLNH4",
+      "name": "Gus Dapperton",
+      "type": "artist",
+      "uri": "spotify:artist:6sHCvZe1PHrOAuYlwTLNH4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Brendan Rice",
+      "type": "C"
+    },
+    {
+      "text": "2016 Brendan Rice",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190394546663"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3DyFjeYQihBPgyVFdazjfE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3DyFjeYQihBPgyVFdazjfE",
+  "id": "3DyFjeYQihBPgyVFdazjfE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730995fefd89f692aae440e500",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020995fefd89f692aae440e500",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510995fefd89f692aae440e500",
+      "width": 64
+    }
+  ],
+  "label": "Gus Dapperton",
+  "name": "Moodna, Once with Grace",
+  "popularity": 0,
+  "release_date": "2016-05-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3DyFjeYQihBPgyVFdazjfE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sHCvZe1PHrOAuYlwTLNH4",
+            "id": "6sHCvZe1PHrOAuYlwTLNH4",
+            "name": "Gus Dapperton",
+            "type": "artist",
+            "uri": "spotify:artist:6sHCvZe1PHrOAuYlwTLNH4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QHD3WBERQyFqbNHdsRq4j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QHD3WBERQyFqbNHdsRq4j",
+        "id": "6QHD3WBERQyFqbNHdsRq4j",
+        "is_local": false,
+        "name": "Moodna, Once with Grace",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6QHD3WBERQyFqbNHdsRq4j"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3DyFjeYQihBPgyVFdazjfE"
+}

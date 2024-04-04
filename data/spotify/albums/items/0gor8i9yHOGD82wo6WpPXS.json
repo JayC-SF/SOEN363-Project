@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DQh8QlqpoVmQd1n7Bz92s"
+      },
+      "href": "https://api.spotify.com/v1/artists/1DQh8QlqpoVmQd1n7Bz92s",
+      "id": "1DQh8QlqpoVmQd1n7Bz92s",
+      "name": "Various Art",
+      "type": "artist",
+      "uri": "spotify:artist:1DQh8QlqpoVmQd1n7Bz92s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3247755 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3247755 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196323320403"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0gor8i9yHOGD82wo6WpPXS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0gor8i9yHOGD82wo6WpPXS",
+  "id": "0gor8i9yHOGD82wo6WpPXS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273760113689723db9c71967bb3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02760113689723db9c71967bb3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851760113689723db9c71967bb3",
+      "width": 64
+    }
+  ],
+  "label": "3247755 Records DK",
+  "name": "Me Contagie",
+  "popularity": 0,
+  "release_date": "2021-08-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0gor8i9yHOGD82wo6WpPXS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DQh8QlqpoVmQd1n7Bz92s"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DQh8QlqpoVmQd1n7Bz92s",
+            "id": "1DQh8QlqpoVmQd1n7Bz92s",
+            "name": "Various Art",
+            "type": "artist",
+            "uri": "spotify:artist:1DQh8QlqpoVmQd1n7Bz92s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 378810,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51BuVemKtCRCOHF1wPlxRf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/51BuVemKtCRCOHF1wPlxRf",
+        "id": "51BuVemKtCRCOHF1wPlxRf",
+        "is_local": false,
+        "name": "Me Contagie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:51BuVemKtCRCOHF1wPlxRf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0gor8i9yHOGD82wo6WpPXS"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id": "4YRxDV8wJFPHPTeXepOstw",
+      "name": "Arijit Singh",
+      "type": "artist",
+      "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Oriyon Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Oriyon Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616409276518"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6I25JQ83JSo8FObIDeIfgK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6I25JQ83JSo8FObIDeIfgK",
+  "id": "6I25JQ83JSo8FObIDeIfgK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c02e651edbe8f14c96ad6de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c02e651edbe8f14c96ad6de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c02e651edbe8f14c96ad6de",
+      "width": 64
+    }
+  ],
+  "label": "Oriyon Music",
+  "name": "Rihaa",
+  "popularity": 0,
+  "release_date": "2020-10-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6I25JQ83JSo8FObIDeIfgK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 329655,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05SJ8KGRFN71oFy0jkLOOW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/05SJ8KGRFN71oFy0jkLOOW",
+        "id": "05SJ8KGRFN71oFy0jkLOOW",
+        "is_local": false,
+        "name": "Rihaa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:05SJ8KGRFN71oFy0jkLOOW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6I25JQ83JSo8FObIDeIfgK"
+}

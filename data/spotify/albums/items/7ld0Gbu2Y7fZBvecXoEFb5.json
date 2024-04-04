@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7rwPLQfRcQlFApvZUmzYlq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7rwPLQfRcQlFApvZUmzYlq",
+      "id": "7rwPLQfRcQlFApvZUmzYlq",
+      "name": "JaBa",
+      "type": "artist",
+      "uri": "spotify:artist:7rwPLQfRcQlFApvZUmzYlq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 A1 Digital",
+      "type": "C"
+    },
+    {
+      "text": "2024 A1 Digital",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "725336304119"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7ld0Gbu2Y7fZBvecXoEFb5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7ld0Gbu2Y7fZBvecXoEFb5",
+  "id": "7ld0Gbu2Y7fZBvecXoEFb5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732bfe80b76ece678a74c9f9fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022bfe80b76ece678a74c9f9fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512bfe80b76ece678a74c9f9fe",
+      "width": 64
+    }
+  ],
+  "label": "A1 Digital",
+  "name": "DND",
+  "popularity": 0,
+  "release_date": "2024-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7ld0Gbu2Y7fZBvecXoEFb5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7rwPLQfRcQlFApvZUmzYlq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7rwPLQfRcQlFApvZUmzYlq",
+            "id": "7rwPLQfRcQlFApvZUmzYlq",
+            "name": "JaBa",
+            "type": "artist",
+            "uri": "spotify:artist:7rwPLQfRcQlFApvZUmzYlq"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0XW8YN9CC0arKFRRhf7gGW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0XW8YN9CC0arKFRRhf7gGW",
+            "id": "0XW8YN9CC0arKFRRhf7gGW",
+            "name": "Mic Charles",
+            "type": "artist",
+            "uri": "spotify:artist:0XW8YN9CC0arKFRRhf7gGW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162480,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3j2bYQ1wWs9ajC8R1Dgasy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3j2bYQ1wWs9ajC8R1Dgasy",
+        "id": "3j2bYQ1wWs9ajC8R1Dgasy",
+        "is_local": false,
+        "name": "DND",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3j2bYQ1wWs9ajC8R1Dgasy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7ld0Gbu2Y7fZBvecXoEFb5"
+}

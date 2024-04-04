@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2oHZ8zd8mZpSO8UMoi9NBj"
+      },
+      "href": "https://api.spotify.com/v1/artists/2oHZ8zd8mZpSO8UMoi9NBj",
+      "id": "2oHZ8zd8mZpSO8UMoi9NBj",
+      "name": "Biel Rocha",
+      "type": "artist",
+      "uri": "spotify:artist:2oHZ8zd8mZpSO8UMoi9NBj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LDRgxN5FdngZ7ZrHAUFev"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LDRgxN5FdngZ7ZrHAUFev",
+      "id": "4LDRgxN5FdngZ7ZrHAUFev",
+      "name": "Dj Will Canalha",
+      "type": "artist",
+      "uri": "spotify:artist:4LDRgxN5FdngZ7ZrHAUFev"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 BIG Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 BIG Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059580071653"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/07sm47qSnPVhs8C36nwqeR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/07sm47qSnPVhs8C36nwqeR",
+  "id": "07sm47qSnPVhs8C36nwqeR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd9e3aee235453715fcecdcf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd9e3aee235453715fcecdcf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd9e3aee235453715fcecdcf",
+      "width": 64
+    }
+  ],
+  "label": "BIG Music",
+  "name": "Aqui dentro do meu quarto",
+  "popularity": 0,
+  "release_date": "2020-07-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/07sm47qSnPVhs8C36nwqeR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2oHZ8zd8mZpSO8UMoi9NBj"
+            },
+            "href": "https://api.spotify.com/v1/artists/2oHZ8zd8mZpSO8UMoi9NBj",
+            "id": "2oHZ8zd8mZpSO8UMoi9NBj",
+            "name": "Biel Rocha",
+            "type": "artist",
+            "uri": "spotify:artist:2oHZ8zd8mZpSO8UMoi9NBj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LDRgxN5FdngZ7ZrHAUFev"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LDRgxN5FdngZ7ZrHAUFev",
+            "id": "4LDRgxN5FdngZ7ZrHAUFev",
+            "name": "Dj Will Canalha",
+            "type": "artist",
+            "uri": "spotify:artist:4LDRgxN5FdngZ7ZrHAUFev"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wz306kfhCBTtqb9wuILIt"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wz306kfhCBTtqb9wuILIt",
+            "id": "5wz306kfhCBTtqb9wuILIt",
+            "name": "MC Rafa 22",
+            "type": "artist",
+            "uri": "spotify:artist:5wz306kfhCBTtqb9wuILIt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110041,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6AQl96xkE3nmTeY60Cjx3p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6AQl96xkE3nmTeY60Cjx3p",
+        "id": "6AQl96xkE3nmTeY60Cjx3p",
+        "is_local": false,
+        "name": "Aqui dentro do meu quarto",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6AQl96xkE3nmTeY60Cjx3p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:07sm47qSnPVhs8C36nwqeR"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3LIh5lV3zpZkgmO0K6R6bq",
+      "id": "3LIh5lV3zpZkgmO0K6R6bq",
+      "name": "JBEE",
+      "type": "artist",
+      "uri": "spotify:artist:3LIh5lV3zpZkgmO0K6R6bq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 JBee",
+      "type": "C"
+    },
+    {
+      "text": "2022 JBee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859760880274"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7dNdmqTyrNfjKOr8aOg3rX",
+  "id": "7dNdmqTyrNfjKOr8aOg3rX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735788c891bc14349309f68600",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025788c891bc14349309f68600",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515788c891bc14349309f68600",
+      "width": 64
+    }
+  ],
+  "label": "JBee",
+  "name": "Talking Stage",
+  "popularity": 12,
+  "release_date": "2022-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7dNdmqTyrNfjKOr8aOg3rX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3LIh5lV3zpZkgmO0K6R6bq",
+            "id": "3LIh5lV3zpZkgmO0K6R6bq",
+            "name": "JBEE",
+            "type": "artist",
+            "uri": "spotify:artist:3LIh5lV3zpZkgmO0K6R6bq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177464,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Kim4tV3HTnpaELmIh56lI",
+        "id": "3Kim4tV3HTnpaELmIh56lI",
+        "is_local": false,
+        "name": "Talking Stage",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Kim4tV3HTnpaELmIh56lI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7dNdmqTyrNfjKOr8aOg3rX"
+}

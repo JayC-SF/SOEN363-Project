@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HQGhla3VNj1dBmKTtVT2t",
+      "id": "1HQGhla3VNj1dBmKTtVT2t",
+      "name": "Ookay",
+      "type": "artist",
+      "uri": "spotify:artist:1HQGhla3VNj1dBmKTtVT2t"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BQWHuvxG4kMYnfghdaCIy",
+      "id": "2BQWHuvxG4kMYnfghdaCIy",
+      "name": "Fox Stevenson",
+      "type": "artist",
+      "uri": "spotify:artist:2BQWHuvxG4kMYnfghdaCIy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Monstercat",
+      "type": "C"
+    },
+    {
+      "text": "2017 Monstercat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859722698749"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4TrCML38KR7l75dxzbAddv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4TrCML38KR7l75dxzbAddv",
+  "id": "4TrCML38KR7l75dxzbAddv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273697dbca0c337b3a39e4eb01f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02697dbca0c337b3a39e4eb01f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851697dbca0c337b3a39e4eb01f",
+      "width": 64
+    }
+  ],
+  "label": "Monstercat",
+  "name": "Lighthouse",
+  "popularity": 0,
+  "release_date": "2017-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4TrCML38KR7l75dxzbAddv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HQGhla3VNj1dBmKTtVT2t",
+            "id": "1HQGhla3VNj1dBmKTtVT2t",
+            "name": "Ookay",
+            "type": "artist",
+            "uri": "spotify:artist:1HQGhla3VNj1dBmKTtVT2t"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BQWHuvxG4kMYnfghdaCIy",
+            "id": "2BQWHuvxG4kMYnfghdaCIy",
+            "name": "Fox Stevenson",
+            "type": "artist",
+            "uri": "spotify:artist:2BQWHuvxG4kMYnfghdaCIy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7C64YJ6V2SS9khaxfy1Ml5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7C64YJ6V2SS9khaxfy1Ml5",
+        "id": "7C64YJ6V2SS9khaxfy1Ml5",
+        "is_local": false,
+        "name": "Lighthouse",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7C64YJ6V2SS9khaxfy1Ml5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4TrCML38KR7l75dxzbAddv"
+}

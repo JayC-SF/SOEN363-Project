@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id": "16oZKvXb6WkQlVAjwo2Wbg",
+      "name": "The Lumineers",
+      "type": "artist",
+      "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2019 Dualtone Music Group, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2019 Dualtone Music Group, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "803020198227"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4FZhoGkCCrOoc2su5tBgrS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4FZhoGkCCrOoc2su5tBgrS",
+  "id": "4FZhoGkCCrOoc2su5tBgrS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273942454e0a8ebb330d8ce50b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02942454e0a8ebb330d8ce50b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851942454e0a8ebb330d8ce50b1",
+      "width": 64
+    }
+  ],
+  "label": "Dualtone Music Group, Inc.",
+  "name": "Gloria",
+  "popularity": 34,
+  "release_date": "2019-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4FZhoGkCCrOoc2su5tBgrS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+            },
+            "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+            "id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "name": "The Lumineers",
+            "type": "artist",
+            "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AoyIsLRZQ0UhedzzhnbKz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2AoyIsLRZQ0UhedzzhnbKz",
+        "id": "2AoyIsLRZQ0UhedzzhnbKz",
+        "is_local": false,
+        "name": "Gloria",
+        "preview_url": "https://p.scdn.co/mp3-preview/6012c5ed9dbc4d954bf7e842e134b20e73e88eaf?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2AoyIsLRZQ0UhedzzhnbKz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4FZhoGkCCrOoc2su5tBgrS"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dCOthvVvQDTCJevpyV0Wh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0dCOthvVvQDTCJevpyV0Wh",
+      "id": "0dCOthvVvQDTCJevpyV0Wh",
+      "name": "Mike Torres",
+      "type": "artist",
+      "uri": "spotify:artist:0dCOthvVvQDTCJevpyV0Wh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Mike Torres",
+      "type": "C"
+    },
+    {
+      "text": "2021 Mike Torres",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "616582423870"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4K3anFv81Izz8mStzYICeJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4K3anFv81Izz8mStzYICeJ",
+  "id": "4K3anFv81Izz8mStzYICeJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6106ed61fadb85c5a4d3fc5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6106ed61fadb85c5a4d3fc5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e6106ed61fadb85c5a4d3fc5",
+      "width": 64
+    }
+  ],
+  "label": "Mike Torres",
+  "name": "Amor de Tres",
+  "popularity": 0,
+  "release_date": "2021-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4K3anFv81Izz8mStzYICeJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0dCOthvVvQDTCJevpyV0Wh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0dCOthvVvQDTCJevpyV0Wh",
+            "id": "0dCOthvVvQDTCJevpyV0Wh",
+            "name": "Mike Torres",
+            "type": "artist",
+            "uri": "spotify:artist:0dCOthvVvQDTCJevpyV0Wh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210268,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74lIAFqK7oCkGdnssxuAWT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74lIAFqK7oCkGdnssxuAWT",
+        "id": "74lIAFqK7oCkGdnssxuAWT",
+        "is_local": false,
+        "name": "Amor de Tres",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74lIAFqK7oCkGdnssxuAWT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4K3anFv81Izz8mStzYICeJ"
+}

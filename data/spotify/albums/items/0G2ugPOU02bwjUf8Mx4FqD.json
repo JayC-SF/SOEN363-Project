@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mOiWC7OH9ANUtt3vd0A10",
+      "id": "1mOiWC7OH9ANUtt3vd0A10",
+      "name": "Shuko",
+      "type": "artist",
+      "uri": "spotify:artist:1mOiWC7OH9ANUtt3vd0A10"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SIxAAknV8iR2jHcQJ9Sfn",
+      "id": "0SIxAAknV8iR2jHcQJ9Sfn",
+      "name": "Ruck P",
+      "type": "artist",
+      "uri": "spotify:artist:0SIxAAknV8iR2jHcQJ9Sfn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 For The Love Of It",
+      "type": "C"
+    },
+    {
+      "text": "2019 For The Love Of It",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939378028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0G2ugPOU02bwjUf8Mx4FqD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0G2ugPOU02bwjUf8Mx4FqD",
+  "id": "0G2ugPOU02bwjUf8Mx4FqD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4bde04f5521d10e75301098",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4bde04f5521d10e75301098",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4bde04f5521d10e75301098",
+      "width": 64
+    }
+  ],
+  "label": "For The Love Of It",
+  "name": "Blue Skies",
+  "popularity": 0,
+  "release_date": "2019-08-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0G2ugPOU02bwjUf8Mx4FqD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mOiWC7OH9ANUtt3vd0A10",
+            "id": "1mOiWC7OH9ANUtt3vd0A10",
+            "name": "Shuko",
+            "type": "artist",
+            "uri": "spotify:artist:1mOiWC7OH9ANUtt3vd0A10"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SIxAAknV8iR2jHcQJ9Sfn",
+            "id": "0SIxAAknV8iR2jHcQJ9Sfn",
+            "name": "Ruck P",
+            "type": "artist",
+            "uri": "spotify:artist:0SIxAAknV8iR2jHcQJ9Sfn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125550,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sT1eylxrupi2gOCtGjvU9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sT1eylxrupi2gOCtGjvU9",
+        "id": "5sT1eylxrupi2gOCtGjvU9",
+        "is_local": false,
+        "name": "Blue Skies",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5sT1eylxrupi2gOCtGjvU9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0G2ugPOU02bwjUf8Mx4FqD"
+}

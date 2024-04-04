@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3tN4jv8IaO9UAKTWqpXaV4",
+      "id": "3tN4jv8IaO9UAKTWqpXaV4",
+      "name": "Mia Julia",
+      "type": "artist",
+      "uri": "spotify:artist:3tN4jv8IaO9UAKTWqpXaV4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Summerfield Records",
+      "type": "C"
+    },
+    {
+      "text": "2013 Summerfield Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260149072542"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gsykJQx68hDI54BhOxNf3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3gsykJQx68hDI54BhOxNf3",
+  "id": "3gsykJQx68hDI54BhOxNf3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273832cbe0cebfcef6a8e284122",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02832cbe0cebfcef6a8e284122",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851832cbe0cebfcef6a8e284122",
+      "width": 64
+    }
+  ],
+  "label": "Summerfield Records",
+  "name": "Oh Baby",
+  "popularity": 21,
+  "release_date": "2013-05-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3gsykJQx68hDI54BhOxNf3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3tN4jv8IaO9UAKTWqpXaV4",
+            "id": "3tN4jv8IaO9UAKTWqpXaV4",
+            "name": "Mia Julia",
+            "type": "artist",
+            "uri": "spotify:artist:3tN4jv8IaO9UAKTWqpXaV4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191163,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QdoTrm0wKd2wF3vkatE44"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QdoTrm0wKd2wF3vkatE44",
+        "id": "1QdoTrm0wKd2wF3vkatE44",
+        "is_local": false,
+        "name": "Oh Baby",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1QdoTrm0wKd2wF3vkatE44"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3gsykJQx68hDI54BhOxNf3"
+}

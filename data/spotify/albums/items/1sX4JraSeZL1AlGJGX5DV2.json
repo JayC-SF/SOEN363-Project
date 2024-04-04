@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fhMfkPPzksWuw0hEm4ldm",
+      "id": "3fhMfkPPzksWuw0hEm4ldm",
+      "name": "Ernia",
+      "type": "artist",
+      "uri": "spotify:artist:3fhMfkPPzksWuw0hEm4ldm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Universal Music Italia Srl",
+      "type": "C"
+    },
+    {
+      "text": "An Island Records release; \u2117 2019 Universal Music Italia Srl",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577647512"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1sX4JraSeZL1AlGJGX5DV2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1sX4JraSeZL1AlGJGX5DV2",
+  "id": "1sX4JraSeZL1AlGJGX5DV2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5d40e5557bd790454eed93e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5d40e5557bd790454eed93e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5d40e5557bd790454eed93e",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Italia srL.",
+  "name": "Certi Giorni",
+  "popularity": 0,
+  "release_date": "2019-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1sX4JraSeZL1AlGJGX5DV2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fhMfkPPzksWuw0hEm4ldm",
+            "id": "3fhMfkPPzksWuw0hEm4ldm",
+            "name": "Ernia",
+            "type": "artist",
+            "uri": "spotify:artist:3fhMfkPPzksWuw0hEm4ldm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jQZzWW3JlEtcRDSzFVKSP",
+            "id": "6jQZzWW3JlEtcRDSzFVKSP",
+            "name": "Nitro",
+            "type": "artist",
+            "uri": "spotify:artist:6jQZzWW3JlEtcRDSzFVKSP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194651,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MiWbrDdfI2B56wiJPfObl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MiWbrDdfI2B56wiJPfObl",
+        "id": "2MiWbrDdfI2B56wiJPfObl",
+        "is_local": false,
+        "name": "Certi Giorni (feat. Nitro)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2MiWbrDdfI2B56wiJPfObl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1sX4JraSeZL1AlGJGX5DV2"
+}

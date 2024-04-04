@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy"
+      },
+      "href": "https://api.spotify.com/v1/artists/10vRxHWrGthzWjNMCNvUHy",
+      "id": "10vRxHWrGthzWjNMCNvUHy",
+      "name": "The High Curbs",
+      "type": "artist",
+      "uri": "spotify:artist:10vRxHWrGthzWjNMCNvUHy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Burger Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Burger Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859720639263"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1IvxhyBfCymS7LvdRvtPGp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1IvxhyBfCymS7LvdRvtPGp",
+  "id": "1IvxhyBfCymS7LvdRvtPGp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338f21fd2227f84668be1b068",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238f21fd2227f84668be1b068",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138f21fd2227f84668be1b068",
+      "width": 64
+    }
+  ],
+  "label": "Burger Records",
+  "name": "Empty Bottles / Want",
+  "popularity": 0,
+  "release_date": "2017-04-24",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1IvxhyBfCymS7LvdRvtPGp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy"
+            },
+            "href": "https://api.spotify.com/v1/artists/10vRxHWrGthzWjNMCNvUHy",
+            "id": "10vRxHWrGthzWjNMCNvUHy",
+            "name": "The High Curbs",
+            "type": "artist",
+            "uri": "spotify:artist:10vRxHWrGthzWjNMCNvUHy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153662,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uB0NU7NWIZF89dVMUuw6f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5uB0NU7NWIZF89dVMUuw6f",
+        "id": "5uB0NU7NWIZF89dVMUuw6f",
+        "is_local": false,
+        "name": "Empty Bottles",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5uB0NU7NWIZF89dVMUuw6f"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy"
+            },
+            "href": "https://api.spotify.com/v1/artists/10vRxHWrGthzWjNMCNvUHy",
+            "id": "10vRxHWrGthzWjNMCNvUHy",
+            "name": "The High Curbs",
+            "type": "artist",
+            "uri": "spotify:artist:10vRxHWrGthzWjNMCNvUHy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146816,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/536z8B5w6EtvjvRgeCaE5s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/536z8B5w6EtvjvRgeCaE5s",
+        "id": "536z8B5w6EtvjvRgeCaE5s",
+        "is_local": false,
+        "name": "Want",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:536z8B5w6EtvjvRgeCaE5s"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1IvxhyBfCymS7LvdRvtPGp"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3AmgGrYHXqgbmZ2yKoIVzO",
+      "id": "3AmgGrYHXqgbmZ2yKoIVzO",
+      "name": "Warpaint",
+      "type": "artist",
+      "uri": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Manimal Group, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2014 Manimal Group, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0191773932275"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4pzabQeMupQdkZmzoSBA7H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4pzabQeMupQdkZmzoSBA7H",
+  "id": "4pzabQeMupQdkZmzoSBA7H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fdf6f7a14c8cea35f9bc4a36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fdf6f7a14c8cea35f9bc4a36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fdf6f7a14c8cea35f9bc4a36",
+      "width": 64
+    }
+  ],
+  "label": "Centaurus A Pictures",
+  "name": "The Chauffeur",
+  "popularity": 0,
+  "release_date": "2014-10-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4pzabQeMupQdkZmzoSBA7H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AmgGrYHXqgbmZ2yKoIVzO",
+            "id": "3AmgGrYHXqgbmZ2yKoIVzO",
+            "name": "Warpaint",
+            "type": "artist",
+            "uri": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 354429,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24Varmq7lRTJa8PxZcX7b2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/24Varmq7lRTJa8PxZcX7b2",
+        "id": "24Varmq7lRTJa8PxZcX7b2",
+        "is_local": false,
+        "name": "The Chauffeur",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:24Varmq7lRTJa8PxZcX7b2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4pzabQeMupQdkZmzoSBA7H"
+}

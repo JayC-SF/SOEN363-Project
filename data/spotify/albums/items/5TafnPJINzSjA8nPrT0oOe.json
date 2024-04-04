@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6H64Io4h1BP8H2peKMCKKl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6H64Io4h1BP8H2peKMCKKl",
+      "id": "6H64Io4h1BP8H2peKMCKKl",
+      "name": "Ghetto Swing",
+      "type": "artist",
+      "uri": "spotify:artist:6H64Io4h1BP8H2peKMCKKl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2000 Chillifunk",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2000 Chillifunk",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260073715003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5TafnPJINzSjA8nPrT0oOe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5TafnPJINzSjA8nPrT0oOe",
+  "id": "5TafnPJINzSjA8nPrT0oOe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273716ebcd953b5327e14821734",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02716ebcd953b5327e14821734",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851716ebcd953b5327e14821734",
+      "width": 64
+    }
+  ],
+  "label": "Chillifunk",
+  "name": "Mundo Latino",
+  "popularity": 0,
+  "release_date": "2000",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5TafnPJINzSjA8nPrT0oOe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6H64Io4h1BP8H2peKMCKKl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6H64Io4h1BP8H2peKMCKKl",
+            "id": "6H64Io4h1BP8H2peKMCKKl",
+            "name": "Ghetto Swing",
+            "type": "artist",
+            "uri": "spotify:artist:6H64Io4h1BP8H2peKMCKKl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 372400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sQCKynyb5z0fnrSgsoNRx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sQCKynyb5z0fnrSgsoNRx",
+        "id": "6sQCKynyb5z0fnrSgsoNRx",
+        "is_local": false,
+        "name": "Mundo Latino - Mundo Latino",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6sQCKynyb5z0fnrSgsoNRx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6H64Io4h1BP8H2peKMCKKl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6H64Io4h1BP8H2peKMCKKl",
+            "id": "6H64Io4h1BP8H2peKMCKKl",
+            "name": "Ghetto Swing",
+            "type": "artist",
+            "uri": "spotify:artist:6H64Io4h1BP8H2peKMCKKl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 406533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kikj2J2mxPlA15qoVboKb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kikj2J2mxPlA15qoVboKb",
+        "id": "3kikj2J2mxPlA15qoVboKb",
+        "is_local": false,
+        "name": "Mundo Latino - Mundo Drums",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3kikj2J2mxPlA15qoVboKb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5TafnPJINzSjA8nPrT0oOe"
+}

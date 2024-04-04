@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3uKSQRJFp1pnRWT95Yso12"
+      },
+      "href": "https://api.spotify.com/v1/artists/3uKSQRJFp1pnRWT95Yso12",
+      "id": "3uKSQRJFp1pnRWT95Yso12",
+      "name": "DM Galaxy",
+      "type": "artist",
+      "uri": "spotify:artist:3uKSQRJFp1pnRWT95Yso12"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qz8iDFpz4HGq8WfzjCaEz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qz8iDFpz4HGq8WfzjCaEz",
+      "id": "2qz8iDFpz4HGq8WfzjCaEz",
+      "name": "Tyler Fiore",
+      "type": "artist",
+      "uri": "spotify:artist:2qz8iDFpz4HGq8WfzjCaEz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199509938"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6bNnV2W3BH5FqJrPQ2CsK2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6bNnV2W3BH5FqJrPQ2CsK2",
+  "id": "6bNnV2W3BH5FqJrPQ2CsK2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a167f76e547c2707f8681b2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a167f76e547c2707f8681b2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a167f76e547c2707f8681b2",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Paralyzed",
+  "popularity": 0,
+  "release_date": "2014-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6bNnV2W3BH5FqJrPQ2CsK2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3uKSQRJFp1pnRWT95Yso12"
+            },
+            "href": "https://api.spotify.com/v1/artists/3uKSQRJFp1pnRWT95Yso12",
+            "id": "3uKSQRJFp1pnRWT95Yso12",
+            "name": "DM Galaxy",
+            "type": "artist",
+            "uri": "spotify:artist:3uKSQRJFp1pnRWT95Yso12"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qz8iDFpz4HGq8WfzjCaEz"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qz8iDFpz4HGq8WfzjCaEz",
+            "id": "2qz8iDFpz4HGq8WfzjCaEz",
+            "name": "Tyler Fiore",
+            "type": "artist",
+            "uri": "spotify:artist:2qz8iDFpz4HGq8WfzjCaEz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229776,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14png6AXFQpm57JhqgmjWy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14png6AXFQpm57JhqgmjWy",
+        "id": "14png6AXFQpm57JhqgmjWy",
+        "is_local": false,
+        "name": "Paralyzed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:14png6AXFQpm57JhqgmjWy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6bNnV2W3BH5FqJrPQ2CsK2"
+}

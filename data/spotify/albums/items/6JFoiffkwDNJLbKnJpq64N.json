@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jZycSvTyx0W9poD4PjEIG",
+      "id": "7jZycSvTyx0W9poD4PjEIG",
+      "name": "The Hunna",
+      "type": "artist",
+      "uri": "spotify:artist:7jZycSvTyx0W9poD4PjEIG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 High Time Records",
+      "type": "C"
+    },
+    {
+      "text": "2015 High Time Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859715740226"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6JFoiffkwDNJLbKnJpq64N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6JFoiffkwDNJLbKnJpq64N",
+  "id": "6JFoiffkwDNJLbKnJpq64N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fb7de5afd8d9284041279a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fb7de5afd8d9284041279a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fb7de5afd8d9284041279a8",
+      "width": 64
+    }
+  ],
+  "label": "High Time Records",
+  "name": "Bonfire",
+  "popularity": 0,
+  "release_date": "2015-10-12",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6JFoiffkwDNJLbKnJpq64N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jZycSvTyx0W9poD4PjEIG",
+            "id": "7jZycSvTyx0W9poD4PjEIG",
+            "name": "The Hunna",
+            "type": "artist",
+            "uri": "spotify:artist:7jZycSvTyx0W9poD4PjEIG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178840,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TqAhfhLF680HcC5NxNKbA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TqAhfhLF680HcC5NxNKbA",
+        "id": "5TqAhfhLF680HcC5NxNKbA",
+        "is_local": false,
+        "name": "Bonfire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5TqAhfhLF680HcC5NxNKbA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jZycSvTyx0W9poD4PjEIG",
+            "id": "7jZycSvTyx0W9poD4PjEIG",
+            "name": "The Hunna",
+            "type": "artist",
+            "uri": "spotify:artist:7jZycSvTyx0W9poD4PjEIG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183602,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tDp555zHsHK3nQYbo6abN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4tDp555zHsHK3nQYbo6abN",
+        "id": "4tDp555zHsHK3nQYbo6abN",
+        "is_local": false,
+        "name": "She's Casual",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4tDp555zHsHK3nQYbo6abN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6JFoiffkwDNJLbKnJpq64N"
+}

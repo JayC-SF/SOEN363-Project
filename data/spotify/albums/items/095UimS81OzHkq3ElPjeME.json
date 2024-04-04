@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Q81rlcTFh3k6DQJXPdsot",
+      "id": "5Q81rlcTFh3k6DQJXPdsot",
+      "name": "Mura Masa",
+      "type": "artist",
+      "uri": "spotify:artist:5Q81rlcTFh3k6DQJXPdsot"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Anchor Point Records, under exclusive licence to Polydor Records, a division of Universal Music Operations Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Anchor Point Records, under exclusive licence to Polydor Records, a division of Universal Music Operations Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557170252"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/095UimS81OzHkq3ElPjeME"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/095UimS81OzHkq3ElPjeME",
+  "id": "095UimS81OzHkq3ElPjeME",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333298f00975dcbaab9af3b51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233298f00975dcbaab9af3b51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133298f00975dcbaab9af3b51",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Division Mercury Records",
+  "name": "Love$ick",
+  "popularity": 0,
+  "release_date": "2016-09-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/095UimS81OzHkq3ElPjeME/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Q81rlcTFh3k6DQJXPdsot",
+            "id": "5Q81rlcTFh3k6DQJXPdsot",
+            "name": "Mura Masa",
+            "type": "artist",
+            "uri": "spotify:artist:5Q81rlcTFh3k6DQJXPdsot"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+            },
+            "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+            "id": "13ubrt8QOOCPljQ2FL1Kca",
+            "name": "A$AP Rocky",
+            "type": "artist",
+            "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192154,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0t2myRMEMCi2SRyg5TEFLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0t2myRMEMCi2SRyg5TEFLp",
+        "id": "0t2myRMEMCi2SRyg5TEFLp",
+        "is_local": false,
+        "name": "Love$ick",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0t2myRMEMCi2SRyg5TEFLp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:095UimS81OzHkq3ElPjeME"
+}

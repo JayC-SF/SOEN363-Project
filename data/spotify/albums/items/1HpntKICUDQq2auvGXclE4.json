@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+      "id": "0qT79UgT5tY4yudH9VfsdT",
+      "name": "Sum 41",
+      "type": "artist",
+      "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Hopeless Records, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2019 Hopeless Records, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "790692268665"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1HpntKICUDQq2auvGXclE4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1HpntKICUDQq2auvGXclE4",
+  "id": "1HpntKICUDQq2auvGXclE4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27378e57037b4ee72c2667e897a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0278e57037b4ee72c2667e897a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485178e57037b4ee72c2667e897a",
+      "width": 64
+    }
+  ],
+  "label": "Hopeless Records",
+  "name": "Out For Blood",
+  "popularity": 0,
+  "release_date": "2019-04-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1HpntKICUDQq2auvGXclE4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qT79UgT5tY4yudH9VfsdT",
+            "id": "0qT79UgT5tY4yudH9VfsdT",
+            "name": "Sum 41",
+            "type": "artist",
+            "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216571,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4x241uAmPrxKZdCZKt2r5t",
+        "id": "4x241uAmPrxKZdCZKt2r5t",
+        "is_local": false,
+        "name": "Out For Blood",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4x241uAmPrxKZdCZKt2r5t"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1HpntKICUDQq2auvGXclE4"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+      },
+      "href": "https://api.spotify.com/v1/artists/6XrEYPg6rrQMV4GKabTxbE",
+      "id": "6XrEYPg6rrQMV4GKabTxbE",
+      "name": "breathe.",
+      "type": "artist",
+      "uri": "spotify:artist:6XrEYPg6rrQMV4GKabTxbE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Silk",
+      "type": "C"
+    },
+    {
+      "text": "2019 Silk",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526890619"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/191t2Rd7QU3NbupbMbjgUP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/191t2Rd7QU3NbupbMbjgUP",
+  "id": "191t2Rd7QU3NbupbMbjgUP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324045be13f2b2cf48dbc8e02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224045be13f2b2cf48dbc8e02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124045be13f2b2cf48dbc8e02",
+      "width": 64
+    }
+  ],
+  "label": "Silk",
+  "name": "London",
+  "popularity": 0,
+  "release_date": "2019-02-22",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/191t2Rd7QU3NbupbMbjgUP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+            },
+            "href": "https://api.spotify.com/v1/artists/6XrEYPg6rrQMV4GKabTxbE",
+            "id": "6XrEYPg6rrQMV4GKabTxbE",
+            "name": "breathe.",
+            "type": "artist",
+            "uri": "spotify:artist:6XrEYPg6rrQMV4GKabTxbE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209664,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DyJ34GNKHOlgFueTfTqVB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DyJ34GNKHOlgFueTfTqVB",
+        "id": "7DyJ34GNKHOlgFueTfTqVB",
+        "is_local": false,
+        "name": "London",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7DyJ34GNKHOlgFueTfTqVB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+            },
+            "href": "https://api.spotify.com/v1/artists/6XrEYPg6rrQMV4GKabTxbE",
+            "id": "6XrEYPg6rrQMV4GKabTxbE",
+            "name": "breathe.",
+            "type": "artist",
+            "uri": "spotify:artist:6XrEYPg6rrQMV4GKabTxbE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191974,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kt7yK7e8c6ELn7mzb5UCQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kt7yK7e8c6ELn7mzb5UCQ",
+        "id": "1kt7yK7e8c6ELn7mzb5UCQ",
+        "is_local": false,
+        "name": "Are You All Good?",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1kt7yK7e8c6ELn7mzb5UCQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:191t2Rd7QU3NbupbMbjgUP"
+}

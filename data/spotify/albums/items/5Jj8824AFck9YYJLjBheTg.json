@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+      },
+      "href": "https://api.spotify.com/v1/artists/1wJNeTGqvB8WVYak3HC3pk",
+      "id": "1wJNeTGqvB8WVYak3HC3pk",
+      "name": "Hucci",
+      "type": "artist",
+      "uri": "spotify:artist:1wJNeTGqvB8WVYak3HC3pk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Hucci Music Worldwide",
+      "type": "C"
+    },
+    {
+      "text": "2020 Hucci Music Worldwide",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395202587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Jj8824AFck9YYJLjBheTg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Jj8824AFck9YYJLjBheTg",
+  "id": "5Jj8824AFck9YYJLjBheTg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d11d8930b0e473003fd4d7d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d11d8930b0e473003fd4d7d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d11d8930b0e473003fd4d7d6",
+      "width": 64
+    }
+  ],
+  "label": "Hucci Music Worldwide",
+  "name": "Desire (Slowed)",
+  "popularity": 0,
+  "release_date": "2020-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Jj8824AFck9YYJLjBheTg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wJNeTGqvB8WVYak3HC3pk",
+            "id": "1wJNeTGqvB8WVYak3HC3pk",
+            "name": "Hucci",
+            "type": "artist",
+            "uri": "spotify:artist:1wJNeTGqvB8WVYak3HC3pk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247684,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZCxG8ZNlJoeAvAD6kdPuB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZCxG8ZNlJoeAvAD6kdPuB",
+        "id": "4ZCxG8ZNlJoeAvAD6kdPuB",
+        "is_local": false,
+        "name": "Desire - Slowed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ZCxG8ZNlJoeAvAD6kdPuB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Jj8824AFck9YYJLjBheTg"
+}

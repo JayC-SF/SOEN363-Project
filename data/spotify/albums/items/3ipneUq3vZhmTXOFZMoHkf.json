@@ -1,0 +1,664 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+      },
+      "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+      "id": "67ea9eGLXYMsO2eYQRui3w",
+      "name": "The Who",
+      "type": "artist",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 1995 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1995 Polydor Ltd. (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00731452776020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ipneUq3vZhmTXOFZMoHkf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ipneUq3vZhmTXOFZMoHkf",
+  "id": "3ipneUq3vZhmTXOFZMoHkf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b32fd29ab8b2def601ab80a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b32fd29ab8b2def601ab80a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b32fd29ab8b2def601ab80a",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Who's Next (Remastered)",
+  "popularity": 0,
+  "release_date": "1971-08-14",
+  "release_date_precision": "day",
+  "total_tracks": 16,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ipneUq3vZhmTXOFZMoHkf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FnXkNsjL5aWQfHY7QVGzm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FnXkNsjL5aWQfHY7QVGzm",
+        "id": "0FnXkNsjL5aWQfHY7QVGzm",
+        "is_local": false,
+        "name": "Baba O'Riley - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0FnXkNsjL5aWQfHY7QVGzm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 332973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6klWeTm2dZQXjAh3IuHW3O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6klWeTm2dZQXjAh3IuHW3O",
+        "id": "6klWeTm2dZQXjAh3IuHW3O",
+        "is_local": false,
+        "name": "Bargain",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6klWeTm2dZQXjAh3IuHW3O"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 130306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dtFNUsayBuKUnTOVd2MLG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dtFNUsayBuKUnTOVd2MLG",
+        "id": "3dtFNUsayBuKUnTOVd2MLG",
+        "is_local": false,
+        "name": "Love Ain't For Keeping",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3dtFNUsayBuKUnTOVd2MLG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35Wgs1qKhj35dC1lmik8hH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/35Wgs1qKhj35dC1lmik8hH",
+        "id": "35Wgs1qKhj35dC1lmik8hH",
+        "is_local": false,
+        "name": "My Wife - Remix",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:35Wgs1qKhj35dC1lmik8hH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 374026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0L1pPd2unRsytT2s9qdxtq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0L1pPd2unRsytT2s9qdxtq",
+        "id": "0L1pPd2unRsytT2s9qdxtq",
+        "is_local": false,
+        "name": "The Song Is Over",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0L1pPd2unRsytT2s9qdxtq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 290240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qKBKE1qWrbZLdFgCIZPXV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qKBKE1qWrbZLdFgCIZPXV",
+        "id": "4qKBKE1qWrbZLdFgCIZPXV",
+        "is_local": false,
+        "name": "Getting In Tune",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4qKBKE1qWrbZLdFgCIZPXV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HWjMAZgaKN6gDIADvhG0j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HWjMAZgaKN6gDIADvhG0j",
+        "id": "1HWjMAZgaKN6gDIADvhG0j",
+        "is_local": false,
+        "name": "Going Mobile - Remix",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1HWjMAZgaKN6gDIADvhG0j"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X59ZxwE9x4pWnxsxKhr1E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2X59ZxwE9x4pWnxsxKhr1E",
+        "id": "2X59ZxwE9x4pWnxsxKhr1E",
+        "is_local": false,
+        "name": "Behind Blue Eyes",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2X59ZxwE9x4pWnxsxKhr1E"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 512325,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6O6M5tLmzgfsmRs4GTKZDo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6O6M5tLmzgfsmRs4GTKZDo",
+        "id": "6O6M5tLmzgfsmRs4GTKZDo",
+        "is_local": false,
+        "name": "Won't Get Fooled Again - Remix",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6O6M5tLmzgfsmRs4GTKZDo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 259893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VxnS6f5dSFcGdANg0ySdJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VxnS6f5dSFcGdANg0ySdJ",
+        "id": "5VxnS6f5dSFcGdANg0ySdJ",
+        "is_local": false,
+        "name": "Pure And Easy",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5VxnS6f5dSFcGdANg0ySdJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ks4E3VJXDIRABtxz2IiBE",
+            "id": "0ks4E3VJXDIRABtxz2IiBE",
+            "name": "Leslie West",
+            "type": "artist",
+            "uri": "spotify:artist:0ks4E3VJXDIRABtxz2IiBE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 313800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4z99YOKo31CORxm3r1DuzE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4z99YOKo31CORxm3r1DuzE",
+        "id": "4z99YOKo31CORxm3r1DuzE",
+        "is_local": false,
+        "name": "Baby Don't You Do It",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4z99YOKo31CORxm3r1DuzE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 331023,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30lVXFls2ljSwL191xAfn6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30lVXFls2ljSwL191xAfn6",
+        "id": "30lVXFls2ljSwL191xAfn6",
+        "is_local": false,
+        "name": "Naked Eye - The Young Vic Theatre Live Version",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:30lVXFls2ljSwL191xAfn6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3eLgh6OisMjiR9tWPyZCp5",
+            "id": "3eLgh6OisMjiR9tWPyZCp5",
+            "name": "Andy Macpherson",
+            "type": "artist",
+            "uri": "spotify:artist:3eLgh6OisMjiR9tWPyZCp5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I8A3N4AgFS3geeMC8uh8I",
+            "id": "1I8A3N4AgFS3geeMC8uh8I",
+            "name": "Jon Astley",
+            "type": "artist",
+            "uri": "spotify:artist:1I8A3N4AgFS3geeMC8uh8I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 385573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ysHxdgubVQQX5ee98X3Pe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ysHxdgubVQQX5ee98X3Pe",
+        "id": "1ysHxdgubVQQX5ee98X3Pe",
+        "is_local": false,
+        "name": "Water - The Young Vic Theatre Live Version",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1ysHxdgubVQQX5ee98X3Pe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oFSDUi4VgAWAn7t5RNaan",
+            "id": "4oFSDUi4VgAWAn7t5RNaan",
+            "name": "Nicky Hopkins",
+            "type": "artist",
+            "uri": "spotify:artist:4oFSDUi4VgAWAn7t5RNaan"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wEE7UlafmZ7e5eUGWieSE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wEE7UlafmZ7e5eUGWieSE",
+        "id": "6wEE7UlafmZ7e5eUGWieSE",
+        "is_local": false,
+        "name": "Too Much Of Anything",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6wEE7UlafmZ7e5eUGWieSE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 294506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CmmdtbbZFW8NrBBAfZLHU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2CmmdtbbZFW8NrBBAfZLHU",
+        "id": "2CmmdtbbZFW8NrBBAfZLHU",
+        "is_local": false,
+        "name": "I Don't Even Know Myself",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2CmmdtbbZFW8NrBBAfZLHU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+            },
+            "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "name": "The Who",
+            "type": "artist",
+            "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+            },
+            "href": "https://api.spotify.com/v1/artists/49JvZ17o0VaAmXaJv5kZlv",
+            "id": "49JvZ17o0VaAmXaJv5kZlv",
+            "name": "Al Kooper",
+            "type": "artist",
+            "uri": "spotify:artist:49JvZ17o0VaAmXaJv5kZlv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kB6ll6yoBOcwyJq7YOP6B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2kB6ll6yoBOcwyJq7YOP6B",
+        "id": "2kB6ll6yoBOcwyJq7YOP6B",
+        "is_local": false,
+        "name": "Behind Blue Eyes - Alternate Studio Version",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2kB6ll6yoBOcwyJq7YOP6B"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  },
+  "type": "album",
+  "uri": "spotify:album:3ipneUq3vZhmTXOFZMoHkf"
+}

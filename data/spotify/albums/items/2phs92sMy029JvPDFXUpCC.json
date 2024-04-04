@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+      },
+      "href": "https://api.spotify.com/v1/artists/23wEWD21D4TPYiJugoXmYb",
+      "id": "23wEWD21D4TPYiJugoXmYb",
+      "name": "Thalia",
+      "type": "artist",
+      "uri": "spotify:artist:23wEWD21D4TPYiJugoXmYb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GDbiv3spRmZ1XdM1jQbT7",
+      "id": "1GDbiv3spRmZ1XdM1jQbT7",
+      "name": "NATTI NATASHA",
+      "type": "artist",
+      "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2018 Sony Music Entertainment US Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447109960"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2phs92sMy029JvPDFXUpCC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2phs92sMy029JvPDFXUpCC",
+  "id": "2phs92sMy029JvPDFXUpCC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332704db02152ad74c0a795a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232704db02152ad74c0a795a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132704db02152ad74c0a795a9",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Latin",
+  "name": "No Me Acuerdo",
+  "popularity": 0,
+  "release_date": "2018-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2phs92sMy029JvPDFXUpCC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+            },
+            "href": "https://api.spotify.com/v1/artists/23wEWD21D4TPYiJugoXmYb",
+            "id": "23wEWD21D4TPYiJugoXmYb",
+            "name": "Thalia",
+            "type": "artist",
+            "uri": "spotify:artist:23wEWD21D4TPYiJugoXmYb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GDbiv3spRmZ1XdM1jQbT7",
+            "id": "1GDbiv3spRmZ1XdM1jQbT7",
+            "name": "NATTI NATASHA",
+            "type": "artist",
+            "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00EPIEnX1JFjff8sC6bccd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00EPIEnX1JFjff8sC6bccd",
+        "id": "00EPIEnX1JFjff8sC6bccd",
+        "is_local": false,
+        "name": "No Me Acuerdo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:00EPIEnX1JFjff8sC6bccd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2phs92sMy029JvPDFXUpCC"
+}

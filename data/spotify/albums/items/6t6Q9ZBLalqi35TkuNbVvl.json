@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1caBfBEapzw8z2Qz9q0OaQ",
+      "id": "1caBfBEapzw8z2Qz9q0OaQ",
+      "name": "Asking Alexandria",
+      "type": "artist",
+      "uri": "spotify:artist:1caBfBEapzw8z2Qz9q0OaQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Sumerian Records",
+      "type": "C"
+    },
+    {
+      "text": "2011 Sumerian Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "817424010450"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6t6Q9ZBLalqi35TkuNbVvl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6t6Q9ZBLalqi35TkuNbVvl",
+  "id": "6t6Q9ZBLalqi35TkuNbVvl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273978d6206278ea11d993f525b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02978d6206278ea11d993f525b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851978d6206278ea11d993f525b",
+      "width": 64
+    }
+  ],
+  "label": "Sumerian Records",
+  "name": "Life Gone Wild",
+  "popularity": 0,
+  "release_date": "2011-10-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6t6Q9ZBLalqi35TkuNbVvl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1caBfBEapzw8z2Qz9q0OaQ",
+            "id": "1caBfBEapzw8z2Qz9q0OaQ",
+            "name": "Asking Alexandria",
+            "type": "artist",
+            "uri": "spotify:artist:1caBfBEapzw8z2Qz9q0OaQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226650,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67VXOzWdPQUljBt2vhXyVh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/67VXOzWdPQUljBt2vhXyVh",
+        "id": "67VXOzWdPQUljBt2vhXyVh",
+        "is_local": false,
+        "name": "Youth Gone Wild",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:67VXOzWdPQUljBt2vhXyVh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6t6Q9ZBLalqi35TkuNbVvl"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "name": "Bad Bunny",
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Rimas Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843357170169"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4BTzqI5BYJZscSgm1TUncT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4BTzqI5BYJZscSgm1TUncT",
+  "id": "4BTzqI5BYJZscSgm1TUncT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273110ef54c534277d7d7419491",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02110ef54c534277d7d7419491",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851110ef54c534277d7d7419491",
+      "width": 64
+    }
+  ],
+  "label": "Rimas Music",
+  "name": "Estamos Bien",
+  "popularity": 0,
+  "release_date": "2018-06-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4BTzqI5BYJZscSgm1TUncT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "type": "artist",
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208079,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7glCSQqV5o6NU88Cn4zPZn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7glCSQqV5o6NU88Cn4zPZn",
+        "id": "7glCSQqV5o6NU88Cn4zPZn",
+        "is_local": false,
+        "name": "Estamos Bien",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7glCSQqV5o6NU88Cn4zPZn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4BTzqI5BYJZscSgm1TUncT"
+}

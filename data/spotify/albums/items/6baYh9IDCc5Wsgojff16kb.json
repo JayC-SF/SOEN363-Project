@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
+      },
+      "href": "https://api.spotify.com/v1/artists/0FR1DkepvHaDMQnmJF4fVg",
+      "id": "0FR1DkepvHaDMQnmJF4fVg",
+      "name": "Bonray",
+      "type": "artist",
+      "uri": "spotify:artist:0FR1DkepvHaDMQnmJF4fVg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Bonray",
+      "type": "C"
+    },
+    {
+      "text": "2019 Bonray",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859734041021"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6baYh9IDCc5Wsgojff16kb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6baYh9IDCc5Wsgojff16kb",
+  "id": "6baYh9IDCc5Wsgojff16kb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336c9d823c499dde087fbd9cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236c9d823c499dde087fbd9cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136c9d823c499dde087fbd9cc",
+      "width": 64
+    }
+  ],
+  "label": "Bonray",
+  "name": "Better Than OK",
+  "popularity": 0,
+  "release_date": "2019-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6baYh9IDCc5Wsgojff16kb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0FR1DkepvHaDMQnmJF4fVg",
+            "id": "0FR1DkepvHaDMQnmJF4fVg",
+            "name": "Bonray",
+            "type": "artist",
+            "uri": "spotify:artist:0FR1DkepvHaDMQnmJF4fVg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qxsSvOgfIh1DzbsCDtL2X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qxsSvOgfIh1DzbsCDtL2X",
+        "id": "0qxsSvOgfIh1DzbsCDtL2X",
+        "is_local": false,
+        "name": "Better Than OK",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0qxsSvOgfIh1DzbsCDtL2X"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6baYh9IDCc5Wsgojff16kb"
+}

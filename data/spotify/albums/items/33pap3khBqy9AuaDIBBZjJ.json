@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68LM3gnzfl4W5fkfLIxbQJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/68LM3gnzfl4W5fkfLIxbQJ",
+      "id": "68LM3gnzfl4W5fkfLIxbQJ",
+      "name": "Mois",
+      "type": "artist",
+      "uri": "spotify:artist:68LM3gnzfl4W5fkfLIxbQJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Keller GmbH distributed by Epic Records Germany - a division of Sony Music Entertainment Germany GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448186571"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33pap3khBqy9AuaDIBBZjJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33pap3khBqy9AuaDIBBZjJ",
+  "id": "33pap3khBqy9AuaDIBBZjJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f541c7caf59f4029b00b17b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f541c7caf59f4029b00b17b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f541c7caf59f4029b00b17b",
+      "width": 64
+    }
+  ],
+  "label": "Epic/Keller GmbH",
+  "name": "Dada",
+  "popularity": 0,
+  "release_date": "2019-12-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33pap3khBqy9AuaDIBBZjJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68LM3gnzfl4W5fkfLIxbQJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/68LM3gnzfl4W5fkfLIxbQJ",
+            "id": "68LM3gnzfl4W5fkfLIxbQJ",
+            "name": "Mois",
+            "type": "artist",
+            "uri": "spotify:artist:68LM3gnzfl4W5fkfLIxbQJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BiW2Y9VlCAtnhPzKsNbIn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BiW2Y9VlCAtnhPzKsNbIn",
+        "id": "0BiW2Y9VlCAtnhPzKsNbIn",
+        "is_local": false,
+        "name": "Dada",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BiW2Y9VlCAtnhPzKsNbIn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33pap3khBqy9AuaDIBBZjJ"
+}

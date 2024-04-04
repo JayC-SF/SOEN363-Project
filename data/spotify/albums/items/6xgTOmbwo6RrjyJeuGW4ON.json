@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4NrnkiDExCnTsftSN40fNo"
+      },
+      "href": "https://api.spotify.com/v1/artists/4NrnkiDExCnTsftSN40fNo",
+      "id": "4NrnkiDExCnTsftSN40fNo",
+      "name": "WhoRunIt Records",
+      "type": "artist",
+      "uri": "spotify:artist:4NrnkiDExCnTsftSN40fNo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 WhoRunIt Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 WhoRunIt Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197876577092"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6xgTOmbwo6RrjyJeuGW4ON"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6xgTOmbwo6RrjyJeuGW4ON",
+  "id": "6xgTOmbwo6RrjyJeuGW4ON",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ce6a38e645eedc9d7b9f460b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ce6a38e645eedc9d7b9f460b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ce6a38e645eedc9d7b9f460b",
+      "width": 64
+    }
+  ],
+  "label": "WhoRunIt Records",
+  "name": "M Row \"Bad Day\"",
+  "popularity": 0,
+  "release_date": "2023-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6xgTOmbwo6RrjyJeuGW4ON/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NrnkiDExCnTsftSN40fNo"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NrnkiDExCnTsftSN40fNo",
+            "id": "4NrnkiDExCnTsftSN40fNo",
+            "name": "WhoRunIt Records",
+            "type": "artist",
+            "uri": "spotify:artist:4NrnkiDExCnTsftSN40fNo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 118125,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0x9QjMLg5bvlUa5LuB8DjW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0x9QjMLg5bvlUa5LuB8DjW",
+        "id": "0x9QjMLg5bvlUa5LuB8DjW",
+        "is_local": false,
+        "name": "M Row \"Bad Day\"",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0x9QjMLg5bvlUa5LuB8DjW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6xgTOmbwo6RrjyJeuGW4ON"
+}

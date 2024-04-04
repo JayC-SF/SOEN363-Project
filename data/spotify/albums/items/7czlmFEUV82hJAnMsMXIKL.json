@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+      "id": "7GMot9WvBYqhhJz92vhBp6",
+      "name": "EDX",
+      "type": "artist",
+      "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 JE | Just Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2013 JE | Just Entertainment under exclusive license of Toolroom Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8057680970361"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7czlmFEUV82hJAnMsMXIKL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7czlmFEUV82hJAnMsMXIKL",
+  "id": "7czlmFEUV82hJAnMsMXIKL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273611e521b477b1e6140f0d0ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02611e521b477b1e6140f0d0ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851611e521b477b1e6140f0d0ac",
+      "width": 64
+    }
+  ],
+  "label": "JE | Just Entertainment",
+  "name": "Blessed",
+  "popularity": 0,
+  "release_date": "2013-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7czlmFEUV82hJAnMsMXIKL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+            "id": "7GMot9WvBYqhhJz92vhBp6",
+            "name": "EDX",
+            "type": "artist",
+            "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 389642,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nklVa7DlddqBaHdLKVV2Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nklVa7DlddqBaHdLKVV2Y",
+        "id": "0nklVa7DlddqBaHdLKVV2Y",
+        "is_local": false,
+        "name": "Blessed - Original Club Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0nklVa7DlddqBaHdLKVV2Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7czlmFEUV82hJAnMsMXIKL"
+}

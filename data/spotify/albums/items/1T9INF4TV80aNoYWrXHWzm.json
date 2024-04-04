@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08bElPdPZ9c7HmbnAbIc6r"
+      },
+      "href": "https://api.spotify.com/v1/artists/08bElPdPZ9c7HmbnAbIc6r",
+      "id": "08bElPdPZ9c7HmbnAbIc6r",
+      "name": "Vicious J",
+      "type": "artist",
+      "uri": "spotify:artist:08bElPdPZ9c7HmbnAbIc6r"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Tru Legacy Entertainment, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2022 Tru Legacy Entertainment, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194690846557"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1T9INF4TV80aNoYWrXHWzm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1T9INF4TV80aNoYWrXHWzm",
+  "id": "1T9INF4TV80aNoYWrXHWzm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e09b49dfaaaa4def79441a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027e09b49dfaaaa4def79441a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517e09b49dfaaaa4def79441a9",
+      "width": 64
+    }
+  ],
+  "label": "Tru Legacy Entertainment, LLC",
+  "name": "G.O.A.T",
+  "popularity": 22,
+  "release_date": "2022-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1T9INF4TV80aNoYWrXHWzm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08bElPdPZ9c7HmbnAbIc6r"
+            },
+            "href": "https://api.spotify.com/v1/artists/08bElPdPZ9c7HmbnAbIc6r",
+            "id": "08bElPdPZ9c7HmbnAbIc6r",
+            "name": "Vicious J",
+            "type": "artist",
+            "uri": "spotify:artist:08bElPdPZ9c7HmbnAbIc6r"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168280,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uUFTsDqaJ2bFkHpMLGBTD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uUFTsDqaJ2bFkHpMLGBTD",
+        "id": "7uUFTsDqaJ2bFkHpMLGBTD",
+        "is_local": false,
+        "name": "G.O.A.T",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7uUFTsDqaJ2bFkHpMLGBTD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1T9INF4TV80aNoYWrXHWzm"
+}

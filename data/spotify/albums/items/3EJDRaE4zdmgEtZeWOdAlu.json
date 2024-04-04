@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+      },
+      "href": "https://api.spotify.com/v1/artists/50JJSqHUf2RQ9xsHs0KMHg",
+      "id": "50JJSqHUf2RQ9xsHs0KMHg",
+      "name": "Jon Bellion",
+      "type": "artist",
+      "uri": "spotify:artist:50JJSqHUf2RQ9xsHs0KMHg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Capitol Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Capitol Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547329141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3EJDRaE4zdmgEtZeWOdAlu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3EJDRaE4zdmgEtZeWOdAlu",
+  "id": "3EJDRaE4zdmgEtZeWOdAlu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335915aff80c1a2f825859689",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235915aff80c1a2f825859689",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135915aff80c1a2f825859689",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "All Time Low",
+  "popularity": 0,
+  "release_date": "2015-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3EJDRaE4zdmgEtZeWOdAlu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+            },
+            "href": "https://api.spotify.com/v1/artists/50JJSqHUf2RQ9xsHs0KMHg",
+            "id": "50JJSqHUf2RQ9xsHs0KMHg",
+            "name": "Jon Bellion",
+            "type": "artist",
+            "uri": "spotify:artist:50JJSqHUf2RQ9xsHs0KMHg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221333,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iG5vINDwHVDN4JjBvrD0g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6iG5vINDwHVDN4JjBvrD0g",
+        "id": "6iG5vINDwHVDN4JjBvrD0g",
+        "is_local": false,
+        "name": "All Time Low",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6iG5vINDwHVDN4JjBvrD0g"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3EJDRaE4zdmgEtZeWOdAlu"
+}

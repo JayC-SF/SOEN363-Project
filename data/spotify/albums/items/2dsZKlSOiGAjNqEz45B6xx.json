@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+      "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "name": "Armin van Buuren",
+      "type": "artist",
+      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5EfwRddsrbpPr3qqvP2OCq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5EfwRddsrbpPr3qqvP2OCq",
+      "id": "5EfwRddsrbpPr3qqvP2OCq",
+      "name": "SKOLES",
+      "type": "artist",
+      "uri": "spotify:artist:5EfwRddsrbpPr3qqvP2OCq"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "copyrights": [
+    {
+      "text": "2021 Kontor Records GmbH / Armada Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2021 Kontor Records GmbH / Armada Music B.V. under exclusive license from Armin Audio B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4251603267659"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2dsZKlSOiGAjNqEz45B6xx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2dsZKlSOiGAjNqEz45B6xx",
+  "id": "2dsZKlSOiGAjNqEz45B6xx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ca1d72e604726ce13400f469",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ca1d72e604726ce13400f469",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ca1d72e604726ce13400f469",
+      "width": 64
+    }
+  ],
+  "label": "Kontor Records",
+  "name": "Goodbye",
+  "popularity": 7,
+  "release_date": "2021-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2dsZKlSOiGAjNqEz45B6xx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+            "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+            "name": "Armin van Buuren",
+            "type": "artist",
+            "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EfwRddsrbpPr3qqvP2OCq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5EfwRddsrbpPr3qqvP2OCq",
+            "id": "5EfwRddsrbpPr3qqvP2OCq",
+            "name": "SKOLES",
+            "type": "artist",
+            "uri": "spotify:artist:5EfwRddsrbpPr3qqvP2OCq"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "CH",
+          "DE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206904,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6C3mwvbN1qGzkRuiZOFCJ2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6C3mwvbN1qGzkRuiZOFCJ2",
+        "id": "6C3mwvbN1qGzkRuiZOFCJ2",
+        "is_local": false,
+        "name": "Goodbye",
+        "preview_url": "https://p.scdn.co/mp3-preview/a1e7b0c4028e479d070acf57301712a11b70483e?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6C3mwvbN1qGzkRuiZOFCJ2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2dsZKlSOiGAjNqEz45B6xx"
+}

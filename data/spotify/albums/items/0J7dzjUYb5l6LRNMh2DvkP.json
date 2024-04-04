@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6j8zLVD3VK34r8eh7i2OqC"
+      },
+      "href": "https://api.spotify.com/v1/artists/6j8zLVD3VK34r8eh7i2OqC",
+      "id": "6j8zLVD3VK34r8eh7i2OqC",
+      "name": "DJ Skeezah",
+      "type": "artist",
+      "uri": "spotify:artist:6j8zLVD3VK34r8eh7i2OqC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Skeezah Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Skeezah Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197208570746"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0J7dzjUYb5l6LRNMh2DvkP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0J7dzjUYb5l6LRNMh2DvkP",
+  "id": "0J7dzjUYb5l6LRNMh2DvkP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d6a773abf3f9b0890d606ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d6a773abf3f9b0890d606ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d6a773abf3f9b0890d606ed",
+      "width": 64
+    }
+  ],
+  "label": "Skeezah Records",
+  "name": "WHAT YOU WANNA DO?",
+  "popularity": 0,
+  "release_date": "2022-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0J7dzjUYb5l6LRNMh2DvkP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6j8zLVD3VK34r8eh7i2OqC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6j8zLVD3VK34r8eh7i2OqC",
+            "id": "6j8zLVD3VK34r8eh7i2OqC",
+            "name": "DJ Skeezah",
+            "type": "artist",
+            "uri": "spotify:artist:6j8zLVD3VK34r8eh7i2OqC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DejtFRgf60eQon0rZnqhv"
+            },
+            "href": "https://api.spotify.com/v1/artists/3DejtFRgf60eQon0rZnqhv",
+            "id": "3DejtFRgf60eQon0rZnqhv",
+            "name": "Notti Osama",
+            "type": "artist",
+            "uri": "spotify:artist:3DejtFRgf60eQon0rZnqhv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110004,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59Y5DpeRP9iGgTFhmo82w3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59Y5DpeRP9iGgTFhmo82w3",
+        "id": "59Y5DpeRP9iGgTFhmo82w3",
+        "is_local": false,
+        "name": "WHAT YOU WANNA DO?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:59Y5DpeRP9iGgTFhmo82w3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0J7dzjUYb5l6LRNMh2DvkP"
+}

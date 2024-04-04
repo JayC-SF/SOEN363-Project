@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+      },
+      "href": "https://api.spotify.com/v1/artists/72luDUYRlE8N8lPSgyhiwo",
+      "id": "72luDUYRlE8N8lPSgyhiwo",
+      "name": "John Gibbons",
+      "type": "artist",
+      "uri": "spotify:artist:72luDUYRlE8N8lPSgyhiwo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Blindsided",
+      "type": "C"
+    },
+    {
+      "text": "2017 Blindsided",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296966224"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1B34vuIz2XL0tjsXkVnOUC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1B34vuIz2XL0tjsXkVnOUC",
+  "id": "1B34vuIz2XL0tjsXkVnOUC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327bcf4685f647dcf4117acf2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227bcf4685f647dcf4117acf2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127bcf4685f647dcf4117acf2",
+      "width": 64
+    }
+  ],
+  "label": "Good Soldier Records",
+  "name": "P.Y.T. (Pretty Young Thing)",
+  "popularity": 0,
+  "release_date": "2017-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1B34vuIz2XL0tjsXkVnOUC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+            },
+            "href": "https://api.spotify.com/v1/artists/72luDUYRlE8N8lPSgyhiwo",
+            "id": "72luDUYRlE8N8lPSgyhiwo",
+            "name": "John Gibbons",
+            "type": "artist",
+            "uri": "spotify:artist:72luDUYRlE8N8lPSgyhiwo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195851,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Db8OhBMmNPLv2rHYoP7Wf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Db8OhBMmNPLv2rHYoP7Wf",
+        "id": "3Db8OhBMmNPLv2rHYoP7Wf",
+        "is_local": false,
+        "name": "P.Y.T. (Pretty Young Thing)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Db8OhBMmNPLv2rHYoP7Wf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1B34vuIz2XL0tjsXkVnOUC"
+}

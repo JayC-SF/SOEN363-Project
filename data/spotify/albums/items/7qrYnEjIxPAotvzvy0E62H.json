@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+      "id": "1oYXEVbGh1L7EWGm9C68cN",
+      "name": "6arelyhuman",
+      "type": "artist",
+      "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Anuba",
+      "type": "C"
+    },
+    {
+      "text": "2022 Anuba",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207513195"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qrYnEjIxPAotvzvy0E62H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qrYnEjIxPAotvzvy0E62H",
+  "id": "7qrYnEjIxPAotvzvy0E62H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273411f3a7422429f4eec336d37",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02411f3a7422429f4eec336d37",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851411f3a7422429f4eec336d37",
+      "width": 64
+    }
+  ],
+  "label": "Anuba",
+  "name": "Goth Topic",
+  "popularity": 0,
+  "release_date": "2021-12-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qrYnEjIxPAotvzvy0E62H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+            "id": "1oYXEVbGh1L7EWGm9C68cN",
+            "name": "6arelyhuman",
+            "type": "artist",
+            "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120907,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3UUFE5QDJbfaNYd3RLJ4C4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3UUFE5QDJbfaNYd3RLJ4C4",
+        "id": "3UUFE5QDJbfaNYd3RLJ4C4",
+        "is_local": false,
+        "name": "Goth Topic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3UUFE5QDJbfaNYd3RLJ4C4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qrYnEjIxPAotvzvy0E62H"
+}

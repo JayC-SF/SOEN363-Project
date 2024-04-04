@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+      "id": "6l3HvQ5sa6mXTsMTB19rO5",
+      "name": "J. Cole",
+      "type": "artist",
+      "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Roc Nation LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443874480"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/171XJ4TEorE4iM9xZliS61"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/171XJ4TEorE4iM9xZliS61",
+  "id": "171XJ4TEorE4iM9xZliS61",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db2c3be1223a23225da54953",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db2c3be1223a23225da54953",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db2c3be1223a23225da54953",
+      "width": 64
+    }
+  ],
+  "label": "Roc Nation/Columbia",
+  "name": "Power Trip (feat. Miguel)",
+  "popularity": 0,
+  "release_date": "2013-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/171XJ4TEorE4iM9xZliS61/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+            "id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "name": "J. Cole",
+            "type": "artist",
+            "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+            },
+            "href": "https://api.spotify.com/v1/artists/360IAlyVv4PCEVjgyMZrxK",
+            "id": "360IAlyVv4PCEVjgyMZrxK",
+            "name": "Miguel",
+            "type": "artist",
+            "uri": "spotify:artist:360IAlyVv4PCEVjgyMZrxK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240280,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EbWiEra7ovNsMq3DeLSDy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EbWiEra7ovNsMq3DeLSDy",
+        "id": "1EbWiEra7ovNsMq3DeLSDy",
+        "is_local": false,
+        "name": "Power Trip (feat. Miguel)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1EbWiEra7ovNsMq3DeLSDy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:171XJ4TEorE4iM9xZliS61"
+}

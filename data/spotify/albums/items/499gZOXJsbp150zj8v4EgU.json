@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+      },
+      "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+      "id": "0e0z6v7dIm0XM7BgQTtB0a",
+      "name": "FUR",
+      "type": "artist",
+      "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 FUR",
+      "type": "C"
+    },
+    {
+      "text": "2017 FUR",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526379220"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/499gZOXJsbp150zj8v4EgU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/499gZOXJsbp150zj8v4EgU",
+  "id": "499gZOXJsbp150zj8v4EgU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273caa78163cb9eeb7a9028f0c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02caa78163cb9eeb7a9028f0c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851caa78163cb9eeb7a9028f0c1",
+      "width": 64
+    }
+  ],
+  "label": "FUR",
+  "name": "If You Know That I'm Lonely",
+  "popularity": 0,
+  "release_date": "2017-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/499gZOXJsbp150zj8v4EgU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+            },
+            "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+            "id": "0e0z6v7dIm0XM7BgQTtB0a",
+            "name": "FUR",
+            "type": "artist",
+            "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lvosDfrUEI07fTwQotQOv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lvosDfrUEI07fTwQotQOv",
+        "id": "0lvosDfrUEI07fTwQotQOv",
+        "is_local": false,
+        "name": "If You Know That I'm Lonely",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lvosDfrUEI07fTwQotQOv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:499gZOXJsbp150zj8v4EgU"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Tfn0mwTWAvYUacFDhBWXr"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Tfn0mwTWAvYUacFDhBWXr",
+      "id": "5Tfn0mwTWAvYUacFDhBWXr",
+      "name": "Doctor Y",
+      "type": "artist",
+      "uri": "spotify:artist:5Tfn0mwTWAvYUacFDhBWXr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 SPRS / SpinninRecords.com",
+      "type": "C"
+    },
+    {
+      "text": "2008 Champion Music / Under exclusive license to Spinnin' Records BV",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944473377"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1KX3AdSXOdyfsb7fOwK56m"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1KX3AdSXOdyfsb7fOwK56m",
+  "id": "1KX3AdSXOdyfsb7fOwK56m",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c31753cb136e8637cc3be1fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c31753cb136e8637cc3be1fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c31753cb136e8637cc3be1fe",
+      "width": 64
+    }
+  ],
+  "label": "SPRS",
+  "name": "Show Me Love",
+  "popularity": 0,
+  "release_date": "2008",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1KX3AdSXOdyfsb7fOwK56m/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Tfn0mwTWAvYUacFDhBWXr"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Tfn0mwTWAvYUacFDhBWXr",
+            "id": "5Tfn0mwTWAvYUacFDhBWXr",
+            "name": "Doctor Y",
+            "type": "artist",
+            "uri": "spotify:artist:5Tfn0mwTWAvYUacFDhBWXr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218702,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Wq3SABT1QGwqWTnYjt6vn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Wq3SABT1QGwqWTnYjt6vn",
+        "id": "2Wq3SABT1QGwqWTnYjt6vn",
+        "is_local": false,
+        "name": "Show Me Love - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Wq3SABT1QGwqWTnYjt6vn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1KX3AdSXOdyfsb7fOwK56m"
+}

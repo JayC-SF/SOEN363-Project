@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+      },
+      "href": "https://api.spotify.com/v1/artists/23wEWD21D4TPYiJugoXmYb",
+      "id": "23wEWD21D4TPYiJugoXmYb",
+      "name": "Thalia",
+      "type": "artist",
+      "uri": "spotify:artist:23wEWD21D4TPYiJugoXmYb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+      },
+      "href": "https://api.spotify.com/v1/artists/2cy1zPcrFcXAJTP0APWewL",
+      "id": "2cy1zPcrFcXAJTP0APWewL",
+      "name": "Gente De Zona",
+      "type": "artist",
+      "uri": "spotify:artist:2cy1zPcrFcXAJTP0APWewL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2018 Sony Music Entertainment US Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447286654"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7dcdU0nN17u7wUsNNxNocV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7dcdU0nN17u7wUsNNxNocV",
+  "id": "7dcdU0nN17u7wUsNNxNocV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737566f629262050450fce2c22",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027566f629262050450fce2c22",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517566f629262050450fce2c22",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Latin",
+  "name": "Lento",
+  "popularity": 0,
+  "release_date": "2018-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7dcdU0nN17u7wUsNNxNocV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+            },
+            "href": "https://api.spotify.com/v1/artists/23wEWD21D4TPYiJugoXmYb",
+            "id": "23wEWD21D4TPYiJugoXmYb",
+            "name": "Thalia",
+            "type": "artist",
+            "uri": "spotify:artist:23wEWD21D4TPYiJugoXmYb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+            },
+            "href": "https://api.spotify.com/v1/artists/2cy1zPcrFcXAJTP0APWewL",
+            "id": "2cy1zPcrFcXAJTP0APWewL",
+            "name": "Gente De Zona",
+            "type": "artist",
+            "uri": "spotify:artist:2cy1zPcrFcXAJTP0APWewL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218383,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IcdqpHrf0ZcAh61fRAJ6N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4IcdqpHrf0ZcAh61fRAJ6N",
+        "id": "4IcdqpHrf0ZcAh61fRAJ6N",
+        "is_local": false,
+        "name": "Lento",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4IcdqpHrf0ZcAh61fRAJ6N"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7dcdU0nN17u7wUsNNxNocV"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zWZIo2xcAxNvibAethmfH"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zWZIo2xcAxNvibAethmfH",
+      "id": "7zWZIo2xcAxNvibAethmfH",
+      "name": "Storm Lake",
+      "type": "artist",
+      "uri": "spotify:artist:7zWZIo2xcAxNvibAethmfH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 4324528 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 4324528 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197146699158"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04o6gW4IJo5HKSyVCDVQJH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04o6gW4IJo5HKSyVCDVQJH",
+  "id": "04o6gW4IJo5HKSyVCDVQJH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273949e68d2baced41ce2ef6525",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02949e68d2baced41ce2ef6525",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851949e68d2baced41ce2ef6525",
+      "width": 64
+    }
+  ],
+  "label": "4324528 Records DK",
+  "name": "Saka Saka Saka",
+  "popularity": 0,
+  "release_date": "2022-09-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04o6gW4IJo5HKSyVCDVQJH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zWZIo2xcAxNvibAethmfH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zWZIo2xcAxNvibAethmfH",
+            "id": "7zWZIo2xcAxNvibAethmfH",
+            "name": "Storm Lake",
+            "type": "artist",
+            "uri": "spotify:artist:7zWZIo2xcAxNvibAethmfH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186195,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZKWNsPM6Lo30J3UBc6zYy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZKWNsPM6Lo30J3UBc6zYy",
+        "id": "4ZKWNsPM6Lo30J3UBc6zYy",
+        "is_local": false,
+        "name": "Saka Saka Saka",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ZKWNsPM6Lo30J3UBc6zYy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04o6gW4IJo5HKSyVCDVQJH"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+      },
+      "href": "https://api.spotify.com/v1/artists/7HXBbxW6YwU8lvgBew2p2A",
+      "id": "7HXBbxW6YwU8lvgBew2p2A",
+      "name": "Matt Johnson",
+      "type": "artist",
+      "uri": "spotify:artist:7HXBbxW6YwU8lvgBew2p2A"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Tristar Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Tristar Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054960028418"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Ro5pBKWsejqkDzwCqQdhp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Ro5pBKWsejqkDzwCqQdhp",
+  "id": "1Ro5pBKWsejqkDzwCqQdhp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdd4dc3cc2f775167f095aa7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdd4dc3cc2f775167f095aa7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdd4dc3cc2f775167f095aa7",
+      "width": 64
+    }
+  ],
+  "label": "Tristar Records",
+  "name": "Sorry (Acoustic Live Lounge)",
+  "popularity": 0,
+  "release_date": "2016-02-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Ro5pBKWsejqkDzwCqQdhp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+            },
+            "href": "https://api.spotify.com/v1/artists/7HXBbxW6YwU8lvgBew2p2A",
+            "id": "7HXBbxW6YwU8lvgBew2p2A",
+            "name": "Matt Johnson",
+            "type": "artist",
+            "uri": "spotify:artist:7HXBbxW6YwU8lvgBew2p2A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 145200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Nlpk0TUB556loRewppukI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Nlpk0TUB556loRewppukI",
+        "id": "2Nlpk0TUB556loRewppukI",
+        "is_local": false,
+        "name": "Sorry - Acoustic Live Lounge",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Nlpk0TUB556loRewppukI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Ro5pBKWsejqkDzwCqQdhp"
+}

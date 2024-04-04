@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AcrkelR47hApTQirQhv6F",
+      "id": "2AcrkelR47hApTQirQhv6F",
+      "name": "Tothapi",
+      "type": "artist",
+      "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Valor",
+      "type": "C"
+    },
+    {
+      "text": "2022 Valor",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197274451505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Hp38oiTO22R7onwSjX8ju"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Hp38oiTO22R7onwSjX8ju",
+  "id": "4Hp38oiTO22R7onwSjX8ju",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c058790d4795e7d3c972344",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c058790d4795e7d3c972344",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c058790d4795e7d3c972344",
+      "width": 64
+    }
+  ],
+  "label": "Valor",
+  "name": "Celeste",
+  "popularity": 1,
+  "release_date": "2022-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Hp38oiTO22R7onwSjX8ju/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AcrkelR47hApTQirQhv6F",
+            "id": "2AcrkelR47hApTQirQhv6F",
+            "name": "Tothapi",
+            "type": "artist",
+            "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199636,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ax06geCh4xRi4dGBs5p9D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ax06geCh4xRi4dGBs5p9D",
+        "id": "1ax06geCh4xRi4dGBs5p9D",
+        "is_local": false,
+        "name": "Celeste",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ax06geCh4xRi4dGBs5p9D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Hp38oiTO22R7onwSjX8ju"
+}

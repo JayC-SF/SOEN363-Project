@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+      },
+      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+      "id": "77SW9BnxLY8rJ0RciFqkHh",
+      "name": "The Neighbourhood",
+      "type": "artist",
+      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2015 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445440362"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1hGcA2JxzIpUfa3Zilzq6c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1hGcA2JxzIpUfa3Zilzq6c",
+  "id": "1hGcA2JxzIpUfa3Zilzq6c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3082b11eceff59956c22911",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3082b11eceff59956c22911",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3082b11eceff59956c22911",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "R.I.P. 2 My Youth",
+  "popularity": 0,
+  "release_date": "2015-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1hGcA2JxzIpUfa3Zilzq6c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+            },
+            "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+            "id": "77SW9BnxLY8rJ0RciFqkHh",
+            "name": "The Neighbourhood",
+            "type": "artist",
+            "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XTzZyrbu4zVuiwfhTdudE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XTzZyrbu4zVuiwfhTdudE",
+        "id": "1XTzZyrbu4zVuiwfhTdudE",
+        "is_local": false,
+        "name": "R.I.P. 2 My Youth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XTzZyrbu4zVuiwfhTdudE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1hGcA2JxzIpUfa3Zilzq6c"
+}

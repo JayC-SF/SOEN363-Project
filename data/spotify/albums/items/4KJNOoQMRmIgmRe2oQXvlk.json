@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+      },
+      "href": "https://api.spotify.com/v1/artists/58R31AvN8JMHM7xkNpVLjX",
+      "id": "58R31AvN8JMHM7xkNpVLjX",
+      "name": "Alexis Ffrench",
+      "type": "artist",
+      "uri": "spotify:artist:58R31AvN8JMHM7xkNpVLjX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2023 Alexis Ffrench, under exclusive license to Sony Classical, a label of Sony music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196589787637"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KJNOoQMRmIgmRe2oQXvlk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4KJNOoQMRmIgmRe2oQXvlk",
+  "id": "4KJNOoQMRmIgmRe2oQXvlk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cc7f45f6439f766e7aa13b3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cc7f45f6439f766e7aa13b3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cc7f45f6439f766e7aa13b3",
+      "width": 64
+    }
+  ],
+  "label": "Sony Classical",
+  "name": "St Andrews",
+  "popularity": 0,
+  "release_date": "2023-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4KJNOoQMRmIgmRe2oQXvlk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+            },
+            "href": "https://api.spotify.com/v1/artists/58R31AvN8JMHM7xkNpVLjX",
+            "id": "58R31AvN8JMHM7xkNpVLjX",
+            "name": "Alexis Ffrench",
+            "type": "artist",
+            "uri": "spotify:artist:58R31AvN8JMHM7xkNpVLjX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222048,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GqpfjiD1dOGBuOgVFXu6F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GqpfjiD1dOGBuOgVFXu6F",
+        "id": "1GqpfjiD1dOGBuOgVFXu6F",
+        "is_local": false,
+        "name": "St Andrews",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1GqpfjiD1dOGBuOgVFXu6F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4KJNOoQMRmIgmRe2oQXvlk"
+}

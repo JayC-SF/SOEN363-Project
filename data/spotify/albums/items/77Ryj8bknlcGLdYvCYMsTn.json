@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y"
+      },
+      "href": "https://api.spotify.com/v1/artists/23ostNBoB9z6GMXLtHdg7y",
+      "id": "23ostNBoB9z6GMXLtHdg7y",
+      "name": "Prismo",
+      "type": "artist",
+      "uri": "spotify:artist:23ostNBoB9z6GMXLtHdg7y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 PRMD LLC",
+      "type": "C"
+    },
+    {
+      "text": "2018 PRMD LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811250023769"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/77Ryj8bknlcGLdYvCYMsTn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/77Ryj8bknlcGLdYvCYMsTn",
+  "id": "77Ryj8bknlcGLdYvCYMsTn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733284fb373b7a9512b135ad1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023284fb373b7a9512b135ad1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513284fb373b7a9512b135ad1b",
+      "width": 64
+    }
+  ],
+  "label": "PRMD Music",
+  "name": "Solo",
+  "popularity": 0,
+  "release_date": "2018-08-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/77Ryj8bknlcGLdYvCYMsTn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y"
+            },
+            "href": "https://api.spotify.com/v1/artists/23ostNBoB9z6GMXLtHdg7y",
+            "id": "23ostNBoB9z6GMXLtHdg7y",
+            "name": "Prismo",
+            "type": "artist",
+            "uri": "spotify:artist:23ostNBoB9z6GMXLtHdg7y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183755,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aWooiRZSWS0P4I5dzLkUJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aWooiRZSWS0P4I5dzLkUJ",
+        "id": "5aWooiRZSWS0P4I5dzLkUJ",
+        "is_local": false,
+        "name": "Solo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5aWooiRZSWS0P4I5dzLkUJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:77Ryj8bknlcGLdYvCYMsTn"
+}

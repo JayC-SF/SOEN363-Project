@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3SlDsnTkmnKksYwO5HExTt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3SlDsnTkmnKksYwO5HExTt",
+      "id": "3SlDsnTkmnKksYwO5HExTt",
+      "name": "Icky Blossoms",
+      "type": "artist",
+      "uri": "spotify:artist:3SlDsnTkmnKksYwO5HExTt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Saddle Creek",
+      "type": "C"
+    },
+    {
+      "text": "2015 Saddle Creek",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "648401021967"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0cWQza52HvUBDRlmaFMbfR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0cWQza52HvUBDRlmaFMbfR",
+  "id": "0cWQza52HvUBDRlmaFMbfR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340abb768cb2d972ae7ca3533",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240abb768cb2d972ae7ca3533",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140abb768cb2d972ae7ca3533",
+      "width": 64
+    }
+  ],
+  "label": "Saddle Creek",
+  "name": "Living in Fiction",
+  "popularity": 0,
+  "release_date": "2015-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0cWQza52HvUBDRlmaFMbfR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SlDsnTkmnKksYwO5HExTt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SlDsnTkmnKksYwO5HExTt",
+            "id": "3SlDsnTkmnKksYwO5HExTt",
+            "name": "Icky Blossoms",
+            "type": "artist",
+            "uri": "spotify:artist:3SlDsnTkmnKksYwO5HExTt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3m6rNlSwJlz10bReJWbHAG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3m6rNlSwJlz10bReJWbHAG",
+        "id": "3m6rNlSwJlz10bReJWbHAG",
+        "is_local": false,
+        "name": "Living in Fiction",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3m6rNlSwJlz10bReJWbHAG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SlDsnTkmnKksYwO5HExTt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SlDsnTkmnKksYwO5HExTt",
+            "id": "3SlDsnTkmnKksYwO5HExTt",
+            "name": "Icky Blossoms",
+            "type": "artist",
+            "uri": "spotify:artist:3SlDsnTkmnKksYwO5HExTt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220479,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UHzmBt5JcH4yAPqFboHKf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UHzmBt5JcH4yAPqFboHKf",
+        "id": "0UHzmBt5JcH4yAPqFboHKf",
+        "is_local": false,
+        "name": "Little Death",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0UHzmBt5JcH4yAPqFboHKf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0cWQza52HvUBDRlmaFMbfR"
+}

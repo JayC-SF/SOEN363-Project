@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+      },
+      "href": "https://api.spotify.com/v1/artists/7LOJ56d8VmOebynlV01KfU",
+      "id": "7LOJ56d8VmOebynlV01KfU",
+      "name": "Crooked Still",
+      "type": "artist",
+      "uri": "spotify:artist:7LOJ56d8VmOebynlV01KfU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Crooked Still Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843357164885"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5zjiiRo1V6OQiiFaPjkzQj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5zjiiRo1V6OQiiFaPjkzQj",
+  "id": "5zjiiRo1V6OQiiFaPjkzQj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313a4e74531dc43dfd97405c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213a4e74531dc43dfd97405c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113a4e74531dc43dfd97405c9",
+      "width": 64
+    }
+  ],
+  "label": "Crooked Still Records",
+  "name": "Ecstasy (Instrumental Edit)",
+  "popularity": 0,
+  "release_date": "2018-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5zjiiRo1V6OQiiFaPjkzQj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LOJ56d8VmOebynlV01KfU",
+            "id": "7LOJ56d8VmOebynlV01KfU",
+            "name": "Crooked Still",
+            "type": "artist",
+            "uri": "spotify:artist:7LOJ56d8VmOebynlV01KfU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222127,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1H0j71i6U3LxLreTAMcP1C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1H0j71i6U3LxLreTAMcP1C",
+        "id": "1H0j71i6U3LxLreTAMcP1C",
+        "is_local": false,
+        "name": "Ecstasy (Instrumental Edit)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1H0j71i6U3LxLreTAMcP1C"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5zjiiRo1V6OQiiFaPjkzQj"
+}

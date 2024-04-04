@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4buT3eUYlkSYYssdS7SpJn"
+      },
+      "href": "https://api.spotify.com/v1/artists/4buT3eUYlkSYYssdS7SpJn",
+      "id": "4buT3eUYlkSYYssdS7SpJn",
+      "name": "Fifty",
+      "type": "artist",
+      "uri": "spotify:artist:4buT3eUYlkSYYssdS7SpJn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Fifty, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2018 Fifty, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729092198"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1DG65DaxCrmhknRxSlt9A4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1DG65DaxCrmhknRxSlt9A4",
+  "id": "1DG65DaxCrmhknRxSlt9A4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731054927387a251381dde7d98",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021054927387a251381dde7d98",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511054927387a251381dde7d98",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Med mig",
+  "popularity": 0,
+  "release_date": "2018-01-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1DG65DaxCrmhknRxSlt9A4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4buT3eUYlkSYYssdS7SpJn"
+            },
+            "href": "https://api.spotify.com/v1/artists/4buT3eUYlkSYYssdS7SpJn",
+            "id": "4buT3eUYlkSYYssdS7SpJn",
+            "name": "Fifty",
+            "type": "artist",
+            "uri": "spotify:artist:4buT3eUYlkSYYssdS7SpJn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152592,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0o10FBlrAUqs8eSqh4d9dJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0o10FBlrAUqs8eSqh4d9dJ",
+        "id": "0o10FBlrAUqs8eSqh4d9dJ",
+        "is_local": false,
+        "name": "Med mig",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0o10FBlrAUqs8eSqh4d9dJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1DG65DaxCrmhknRxSlt9A4"
+}

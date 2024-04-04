@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Z3m4U4Qm1b8EFpcws68kh",
+      "id": "4Z3m4U4Qm1b8EFpcws68kh",
+      "name": "Christian Wannerwall",
+      "type": "artist",
+      "uri": "spotify:artist:4Z3m4U4Qm1b8EFpcws68kh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Christian Wannerwall",
+      "type": "C"
+    },
+    {
+      "text": "2022 Christian Wannerwall",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316216738785"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1eBXQJx2BtnwT0fv3eJhpZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1eBXQJx2BtnwT0fv3eJhpZ",
+  "id": "1eBXQJx2BtnwT0fv3eJhpZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ecae46827365932b7cc4ec0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ecae46827365932b7cc4ec0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ecae46827365932b7cc4ec0d",
+      "width": 64
+    }
+  ],
+  "label": "Christian Wannerwall",
+  "name": "Kind of Bittersweet",
+  "popularity": 0,
+  "release_date": "2022-10-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1eBXQJx2BtnwT0fv3eJhpZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Z3m4U4Qm1b8EFpcws68kh",
+            "id": "4Z3m4U4Qm1b8EFpcws68kh",
+            "name": "Christian Wannerwall",
+            "type": "artist",
+            "uri": "spotify:artist:4Z3m4U4Qm1b8EFpcws68kh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204424,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VhsIVl2UL11xWQw3cEKBD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VhsIVl2UL11xWQw3cEKBD",
+        "id": "1VhsIVl2UL11xWQw3cEKBD",
+        "is_local": false,
+        "name": "Kind of Bittersweet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1VhsIVl2UL11xWQw3cEKBD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1eBXQJx2BtnwT0fv3eJhpZ"
+}

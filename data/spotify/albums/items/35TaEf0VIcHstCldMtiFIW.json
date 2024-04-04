@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pMZdUh8fBuVoUpARYPuoQ",
+      "id": "7pMZdUh8fBuVoUpARYPuoQ",
+      "name": "Eric Wilhelm",
+      "type": "artist",
+      "uri": "spotify:artist:7pMZdUh8fBuVoUpARYPuoQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Pianoramix",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Pianoramix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300037998"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35TaEf0VIcHstCldMtiFIW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/35TaEf0VIcHstCldMtiFIW",
+  "id": "35TaEf0VIcHstCldMtiFIW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f09c137a4c16870be44b3686",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f09c137a4c16870be44b3686",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f09c137a4c16870be44b3686",
+      "width": 64
+    }
+  ],
+  "label": "Pianoramix",
+  "name": "Near, Far, Wherever You Are",
+  "popularity": 0,
+  "release_date": "2023-02-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35TaEf0VIcHstCldMtiFIW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pMZdUh8fBuVoUpARYPuoQ",
+            "id": "7pMZdUh8fBuVoUpARYPuoQ",
+            "name": "Eric Wilhelm",
+            "type": "artist",
+            "uri": "spotify:artist:7pMZdUh8fBuVoUpARYPuoQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34biJuGxaPPzNCOF1bAZLl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34biJuGxaPPzNCOF1bAZLl",
+        "id": "34biJuGxaPPzNCOF1bAZLl",
+        "is_local": false,
+        "name": "Near, Far, Wherever You Are",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:34biJuGxaPPzNCOF1bAZLl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:35TaEf0VIcHstCldMtiFIW"
+}

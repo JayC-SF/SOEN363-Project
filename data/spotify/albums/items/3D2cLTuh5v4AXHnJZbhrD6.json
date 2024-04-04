@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YBJLs7RqR0aPGBgU27nDh",
+      "id": "3YBJLs7RqR0aPGBgU27nDh",
+      "name": "Werenoi",
+      "type": "artist",
+      "uri": "spotify:artist:3YBJLs7RqR0aPGBgU27nDh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 PGP Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 PGP Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196051837815"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3D2cLTuh5v4AXHnJZbhrD6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3D2cLTuh5v4AXHnJZbhrD6",
+  "id": "3D2cLTuh5v4AXHnJZbhrD6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273530417284071d70ff30d43d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02530417284071d70ff30d43d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851530417284071d70ff30d43d9",
+      "width": 64
+    }
+  ],
+  "label": "PGP Records",
+  "name": "La League",
+  "popularity": 2,
+  "release_date": "2021-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3D2cLTuh5v4AXHnJZbhrD6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YBJLs7RqR0aPGBgU27nDh",
+            "id": "3YBJLs7RqR0aPGBgU27nDh",
+            "name": "Werenoi",
+            "type": "artist",
+            "uri": "spotify:artist:3YBJLs7RqR0aPGBgU27nDh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179572,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WkliDsYrTr7UdNcQVDy2Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WkliDsYrTr7UdNcQVDy2Q",
+        "id": "1WkliDsYrTr7UdNcQVDy2Q",
+        "is_local": false,
+        "name": "La League",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1WkliDsYrTr7UdNcQVDy2Q"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3D2cLTuh5v4AXHnJZbhrD6"
+}

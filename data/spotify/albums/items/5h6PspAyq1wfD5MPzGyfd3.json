@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5wa4kCDTj27ducL5EJlWvd"
+      },
+      "href": "https://api.spotify.com/v1/artists/5wa4kCDTj27ducL5EJlWvd",
+      "id": "5wa4kCDTj27ducL5EJlWvd",
+      "name": "melfete",
+      "type": "artist",
+      "uri": "spotify:artist:5wa4kCDTj27ducL5EJlWvd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 melfete",
+      "type": "C"
+    },
+    {
+      "text": "2021 melfete",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859750835505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5h6PspAyq1wfD5MPzGyfd3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5h6PspAyq1wfD5MPzGyfd3",
+  "id": "5h6PspAyq1wfD5MPzGyfd3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f673d3a253a4f88e00ca83c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f673d3a253a4f88e00ca83c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f673d3a253a4f88e00ca83c",
+      "width": 64
+    }
+  ],
+  "label": "melfete",
+  "name": "D.H.S.",
+  "popularity": 0,
+  "release_date": "2021-10-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5h6PspAyq1wfD5MPzGyfd3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wa4kCDTj27ducL5EJlWvd"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wa4kCDTj27ducL5EJlWvd",
+            "id": "5wa4kCDTj27ducL5EJlWvd",
+            "name": "melfete",
+            "type": "artist",
+            "uri": "spotify:artist:5wa4kCDTj27ducL5EJlWvd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168201,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06Q1eCQIJT2ycdk9DT2ZpA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06Q1eCQIJT2ycdk9DT2ZpA",
+        "id": "06Q1eCQIJT2ycdk9DT2ZpA",
+        "is_local": false,
+        "name": "D.H.S.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06Q1eCQIJT2ycdk9DT2ZpA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5h6PspAyq1wfD5MPzGyfd3"
+}

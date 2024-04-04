@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6"
+      },
+      "href": "https://api.spotify.com/v1/artists/4J9EaXhlfJgEEVaN4hPkE6",
+      "id": "4J9EaXhlfJgEEVaN4hPkE6",
+      "name": "Fab Beat",
+      "type": "artist",
+      "uri": "spotify:artist:4J9EaXhlfJgEEVaN4hPkE6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6N4HlHINMvoTyAL0yhBUCk",
+      "id": "6N4HlHINMvoTyAL0yhBUCk",
+      "name": "Saib",
+      "type": "artist",
+      "uri": "spotify:artist:6N4HlHINMvoTyAL0yhBUCk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 S!X - Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 S!X - Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939429492"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2E1JAFBTWbXAZTnGrr8tAb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2E1JAFBTWbXAZTnGrr8tAb",
+  "id": "2E1JAFBTWbXAZTnGrr8tAb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d8d6af8f76d61cbcb86d479",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d8d6af8f76d61cbcb86d479",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d8d6af8f76d61cbcb86d479",
+      "width": 64
+    }
+  ],
+  "label": "S!X - Music",
+  "name": "Gerocco",
+  "popularity": 0,
+  "release_date": "2020-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2E1JAFBTWbXAZTnGrr8tAb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4J9EaXhlfJgEEVaN4hPkE6",
+            "id": "4J9EaXhlfJgEEVaN4hPkE6",
+            "name": "Fab Beat",
+            "type": "artist",
+            "uri": "spotify:artist:4J9EaXhlfJgEEVaN4hPkE6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6N4HlHINMvoTyAL0yhBUCk",
+            "id": "6N4HlHINMvoTyAL0yhBUCk",
+            "name": "Saib",
+            "type": "artist",
+            "uri": "spotify:artist:6N4HlHINMvoTyAL0yhBUCk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 271295,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7p1gJlddiggTIbhCyRrGL1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7p1gJlddiggTIbhCyRrGL1",
+        "id": "7p1gJlddiggTIbhCyRrGL1",
+        "is_local": false,
+        "name": "Gerocco",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7p1gJlddiggTIbhCyRrGL1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2E1JAFBTWbXAZTnGrr8tAb"
+}

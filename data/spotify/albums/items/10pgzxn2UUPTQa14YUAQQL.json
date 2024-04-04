@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Kks7YDYdfbqWrfbWTN8R3",
+      "id": "6Kks7YDYdfbqWrfbWTN8R3",
+      "name": "Carlos uzi",
+      "type": "artist",
+      "uri": "spotify:artist:6Kks7YDYdfbqWrfbWTN8R3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Carlos uzi",
+      "type": "C"
+    },
+    {
+      "text": "2020 Carlos uzi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0635028621175"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10pgzxn2UUPTQa14YUAQQL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10pgzxn2UUPTQa14YUAQQL",
+  "id": "10pgzxn2UUPTQa14YUAQQL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3971163ccf9b1cc51b068d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3971163ccf9b1cc51b068d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3971163ccf9b1cc51b068d7",
+      "width": 64
+    }
+  ],
+  "label": "Carlos uzi",
+  "name": "Error",
+  "popularity": 40,
+  "release_date": "2020-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10pgzxn2UUPTQa14YUAQQL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Kks7YDYdfbqWrfbWTN8R3",
+            "id": "6Kks7YDYdfbqWrfbWTN8R3",
+            "name": "Carlos uzi",
+            "type": "artist",
+            "uri": "spotify:artist:6Kks7YDYdfbqWrfbWTN8R3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164889,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UEBVMgIS7ppC9A1VadEhq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UEBVMgIS7ppC9A1VadEhq",
+        "id": "0UEBVMgIS7ppC9A1VadEhq",
+        "is_local": false,
+        "name": "Error",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0UEBVMgIS7ppC9A1VadEhq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10pgzxn2UUPTQa14YUAQQL"
+}

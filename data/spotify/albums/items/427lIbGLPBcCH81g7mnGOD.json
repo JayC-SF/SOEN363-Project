@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4OCuhokUw0lU3nJ1fhz9QY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4OCuhokUw0lU3nJ1fhz9QY",
+      "id": "4OCuhokUw0lU3nJ1fhz9QY",
+      "name": "V\u00e9nia",
+      "type": "artist",
+      "uri": "spotify:artist:4OCuhokUw0lU3nJ1fhz9QY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 R&M Studios Production",
+      "type": "C"
+    },
+    {
+      "text": "2019 R&M Studios Production",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1941520181116"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/427lIbGLPBcCH81g7mnGOD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/427lIbGLPBcCH81g7mnGOD",
+  "id": "427lIbGLPBcCH81g7mnGOD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c3ecb77ac837970423161bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c3ecb77ac837970423161bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c3ecb77ac837970423161bf",
+      "width": 64
+    }
+  ],
+  "label": "R&M Studios Production",
+  "name": "I Crash, U Crash",
+  "popularity": 0,
+  "release_date": "2019-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/427lIbGLPBcCH81g7mnGOD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OCuhokUw0lU3nJ1fhz9QY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4OCuhokUw0lU3nJ1fhz9QY",
+            "id": "4OCuhokUw0lU3nJ1fhz9QY",
+            "name": "V\u00e9nia",
+            "type": "artist",
+            "uri": "spotify:artist:4OCuhokUw0lU3nJ1fhz9QY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153129,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rhMKqMFvLfiPhHuPJRlvw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rhMKqMFvLfiPhHuPJRlvw",
+        "id": "0rhMKqMFvLfiPhHuPJRlvw",
+        "is_local": false,
+        "name": "I Crash, U Crash",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0rhMKqMFvLfiPhHuPJRlvw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:427lIbGLPBcCH81g7mnGOD"
+}

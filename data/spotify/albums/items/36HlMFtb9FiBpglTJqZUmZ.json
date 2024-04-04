@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "type": "artist",
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557633733"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36HlMFtb9FiBpglTJqZUmZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/36HlMFtb9FiBpglTJqZUmZ",
+  "id": "36HlMFtb9FiBpglTJqZUmZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc907289ff9b1a11a9aa7aae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc907289ff9b1a11a9aa7aae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc907289ff9b1a11a9aa7aae",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Lust for Life (with The Weeknd)",
+  "popularity": 0,
+  "release_date": "2017-04-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/36HlMFtb9FiBpglTJqZUmZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+            },
+            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+            "id": "00FQb4jTyendYWaN8pK0wa",
+            "name": "Lana Del Rey",
+            "type": "artist",
+            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd",
+            "type": "artist",
+            "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264011,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LYQSNHZxEA880URXFHg6h"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LYQSNHZxEA880URXFHg6h",
+        "id": "5LYQSNHZxEA880URXFHg6h",
+        "is_local": false,
+        "name": "Lust for Life (with The Weeknd)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5LYQSNHZxEA880URXFHg6h"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:36HlMFtb9FiBpglTJqZUmZ"
+}

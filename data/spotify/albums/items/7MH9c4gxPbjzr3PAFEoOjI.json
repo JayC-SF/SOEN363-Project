@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fSfSKB9l8MTnYDgoPUmTD"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fSfSKB9l8MTnYDgoPUmTD",
+      "id": "1fSfSKB9l8MTnYDgoPUmTD",
+      "name": "CRS",
+      "type": "artist",
+      "uri": "spotify:artist:1fSfSKB9l8MTnYDgoPUmTD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Square Biz, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2023 Square Biz, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "734167547848"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MH9c4gxPbjzr3PAFEoOjI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MH9c4gxPbjzr3PAFEoOjI",
+  "id": "7MH9c4gxPbjzr3PAFEoOjI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc793857d28a2d7474225af0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc793857d28a2d7474225af0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc793857d28a2d7474225af0",
+      "width": 64
+    }
+  ],
+  "label": "Square Biz, Inc.",
+  "name": "Us Placers",
+  "popularity": 0,
+  "release_date": "2023-03-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MH9c4gxPbjzr3PAFEoOjI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fSfSKB9l8MTnYDgoPUmTD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fSfSKB9l8MTnYDgoPUmTD",
+            "id": "1fSfSKB9l8MTnYDgoPUmTD",
+            "name": "CRS",
+            "type": "artist",
+            "uri": "spotify:artist:1fSfSKB9l8MTnYDgoPUmTD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230388,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5l0WNYfNowCjEjSnGxRWSP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5l0WNYfNowCjEjSnGxRWSP",
+        "id": "5l0WNYfNowCjEjSnGxRWSP",
+        "is_local": false,
+        "name": "Us Placers",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5l0WNYfNowCjEjSnGxRWSP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7MH9c4gxPbjzr3PAFEoOjI"
+}

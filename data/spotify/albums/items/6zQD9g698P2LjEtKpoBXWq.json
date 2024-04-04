@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+      },
+      "href": "https://api.spotify.com/v1/artists/1AhjOkOLkbHUfcHDSErXQs",
+      "id": "1AhjOkOLkbHUfcHDSErXQs",
+      "name": "88rising",
+      "type": "artist",
+      "uri": "spotify:artist:1AhjOkOLkbHUfcHDSErXQs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UbmqUEgjLA6jAcXwbM1Z9",
+      "id": "6UbmqUEgjLA6jAcXwbM1Z9",
+      "name": "BIBI",
+      "type": "artist",
+      "uri": "spotify:artist:6UbmqUEgjLA6jAcXwbM1Z9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 88rising Records/Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 88rising Records/Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391912282"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6zQD9g698P2LjEtKpoBXWq",
+  "id": "6zQD9g698P2LjEtKpoBXWq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d373d58ad02ede9bfba2dbb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d373d58ad02ede9bfba2dbb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d373d58ad02ede9bfba2dbb5",
+      "width": 64
+    }
+  ],
+  "label": "88rising Music/Warner Records",
+  "name": "The Weekend",
+  "popularity": 42,
+  "release_date": "2021-10-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6zQD9g698P2LjEtKpoBXWq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/1AhjOkOLkbHUfcHDSErXQs",
+            "id": "1AhjOkOLkbHUfcHDSErXQs",
+            "name": "88rising",
+            "type": "artist",
+            "uri": "spotify:artist:1AhjOkOLkbHUfcHDSErXQs"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+            },
+            "href": "https://api.spotify.com/v1/artists/6UbmqUEgjLA6jAcXwbM1Z9",
+            "id": "6UbmqUEgjLA6jAcXwbM1Z9",
+            "name": "BIBI",
+            "type": "artist",
+            "uri": "spotify:artist:6UbmqUEgjLA6jAcXwbM1Z9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167661,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5q3LwAHTqo9d3rET2EA9Nq",
+        "id": "5q3LwAHTqo9d3rET2EA9Nq",
+        "is_local": false,
+        "name": "The Weekend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5q3LwAHTqo9d3rET2EA9Nq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6zQD9g698P2LjEtKpoBXWq"
+}

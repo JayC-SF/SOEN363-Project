@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+      "id": "3v0QTRruILayLe5VsaYdvk",
+      "name": "HAARPER",
+      "type": "artist",
+      "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Haarper",
+      "type": "C"
+    },
+    {
+      "text": "2021 Haarper",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196250913273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uS1LbaINYPzsp9EQBRpUd",
+  "id": "0uS1LbaINYPzsp9EQBRpUd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bcad6c10f1a5a9357974fdb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bcad6c10f1a5a9357974fdb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bcad6c10f1a5a9357974fdb5",
+      "width": 64
+    }
+  ],
+  "label": "1144223 Records DK2",
+  "name": "Bungee Gum",
+  "popularity": 0,
+  "release_date": "2020-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uS1LbaINYPzsp9EQBRpUd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3v0QTRruILayLe5VsaYdvk",
+            "id": "3v0QTRruILayLe5VsaYdvk",
+            "name": "HAARPER",
+            "type": "artist",
+            "uri": "spotify:artist:3v0QTRruILayLe5VsaYdvk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106633,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UboK4rDkzSDhoBkox2vxR",
+        "id": "2UboK4rDkzSDhoBkox2vxR",
+        "is_local": false,
+        "name": "Bungee Gum",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2UboK4rDkzSDhoBkox2vxR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0uS1LbaINYPzsp9EQBRpUd"
+}

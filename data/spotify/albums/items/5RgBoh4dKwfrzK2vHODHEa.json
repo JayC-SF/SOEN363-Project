@@ -1,0 +1,526 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+      },
+      "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+      "id": "2B0PgHZi2zaDqjKe86Gaip",
+      "name": "Mr. Scruff",
+      "type": "artist",
+      "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Ninja Tune",
+      "type": "C"
+    },
+    {
+      "text": "Ninja Tune",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5021392252391"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5RgBoh4dKwfrzK2vHODHEa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5RgBoh4dKwfrzK2vHODHEa",
+  "id": "5RgBoh4dKwfrzK2vHODHEa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273265136f6ff7d4598d49103e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02265136f6ff7d4598d49103e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851265136f6ff7d4598d49103e3",
+      "width": 64
+    }
+  ],
+  "label": "Ninja Tune",
+  "name": "Ninja Tuna",
+  "popularity": 0,
+  "release_date": "2008-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 14,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5RgBoh4dKwfrzK2vHODHEa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 100733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5D9SCSYmEDhbmR0EiVk8TY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5D9SCSYmEDhbmR0EiVk8TY",
+        "id": "5D9SCSYmEDhbmR0EiVk8TY",
+        "is_local": false,
+        "name": "Test The Sound",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5D9SCSYmEDhbmR0EiVk8TY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ga4lWS7NtKo4r9jNSWumc",
+            "id": "1ga4lWS7NtKo4r9jNSWumc",
+            "name": "Alice Russell",
+            "type": "artist",
+            "uri": "spotify:artist:1ga4lWS7NtKo4r9jNSWumc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 328466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yEsVvLF98B5uiBxdc9M0N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yEsVvLF98B5uiBxdc9M0N",
+        "id": "0yEsVvLF98B5uiBxdc9M0N",
+        "is_local": false,
+        "name": "Music Takes Me Up",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0yEsVvLF98B5uiBxdc9M0N"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 314333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60XTeVb6ED8vGym1K3dAZu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60XTeVb6ED8vGym1K3dAZu",
+        "id": "60XTeVb6ED8vGym1K3dAZu",
+        "is_local": false,
+        "name": "Donkey Ride",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:60XTeVb6ED8vGym1K3dAZu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 391400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kZvDFiN89i1gv5pslttEa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kZvDFiN89i1gv5pslttEa",
+        "id": "1kZvDFiN89i1gv5pslttEa",
+        "is_local": false,
+        "name": "Hairy Bumpercress",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1kZvDFiN89i1gv5pslttEa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 361173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jH4Y2hSjjcVIbE4fuNCsn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5jH4Y2hSjjcVIbE4fuNCsn",
+        "id": "5jH4Y2hSjjcVIbE4fuNCsn",
+        "is_local": false,
+        "name": "Whiplash",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5jH4Y2hSjjcVIbE4fuNCsn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sSSkVtrCTzENCgm2vokiY",
+            "id": "4sSSkVtrCTzENCgm2vokiY",
+            "name": "Roots Manuva",
+            "type": "artist",
+            "uri": "spotify:artist:4sSSkVtrCTzENCgm2vokiY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GvPskd7nXkZZMi7K8ulj7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GvPskd7nXkZZMi7K8ulj7",
+        "id": "2GvPskd7nXkZZMi7K8ulj7",
+        "is_local": false,
+        "name": "Nice Up The Function",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2GvPskd7nXkZZMi7K8ulj7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uztVQIpuMEDtDTBoEECOX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uztVQIpuMEDtDTBoEECOX",
+            "id": "1uztVQIpuMEDtDTBoEECOX",
+            "name": "Danny Breaks",
+            "type": "artist",
+            "uri": "spotify:artist:1uztVQIpuMEDtDTBoEECOX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PZsNBePnkEIM0qu7uNY6U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0PZsNBePnkEIM0qu7uNY6U",
+        "id": "0PZsNBePnkEIM0qu7uNY6U",
+        "is_local": false,
+        "name": "Bang The Floor",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0PZsNBePnkEIM0qu7uNY6U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 354160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72HZB1oouKW37dYOH2PaqH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72HZB1oouKW37dYOH2PaqH",
+        "id": "72HZB1oouKW37dYOH2PaqH",
+        "is_local": false,
+        "name": "Get On Down",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:72HZB1oouKW37dYOH2PaqH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+            },
+            "href": "https://api.spotify.com/v1/artists/6SKEuFZYhaTytrhtJjgnO2",
+            "id": "6SKEuFZYhaTytrhtJjgnO2",
+            "name": "Andreya Triana",
+            "type": "artist",
+            "uri": "spotify:artist:6SKEuFZYhaTytrhtJjgnO2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dJUjwrQyhYLuudlRw8HV3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dJUjwrQyhYLuudlRw8HV3",
+        "id": "6dJUjwrQyhYLuudlRw8HV3",
+        "is_local": false,
+        "name": "Hold On",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6dJUjwrQyhYLuudlRw8HV3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 405293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KJOVYHZ7cZIQU8TZGrsoe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2KJOVYHZ7cZIQU8TZGrsoe",
+        "id": "2KJOVYHZ7cZIQU8TZGrsoe",
+        "is_local": false,
+        "name": "Give Up To Get",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2KJOVYHZ7cZIQU8TZGrsoe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 351440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fOOZRwBQPGsoOuN9rVh2E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fOOZRwBQPGsoOuN9rVh2E",
+        "id": "7fOOZRwBQPGsoOuN9rVh2E",
+        "is_local": false,
+        "name": "Kalimba",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7fOOZRwBQPGsoOuN9rVh2E"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vrzdo6FcdBlUjxP0vG4s0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vrzdo6FcdBlUjxP0vG4s0",
+            "id": "3vrzdo6FcdBlUjxP0vG4s0",
+            "name": "Pete Simpson",
+            "type": "artist",
+            "uri": "spotify:artist:3vrzdo6FcdBlUjxP0vG4s0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 332200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ws7KRZo3rlrp8p0MJJiWu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Ws7KRZo3rlrp8p0MJJiWu",
+        "id": "6Ws7KRZo3rlrp8p0MJJiWu",
+        "is_local": false,
+        "name": "This Way",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6Ws7KRZo3rlrp8p0MJJiWu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 329600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19JNfyUFNqPQSyiSu6Re2P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/19JNfyUFNqPQSyiSu6Re2P",
+        "id": "19JNfyUFNqPQSyiSu6Re2P",
+        "is_local": false,
+        "name": "Stockport Carnival",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:19JNfyUFNqPQSyiSu6Re2P"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B0PgHZi2zaDqjKe86Gaip",
+            "id": "2B0PgHZi2zaDqjKe86Gaip",
+            "name": "Mr. Scruff",
+            "type": "artist",
+            "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 293226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3V9BdSxDQQvto44ZddmsDe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3V9BdSxDQQvto44ZddmsDe",
+        "id": "3V9BdSxDQQvto44ZddmsDe",
+        "is_local": false,
+        "name": "Fix That Speaker",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3V9BdSxDQQvto44ZddmsDe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+  },
+  "type": "album",
+  "uri": "spotify:album:5RgBoh4dKwfrzK2vHODHEa"
+}

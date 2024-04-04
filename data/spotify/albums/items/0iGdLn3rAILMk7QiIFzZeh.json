@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+      },
+      "href": "https://api.spotify.com/v1/artists/4cJD9t5QBFTUQcd3xfbOb2",
+      "id": "4cJD9t5QBFTUQcd3xfbOb2",
+      "name": "Dillom",
+      "type": "artist",
+      "uri": "spotify:artist:4cJD9t5QBFTUQcd3xfbOb2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Dillom",
+      "type": "C"
+    },
+    {
+      "text": "2019 Dillom",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059137034766"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0iGdLn3rAILMk7QiIFzZeh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0iGdLn3rAILMk7QiIFzZeh",
+  "id": "0iGdLn3rAILMk7QiIFzZeh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a05cdbd8f3dd416be6b6730e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a05cdbd8f3dd416be6b6730e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a05cdbd8f3dd416be6b6730e",
+      "width": 64
+    }
+  ],
+  "label": "Dillom",
+  "name": "Superglue",
+  "popularity": 0,
+  "release_date": "2018-12-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0iGdLn3rAILMk7QiIFzZeh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cJD9t5QBFTUQcd3xfbOb2",
+            "id": "4cJD9t5QBFTUQcd3xfbOb2",
+            "name": "Dillom",
+            "type": "artist",
+            "uri": "spotify:artist:4cJD9t5QBFTUQcd3xfbOb2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+            },
+            "href": "https://api.spotify.com/v1/artists/26TC05Yq727xEWV77nRinH",
+            "id": "26TC05Yq727xEWV77nRinH",
+            "name": "ill quentin",
+            "type": "artist",
+            "uri": "spotify:artist:26TC05Yq727xEWV77nRinH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 123038,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IpcmLHyI2eOtFpZLRgomq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IpcmLHyI2eOtFpZLRgomq",
+        "id": "2IpcmLHyI2eOtFpZLRgomq",
+        "is_local": false,
+        "name": "Superglue",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2IpcmLHyI2eOtFpZLRgomq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0iGdLn3rAILMk7QiIFzZeh"
+}

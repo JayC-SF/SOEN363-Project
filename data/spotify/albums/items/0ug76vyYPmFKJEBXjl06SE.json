@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2WxjxdeF7GGdcCK276qViY",
+      "id": "2WxjxdeF7GGdcCK276qViY",
+      "name": "Natalie Taylor",
+      "type": "artist",
+      "uri": "spotify:artist:2WxjxdeF7GGdcCK276qViY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Natalie Taylor",
+      "type": "C"
+    },
+    {
+      "text": "2019 Natalie Taylor",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859731601938"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ug76vyYPmFKJEBXjl06SE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ug76vyYPmFKJEBXjl06SE",
+  "id": "0ug76vyYPmFKJEBXjl06SE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739afbb002c0cb3122c56778e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029afbb002c0cb3122c56778e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519afbb002c0cb3122c56778e4",
+      "width": 64
+    }
+  ],
+  "label": "Natalie Taylor",
+  "name": "Iris",
+  "popularity": 0,
+  "release_date": "2019-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ug76vyYPmFKJEBXjl06SE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2WxjxdeF7GGdcCK276qViY",
+            "id": "2WxjxdeF7GGdcCK276qViY",
+            "name": "Natalie Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:2WxjxdeF7GGdcCK276qViY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170921,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69NoqtGfug4l177uGFTiGZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/69NoqtGfug4l177uGFTiGZ",
+        "id": "69NoqtGfug4l177uGFTiGZ",
+        "is_local": false,
+        "name": "Iris",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:69NoqtGfug4l177uGFTiGZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ug76vyYPmFKJEBXjl06SE"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3nirCcAFDstMworUJd3OfN",
+      "id": "3nirCcAFDstMworUJd3OfN",
+      "name": "Nicholas Bonnin",
+      "type": "artist",
+      "uri": "spotify:artist:3nirCcAFDstMworUJd3OfN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Jxv8p3dEf5cFKiDaNdvLP",
+      "id": "5Jxv8p3dEf5cFKiDaNdvLP",
+      "name": "Angelicca",
+      "type": "artist",
+      "uri": "spotify:artist:5Jxv8p3dEf5cFKiDaNdvLP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Nicholas Bonnin",
+      "type": "C"
+    },
+    {
+      "text": "2021 Nicholas Bonnin",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059713925907"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wAAwpD30OPym42xsioMmc",
+  "id": "3wAAwpD30OPym42xsioMmc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273569e54a9a3c0779d926e3d99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02569e54a9a3c0779d926e3d99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851569e54a9a3c0779d926e3d99",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Shut Up and Listen",
+  "popularity": 0,
+  "release_date": "2021-05-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wAAwpD30OPym42xsioMmc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nirCcAFDstMworUJd3OfN",
+            "id": "3nirCcAFDstMworUJd3OfN",
+            "name": "Nicholas Bonnin",
+            "type": "artist",
+            "uri": "spotify:artist:3nirCcAFDstMworUJd3OfN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Jxv8p3dEf5cFKiDaNdvLP",
+            "id": "5Jxv8p3dEf5cFKiDaNdvLP",
+            "name": "Angelicca",
+            "type": "artist",
+            "uri": "spotify:artist:5Jxv8p3dEf5cFKiDaNdvLP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yqAz6HBzwlJ2nGjK4UiX0",
+        "id": "0yqAz6HBzwlJ2nGjK4UiX0",
+        "is_local": false,
+        "name": "Shut Up and Listen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0yqAz6HBzwlJ2nGjK4UiX0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wAAwpD30OPym42xsioMmc"
+}

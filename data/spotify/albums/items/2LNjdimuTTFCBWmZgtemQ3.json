@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1c9HvyZemDcNy18QrNFeTN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1c9HvyZemDcNy18QrNFeTN",
+      "id": "1c9HvyZemDcNy18QrNFeTN",
+      "name": "Max & Harvey",
+      "type": "artist",
+      "uri": "spotify:artist:1c9HvyZemDcNy18QrNFeTN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Max & Harvey under exclusive license to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2020 Max & Harvey",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526241978"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2LNjdimuTTFCBWmZgtemQ3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2LNjdimuTTFCBWmZgtemQ3",
+  "id": "2LNjdimuTTFCBWmZgtemQ3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330e06bea2875ab3fab503431",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230e06bea2875ab3fab503431",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130e06bea2875ab3fab503431",
+      "width": 64
+    }
+  ],
+  "label": "FRTYFVE",
+  "name": "Worry A Little Less",
+  "popularity": 0,
+  "release_date": "2020-12-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2LNjdimuTTFCBWmZgtemQ3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1c9HvyZemDcNy18QrNFeTN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1c9HvyZemDcNy18QrNFeTN",
+            "id": "1c9HvyZemDcNy18QrNFeTN",
+            "name": "Max & Harvey",
+            "type": "artist",
+            "uri": "spotify:artist:1c9HvyZemDcNy18QrNFeTN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185455,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WY2lbrxJIgynrxuATlc00"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WY2lbrxJIgynrxuATlc00",
+        "id": "2WY2lbrxJIgynrxuATlc00",
+        "is_local": false,
+        "name": "Worry A Little Less",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2WY2lbrxJIgynrxuATlc00"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2LNjdimuTTFCBWmZgtemQ3"
+}

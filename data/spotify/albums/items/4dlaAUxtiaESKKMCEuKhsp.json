@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+      "id": "1F3BcbR6yzILOCzzA3i0Rh",
+      "name": "Mishegas",
+      "type": "artist",
+      "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Distributed by SWM Songs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "843357118369"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4dlaAUxtiaESKKMCEuKhsp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4dlaAUxtiaESKKMCEuKhsp",
+  "id": "4dlaAUxtiaESKKMCEuKhsp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739dcfec61787ef65d0b499242",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029dcfec61787ef65d0b499242",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519dcfec61787ef65d0b499242",
+      "width": 64
+    }
+  ],
+  "label": "Distributed by SWM Songs",
+  "name": "Episodes",
+  "popularity": 0,
+  "release_date": "2018-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4dlaAUxtiaESKKMCEuKhsp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+            "id": "1F3BcbR6yzILOCzzA3i0Rh",
+            "name": "Mishegas",
+            "type": "artist",
+            "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186352,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lIfzxIDvFtWmelRLY4oud"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4lIfzxIDvFtWmelRLY4oud",
+        "id": "4lIfzxIDvFtWmelRLY4oud",
+        "is_local": false,
+        "name": "Episodes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4lIfzxIDvFtWmelRLY4oud"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4dlaAUxtiaESKKMCEuKhsp"
+}

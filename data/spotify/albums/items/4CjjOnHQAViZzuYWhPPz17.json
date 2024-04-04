@@ -1,0 +1,418 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+      "id": "1ayiGn4MLc427PozR13p1y",
+      "name": "FrancisM",
+      "type": "artist",
+      "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Philippine Copyright",
+      "type": "C"
+    },
+    {
+      "text": "2012 PolyEast Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4800635002020"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4CjjOnHQAViZzuYWhPPz17"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4CjjOnHQAViZzuYWhPPz17",
+  "id": "4CjjOnHQAViZzuYWhPPz17",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b84ff38df95bef7fee20b971",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b84ff38df95bef7fee20b971",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b84ff38df95bef7fee20b971",
+      "width": 64
+    }
+  ],
+  "label": "PolyEast Records",
+  "name": "Yo!",
+  "popularity": 0,
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 12,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4CjjOnHQAViZzuYWhPPz17/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200777,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wXOrU38HbtWMiVSCa9p8m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wXOrU38HbtWMiVSCa9p8m",
+        "id": "3wXOrU38HbtWMiVSCa9p8m",
+        "is_local": false,
+        "name": "Gotta Let Cha Know",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3wXOrU38HbtWMiVSCa9p8m"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 260101,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JS9fYrLWf33d0NIN1fj3B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JS9fYrLWf33d0NIN1fj3B",
+        "id": "5JS9fYrLWf33d0NIN1fj3B",
+        "is_local": false,
+        "name": "My Only One",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5JS9fYrLWf33d0NIN1fj3B"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267624,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TazMUs58GQslL4m09QsmD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TazMUs58GQslL4m09QsmD",
+        "id": "0TazMUs58GQslL4m09QsmD",
+        "is_local": false,
+        "name": "Cold Summer Nights",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0TazMUs58GQslL4m09QsmD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qbmkB74DmM7c8K4WdIy6U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qbmkB74DmM7c8K4WdIy6U",
+        "id": "4qbmkB74DmM7c8K4WdIy6U",
+        "is_local": false,
+        "name": "Get on the Dance Floor",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4qbmkB74DmM7c8K4WdIy6U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 356754,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Tz0Xr1u1DUeHCv0uHrNhT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Tz0Xr1u1DUeHCv0uHrNhT",
+        "id": "4Tz0Xr1u1DUeHCv0uHrNhT",
+        "is_local": false,
+        "name": "Don't Make Me Over",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4Tz0Xr1u1DUeHCv0uHrNhT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214230,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jnNvTKP1nv27NTgHVFxfz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jnNvTKP1nv27NTgHVFxfz",
+        "id": "3jnNvTKP1nv27NTgHVFxfz",
+        "is_local": false,
+        "name": "Mga Kababayan",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3jnNvTKP1nv27NTgHVFxfz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 294478,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wmyXao5KASEua2DyL6Wrl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wmyXao5KASEua2DyL6Wrl",
+        "id": "6wmyXao5KASEua2DyL6Wrl",
+        "is_local": false,
+        "name": "Loving You",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6wmyXao5KASEua2DyL6Wrl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 271934,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dQkF8tSKUvT1qUKU4qjnc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dQkF8tSKUvT1qUKU4qjnc",
+        "id": "1dQkF8tSKUvT1qUKU4qjnc",
+        "is_local": false,
+        "name": "Ib-Me - Wanna Be Me",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1dQkF8tSKUvT1qUKU4qjnc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PZ37GKV38S7cMXZTkvnVS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PZ37GKV38S7cMXZTkvnVS",
+        "id": "1PZ37GKV38S7cMXZTkvnVS",
+        "is_local": false,
+        "name": "The Mouth",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1PZ37GKV38S7cMXZTkvnVS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 466677,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UOlclX0dNme5iWpViBCXL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1UOlclX0dNme5iWpViBCXL",
+        "id": "1UOlclX0dNme5iWpViBCXL",
+        "is_local": false,
+        "name": "Gotta Let Cha Know - Extended Version",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1UOlclX0dNme5iWpViBCXL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 324101,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TqbiTW5GhCdpDMqZ2XySa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TqbiTW5GhCdpDMqZ2XySa",
+        "id": "5TqbiTW5GhCdpDMqZ2XySa",
+        "is_local": false,
+        "name": "Mga Kababayan - Extended Version",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5TqbiTW5GhCdpDMqZ2XySa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ayiGn4MLc427PozR13p1y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ayiGn4MLc427PozR13p1y",
+            "id": "1ayiGn4MLc427PozR13p1y",
+            "name": "FrancisM",
+            "type": "artist",
+            "uri": "spotify:artist:1ayiGn4MLc427PozR13p1y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 455471,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BBgm6mYVfvGQE30SOi3qi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BBgm6mYVfvGQE30SOi3qi",
+        "id": "4BBgm6mYVfvGQE30SOi3qi",
+        "is_local": false,
+        "name": "Yo Bits and Pieces",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4BBgm6mYVfvGQE30SOi3qi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  },
+  "type": "album",
+  "uri": "spotify:album:4CjjOnHQAViZzuYWhPPz17"
+}

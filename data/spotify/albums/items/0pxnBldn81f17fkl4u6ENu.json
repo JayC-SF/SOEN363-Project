@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+      },
+      "href": "https://api.spotify.com/v1/artists/24UmQq4ccfSLpXXurb40ig",
+      "id": "24UmQq4ccfSLpXXurb40ig",
+      "name": "Honk!",
+      "type": "artist",
+      "uri": "spotify:artist:24UmQq4ccfSLpXXurb40ig"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Summerfield Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Summerfield Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260149069566"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0pxnBldn81f17fkl4u6ENu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0pxnBldn81f17fkl4u6ENu",
+  "id": "0pxnBldn81f17fkl4u6ENu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8a98e474a69325729eb01f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8a98e474a69325729eb01f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8a98e474a69325729eb01f9",
+      "width": 64
+    }
+  ],
+  "label": "Summerfield Records",
+  "name": "Hallo Helmut (Andere Farbe)",
+  "popularity": 14,
+  "release_date": "2017-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0pxnBldn81f17fkl4u6ENu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+            },
+            "href": "https://api.spotify.com/v1/artists/24UmQq4ccfSLpXXurb40ig",
+            "id": "24UmQq4ccfSLpXXurb40ig",
+            "name": "Honk!",
+            "type": "artist",
+            "uri": "spotify:artist:24UmQq4ccfSLpXXurb40ig"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185625,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/718GnYamruAF37EAMaa600"
+        },
+        "href": "https://api.spotify.com/v1/tracks/718GnYamruAF37EAMaa600",
+        "id": "718GnYamruAF37EAMaa600",
+        "is_local": false,
+        "name": "Hallo Helmut (Andere Farbe)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:718GnYamruAF37EAMaa600"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0pxnBldn81f17fkl4u6ENu"
+}

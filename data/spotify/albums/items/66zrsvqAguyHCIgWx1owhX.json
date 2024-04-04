@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MqDJjftY4Qp8Ge9hkx5HS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MqDJjftY4Qp8Ge9hkx5HS",
+      "id": "2MqDJjftY4Qp8Ge9hkx5HS",
+      "name": "CALVIN",
+      "type": "artist",
+      "uri": "spotify:artist:2MqDJjftY4Qp8Ge9hkx5HS"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "EE",
+    "FI",
+    "IS",
+    "LT",
+    "LV",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2016 disco:wax",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445858761"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/66zrsvqAguyHCIgWx1owhX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/66zrsvqAguyHCIgWx1owhX",
+  "id": "66zrsvqAguyHCIgWx1owhX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d68ee325225110961eff449",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d68ee325225110961eff449",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d68ee325225110961eff449",
+      "width": 64
+    }
+  ],
+  "label": "disco:wax",
+  "name": "Give U Up",
+  "popularity": 23,
+  "release_date": "2016-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/66zrsvqAguyHCIgWx1owhX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2MqDJjftY4Qp8Ge9hkx5HS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2MqDJjftY4Qp8Ge9hkx5HS",
+            "id": "2MqDJjftY4Qp8Ge9hkx5HS",
+            "name": "CALVIN",
+            "type": "artist",
+            "uri": "spotify:artist:2MqDJjftY4Qp8Ge9hkx5HS"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "EE",
+          "FI",
+          "IS",
+          "LT",
+          "LV",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 196266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KWZ914T7l0Wy18yzdvH3N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KWZ914T7l0Wy18yzdvH3N",
+        "id": "5KWZ914T7l0Wy18yzdvH3N",
+        "is_local": false,
+        "name": "Give U Up",
+        "preview_url": "https://p.scdn.co/mp3-preview/6a2375ea374a2d1cd4fe9fb099ccd29e76161079?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5KWZ914T7l0Wy18yzdvH3N"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:66zrsvqAguyHCIgWx1owhX"
+}

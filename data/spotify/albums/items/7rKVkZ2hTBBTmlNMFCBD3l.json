@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5JsdVATHNPE0XdMFMRoSuf",
+      "id": "5JsdVATHNPE0XdMFMRoSuf",
+      "name": "Texas",
+      "type": "artist",
+      "uri": "spotify:artist:5JsdVATHNPE0XdMFMRoSuf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 BMG Rights Management (UK) Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 BMG Rights Management (UK) Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538275087"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7rKVkZ2hTBBTmlNMFCBD3l"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7rKVkZ2hTBBTmlNMFCBD3l",
+  "id": "7rKVkZ2hTBBTmlNMFCBD3l",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347aae2727cdb62354b1d7d24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247aae2727cdb62354b1d7d24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147aae2727cdb62354b1d7d24",
+      "width": 64
+    }
+  ],
+  "label": "BMG Rights Management (UK) Ltd",
+  "name": "Let's Work It Out",
+  "popularity": 0,
+  "release_date": "2017-02-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7rKVkZ2hTBBTmlNMFCBD3l/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JsdVATHNPE0XdMFMRoSuf",
+            "id": "5JsdVATHNPE0XdMFMRoSuf",
+            "name": "Texas",
+            "type": "artist",
+            "uri": "spotify:artist:5JsdVATHNPE0XdMFMRoSuf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221755,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AdpoGYRT4KqDGWWyeWiaN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AdpoGYRT4KqDGWWyeWiaN",
+        "id": "0AdpoGYRT4KqDGWWyeWiaN",
+        "is_local": false,
+        "name": "Let's Work It Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0AdpoGYRT4KqDGWWyeWiaN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7rKVkZ2hTBBTmlNMFCBD3l"
+}

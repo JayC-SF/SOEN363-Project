@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5TFWfcZSH39BwHbxpsn1UJ",
+      "id": "5TFWfcZSH39BwHbxpsn1UJ",
+      "name": "Liddy Clark",
+      "type": "artist",
+      "uri": "spotify:artist:5TFWfcZSH39BwHbxpsn1UJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Crimson Rose Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Crimson Rose Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495396475"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rPwBSAtBuu7hl9xFMLeCe",
+  "id": "1rPwBSAtBuu7hl9xFMLeCe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8ec8b9824413c849b8263a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8ec8b9824413c849b8263a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8ec8b9824413c849b8263a6",
+      "width": 64
+    }
+  ],
+  "label": "Crimson Rose Records",
+  "name": "We Both Know",
+  "popularity": 0,
+  "release_date": "2021-04-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rPwBSAtBuu7hl9xFMLeCe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TFWfcZSH39BwHbxpsn1UJ",
+            "id": "5TFWfcZSH39BwHbxpsn1UJ",
+            "name": "Liddy Clark",
+            "type": "artist",
+            "uri": "spotify:artist:5TFWfcZSH39BwHbxpsn1UJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RcJ0gnr3TXWXBKY3RB9xQ",
+        "id": "1RcJ0gnr3TXWXBKY3RB9xQ",
+        "is_local": false,
+        "name": "We Both Know",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RcJ0gnr3TXWXBKY3RB9xQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rPwBSAtBuu7hl9xFMLeCe"
+}

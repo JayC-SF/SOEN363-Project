@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0f14r70OISSfJoyqYaHbgV",
+      "id": "0f14r70OISSfJoyqYaHbgV",
+      "name": "Anja Schneider",
+      "type": "artist",
+      "uri": "spotify:artist:0f14r70OISSfJoyqYaHbgV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Mobilee Records",
+      "type": "C"
+    },
+    {
+      "text": "2014 Mobilee Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4250644884092"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3E8Pk16orSkKFogMoDDHGR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3E8Pk16orSkKFogMoDDHGR",
+  "id": "3E8Pk16orSkKFogMoDDHGR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273109b047ea43a287a8802fdd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02109b047ea43a287a8802fdd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851109b047ea43a287a8802fdd2",
+      "width": 64
+    }
+  ],
+  "label": "mobilee records",
+  "name": "Jimmy",
+  "popularity": 0,
+  "release_date": "2014-12-26",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3E8Pk16orSkKFogMoDDHGR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0f14r70OISSfJoyqYaHbgV",
+            "id": "0f14r70OISSfJoyqYaHbgV",
+            "name": "Anja Schneider",
+            "type": "artist",
+            "uri": "spotify:artist:0f14r70OISSfJoyqYaHbgV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 435792,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dKeLKnx6Ow7W7YlSDOLik"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2dKeLKnx6Ow7W7YlSDOLik",
+        "id": "2dKeLKnx6Ow7W7YlSDOLik",
+        "is_local": false,
+        "name": "Jimmy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2dKeLKnx6Ow7W7YlSDOLik"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0f14r70OISSfJoyqYaHbgV",
+            "id": "0f14r70OISSfJoyqYaHbgV",
+            "name": "Anja Schneider",
+            "type": "artist",
+            "uri": "spotify:artist:0f14r70OISSfJoyqYaHbgV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 501040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NpMQ1mYmVhamg9OoYcUqR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NpMQ1mYmVhamg9OoYcUqR",
+        "id": "6NpMQ1mYmVhamg9OoYcUqR",
+        "is_local": false,
+        "name": "Lovetube Thinking",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6NpMQ1mYmVhamg9OoYcUqR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3E8Pk16orSkKFogMoDDHGR"
+}

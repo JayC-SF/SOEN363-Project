@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+      },
+      "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+      "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+      "name": "Yeat",
+      "type": "artist",
+      "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 TwizzyRich",
+      "type": "C"
+    },
+    {
+      "text": "2021 TwizzyRich",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391127296"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4kV56LEdTS4pRT2UR94WZW",
+  "id": "4kV56LEdTS4pRT2UR94WZW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fddd1e0501059867c08bd9e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fddd1e0501059867c08bd9e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fddd1e0501059867c08bd9e6",
+      "width": 64
+    }
+  ],
+  "label": "TwizzyRich",
+  "name": "G\u00ebt Busy",
+  "popularity": 0,
+  "release_date": "2021-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4kV56LEdTS4pRT2UR94WZW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+            "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+            "name": "Yeat",
+            "type": "artist",
+            "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157779,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JhU9tkEJqUsjjr37cIpdG",
+        "id": "2JhU9tkEJqUsjjr37cIpdG",
+        "is_local": false,
+        "name": "G\u00ebt Busy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JhU9tkEJqUsjjr37cIpdG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4kV56LEdTS4pRT2UR94WZW"
+}

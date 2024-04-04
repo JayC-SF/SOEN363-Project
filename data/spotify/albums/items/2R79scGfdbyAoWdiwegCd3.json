@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QfFjAQzBAbPAUiW7cgxuh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1QfFjAQzBAbPAUiW7cgxuh",
+      "id": "1QfFjAQzBAbPAUiW7cgxuh",
+      "name": "Nestalgica",
+      "type": "artist",
+      "uri": "spotify:artist:1QfFjAQzBAbPAUiW7cgxuh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Nestalgica",
+      "type": "C"
+    },
+    {
+      "text": "2016 Nestalgica",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191061916819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2R79scGfdbyAoWdiwegCd3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2R79scGfdbyAoWdiwegCd3",
+  "id": "2R79scGfdbyAoWdiwegCd3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d82065790e6e8ad0fc8b7e5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d82065790e6e8ad0fc8b7e5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d82065790e6e8ad0fc8b7e5d",
+      "width": 64
+    }
+  ],
+  "label": "Nestalgica",
+  "name": "Splattack! (From \"Splatoon\")",
+  "popularity": 0,
+  "release_date": "2016-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2R79scGfdbyAoWdiwegCd3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QfFjAQzBAbPAUiW7cgxuh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QfFjAQzBAbPAUiW7cgxuh",
+            "id": "1QfFjAQzBAbPAUiW7cgxuh",
+            "name": "Nestalgica",
+            "type": "artist",
+            "uri": "spotify:artist:1QfFjAQzBAbPAUiW7cgxuh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212195,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3eq3W7cLEIdwMYcs99zJkq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3eq3W7cLEIdwMYcs99zJkq",
+        "id": "3eq3W7cLEIdwMYcs99zJkq",
+        "is_local": false,
+        "name": "Splattack! (From \"Splatoon\")",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3eq3W7cLEIdwMYcs99zJkq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2R79scGfdbyAoWdiwegCd3"
+}

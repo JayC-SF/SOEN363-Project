@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PPetvBg4hGBkco4Y267hd",
+      "id": "5PPetvBg4hGBkco4Y267hd",
+      "name": "Quelly Woo",
+      "type": "artist",
+      "uri": "spotify:artist:5PPetvBg4hGBkco4Y267hd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dtz0vRRNPW7J2N94X85eB",
+      "id": "4dtz0vRRNPW7J2N94X85eB",
+      "name": "Set Da Trend",
+      "type": "artist",
+      "uri": "spotify:artist:4dtz0vRRNPW7J2N94X85eB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 TP RECORDS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "709401151884"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sOTBkbM2g4Jun60EwnfxG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7sOTBkbM2g4Jun60EwnfxG",
+  "id": "7sOTBkbM2g4Jun60EwnfxG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc56a74dc2cf5afeae2e672b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc56a74dc2cf5afeae2e672b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc56a74dc2cf5afeae2e672b",
+      "width": 64
+    }
+  ],
+  "label": "TP RECORDS",
+  "name": "Gravity",
+  "popularity": 0,
+  "release_date": "2022-05-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sOTBkbM2g4Jun60EwnfxG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PPetvBg4hGBkco4Y267hd",
+            "id": "5PPetvBg4hGBkco4Y267hd",
+            "name": "Quelly Woo",
+            "type": "artist",
+            "uri": "spotify:artist:5PPetvBg4hGBkco4Y267hd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dtz0vRRNPW7J2N94X85eB",
+            "id": "4dtz0vRRNPW7J2N94X85eB",
+            "name": "Set Da Trend",
+            "type": "artist",
+            "uri": "spotify:artist:4dtz0vRRNPW7J2N94X85eB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 92760,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6V498DtkIp4SvMz60UeNNn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6V498DtkIp4SvMz60UeNNn",
+        "id": "6V498DtkIp4SvMz60UeNNn",
+        "is_local": false,
+        "name": "Gravity",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6V498DtkIp4SvMz60UeNNn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7sOTBkbM2g4Jun60EwnfxG"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
+      "id": "0NIPkIjTV8mB795yEIiPYL",
+      "name": "Wallows",
+      "type": "artist",
+      "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+      "type": "C"
+    },
+    {
+      "text": "2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679876720"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3WWeMfaVWtyOahEH3TQA2K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3WWeMfaVWtyOahEH3TQA2K",
+  "id": "3WWeMfaVWtyOahEH3TQA2K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac3c0b591cedc7735d7142e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac3c0b591cedc7735d7142e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac3c0b591cedc7735d7142e7",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "These Days",
+  "popularity": 0,
+  "release_date": "2018-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3WWeMfaVWtyOahEH3TQA2K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
+            "id": "0NIPkIjTV8mB795yEIiPYL",
+            "name": "Wallows",
+            "type": "artist",
+            "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GL0TZRvSyriDJnEsjBU9y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GL0TZRvSyriDJnEsjBU9y",
+        "id": "0GL0TZRvSyriDJnEsjBU9y",
+        "is_local": false,
+        "name": "These Days",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0GL0TZRvSyriDJnEsjBU9y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3WWeMfaVWtyOahEH3TQA2K"
+}

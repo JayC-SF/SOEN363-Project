@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+      },
+      "href": "https://api.spotify.com/v1/artists/11ajgggOI6hGjR8CF53mhG",
+      "id": "11ajgggOI6hGjR8CF53mhG",
+      "name": "F430",
+      "type": "artist",
+      "uri": "spotify:artist:11ajgggOI6hGjR8CF53mhG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Guapo records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Guapo records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859728601194"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iEV15iysAo4SqCfAEhqWq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5iEV15iysAo4SqCfAEhqWq",
+  "id": "5iEV15iysAo4SqCfAEhqWq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330090b7b5a7c6e6eaebafd79",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230090b7b5a7c6e6eaebafd79",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130090b7b5a7c6e6eaebafd79",
+      "width": 64
+    }
+  ],
+  "label": "Guapo records",
+  "name": "Gangsta",
+  "popularity": 0,
+  "release_date": "2018-09-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5iEV15iysAo4SqCfAEhqWq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+            },
+            "href": "https://api.spotify.com/v1/artists/11ajgggOI6hGjR8CF53mhG",
+            "id": "11ajgggOI6hGjR8CF53mhG",
+            "name": "F430",
+            "type": "artist",
+            "uri": "spotify:artist:11ajgggOI6hGjR8CF53mhG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182391,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mPXth5fTFBr53F8QdVyoV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mPXth5fTFBr53F8QdVyoV",
+        "id": "3mPXth5fTFBr53F8QdVyoV",
+        "is_local": false,
+        "name": "Gangsta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3mPXth5fTFBr53F8QdVyoV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5iEV15iysAo4SqCfAEhqWq"
+}

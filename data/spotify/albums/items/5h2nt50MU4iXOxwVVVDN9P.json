@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+      },
+      "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+      "id": "1r4hJ1h58CWwUQe3MxPuau",
+      "name": "Maluma",
+      "type": "artist",
+      "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2018 Sony Music Entertainment US Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447011898"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5h2nt50MU4iXOxwVVVDN9P"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5h2nt50MU4iXOxwVVVDN9P",
+  "id": "5h2nt50MU4iXOxwVVVDN9P",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273530b91ed48d536028e8ac26f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02530b91ed48d536028e8ac26f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851530b91ed48d536028e8ac26f",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Latin",
+  "name": "El Pr\u00e9stamo",
+  "popularity": 0,
+  "release_date": "2018-03-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5h2nt50MU4iXOxwVVVDN9P/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+            "id": "1r4hJ1h58CWwUQe3MxPuau",
+            "name": "Maluma",
+            "type": "artist",
+            "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219396,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QS5rZpm5zN9wV9lJgjyUE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0QS5rZpm5zN9wV9lJgjyUE",
+        "id": "0QS5rZpm5zN9wV9lJgjyUE",
+        "is_local": false,
+        "name": "El Pr\u00e9stamo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0QS5rZpm5zN9wV9lJgjyUE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5h2nt50MU4iXOxwVVVDN9P"
+}

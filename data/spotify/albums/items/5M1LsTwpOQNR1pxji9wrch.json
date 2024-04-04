@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1J0SLvzCL7Rrp4JtSHodFz"
+      },
+      "href": "https://api.spotify.com/v1/artists/1J0SLvzCL7Rrp4JtSHodFz",
+      "id": "1J0SLvzCL7Rrp4JtSHodFz",
+      "name": "spies",
+      "type": "artist",
+      "uri": "spotify:artist:1J0SLvzCL7Rrp4JtSHodFz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 YourHeartDay",
+      "type": "C"
+    },
+    {
+      "text": "2021 YourHeartDay",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196622588085"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5M1LsTwpOQNR1pxji9wrch"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5M1LsTwpOQNR1pxji9wrch",
+  "id": "5M1LsTwpOQNR1pxji9wrch",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365f3397580aff09b1377b570",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265f3397580aff09b1377b570",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165f3397580aff09b1377b570",
+      "width": 64
+    }
+  ],
+  "label": "YourHeartDay",
+  "name": "dog tags, love my id",
+  "popularity": 0,
+  "release_date": "2021-12-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5M1LsTwpOQNR1pxji9wrch/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1J0SLvzCL7Rrp4JtSHodFz"
+            },
+            "href": "https://api.spotify.com/v1/artists/1J0SLvzCL7Rrp4JtSHodFz",
+            "id": "1J0SLvzCL7Rrp4JtSHodFz",
+            "name": "spies",
+            "type": "artist",
+            "uri": "spotify:artist:1J0SLvzCL7Rrp4JtSHodFz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 80589,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JgPRcPnPOiwfVEprZcGDv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JgPRcPnPOiwfVEprZcGDv",
+        "id": "5JgPRcPnPOiwfVEprZcGDv",
+        "is_local": false,
+        "name": "dog tags, love my id",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5JgPRcPnPOiwfVEprZcGDv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5M1LsTwpOQNR1pxji9wrch"
+}

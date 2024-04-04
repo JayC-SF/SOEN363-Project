@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+      "id": "1F3BcbR6yzILOCzzA3i0Rh",
+      "name": "Mishegas",
+      "type": "artist",
+      "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Distributed by SWM Songs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810046034774"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0v32AOjRz05Bsmt2gwaoET"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0v32AOjRz05Bsmt2gwaoET",
+  "id": "0v32AOjRz05Bsmt2gwaoET",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e492f3c9658fb80a8e14efbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e492f3c9658fb80a8e14efbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e492f3c9658fb80a8e14efbb",
+      "width": 64
+    }
+  ],
+  "label": "Distributed by SWM Songs",
+  "name": "Tonight",
+  "popularity": 0,
+  "release_date": "2017-10-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0v32AOjRz05Bsmt2gwaoET/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+            "id": "1F3BcbR6yzILOCzzA3i0Rh",
+            "name": "Mishegas",
+            "type": "artist",
+            "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192364,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Xx0UPF4loz1ZJeZs4yhA0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Xx0UPF4loz1ZJeZs4yhA0",
+        "id": "0Xx0UPF4loz1ZJeZs4yhA0",
+        "is_local": false,
+        "name": "Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Xx0UPF4loz1ZJeZs4yhA0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0v32AOjRz05Bsmt2gwaoET"
+}

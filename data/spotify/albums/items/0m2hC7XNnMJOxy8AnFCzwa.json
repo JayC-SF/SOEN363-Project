@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0PzbsNPQT0e2KHTWgAuZDy"
+      },
+      "href": "https://api.spotify.com/v1/artists/0PzbsNPQT0e2KHTWgAuZDy",
+      "id": "0PzbsNPQT0e2KHTWgAuZDy",
+      "name": "Cola La Flare",
+      "type": "artist",
+      "uri": "spotify:artist:0PzbsNPQT0e2KHTWgAuZDy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Cola La Flare",
+      "type": "C"
+    },
+    {
+      "text": "2022 Cola La Flare",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445490422000"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0m2hC7XNnMJOxy8AnFCzwa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0m2hC7XNnMJOxy8AnFCzwa",
+  "id": "0m2hC7XNnMJOxy8AnFCzwa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae89b9289fabd1ec505ad685",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae89b9289fabd1ec505ad685",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae89b9289fabd1ec505ad685",
+      "width": 64
+    }
+  ],
+  "label": "Cola La Flare",
+  "name": "Throw Yo Setz Up",
+  "popularity": 0,
+  "release_date": "2022-03-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0m2hC7XNnMJOxy8AnFCzwa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PzbsNPQT0e2KHTWgAuZDy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PzbsNPQT0e2KHTWgAuZDy",
+            "id": "0PzbsNPQT0e2KHTWgAuZDy",
+            "name": "Cola La Flare",
+            "type": "artist",
+            "uri": "spotify:artist:0PzbsNPQT0e2KHTWgAuZDy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 260713,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bjbXABfWWXie12f4wOccy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1bjbXABfWWXie12f4wOccy",
+        "id": "1bjbXABfWWXie12f4wOccy",
+        "is_local": false,
+        "name": "Throw Yo Setz Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1bjbXABfWWXie12f4wOccy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0m2hC7XNnMJOxy8AnFCzwa"
+}

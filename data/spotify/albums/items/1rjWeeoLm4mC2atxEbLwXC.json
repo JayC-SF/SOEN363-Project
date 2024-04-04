@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+      "id": "5FXMcILCOMjljRTV6cLoiE",
+      "name": "Sirenia",
+      "type": "artist",
+      "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Napalm Records Handels GmbH",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Napalm Records Handels Gmbh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840588140930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rjWeeoLm4mC2atxEbLwXC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rjWeeoLm4mC2atxEbLwXC",
+  "id": "1rjWeeoLm4mC2atxEbLwXC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bbca4841f95df5737efdb0a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bbca4841f95df5737efdb0a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bbca4841f95df5737efdb0a7",
+      "width": 64
+    }
+  ],
+  "label": "Napalm Records Handels GmbH",
+  "name": "Addiction No. 1",
+  "popularity": 0,
+  "release_date": "2020-12-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rjWeeoLm4mC2atxEbLwXC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FXMcILCOMjljRTV6cLoiE",
+            "id": "5FXMcILCOMjljRTV6cLoiE",
+            "name": "Sirenia",
+            "type": "artist",
+            "uri": "spotify:artist:5FXMcILCOMjljRTV6cLoiE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243030,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07vsyfznDCcwRlxUxciSUT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07vsyfznDCcwRlxUxciSUT",
+        "id": "07vsyfznDCcwRlxUxciSUT",
+        "is_local": false,
+        "name": "Addiction No. 1",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:07vsyfznDCcwRlxUxciSUT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rjWeeoLm4mC2atxEbLwXC"
+}

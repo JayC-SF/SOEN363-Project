@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YgKdSWWfLydeeOdOUrXsA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YgKdSWWfLydeeOdOUrXsA",
+      "id": "2YgKdSWWfLydeeOdOUrXsA",
+      "name": "cerebrum",
+      "type": "artist",
+      "uri": "spotify:artist:2YgKdSWWfLydeeOdOUrXsA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Virulent Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 Virulent Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196512203685"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2QbkgNXriezjsiO6zfL8I0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2QbkgNXriezjsiO6zfL8I0",
+  "id": "2QbkgNXriezjsiO6zfL8I0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f93f7d1ba6476f1f42052f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f93f7d1ba6476f1f42052f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f93f7d1ba6476f1f42052f9",
+      "width": 64
+    }
+  ],
+  "label": "Virulent Music",
+  "name": "livin life in the night",
+  "popularity": 0,
+  "release_date": "2021-11-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2QbkgNXriezjsiO6zfL8I0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YgKdSWWfLydeeOdOUrXsA"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YgKdSWWfLydeeOdOUrXsA",
+            "id": "2YgKdSWWfLydeeOdOUrXsA",
+            "name": "cerebrum",
+            "type": "artist",
+            "uri": "spotify:artist:2YgKdSWWfLydeeOdOUrXsA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 105139,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eT0qNePZsKU6nnUr23cd2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eT0qNePZsKU6nnUr23cd2",
+        "id": "0eT0qNePZsKU6nnUr23cd2",
+        "is_local": false,
+        "name": "livin life in the night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0eT0qNePZsKU6nnUr23cd2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2QbkgNXriezjsiO6zfL8I0"
+}

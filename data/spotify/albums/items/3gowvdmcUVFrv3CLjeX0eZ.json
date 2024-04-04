@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3HShZ9OYr5GdhHI8DU9Yzy",
+      "id": "3HShZ9OYr5GdhHI8DU9Yzy",
+      "name": "Duvy",
+      "type": "artist",
+      "uri": "spotify:artist:3HShZ9OYr5GdhHI8DU9Yzy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Duvy",
+      "type": "C"
+    },
+    {
+      "text": "2021 Duvy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283532342"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gowvdmcUVFrv3CLjeX0eZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3gowvdmcUVFrv3CLjeX0eZ",
+  "id": "3gowvdmcUVFrv3CLjeX0eZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d1d1859afdebf74305bab1f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d1d1859afdebf74305bab1f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d1d1859afdebf74305bab1f",
+      "width": 64
+    }
+  ],
+  "label": "17LostEmotionZ",
+  "name": "Drill",
+  "popularity": 0,
+  "release_date": "2021-11-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3gowvdmcUVFrv3CLjeX0eZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3HShZ9OYr5GdhHI8DU9Yzy",
+            "id": "3HShZ9OYr5GdhHI8DU9Yzy",
+            "name": "Duvy",
+            "type": "artist",
+            "uri": "spotify:artist:3HShZ9OYr5GdhHI8DU9Yzy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129151,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zkp1fY1gQEyssrESGTLZD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zkp1fY1gQEyssrESGTLZD",
+        "id": "3zkp1fY1gQEyssrESGTLZD",
+        "is_local": false,
+        "name": "Drill",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3zkp1fY1gQEyssrESGTLZD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3gowvdmcUVFrv3CLjeX0eZ"
+}

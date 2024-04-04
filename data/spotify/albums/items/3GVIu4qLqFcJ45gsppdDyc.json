@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+      "id": "1mcTU81TzQhprhouKaTkpq",
+      "name": "Rauw Alejandro",
+      "type": "artist",
+      "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Duars Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Duars Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196626234537"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3GVIu4qLqFcJ45gsppdDyc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3GVIu4qLqFcJ45gsppdDyc",
+  "id": "3GVIu4qLqFcJ45gsppdDyc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7056990873e18fdbc66b6dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7056990873e18fdbc66b6dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7056990873e18fdbc66b6dd",
+      "width": 64
+    }
+  ],
+  "label": "(SME US Latin) Duars Entertainment, Corp. (2)",
+  "name": "Hunter",
+  "popularity": 0,
+  "release_date": "2021-12-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3GVIu4qLqFcJ45gsppdDyc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+            "id": "1mcTU81TzQhprhouKaTkpq",
+            "name": "Rauw Alejandro",
+            "type": "artist",
+            "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193714,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f3G2xbHYRA3d0118zBHfH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0f3G2xbHYRA3d0118zBHfH",
+        "id": "0f3G2xbHYRA3d0118zBHfH",
+        "is_local": false,
+        "name": "Hunter",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0f3G2xbHYRA3d0118zBHfH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3GVIu4qLqFcJ45gsppdDyc"
+}

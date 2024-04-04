@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lDL8J1jfaqyOc9fMIy0fL",
+      "id": "6lDL8J1jfaqyOc9fMIy0fL",
+      "name": "Future Royalty",
+      "type": "artist",
+      "uri": "spotify:artist:6lDL8J1jfaqyOc9fMIy0fL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Rock Salt Music",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Rock Salt Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641393075"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0HbbMlvKBOnukeftGsoeZF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0HbbMlvKBOnukeftGsoeZF",
+  "id": "0HbbMlvKBOnukeftGsoeZF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27316254f5766076289ca61149e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0216254f5766076289ca61149e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485116254f5766076289ca61149e",
+      "width": 64
+    }
+  ],
+  "label": "Rock Salt Music",
+  "name": "Going for Greatness",
+  "popularity": 9,
+  "release_date": "2019-11-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0HbbMlvKBOnukeftGsoeZF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lDL8J1jfaqyOc9fMIy0fL",
+            "id": "6lDL8J1jfaqyOc9fMIy0fL",
+            "name": "Future Royalty",
+            "type": "artist",
+            "uri": "spotify:artist:6lDL8J1jfaqyOc9fMIy0fL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bDP1iilme4unvCyweInDh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bDP1iilme4unvCyweInDh",
+        "id": "4bDP1iilme4unvCyweInDh",
+        "is_local": false,
+        "name": "Going for Greatness",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4bDP1iilme4unvCyweInDh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0HbbMlvKBOnukeftGsoeZF"
+}

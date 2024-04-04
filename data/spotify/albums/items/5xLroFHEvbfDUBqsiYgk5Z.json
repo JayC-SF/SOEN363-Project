@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+      "id": "6eXZu6O7nAUA5z6vLV8NKI",
+      "name": "Little Simz",
+      "type": "artist",
+      "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2021 AGE 101",
+      "type": "C"
+    },
+    {
+      "text": "2021 AGE 101",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167163435"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5xLroFHEvbfDUBqsiYgk5Z",
+  "id": "5xLroFHEvbfDUBqsiYgk5Z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a0470881eabaf7e61ee501f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029a0470881eabaf7e61ee501f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a0470881eabaf7e61ee501f",
+      "width": 64
+    }
+  ],
+  "label": "AGE 101",
+  "name": "Woman",
+  "popularity": 9,
+  "release_date": "2021-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5xLroFHEvbfDUBqsiYgk5Z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+            "id": "6eXZu6O7nAUA5z6vLV8NKI",
+            "name": "Little Simz",
+            "type": "artist",
+            "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ETLPQkcEd7z4k3IbZmXMq",
+            "id": "3ETLPQkcEd7z4k3IbZmXMq",
+            "name": "Cleo Sol",
+            "type": "artist",
+            "uri": "spotify:artist:3ETLPQkcEd7z4k3IbZmXMq"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 269413,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1CYeaVkI5cGod4IGZKM87T",
+        "id": "1CYeaVkI5cGod4IGZKM87T",
+        "is_local": false,
+        "name": "Woman",
+        "preview_url": "https://p.scdn.co/mp3-preview/69246fe83d59c16b3686212efe5db35f5cf9752b?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1CYeaVkI5cGod4IGZKM87T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5xLroFHEvbfDUBqsiYgk5Z"
+}

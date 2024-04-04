@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+      },
+      "href": "https://api.spotify.com/v1/artists/5MaQlvNGOaTj39apHsXVq1",
+      "id": "5MaQlvNGOaTj39apHsXVq1",
+      "name": "Claud",
+      "type": "artist",
+      "uri": "spotify:artist:5MaQlvNGOaTj39apHsXVq1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 Claud",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 Claud",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194491133726"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Hh5Iu5zm6nSnvjGmOM07g"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Hh5Iu5zm6nSnvjGmOM07g",
+  "id": "0Hh5Iu5zm6nSnvjGmOM07g",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c2b89d4607a03fe5a5a796c3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c2b89d4607a03fe5a5a796c3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c2b89d4607a03fe5a5a796c3",
+      "width": 64
+    }
+  ],
+  "label": "Claud",
+  "name": "Wish You Were Gay",
+  "popularity": 0,
+  "release_date": "2019-06-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Hh5Iu5zm6nSnvjGmOM07g/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5MaQlvNGOaTj39apHsXVq1",
+            "id": "5MaQlvNGOaTj39apHsXVq1",
+            "name": "Claud",
+            "type": "artist",
+            "uri": "spotify:artist:5MaQlvNGOaTj39apHsXVq1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191304,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fgjMZJlIACwYqC1b0yyiP",
+        "id": "6fgjMZJlIACwYqC1b0yyiP",
+        "is_local": false,
+        "name": "Wish You Were Gay",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6fgjMZJlIACwYqC1b0yyiP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Hh5Iu5zm6nSnvjGmOM07g"
+}

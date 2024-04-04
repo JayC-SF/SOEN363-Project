@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/7hf5PZjVOqTQ2id3PF7I5Y",
+      "id": "7hf5PZjVOqTQ2id3PF7I5Y",
+      "name": "B-Lovee",
+      "type": "artist",
+      "uri": "spotify:artist:7hf5PZjVOqTQ2id3PF7I5Y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 B-Lovee",
+      "type": "C"
+    },
+    {
+      "text": "2021 B-Lovee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "689690447472"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1a87gcfBpEkwV51eb47PBA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1a87gcfBpEkwV51eb47PBA",
+  "id": "1a87gcfBpEkwV51eb47PBA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0fe243c1695766cb7de3093",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0fe243c1695766cb7de3093",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0fe243c1695766cb7de3093",
+      "width": 64
+    }
+  ],
+  "label": "B-Lovee",
+  "name": "IYKYK",
+  "popularity": 0,
+  "release_date": "2021-08-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1a87gcfBpEkwV51eb47PBA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hf5PZjVOqTQ2id3PF7I5Y",
+            "id": "7hf5PZjVOqTQ2id3PF7I5Y",
+            "name": "B-Lovee",
+            "type": "artist",
+            "uri": "spotify:artist:7hf5PZjVOqTQ2id3PF7I5Y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 134869,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GR4Ig76yGKLCL18L6nTa7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GR4Ig76yGKLCL18L6nTa7",
+        "id": "2GR4Ig76yGKLCL18L6nTa7",
+        "is_local": false,
+        "name": "IYKYK",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2GR4Ig76yGKLCL18L6nTa7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1a87gcfBpEkwV51eb47PBA"
+}

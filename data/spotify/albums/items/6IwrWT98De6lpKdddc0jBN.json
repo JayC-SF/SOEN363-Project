@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VBbewnHtegBSEB7kRXDzQ",
+      "id": "1VBbewnHtegBSEB7kRXDzQ",
+      "name": "PJ Masks",
+      "type": "artist",
+      "uri": "spotify:artist:1VBbewnHtegBSEB7kRXDzQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 eOne Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 eOne Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "625612851729"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6IwrWT98De6lpKdddc0jBN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6IwrWT98De6lpKdddc0jBN",
+  "id": "6IwrWT98De6lpKdddc0jBN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c83745a747232fab42b6e58",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c83745a747232fab42b6e58",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c83745a747232fab42b6e58",
+      "width": 64
+    }
+  ],
+  "label": "Eone Family",
+  "name": "Theme Song (Remix)",
+  "popularity": 0,
+  "release_date": "2021-09-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6IwrWT98De6lpKdddc0jBN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBbewnHtegBSEB7kRXDzQ",
+            "id": "1VBbewnHtegBSEB7kRXDzQ",
+            "name": "PJ Masks",
+            "type": "artist",
+            "uri": "spotify:artist:1VBbewnHtegBSEB7kRXDzQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 49320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oaOWnyZtmJP2N8csynXUA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3oaOWnyZtmJP2N8csynXUA",
+        "id": "3oaOWnyZtmJP2N8csynXUA",
+        "is_local": false,
+        "name": "Theme Song - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3oaOWnyZtmJP2N8csynXUA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6IwrWT98De6lpKdddc0jBN"
+}

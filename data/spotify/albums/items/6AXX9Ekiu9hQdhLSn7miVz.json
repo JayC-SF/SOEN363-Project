@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QKeymKBlijyJhfOi1smqB",
+      "id": "6QKeymKBlijyJhfOi1smqB",
+      "name": "Marcapasos",
+      "type": "artist",
+      "uri": "spotify:artist:6QKeymKBlijyJhfOi1smqB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 tb media",
+      "type": "C"
+    },
+    {
+      "text": "2022 tb media",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260651333650"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6AXX9Ekiu9hQdhLSn7miVz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6AXX9Ekiu9hQdhLSn7miVz",
+  "id": "6AXX9Ekiu9hQdhLSn7miVz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273730e59515fb5a3d7053c375b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02730e59515fb5a3d7053c375b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851730e59515fb5a3d7053c375b",
+      "width": 64
+    }
+  ],
+  "label": "TB Media",
+  "name": "Cosby Sweater",
+  "popularity": 1,
+  "release_date": "2022-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6AXX9Ekiu9hQdhLSn7miVz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QKeymKBlijyJhfOi1smqB",
+            "id": "6QKeymKBlijyJhfOi1smqB",
+            "name": "Marcapasos",
+            "type": "artist",
+            "uri": "spotify:artist:6QKeymKBlijyJhfOi1smqB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155639,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KSBCbGI5Un2QCUz6xbKWI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KSBCbGI5Un2QCUz6xbKWI",
+        "id": "4KSBCbGI5Un2QCUz6xbKWI",
+        "is_local": false,
+        "name": "Cosby Sweater",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4KSBCbGI5Un2QCUz6xbKWI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QKeymKBlijyJhfOi1smqB",
+            "id": "6QKeymKBlijyJhfOi1smqB",
+            "name": "Marcapasos",
+            "type": "artist",
+            "uri": "spotify:artist:6QKeymKBlijyJhfOi1smqB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 290778,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03pN0lHAI6zCpzCEU6FkGT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03pN0lHAI6zCpzCEU6FkGT",
+        "id": "03pN0lHAI6zCpzCEU6FkGT",
+        "is_local": false,
+        "name": "Cosby Sweater - Extended Version",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:03pN0lHAI6zCpzCEU6FkGT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6AXX9Ekiu9hQdhLSn7miVz"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+      },
+      "href": "https://api.spotify.com/v1/artists/4HzKw8XcD0piJmDrrPRCYk",
+      "id": "4HzKw8XcD0piJmDrrPRCYk",
+      "name": "Majid Jordan",
+      "type": "artist",
+      "uri": "spotify:artist:4HzKw8XcD0piJmDrrPRCYk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 OVO Sound",
+      "type": "C"
+    },
+    {
+      "text": "2023 OVO Sound",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391206397"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wuPmt8toIysZ1xSaHzzRR",
+  "id": "3wuPmt8toIysZ1xSaHzzRR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a0636e860cac3270c71e10fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a0636e860cac3270c71e10fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a0636e860cac3270c71e10fd",
+      "width": 64
+    }
+  ],
+  "label": "OVO Sound",
+  "name": "Violet",
+  "popularity": 1,
+  "release_date": "2023-10-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wuPmt8toIysZ1xSaHzzRR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+            },
+            "href": "https://api.spotify.com/v1/artists/4HzKw8XcD0piJmDrrPRCYk",
+            "id": "4HzKw8XcD0piJmDrrPRCYk",
+            "name": "Majid Jordan",
+            "type": "artist",
+            "uri": "spotify:artist:4HzKw8XcD0piJmDrrPRCYk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 438400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cr2zxI2jW4OWSABzB03d9",
+        "id": "3cr2zxI2jW4OWSABzB03d9",
+        "is_local": false,
+        "name": "Violet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3cr2zxI2jW4OWSABzB03d9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wuPmt8toIysZ1xSaHzzRR"
+}

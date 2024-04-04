@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42regTWLmDKRwql1CJ3d5a"
+      },
+      "href": "https://api.spotify.com/v1/artists/42regTWLmDKRwql1CJ3d5a",
+      "id": "42regTWLmDKRwql1CJ3d5a",
+      "name": "Dj Mich",
+      "type": "artist",
+      "uri": "spotify:artist:42regTWLmDKRwql1CJ3d5a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Dj Mich",
+      "type": "C"
+    },
+    {
+      "text": "2023 Dj Mich",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1963627415925"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lOaDFl1y3EW3LO512NtKR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0lOaDFl1y3EW3LO512NtKR",
+  "id": "0lOaDFl1y3EW3LO512NtKR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3579c0bec3c23b7cde3714f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3579c0bec3c23b7cde3714f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3579c0bec3c23b7cde3714f",
+      "width": 64
+    }
+  ],
+  "label": "Dj Mich",
+  "name": "vacation",
+  "popularity": 0,
+  "release_date": "2023-01-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0lOaDFl1y3EW3LO512NtKR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42regTWLmDKRwql1CJ3d5a"
+            },
+            "href": "https://api.spotify.com/v1/artists/42regTWLmDKRwql1CJ3d5a",
+            "id": "42regTWLmDKRwql1CJ3d5a",
+            "name": "Dj Mich",
+            "type": "artist",
+            "uri": "spotify:artist:42regTWLmDKRwql1CJ3d5a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 271569,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dDUScCQOFWbHk9ZAbHMwm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dDUScCQOFWbHk9ZAbHMwm",
+        "id": "0dDUScCQOFWbHk9ZAbHMwm",
+        "is_local": false,
+        "name": "vacation",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0dDUScCQOFWbHk9ZAbHMwm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0lOaDFl1y3EW3LO512NtKR"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64PgkSM1uDD9BJEg0UkMMM"
+      },
+      "href": "https://api.spotify.com/v1/artists/64PgkSM1uDD9BJEg0UkMMM",
+      "id": "64PgkSM1uDD9BJEg0UkMMM",
+      "name": "Ilinca",
+      "type": "artist",
+      "uri": "spotify:artist:64PgkSM1uDD9BJEg0UkMMM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Cat Music",
+      "type": "C"
+    },
+    {
+      "text": "Cat Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "6420565449528"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5UCqtfl20I72OVq0Tjl8dK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5UCqtfl20I72OVq0Tjl8dK",
+  "id": "5UCqtfl20I72OVq0Tjl8dK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273926425a729fe9b423b6767ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02926425a729fe9b423b6767ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851926425a729fe9b423b6767ad",
+      "width": 64
+    }
+  ],
+  "label": "Cat Music",
+  "name": "Yodel It!",
+  "popularity": 0,
+  "release_date": "2017-01-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5UCqtfl20I72OVq0Tjl8dK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64PgkSM1uDD9BJEg0UkMMM"
+            },
+            "href": "https://api.spotify.com/v1/artists/64PgkSM1uDD9BJEg0UkMMM",
+            "id": "64PgkSM1uDD9BJEg0UkMMM",
+            "name": "Ilinca",
+            "type": "artist",
+            "uri": "spotify:artist:64PgkSM1uDD9BJEg0UkMMM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LCXh4MTN5bnfptYe17e66"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LCXh4MTN5bnfptYe17e66",
+            "id": "7LCXh4MTN5bnfptYe17e66",
+            "name": "Alex Florea",
+            "type": "artist",
+            "uri": "spotify:artist:7LCXh4MTN5bnfptYe17e66"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176587,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zSqaa9tqp25ILZ4oZDrsh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zSqaa9tqp25ILZ4oZDrsh",
+        "id": "1zSqaa9tqp25ILZ4oZDrsh",
+        "is_local": false,
+        "name": "Yodel It!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1zSqaa9tqp25ILZ4oZDrsh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5UCqtfl20I72OVq0Tjl8dK"
+}

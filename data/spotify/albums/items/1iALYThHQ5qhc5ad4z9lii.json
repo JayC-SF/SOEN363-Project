@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5A5wDKiwJqgj50V9DtJKzo"
+      },
+      "href": "https://api.spotify.com/v1/artists/5A5wDKiwJqgj50V9DtJKzo",
+      "id": "5A5wDKiwJqgj50V9DtJKzo",
+      "name": "Ventry",
+      "type": "artist",
+      "uri": "spotify:artist:5A5wDKiwJqgj50V9DtJKzo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Ventry LLC",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ventry LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4099885439551"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1iALYThHQ5qhc5ad4z9lii"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1iALYThHQ5qhc5ad4z9lii",
+  "id": "1iALYThHQ5qhc5ad4z9lii",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730761ae465aafc0e1014be7e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020761ae465aafc0e1014be7e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510761ae465aafc0e1014be7e6",
+      "width": 64
+    }
+  ],
+  "label": "Ventry LLC",
+  "name": "Count Up",
+  "popularity": 0,
+  "release_date": "2023-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1iALYThHQ5qhc5ad4z9lii/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5A5wDKiwJqgj50V9DtJKzo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5A5wDKiwJqgj50V9DtJKzo",
+            "id": "5A5wDKiwJqgj50V9DtJKzo",
+            "name": "Ventry",
+            "type": "artist",
+            "uri": "spotify:artist:5A5wDKiwJqgj50V9DtJKzo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180297,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DRi67jp63OX6wmFT8uU6Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0DRi67jp63OX6wmFT8uU6Y",
+        "id": "0DRi67jp63OX6wmFT8uU6Y",
+        "is_local": false,
+        "name": "Count Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0DRi67jp63OX6wmFT8uU6Y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5A5wDKiwJqgj50V9DtJKzo"
+            },
+            "href": "https://api.spotify.com/v1/artists/5A5wDKiwJqgj50V9DtJKzo",
+            "id": "5A5wDKiwJqgj50V9DtJKzo",
+            "name": "Ventry",
+            "type": "artist",
+            "uri": "spotify:artist:5A5wDKiwJqgj50V9DtJKzo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152566,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FtRgXWHAvqM6cPBuoVCS2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7FtRgXWHAvqM6cPBuoVCS2",
+        "id": "7FtRgXWHAvqM6cPBuoVCS2",
+        "is_local": false,
+        "name": "Cobra Bite",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7FtRgXWHAvqM6cPBuoVCS2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1iALYThHQ5qhc5ad4z9lii"
+}

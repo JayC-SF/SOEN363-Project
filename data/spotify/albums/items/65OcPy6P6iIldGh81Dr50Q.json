@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+      "id": "2qxJFvFYMEDqd7ui6kSAcq",
+      "name": "Zedd",
+      "type": "artist",
+      "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Bazooka, a division of zooland Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "2011 Bazooka, a division of zooland Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884463364523"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/65OcPy6P6iIldGh81Dr50Q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/65OcPy6P6iIldGh81Dr50Q",
+  "id": "65OcPy6P6iIldGh81Dr50Q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737f47f274449ffdf6e36ad82b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027f47f274449ffdf6e36ad82b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517f47f274449ffdf6e36ad82b",
+      "width": 64
+    }
+  ],
+  "label": "Bazooka",
+  "name": "The Legend Of Zelda",
+  "popularity": 0,
+  "release_date": "2011-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/65OcPy6P6iIldGh81Dr50Q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+            "id": "2qxJFvFYMEDqd7ui6kSAcq",
+            "name": "Zedd",
+            "type": "artist",
+            "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 371000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sZmgTsyiF9ObnEniMISIc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sZmgTsyiF9ObnEniMISIc",
+        "id": "6sZmgTsyiF9ObnEniMISIc",
+        "is_local": false,
+        "name": "The Legend Of Zelda - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6sZmgTsyiF9ObnEniMISIc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+            "id": "2qxJFvFYMEDqd7ui6kSAcq",
+            "name": "Zedd",
+            "type": "artist",
+            "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 369375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qq2BbWJ8Ri1rs4uTMV3Fp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qq2BbWJ8Ri1rs4uTMV3Fp",
+        "id": "1qq2BbWJ8Ri1rs4uTMV3Fp",
+        "is_local": false,
+        "name": "The Legend Of Zelda - Electrixx Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1qq2BbWJ8Ri1rs4uTMV3Fp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:65OcPy6P6iIldGh81Dr50Q"
+}

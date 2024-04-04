@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+      },
+      "href": "https://api.spotify.com/v1/artists/64DvMieEUCdrYKmEIhDt8G",
+      "id": "64DvMieEUCdrYKmEIhDt8G",
+      "name": "Arjan Dhillon",
+      "type": "artist",
+      "uri": "spotify:artist:64DvMieEUCdrYKmEIhDt8G"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Arjan Dhillon",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "610012524670"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6pwwcBDFqWF8eS6cEK8zKz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6pwwcBDFqWF8eS6cEK8zKz",
+  "id": "6pwwcBDFqWF8eS6cEK8zKz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4673951e67f19d822b849ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4673951e67f19d822b849ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4673951e67f19d822b849ac",
+      "width": 64
+    }
+  ],
+  "label": "Internationals Publishing",
+  "name": "Jaan",
+  "popularity": 0,
+  "release_date": "2022-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6pwwcBDFqWF8eS6cEK8zKz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+            },
+            "href": "https://api.spotify.com/v1/artists/64DvMieEUCdrYKmEIhDt8G",
+            "id": "64DvMieEUCdrYKmEIhDt8G",
+            "name": "Arjan Dhillon",
+            "type": "artist",
+            "uri": "spotify:artist:64DvMieEUCdrYKmEIhDt8G"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199179,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M2wMYc84GuP0jzh5MWNN4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3M2wMYc84GuP0jzh5MWNN4",
+        "id": "3M2wMYc84GuP0jzh5MWNN4",
+        "is_local": false,
+        "name": "Jaan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3M2wMYc84GuP0jzh5MWNN4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6pwwcBDFqWF8eS6cEK8zKz"
+}

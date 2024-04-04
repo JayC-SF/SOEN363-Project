@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VBbewnHtegBSEB7kRXDzQ",
+      "id": "1VBbewnHtegBSEB7kRXDzQ",
+      "name": "PJ Masks",
+      "type": "artist",
+      "uri": "spotify:artist:1VBbewnHtegBSEB7kRXDzQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 eOne Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 eOne Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "625612851125"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3YIVnLn4AmBDUhIKAxep6i"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3YIVnLn4AmBDUhIKAxep6i",
+  "id": "3YIVnLn4AmBDUhIKAxep6i",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27360ff70d447e96bcffbfe887a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0260ff70d447e96bcffbfe887a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485160ff70d447e96bcffbfe887a",
+      "width": 64
+    }
+  ],
+  "label": "Eone Family",
+  "name": "It's Bedtime",
+  "popularity": 0,
+  "release_date": "2021-06-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3YIVnLn4AmBDUhIKAxep6i/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBbewnHtegBSEB7kRXDzQ",
+            "id": "1VBbewnHtegBSEB7kRXDzQ",
+            "name": "PJ Masks",
+            "type": "artist",
+            "uri": "spotify:artist:1VBbewnHtegBSEB7kRXDzQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106055,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eAETjXz7a9v8gnscgIXLs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eAETjXz7a9v8gnscgIXLs",
+        "id": "7eAETjXz7a9v8gnscgIXLs",
+        "is_local": false,
+        "name": "It's Bedtime",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7eAETjXz7a9v8gnscgIXLs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3YIVnLn4AmBDUhIKAxep6i"
+}

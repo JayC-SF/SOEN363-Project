@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xegBBY3vjR75woVR9kiy7",
+      "id": "5xegBBY3vjR75woVR9kiy7",
+      "name": "Ghostface Playa",
+      "type": "artist",
+      "uri": "spotify:artist:5xegBBY3vjR75woVR9kiy7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 1607475 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 1607475 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195163042926"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11VVJqXZVI5gLquePy5f5c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11VVJqXZVI5gLquePy5f5c",
+  "id": "11VVJqXZVI5gLquePy5f5c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273179bdd3b99cbe12276878a1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02179bdd3b99cbe12276878a1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851179bdd3b99cbe12276878a1b",
+      "width": 64
+    }
+  ],
+  "label": "1607475 Records DK",
+  "name": "Ballin' Down",
+  "popularity": 0,
+  "release_date": "2020-03-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11VVJqXZVI5gLquePy5f5c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xegBBY3vjR75woVR9kiy7",
+            "id": "5xegBBY3vjR75woVR9kiy7",
+            "name": "Ghostface Playa",
+            "type": "artist",
+            "uri": "spotify:artist:5xegBBY3vjR75woVR9kiy7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 109714,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lnBluGbKyWaXtsQc5JSCP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lnBluGbKyWaXtsQc5JSCP",
+        "id": "0lnBluGbKyWaXtsQc5JSCP",
+        "is_local": false,
+        "name": "Ballin' Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lnBluGbKyWaXtsQc5JSCP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11VVJqXZVI5gLquePy5f5c"
+}

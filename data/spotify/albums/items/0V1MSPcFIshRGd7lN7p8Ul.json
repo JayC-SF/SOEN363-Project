@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+      },
+      "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+      "id": "2LmcxBak1alK1bf7d1beTr",
+      "name": "Juhn",
+      "type": "artist",
+      "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kq4GHwUcUojGIu0ziSNXf",
+      "id": "6kq4GHwUcUojGIu0ziSNXf",
+      "name": "Amenazzy",
+      "type": "artist",
+      "uri": "spotify:artist:6kq4GHwUcUojGIu0ziSNXf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 The Golden Army, Inc",
+      "type": "C"
+    },
+    {
+      "text": "2018 The Golden Army, Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859728501029"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0V1MSPcFIshRGd7lN7p8Ul"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0V1MSPcFIshRGd7lN7p8Ul",
+  "id": "0V1MSPcFIshRGd7lN7p8Ul",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350953ed2d48b5c3480be904a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250953ed2d48b5c3480be904a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150953ed2d48b5c3480be904a",
+      "width": 64
+    }
+  ],
+  "label": "The Golden Army, Inc",
+  "name": "Nadie Sabe",
+  "popularity": 0,
+  "release_date": "2018-09-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0V1MSPcFIshRGd7lN7p8Ul/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+            },
+            "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+            "id": "2LmcxBak1alK1bf7d1beTr",
+            "name": "Juhn",
+            "type": "artist",
+            "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kq4GHwUcUojGIu0ziSNXf",
+            "id": "6kq4GHwUcUojGIu0ziSNXf",
+            "name": "Amenazzy",
+            "type": "artist",
+            "uri": "spotify:artist:6kq4GHwUcUojGIu0ziSNXf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42vWEgUeonjcp6UpOZe2NX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42vWEgUeonjcp6UpOZe2NX",
+        "id": "42vWEgUeonjcp6UpOZe2NX",
+        "is_local": false,
+        "name": "Nadie Sabe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42vWEgUeonjcp6UpOZe2NX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0V1MSPcFIshRGd7lN7p8Ul"
+}

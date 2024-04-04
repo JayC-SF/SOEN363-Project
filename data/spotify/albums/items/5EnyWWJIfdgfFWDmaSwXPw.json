@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+      },
+      "href": "https://api.spotify.com/v1/artists/48bqPGhLPTuS8gKg3UTtf9",
+      "id": "48bqPGhLPTuS8gKg3UTtf9",
+      "name": "Fabvl",
+      "type": "artist",
+      "uri": "spotify:artist:48bqPGhLPTuS8gKg3UTtf9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 FabvL Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 FabvL Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196700542251"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EnyWWJIfdgfFWDmaSwXPw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EnyWWJIfdgfFWDmaSwXPw",
+  "id": "5EnyWWJIfdgfFWDmaSwXPw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bba9a6ee57f3f5155196dd10",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bba9a6ee57f3f5155196dd10",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bba9a6ee57f3f5155196dd10",
+      "width": 64
+    }
+  ],
+  "label": "FabvL Records",
+  "name": "Let It All Burn",
+  "popularity": 0,
+  "release_date": "2022-01-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EnyWWJIfdgfFWDmaSwXPw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+            },
+            "href": "https://api.spotify.com/v1/artists/48bqPGhLPTuS8gKg3UTtf9",
+            "id": "48bqPGhLPTuS8gKg3UTtf9",
+            "name": "Fabvl",
+            "type": "artist",
+            "uri": "spotify:artist:48bqPGhLPTuS8gKg3UTtf9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217846,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VEYjlHkVhLfIGuk77Jprr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VEYjlHkVhLfIGuk77Jprr",
+        "id": "5VEYjlHkVhLfIGuk77Jprr",
+        "is_local": false,
+        "name": "Let It All Burn",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5VEYjlHkVhLfIGuk77Jprr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5EnyWWJIfdgfFWDmaSwXPw"
+}

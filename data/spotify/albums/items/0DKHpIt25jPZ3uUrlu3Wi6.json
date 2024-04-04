@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BJmyFO1PAwy3kW5YzdvQL",
+      "id": "3BJmyFO1PAwy3kW5YzdvQL",
+      "name": "Kingdmusic",
+      "type": "artist",
+      "uri": "spotify:artist:3BJmyFO1PAwy3kW5YzdvQL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Kingdmusic",
+      "type": "C"
+    },
+    {
+      "text": "2019 Kingdmusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194694882162"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0DKHpIt25jPZ3uUrlu3Wi6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0DKHpIt25jPZ3uUrlu3Wi6",
+  "id": "0DKHpIt25jPZ3uUrlu3Wi6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273476dc0cc047ecd386af92807",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02476dc0cc047ecd386af92807",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851476dc0cc047ecd386af92807",
+      "width": 64
+    }
+  ],
+  "label": "Kingdmusic",
+  "name": "Nobody Like You",
+  "popularity": 0,
+  "release_date": "2019-08-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0DKHpIt25jPZ3uUrlu3Wi6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3BJmyFO1PAwy3kW5YzdvQL",
+            "id": "3BJmyFO1PAwy3kW5YzdvQL",
+            "name": "Kingdmusic",
+            "type": "artist",
+            "uri": "spotify:artist:3BJmyFO1PAwy3kW5YzdvQL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VY7IlU2547DIC1ca88lRH",
+            "id": "3VY7IlU2547DIC1ca88lRH",
+            "name": "CalledOut Music",
+            "type": "artist",
+            "uri": "spotify:artist:3VY7IlU2547DIC1ca88lRH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186435,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56g5Uk1PQinVoOK8y8bt5S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56g5Uk1PQinVoOK8y8bt5S",
+        "id": "56g5Uk1PQinVoOK8y8bt5S",
+        "is_local": false,
+        "name": "Nobody Like You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:56g5Uk1PQinVoOK8y8bt5S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0DKHpIt25jPZ3uUrlu3Wi6"
+}

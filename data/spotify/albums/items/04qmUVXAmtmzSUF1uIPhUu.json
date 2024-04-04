@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WrvWolT9GYQzCudBunNu3",
+      "id": "3WrvWolT9GYQzCudBunNu3",
+      "name": "Christopher Dicker",
+      "type": "artist",
+      "uri": "spotify:artist:3WrvWolT9GYQzCudBunNu3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Pianoramix",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Pianoramix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300045535"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04qmUVXAmtmzSUF1uIPhUu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04qmUVXAmtmzSUF1uIPhUu",
+  "id": "04qmUVXAmtmzSUF1uIPhUu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342bac8e110bff4c11ec5747e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242bac8e110bff4c11ec5747e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142bac8e110bff4c11ec5747e",
+      "width": 64
+    }
+  ],
+  "label": "Pianoramix",
+  "name": "For George",
+  "popularity": 0,
+  "release_date": "2023-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04qmUVXAmtmzSUF1uIPhUu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WrvWolT9GYQzCudBunNu3",
+            "id": "3WrvWolT9GYQzCudBunNu3",
+            "name": "Christopher Dicker",
+            "type": "artist",
+            "uri": "spotify:artist:3WrvWolT9GYQzCudBunNu3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138130,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nGCY1TcNf9lZmdaz7fvzi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nGCY1TcNf9lZmdaz7fvzi",
+        "id": "6nGCY1TcNf9lZmdaz7fvzi",
+        "is_local": false,
+        "name": "For George",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6nGCY1TcNf9lZmdaz7fvzi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04qmUVXAmtmzSUF1uIPhUu"
+}

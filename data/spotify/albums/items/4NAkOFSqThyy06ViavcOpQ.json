@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/11k3Y6uyixbyGfgPl8qZTZ",
+      "id": "11k3Y6uyixbyGfgPl8qZTZ",
+      "name": "raissa anggiani",
+      "type": "artist",
+      "uri": "spotify:artist:11k3Y6uyixbyGfgPl8qZTZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Alfarecords",
+      "type": "C"
+    },
+    {
+      "text": "2021 Alfarecords",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8997230041861"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4NAkOFSqThyy06ViavcOpQ",
+  "id": "4NAkOFSqThyy06ViavcOpQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d80c6d83ccdf4539b4a725bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d80c6d83ccdf4539b4a725bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d80c6d83ccdf4539b4a725bf",
+      "width": 64
+    }
+  ],
+  "label": "Alfarecords",
+  "name": "Kau Rumahku",
+  "popularity": 0,
+  "release_date": "2022-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4NAkOFSqThyy06ViavcOpQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/11k3Y6uyixbyGfgPl8qZTZ",
+            "id": "11k3Y6uyixbyGfgPl8qZTZ",
+            "name": "raissa anggiani",
+            "type": "artist",
+            "uri": "spotify:artist:11k3Y6uyixbyGfgPl8qZTZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 275250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IRi1d3Nsrww8mnGv1YW4l",
+        "id": "7IRi1d3Nsrww8mnGv1YW4l",
+        "is_local": false,
+        "name": "Kau Rumahku",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7IRi1d3Nsrww8mnGv1YW4l"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4NAkOFSqThyy06ViavcOpQ"
+}

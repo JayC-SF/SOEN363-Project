@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd"
+      },
+      "href": "https://api.spotify.com/v1/artists/2zFBNsALb4M2FhKl98wcvd",
+      "id": "2zFBNsALb4M2FhKl98wcvd",
+      "name": "Johnoy Danao",
+      "type": "artist",
+      "uri": "spotify:artist:2zFBNsALb4M2FhKl98wcvd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Universal Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Universal Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614970406242"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6UlFDzoo0RZey39x73qzaQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6UlFDzoo0RZey39x73qzaQ",
+  "id": "6UlFDzoo0RZey39x73qzaQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a84d2e682030088dfe93446",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a84d2e682030088dfe93446",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a84d2e682030088dfe93446",
+      "width": 64
+    }
+  ],
+  "label": "Universal Records",
+  "name": "Right Time",
+  "popularity": 0,
+  "release_date": "2016-08-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6UlFDzoo0RZey39x73qzaQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zFBNsALb4M2FhKl98wcvd",
+            "id": "2zFBNsALb4M2FhKl98wcvd",
+            "name": "Johnoy Danao",
+            "type": "artist",
+            "uri": "spotify:artist:2zFBNsALb4M2FhKl98wcvd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ebPSE9YI5aLeZ1Z2gkqjn",
+            "id": "5ebPSE9YI5aLeZ1Z2gkqjn",
+            "name": "Clara Benin",
+            "type": "artist",
+            "uri": "spotify:artist:5ebPSE9YI5aLeZ1Z2gkqjn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 316133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Ipw44VKIGX8hAiyk5IWiB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Ipw44VKIGX8hAiyk5IWiB",
+        "id": "7Ipw44VKIGX8hAiyk5IWiB",
+        "is_local": false,
+        "name": "Right Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7Ipw44VKIGX8hAiyk5IWiB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6UlFDzoo0RZey39x73qzaQ"
+}

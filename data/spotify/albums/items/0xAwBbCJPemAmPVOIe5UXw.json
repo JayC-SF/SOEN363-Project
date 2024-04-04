@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+      "id": "4gdMJYnopf2nEUcanAwstx",
+      "name": "Anuv Jain",
+      "type": "artist",
+      "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Anuv Jain",
+      "type": "C"
+    },
+    {
+      "text": "2020 Anuv Jain",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859743687999"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0xAwBbCJPemAmPVOIe5UXw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0xAwBbCJPemAmPVOIe5UXw",
+  "id": "0xAwBbCJPemAmPVOIe5UXw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350cb622dbfb1431d8638a4f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250cb622dbfb1431d8638a4f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150cb622dbfb1431d8638a4f8",
+      "width": 64
+    }
+  ],
+  "label": "Anuv Jain",
+  "name": "Mishri",
+  "popularity": 3,
+  "release_date": "2020-11-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0xAwBbCJPemAmPVOIe5UXw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+            "id": "4gdMJYnopf2nEUcanAwstx",
+            "name": "Anuv Jain",
+            "type": "artist",
+            "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200437,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xtkLqZcGPQZP9549WlmfH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xtkLqZcGPQZP9549WlmfH",
+        "id": "1xtkLqZcGPQZP9549WlmfH",
+        "is_local": false,
+        "name": "Mishri",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1xtkLqZcGPQZP9549WlmfH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0xAwBbCJPemAmPVOIe5UXw"
+}

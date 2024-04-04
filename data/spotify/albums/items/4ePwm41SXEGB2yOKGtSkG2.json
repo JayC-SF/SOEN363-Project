@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Universal Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Universal Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537365067"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ePwm41SXEGB2yOKGtSkG2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ePwm41SXEGB2yOKGtSkG2",
+  "id": "4ePwm41SXEGB2yOKGtSkG2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363a765b4cb921a65a344f45d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263a765b4cb921a65a344f45d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163a765b4cb921a65a344f45d",
+      "width": 64
+    }
+  ],
+  "label": "Universal Records",
+  "name": "The Way",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ePwm41SXEGB2yOKGtSkG2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            },
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "type": "artist",
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 226013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6csiA8EczbxAHDewDL7QQl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6csiA8EczbxAHDewDL7QQl",
+        "id": "6csiA8EczbxAHDewDL7QQl",
+        "is_local": false,
+        "name": "The Way",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6csiA8EczbxAHDewDL7QQl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ePwm41SXEGB2yOKGtSkG2"
+}

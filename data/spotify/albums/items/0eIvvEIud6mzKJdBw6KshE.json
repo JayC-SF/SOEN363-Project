@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+      },
+      "href": "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+      "id": "6UcJxoeHWWWyT5HZP064om",
+      "name": "Chet Faker",
+      "type": "artist",
+      "uri": "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+      "id": "2xe8IXgCTpwHE3eA9hTs4n",
+      "name": "BANKS",
+      "type": "artist",
+      "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Future Classic",
+      "type": "C"
+    },
+    {
+      "text": "2015 2015 Future Classic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9397601004508"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0eIvvEIud6mzKJdBw6KshE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0eIvvEIud6mzKJdBw6KshE",
+  "id": "0eIvvEIud6mzKJdBw6KshE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735da332b59c24c98b1076d476",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025da332b59c24c98b1076d476",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515da332b59c24c98b1076d476",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "1998",
+  "popularity": 0,
+  "release_date": "2015-07-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0eIvvEIud6mzKJdBw6KshE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+            },
+            "href": "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+            "id": "6UcJxoeHWWWyT5HZP064om",
+            "name": "Chet Faker",
+            "type": "artist",
+            "uri": "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4A4yi3loAgIpq0qHZLC9py"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4A4yi3loAgIpq0qHZLC9py",
+        "id": "4A4yi3loAgIpq0qHZLC9py",
+        "is_local": false,
+        "name": "1998",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4A4yi3loAgIpq0qHZLC9py"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0eIvvEIud6mzKJdBw6KshE"
+}

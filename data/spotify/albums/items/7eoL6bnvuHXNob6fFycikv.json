@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5DEALZwQHc8THyoEvxMwjn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5DEALZwQHc8THyoEvxMwjn",
+      "id": "5DEALZwQHc8THyoEvxMwjn",
+      "name": "Rich NuNu",
+      "type": "artist",
+      "uri": "spotify:artist:5DEALZwQHc8THyoEvxMwjn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Rich Nunu",
+      "type": "C"
+    },
+    {
+      "text": "2021 Rich Nunu",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196100110104"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7eoL6bnvuHXNob6fFycikv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7eoL6bnvuHXNob6fFycikv",
+  "id": "7eoL6bnvuHXNob6fFycikv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369efca9800ddfefddcc4db73",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269efca9800ddfefddcc4db73",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169efca9800ddfefddcc4db73",
+      "width": 64
+    }
+  ],
+  "label": "Rich Nunu",
+  "name": "Listen Up",
+  "popularity": 0,
+  "release_date": "2021-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7eoL6bnvuHXNob6fFycikv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5DEALZwQHc8THyoEvxMwjn"
+            },
+            "href": "https://api.spotify.com/v1/artists/5DEALZwQHc8THyoEvxMwjn",
+            "id": "5DEALZwQHc8THyoEvxMwjn",
+            "name": "Rich NuNu",
+            "type": "artist",
+            "uri": "spotify:artist:5DEALZwQHc8THyoEvxMwjn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159817,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1loFkt60pU7vmnqGvCOWyl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1loFkt60pU7vmnqGvCOWyl",
+        "id": "1loFkt60pU7vmnqGvCOWyl",
+        "is_local": false,
+        "name": "Listen Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1loFkt60pU7vmnqGvCOWyl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7eoL6bnvuHXNob6fFycikv"
+}

@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+      "id": "3aQeKQSyrW4qWr35idm0cy",
+      "name": "T-Pain",
+      "type": "artist",
+      "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2011 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977942781"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/68Dq0YFgygP4ipCUKCeKqE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/68Dq0YFgygP4ipCUKCeKqE",
+  "id": "68Dq0YFgygP4ipCUKCeKqE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a3d36a70acce53c5c62b4d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a3d36a70acce53c5c62b4d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a3d36a70acce53c5c62b4d5",
+      "width": 64
+    }
+  ],
+  "label": "Jive",
+  "name": "Best Love Song (feat. Chris Brown)",
+  "popularity": 0,
+  "release_date": "2011-03-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/68Dq0YFgygP4ipCUKCeKqE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+            "id": "3aQeKQSyrW4qWr35idm0cy",
+            "name": "T-Pain",
+            "type": "artist",
+            "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/133g7oJWqvMnhvwfXL4CU1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/133g7oJWqvMnhvwfXL4CU1",
+        "id": "133g7oJWqvMnhvwfXL4CU1",
+        "is_local": false,
+        "name": "Best Love Song (feat. Chris Brown)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:133g7oJWqvMnhvwfXL4CU1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:68Dq0YFgygP4ipCUKCeKqE"
+}

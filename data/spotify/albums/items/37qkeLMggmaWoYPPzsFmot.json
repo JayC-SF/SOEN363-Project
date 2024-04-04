@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3NegWDGp038A3FIi3gSYzl",
+      "id": "3NegWDGp038A3FIi3gSYzl",
+      "name": "Ali Sethi",
+      "type": "artist",
+      "uri": "spotify:artist:3NegWDGp038A3FIi3gSYzl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ali Sethi",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ali Sethi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194491629748"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/37qkeLMggmaWoYPPzsFmot"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/37qkeLMggmaWoYPPzsFmot",
+  "id": "37qkeLMggmaWoYPPzsFmot",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738960599d5bc9dc3c423ff6fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028960599d5bc9dc3c423ff6fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518960599d5bc9dc3c423ff6fe",
+      "width": 64
+    }
+  ],
+  "label": "Ali Sethi",
+  "name": "Ishq",
+  "popularity": 0,
+  "release_date": "2019-01-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/37qkeLMggmaWoYPPzsFmot/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3NegWDGp038A3FIi3gSYzl",
+            "id": "3NegWDGp038A3FIi3gSYzl",
+            "name": "Ali Sethi",
+            "type": "artist",
+            "uri": "spotify:artist:3NegWDGp038A3FIi3gSYzl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242023,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tfAUdmx1aA8gBL1bqtJ4S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4tfAUdmx1aA8gBL1bqtJ4S",
+        "id": "4tfAUdmx1aA8gBL1bqtJ4S",
+        "is_local": false,
+        "name": "Ishq",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4tfAUdmx1aA8gBL1bqtJ4S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:37qkeLMggmaWoYPPzsFmot"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IH6FPUwQTxPSXurCrcIov",
+      "id": "5IH6FPUwQTxPSXurCrcIov",
+      "name": "Alec Benjamin",
+      "type": "artist",
+      "uri": "spotify:artist:5IH6FPUwQTxPSXurCrcIov"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018",
+      "type": "C"
+    },
+    {
+      "text": "2018",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679870681"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0mRjvB3HLxs4Myma1f8vps",
+  "id": "0mRjvB3HLxs4Myma1f8vps",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309a88ba53f188d4e09a11b5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209a88ba53f188d4e09a11b5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109a88ba53f188d4e09a11b5c",
+      "width": 64
+    }
+  ],
+  "label": "P2018",
+  "name": "Let Me Down Slowly",
+  "popularity": 0,
+  "release_date": "2018-05-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0mRjvB3HLxs4Myma1f8vps/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IH6FPUwQTxPSXurCrcIov",
+            "id": "5IH6FPUwQTxPSXurCrcIov",
+            "name": "Alec Benjamin",
+            "type": "artist",
+            "uri": "spotify:artist:5IH6FPUwQTxPSXurCrcIov"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169180,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2uaiyLKnYvazyfR0Ky3Kbk",
+        "id": "2uaiyLKnYvazyfR0Ky3Kbk",
+        "is_local": false,
+        "name": "Let Me Down Slowly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2uaiyLKnYvazyfR0Ky3Kbk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0mRjvB3HLxs4Myma1f8vps"
+}

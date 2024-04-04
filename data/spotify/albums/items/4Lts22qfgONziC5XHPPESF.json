@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wMr4zKPrrR0UVz08WtUWc",
+      "id": "6wMr4zKPrrR0UVz08WtUWc",
+      "name": "Black Coffee",
+      "type": "artist",
+      "uri": "spotify:artist:6wMr4zKPrrR0UVz08WtUWc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+      },
+      "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
+      "id": "23zg3TcAtWQy7J6upgbUnj",
+      "name": "USHER",
+      "type": "artist",
+      "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465008207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Lts22qfgONziC5XHPPESF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Lts22qfgONziC5XHPPESF",
+  "id": "4Lts22qfgONziC5XHPPESF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373f4e8a74879f6b77f3d2676",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273f4e8a74879f6b77f3d2676",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173f4e8a74879f6b77f3d2676",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "LaLaLa",
+  "popularity": 0,
+  "release_date": "2019-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Lts22qfgONziC5XHPPESF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wMr4zKPrrR0UVz08WtUWc",
+            "id": "6wMr4zKPrrR0UVz08WtUWc",
+            "name": "Black Coffee",
+            "type": "artist",
+            "uri": "spotify:artist:6wMr4zKPrrR0UVz08WtUWc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+            },
+            "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
+            "id": "23zg3TcAtWQy7J6upgbUnj",
+            "name": "USHER",
+            "type": "artist",
+            "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217214,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2H8BK1MZxFLAiMhKyKHDo4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H8BK1MZxFLAiMhKyKHDo4",
+        "id": "2H8BK1MZxFLAiMhKyKHDo4",
+        "is_local": false,
+        "name": "LaLaLa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2H8BK1MZxFLAiMhKyKHDo4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Lts22qfgONziC5XHPPESF"
+}

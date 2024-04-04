@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3yDixC6rzq0qg2HmZTobCO",
+      "id": "3yDixC6rzq0qg2HmZTobCO",
+      "name": "BroyS",
+      "type": "artist",
+      "uri": "spotify:artist:3yDixC6rzq0qg2HmZTobCO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Factoree",
+      "type": "C"
+    },
+    {
+      "text": "2021 Factoree",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4056813234039"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24xO7gPDsMiNMk0x1FGzNx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/24xO7gPDsMiNMk0x1FGzNx",
+  "id": "24xO7gPDsMiNMk0x1FGzNx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332ffcd4ff1dbf0ba6e9ebd4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232ffcd4ff1dbf0ba6e9ebd4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132ffcd4ff1dbf0ba6e9ebd4c",
+      "width": 64
+    }
+  ],
+  "label": "Factoree",
+  "name": "Saufen aufm Spielplatz",
+  "popularity": 0,
+  "release_date": "2021-02-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/24xO7gPDsMiNMk0x1FGzNx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3yDixC6rzq0qg2HmZTobCO",
+            "id": "3yDixC6rzq0qg2HmZTobCO",
+            "name": "BroyS",
+            "type": "artist",
+            "uri": "spotify:artist:3yDixC6rzq0qg2HmZTobCO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58epipdok54yeT0wlICNvL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/58epipdok54yeT0wlICNvL",
+        "id": "58epipdok54yeT0wlICNvL",
+        "is_local": false,
+        "name": "Saufen aufm Spielplatz",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:58epipdok54yeT0wlICNvL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:24xO7gPDsMiNMk0x1FGzNx"
+}

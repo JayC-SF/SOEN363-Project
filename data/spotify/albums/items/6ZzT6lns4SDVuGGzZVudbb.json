@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EVyo51RnPRlNvt0WLHg2q"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EVyo51RnPRlNvt0WLHg2q",
+      "id": "2EVyo51RnPRlNvt0WLHg2q",
+      "name": "Karan Aujla",
+      "type": "artist",
+      "uri": "spotify:artist:2EVyo51RnPRlNvt0WLHg2q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Karan Aujla",
+      "type": "C"
+    },
+    {
+      "text": "2020 Karan Aujla",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445281346454"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ZzT6lns4SDVuGGzZVudbb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ZzT6lns4SDVuGGzZVudbb",
+  "id": "6ZzT6lns4SDVuGGzZVudbb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730fb7c4e9d7f0507002e4c5af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020fb7c4e9d7f0507002e4c5af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510fb7c4e9d7f0507002e4c5af",
+      "width": 64
+    }
+  ],
+  "label": "Karan Aujla",
+  "name": "So Far",
+  "popularity": 0,
+  "release_date": "2020-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ZzT6lns4SDVuGGzZVudbb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2EVyo51RnPRlNvt0WLHg2q"
+            },
+            "href": "https://api.spotify.com/v1/artists/2EVyo51RnPRlNvt0WLHg2q",
+            "id": "2EVyo51RnPRlNvt0WLHg2q",
+            "name": "Karan Aujla",
+            "type": "artist",
+            "uri": "spotify:artist:2EVyo51RnPRlNvt0WLHg2q"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185914,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NOyMuZZ0LxQbvdY97O0e8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NOyMuZZ0LxQbvdY97O0e8",
+        "id": "0NOyMuZZ0LxQbvdY97O0e8",
+        "is_local": false,
+        "name": "So Far",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NOyMuZZ0LxQbvdY97O0e8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ZzT6lns4SDVuGGzZVudbb"
+}

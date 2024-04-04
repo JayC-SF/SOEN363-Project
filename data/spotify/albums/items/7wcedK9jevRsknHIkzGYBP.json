@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52lUXCmpmAIVsgNd1uADOy"
+      },
+      "href": "https://api.spotify.com/v1/artists/52lUXCmpmAIVsgNd1uADOy",
+      "id": "52lUXCmpmAIVsgNd1uADOy",
+      "name": "Moosh & Twist",
+      "type": "artist",
+      "uri": "spotify:artist:52lUXCmpmAIVsgNd1uADOy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Entertainment One Music",
+      "type": "C"
+    },
+    {
+      "text": "2015 Entertainment One Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164030926"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7wcedK9jevRsknHIkzGYBP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7wcedK9jevRsknHIkzGYBP",
+  "id": "7wcedK9jevRsknHIkzGYBP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358062c22edf13d1f7513e4b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258062c22edf13d1f7513e4b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158062c22edf13d1f7513e4b8",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Woah",
+  "popularity": 0,
+  "release_date": "2015-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7wcedK9jevRsknHIkzGYBP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52lUXCmpmAIVsgNd1uADOy"
+            },
+            "href": "https://api.spotify.com/v1/artists/52lUXCmpmAIVsgNd1uADOy",
+            "id": "52lUXCmpmAIVsgNd1uADOy",
+            "name": "Moosh & Twist",
+            "type": "artist",
+            "uri": "spotify:artist:52lUXCmpmAIVsgNd1uADOy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151511,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VulJCPS1i0wp374anLeot"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VulJCPS1i0wp374anLeot",
+        "id": "4VulJCPS1i0wp374anLeot",
+        "is_local": false,
+        "name": "Woah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VulJCPS1i0wp374anLeot"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7wcedK9jevRsknHIkzGYBP"
+}

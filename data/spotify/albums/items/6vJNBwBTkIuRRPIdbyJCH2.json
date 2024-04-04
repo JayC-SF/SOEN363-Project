@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YjaVTeHBlVRRxbk7H30HN",
+      "id": "1YjaVTeHBlVRRxbk7H30HN",
+      "name": "Lunis",
+      "type": "artist",
+      "uri": "spotify:artist:1YjaVTeHBlVRRxbk7H30HN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0y4czH6DnvpftiSoy7V3HY",
+      "id": "0y4czH6DnvpftiSoy7V3HY",
+      "name": "Anthony Keyrouz",
+      "type": "artist",
+      "uri": "spotify:artist:0y4czH6DnvpftiSoy7V3HY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+      },
+      "href": "https://api.spotify.com/v1/artists/619CzMJPPWrCeZwx5qw6ko",
+      "id": "619CzMJPPWrCeZwx5qw6ko",
+      "name": "Besomorph",
+      "type": "artist",
+      "uri": "spotify:artist:619CzMJPPWrCeZwx5qw6ko"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Besomorph & Anthony Keyrouz",
+      "type": "C"
+    },
+    {
+      "text": "2020 Besomorph & Anthony Keyrouz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195266426418"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6vJNBwBTkIuRRPIdbyJCH2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6vJNBwBTkIuRRPIdbyJCH2",
+  "id": "6vJNBwBTkIuRRPIdbyJCH2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e6a0c312bbbafd9709d7181",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e6a0c312bbbafd9709d7181",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e6a0c312bbbafd9709d7181",
+      "width": 64
+    }
+  ],
+  "label": "Besomorph & Anthony Keyrouz",
+  "name": "Apologize",
+  "popularity": 3,
+  "release_date": "2020-05-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6vJNBwBTkIuRRPIdbyJCH2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+            },
+            "href": "https://api.spotify.com/v1/artists/619CzMJPPWrCeZwx5qw6ko",
+            "id": "619CzMJPPWrCeZwx5qw6ko",
+            "name": "Besomorph",
+            "type": "artist",
+            "uri": "spotify:artist:619CzMJPPWrCeZwx5qw6ko"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0y4czH6DnvpftiSoy7V3HY",
+            "id": "0y4czH6DnvpftiSoy7V3HY",
+            "name": "Anthony Keyrouz",
+            "type": "artist",
+            "uri": "spotify:artist:0y4czH6DnvpftiSoy7V3HY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YjaVTeHBlVRRxbk7H30HN",
+            "id": "1YjaVTeHBlVRRxbk7H30HN",
+            "name": "Lunis",
+            "type": "artist",
+            "uri": "spotify:artist:1YjaVTeHBlVRRxbk7H30HN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146601,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Uo43DNldd7aNxizhKgowg",
+        "id": "0Uo43DNldd7aNxizhKgowg",
+        "is_local": false,
+        "name": "Apologize",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Uo43DNldd7aNxizhKgowg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6vJNBwBTkIuRRPIdbyJCH2"
+}

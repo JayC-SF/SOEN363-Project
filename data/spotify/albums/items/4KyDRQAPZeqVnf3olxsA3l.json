@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+      },
+      "href": "https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9",
+      "id": "7jZM5w05mGhw6wTB1okhD9",
+      "name": "ATB",
+      "type": "artist",
+      "uri": "spotify:artist:7jZM5w05mGhw6wTB1okhD9"
+    }
+  ],
+  "available_markets": [
+    "BR"
+  ],
+  "copyrights": [
+    {
+      "text": "2012 Building Records",
+      "type": "C"
+    },
+    {
+      "text": "2012 Building Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7897850508847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KyDRQAPZeqVnf3olxsA3l"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4KyDRQAPZeqVnf3olxsA3l",
+  "id": "4KyDRQAPZeqVnf3olxsA3l",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e04d42e103f4f8acbc1e931",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e04d42e103f4f8acbc1e931",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519e04d42e103f4f8acbc1e931",
+      "width": 64
+    }
+  ],
+  "label": "Building Records",
+  "name": "9 Pm Reloaded (Edit)",
+  "popularity": 20,
+  "release_date": "2012-09-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4KyDRQAPZeqVnf3olxsA3l/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9",
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB",
+            "type": "artist",
+            "uri": "spotify:artist:7jZM5w05mGhw6wTB1okhD9"
+          }
+        ],
+        "available_markets": [
+          "BR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228780,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AffqWlGkKtS5zkcdBjaUm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AffqWlGkKtS5zkcdBjaUm",
+        "id": "0AffqWlGkKtS5zkcdBjaUm",
+        "is_local": false,
+        "name": "9 Pm Reloaded - Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0AffqWlGkKtS5zkcdBjaUm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4KyDRQAPZeqVnf3olxsA3l"
+}

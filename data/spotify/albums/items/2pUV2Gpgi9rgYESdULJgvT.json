@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+      },
+      "href": "https://api.spotify.com/v1/artists/2N5EUidcVv9pnicQFDeK5W",
+      "id": "2N5EUidcVv9pnicQFDeK5W",
+      "name": "2LADE",
+      "type": "artist",
+      "uri": "spotify:artist:2N5EUidcVv9pnicQFDeK5W"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 2LADE",
+      "type": "C"
+    },
+    {
+      "text": "2020 2LADE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062851943727"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2pUV2Gpgi9rgYESdULJgvT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2pUV2Gpgi9rgYESdULJgvT",
+  "id": "2pUV2Gpgi9rgYESdULJgvT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcb56df117e1e72263050bb8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcb56df117e1e72263050bb8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcb56df117e1e72263050bb8",
+      "width": 64
+    }
+  ],
+  "label": "VAEMPIRE",
+  "name": "Boxen Laut",
+  "popularity": 0,
+  "release_date": "2020-12-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2pUV2Gpgi9rgYESdULJgvT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+            },
+            "href": "https://api.spotify.com/v1/artists/2N5EUidcVv9pnicQFDeK5W",
+            "id": "2N5EUidcVv9pnicQFDeK5W",
+            "name": "2LADE",
+            "type": "artist",
+            "uri": "spotify:artist:2N5EUidcVv9pnicQFDeK5W"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 116005,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NSUpMqCBnDoGaJtGC0yoX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NSUpMqCBnDoGaJtGC0yoX",
+        "id": "5NSUpMqCBnDoGaJtGC0yoX",
+        "is_local": false,
+        "name": "Boxen Laut",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5NSUpMqCBnDoGaJtGC0yoX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2pUV2Gpgi9rgYESdULJgvT"
+}

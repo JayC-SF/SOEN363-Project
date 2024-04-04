@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zz52ViyCBcplK0ftEVPSS",
+      "id": "3zz52ViyCBcplK0ftEVPSS",
+      "name": "Quadeca",
+      "type": "artist",
+      "uri": "spotify:artist:3zz52ViyCBcplK0ftEVPSS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Quadeca",
+      "type": "C"
+    },
+    {
+      "text": "2019 Quadeca",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0194937732674"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gRHe0qihf5sUKharL1zaH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5gRHe0qihf5sUKharL1zaH",
+  "id": "5gRHe0qihf5sUKharL1zaH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273071ea6378dc08c7cc5b5e908",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02071ea6378dc08c7cc5b5e908",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851071ea6378dc08c7cc5b5e908",
+      "width": 64
+    }
+  ],
+  "label": "Quadeca",
+  "name": "BEAMIN'",
+  "popularity": 0,
+  "release_date": "2019-11-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5gRHe0qihf5sUKharL1zaH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zz52ViyCBcplK0ftEVPSS",
+            "id": "3zz52ViyCBcplK0ftEVPSS",
+            "name": "Quadeca",
+            "type": "artist",
+            "uri": "spotify:artist:3zz52ViyCBcplK0ftEVPSS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140500,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JlOPpMwwZTfT0wDsuBBOc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JlOPpMwwZTfT0wDsuBBOc",
+        "id": "4JlOPpMwwZTfT0wDsuBBOc",
+        "is_local": false,
+        "name": "BEAMIN'",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4JlOPpMwwZTfT0wDsuBBOc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5gRHe0qihf5sUKharL1zaH"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "name": "Rex Orange County",
+      "type": "artist",
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Alex O'Connor t/a Rex Orange County",
+      "type": "C"
+    },
+    {
+      "text": "2017 Alex O'Connor t/a Rex Orange County",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167102434"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Do68lYD1UfOmeBYtsxF18",
+  "id": "6Do68lYD1UfOmeBYtsxF18",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273509cef30f965f28a3a649afa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02509cef30f965f28a3a649afa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851509cef30f965f28a3a649afa",
+      "width": 64
+    }
+  ],
+  "label": "Rex Orange County",
+  "name": "Edition",
+  "popularity": 0,
+  "release_date": "2017-09-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Do68lYD1UfOmeBYtsxF18/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 115000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1wz7B02oOtrTW6SNLG0cSk",
+        "id": "1wz7B02oOtrTW6SNLG0cSk",
+        "is_local": false,
+        "name": "Edition",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1wz7B02oOtrTW6SNLG0cSk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Do68lYD1UfOmeBYtsxF18"
+}

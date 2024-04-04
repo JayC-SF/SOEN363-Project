@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eYFryfcEu3QSq59D62wZQ",
+      "id": "6eYFryfcEu3QSq59D62wZQ",
+      "name": "Brendon Urie",
+      "type": "artist",
+      "uri": "spotify:artist:6eYFryfcEu3QSq59D62wZQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+      },
+      "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
+      "id": "20JZFwl6HVl6yg8a4H3ZqK",
+      "name": "Panic! At The Disco",
+      "type": "artist",
+      "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Taylor Swift",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Taylor Swift",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577842207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0WGakTFs8cnggcYsHjIhgy",
+  "id": "0WGakTFs8cnggcYsHjIhgy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27351e4bcd72f4d8c30111f5a4b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0251e4bcd72f4d8c30111f5a4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485151e4bcd72f4d8c30111f5a4b",
+      "width": 64
+    }
+  ],
+  "label": "Republic Records",
+  "name": "ME!",
+  "popularity": 0,
+  "release_date": "2019-04-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0WGakTFs8cnggcYsHjIhgy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eYFryfcEu3QSq59D62wZQ",
+            "id": "6eYFryfcEu3QSq59D62wZQ",
+            "name": "Brendon Urie",
+            "type": "artist",
+            "uri": "spotify:artist:6eYFryfcEu3QSq59D62wZQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Sib57MmYGJzSvkW84jTwh",
+        "id": "4Sib57MmYGJzSvkW84jTwh",
+        "is_local": false,
+        "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Sib57MmYGJzSvkW84jTwh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0WGakTFs8cnggcYsHjIhgy"
+}

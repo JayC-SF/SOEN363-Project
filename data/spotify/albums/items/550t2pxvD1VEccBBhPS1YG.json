@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2TEpPi5SFalflhpcQHq3lB",
+      "id": "2TEpPi5SFalflhpcQHq3lB",
+      "name": "Ian Noe",
+      "type": "artist",
+      "uri": "spotify:artist:2TEpPi5SFalflhpcQHq3lB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 National Treasury Recordings marketed and distributed by Thirty Tigers",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483482149"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/550t2pxvD1VEccBBhPS1YG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/550t2pxvD1VEccBBhPS1YG",
+  "id": "550t2pxvD1VEccBBhPS1YG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273950eb7b93f8954bf624e54b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02950eb7b93f8954bf624e54b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851950eb7b93f8954bf624e54b0",
+      "width": 64
+    }
+  ],
+  "label": "National Treasury Recordings",
+  "name": "Letter to Madeline",
+  "popularity": 0,
+  "release_date": "2019-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/550t2pxvD1VEccBBhPS1YG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2TEpPi5SFalflhpcQHq3lB",
+            "id": "2TEpPi5SFalflhpcQHq3lB",
+            "name": "Ian Noe",
+            "type": "artist",
+            "uri": "spotify:artist:2TEpPi5SFalflhpcQHq3lB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 269083,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dlRfWgS04e8n5oVbLJ7Q8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dlRfWgS04e8n5oVbLJ7Q8",
+        "id": "5dlRfWgS04e8n5oVbLJ7Q8",
+        "is_local": false,
+        "name": "Letter to Madeline",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5dlRfWgS04e8n5oVbLJ7Q8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:550t2pxvD1VEccBBhPS1YG"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Kdev6w0Zd5MDbmoXiUYgF"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Kdev6w0Zd5MDbmoXiUYgF",
+      "id": "3Kdev6w0Zd5MDbmoXiUYgF",
+      "name": "Fecko Boltz",
+      "type": "artist",
+      "uri": "spotify:artist:3Kdev6w0Zd5MDbmoXiUYgF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 BZT Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 BZT Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119354057"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3aEJRBIAnRPakRIV4kCSNP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3aEJRBIAnRPakRIV4kCSNP",
+  "id": "3aEJRBIAnRPakRIV4kCSNP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db3b026d640431cb848dd793",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db3b026d640431cb848dd793",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db3b026d640431cb848dd793",
+      "width": 64
+    }
+  ],
+  "label": "Brazility",
+  "name": "NOT SO BAD",
+  "popularity": 0,
+  "release_date": "2020-02-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3aEJRBIAnRPakRIV4kCSNP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kdev6w0Zd5MDbmoXiUYgF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Kdev6w0Zd5MDbmoXiUYgF",
+            "id": "3Kdev6w0Zd5MDbmoXiUYgF",
+            "name": "Fecko Boltz",
+            "type": "artist",
+            "uri": "spotify:artist:3Kdev6w0Zd5MDbmoXiUYgF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154572,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ktk6UJxZbcml2dzne67Dj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ktk6UJxZbcml2dzne67Dj",
+        "id": "5Ktk6UJxZbcml2dzne67Dj",
+        "is_local": false,
+        "name": "NOT SO BAD",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Ktk6UJxZbcml2dzne67Dj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3aEJRBIAnRPakRIV4kCSNP"
+}

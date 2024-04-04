@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+      },
+      "href": "https://api.spotify.com/v1/artists/5i4BaWy8YIun1u3RXwmlWn",
+      "id": "5i4BaWy8YIun1u3RXwmlWn",
+      "name": "gianni & kyle",
+      "type": "artist",
+      "uri": "spotify:artist:5i4BaWy8YIun1u3RXwmlWn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 hardpink records",
+      "type": "C"
+    },
+    {
+      "text": "2017 hardpink records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192378801713"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6hrla5I0TF37GCm9Wim8Ja"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6hrla5I0TF37GCm9Wim8Ja",
+  "id": "6hrla5I0TF37GCm9Wim8Ja",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e3da6e9d4e2a7044aba52ccb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e3da6e9d4e2a7044aba52ccb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e3da6e9d4e2a7044aba52ccb",
+      "width": 64
+    }
+  ],
+  "label": "hardpink records",
+  "name": "pop a pill",
+  "popularity": 0,
+  "release_date": "2017-10-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6hrla5I0TF37GCm9Wim8Ja/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+            },
+            "href": "https://api.spotify.com/v1/artists/5i4BaWy8YIun1u3RXwmlWn",
+            "id": "5i4BaWy8YIun1u3RXwmlWn",
+            "name": "gianni & kyle",
+            "type": "artist",
+            "uri": "spotify:artist:5i4BaWy8YIun1u3RXwmlWn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180808,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15VIPlqNYLgN6T43kBAClE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15VIPlqNYLgN6T43kBAClE",
+        "id": "15VIPlqNYLgN6T43kBAClE",
+        "is_local": false,
+        "name": "pop a pill",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15VIPlqNYLgN6T43kBAClE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6hrla5I0TF37GCm9Wim8Ja"
+}

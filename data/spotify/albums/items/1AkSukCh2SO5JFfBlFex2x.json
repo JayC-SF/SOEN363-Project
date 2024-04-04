@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FQjZr7VdDmDBCibxxoJ1o"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FQjZr7VdDmDBCibxxoJ1o",
+      "id": "6FQjZr7VdDmDBCibxxoJ1o",
+      "name": "Aethers",
+      "type": "artist",
+      "uri": "spotify:artist:6FQjZr7VdDmDBCibxxoJ1o"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Chill Beats Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Chill Beats Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859737596917"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1AkSukCh2SO5JFfBlFex2x"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1AkSukCh2SO5JFfBlFex2x",
+  "id": "1AkSukCh2SO5JFfBlFex2x",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731456a915f9158c85102394c5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021456a915f9158c85102394c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511456a915f9158c85102394c5",
+      "width": 64
+    }
+  ],
+  "label": "Chill Beats Records",
+  "name": "Cherry",
+  "popularity": 0,
+  "release_date": "2020-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1AkSukCh2SO5JFfBlFex2x/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FQjZr7VdDmDBCibxxoJ1o"
+            },
+            "href": "https://api.spotify.com/v1/artists/6FQjZr7VdDmDBCibxxoJ1o",
+            "id": "6FQjZr7VdDmDBCibxxoJ1o",
+            "name": "Aethers",
+            "type": "artist",
+            "uri": "spotify:artist:6FQjZr7VdDmDBCibxxoJ1o"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155208,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WEItI8xECBhLYhX4ePP3Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WEItI8xECBhLYhX4ePP3Y",
+        "id": "6WEItI8xECBhLYhX4ePP3Y",
+        "is_local": false,
+        "name": "Cherry",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6WEItI8xECBhLYhX4ePP3Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1AkSukCh2SO5JFfBlFex2x"
+}

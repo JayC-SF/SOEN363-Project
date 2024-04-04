@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4PvnP3yCzrT289cX3wCdOx",
+      "id": "4PvnP3yCzrT289cX3wCdOx",
+      "name": "Yung Hurn",
+      "type": "artist",
+      "uri": "spotify:artist:4PvnP3yCzrT289cX3wCdOx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Live From Earth",
+      "type": "C"
+    },
+    {
+      "text": "2019 Live From Earth",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616400601142"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3OzbGKS23V25UX1jpNYqTE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3OzbGKS23V25UX1jpNYqTE",
+  "id": "3OzbGKS23V25UX1jpNYqTE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3ff94529f5309126710d6a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3ff94529f5309126710d6a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3ff94529f5309126710d6a4",
+      "width": 64
+    }
+  ],
+  "label": "Live From Earth",
+  "name": "Rauch",
+  "popularity": 0,
+  "release_date": "2019-08-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3OzbGKS23V25UX1jpNYqTE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4PvnP3yCzrT289cX3wCdOx",
+            "id": "4PvnP3yCzrT289cX3wCdOx",
+            "name": "Yung Hurn",
+            "type": "artist",
+            "uri": "spotify:artist:4PvnP3yCzrT289cX3wCdOx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vQMNllbEaBhPh5a1w9ipj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vQMNllbEaBhPh5a1w9ipj",
+        "id": "7vQMNllbEaBhPh5a1w9ipj",
+        "is_local": false,
+        "name": "Rauch",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vQMNllbEaBhPh5a1w9ipj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3OzbGKS23V25UX1jpNYqTE"
+}

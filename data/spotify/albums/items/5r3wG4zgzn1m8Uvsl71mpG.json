@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01GDk8XueTrPk5iEWQ1rVJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/01GDk8XueTrPk5iEWQ1rVJ",
+      "id": "01GDk8XueTrPk5iEWQ1rVJ",
+      "name": "Artsvik",
+      "type": "artist",
+      "uri": "spotify:artist:01GDk8XueTrPk5iEWQ1rVJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 AMPTV, exclusively distributed by Universal Music A/S",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 AMPTV, exclusively distributed by Universal Music A/S",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557589160"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5r3wG4zgzn1m8Uvsl71mpG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5r3wG4zgzn1m8Uvsl71mpG",
+  "id": "5r3wG4zgzn1m8Uvsl71mpG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c57581118b009bd081c76063",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c57581118b009bd081c76063",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c57581118b009bd081c76063",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Fly With Me",
+  "popularity": 0,
+  "release_date": "2017-03-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5r3wG4zgzn1m8Uvsl71mpG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01GDk8XueTrPk5iEWQ1rVJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/01GDk8XueTrPk5iEWQ1rVJ",
+            "id": "01GDk8XueTrPk5iEWQ1rVJ",
+            "name": "Artsvik",
+            "type": "artist",
+            "uri": "spotify:artist:01GDk8XueTrPk5iEWQ1rVJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179134,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PbsliSdEPxPRqtsrKFzOR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PbsliSdEPxPRqtsrKFzOR",
+        "id": "1PbsliSdEPxPRqtsrKFzOR",
+        "is_local": false,
+        "name": "Fly With Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1PbsliSdEPxPRqtsrKFzOR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5r3wG4zgzn1m8Uvsl71mpG"
+}

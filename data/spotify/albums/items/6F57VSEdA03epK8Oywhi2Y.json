@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6MFULpkCpjw47aMa1Z5m1i"
+      },
+      "href": "https://api.spotify.com/v1/artists/6MFULpkCpjw47aMa1Z5m1i",
+      "id": "6MFULpkCpjw47aMa1Z5m1i",
+      "name": "LOKO BEN",
+      "type": "artist",
+      "uri": "spotify:artist:6MFULpkCpjw47aMa1Z5m1i"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 LOKO BEN",
+      "type": "C"
+    },
+    {
+      "text": "2020 LOKO BEN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720355042686"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6F57VSEdA03epK8Oywhi2Y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6F57VSEdA03epK8Oywhi2Y",
+  "id": "6F57VSEdA03epK8Oywhi2Y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bfde5f7bd71babaf6f3497e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bfde5f7bd71babaf6f3497e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bfde5f7bd71babaf6f3497e2",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "MDF",
+  "popularity": 0,
+  "release_date": "2020-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6F57VSEdA03epK8Oywhi2Y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MFULpkCpjw47aMa1Z5m1i"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MFULpkCpjw47aMa1Z5m1i",
+            "id": "6MFULpkCpjw47aMa1Z5m1i",
+            "name": "LOKO BEN",
+            "type": "artist",
+            "uri": "spotify:artist:6MFULpkCpjw47aMa1Z5m1i"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TUJTfBiWFpvJiTtM4mmgH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TUJTfBiWFpvJiTtM4mmgH",
+        "id": "6TUJTfBiWFpvJiTtM4mmgH",
+        "is_local": false,
+        "name": "MDF",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6TUJTfBiWFpvJiTtM4mmgH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6F57VSEdA03epK8Oywhi2Y"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62j08iFJqMbcaGYdWVXnm1"
+      },
+      "href": "https://api.spotify.com/v1/artists/62j08iFJqMbcaGYdWVXnm1",
+      "id": "62j08iFJqMbcaGYdWVXnm1",
+      "name": "88Dub",
+      "type": "artist",
+      "uri": "spotify:artist:62j08iFJqMbcaGYdWVXnm1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 88Dub",
+      "type": "C"
+    },
+    {
+      "text": "2020 88Dub",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195936299656"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6GoOKZ151Ow5Z96lfcYCxK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6GoOKZ151Ow5Z96lfcYCxK",
+  "id": "6GoOKZ151Ow5Z96lfcYCxK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341c5256642258e07cd723c07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241c5256642258e07cd723c07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141c5256642258e07cd723c07",
+      "width": 64
+    }
+  ],
+  "label": "88Dub",
+  "name": "Walkdown",
+  "popularity": 0,
+  "release_date": "2020-11-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6GoOKZ151Ow5Z96lfcYCxK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62j08iFJqMbcaGYdWVXnm1"
+            },
+            "href": "https://api.spotify.com/v1/artists/62j08iFJqMbcaGYdWVXnm1",
+            "id": "62j08iFJqMbcaGYdWVXnm1",
+            "name": "88Dub",
+            "type": "artist",
+            "uri": "spotify:artist:62j08iFJqMbcaGYdWVXnm1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 117237,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43bzUXTr7ZdKPnvOP7a1DB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43bzUXTr7ZdKPnvOP7a1DB",
+        "id": "43bzUXTr7ZdKPnvOP7a1DB",
+        "is_local": false,
+        "name": "Walkdown",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:43bzUXTr7ZdKPnvOP7a1DB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6GoOKZ151Ow5Z96lfcYCxK"
+}

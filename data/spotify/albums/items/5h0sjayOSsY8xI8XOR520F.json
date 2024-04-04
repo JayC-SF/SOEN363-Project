@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id": "16oZKvXb6WkQlVAjwo2Wbg",
+      "name": "The Lumineers",
+      "type": "artist",
+      "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 The Lumineers, under exclusive licence to Decca a division of Universal Music Operations Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 The Lumineers, under exclusive licence to Decca a division of Universal Music Operations Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557245479"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5h0sjayOSsY8xI8XOR520F"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5h0sjayOSsY8xI8XOR520F",
+  "id": "5h0sjayOSsY8xI8XOR520F",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2a3e54d82dc5cb1aef4dbbc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2a3e54d82dc5cb1aef4dbbc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2a3e54d82dc5cb1aef4dbbc",
+      "width": 64
+    }
+  ],
+  "label": "Decca (UMO)",
+  "name": "Angela",
+  "popularity": 35,
+  "release_date": "2017-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5h0sjayOSsY8xI8XOR520F/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+            },
+            "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+            "id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "name": "The Lumineers",
+            "type": "artist",
+            "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pTkNkfB5hxxHxhX1cVles"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pTkNkfB5hxxHxhX1cVles",
+        "id": "4pTkNkfB5hxxHxhX1cVles",
+        "is_local": false,
+        "name": "Angela - Single Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4pTkNkfB5hxxHxhX1cVles"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5h0sjayOSsY8xI8XOR520F"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5x3pB4GWqPnrU6XK0g4JQg"
+      },
+      "href": "https://api.spotify.com/v1/artists/5x3pB4GWqPnrU6XK0g4JQg",
+      "id": "5x3pB4GWqPnrU6XK0g4JQg",
+      "name": "jangoo",
+      "type": "artist",
+      "uri": "spotify:artist:5x3pB4GWqPnrU6XK0g4JQg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 yyunggen",
+      "type": "C"
+    },
+    {
+      "text": "2022 yyunggen",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196863195707"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/73FOrpDDeB3v2QGvKlj1st"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/73FOrpDDeB3v2QGvKlj1st",
+  "id": "73FOrpDDeB3v2QGvKlj1st",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353425c244c617b55fc381da8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253425c244c617b55fc381da8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153425c244c617b55fc381da8",
+      "width": 64
+    }
+  ],
+  "label": "yyunggen",
+  "name": "G Wagon",
+  "popularity": 7,
+  "release_date": "2022-05-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/73FOrpDDeB3v2QGvKlj1st/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5x3pB4GWqPnrU6XK0g4JQg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5x3pB4GWqPnrU6XK0g4JQg",
+            "id": "5x3pB4GWqPnrU6XK0g4JQg",
+            "name": "jangoo",
+            "type": "artist",
+            "uri": "spotify:artist:5x3pB4GWqPnrU6XK0g4JQg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163772,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fjL3xwY52IczoHmOcimpE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fjL3xwY52IczoHmOcimpE",
+        "id": "6fjL3xwY52IczoHmOcimpE",
+        "is_local": false,
+        "name": "G Wagon",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6fjL3xwY52IczoHmOcimpE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:73FOrpDDeB3v2QGvKlj1st"
+}

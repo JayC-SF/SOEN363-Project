@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+      "id": "3qnGvpP8Yth1AqSBMqON5x",
+      "name": "Leon Bridges",
+      "type": "artist",
+      "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2018 LisaSawyer63, Inc. under license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447049945"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Nu4xhj7NxdUiL0eMy9yoQ",
+  "id": "0Nu4xhj7NxdUiL0eMy9yoQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736daf9eb02baf2eccd0e9b970",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026daf9eb02baf2eccd0e9b970",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516daf9eb02baf2eccd0e9b970",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Beyond",
+  "popularity": 0,
+  "release_date": "2018-04-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Nu4xhj7NxdUiL0eMy9yoQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+            "id": "3qnGvpP8Yth1AqSBMqON5x",
+            "name": "Leon Bridges",
+            "type": "artist",
+            "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5esPpmrM2AsyDVgOKzWQwU",
+        "id": "5esPpmrM2AsyDVgOKzWQwU",
+        "is_local": false,
+        "name": "Beyond",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5esPpmrM2AsyDVgOKzWQwU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Nu4xhj7NxdUiL0eMy9yoQ"
+}

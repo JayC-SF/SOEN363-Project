@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/5cKlE8f6b26h61Ml7m052Q",
+      "id": "5cKlE8f6b26h61Ml7m052Q",
+      "name": "Haley Reinhart",
+      "type": "artist",
+      "uri": "spotify:artist:5cKlE8f6b26h61Ml7m052Q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 red dot",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "889845787600"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QjZNsdGO0vdqDz23nqS1L",
+  "id": "1QjZNsdGO0vdqDz23nqS1L",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343a46800f911c086edd8d4ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243a46800f911c086edd8d4ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143a46800f911c086edd8d4ab",
+      "width": 64
+    }
+  ],
+  "label": "ole",
+  "name": "Can't Help Falling in Love",
+  "popularity": 0,
+  "release_date": "2015-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QjZNsdGO0vdqDz23nqS1L/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/5cKlE8f6b26h61Ml7m052Q",
+            "id": "5cKlE8f6b26h61Ml7m052Q",
+            "name": "Haley Reinhart",
+            "type": "artist",
+            "uri": "spotify:artist:5cKlE8f6b26h61Ml7m052Q"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Rm2G83ELwkuEgpHlJcBPn",
+        "id": "0Rm2G83ELwkuEgpHlJcBPn",
+        "is_local": false,
+        "name": "Can't Help Falling in Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Rm2G83ELwkuEgpHlJcBPn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QjZNsdGO0vdqDz23nqS1L"
+}

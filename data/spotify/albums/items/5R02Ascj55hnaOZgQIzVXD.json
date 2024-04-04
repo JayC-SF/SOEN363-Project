@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "name": "Rihanna",
+      "type": "artist",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 The Island Def Jam Music Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 The Island Def Jam Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527526744"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5R02Ascj55hnaOZgQIzVXD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5R02Ascj55hnaOZgQIzVXD",
+  "id": "5R02Ascj55hnaOZgQIzVXD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ed1b667472758e050fd86f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028ed1b667472758e050fd86f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518ed1b667472758e050fd86f5",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Only Girl (In The World)",
+  "popularity": 0,
+  "release_date": "2010-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5R02Ascj55hnaOZgQIzVXD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YJlTDtUXu1sGh8lunblkG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YJlTDtUXu1sGh8lunblkG",
+        "id": "3YJlTDtUXu1sGh8lunblkG",
+        "is_local": false,
+        "name": "Only Girl (In The World)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3YJlTDtUXu1sGh8lunblkG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5R02Ascj55hnaOZgQIzVXD"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3QFiymmbJlVBPpnrOatEAk",
+      "id": "3QFiymmbJlVBPpnrOatEAk",
+      "name": "Myd",
+      "type": "artist",
+      "uri": "spotify:artist:3QFiymmbJlVBPpnrOatEAk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Ed Banger Records distribu\u00e9 par Because Music LC33186",
+      "type": "C"
+    },
+    {
+      "text": "2017 Ed Banger Records distribu\u00e9 par Because Music LC33186",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060525432484"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4hI5JJDxanXbakx4MkFToA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4hI5JJDxanXbakx4MkFToA",
+  "id": "4hI5JJDxanXbakx4MkFToA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb5b651686447772353cf44c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb5b651686447772353cf44c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb5b651686447772353cf44c",
+      "width": 64
+    }
+  ],
+  "label": "Ed Banger Records",
+  "name": "The Sun",
+  "popularity": 0,
+  "release_date": "2017-10-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4hI5JJDxanXbakx4MkFToA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3QFiymmbJlVBPpnrOatEAk",
+            "id": "3QFiymmbJlVBPpnrOatEAk",
+            "name": "Myd",
+            "type": "artist",
+            "uri": "spotify:artist:3QFiymmbJlVBPpnrOatEAk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IY8Lz6j0sc2DuUva1KLNo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4IY8Lz6j0sc2DuUva1KLNo",
+        "id": "4IY8Lz6j0sc2DuUva1KLNo",
+        "is_local": false,
+        "name": "The Sun",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4IY8Lz6j0sc2DuUva1KLNo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4hI5JJDxanXbakx4MkFToA"
+}

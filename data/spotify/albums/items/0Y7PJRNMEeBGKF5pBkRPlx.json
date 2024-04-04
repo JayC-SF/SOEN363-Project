@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1DXylZlWbVvlckNqwvjTEt",
+      "id": "1DXylZlWbVvlckNqwvjTEt",
+      "name": "Ministry",
+      "type": "artist",
+      "uri": "spotify:artist:1DXylZlWbVvlckNqwvjTEt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Nuclear Blast",
+      "type": "C"
+    },
+    {
+      "text": "2023 Nuclear Blast",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4065629714819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Y7PJRNMEeBGKF5pBkRPlx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Y7PJRNMEeBGKF5pBkRPlx",
+  "id": "0Y7PJRNMEeBGKF5pBkRPlx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338b219b1162da80ae3071dba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238b219b1162da80ae3071dba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138b219b1162da80ae3071dba",
+      "width": 64
+    }
+  ],
+  "label": "Nuclear Blast",
+  "name": "Just Stop Oil",
+  "popularity": 20,
+  "release_date": "2023-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Y7PJRNMEeBGKF5pBkRPlx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DXylZlWbVvlckNqwvjTEt",
+            "id": "1DXylZlWbVvlckNqwvjTEt",
+            "name": "Ministry",
+            "type": "artist",
+            "uri": "spotify:artist:1DXylZlWbVvlckNqwvjTEt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239373,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FS4k9TRB3CEPxGg8BkEqw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FS4k9TRB3CEPxGg8BkEqw",
+        "id": "4FS4k9TRB3CEPxGg8BkEqw",
+        "is_local": false,
+        "name": "Just Stop Oil",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4FS4k9TRB3CEPxGg8BkEqw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DXylZlWbVvlckNqwvjTEt",
+            "id": "1DXylZlWbVvlckNqwvjTEt",
+            "name": "Ministry",
+            "type": "artist",
+            "uri": "spotify:artist:1DXylZlWbVvlckNqwvjTEt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283293,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sU2FDD8Wk3woT3w5COU7p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sU2FDD8Wk3woT3w5COU7p",
+        "id": "1sU2FDD8Wk3woT3w5COU7p",
+        "is_local": false,
+        "name": "Goddamn White Trash",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1sU2FDD8Wk3woT3w5COU7p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0Y7PJRNMEeBGKF5pBkRPlx"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3z49d9eTIxwkK2QcmfPN3j"
+      },
+      "href": "https://api.spotify.com/v1/artists/3z49d9eTIxwkK2QcmfPN3j",
+      "id": "3z49d9eTIxwkK2QcmfPN3j",
+      "name": "Wise",
+      "type": "artist",
+      "uri": "spotify:artist:3z49d9eTIxwkK2QcmfPN3j"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+      },
+      "href": "https://api.spotify.com/v1/artists/22dFwJoRBV51ue5TGnC7Dt",
+      "id": "22dFwJoRBV51ue5TGnC7Dt",
+      "name": "Beny Jr",
+      "type": "artist",
+      "uri": "spotify:artist:22dFwJoRBV51ue5TGnC7Dt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 2020",
+      "type": "C"
+    },
+    {
+      "text": "2020 2020",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162212588"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6h9OvbfnvsyfOfKLNMDXsq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6h9OvbfnvsyfOfKLNMDXsq",
+  "id": "6h9OvbfnvsyfOfKLNMDXsq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355a83ea427e56c62258b121b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255a83ea427e56c62258b121b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155a83ea427e56c62258b121b",
+      "width": 64
+    }
+  ],
+  "label": "Wise",
+  "name": "12AM",
+  "popularity": 0,
+  "release_date": "2020-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6h9OvbfnvsyfOfKLNMDXsq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3z49d9eTIxwkK2QcmfPN3j"
+            },
+            "href": "https://api.spotify.com/v1/artists/3z49d9eTIxwkK2QcmfPN3j",
+            "id": "3z49d9eTIxwkK2QcmfPN3j",
+            "name": "Wise",
+            "type": "artist",
+            "uri": "spotify:artist:3z49d9eTIxwkK2QcmfPN3j"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+            },
+            "href": "https://api.spotify.com/v1/artists/22dFwJoRBV51ue5TGnC7Dt",
+            "id": "22dFwJoRBV51ue5TGnC7Dt",
+            "name": "Beny Jr",
+            "type": "artist",
+            "uri": "spotify:artist:22dFwJoRBV51ue5TGnC7Dt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204387,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Awv7fMpyhrAU56vJ2PAmp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Awv7fMpyhrAU56vJ2PAmp",
+        "id": "1Awv7fMpyhrAU56vJ2PAmp",
+        "is_local": false,
+        "name": "12AM",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Awv7fMpyhrAU56vJ2PAmp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6h9OvbfnvsyfOfKLNMDXsq"
+}

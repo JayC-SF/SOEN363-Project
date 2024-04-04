@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+      "id": "2kCcBybjl3SAtIcwdWpUe3",
+      "name": "Lil Peep",
+      "type": "artist",
+      "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Lil Peep / AUTNMY",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Lil Peep / AUTNMY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526393967"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4HJ95OR3WoV6mlrCKdQsaP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4HJ95OR3WoV6mlrCKdQsaP",
+  "id": "4HJ95OR3WoV6mlrCKdQsaP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b7b035d85fb42d409b69736",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b7b035d85fb42d409b69736",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b7b035d85fb42d409b69736",
+      "width": 64
+    }
+  ],
+  "label": "Lil Peep",
+  "name": "Honestly",
+  "popularity": 39,
+  "release_date": "2016-12-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4HJ95OR3WoV6mlrCKdQsaP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kCcBybjl3SAtIcwdWpUe3",
+            "id": "2kCcBybjl3SAtIcwdWpUe3",
+            "name": "Lil Peep",
+            "type": "artist",
+            "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128679,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06aIJr6MYcTFZWlto1xWZo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06aIJr6MYcTFZWlto1xWZo",
+        "id": "06aIJr6MYcTFZWlto1xWZo",
+        "is_local": false,
+        "name": "Honestly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06aIJr6MYcTFZWlto1xWZo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4HJ95OR3WoV6mlrCKdQsaP"
+}

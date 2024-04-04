@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IKdK6PbitvCiXt1t2bPU6",
+      "id": "2IKdK6PbitvCiXt1t2bPU6",
+      "name": "Mesita",
+      "type": "artist",
+      "uri": "spotify:artist:2IKdK6PbitvCiXt1t2bPU6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+      },
+      "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+      "id": "1bAftSH8umNcGZ0uyV7LMg",
+      "name": "Duki",
+      "type": "artist",
+      "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Mesita Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Mesita Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195081807232"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29euzMkaDJgVdoWeCpoKuC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29euzMkaDJgVdoWeCpoKuC",
+  "id": "29euzMkaDJgVdoWeCpoKuC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d3fbdd78d79ddba0f5916a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d3fbdd78d79ddba0f5916a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d3fbdd78d79ddba0f5916a6",
+      "width": 64
+    }
+  ],
+  "label": "Mesita",
+  "name": "Salgo Pa la Calle",
+  "popularity": 0,
+  "release_date": "2020-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29euzMkaDJgVdoWeCpoKuC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+            },
+            "href": "https://api.spotify.com/v1/artists/2IKdK6PbitvCiXt1t2bPU6",
+            "id": "2IKdK6PbitvCiXt1t2bPU6",
+            "name": "Mesita",
+            "type": "artist",
+            "uri": "spotify:artist:2IKdK6PbitvCiXt1t2bPU6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+            "id": "1bAftSH8umNcGZ0uyV7LMg",
+            "name": "Duki",
+            "type": "artist",
+            "uri": "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KebgQBmTVa4BVmE8Z3qDx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KebgQBmTVa4BVmE8Z3qDx",
+        "id": "0KebgQBmTVa4BVmE8Z3qDx",
+        "is_local": false,
+        "name": "Salgo Pa La Calle",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0KebgQBmTVa4BVmE8Z3qDx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29euzMkaDJgVdoWeCpoKuC"
+}

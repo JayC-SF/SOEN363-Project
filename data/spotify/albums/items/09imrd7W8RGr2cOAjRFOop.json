@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2k3th1YuDNS1iwqE79HvKD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2k3th1YuDNS1iwqE79HvKD",
+      "id": "2k3th1YuDNS1iwqE79HvKD",
+      "name": "Bandanaz",
+      "type": "artist",
+      "uri": "spotify:artist:2k3th1YuDNS1iwqE79HvKD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Bandanaz",
+      "type": "C"
+    },
+    {
+      "text": "2023 Bandanaz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059647795980"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/09imrd7W8RGr2cOAjRFOop"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/09imrd7W8RGr2cOAjRFOop",
+  "id": "09imrd7W8RGr2cOAjRFOop",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273829b530130a5f69cbee50379",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02829b530130a5f69cbee50379",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851829b530130a5f69cbee50379",
+      "width": 64
+    }
+  ],
+  "label": "Bandanaz",
+  "name": "Wir Geben Gas",
+  "popularity": 0,
+  "release_date": "2021-05-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/09imrd7W8RGr2cOAjRFOop/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2k3th1YuDNS1iwqE79HvKD"
+            },
+            "href": "https://api.spotify.com/v1/artists/2k3th1YuDNS1iwqE79HvKD",
+            "id": "2k3th1YuDNS1iwqE79HvKD",
+            "name": "Bandanaz",
+            "type": "artist",
+            "uri": "spotify:artist:2k3th1YuDNS1iwqE79HvKD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190671,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65Kl4yfVvrqhp6BZOlDY3J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65Kl4yfVvrqhp6BZOlDY3J",
+        "id": "65Kl4yfVvrqhp6BZOlDY3J",
+        "is_local": false,
+        "name": "Wir Geben Gas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65Kl4yfVvrqhp6BZOlDY3J"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:09imrd7W8RGr2cOAjRFOop"
+}

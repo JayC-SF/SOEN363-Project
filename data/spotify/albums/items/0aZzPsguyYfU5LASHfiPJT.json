@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VftS6I87aCiaNvLRYhgBM",
+      "id": "4VftS6I87aCiaNvLRYhgBM",
+      "name": "Evening Tales from the Stars",
+      "type": "artist",
+      "uri": "spotify:artist:4VftS6I87aCiaNvLRYhgBM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Abcomposing",
+      "type": "C"
+    },
+    {
+      "text": "2021 Abcomposing",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196252270145"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0aZzPsguyYfU5LASHfiPJT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0aZzPsguyYfU5LASHfiPJT",
+  "id": "0aZzPsguyYfU5LASHfiPJT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e141ca383fe72ae33bd3a69b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e141ca383fe72ae33bd3a69b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e141ca383fe72ae33bd3a69b",
+      "width": 64
+    }
+  ],
+  "label": "Abcomposing",
+  "name": "Pictor",
+  "popularity": 0,
+  "release_date": "2021-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0aZzPsguyYfU5LASHfiPJT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4VftS6I87aCiaNvLRYhgBM",
+            "id": "4VftS6I87aCiaNvLRYhgBM",
+            "name": "Evening Tales from the Stars",
+            "type": "artist",
+            "uri": "spotify:artist:4VftS6I87aCiaNvLRYhgBM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76Z4jSrPPJa9sMGXNLT482"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76Z4jSrPPJa9sMGXNLT482",
+        "id": "76Z4jSrPPJa9sMGXNLT482",
+        "is_local": false,
+        "name": "Pictor",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:76Z4jSrPPJa9sMGXNLT482"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0aZzPsguyYfU5LASHfiPJT"
+}

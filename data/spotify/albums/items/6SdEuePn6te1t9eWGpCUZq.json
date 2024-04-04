@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dCvdtPon44QF2A0O5zca8"
+      },
+      "href": "https://api.spotify.com/v1/artists/1dCvdtPon44QF2A0O5zca8",
+      "id": "1dCvdtPon44QF2A0O5zca8",
+      "name": "Tuck",
+      "type": "artist",
+      "uri": "spotify:artist:1dCvdtPon44QF2A0O5zca8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Tuck",
+      "type": "C"
+    },
+    {
+      "text": "2020 Tuck",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195448742640"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6SdEuePn6te1t9eWGpCUZq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6SdEuePn6te1t9eWGpCUZq",
+  "id": "6SdEuePn6te1t9eWGpCUZq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d02761fe05af6d72a68fb5a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d02761fe05af6d72a68fb5a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d02761fe05af6d72a68fb5a8",
+      "width": 64
+    }
+  ],
+  "label": "Tuck",
+  "name": "Hop Out",
+  "popularity": 0,
+  "release_date": "2020-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6SdEuePn6te1t9eWGpCUZq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dCvdtPon44QF2A0O5zca8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dCvdtPon44QF2A0O5zca8",
+            "id": "1dCvdtPon44QF2A0O5zca8",
+            "name": "Tuck",
+            "type": "artist",
+            "uri": "spotify:artist:1dCvdtPon44QF2A0O5zca8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Fi7ZECqmJ8yMhv2sVFnPK"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Fi7ZECqmJ8yMhv2sVFnPK",
+            "id": "4Fi7ZECqmJ8yMhv2sVFnPK",
+            "name": "Ace",
+            "type": "artist",
+            "uri": "spotify:artist:4Fi7ZECqmJ8yMhv2sVFnPK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204957,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yYJPPspjB2ZrJMRNDMMlm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yYJPPspjB2ZrJMRNDMMlm",
+        "id": "0yYJPPspjB2ZrJMRNDMMlm",
+        "is_local": false,
+        "name": "Hop Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0yYJPPspjB2ZrJMRNDMMlm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6SdEuePn6te1t9eWGpCUZq"
+}

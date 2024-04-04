@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1XET0oGgFKAmn5pfnmzaSW"
+      },
+      "href": "https://api.spotify.com/v1/artists/1XET0oGgFKAmn5pfnmzaSW",
+      "id": "1XET0oGgFKAmn5pfnmzaSW",
+      "name": "FakeFast",
+      "type": "artist",
+      "uri": "spotify:artist:1XET0oGgFKAmn5pfnmzaSW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 FakeFast",
+      "type": "C"
+    },
+    {
+      "text": "2023 FakeFast",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197631533950"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7zarivQvSPJnSIm6frDehr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7zarivQvSPJnSIm6frDehr",
+  "id": "7zarivQvSPJnSIm6frDehr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bb718d4f0764a9a0439c003",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bb718d4f0764a9a0439c003",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bb718d4f0764a9a0439c003",
+      "width": 64
+    }
+  ],
+  "label": "FakeFast",
+  "name": "Lose My Mind In Hysteria",
+  "popularity": 0,
+  "release_date": "2023-02-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7zarivQvSPJnSIm6frDehr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1XET0oGgFKAmn5pfnmzaSW"
+            },
+            "href": "https://api.spotify.com/v1/artists/1XET0oGgFKAmn5pfnmzaSW",
+            "id": "1XET0oGgFKAmn5pfnmzaSW",
+            "name": "FakeFast",
+            "type": "artist",
+            "uri": "spotify:artist:1XET0oGgFKAmn5pfnmzaSW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172501,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dCjN0ldv9iaA9FzmOzYii"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2dCjN0ldv9iaA9FzmOzYii",
+        "id": "2dCjN0ldv9iaA9FzmOzYii",
+        "is_local": false,
+        "name": "Lose My Mind In Hysteria",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2dCjN0ldv9iaA9FzmOzYii"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7zarivQvSPJnSIm6frDehr"
+}

@@ -1,0 +1,853 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+      },
+      "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+      "id": "2UBTfUoLI07iRqGeUrwhZh",
+      "name": "Steve Earle",
+      "type": "artist",
+      "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2008 Geffen Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2008 Geffen Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602517658981"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3JZK6TMBVgKMKWy8VZABQX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3JZK6TMBVgKMKWy8VZABQX",
+  "id": "3JZK6TMBVgKMKWy8VZABQX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b75568379444c93af3947a88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b75568379444c93af3947a88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b75568379444c93af3947a88",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Copperhead Road (Deluxe Edition)",
+  "popularity": 0,
+  "release_date": "2008-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 27,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3JZK6TMBVgKMKWy8VZABQX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 270066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MJfUwA6taOw8s1A7WoThd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MJfUwA6taOw8s1A7WoThd",
+        "id": "6MJfUwA6taOw8s1A7WoThd",
+        "is_local": false,
+        "name": "Copperhead Road",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6MJfUwA6taOw8s1A7WoThd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BCT4tFdJMus7QrVYYsHWn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BCT4tFdJMus7QrVYYsHWn",
+        "id": "5BCT4tFdJMus7QrVYYsHWn",
+        "is_local": false,
+        "name": "Snake Oil",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5BCT4tFdJMus7QrVYYsHWn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 327080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xpi4WnrN6qPneRIXgXKyi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xpi4WnrN6qPneRIXgXKyi",
+        "id": "0xpi4WnrN6qPneRIXgXKyi",
+        "is_local": false,
+        "name": "Back To The Wall",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0xpi4WnrN6qPneRIXgXKyi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59JOneFVktVPSm0agaQWDo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59JOneFVktVPSm0agaQWDo",
+        "id": "59JOneFVktVPSm0agaQWDo",
+        "is_local": false,
+        "name": "The Devil's Right Hand",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:59JOneFVktVPSm0agaQWDo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZgZs4BNdTRcLVbGHvoiMp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZgZs4BNdTRcLVbGHvoiMp",
+        "id": "2ZgZs4BNdTRcLVbGHvoiMp",
+        "is_local": false,
+        "name": "Johnny Come Lately",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2ZgZs4BNdTRcLVbGHvoiMp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ja1rZM0UvZ5ppuwUL0iSj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ja1rZM0UvZ5ppuwUL0iSj",
+        "id": "7ja1rZM0UvZ5ppuwUL0iSj",
+        "is_local": false,
+        "name": "Even When I'm Blue",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7ja1rZM0UvZ5ppuwUL0iSj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 263613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MRhPafBJ9xLjOWTnNxfJu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0MRhPafBJ9xLjOWTnNxfJu",
+        "id": "0MRhPafBJ9xLjOWTnNxfJu",
+        "is_local": false,
+        "name": "You Belong To Me",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0MRhPafBJ9xLjOWTnNxfJu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 310480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ym9BaPcSq5ShJ9hY5pJBN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ym9BaPcSq5ShJ9hY5pJBN",
+        "id": "4Ym9BaPcSq5ShJ9hY5pJBN",
+        "is_local": false,
+        "name": "Waiting On You",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4Ym9BaPcSq5ShJ9hY5pJBN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 279133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47vprOtaqmBfVrE3b7D5kS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47vprOtaqmBfVrE3b7D5kS",
+        "id": "47vprOtaqmBfVrE3b7D5kS",
+        "is_local": false,
+        "name": "Once You Love",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:47vprOtaqmBfVrE3b7D5kS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67Rny01ezHr5nyfMs8JolN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/67Rny01ezHr5nyfMs8JolN",
+        "id": "67Rny01ezHr5nyfMs8JolN",
+        "is_local": false,
+        "name": "Nothing But A Child",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:67Rny01ezHr5nyfMs8JolN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 242066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MBrettt8nPkEfdbuXnAAY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3MBrettt8nPkEfdbuXnAAY",
+        "id": "3MBrettt8nPkEfdbuXnAAY",
+        "is_local": false,
+        "name": "The Devil's Right Hand - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3MBrettt8nPkEfdbuXnAAY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 271693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sqQ9dpW8REttGlEqUrnhd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sqQ9dpW8REttGlEqUrnhd",
+        "id": "5sqQ9dpW8REttGlEqUrnhd",
+        "is_local": false,
+        "name": "Fearless Heart - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5sqQ9dpW8REttGlEqUrnhd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 263160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IbkWIpRD1dKG87InQZrTk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IbkWIpRD1dKG87InQZrTk",
+        "id": "7IbkWIpRD1dKG87InQZrTk",
+        "is_local": false,
+        "name": "San Antonio Girl - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7IbkWIpRD1dKG87InQZrTk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 385640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fABJ48YkNzSnwkRS5cXP9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fABJ48YkNzSnwkRS5cXP9",
+        "id": "2fABJ48YkNzSnwkRS5cXP9",
+        "is_local": false,
+        "name": "Nobody But You/Continental Trailways Blues - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2fABJ48YkNzSnwkRS5cXP9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 213200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aDlng0O6ZeITjO30KlmP6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2aDlng0O6ZeITjO30KlmP6",
+        "id": "2aDlng0O6ZeITjO30KlmP6",
+        "is_local": false,
+        "name": "My Baby Worships Me - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2aDlng0O6ZeITjO30KlmP6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 285480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HqwepRgf35FbTzlwlI49x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0HqwepRgf35FbTzlwlI49x",
+        "id": "0HqwepRgf35FbTzlwlI49x",
+        "is_local": false,
+        "name": "Wheels - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0HqwepRgf35FbTzlwlI49x"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 445800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02cUJNW0Wm43AkDRTZBaAX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/02cUJNW0Wm43AkDRTZBaAX",
+        "id": "02cUJNW0Wm43AkDRTZBaAX",
+        "is_local": false,
+        "name": "The Week Of Living Dangerously - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:02cUJNW0Wm43AkDRTZBaAX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 235133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HRvwl0u8Rv3gOhRWamwfE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HRvwl0u8Rv3gOhRWamwfE",
+        "id": "7HRvwl0u8Rv3gOhRWamwfE",
+        "is_local": false,
+        "name": "Johnny Come Lately - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7HRvwl0u8Rv3gOhRWamwfE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 226040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62NMK7ycFnzbvOT35jbvsM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62NMK7ycFnzbvOT35jbvsM",
+        "id": "62NMK7ycFnzbvOT35jbvsM",
+        "is_local": false,
+        "name": "Brown And Root - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:62NMK7ycFnzbvOT35jbvsM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 267693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55moZRBxtAqYaQHStWatuB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55moZRBxtAqYaQHStWatuB",
+        "id": "55moZRBxtAqYaQHStWatuB",
+        "is_local": false,
+        "name": "I Love You Too Much - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:55moZRBxtAqYaQHStWatuB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 370933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fG8j9rg3PQUrJJypDSilv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fG8j9rg3PQUrJJypDSilv",
+        "id": "6fG8j9rg3PQUrJJypDSilv",
+        "is_local": false,
+        "name": "It's All Up To You - 1987/Live in Raleigh, NC",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6fG8j9rg3PQUrJJypDSilv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 321186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tpYPZ2i7kPPTwd4m07RrY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tpYPZ2i7kPPTwd4m07RrY",
+        "id": "2tpYPZ2i7kPPTwd4m07RrY",
+        "is_local": false,
+        "name": "Nebraska - Live",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2tpYPZ2i7kPPTwd4m07RrY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 248293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oXd7Y2DNbNiybuP66CoPz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7oXd7Y2DNbNiybuP66CoPz",
+        "id": "7oXd7Y2DNbNiybuP66CoPz",
+        "is_local": false,
+        "name": "Copperhead Road - 1989/Live In Calgary",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7oXd7Y2DNbNiybuP66CoPz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 231746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YRDxPGkFxqYoIl4e7IeeO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YRDxPGkFxqYoIl4e7IeeO",
+        "id": "2YRDxPGkFxqYoIl4e7IeeO",
+        "is_local": false,
+        "name": "I Ain't Ever Satisfied - 1989/Live In Calgary",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2YRDxPGkFxqYoIl4e7IeeO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 336360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ew1uelwTFOmmCuYAWaSdU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ew1uelwTFOmmCuYAWaSdU",
+        "id": "3ew1uelwTFOmmCuYAWaSdU",
+        "is_local": false,
+        "name": "Dead Flowers - 1989/Live In Calgary",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:3ew1uelwTFOmmCuYAWaSdU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 194960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KeJeJJL1Gde3oBW5sUI5H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6KeJeJJL1Gde3oBW5sUI5H",
+        "id": "6KeJeJJL1Gde3oBW5sUI5H",
+        "is_local": false,
+        "name": "Little Sister - 1989/Live In Calgary",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:6KeJeJJL1Gde3oBW5sUI5H"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UBTfUoLI07iRqGeUrwhZh",
+            "id": "2UBTfUoLI07iRqGeUrwhZh",
+            "name": "Steve Earle",
+            "type": "artist",
+            "uri": "spotify:artist:2UBTfUoLI07iRqGeUrwhZh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 2,
+        "duration_ms": 156120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ECqQ0i9cKgFcFj7ANXUUl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ECqQ0i9cKgFcFj7ANXUUl",
+        "id": "1ECqQ0i9cKgFcFj7ANXUUl",
+        "is_local": false,
+        "name": "Guitar Town - 1989/Live In Calgary",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:1ECqQ0i9cKgFcFj7ANXUUl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 27
+  },
+  "type": "album",
+  "uri": "spotify:album:3JZK6TMBVgKMKWy8VZABQX"
+}

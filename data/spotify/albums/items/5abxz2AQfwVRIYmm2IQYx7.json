@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17zhDiqgcsjcXgdbahVULE"
+      },
+      "href": "https://api.spotify.com/v1/artists/17zhDiqgcsjcXgdbahVULE",
+      "id": "17zhDiqgcsjcXgdbahVULE",
+      "name": "Dayo",
+      "type": "artist",
+      "uri": "spotify:artist:17zhDiqgcsjcXgdbahVULE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+      },
+      "href": "https://api.spotify.com/v1/artists/6BsONo5WrLwCzPZ2qHKoN4",
+      "id": "6BsONo5WrLwCzPZ2qHKoN4",
+      "name": "Ruuth",
+      "type": "artist",
+      "uri": "spotify:artist:6BsONo5WrLwCzPZ2qHKoN4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Styleheads Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 Styleheads Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939377878"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5abxz2AQfwVRIYmm2IQYx7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5abxz2AQfwVRIYmm2IQYx7",
+  "id": "5abxz2AQfwVRIYmm2IQYx7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a0f05cc113760eceac62753b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a0f05cc113760eceac62753b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a0f05cc113760eceac62753b",
+      "width": 64
+    }
+  ],
+  "label": "Styleheads Music",
+  "name": "Mockingbirds",
+  "popularity": 0,
+  "release_date": "2019-07-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5abxz2AQfwVRIYmm2IQYx7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17zhDiqgcsjcXgdbahVULE"
+            },
+            "href": "https://api.spotify.com/v1/artists/17zhDiqgcsjcXgdbahVULE",
+            "id": "17zhDiqgcsjcXgdbahVULE",
+            "name": "Dayo",
+            "type": "artist",
+            "uri": "spotify:artist:17zhDiqgcsjcXgdbahVULE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BsONo5WrLwCzPZ2qHKoN4",
+            "id": "6BsONo5WrLwCzPZ2qHKoN4",
+            "name": "Ruuth",
+            "type": "artist",
+            "uri": "spotify:artist:6BsONo5WrLwCzPZ2qHKoN4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179590,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ym9FiAVWciHh1vVanXpqf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ym9FiAVWciHh1vVanXpqf",
+        "id": "6ym9FiAVWciHh1vVanXpqf",
+        "is_local": false,
+        "name": "Mockingbirds",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ym9FiAVWciHh1vVanXpqf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5abxz2AQfwVRIYmm2IQYx7"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+      },
+      "href": "https://api.spotify.com/v1/artists/1c22GXH30ijlOfXhfLz9Df",
+      "id": "1c22GXH30ijlOfXhfLz9Df",
+      "name": "Elvis Crespo",
+      "type": "artist",
+      "uri": "spotify:artist:1c22GXH30ijlOfXhfLz9Df"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Flash Music, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2017 Flash Music, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859720227514"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7xu6Kx3POZRguT4woDslwa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7xu6Kx3POZRguT4woDslwa",
+  "id": "7xu6Kx3POZRguT4woDslwa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346d766702755d390c526cd89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246d766702755d390c526cd89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146d766702755d390c526cd89",
+      "width": 64
+    }
+  ],
+  "label": "Flash Music, Inc.",
+  "name": "Guayo (feat. Ilegales)",
+  "popularity": 0,
+  "release_date": "2017-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7xu6Kx3POZRguT4woDslwa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+            },
+            "href": "https://api.spotify.com/v1/artists/1c22GXH30ijlOfXhfLz9Df",
+            "id": "1c22GXH30ijlOfXhfLz9Df",
+            "name": "Elvis Crespo",
+            "type": "artist",
+            "uri": "spotify:artist:1c22GXH30ijlOfXhfLz9Df"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1v7PXt3vtOhSN73FSHPxWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1v7PXt3vtOhSN73FSHPxWA",
+            "id": "1v7PXt3vtOhSN73FSHPxWA",
+            "name": "Ilegales",
+            "type": "artist",
+            "uri": "spotify:artist:1v7PXt3vtOhSN73FSHPxWA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nI05CW0NhmQ6xk6TktRMa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7nI05CW0NhmQ6xk6TktRMa",
+        "id": "7nI05CW0NhmQ6xk6TktRMa",
+        "is_local": false,
+        "name": "Guayo (feat. Ilegales)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7nI05CW0NhmQ6xk6TktRMa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7xu6Kx3POZRguT4woDslwa"
+}

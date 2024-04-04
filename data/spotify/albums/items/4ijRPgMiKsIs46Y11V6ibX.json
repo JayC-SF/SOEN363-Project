@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+      "id": "6Ha4aES39QiVjR0L2lwuwq",
+      "name": "Yo Gotti",
+      "type": "artist",
+      "uri": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Be Great Music Group, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2017 Be Great Music Group, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888915396315"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ijRPgMiKsIs46Y11V6ibX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ijRPgMiKsIs46Y11V6ibX",
+  "id": "4ijRPgMiKsIs46Y11V6ibX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323a7fcd79fca88f2c91620d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223a7fcd79fca88f2c91620d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123a7fcd79fca88f2c91620d6",
+      "width": 64
+    }
+  ],
+  "label": "Be Great Music Group, LLC",
+  "name": "Rake It Up",
+  "popularity": 0,
+  "release_date": "2017-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ijRPgMiKsIs46Y11V6ibX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+            "id": "6Ha4aES39QiVjR0L2lwuwq",
+            "name": "Yo Gotti",
+            "type": "artist",
+            "uri": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+            "id": "0hCNtLu0JehylgoiP8L4Gh",
+            "name": "Nicki Minaj",
+            "type": "artist",
+            "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 275497,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5M27gcT9FcfXugdw5DaQok"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5M27gcT9FcfXugdw5DaQok",
+        "id": "5M27gcT9FcfXugdw5DaQok",
+        "is_local": false,
+        "name": "Rake It Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5M27gcT9FcfXugdw5DaQok"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ijRPgMiKsIs46Y11V6ibX"
+}

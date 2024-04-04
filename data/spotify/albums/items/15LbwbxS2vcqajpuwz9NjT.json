@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UkN1XeK2D4wD4uhtJx4vb",
+      "id": "3UkN1XeK2D4wD4uhtJx4vb",
+      "name": "SUUNS",
+      "type": "artist",
+      "uri": "spotify:artist:3UkN1XeK2D4wD4uhtJx4vb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Secretly Canadian",
+      "type": "C"
+    },
+    {
+      "text": "2011 Secretly Canadian",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "656605025360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/15LbwbxS2vcqajpuwz9NjT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/15LbwbxS2vcqajpuwz9NjT",
+  "id": "15LbwbxS2vcqajpuwz9NjT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e168af8a0cfc3291bb85bfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027e168af8a0cfc3291bb85bfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517e168af8a0cfc3291bb85bfa",
+      "width": 64
+    }
+  ],
+  "label": "Secretly Canadian",
+  "name": "Bambi b/w Red Song",
+  "popularity": 0,
+  "release_date": "2011-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/15LbwbxS2vcqajpuwz9NjT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UkN1XeK2D4wD4uhtJx4vb",
+            "id": "3UkN1XeK2D4wD4uhtJx4vb",
+            "name": "SUUNS",
+            "type": "artist",
+            "uri": "spotify:artist:3UkN1XeK2D4wD4uhtJx4vb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 461346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hUbiLV2rvxCKb1lCQnxiV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5hUbiLV2rvxCKb1lCQnxiV",
+        "id": "5hUbiLV2rvxCKb1lCQnxiV",
+        "is_local": false,
+        "name": "Bambi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5hUbiLV2rvxCKb1lCQnxiV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UkN1XeK2D4wD4uhtJx4vb",
+            "id": "3UkN1XeK2D4wD4uhtJx4vb",
+            "name": "SUUNS",
+            "type": "artist",
+            "uri": "spotify:artist:3UkN1XeK2D4wD4uhtJx4vb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 316213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yeudnV3N5HVnbajMQqSh9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2yeudnV3N5HVnbajMQqSh9",
+        "id": "2yeudnV3N5HVnbajMQqSh9",
+        "is_local": false,
+        "name": "Red Song",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2yeudnV3N5HVnbajMQqSh9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:15LbwbxS2vcqajpuwz9NjT"
+}

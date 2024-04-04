@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+      },
+      "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+      "id": "5sBoNBXFMzoZjgHLbQueeG",
+      "name": "Antoon",
+      "type": "artist",
+      "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Dreamteam, under exclusive license to Cloud 9 Recordings B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2022 Dreamteam, under exclusive license to Cloud 9 Recordings B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718521067717"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7KRMWbRSpFfyBqvkrHegWw",
+  "id": "7KRMWbRSpFfyBqvkrHegWw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a25acb32d81bb2ac42049da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a25acb32d81bb2ac42049da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a25acb32d81bb2ac42049da",
+      "width": 64
+    }
+  ],
+  "label": "Dreamteam",
+  "name": "Olivia",
+  "popularity": 0,
+  "release_date": "2022-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7KRMWbRSpFfyBqvkrHegWw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+            "id": "5sBoNBXFMzoZjgHLbQueeG",
+            "name": "Antoon",
+            "type": "artist",
+            "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147562,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Hit62TgQpCUwIdsU3KV14",
+        "id": "5Hit62TgQpCUwIdsU3KV14",
+        "is_local": false,
+        "name": "Olivia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Hit62TgQpCUwIdsU3KV14"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7KRMWbRSpFfyBqvkrHegWw"
+}

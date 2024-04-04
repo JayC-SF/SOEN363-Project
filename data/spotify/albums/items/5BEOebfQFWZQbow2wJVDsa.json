@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk"
+      },
+      "href": "https://api.spotify.com/v1/artists/6R09GKJdeYrjF8zqv9ZbZk",
+      "id": "6R09GKJdeYrjF8zqv9ZbZk",
+      "name": "michi",
+      "type": "artist",
+      "uri": "spotify:artist:6R09GKJdeYrjF8zqv9ZbZk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 day1 records",
+      "type": "C"
+    },
+    {
+      "text": "2023 day1 records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1957260078647"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5BEOebfQFWZQbow2wJVDsa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5BEOebfQFWZQbow2wJVDsa",
+  "id": "5BEOebfQFWZQbow2wJVDsa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273047cd5420d42c8b3f9a4ab33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02047cd5420d42c8b3f9a4ab33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851047cd5420d42c8b3f9a4ab33",
+      "width": 64
+    }
+  ],
+  "label": "day1 records",
+  "name": "I Wait for You",
+  "popularity": 44,
+  "release_date": "2023-07-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5BEOebfQFWZQbow2wJVDsa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk"
+            },
+            "href": "https://api.spotify.com/v1/artists/6R09GKJdeYrjF8zqv9ZbZk",
+            "id": "6R09GKJdeYrjF8zqv9ZbZk",
+            "name": "michi",
+            "type": "artist",
+            "uri": "spotify:artist:6R09GKJdeYrjF8zqv9ZbZk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158223,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5L1LhCihIxTYRAbYKqUW1c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5L1LhCihIxTYRAbYKqUW1c",
+        "id": "5L1LhCihIxTYRAbYKqUW1c",
+        "is_local": false,
+        "name": "I Wait for You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5L1LhCihIxTYRAbYKqUW1c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5BEOebfQFWZQbow2wJVDsa"
+}

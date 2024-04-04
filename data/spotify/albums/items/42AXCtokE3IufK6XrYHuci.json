@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+      },
+      "href": "https://api.spotify.com/v1/artists/5OdOZHljmANwGvN71E6KJm",
+      "id": "5OdOZHljmANwGvN71E6KJm",
+      "name": "A. Blomqvist",
+      "type": "artist",
+      "uri": "spotify:artist:5OdOZHljmANwGvN71E6KJm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Abcomposing",
+      "type": "C"
+    },
+    {
+      "text": "2021 Abcomposing",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196251228031"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42AXCtokE3IufK6XrYHuci"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42AXCtokE3IufK6XrYHuci",
+  "id": "42AXCtokE3IufK6XrYHuci",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273acb8b5be42ea3202ca58aead",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02acb8b5be42ea3202ca58aead",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851acb8b5be42ea3202ca58aead",
+      "width": 64
+    }
+  ],
+  "label": "Abcomposing",
+  "name": "I, Me & My",
+  "popularity": 0,
+  "release_date": "2021-06-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42AXCtokE3IufK6XrYHuci/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OdOZHljmANwGvN71E6KJm",
+            "id": "5OdOZHljmANwGvN71E6KJm",
+            "name": "A. Blomqvist",
+            "type": "artist",
+            "uri": "spotify:artist:5OdOZHljmANwGvN71E6KJm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 173034,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zWP31jMV5qxrJQzXi4SwX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zWP31jMV5qxrJQzXi4SwX",
+        "id": "7zWP31jMV5qxrJQzXi4SwX",
+        "is_local": false,
+        "name": "I, Me & My",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7zWP31jMV5qxrJQzXi4SwX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42AXCtokE3IufK6XrYHuci"
+}

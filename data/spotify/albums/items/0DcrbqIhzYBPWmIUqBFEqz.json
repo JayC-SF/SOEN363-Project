@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7EB6VpiXu6q1eabordGAeW"
+      },
+      "href": "https://api.spotify.com/v1/artists/7EB6VpiXu6q1eabordGAeW",
+      "id": "7EB6VpiXu6q1eabordGAeW",
+      "name": "Topline Addicts",
+      "type": "artist",
+      "uri": "spotify:artist:7EB6VpiXu6q1eabordGAeW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Topline Addicts",
+      "type": "C"
+    },
+    {
+      "text": "2022 Topline Addicts",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196832037816"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0DcrbqIhzYBPWmIUqBFEqz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0DcrbqIhzYBPWmIUqBFEqz",
+  "id": "0DcrbqIhzYBPWmIUqBFEqz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1e38ab6d4769cfce90fba52",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1e38ab6d4769cfce90fba52",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1e38ab6d4769cfce90fba52",
+      "width": 64
+    }
+  ],
+  "label": "Topline Addicts",
+  "name": "Dance With Me",
+  "popularity": 1,
+  "release_date": "2022-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0DcrbqIhzYBPWmIUqBFEqz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7EB6VpiXu6q1eabordGAeW"
+            },
+            "href": "https://api.spotify.com/v1/artists/7EB6VpiXu6q1eabordGAeW",
+            "id": "7EB6VpiXu6q1eabordGAeW",
+            "name": "Topline Addicts",
+            "type": "artist",
+            "uri": "spotify:artist:7EB6VpiXu6q1eabordGAeW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187292,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RNTO6RIAwTjRQGdYWSanP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RNTO6RIAwTjRQGdYWSanP",
+        "id": "0RNTO6RIAwTjRQGdYWSanP",
+        "is_local": false,
+        "name": "Dance With Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0RNTO6RIAwTjRQGdYWSanP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0DcrbqIhzYBPWmIUqBFEqz"
+}

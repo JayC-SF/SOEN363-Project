@@ -1,0 +1,113 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2"
+      },
+      "href": "https://api.spotify.com/v1/artists/6enAUr8uYLFYHKDcnRUst2",
+      "id": "6enAUr8uYLFYHKDcnRUst2",
+      "name": "\u67ca\u30ad\u30e9\u30a4",
+      "type": "artist",
+      "uri": "spotify:artist:6enAUr8uYLFYHKDcnRUst2"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2020 \u67ca\u30ad\u30e9\u30a4",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 \u67ca\u30ad\u30e9\u30a4",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859756395362"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/54t8GGGwqraTv779NBRZas"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/54t8GGGwqraTv779NBRZas",
+  "id": "54t8GGGwqraTv779NBRZas",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273be8e4d9458be08e5bb6a12d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02be8e4d9458be08e5bb6a12d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851be8e4d9458be08e5bb6a12d9",
+      "width": 64
+    }
+  ],
+  "label": "\u67ca\u30ad\u30e9\u30a4",
+  "name": "\u30e9\u30d6\u30ab?",
+  "popularity": 44,
+  "release_date": "2020-12-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/54t8GGGwqraTv779NBRZas/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2"
+            },
+            "href": "https://api.spotify.com/v1/artists/6enAUr8uYLFYHKDcnRUst2",
+            "id": "6enAUr8uYLFYHKDcnRUst2",
+            "name": "\u67ca\u30ad\u30e9\u30a4",
+            "type": "artist",
+            "uri": "spotify:artist:6enAUr8uYLFYHKDcnRUst2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mEQK9m2krja6X1cfsAjfl",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
+            "type": "artist",
+            "uri": "spotify:artist:6mEQK9m2krja6X1cfsAjfl"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 185235,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5R3XD7aR25OcI6qimQU91Z",
+        "id": "5R3XD7aR25OcI6qimQU91Z",
+        "is_local": false,
+        "name": "\u30e9\u30d6\u30ab?",
+        "preview_url": "https://p.scdn.co/mp3-preview/485e9501276c11d4d98df9a23f9e1520b4d83c2c?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5R3XD7aR25OcI6qimQU91Z"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:54t8GGGwqraTv779NBRZas"
+}

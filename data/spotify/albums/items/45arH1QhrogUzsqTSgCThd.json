@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nym9MDEPnWmPfuWwsyKeL",
+      "id": "4nym9MDEPnWmPfuWwsyKeL",
+      "name": "M\u00c9LOVIN",
+      "type": "artist",
+      "uri": "spotify:artist:4nym9MDEPnWmPfuWwsyKeL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 UMPG MUSIC",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562262191"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/45arH1QhrogUzsqTSgCThd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/45arH1QhrogUzsqTSgCThd",
+  "id": "45arH1QhrogUzsqTSgCThd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5c4b40496b12cb015375b5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5c4b40496b12cb015375b5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5c4b40496b12cb015375b5f",
+      "width": 64
+    }
+  ],
+  "label": "UMPG MUSIC",
+  "name": "Under the Ladder",
+  "popularity": 0,
+  "release_date": "2018-03-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/45arH1QhrogUzsqTSgCThd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nym9MDEPnWmPfuWwsyKeL",
+            "id": "4nym9MDEPnWmPfuWwsyKeL",
+            "name": "M\u00c9LOVIN",
+            "type": "artist",
+            "uri": "spotify:artist:4nym9MDEPnWmPfuWwsyKeL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180438,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0a4eEfoZEYCXte9Zk1r7YG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0a4eEfoZEYCXte9Zk1r7YG",
+        "id": "0a4eEfoZEYCXte9Zk1r7YG",
+        "is_local": false,
+        "name": "Under the Ladder",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0a4eEfoZEYCXte9Zk1r7YG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:45arH1QhrogUzsqTSgCThd"
+}

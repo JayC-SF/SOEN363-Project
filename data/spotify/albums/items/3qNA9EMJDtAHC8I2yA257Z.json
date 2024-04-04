@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mDU6nMUJnOSY2Hkjz5oqM",
+      "id": "7mDU6nMUJnOSY2Hkjz5oqM",
+      "name": "Roy Woods",
+      "type": "artist",
+      "uri": "spotify:artist:7mDU6nMUJnOSY2Hkjz5oqM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 OVO Sound/Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 OVO Sound/Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391965820"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3qNA9EMJDtAHC8I2yA257Z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3qNA9EMJDtAHC8I2yA257Z",
+  "id": "3qNA9EMJDtAHC8I2yA257Z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1ccbbf85bb6cc32ac080943",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1ccbbf85bb6cc32ac080943",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1ccbbf85bb6cc32ac080943",
+      "width": 64
+    }
+  ],
+  "label": "OVO Sound/Warner Records",
+  "name": "Bad Bad",
+  "popularity": 0,
+  "release_date": "2022-07-15",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3qNA9EMJDtAHC8I2yA257Z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7mDU6nMUJnOSY2Hkjz5oqM",
+            "id": "7mDU6nMUJnOSY2Hkjz5oqM",
+            "name": "Roy Woods",
+            "type": "artist",
+            "uri": "spotify:artist:7mDU6nMUJnOSY2Hkjz5oqM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219563,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/150qghmeltSKVFUKUOn9jo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/150qghmeltSKVFUKUOn9jo",
+        "id": "150qghmeltSKVFUKUOn9jo",
+        "is_local": false,
+        "name": "Bad Bad",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:150qghmeltSKVFUKUOn9jo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7mDU6nMUJnOSY2Hkjz5oqM",
+            "id": "7mDU6nMUJnOSY2Hkjz5oqM",
+            "name": "Roy Woods",
+            "type": "artist",
+            "uri": "spotify:artist:7mDU6nMUJnOSY2Hkjz5oqM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188132,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gCni60N5bbvFdyvqbWWlU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gCni60N5bbvFdyvqbWWlU",
+        "id": "7gCni60N5bbvFdyvqbWWlU",
+        "is_local": false,
+        "name": "Insecure",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7gCni60N5bbvFdyvqbWWlU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3qNA9EMJDtAHC8I2yA257Z"
+}

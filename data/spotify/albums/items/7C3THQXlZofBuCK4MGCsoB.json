@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14RVav4CuXnktYYGT0WLEc"
+      },
+      "href": "https://api.spotify.com/v1/artists/14RVav4CuXnktYYGT0WLEc",
+      "id": "14RVav4CuXnktYYGT0WLEc",
+      "name": "Merlynn",
+      "type": "artist",
+      "uri": "spotify:artist:14RVav4CuXnktYYGT0WLEc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Escape Artists",
+      "type": "C"
+    },
+    {
+      "text": "2019 Escape Artists",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939382568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7C3THQXlZofBuCK4MGCsoB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7C3THQXlZofBuCK4MGCsoB",
+  "id": "7C3THQXlZofBuCK4MGCsoB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27316a19da28ea85eec26da667e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0216a19da28ea85eec26da667e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485116a19da28ea85eec26da667e",
+      "width": 64
+    }
+  ],
+  "label": "Escape Artists",
+  "name": "Dance Monkey",
+  "popularity": 0,
+  "release_date": "2019-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7C3THQXlZofBuCK4MGCsoB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14RVav4CuXnktYYGT0WLEc"
+            },
+            "href": "https://api.spotify.com/v1/artists/14RVav4CuXnktYYGT0WLEc",
+            "id": "14RVav4CuXnktYYGT0WLEc",
+            "name": "Merlynn",
+            "type": "artist",
+            "uri": "spotify:artist:14RVav4CuXnktYYGT0WLEc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HlRTEB6P1eVbHwbHTEPnz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HlRTEB6P1eVbHwbHTEPnz",
+        "id": "1HlRTEB6P1eVbHwbHTEPnz",
+        "is_local": false,
+        "name": "Dance Monkey",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1HlRTEB6P1eVbHwbHTEPnz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7C3THQXlZofBuCK4MGCsoB"
+}

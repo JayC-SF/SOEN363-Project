@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FgsVeOhRYuSw2ghkIXV0A",
+      "id": "1FgsVeOhRYuSw2ghkIXV0A",
+      "name": "DREAMERS",
+      "type": "artist",
+      "uri": "spotify:artist:1FgsVeOhRYuSw2ghkIXV0A"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Fairfax Entertainment Group",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Fairfax Entertainment Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00050087349226"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0zwgTEEMeWgAYOZRRNToC7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0zwgTEEMeWgAYOZRRNToC7",
+  "id": "0zwgTEEMeWgAYOZRRNToC7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734893a132f21e6867c0f9158b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024893a132f21e6867c0f9158b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514893a132f21e6867c0f9158b",
+      "width": 64
+    }
+  ],
+  "label": "Fairfax Recordings",
+  "name": "Sweet Disaster",
+  "popularity": 0,
+  "release_date": "2016-06-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0zwgTEEMeWgAYOZRRNToC7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FgsVeOhRYuSw2ghkIXV0A",
+            "id": "1FgsVeOhRYuSw2ghkIXV0A",
+            "name": "DREAMERS",
+            "type": "artist",
+            "uri": "spotify:artist:1FgsVeOhRYuSw2ghkIXV0A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cCF6PzZddhyJgYjN8w5qu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cCF6PzZddhyJgYjN8w5qu",
+        "id": "1cCF6PzZddhyJgYjN8w5qu",
+        "is_local": false,
+        "name": "Sweet Disaster",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1cCF6PzZddhyJgYjN8w5qu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0zwgTEEMeWgAYOZRRNToC7"
+}

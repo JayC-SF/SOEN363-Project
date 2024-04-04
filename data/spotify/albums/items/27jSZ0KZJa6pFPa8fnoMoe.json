@@ -1,0 +1,534 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+      },
+      "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+      "id": "5kYwyvlqsCuDlzmfsSNSSC",
+      "name": "Les Dales Hawerchuk",
+      "type": "artist",
+      "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2008 Lazy at Work",
+      "type": "C"
+    },
+    {
+      "text": "2008 Lazy at Work",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "622406481537"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/27jSZ0KZJa6pFPa8fnoMoe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/27jSZ0KZJa6pFPa8fnoMoe",
+  "id": "27jSZ0KZJa6pFPa8fnoMoe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734bcd360568e471be102db02e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024bcd360568e471be102db02e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514bcd360568e471be102db02e",
+      "width": 64
+    }
+  ],
+  "label": "La meute",
+  "name": "Les Dales Hawerchuk 2",
+  "popularity": 0,
+  "release_date": "2008-04-29",
+  "release_date_precision": "day",
+  "total_tracks": 16,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/27jSZ0KZJa6pFPa8fnoMoe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 100080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6AABUyCheisvfnfunvkNlb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6AABUyCheisvfnfunvkNlb",
+        "id": "6AABUyCheisvfnfunvkNlb",
+        "is_local": false,
+        "name": "Le reel du p'tit minou",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6AABUyCheisvfnfunvkNlb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oGrHPVwv1Vx819Sk94Arm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6oGrHPVwv1Vx819Sk94Arm",
+        "id": "6oGrHPVwv1Vx819Sk94Arm",
+        "is_local": false,
+        "name": "Le retour",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6oGrHPVwv1Vx819Sk94Arm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qkNUQMfDK31noIvZCpssn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qkNUQMfDK31noIvZCpssn",
+        "id": "3qkNUQMfDK31noIvZCpssn",
+        "is_local": false,
+        "name": "Cage aux folles",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3qkNUQMfDK31noIvZCpssn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73kNy9uWVrWOz9AYHH1UHa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73kNy9uWVrWOz9AYHH1UHa",
+        "id": "73kNy9uWVrWOz9AYHH1UHa",
+        "is_local": false,
+        "name": "\u00c0 soir on sort",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:73kNy9uWVrWOz9AYHH1UHa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 101160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41up0MbsM2qTO3Sm9zfWgy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41up0MbsM2qTO3Sm9zfWgy",
+        "id": "41up0MbsM2qTO3Sm9zfWgy",
+        "is_local": false,
+        "name": "2e galette",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:41up0MbsM2qTO3Sm9zfWgy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 130786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03R3B92Joz01iCGDtjjlDI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03R3B92Joz01iCGDtjjlDI",
+        "id": "03R3B92Joz01iCGDtjjlDI",
+        "is_local": false,
+        "name": "La machine",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:03R3B92Joz01iCGDtjjlDI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 44626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZG7tAi4Fg2cXHDBsFE8gH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ZG7tAi4Fg2cXHDBsFE8gH",
+        "id": "1ZG7tAi4Fg2cXHDBsFE8gH",
+        "is_local": false,
+        "name": "Big Deb",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1ZG7tAi4Fg2cXHDBsFE8gH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 105400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Jh3HguwnSZzi588Iek7B3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Jh3HguwnSZzi588Iek7B3",
+        "id": "0Jh3HguwnSZzi588Iek7B3",
+        "is_local": false,
+        "name": "Charles Atlas",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0Jh3HguwnSZzi588Iek7B3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7o21JCm1N27w8KJSUrRv1O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7o21JCm1N27w8KJSUrRv1O",
+        "id": "7o21JCm1N27w8KJSUrRv1O",
+        "is_local": false,
+        "name": "\u00c9coeur\u00e9",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7o21JCm1N27w8KJSUrRv1O"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 84733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Yl9NQb4MNN4SrT5kmSanI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Yl9NQb4MNN4SrT5kmSanI",
+        "id": "6Yl9NQb4MNN4SrT5kmSanI",
+        "is_local": false,
+        "name": "Parall\u00e8le",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6Yl9NQb4MNN4SrT5kmSanI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6omJIcLJUZtLxVgCv8hZdg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6omJIcLJUZtLxVgCv8hZdg",
+        "id": "6omJIcLJUZtLxVgCv8hZdg",
+        "is_local": false,
+        "name": "Swomp",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6omJIcLJUZtLxVgCv8hZdg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Jw4WxMJkrrHJkMXn7z2Ev"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Jw4WxMJkrrHJkMXn7z2Ev",
+        "id": "1Jw4WxMJkrrHJkMXn7z2Ev",
+        "is_local": false,
+        "name": "T'es-tu un Dales?",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1Jw4WxMJkrrHJkMXn7z2Ev"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 121066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3o2FTal4WPN7nf376Xzty2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3o2FTal4WPN7nf376Xzty2",
+        "id": "3o2FTal4WPN7nf376Xzty2",
+        "is_local": false,
+        "name": "Papillon",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3o2FTal4WPN7nf376Xzty2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 79746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3beUKQB0nz7uJMN5f0MChP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3beUKQB0nz7uJMN5f0MChP",
+        "id": "3beUKQB0nz7uJMN5f0MChP",
+        "is_local": false,
+        "name": "B\u00e9b\u00e9 phoque",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3beUKQB0nz7uJMN5f0MChP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TvWUobs2Ep4FxDU8YVK1J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TvWUobs2Ep4FxDU8YVK1J",
+        "id": "0TvWUobs2Ep4FxDU8YVK1J",
+        "is_local": false,
+        "name": "Moi je ne veux pas",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:0TvWUobs2Ep4FxDU8YVK1J"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/5kYwyvlqsCuDlzmfsSNSSC",
+            "id": "5kYwyvlqsCuDlzmfsSNSSC",
+            "name": "Les Dales Hawerchuk",
+            "type": "artist",
+            "uri": "spotify:artist:5kYwyvlqsCuDlzmfsSNSSC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XgXjEJGzU6FdklyzoktTO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XgXjEJGzU6FdklyzoktTO",
+        "id": "2XgXjEJGzU6FdklyzoktTO",
+        "is_local": false,
+        "name": "Chasseur \u00e0 l'aff\u00fbt",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2XgXjEJGzU6FdklyzoktTO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  },
+  "type": "album",
+  "uri": "spotify:album:27jSZ0KZJa6pFPa8fnoMoe"
+}

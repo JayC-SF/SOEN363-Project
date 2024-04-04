@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id": "7aBzpmFXB4WWpPl2F7RjBe",
+      "name": "Wyclef Jean",
+      "type": "artist",
+      "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Heads Music Distributed by PRMD LLC",
+      "type": "C"
+    },
+    {
+      "text": "2014 Heads Music Distributed by PRMD LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811250020881"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7B4VL6KV3r79w2c2xS3u5K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7B4VL6KV3r79w2c2xS3u5K",
+  "id": "7B4VL6KV3r79w2c2xS3u5K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273600eb3d573162ca3cfae9642",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02600eb3d573162ca3cfae9642",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851600eb3d573162ca3cfae9642",
+      "width": 64
+    }
+  ],
+  "label": "PRMD Music",
+  "name": "Divine Sorrow",
+  "popularity": 0,
+  "release_date": "2014-11-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7B4VL6KV3r79w2c2xS3u5K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+            "id": "7aBzpmFXB4WWpPl2F7RjBe",
+            "name": "Wyclef Jean",
+            "type": "artist",
+            "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+            "id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "name": "Avicii",
+            "type": "artist",
+            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 278715,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2h9DxDhkLPpYiEdBtpLykG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2h9DxDhkLPpYiEdBtpLykG",
+        "id": "2h9DxDhkLPpYiEdBtpLykG",
+        "is_local": false,
+        "name": "Divine Sorrow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2h9DxDhkLPpYiEdBtpLykG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7B4VL6KV3r79w2c2xS3u5K"
+}

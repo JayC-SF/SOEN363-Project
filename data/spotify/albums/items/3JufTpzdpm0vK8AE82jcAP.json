@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+      },
+      "href": "https://api.spotify.com/v1/artists/4JNfz6aO9ZFz0gp5GY88am",
+      "id": "4JNfz6aO9ZFz0gp5GY88am",
+      "name": "Hey Violet",
+      "type": "artist",
+      "uri": "spotify:artist:4JNfz6aO9ZFz0gp5GY88am"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 5Mode Limited, Under Exclusive License To Capitol Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 5Mode Limited, Under Exclusive License To Capitol Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557528664"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3JufTpzdpm0vK8AE82jcAP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3JufTpzdpm0vK8AE82jcAP",
+  "id": "3JufTpzdpm0vK8AE82jcAP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d05f4934e83de777810218a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d05f4934e83de777810218a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d05f4934e83de777810218a5",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Break My Heart",
+  "popularity": 0,
+  "release_date": "2017-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3JufTpzdpm0vK8AE82jcAP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JNfz6aO9ZFz0gp5GY88am",
+            "id": "4JNfz6aO9ZFz0gp5GY88am",
+            "name": "Hey Violet",
+            "type": "artist",
+            "uri": "spotify:artist:4JNfz6aO9ZFz0gp5GY88am"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209947,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LmbjegEsYeWFfprM28fLu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3LmbjegEsYeWFfprM28fLu",
+        "id": "3LmbjegEsYeWFfprM28fLu",
+        "is_local": false,
+        "name": "Break My Heart",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3LmbjegEsYeWFfprM28fLu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3JufTpzdpm0vK8AE82jcAP"
+}

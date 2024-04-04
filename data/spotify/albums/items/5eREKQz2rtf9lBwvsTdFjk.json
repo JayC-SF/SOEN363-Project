@@ -1,0 +1,133 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7o7doCwqft91WC690aglWC"
+      },
+      "href": "https://api.spotify.com/v1/artists/7o7doCwqft91WC690aglWC",
+      "id": "7o7doCwqft91WC690aglWC",
+      "name": "Sanam",
+      "type": "artist",
+      "uri": "spotify:artist:7o7doCwqft91WC690aglWC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D"
+      },
+      "href": "https://api.spotify.com/v1/artists/22aMB7ZvN33U8hTkPn9J5D",
+      "id": "22aMB7ZvN33U8hTkPn9J5D",
+      "name": "Simran Sehgal",
+      "type": "artist",
+      "uri": "spotify:artist:22aMB7ZvN33U8hTkPn9J5D"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66fbGcYDp66VzjaYFyLg8S"
+      },
+      "href": "https://api.spotify.com/v1/artists/66fbGcYDp66VzjaYFyLg8S",
+      "id": "66fbGcYDp66VzjaYFyLg8S",
+      "name": "Shailendra",
+      "type": "artist",
+      "uri": "spotify:artist:66fbGcYDp66VzjaYFyLg8S"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2014 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2014 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "98907210184211"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eREKQz2rtf9lBwvsTdFjk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5eREKQz2rtf9lBwvsTdFjk",
+  "id": "5eREKQz2rtf9lBwvsTdFjk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f47f3f44f4a7311a66c7a770",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f47f3f44f4a7311a66c7a770",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f47f3f44f4a7311a66c7a770",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Yeh Raaten Yeh Mausam - Sanam And Simran Shgal",
+  "popularity": 58,
+  "release_date": "2014-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5eREKQz2rtf9lBwvsTdFjk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7o7doCwqft91WC690aglWC"
+            },
+            "href": "https://api.spotify.com/v1/artists/7o7doCwqft91WC690aglWC",
+            "id": "7o7doCwqft91WC690aglWC",
+            "name": "Sanam",
+            "type": "artist",
+            "uri": "spotify:artist:7o7doCwqft91WC690aglWC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D"
+            },
+            "href": "https://api.spotify.com/v1/artists/22aMB7ZvN33U8hTkPn9J5D",
+            "id": "22aMB7ZvN33U8hTkPn9J5D",
+            "name": "Simran Sehgal",
+            "type": "artist",
+            "uri": "spotify:artist:22aMB7ZvN33U8hTkPn9J5D"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208943,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ApfHqjOoBmJZ0SjdjzVyA",
+        "id": "1ApfHqjOoBmJZ0SjdjzVyA",
+        "is_local": false,
+        "name": "Yeh Raaten Yeh Mausam",
+        "preview_url": "https://p.scdn.co/mp3-preview/d87c7aef57b7d0f5e4c065354244bfb08b38b621?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ApfHqjOoBmJZ0SjdjzVyA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5eREKQz2rtf9lBwvsTdFjk"
+}

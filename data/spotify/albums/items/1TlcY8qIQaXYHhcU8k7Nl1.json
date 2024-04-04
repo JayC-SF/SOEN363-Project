@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VLNuSikIBDD9d8gRfs93N"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VLNuSikIBDD9d8gRfs93N",
+      "id": "5VLNuSikIBDD9d8gRfs93N",
+      "name": "Johnny Third",
+      "type": "artist",
+      "uri": "spotify:artist:5VLNuSikIBDD9d8gRfs93N"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/36TnblsqYbrMueoMJTyuK4"
+      },
+      "href": "https://api.spotify.com/v1/artists/36TnblsqYbrMueoMJTyuK4",
+      "id": "36TnblsqYbrMueoMJTyuK4",
+      "name": "Jeremy Fowler",
+      "type": "artist",
+      "uri": "spotify:artist:36TnblsqYbrMueoMJTyuK4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2014 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199510637"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TlcY8qIQaXYHhcU8k7Nl1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1TlcY8qIQaXYHhcU8k7Nl1",
+  "id": "1TlcY8qIQaXYHhcU8k7Nl1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737727c8c86d47cdab9abf564f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027727c8c86d47cdab9abf564f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517727c8c86d47cdab9abf564f",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Young Ones",
+  "popularity": 0,
+  "release_date": "2014-08-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1TlcY8qIQaXYHhcU8k7Nl1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VLNuSikIBDD9d8gRfs93N"
+            },
+            "href": "https://api.spotify.com/v1/artists/5VLNuSikIBDD9d8gRfs93N",
+            "id": "5VLNuSikIBDD9d8gRfs93N",
+            "name": "Johnny Third",
+            "type": "artist",
+            "uri": "spotify:artist:5VLNuSikIBDD9d8gRfs93N"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/36TnblsqYbrMueoMJTyuK4"
+            },
+            "href": "https://api.spotify.com/v1/artists/36TnblsqYbrMueoMJTyuK4",
+            "id": "36TnblsqYbrMueoMJTyuK4",
+            "name": "Jeremy Fowler",
+            "type": "artist",
+            "uri": "spotify:artist:36TnblsqYbrMueoMJTyuK4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6S0OgCvZBzOcINkdSZS5lY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6S0OgCvZBzOcINkdSZS5lY",
+        "id": "6S0OgCvZBzOcINkdSZS5lY",
+        "is_local": false,
+        "name": "Young Ones",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6S0OgCvZBzOcINkdSZS5lY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1TlcY8qIQaXYHhcU8k7Nl1"
+}
