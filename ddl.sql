@@ -67,7 +67,7 @@ CREATE TABLE Artist
 (
     artist_id    INT AUTO_INCREMENT,
     spotify_id   VARCHAR(200),
-    artist_name  VARCHAR(200) NOT NULL,
+    artist_name  VARCHAR(800) NOT NULL,
     nb_followers INT,
     popularity   INT,
     external_url VARCHAR(200),
@@ -103,7 +103,7 @@ CREATE TABLE Album
 (
     album_id     INT AUTO_INCREMENT,
     spotify_id   VARCHAR(200),
-    album_name   VARCHAR(200) NOT NULL,
+    album_name   VARCHAR(400) NOT NULL,
     total_tracks INT,
     popularity   INT,
     release_date VARCHAR(10),

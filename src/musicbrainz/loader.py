@@ -25,6 +25,7 @@ class AliasLoader:
         # List to store the paths of JSON files
         
         artist_data = pd.DataFrame({"ID": [], "Name": []})
+        print(artist_data.to_string())
 
         # Iterate through all files in the folder
         for root, dirs, files in os.walk(self.__artists_items_path):
@@ -37,11 +38,13 @@ class AliasLoader:
                         # Load JSON content
                         content = json.load(f)
                         # Append JSON content to the list
+                        print((content["id"], content["name"]))
                         artist_data.loc[len(artist_data)] = (content["id"], content["name"])
 
         return artist_data
     
     def write_artist_data_to_csv(self):
+        print(f"Retrieving artist names from  '{self.__items_folder_path}' ...")
         artist_data = self.get_artist_data_from_json()
 
         # Write artist names to CSV file
