@@ -262,7 +262,7 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Finished inserting Aliases. Total tracks in database: {row_count}")
-        print(f"Finished inserting tracks in {end_time - start_time} seconds")
+        print(f"Finished inserting aliases in {end_time - start_time} seconds")
 
     def __insert_artists_aliases(self):
         pass
