@@ -63,6 +63,7 @@ class DatabaseInserter:
             case 'available_markets_tracks':
                 self.__insert_available_markets_tracks()
             case 'playlists_tracks':
+                self.__insert_playlists_tracks()
                 pass
             case 'audiobooks_authors':
                 pass
@@ -677,6 +678,58 @@ class DatabaseInserter:
                 #     print(f"Inserted market, track data for {market_id}, {track_id}")
                 # else:
                 #     print(f"Row already exists for {market_id}, {track_id}, skipping.")
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} market-track relationships in {end_time - start_time} seconds")
+
+    def __insert_playlists_tracks(self):
+        parser = SpotifyParser('playlists', PlaylistModel)
+        playlists: List[PlaylistModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'tracks', json_data.get('tracks')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        for playlist in playlists:
+            cursor.execute("SELECT playlist_id FROM Playlist WHERE spotify_id = %s", (playlist.spotify_id,))
+            playlist_id = cursor.fetchone()
+
+            if not playlist_id:
+                continue
+
+            playlist_id = playlist_id[0]
+            for track in playlist.tracks['items']:
+                track = track['track']
+                if track is None or track['id'] is None:
+                    continue
+                cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (track['id'],))
+                result = cursor.fetchone()
+                if not result:
+                    continue
+
+                track_id = result[0]
+
+                # Check if track exists in Track table
+                cursor.execute("SELECT EXISTS(SELECT 1 FROM Track WHERE track_id = %s)", (track_id,))
+                exists = cursor.fetchone()[0]
+                if not exists:
+                    continue
+
+                cursor.execute("SELECT COUNT(1) FROM Playlists_Tracks WHERE playlist_id = %s AND track_id = %s",
+                               (playlist_id, track_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Playlists_Tracks (track_id, playlist_id) VALUES (%s, %s)",
+                                   (track_id, playlist_id))
+                    self.__db.commit()
+                    num_inserts += 1
+                #     print(f"Inserted playlist, track for {playlist_id}, {track_id}")
+                # else:
+                #     print(f"Row already exists for {playlist_id}, {track_id}, skipping.")
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} market-track relationships in {end_time - start_time} seconds")
