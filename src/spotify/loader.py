@@ -5,8 +5,8 @@ import pandas as pd
 import os
 from os.path import abspath, join as joinpath, exists
 import json
-
 from utility.variables import SPOTIFY_DATA_PATH, SPOTIFY_ITEMS_CSV_NAME
+from tqdm import tqdm
 
 
 def load_info_from_playlists():
@@ -14,48 +14,65 @@ def load_info_from_playlists():
     _, playlists_csv, playlist_items_folder, _ = setup_spotify_folders('playlists')
     _, albums_csv, _, _ = setup_spotify_folders('albums')
     _, artists_csv, _, _ = setup_spotify_folders('artists')
+    print("Loading playlists...")
     playlists_df = pd.read_csv(playlists_csv)
+    print("Drop duplicates of playlists")
+    playlists_df.drop_duplicates(subset=['ID'], inplace=True)
+    print("Removing playlists that are not cached...")
     playlists_df = playlists_df[playlists_df['CACHED'] == True]
-    tracks_df = pd.read_csv(tracks_csv)
-    tracks_size = len(tracks_df)
-    albums_df = pd.read_csv(albums_csv)
-    albums_size = len(albums_df)
-    artists_df = pd.read_csv(artists_csv)
-    artists_size = len(artists_df)
-    for _, playlist_row in playlists_df.iterrows():
-        playlist_id = playlist_row['ID']
-        load_info_from_playlist(playlist_id, playlist_items_folder, tracks_df, albums_df, artists_df)
-        # append new dfs in original dataframe set
-        # tracks_df = pd.concat([tracks_df, new_tracks_df], ignore_index=True)
-        # albums_df = pd.concat([albums_df, new_albums_df], ignore_index=True)
-        # artists_df = pd.concat([artists_df, new_artists_df], ignore_index=True)
-        # tracks_df._append(new_tracks_df, ignore_index=True, inplace=True)
-        # albums_df._append(new_albums_df, ignore_index=True, inplace=True)
-        # artists_df._append(new_artists_df, ignore_index=True, inplace=True)
-    # drop duplicates
-    tracks_df.drop_duplicates(subset=['ID'], inplace=True)
-    albums_df.drop_duplicates(subset=['ID'], inplace=True)
-    artists_df.drop_duplicates(subset=['ID'], inplace=True)
-    # store to csv file
-    tracks_df.to_csv(tracks_csv, index=False)
-    albums_df.to_csv(albums_csv, index=False)
-    artists_df.to_csv(artists_csv, index=False)
-    print(f"Added {len(tracks_df) - tracks_size} new tracks from playlists.")
-    print(f"Added {len(albums_df) - albums_size} new albums from playlists.")
-    print(f"Added {len(artists_df) - artists_size} new artists from playlists.")
+    playlist_ids = set(playlists_df['ID'].to_list())
+    del playlists_df
+    total_playlist_ids = len(playlist_ids)
+    print(f"Total playlists to read: {total_playlist_ids}")
+    tracks = set()
+    artists = set()
+    albums = set()
+    # print new line for the progress bar
+    with tqdm(total=total_playlist_ids) as pbar:
+        for playlist_id in playlist_ids:
+            load_info_from_playlist(playlist_id, playlist_items_folder, tracks, artists, albums)
+            pbar.update(1)
+
+    del playlist_ids
+    tracks_size_diff = output_to_csv(tracks_csv, tracks, "tracks")
+    del tracks
+    artists_size_diff = output_to_csv(artists_csv, artists, "artists")
+    del artists
+    albums_size_diff = output_to_csv(albums_csv, albums, "albums")
+    del albums
+
+    print(f"Added {tracks_size_diff} new tracks from playlists.")
+    print(f"Added {artists_size_diff} new albums from playlists.")
+    print(f"Added {albums_size_diff} new artists from playlists.")
 
 
-def load_info_from_playlist(playlist_id, playlist_items_folder, tracks_df, albums_df, artists_df):
+def output_to_csv(csv_path: str, ids: set[str], type: str):
+    print(f"Load {type} csv to remove duplicates...")
+    csv_id = set(pd.read_csv(csv_path)['ID'].to_list())
+    ids.difference_update(csv_id)
+    # delete csv_id's reference for garbage collector
+    del csv_id
+    # map ids to csv format
+    ids = [id for id in ids if id is not None]
+    size = len(ids)
+    ids = ",False\n".join(ids)
+    if len(ids) != 0:
+        print(f"Writing to {type} csv...")
+        with open(csv_path, "a") as f:
+            f.write(ids)
+            f.write(",False")
+    else:
+        print(f"Nothing to write for {type}")
+    return size
+
+
+def load_info_from_playlist(playlist_id, playlist_items_folder, tracks_set: set[str], artists_set: set[str], albums_set: set[str]):
     # check if the playlist has been scraped
     playlist_json_file = os.path.join(playlist_items_folder, f"{playlist_id}.json")
     if not os.path.exists(playlist_json_file):
         print(f"Playlist {playlist_id} needs to be scraped before loading tracks")
         return
-    # data = {'ID': [], 'CACHED': []}
-    # tracks_df = pd.DataFrame(data)
-    # albums_df = tracks_df.copy()
-    # artists_df = tracks_df.copy()
-    # load the json object
+
     with open(playlist_json_file, "r") as f:
         playlist_json = json.load(f)
 
@@ -66,21 +83,15 @@ def load_info_from_playlist(playlist_id, playlist_items_folder, tracks_df, album
         track = track['track']
         if track is None:
             continue
-            # add new track in the dataframe
-        tracks_df.loc[len(tracks_df)] = [track['id'], False]
-        albums_df.loc[len(albums_df)] = [track['album']['id'], False]
-        # add artists in albums
+        # add new track in set
+        tracks_set.add(track['id'])
+        albums_set.add(track['album']['id'])
+        # add all artists from albums
         for artist in track['album']['artists']:
-            artists_df.loc[len(artists_df)] = [artist['id'], False]
+            artists_set.add(artist['id'])
         # add artists in track
         for artist in track['artists']:
-            artists_df.loc[len(artists_df)] = [artist['id'], False]
-
-    # drop all duplicates in the dataframe
-    # tracks_df.drop_duplicates(subset=['ID'])
-    # albums_df.drop_duplicates(subset=['ID'])
-    # artists_df.drop_duplicates(subset=['ID'])
-    return (tracks_df, albums_df, artists_df)
+            artists_set.add(artist['id'])
 
 
 def load_authors_from_audiobooks():
