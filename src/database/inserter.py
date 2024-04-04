@@ -11,6 +11,7 @@ from spotify.models.album_model import AlbumModel
 from spotify.models.alias_model import AliasModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.audiobook_model import AudiobookModel
+from spotify.models.author_model import AuthorModel
 from spotify.models.chapter_model import ChapterModel
 from spotify.models.playlist_model import PlaylistModel
 from spotify.models.track_model import TrackModel
@@ -45,7 +46,7 @@ class DatabaseInserter:
             case 'audiobooks':
                 self.__insert_audiobooks()
             case 'authors':
-                pass
+                self.__insert_authors()
             case 'aliases':
                 pass
             case 'tracks_artists':
@@ -66,6 +67,7 @@ class DatabaseInserter:
                 self.__insert_playlists_tracks()
                 pass
             case 'audiobooks_authors':
+                self.__insert_audiobooks_authors()
                 pass
             case 'audiobooks_chapters':
                 pass
@@ -733,3 +735,66 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} market-track relationships in {end_time - start_time} seconds")
+
+    def __insert_audiobooks_authors(self):
+        parser = SpotifyParser('audiobooks', AudiobookModel)
+        audiobooks: List[AudiobookModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'authors', json_data.get('authors')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        for audiobook in audiobooks:
+            cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (audiobook.spotify_id,))
+            result = cursor.fetchone()
+            if result:
+                audiobook_id = result[0]
+                # Verify the audiobook_id in Audiobook table
+                cursor.execute("SELECT EXISTS(SELECT 1 FROM Audiobook WHERE audiobook_id = %s)", (audiobook_id,))
+                exists = cursor.fetchone()[0]
+                if not exists:
+                    continue
+            else:
+                continue
+
+            for author in audiobook.authors:
+                cursor.execute("SELECT author_id FROM Author WHERE author_name = %s", (author['name'],))
+                result = cursor.fetchone()
+                if result:
+                    author_id = result[0]
+                else:
+                    continue
+
+                cursor.execute("SELECT COUNT(1) FROM Audiobooks_Authors WHERE audiobook_id = %s AND author_id = %s",
+                               (audiobook_id, author_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Audiobooks_Authors (audiobook_id, author_id) VALUES (%s, %s)",
+                                   (audiobook_id, author_id))
+                    self.__db.commit()
+                    num_inserts += 1
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} audiobook-author relationships in {end_time - start_time} seconds")
+
+    def __insert_authors(self):
+        parser = SpotifyParser('authors', AuthorModel)
+        audiobooks: List[AuthorModel] = parser.parse_all()
+
+        cursor = self.__db.cursor(buffered=True)
+
+        for authors in audiobooks:
+            for author in authors.authors:
+                cursor.execute("SELECT author_id FROM Author WHERE author_name = %s", (author['name'],))
+                result = cursor.fetchone()
+
+                if not result:
+                    cursor.execute("INSERT INTO Author (author_name) VALUES (%s)", (author['name'],))
+                    self.__db.commit()
+                #     print(f"Inserted author: {author['name']}")
+                # else:
+                #     print(f"Author already exists: {author['name']}")
