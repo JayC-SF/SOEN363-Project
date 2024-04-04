@@ -11,7 +11,6 @@ from spotify.models.album_model import AlbumModel
 from spotify.models.alias_model import AliasModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.audiobook_model import AudiobookModel
-from spotify.models.author_model import AuthorModel
 from spotify.models.chapter_model import ChapterModel
 from spotify.models.playlist_model import PlaylistModel
 from spotify.models.track_model import TrackModel
@@ -37,8 +36,6 @@ class DatabaseInserter:
                 self.__insert_albums()
             case 'artists':
                 self.__insert_artists()
-            case 'artists_genres':
-                self.__insert_artists_genres()
             case 'chapters':
                 self.__insert_chapters_genres()
             case 'playlists':
@@ -59,8 +56,9 @@ class DatabaseInserter:
                 self.__insert_tracks_albums()
                 pass
             case 'artists_genres':
-                pass
+                self.__insert_artists_genres()
             case 'available_markets_albums':
+                self.__insert_available_markets_albums()
                 pass
             case 'available_markets_tracks':
                 pass
@@ -587,6 +585,53 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} track-album relationships in {end_time - start_time} seconds")
+
+    def __insert_available_markets_albums(self):
+        parser = SpotifyParser('albums', AlbumModel)
+        albums: List[AlbumModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'available_markets', json_data.get('available_markets')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        # Get all markets and their ids
+        cursor.execute("SELECT market_id, country_code FROM Market")
+        markets = cursor.fetchall()
+        market_map = {}
+        for market in markets:
+            market_id, country_code = market
+            market_map[country_code] = market_id
+
+        for album in albums:
+            cursor.execute("SELECT album_id FROM Album WHERE spotify_id = %s", (album.spotify_id,))
+            album_id = cursor.fetchone()
+
+            if not album_id:
+                continue
+
+            album_id = album_id[0]
+
+            for market in album.available_markets:
+                market_id = market_map[market]
+
+                cursor.execute("SELECT COUNT(1) FROM Available_Markets_Albums WHERE market_id = %s AND album_id = %s",
+                               (market_id, album_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Available_Markets_Albums (album_id, market_id) VALUES (%s, %s)",
+                                   (album_id, market_id))
+                    self.__db.commit()
+                    num_inserts += 1
+                #     print(f"Inserted album, track data for {album_id}, {market_id}")
+                # else:
+                #     print(f"Row already exists for {album_id}, {market_id}, skipping.")
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} market-album relationships in {end_time - start_time} seconds")
 
     def __insert_aliases(self):
         parser = SpotifyParser('aliases', AliasModel)
