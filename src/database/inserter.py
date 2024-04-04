@@ -55,22 +55,18 @@ class DatabaseInserter:
                 pass
             case 'tracks_albums':
                 self.__insert_tracks_albums()
-                pass
             case 'artists_genres':
                 self.__insert_artists_genres()
             case 'available_markets_albums':
                 self.__insert_available_markets_albums()
-                pass
             case 'available_markets_tracks':
                 self.__insert_available_markets_tracks()
             case 'playlists_tracks':
                 self.__insert_playlists_tracks()
-                pass
             case 'audiobooks_authors':
                 self.__insert_audiobooks_authors()
-                pass
             case 'audiobooks_chapters':
-                pass
+                self.__insert_audiobooks_chapters()
             case _:
                 print(f"Error: The function to insert data for {self.__data_type} has not been implemented yet.")
 
@@ -799,3 +795,54 @@ class DatabaseInserter:
                 #     print(f"Inserted author: {author['name']}")
                 # else:
                 #     print(f"Author already exists: {author['name']}")
+
+    def __insert_audiobooks_chapters(self):
+        parser = SpotifyParser('audiobooks', AudiobookModel)
+        audiobooks: List[AudiobookModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'chapters', json_data.get('chapters')) or mapped_object
+            )
+        )
+
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        for audiobook in audiobooks:
+            spotify_id = audiobook.spotify_id
+
+            cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (spotify_id,))
+            result = cursor.fetchone()
+            if result:
+                audiobook_id = result[0]
+                # Verify the audiobook_id in Audiobook table
+                cursor.execute("SELECT EXISTS(SELECT 1 FROM Audiobook WHERE audiobook_id = %s)", (audiobook_id,))
+                exists = cursor.fetchone()[0]
+                if not exists:
+                    continue
+            else:
+                continue
+
+            items = audiobook.chapters['items']
+            for chapter in items:
+                cursor.execute("SELECT chapter_id FROM Chapter WHERE spotify_id = %s", (chapter['id'],))
+                result = cursor.fetchone()
+
+                if not result:
+                    continue
+
+                chapter_id = result[0]
+
+                cursor.execute("SELECT COUNT(1) FROM Audiobooks_Chapters WHERE audiobook_id = %s AND chapter_id = %s",
+                               (audiobook_id, chapter_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Audiobooks_Chapters (audiobook_id, chapter_id) VALUES (%s, %s)",
+                                   (audiobook_id, chapter_id))
+                    self.__db.commit()
+                    num_inserts += 1
+                #     print('Inserted')
+                # else:
+                #     print('Already inserted')
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} audiobook-author relationships in {end_time - start_time} seconds")
