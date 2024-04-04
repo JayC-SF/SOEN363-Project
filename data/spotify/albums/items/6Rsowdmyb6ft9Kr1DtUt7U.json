@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
+      },
+      "href": "https://api.spotify.com/v1/artists/7o25rnG6F8ccCGxmyGY5mV",
+      "id": "7o25rnG6F8ccCGxmyGY5mV",
+      "name": "Hicks",
+      "type": "artist",
+      "uri": "spotify:artist:7o25rnG6F8ccCGxmyGY5mV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Tama's Little Music Shop",
+      "type": "C"
+    },
+    {
+      "text": "2023 Tama's Little Music Shop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197901110386"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Rsowdmyb6ft9Kr1DtUt7U"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Rsowdmyb6ft9Kr1DtUt7U",
+  "id": "6Rsowdmyb6ft9Kr1DtUt7U",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394efc9b9025fd83802d3352f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294efc9b9025fd83802d3352f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194efc9b9025fd83802d3352f",
+      "width": 64
+    }
+  ],
+  "label": "Tama's Little Music Shop",
+  "name": "Vintage Melodies",
+  "popularity": 9,
+  "release_date": "2023-08-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Rsowdmyb6ft9Kr1DtUt7U/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
+            },
+            "href": "https://api.spotify.com/v1/artists/7o25rnG6F8ccCGxmyGY5mV",
+            "id": "7o25rnG6F8ccCGxmyGY5mV",
+            "name": "Hicks",
+            "type": "artist",
+            "uri": "spotify:artist:7o25rnG6F8ccCGxmyGY5mV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178285,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mLOKDoc2Z6oy8NkNIneu2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mLOKDoc2Z6oy8NkNIneu2",
+        "id": "2mLOKDoc2Z6oy8NkNIneu2",
+        "is_local": false,
+        "name": "Vintage Melodies",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2mLOKDoc2Z6oy8NkNIneu2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Rsowdmyb6ft9Kr1DtUt7U"
+}

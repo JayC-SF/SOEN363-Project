@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EZY0VASOYzEheftuL1KeB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EZY0VASOYzEheftuL1KeB",
+      "id": "2EZY0VASOYzEheftuL1KeB",
+      "name": "Volt",
+      "type": "artist",
+      "uri": "spotify:artist:2EZY0VASOYzEheftuL1KeB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Volt",
+      "type": "C"
+    },
+    {
+      "text": "2020 Volt",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395577043"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1sgSu0H7FSb2F3U2BlNk9U"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1sgSu0H7FSb2F3U2BlNk9U",
+  "id": "1sgSu0H7FSb2F3U2BlNk9U",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b42d1fd258a31ff5167f993e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b42d1fd258a31ff5167f993e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b42d1fd258a31ff5167f993e",
+      "width": 64
+    }
+  ],
+  "label": "1753720 Records DK2",
+  "name": "Nefes",
+  "popularity": 0,
+  "release_date": "2020-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1sgSu0H7FSb2F3U2BlNk9U/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2EZY0VASOYzEheftuL1KeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2EZY0VASOYzEheftuL1KeB",
+            "id": "2EZY0VASOYzEheftuL1KeB",
+            "name": "Volt",
+            "type": "artist",
+            "uri": "spotify:artist:2EZY0VASOYzEheftuL1KeB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220167,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ifikGv28d5m51l7J7mbsV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ifikGv28d5m51l7J7mbsV",
+        "id": "1ifikGv28d5m51l7J7mbsV",
+        "is_local": false,
+        "name": "Nefes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ifikGv28d5m51l7J7mbsV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1sgSu0H7FSb2F3U2BlNk9U"
+}

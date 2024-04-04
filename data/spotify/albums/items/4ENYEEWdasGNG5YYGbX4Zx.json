@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+      },
+      "href": "https://api.spotify.com/v1/artists/089IZ7FwRjpOxPypnAG7kW",
+      "id": "089IZ7FwRjpOxPypnAG7kW",
+      "name": "Los Polinesios",
+      "type": "artist",
+      "uri": "spotify:artist:089IZ7FwRjpOxPypnAG7kW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+      },
+      "href": "https://api.spotify.com/v1/artists/6O9WquDfQTxGRZqZUXVEQx",
+      "id": "6O9WquDfQTxGRZqZUXVEQx",
+      "name": "RedOne",
+      "type": "artist",
+      "uri": "spotify:artist:6O9WquDfQTxGRZqZUXVEQx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 RedOne",
+      "type": "C"
+    },
+    {
+      "text": "2018 RedOne",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857058922"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ENYEEWdasGNG5YYGbX4Zx",
+  "id": "4ENYEEWdasGNG5YYGbX4Zx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e70338383ff5a38cc3711aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e70338383ff5a38cc3711aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e70338383ff5a38cc3711aa",
+      "width": 64
+    }
+  ],
+  "label": "2101 Records",
+  "name": "Festival",
+  "popularity": 0,
+  "release_date": "2018-10-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ENYEEWdasGNG5YYGbX4Zx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+            },
+            "href": "https://api.spotify.com/v1/artists/089IZ7FwRjpOxPypnAG7kW",
+            "id": "089IZ7FwRjpOxPypnAG7kW",
+            "name": "Los Polinesios",
+            "type": "artist",
+            "uri": "spotify:artist:089IZ7FwRjpOxPypnAG7kW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6O9WquDfQTxGRZqZUXVEQx",
+            "id": "6O9WquDfQTxGRZqZUXVEQx",
+            "name": "RedOne",
+            "type": "artist",
+            "uri": "spotify:artist:6O9WquDfQTxGRZqZUXVEQx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207580,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SBrGzg3tqlKCWVelWHXYm",
+        "id": "0SBrGzg3tqlKCWVelWHXYm",
+        "is_local": false,
+        "name": "Festival",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0SBrGzg3tqlKCWVelWHXYm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ENYEEWdasGNG5YYGbX4Zx"
+}

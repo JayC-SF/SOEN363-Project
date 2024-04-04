@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ApC3GZFn1VELA00hwZGmL"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ApC3GZFn1VELA00hwZGmL",
+      "id": "3ApC3GZFn1VELA00hwZGmL",
+      "name": "Eibell",
+      "type": "artist",
+      "uri": "spotify:artist:3ApC3GZFn1VELA00hwZGmL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Comethazine, TISAKOREAN",
+      "type": "C"
+    },
+    {
+      "text": "2022 Eibell",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063112567378"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7DS8T6U5C9gE2MPWS6XZlH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7DS8T6U5C9gE2MPWS6XZlH",
+  "id": "7DS8T6U5C9gE2MPWS6XZlH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d6e8e391256c3af0b0593db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d6e8e391256c3af0b0593db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d6e8e391256c3af0b0593db",
+      "width": 64
+    }
+  ],
+  "label": "Eibell",
+  "name": "SPINBACK",
+  "popularity": 44,
+  "release_date": "2022-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7DS8T6U5C9gE2MPWS6XZlH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ApC3GZFn1VELA00hwZGmL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ApC3GZFn1VELA00hwZGmL",
+            "id": "3ApC3GZFn1VELA00hwZGmL",
+            "name": "Eibell",
+            "type": "artist",
+            "uri": "spotify:artist:3ApC3GZFn1VELA00hwZGmL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 82384,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NDgRxQsoaJYJZjdUdqLXl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3NDgRxQsoaJYJZjdUdqLXl",
+        "id": "3NDgRxQsoaJYJZjdUdqLXl",
+        "is_local": false,
+        "name": "SPINBACK",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3NDgRxQsoaJYJZjdUdqLXl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7DS8T6U5C9gE2MPWS6XZlH"
+}

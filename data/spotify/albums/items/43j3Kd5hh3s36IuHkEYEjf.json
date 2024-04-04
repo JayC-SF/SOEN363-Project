@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3H9tbqoneuzYDgg2CAcUuy"
+      },
+      "href": "https://api.spotify.com/v1/artists/3H9tbqoneuzYDgg2CAcUuy",
+      "id": "3H9tbqoneuzYDgg2CAcUuy",
+      "name": "O.Torvald",
+      "type": "artist",
+      "uri": "spotify:artist:3H9tbqoneuzYDgg2CAcUuy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Best Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 Best Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191018852955"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/43j3Kd5hh3s36IuHkEYEjf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/43j3Kd5hh3s36IuHkEYEjf",
+  "id": "43j3Kd5hh3s36IuHkEYEjf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ffb00e2254b80c9d76d1a316",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ffb00e2254b80c9d76d1a316",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ffb00e2254b80c9d76d1a316",
+      "width": 64
+    }
+  ],
+  "label": "BEST MUSIC",
+  "name": "Time",
+  "popularity": 0,
+  "release_date": "2017-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/43j3Kd5hh3s36IuHkEYEjf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3H9tbqoneuzYDgg2CAcUuy"
+            },
+            "href": "https://api.spotify.com/v1/artists/3H9tbqoneuzYDgg2CAcUuy",
+            "id": "3H9tbqoneuzYDgg2CAcUuy",
+            "name": "O.Torvald",
+            "type": "artist",
+            "uri": "spotify:artist:3H9tbqoneuzYDgg2CAcUuy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186470,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xzXyOnErZDcgsGlchy4ec"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7xzXyOnErZDcgsGlchy4ec",
+        "id": "7xzXyOnErZDcgsGlchy4ec",
+        "is_local": false,
+        "name": "Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7xzXyOnErZDcgsGlchy4ec"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:43j3Kd5hh3s36IuHkEYEjf"
+}

@@ -1,0 +1,101 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NjfBq1NflQcKSeiDooVjY",
+      "id": "2NjfBq1NflQcKSeiDooVjY",
+      "name": "Tones And I",
+      "type": "artist",
+      "uri": "spotify:artist:2NjfBq1NflQcKSeiDooVjY"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Bad Batch Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447771488"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/31IDBea3eEs57a0joX6TjN",
+  "id": "31IDBea3eEs57a0joX6TjN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338802659d156935ada63c9e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238802659d156935ada63c9e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138802659d156935ada63c9e3",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Entertainment",
+  "name": "Dance Monkey",
+  "popularity": 56,
+  "release_date": "2019-05-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/31IDBea3eEs57a0joX6TjN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NjfBq1NflQcKSeiDooVjY",
+            "id": "2NjfBq1NflQcKSeiDooVjY",
+            "name": "Tones And I",
+            "type": "artist",
+            "uri": "spotify:artist:2NjfBq1NflQcKSeiDooVjY"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 209754,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rgnBhdG2JDFTbYkYRZAku",
+        "id": "1rgnBhdG2JDFTbYkYRZAku",
+        "is_local": false,
+        "name": "Dance Monkey",
+        "preview_url": "https://p.scdn.co/mp3-preview/faad7dce8e7deeb059c7c59645c594c40342812f?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1rgnBhdG2JDFTbYkYRZAku"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:31IDBea3eEs57a0joX6TjN"
+}

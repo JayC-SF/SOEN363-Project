@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+      },
+      "href": "https://api.spotify.com/v1/artists/1SwmXTElW9TlkK2Rydgb4D",
+      "id": "1SwmXTElW9TlkK2Rydgb4D",
+      "name": "PlayaPhonk",
+      "type": "artist",
+      "uri": "spotify:artist:1SwmXTElW9TlkK2Rydgb4D"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2816827 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 2816827 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196053919588"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xX7m0vBy0FuBdUBSlSRrS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5xX7m0vBy0FuBdUBSlSRrS",
+  "id": "5xX7m0vBy0FuBdUBSlSRrS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f165d606991b12c67dd6f83e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f165d606991b12c67dd6f83e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f165d606991b12c67dd6f83e",
+      "width": 64
+    }
+  ],
+  "label": "2816827 Records DK",
+  "name": "IMMORTAL",
+  "popularity": 0,
+  "release_date": "2021-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5xX7m0vBy0FuBdUBSlSRrS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SwmXTElW9TlkK2Rydgb4D",
+            "id": "1SwmXTElW9TlkK2Rydgb4D",
+            "name": "PlayaPhonk",
+            "type": "artist",
+            "uri": "spotify:artist:1SwmXTElW9TlkK2Rydgb4D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wey8irPoJiNqpYViPvxvC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wey8irPoJiNqpYViPvxvC",
+        "id": "5wey8irPoJiNqpYViPvxvC",
+        "is_local": false,
+        "name": "IMMORTAL",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5wey8irPoJiNqpYViPvxvC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5xX7m0vBy0FuBdUBSlSRrS"
+}

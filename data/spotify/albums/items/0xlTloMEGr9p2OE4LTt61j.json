@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ApQnMT6oR8eLguf24xb9S",
+      "id": "5ApQnMT6oR8eLguf24xb9S",
+      "name": "Foreign Air",
+      "type": "artist",
+      "uri": "spotify:artist:5ApQnMT6oR8eLguf24xb9S"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 ONErpm",
+      "type": "C"
+    },
+    {
+      "text": "2018 ONErpm",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "718598187323"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0xlTloMEGr9p2OE4LTt61j"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0xlTloMEGr9p2OE4LTt61j",
+  "id": "0xlTloMEGr9p2OE4LTt61j",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f016cc1ab4c2f5d575a02b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f016cc1ab4c2f5d575a02b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f016cc1ab4c2f5d575a02b0",
+      "width": 64
+    }
+  ],
+  "label": "ONErpm",
+  "name": "Used To You",
+  "popularity": 0,
+  "release_date": "2018-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0xlTloMEGr9p2OE4LTt61j/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ApQnMT6oR8eLguf24xb9S",
+            "id": "5ApQnMT6oR8eLguf24xb9S",
+            "name": "Foreign Air",
+            "type": "artist",
+            "uri": "spotify:artist:5ApQnMT6oR8eLguf24xb9S"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ljqat1WSPTQN4t0bGLPAs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ljqat1WSPTQN4t0bGLPAs",
+        "id": "4Ljqat1WSPTQN4t0bGLPAs",
+        "is_local": false,
+        "name": "Used To You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Ljqat1WSPTQN4t0bGLPAs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0xlTloMEGr9p2OE4LTt61j"
+}

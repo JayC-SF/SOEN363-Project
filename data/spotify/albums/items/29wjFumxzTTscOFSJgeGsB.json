@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xgFgBZ7CRtgtHcziClOwQ",
+      "id": "4xgFgBZ7CRtgtHcziClOwQ",
+      "name": "MOGUAI",
+      "type": "artist",
+      "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB"
+      },
+      "href": "https://api.spotify.com/v1/artists/6pWL05Wc94cpoX7eS8VhZB",
+      "id": "6pWL05Wc94cpoX7eS8VhZB",
+      "name": "POLINA",
+      "type": "artist",
+      "uri": "spotify:artist:6pWL05Wc94cpoX7eS8VhZB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Spinnin' Deep / SpinninRecords.com",
+      "type": "C"
+    },
+    {
+      "text": "2017 Spinnin' Deep / SpinninRecords.com",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944572001"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29wjFumxzTTscOFSJgeGsB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29wjFumxzTTscOFSJgeGsB",
+  "id": "29wjFumxzTTscOFSJgeGsB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b83877ffde6bd47d8180b541",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b83877ffde6bd47d8180b541",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b83877ffde6bd47d8180b541",
+      "width": 64
+    }
+  ],
+  "label": "Spinnin' Deep",
+  "name": "Say A Little Prayer",
+  "popularity": 0,
+  "release_date": "2017-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29wjFumxzTTscOFSJgeGsB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xgFgBZ7CRtgtHcziClOwQ",
+            "id": "4xgFgBZ7CRtgtHcziClOwQ",
+            "name": "MOGUAI",
+            "type": "artist",
+            "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB"
+            },
+            "href": "https://api.spotify.com/v1/artists/6pWL05Wc94cpoX7eS8VhZB",
+            "id": "6pWL05Wc94cpoX7eS8VhZB",
+            "name": "POLINA",
+            "type": "artist",
+            "uri": "spotify:artist:6pWL05Wc94cpoX7eS8VhZB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186536,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2VSCcSLiISjz8tZHi4ieNf",
+        "id": "2VSCcSLiISjz8tZHi4ieNf",
+        "is_local": false,
+        "name": "Say A Little Prayer",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2VSCcSLiISjz8tZHi4ieNf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29wjFumxzTTscOFSJgeGsB"
+}

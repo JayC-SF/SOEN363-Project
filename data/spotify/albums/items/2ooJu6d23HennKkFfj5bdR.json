@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+      "id": "4LLpKhyESsyAXpc4laK94U",
+      "name": "Mac Miller",
+      "type": "artist",
+      "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Rostrum Records",
+      "type": "C"
+    },
+    {
+      "text": "2012 Rostrum Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "887158059360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ooJu6d23HennKkFfj5bdR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ooJu6d23HennKkFfj5bdR",
+  "id": "2ooJu6d23HennKkFfj5bdR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae6b0978b8db167443e3756f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae6b0978b8db167443e3756f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae6b0978b8db167443e3756f",
+      "width": 64
+    }
+  ],
+  "label": "Rostrum Records",
+  "name": "Loud",
+  "popularity": 0,
+  "release_date": "2012-04-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ooJu6d23HennKkFfj5bdR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 171148,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aQmsZCESbhasWW5VARdS8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aQmsZCESbhasWW5VARdS8",
+        "id": "5aQmsZCESbhasWW5VARdS8",
+        "is_local": false,
+        "name": "Loud",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5aQmsZCESbhasWW5VARdS8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ooJu6d23HennKkFfj5bdR"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/388gr5BQ9YqCP5TUALzJgi"
+      },
+      "href": "https://api.spotify.com/v1/artists/388gr5BQ9YqCP5TUALzJgi",
+      "id": "388gr5BQ9YqCP5TUALzJgi",
+      "name": "UnderCover",
+      "type": "artist",
+      "uri": "spotify:artist:388gr5BQ9YqCP5TUALzJgi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Copyright Control",
+      "type": "C"
+    },
+    {
+      "text": "2014 Solar-Tech Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4250644889967"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5048YuHGr5eP7bEDu0ndTz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5048YuHGr5eP7bEDu0ndTz",
+  "id": "5048YuHGr5eP7bEDu0ndTz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b80d7c01e43ccdc1d3221a70",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b80d7c01e43ccdc1d3221a70",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b80d7c01e43ccdc1d3221a70",
+      "width": 64
+    }
+  ],
+  "label": "Solar Tech Records",
+  "name": "Chapati",
+  "popularity": 0,
+  "release_date": "2014-11-26",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5048YuHGr5eP7bEDu0ndTz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/388gr5BQ9YqCP5TUALzJgi"
+            },
+            "href": "https://api.spotify.com/v1/artists/388gr5BQ9YqCP5TUALzJgi",
+            "id": "388gr5BQ9YqCP5TUALzJgi",
+            "name": "UnderCover",
+            "type": "artist",
+            "uri": "spotify:artist:388gr5BQ9YqCP5TUALzJgi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 380285,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3goaIWpGERAPglBJKC0D3J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3goaIWpGERAPglBJKC0D3J",
+        "id": "3goaIWpGERAPglBJKC0D3J",
+        "is_local": false,
+        "name": "Chapati",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3goaIWpGERAPglBJKC0D3J"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/388gr5BQ9YqCP5TUALzJgi"
+            },
+            "href": "https://api.spotify.com/v1/artists/388gr5BQ9YqCP5TUALzJgi",
+            "id": "388gr5BQ9YqCP5TUALzJgi",
+            "name": "UnderCover",
+            "type": "artist",
+            "uri": "spotify:artist:388gr5BQ9YqCP5TUALzJgi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 430950,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eU4toVzsOs8DkLNmYwtSz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2eU4toVzsOs8DkLNmYwtSz",
+        "id": "2eU4toVzsOs8DkLNmYwtSz",
+        "is_local": false,
+        "name": "Imaginary Friends",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2eU4toVzsOs8DkLNmYwtSz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5048YuHGr5eP7bEDu0ndTz"
+}

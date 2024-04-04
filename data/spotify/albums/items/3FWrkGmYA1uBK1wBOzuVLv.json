@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4bGPjihFEUsxf9LPn1epOv"
+      },
+      "href": "https://api.spotify.com/v1/artists/4bGPjihFEUsxf9LPn1epOv",
+      "id": "4bGPjihFEUsxf9LPn1epOv",
+      "name": "Martin Arteta",
+      "type": "artist",
+      "uri": "spotify:artist:4bGPjihFEUsxf9LPn1epOv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2uSVRVjYZ0PlJPdFHnBETu",
+      "id": "2uSVRVjYZ0PlJPdFHnBETu",
+      "name": "creamy",
+      "type": "artist",
+      "uri": "spotify:artist:2uSVRVjYZ0PlJPdFHnBETu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MDj296KJIfgWDNBtHzeFi",
+      "id": "2MDj296KJIfgWDNBtHzeFi",
+      "name": "11:11 Music Group",
+      "type": "artist",
+      "uri": "spotify:artist:2MDj296KJIfgWDNBtHzeFi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 B\u00d8RNS",
+      "type": "C"
+    },
+    {
+      "text": "2021 11:11 Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059741001178"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3FWrkGmYA1uBK1wBOzuVLv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3FWrkGmYA1uBK1wBOzuVLv",
+  "id": "3FWrkGmYA1uBK1wBOzuVLv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa4c423497bc0159317f61f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa4c423497bc0159317f61f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa4c423497bc0159317f61f9",
+      "width": 64
+    }
+  ],
+  "label": "11:11 Music Group",
+  "name": "Past Lives (8D Audio)",
+  "popularity": 35,
+  "release_date": "2021-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3FWrkGmYA1uBK1wBOzuVLv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4bGPjihFEUsxf9LPn1epOv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4bGPjihFEUsxf9LPn1epOv",
+            "id": "4bGPjihFEUsxf9LPn1epOv",
+            "name": "Martin Arteta",
+            "type": "artist",
+            "uri": "spotify:artist:4bGPjihFEUsxf9LPn1epOv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uSVRVjYZ0PlJPdFHnBETu",
+            "id": "2uSVRVjYZ0PlJPdFHnBETu",
+            "name": "creamy",
+            "type": "artist",
+            "uri": "spotify:artist:2uSVRVjYZ0PlJPdFHnBETu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi"
+            },
+            "href": "https://api.spotify.com/v1/artists/2MDj296KJIfgWDNBtHzeFi",
+            "id": "2MDj296KJIfgWDNBtHzeFi",
+            "name": "11:11 Music Group",
+            "type": "artist",
+            "uri": "spotify:artist:2MDj296KJIfgWDNBtHzeFi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135483,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EH71ervfD3aN2T84PnGz2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0EH71ervfD3aN2T84PnGz2",
+        "id": "0EH71ervfD3aN2T84PnGz2",
+        "is_local": false,
+        "name": "Past Lives (8D Audio)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0EH71ervfD3aN2T84PnGz2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3FWrkGmYA1uBK1wBOzuVLv"
+}

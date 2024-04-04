@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3tW3ud6mjS7C5LrPLkIHfz"
+      },
+      "href": "https://api.spotify.com/v1/artists/3tW3ud6mjS7C5LrPLkIHfz",
+      "id": "3tW3ud6mjS7C5LrPLkIHfz",
+      "name": "Shaky Vibes",
+      "type": "artist",
+      "uri": "spotify:artist:3tW3ud6mjS7C5LrPLkIHfz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 1192961 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 1192961 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195068251980"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1kcWsAKeG7D38yAuvujbRI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1kcWsAKeG7D38yAuvujbRI",
+  "id": "1kcWsAKeG7D38yAuvujbRI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de48b30b9ae8521677afcc17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de48b30b9ae8521677afcc17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de48b30b9ae8521677afcc17",
+      "width": 64
+    }
+  ],
+  "label": "1192961 Records DK",
+  "name": "Temperature",
+  "popularity": 0,
+  "release_date": "2020-02-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1kcWsAKeG7D38yAuvujbRI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3tW3ud6mjS7C5LrPLkIHfz"
+            },
+            "href": "https://api.spotify.com/v1/artists/3tW3ud6mjS7C5LrPLkIHfz",
+            "id": "3tW3ud6mjS7C5LrPLkIHfz",
+            "name": "Shaky Vibes",
+            "type": "artist",
+            "uri": "spotify:artist:3tW3ud6mjS7C5LrPLkIHfz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09dcaqm67nP1w6QbLPueLM"
+            },
+            "href": "https://api.spotify.com/v1/artists/09dcaqm67nP1w6QbLPueLM",
+            "id": "09dcaqm67nP1w6QbLPueLM",
+            "name": "Cam Clark",
+            "type": "artist",
+            "uri": "spotify:artist:09dcaqm67nP1w6QbLPueLM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 242625,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36mobZS4xtqqPqdJheb4MH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36mobZS4xtqqPqdJheb4MH",
+        "id": "36mobZS4xtqqPqdJheb4MH",
+        "is_local": false,
+        "name": "Temperature",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36mobZS4xtqqPqdJheb4MH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1kcWsAKeG7D38yAuvujbRI"
+}

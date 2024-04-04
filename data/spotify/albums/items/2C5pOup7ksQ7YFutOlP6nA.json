@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+      },
+      "href": "https://api.spotify.com/v1/artists/7MqnCTCAX6SsIYYdJCQj9B",
+      "id": "7MqnCTCAX6SsIYYdJCQj9B",
+      "name": "Pendulum",
+      "type": "artist",
+      "uri": "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Earstorm Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Earstorm Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497110292"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2C5pOup7ksQ7YFutOlP6nA",
+  "id": "2C5pOup7ksQ7YFutOlP6nA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1d53984a56564a3046678c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1d53984a56564a3046678c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1d53984a56564a3046678c9",
+      "width": 64
+    }
+  ],
+  "label": "Earstorm Records",
+  "name": "Nothing For Free",
+  "popularity": 0,
+  "release_date": "2020-09-17",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2C5pOup7ksQ7YFutOlP6nA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MqnCTCAX6SsIYYdJCQj9B",
+            "id": "7MqnCTCAX6SsIYYdJCQj9B",
+            "name": "Pendulum",
+            "type": "artist",
+            "uri": "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209515,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tm7cZeRQFQsc2Nrpv8PYj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tm7cZeRQFQsc2Nrpv8PYj",
+        "id": "1tm7cZeRQFQsc2Nrpv8PYj",
+        "is_local": false,
+        "name": "Driver",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1tm7cZeRQFQsc2Nrpv8PYj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+            },
+            "href": "https://api.spotify.com/v1/artists/7MqnCTCAX6SsIYYdJCQj9B",
+            "id": "7MqnCTCAX6SsIYYdJCQj9B",
+            "name": "Pendulum",
+            "type": "artist",
+            "uri": "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183049,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eJqLdEQ96D5Xzc406xkeZ",
+        "id": "7eJqLdEQ96D5Xzc406xkeZ",
+        "is_local": false,
+        "name": "Nothing For Free",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7eJqLdEQ96D5Xzc406xkeZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2C5pOup7ksQ7YFutOlP6nA"
+}

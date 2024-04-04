@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VpMNjJ6j7zObzkLmJK9bG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VpMNjJ6j7zObzkLmJK9bG",
+      "id": "1VpMNjJ6j7zObzkLmJK9bG",
+      "name": "Tickle Torture",
+      "type": "artist",
+      "uri": "spotify:artist:1VpMNjJ6j7zObzkLmJK9bG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Totally Gross National Product",
+      "type": "C"
+    },
+    {
+      "text": "2016 Totally Gross National Product",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526549715"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6zcWLYT1tFK1ad3XhaAfYI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6zcWLYT1tFK1ad3XhaAfYI",
+  "id": "6zcWLYT1tFK1ad3XhaAfYI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6c426578d940cfc710e0877",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6c426578d940cfc710e0877",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6c426578d940cfc710e0877",
+      "width": 64
+    }
+  ],
+  "label": "Totally Gross National Product",
+  "name": "Full Court Press",
+  "popularity": 0,
+  "release_date": "2016-08-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6zcWLYT1tFK1ad3XhaAfYI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VpMNjJ6j7zObzkLmJK9bG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VpMNjJ6j7zObzkLmJK9bG",
+            "id": "1VpMNjJ6j7zObzkLmJK9bG",
+            "name": "Tickle Torture",
+            "type": "artist",
+            "uri": "spotify:artist:1VpMNjJ6j7zObzkLmJK9bG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RGofWmykr8KICouK8pMUm",
+            "id": "3RGofWmykr8KICouK8pMUm",
+            "name": "Velvet Negroni",
+            "type": "artist",
+            "uri": "spotify:artist:3RGofWmykr8KICouK8pMUm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mFwRANBXP2qVJfZ8LTsbY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mFwRANBXP2qVJfZ8LTsbY",
+        "id": "1mFwRANBXP2qVJfZ8LTsbY",
+        "is_local": false,
+        "name": "Full Court Press",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mFwRANBXP2qVJfZ8LTsbY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6zcWLYT1tFK1ad3XhaAfYI"
+}

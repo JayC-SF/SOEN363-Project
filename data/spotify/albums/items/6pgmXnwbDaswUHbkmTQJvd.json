@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+      },
+      "href": "https://api.spotify.com/v1/artists/7zH0EpzFgwmwpnEprtvDig",
+      "id": "7zH0EpzFgwmwpnEprtvDig",
+      "name": "Juliet Fox",
+      "type": "artist",
+      "uri": "spotify:artist:7zH0EpzFgwmwpnEprtvDig"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 TREGAMBE",
+      "type": "C"
+    },
+    {
+      "text": "2021 TREGAMBE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260620833815"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6pgmXnwbDaswUHbkmTQJvd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6pgmXnwbDaswUHbkmTQJvd",
+  "id": "6pgmXnwbDaswUHbkmTQJvd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732be003d09b6af1707f50ae72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022be003d09b6af1707f50ae72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512be003d09b6af1707f50ae72",
+      "width": 64
+    }
+  ],
+  "label": "Tregambe",
+  "name": "Wanna Dance",
+  "popularity": 3,
+  "release_date": "2021-12-03",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6pgmXnwbDaswUHbkmTQJvd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zH0EpzFgwmwpnEprtvDig",
+            "id": "7zH0EpzFgwmwpnEprtvDig",
+            "name": "Juliet Fox",
+            "type": "artist",
+            "uri": "spotify:artist:7zH0EpzFgwmwpnEprtvDig"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 352992,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ycsKcDJwZs9HnUtmVFaN6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ycsKcDJwZs9HnUtmVFaN6",
+        "id": "5ycsKcDJwZs9HnUtmVFaN6",
+        "is_local": false,
+        "name": "Wanna Dance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ycsKcDJwZs9HnUtmVFaN6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zH0EpzFgwmwpnEprtvDig",
+            "id": "7zH0EpzFgwmwpnEprtvDig",
+            "name": "Juliet Fox",
+            "type": "artist",
+            "uri": "spotify:artist:7zH0EpzFgwmwpnEprtvDig"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264888,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wBuOnXvRw7k7C6Svuchd2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wBuOnXvRw7k7C6Svuchd2",
+        "id": "0wBuOnXvRw7k7C6Svuchd2",
+        "is_local": false,
+        "name": "Silence Speaks",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0wBuOnXvRw7k7C6Svuchd2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6pgmXnwbDaswUHbkmTQJvd"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+      },
+      "href": "https://api.spotify.com/v1/artists/0jt1EsJCeoQXLNDta4JF6c",
+      "id": "0jt1EsJCeoQXLNDta4JF6c",
+      "name": "Dizzy Fae",
+      "type": "artist",
+      "uri": "spotify:artist:0jt1EsJCeoQXLNDta4JF6c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Downtown Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Downtown Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196006393397"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4DEf7dix4OkYsi4bpsstRU",
+  "id": "4DEf7dix4OkYsi4bpsstRU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307fbc0a6be266c27382a9939",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207fbc0a6be266c27382a9939",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107fbc0a6be266c27382a9939",
+      "width": 64
+    }
+  ],
+  "label": "Downtown Records",
+  "name": "Body Move",
+  "popularity": 0,
+  "release_date": "2021-04-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4DEf7dix4OkYsi4bpsstRU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+            },
+            "href": "https://api.spotify.com/v1/artists/0jt1EsJCeoQXLNDta4JF6c",
+            "id": "0jt1EsJCeoQXLNDta4JF6c",
+            "name": "Dizzy Fae",
+            "type": "artist",
+            "uri": "spotify:artist:0jt1EsJCeoQXLNDta4JF6c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ymwozmsZ75AyUUTRhSOcQ",
+        "id": "4ymwozmsZ75AyUUTRhSOcQ",
+        "is_local": false,
+        "name": "Body Move",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ymwozmsZ75AyUUTRhSOcQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4DEf7dix4OkYsi4bpsstRU"
+}

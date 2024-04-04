@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+      },
+      "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
+      "id": "5gOJTI4TusSENizxhcG7jB",
+      "name": "David Bisbal",
+      "type": "artist",
+      "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+      },
+      "href": "https://api.spotify.com/v1/artists/07YUOmWljBTXwIseAUd9TW",
+      "id": "07YUOmWljBTXwIseAUd9TW",
+      "name": "Sebastian Yatra",
+      "type": "artist",
+      "uri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Universal Music Spain, S.L.U.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Universal Music Spain, S.L.U.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567434931"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/44QO7jYy2AkfO9rWT4b34p"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/44QO7jYy2AkfO9rWT4b34p",
+  "id": "44QO7jYy2AkfO9rWT4b34p",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4e0295fd02cb0d5ccbe22fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4e0295fd02cb0d5ccbe22fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4e0295fd02cb0d5ccbe22fe",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "A Partir De Hoy",
+  "popularity": 0,
+  "release_date": "2018-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/44QO7jYy2AkfO9rWT4b34p/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
+            "id": "5gOJTI4TusSENizxhcG7jB",
+            "name": "David Bisbal",
+            "type": "artist",
+            "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+            },
+            "href": "https://api.spotify.com/v1/artists/07YUOmWljBTXwIseAUd9TW",
+            "id": "07YUOmWljBTXwIseAUd9TW",
+            "name": "Sebastian Yatra",
+            "type": "artist",
+            "uri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196802,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FMNuRMIcPD6PDQGoi5Ifn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FMNuRMIcPD6PDQGoi5Ifn",
+        "id": "1FMNuRMIcPD6PDQGoi5Ifn",
+        "is_local": false,
+        "name": "A Partir De Hoy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1FMNuRMIcPD6PDQGoi5Ifn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:44QO7jYy2AkfO9rWT4b34p"
+}

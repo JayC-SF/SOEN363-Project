@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ndq6RparrhEoceel7LC4Z",
+      "id": "2Ndq6RparrhEoceel7LC4Z",
+      "name": "Anna Yvette",
+      "type": "artist",
+      "uri": "spotify:artist:2Ndq6RparrhEoceel7LC4Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Mother Unicorn Productions",
+      "type": "C"
+    },
+    {
+      "text": "2018 Mother Unicorn Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859728250194"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1z57zAixSZ4pA7koB82kZv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1z57zAixSZ4pA7koB82kZv",
+  "id": "1z57zAixSZ4pA7koB82kZv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d797d2bf39d2d4f1c4884db5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d797d2bf39d2d4f1c4884db5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d797d2bf39d2d4f1c4884db5",
+      "width": 64
+    }
+  ],
+  "label": "Mother Unicorn Productions",
+  "name": "Shooting Star",
+  "popularity": 0,
+  "release_date": "2018-09-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1z57zAixSZ4pA7koB82kZv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Ndq6RparrhEoceel7LC4Z",
+            "id": "2Ndq6RparrhEoceel7LC4Z",
+            "name": "Anna Yvette",
+            "type": "artist",
+            "uri": "spotify:artist:2Ndq6RparrhEoceel7LC4Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 239838,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6N1TEzD2JkPO5GZ1Yfk54D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6N1TEzD2JkPO5GZ1Yfk54D",
+        "id": "6N1TEzD2JkPO5GZ1Yfk54D",
+        "is_local": false,
+        "name": "Shooting Star",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6N1TEzD2JkPO5GZ1Yfk54D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1z57zAixSZ4pA7koB82kZv"
+}

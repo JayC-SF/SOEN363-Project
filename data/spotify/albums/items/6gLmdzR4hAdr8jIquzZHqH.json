@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+      },
+      "href": "https://api.spotify.com/v1/artists/5lwmRuXgjX8xIwlnauTZIP",
+      "id": "5lwmRuXgjX8xIwlnauTZIP",
+      "name": "Romeo Santos",
+      "type": "artist",
+      "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Sony Music Entertainment US Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444114004"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6gLmdzR4hAdr8jIquzZHqH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6gLmdzR4hAdr8jIquzZHqH",
+  "id": "6gLmdzR4hAdr8jIquzZHqH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735600de85bbd89a844e2ba034",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025600de85bbd89a844e2ba034",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515600de85bbd89a844e2ba034",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Latin",
+  "name": "Propuesta Indecente",
+  "popularity": 2,
+  "release_date": "2013-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6gLmdzR4hAdr8jIquzZHqH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+            },
+            "href": "https://api.spotify.com/v1/artists/5lwmRuXgjX8xIwlnauTZIP",
+            "id": "5lwmRuXgjX8xIwlnauTZIP",
+            "name": "Romeo Santos",
+            "type": "artist",
+            "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 235226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FwEmbPo3d3USlMzuulT69"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6FwEmbPo3d3USlMzuulT69",
+        "id": "6FwEmbPo3d3USlMzuulT69",
+        "is_local": false,
+        "name": "Propuesta Indecente",
+        "preview_url": "https://p.scdn.co/mp3-preview/517abecfde814f6ecb4459b4d2ff4c250ed80ec5?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6FwEmbPo3d3USlMzuulT69"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6gLmdzR4hAdr8jIquzZHqH"
+}

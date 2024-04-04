@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+      },
+      "href": "https://api.spotify.com/v1/artists/6lcwlkAjBPSKnFBZjjZFJs",
+      "id": "6lcwlkAjBPSKnFBZjjZFJs",
+      "name": "Alex G",
+      "type": "artist",
+      "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3354997 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3354997 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196399353343"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/76sK7zWIt4Q69dJiHxZLGS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/76sK7zWIt4Q69dJiHxZLGS",
+  "id": "76sK7zWIt4Q69dJiHxZLGS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e898d1e064972d0001a0a23",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e898d1e064972d0001a0a23",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e898d1e064972d0001a0a23",
+      "width": 64
+    }
+  ],
+  "label": "3354997 Records DK",
+  "name": "Treehouse",
+  "popularity": 0,
+  "release_date": "2021-09-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/76sK7zWIt4Q69dJiHxZLGS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lcwlkAjBPSKnFBZjjZFJs",
+            "id": "6lcwlkAjBPSKnFBZjjZFJs",
+            "name": "Alex G",
+            "type": "artist",
+            "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158847,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nK4msMpgwVVaog02hJ50j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nK4msMpgwVVaog02hJ50j",
+        "id": "3nK4msMpgwVVaog02hJ50j",
+        "is_local": false,
+        "name": "Treehouse",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3nK4msMpgwVVaog02hJ50j"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:76sK7zWIt4Q69dJiHxZLGS"
+}

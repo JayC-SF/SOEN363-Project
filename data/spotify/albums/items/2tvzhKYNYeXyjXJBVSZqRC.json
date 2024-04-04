@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18t5cgStJpnwSDQeIRjlqH"
+      },
+      "href": "https://api.spotify.com/v1/artists/18t5cgStJpnwSDQeIRjlqH",
+      "id": "18t5cgStJpnwSDQeIRjlqH",
+      "name": "JayDot Geek",
+      "type": "artist",
+      "uri": "spotify:artist:18t5cgStJpnwSDQeIRjlqH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 JayDot Geek",
+      "type": "C"
+    },
+    {
+      "text": "2021 JayDot Geek",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196022883193"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2tvzhKYNYeXyjXJBVSZqRC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2tvzhKYNYeXyjXJBVSZqRC",
+  "id": "2tvzhKYNYeXyjXJBVSZqRC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273505055528412eec766d4a3cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02505055528412eec766d4a3cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851505055528412eec766d4a3cd",
+      "width": 64
+    }
+  ],
+  "label": "GEEK ENTERTAINMENT",
+  "name": "PSA",
+  "popularity": 0,
+  "release_date": "2021-03-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2tvzhKYNYeXyjXJBVSZqRC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/18t5cgStJpnwSDQeIRjlqH"
+            },
+            "href": "https://api.spotify.com/v1/artists/18t5cgStJpnwSDQeIRjlqH",
+            "id": "18t5cgStJpnwSDQeIRjlqH",
+            "name": "JayDot Geek",
+            "type": "artist",
+            "uri": "spotify:artist:18t5cgStJpnwSDQeIRjlqH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jVAqTL4NbB88q4lj94VX9",
+            "id": "3jVAqTL4NbB88q4lj94VX9",
+            "name": "Sha EK",
+            "type": "artist",
+            "uri": "spotify:artist:3jVAqTL4NbB88q4lj94VX9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139092,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zzSEASxAonWuWsBfowLHR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zzSEASxAonWuWsBfowLHR",
+        "id": "2zzSEASxAonWuWsBfowLHR",
+        "is_local": false,
+        "name": "PSA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zzSEASxAonWuWsBfowLHR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2tvzhKYNYeXyjXJBVSZqRC"
+}

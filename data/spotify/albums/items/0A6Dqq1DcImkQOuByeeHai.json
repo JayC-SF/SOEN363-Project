@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4MHb6fhJc04mqFT0dVVDSV"
+      },
+      "href": "https://api.spotify.com/v1/artists/4MHb6fhJc04mqFT0dVVDSV",
+      "id": "4MHb6fhJc04mqFT0dVVDSV",
+      "name": "Memoxa",
+      "type": "artist",
+      "uri": "spotify:artist:4MHb6fhJc04mqFT0dVVDSV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Far Apart",
+      "type": "C"
+    },
+    {
+      "text": "2023 Far Apart",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "198091410218"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0A6Dqq1DcImkQOuByeeHai"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0A6Dqq1DcImkQOuByeeHai",
+  "id": "0A6Dqq1DcImkQOuByeeHai",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c63bf4bffb2cab99c1d0b42",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c63bf4bffb2cab99c1d0b42",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c63bf4bffb2cab99c1d0b42",
+      "width": 64
+    }
+  ],
+  "label": "Far Apart",
+  "name": "Hazel (Far Apart)",
+  "popularity": 5,
+  "release_date": "1998-07-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0A6Dqq1DcImkQOuByeeHai/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4MHb6fhJc04mqFT0dVVDSV"
+            },
+            "href": "https://api.spotify.com/v1/artists/4MHb6fhJc04mqFT0dVVDSV",
+            "id": "4MHb6fhJc04mqFT0dVVDSV",
+            "name": "Memoxa",
+            "type": "artist",
+            "uri": "spotify:artist:4MHb6fhJc04mqFT0dVVDSV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 332695,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1d11T7yXPbvEEIPIcFVHhP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1d11T7yXPbvEEIPIcFVHhP",
+        "id": "1d11T7yXPbvEEIPIcFVHhP",
+        "is_local": false,
+        "name": "Hazel (Far Apart)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1d11T7yXPbvEEIPIcFVHhP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0A6Dqq1DcImkQOuByeeHai"
+}

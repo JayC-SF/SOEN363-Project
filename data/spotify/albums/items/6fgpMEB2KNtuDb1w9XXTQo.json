@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+      },
+      "href": "https://api.spotify.com/v1/artists/5OdOZHljmANwGvN71E6KJm",
+      "id": "5OdOZHljmANwGvN71E6KJm",
+      "name": "A. Blomqvist",
+      "type": "artist",
+      "uri": "spotify:artist:5OdOZHljmANwGvN71E6KJm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 A. Blomqvist under exclusive license to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2021 A. Blomqvist",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167145691"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6fgpMEB2KNtuDb1w9XXTQo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6fgpMEB2KNtuDb1w9XXTQo",
+  "id": "6fgpMEB2KNtuDb1w9XXTQo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b0b52ab6a17cff940d9cd08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b0b52ab6a17cff940d9cd08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b0b52ab6a17cff940d9cd08",
+      "width": 64
+    }
+  ],
+  "label": "frtyfve",
+  "name": "Lumihiutaleet",
+  "popularity": 0,
+  "release_date": "2021-01-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6fgpMEB2KNtuDb1w9XXTQo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OdOZHljmANwGvN71E6KJm",
+            "id": "5OdOZHljmANwGvN71E6KJm",
+            "name": "A. Blomqvist",
+            "type": "artist",
+            "uri": "spotify:artist:5OdOZHljmANwGvN71E6KJm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157905,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qrepm2uwVgxlAomrCNMqY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qrepm2uwVgxlAomrCNMqY",
+        "id": "1qrepm2uwVgxlAomrCNMqY",
+        "is_local": false,
+        "name": "Lumihiutaleet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1qrepm2uwVgxlAomrCNMqY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6fgpMEB2KNtuDb1w9XXTQo"
+}

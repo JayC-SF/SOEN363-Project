@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ETJQforv5OXgDgidQv9qd",
+      "id": "0ETJQforv5OXgDgidQv9qd",
+      "name": "HI-LO",
+      "type": "artist",
+      "uri": "spotify:artist:0ETJQforv5OXgDgidQv9qd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Octopus Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2020 Octopus Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119617886"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4l7hCmTdnAnZ38xVos3UmX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4l7hCmTdnAnZ38xVos3UmX",
+  "id": "4l7hCmTdnAnZ38xVos3UmX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea25ad8e5a1c1adf6329320d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea25ad8e5a1c1adf6329320d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea25ad8e5a1c1adf6329320d",
+      "width": 64
+    }
+  ],
+  "label": "Octopus Recordings",
+  "name": "Kronos",
+  "popularity": 35,
+  "release_date": "2020-09-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4l7hCmTdnAnZ38xVos3UmX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ETJQforv5OXgDgidQv9qd",
+            "id": "0ETJQforv5OXgDgidQv9qd",
+            "name": "HI-LO",
+            "type": "artist",
+            "uri": "spotify:artist:0ETJQforv5OXgDgidQv9qd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 287291,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eiEPJ16dOxe0hME3NWxfP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6eiEPJ16dOxe0hME3NWxfP",
+        "id": "6eiEPJ16dOxe0hME3NWxfP",
+        "is_local": false,
+        "name": "Kronos - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6eiEPJ16dOxe0hME3NWxfP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4l7hCmTdnAnZ38xVos3UmX"
+}

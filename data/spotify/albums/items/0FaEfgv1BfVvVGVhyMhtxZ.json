@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5wFVlrKlqGnkyePLp5qR86"
+      },
+      "href": "https://api.spotify.com/v1/artists/5wFVlrKlqGnkyePLp5qR86",
+      "id": "5wFVlrKlqGnkyePLp5qR86",
+      "name": "Mr Guwapo",
+      "type": "artist",
+      "uri": "spotify:artist:5wFVlrKlqGnkyePLp5qR86"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Mr Guwapo",
+      "type": "C"
+    },
+    {
+      "text": "2020 Mr Guwapo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194923717166"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0FaEfgv1BfVvVGVhyMhtxZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0FaEfgv1BfVvVGVhyMhtxZ",
+  "id": "0FaEfgv1BfVvVGVhyMhtxZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27360d21a776e7f00e07762a1bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0260d21a776e7f00e07762a1bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485160d21a776e7f00e07762a1bf",
+      "width": 64
+    }
+  ],
+  "label": "Mr Guwapo",
+  "name": "Bang",
+  "popularity": 0,
+  "release_date": "2020-02-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0FaEfgv1BfVvVGVhyMhtxZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wFVlrKlqGnkyePLp5qR86"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wFVlrKlqGnkyePLp5qR86",
+            "id": "5wFVlrKlqGnkyePLp5qR86",
+            "name": "Mr Guwapo",
+            "type": "artist",
+            "uri": "spotify:artist:5wFVlrKlqGnkyePLp5qR86"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222930,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21PT2ODT3WYT6f0GfGhN5u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21PT2ODT3WYT6f0GfGhN5u",
+        "id": "21PT2ODT3WYT6f0GfGhN5u",
+        "is_local": false,
+        "name": "Bang",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:21PT2ODT3WYT6f0GfGhN5u"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0FaEfgv1BfVvVGVhyMhtxZ"
+}

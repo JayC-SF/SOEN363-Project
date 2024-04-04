@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GMYJwaziB4ekv1Y6wCDWS",
+      "id": "6GMYJwaziB4ekv1Y6wCDWS",
+      "name": "Soulja Boy",
+      "type": "artist",
+      "uri": "spotify:artist:6GMYJwaziB4ekv1Y6wCDWS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2009 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2009 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527034218"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ndsaJGQOZI0U9dELkHAeY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ndsaJGQOZI0U9dELkHAeY",
+  "id": "2ndsaJGQOZI0U9dELkHAeY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734605c5f693b9df43e72149ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024605c5f693b9df43e72149ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514605c5f693b9df43e72149ed",
+      "width": 64
+    }
+  ],
+  "label": "Mr. Collipark",
+  "name": "Kiss Me Thru The Phone",
+  "popularity": 0,
+  "release_date": "2009-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ndsaJGQOZI0U9dELkHAeY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GMYJwaziB4ekv1Y6wCDWS",
+            "id": "6GMYJwaziB4ekv1Y6wCDWS",
+            "name": "Soulja Boy",
+            "type": "artist",
+            "uri": "spotify:artist:6GMYJwaziB4ekv1Y6wCDWS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4p07QU02SrLsaORo25h2Lg",
+            "id": "4p07QU02SrLsaORo25h2Lg",
+            "name": "Sammie",
+            "type": "artist",
+            "uri": "spotify:artist:4p07QU02SrLsaORo25h2Lg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194306,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nDqJMKcSTtYlGK6OQ3sLC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nDqJMKcSTtYlGK6OQ3sLC",
+        "id": "0nDqJMKcSTtYlGK6OQ3sLC",
+        "is_local": false,
+        "name": "Kiss Me Thru The Phone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0nDqJMKcSTtYlGK6OQ3sLC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ndsaJGQOZI0U9dELkHAeY"
+}

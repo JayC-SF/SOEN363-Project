@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Xi6LSfFqv26XgP9NKN26U",
+      "id": "4Xi6LSfFqv26XgP9NKN26U",
+      "name": "AJ Tracey",
+      "type": "artist",
+      "uri": "spotify:artist:4Xi6LSfFqv26XgP9NKN26U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 AJ Tracey",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 AJ Tracey",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296941771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7Dh2syNOQuurJTUWnSftnn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7Dh2syNOQuurJTUWnSftnn",
+  "id": "7Dh2syNOQuurJTUWnSftnn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27344230dfdb6617e8e64638653",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0244230dfdb6617e8e64638653",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485144230dfdb6617e8e64638653",
+      "width": 64
+    }
+  ],
+  "label": "AJ Tracey",
+  "name": "LO(V/S)ER",
+  "popularity": 0,
+  "release_date": "2018-08-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7Dh2syNOQuurJTUWnSftnn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Xi6LSfFqv26XgP9NKN26U",
+            "id": "4Xi6LSfFqv26XgP9NKN26U",
+            "name": "AJ Tracey",
+            "type": "artist",
+            "uri": "spotify:artist:4Xi6LSfFqv26XgP9NKN26U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DvTfAgZvGkIOiKYSmHpIo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0DvTfAgZvGkIOiKYSmHpIo",
+        "id": "0DvTfAgZvGkIOiKYSmHpIo",
+        "is_local": false,
+        "name": "LO(V/S)ER",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0DvTfAgZvGkIOiKYSmHpIo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7Dh2syNOQuurJTUWnSftnn"
+}

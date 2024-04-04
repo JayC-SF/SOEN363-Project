@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+      },
+      "href": "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+      "id": "0jNDKefhfSbLR9sFvcPLHo",
+      "name": "San Holo",
+      "type": "artist",
+      "uri": "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Monstercat",
+      "type": "C"
+    },
+    {
+      "text": "2016 Monstercat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859716615271"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2wWL96xyarnnffmkcPoFln"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2wWL96xyarnnffmkcPoFln",
+  "id": "2wWL96xyarnnffmkcPoFln",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ccfc14cb392153da6f87f804",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ccfc14cb392153da6f87f804",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ccfc14cb392153da6f87f804",
+      "width": 64
+    }
+  ],
+  "label": "Monstercat",
+  "name": "New Sky",
+  "popularity": 0,
+  "release_date": "2016-03-11",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2wWL96xyarnnffmkcPoFln/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+            "id": "0jNDKefhfSbLR9sFvcPLHo",
+            "name": "San Holo",
+            "type": "artist",
+            "uri": "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272374,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IViF21qjVOcU627fobtSe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6IViF21qjVOcU627fobtSe",
+        "id": "6IViF21qjVOcU627fobtSe",
+        "is_local": false,
+        "name": "New Sky",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6IViF21qjVOcU627fobtSe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+            "id": "0jNDKefhfSbLR9sFvcPLHo",
+            "name": "San Holo",
+            "type": "artist",
+            "uri": "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HOeKK6JSrvz00FoQk0biZ",
+            "id": "2HOeKK6JSrvz00FoQk0biZ",
+            "name": "The Nicholas",
+            "type": "artist",
+            "uri": "spotify:artist:2HOeKK6JSrvz00FoQk0biZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 320583,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qAbwj3B6H7ztbEcO9bN9T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qAbwj3B6H7ztbEcO9bN9T",
+        "id": "5qAbwj3B6H7ztbEcO9bN9T",
+        "is_local": false,
+        "name": "They Just Haven't Seen It (feat. the Nicholas)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5qAbwj3B6H7ztbEcO9bN9T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2wWL96xyarnnffmkcPoFln"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+      },
+      "href": "https://api.spotify.com/v1/artists/5wugb0kaq0J6nyQ5Xgd17i",
+      "id": "5wugb0kaq0J6nyQ5Xgd17i",
+      "name": "Aly & AJ",
+      "type": "artist",
+      "uri": "spotify:artist:5wugb0kaq0J6nyQ5Xgd17i"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Aly & AJ Music LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Aly & AJ Music LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167145790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5aBuJMMRWUwBaUN1e3Mjzu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5aBuJMMRWUwBaUN1e3Mjzu",
+  "id": "5aBuJMMRWUwBaUN1e3Mjzu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dac8ab84aeb7f6e638770a08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dac8ab84aeb7f6e638770a08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dac8ab84aeb7f6e638770a08",
+      "width": 64
+    }
+  ],
+  "label": "Aly & AJ Music LLC",
+  "name": "Listen!!!",
+  "popularity": 0,
+  "release_date": "2021-01-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5aBuJMMRWUwBaUN1e3Mjzu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wugb0kaq0J6nyQ5Xgd17i",
+            "id": "5wugb0kaq0J6nyQ5Xgd17i",
+            "name": "Aly & AJ",
+            "type": "artist",
+            "uri": "spotify:artist:5wugb0kaq0J6nyQ5Xgd17i"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AyINldeVk1tkHuPGRvW0i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3AyINldeVk1tkHuPGRvW0i",
+        "id": "3AyINldeVk1tkHuPGRvW0i",
+        "is_local": false,
+        "name": "Listen!!!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3AyINldeVk1tkHuPGRvW0i"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5aBuJMMRWUwBaUN1e3Mjzu"
+}

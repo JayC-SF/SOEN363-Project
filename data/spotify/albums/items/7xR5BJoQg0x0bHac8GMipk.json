@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+      },
+      "href": "https://api.spotify.com/v1/artists/6GkJh85o22LfD2vgL9DP6f",
+      "id": "6GkJh85o22LfD2vgL9DP6f",
+      "name": "Dirty Heads",
+      "type": "artist",
+      "uri": "spotify:artist:6GkJh85o22LfD2vgL9DP6f"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Five Seven Music",
+      "type": "C"
+    },
+    {
+      "text": "2017 Five Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320025207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7xR5BJoQg0x0bHac8GMipk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7xR5BJoQg0x0bHac8GMipk",
+  "id": "7xR5BJoQg0x0bHac8GMipk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e75e886f4f83e3d745bba40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e75e886f4f83e3d745bba40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e75e886f4f83e3d745bba40",
+      "width": 64
+    }
+  ],
+  "label": "Five Seven Music",
+  "name": "Vacation",
+  "popularity": 5,
+  "release_date": "2017-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7xR5BJoQg0x0bHac8GMipk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GkJh85o22LfD2vgL9DP6f",
+            "id": "6GkJh85o22LfD2vgL9DP6f",
+            "name": "Dirty Heads",
+            "type": "artist",
+            "uri": "spotify:artist:6GkJh85o22LfD2vgL9DP6f"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209721,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cdy4PbCdDZZNjyxoZyE0c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cdy4PbCdDZZNjyxoZyE0c",
+        "id": "7cdy4PbCdDZZNjyxoZyE0c",
+        "is_local": false,
+        "name": "Vacation",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7cdy4PbCdDZZNjyxoZyE0c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7xR5BJoQg0x0bHac8GMipk"
+}

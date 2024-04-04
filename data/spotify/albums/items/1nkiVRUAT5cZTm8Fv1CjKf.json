@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+      },
+      "href": "https://api.spotify.com/v1/artists/4jUSZA2wRFImlXFhsV3Ab6",
+      "id": "4jUSZA2wRFImlXFhsV3Ab6",
+      "name": "Daniel Schrage",
+      "type": "artist",
+      "uri": "spotify:artist:4jUSZA2wRFImlXFhsV3Ab6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Pianoramix",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Pianoramix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300052311"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1nkiVRUAT5cZTm8Fv1CjKf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1nkiVRUAT5cZTm8Fv1CjKf",
+  "id": "1nkiVRUAT5cZTm8Fv1CjKf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731908135cbf47c220d4b39d86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021908135cbf47c220d4b39d86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511908135cbf47c220d4b39d86",
+      "width": 64
+    }
+  ],
+  "label": "Pianoramix",
+  "name": "A Matter of Time",
+  "popularity": 0,
+  "release_date": "2023-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1nkiVRUAT5cZTm8Fv1CjKf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4jUSZA2wRFImlXFhsV3Ab6",
+            "id": "4jUSZA2wRFImlXFhsV3Ab6",
+            "name": "Daniel Schrage",
+            "type": "artist",
+            "uri": "spotify:artist:4jUSZA2wRFImlXFhsV3Ab6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hqvSl5O0b3fznC1N6GFyv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hqvSl5O0b3fznC1N6GFyv",
+        "id": "6hqvSl5O0b3fznC1N6GFyv",
+        "is_local": false,
+        "name": "A Matter of Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6hqvSl5O0b3fznC1N6GFyv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1nkiVRUAT5cZTm8Fv1CjKf"
+}

@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "name": "Olivia Rodrigo",
+      "type": "artist",
+      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602438094479"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6yWrpE2mIyPHZGruU12jhP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6yWrpE2mIyPHZGruU12jhP",
+  "id": "6yWrpE2mIyPHZGruU12jhP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b601cded0da25182a2bd79c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b601cded0da25182a2bd79c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b601cded0da25182a2bd79c",
+      "width": 64
+    }
+  ],
+  "label": "Olivia Rodrigo PS",
+  "name": "deja vu",
+  "popularity": 5,
+  "release_date": "2021-04-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6yWrpE2mIyPHZGruU12jhP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "available_markets": [
+          "KR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215507,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pxSWLTNNDqVfCttX1iodN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pxSWLTNNDqVfCttX1iodN",
+        "id": "0pxSWLTNNDqVfCttX1iodN",
+        "is_local": false,
+        "name": "deja vu",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0pxSWLTNNDqVfCttX1iodN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6yWrpE2mIyPHZGruU12jhP"
+}

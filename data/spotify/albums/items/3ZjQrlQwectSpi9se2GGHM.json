@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+      "id": "60d24wfXkVzDSfLS6hyCjZ",
+      "name": "Martin Garrix",
+      "type": "artist",
+      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 SpinninRecords.com",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 SpinninRecords.com",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296625732"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ZjQrlQwectSpi9se2GGHM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ZjQrlQwectSpi9se2GGHM",
+  "id": "3ZjQrlQwectSpi9se2GGHM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8488984744a6e399e01bc0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8488984744a6e399e01bc0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8488984744a6e399e01bc0e",
+      "width": 64
+    }
+  ],
+  "label": "Spinnin' Records",
+  "name": "Animals",
+  "popularity": 0,
+  "release_date": "2013",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ZjQrlQwectSpi9se2GGHM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+            "id": "60d24wfXkVzDSfLS6hyCjZ",
+            "name": "Martin Garrix",
+            "type": "artist",
+            "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303040,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vKfym6hgeJxxyyVpiXBBX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vKfym6hgeJxxyyVpiXBBX",
+        "id": "7vKfym6hgeJxxyyVpiXBBX",
+        "is_local": false,
+        "name": "Animals",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vKfym6hgeJxxyyVpiXBBX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+            "id": "60d24wfXkVzDSfLS6hyCjZ",
+            "name": "Martin Garrix",
+            "type": "artist",
+            "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176117,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7j9zjqvDt3g5hHUSusUPmG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7j9zjqvDt3g5hHUSusUPmG",
+        "id": "7j9zjqvDt3g5hHUSusUPmG",
+        "is_local": false,
+        "name": "Animals - Radio Edit",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7j9zjqvDt3g5hHUSusUPmG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3ZjQrlQwectSpi9se2GGHM"
+}

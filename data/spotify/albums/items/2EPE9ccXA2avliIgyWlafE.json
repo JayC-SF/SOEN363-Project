@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1vzCgfQRAtr9tAlzR9LfGI"
+      },
+      "href": "https://api.spotify.com/v1/artists/1vzCgfQRAtr9tAlzR9LfGI",
+      "id": "1vzCgfQRAtr9tAlzR9LfGI",
+      "name": "ELI DJ",
+      "type": "artist",
+      "uri": "spotify:artist:1vzCgfQRAtr9tAlzR9LfGI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Eli Dejay",
+      "type": "C"
+    },
+    {
+      "text": "2023 Eli Dejay",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "711709739565"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2EPE9ccXA2avliIgyWlafE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2EPE9ccXA2avliIgyWlafE",
+  "id": "2EPE9ccXA2avliIgyWlafE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e605788557f2dd6f7066e11",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e605788557f2dd6f7066e11",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e605788557f2dd6f7066e11",
+      "width": 64
+    }
+  ],
+  "label": "Eli Dejay",
+  "name": "Kapital Rkt 2",
+  "popularity": 0,
+  "release_date": "2023-08-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2EPE9ccXA2avliIgyWlafE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1vzCgfQRAtr9tAlzR9LfGI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1vzCgfQRAtr9tAlzR9LfGI",
+            "id": "1vzCgfQRAtr9tAlzR9LfGI",
+            "name": "ELI DJ",
+            "type": "artist",
+            "uri": "spotify:artist:1vzCgfQRAtr9tAlzR9LfGI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158406,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FTF7Jhrprc3MytSu74wCE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FTF7Jhrprc3MytSu74wCE",
+        "id": "2FTF7Jhrprc3MytSu74wCE",
+        "is_local": false,
+        "name": "Kapital Rkt 2",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2FTF7Jhrprc3MytSu74wCE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2EPE9ccXA2avliIgyWlafE"
+}

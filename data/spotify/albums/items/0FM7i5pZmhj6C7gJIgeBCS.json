@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0MliYj4eUtEoxXU56zBOqx",
+      "id": "0MliYj4eUtEoxXU56zBOqx",
+      "name": "lieu",
+      "type": "artist",
+      "uri": "spotify:artist:0MliYj4eUtEoxXU56zBOqx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 lieu",
+      "type": "C"
+    },
+    {
+      "text": "2021 lieu",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "689690820107"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0FM7i5pZmhj6C7gJIgeBCS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0FM7i5pZmhj6C7gJIgeBCS",
+  "id": "0FM7i5pZmhj6C7gJIgeBCS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738300df92c5a45ffd0b05c527",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028300df92c5a45ffd0b05c527",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518300df92c5a45ffd0b05c527",
+      "width": 64
+    }
+  ],
+  "label": "lieu",
+  "name": "litter",
+  "popularity": 0,
+  "release_date": "2021-11-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0FM7i5pZmhj6C7gJIgeBCS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0MliYj4eUtEoxXU56zBOqx",
+            "id": "0MliYj4eUtEoxXU56zBOqx",
+            "name": "lieu",
+            "type": "artist",
+            "uri": "spotify:artist:0MliYj4eUtEoxXU56zBOqx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 93596,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67T8VexJVzVFiv742n9tOa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/67T8VexJVzVFiv742n9tOa",
+        "id": "67T8VexJVzVFiv742n9tOa",
+        "is_local": false,
+        "name": "litter",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:67T8VexJVzVFiv742n9tOa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0FM7i5pZmhj6C7gJIgeBCS"
+}

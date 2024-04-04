@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+      },
+      "href": "https://api.spotify.com/v1/artists/52MFUXZatn0KsT2bdPQI2a",
+      "id": "52MFUXZatn0KsT2bdPQI2a",
+      "name": "Aaron Krause",
+      "type": "artist",
+      "uri": "spotify:artist:52MFUXZatn0KsT2bdPQI2a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Aaron Krause",
+      "type": "C"
+    },
+    {
+      "text": "2013 Aaron Krause",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859711581779"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0AQ6evdrI5Nkmp5lDYYCCh",
+  "id": "0AQ6evdrI5Nkmp5lDYYCCh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273893c76e9f2b45a53e8deca33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02893c76e9f2b45a53e8deca33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851893c76e9f2b45a53e8deca33",
+      "width": 64
+    }
+  ],
+  "label": "Aaron Krause",
+  "name": "Every Breath You Take (feat. Liza Anne)",
+  "popularity": 24,
+  "release_date": "2013-11-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0AQ6evdrI5Nkmp5lDYYCCh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+            },
+            "href": "https://api.spotify.com/v1/artists/52MFUXZatn0KsT2bdPQI2a",
+            "id": "52MFUXZatn0KsT2bdPQI2a",
+            "name": "Aaron Krause",
+            "type": "artist",
+            "uri": "spotify:artist:52MFUXZatn0KsT2bdPQI2a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/426VSUSxx9puUYFgp7l7EQ",
+            "id": "426VSUSxx9puUYFgp7l7EQ",
+            "name": "Liza Anne",
+            "type": "artist",
+            "uri": "spotify:artist:426VSUSxx9puUYFgp7l7EQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 223893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65YDMuJmyF8cxTrk4Xogy0",
+        "id": "65YDMuJmyF8cxTrk4Xogy0",
+        "is_local": false,
+        "name": "Every Breath You Take (feat. Liza Anne)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65YDMuJmyF8cxTrk4Xogy0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0AQ6evdrI5Nkmp5lDYYCCh"
+}

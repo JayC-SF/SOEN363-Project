@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0sh7gKJWRSON9f2Wlqh4XX"
+      },
+      "href": "https://api.spotify.com/v1/artists/0sh7gKJWRSON9f2Wlqh4XX",
+      "id": "0sh7gKJWRSON9f2Wlqh4XX",
+      "name": "BRVTHVMVNX",
+      "type": "artist",
+      "uri": "spotify:artist:0sh7gKJWRSON9f2Wlqh4XX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 BRVTHVMVNX",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 BRVTHVMVNX",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196292300246"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/08RjeCmaMvwGo0vagRYesE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/08RjeCmaMvwGo0vagRYesE",
+  "id": "08RjeCmaMvwGo0vagRYesE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739550069b34e57cc5eec1a782",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029550069b34e57cc5eec1a782",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519550069b34e57cc5eec1a782",
+      "width": 64
+    }
+  ],
+  "label": "BRVTHVMVNX",
+  "name": "Raimus Street",
+  "popularity": 0,
+  "release_date": "2021-08-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/08RjeCmaMvwGo0vagRYesE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0sh7gKJWRSON9f2Wlqh4XX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0sh7gKJWRSON9f2Wlqh4XX",
+            "id": "0sh7gKJWRSON9f2Wlqh4XX",
+            "name": "BRVTHVMVNX",
+            "type": "artist",
+            "uri": "spotify:artist:0sh7gKJWRSON9f2Wlqh4XX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150471,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tiAzAhADWCEeDjXzsv34p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tiAzAhADWCEeDjXzsv34p",
+        "id": "7tiAzAhADWCEeDjXzsv34p",
+        "is_local": false,
+        "name": "Raimus Street",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7tiAzAhADWCEeDjXzsv34p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:08RjeCmaMvwGo0vagRYesE"
+}

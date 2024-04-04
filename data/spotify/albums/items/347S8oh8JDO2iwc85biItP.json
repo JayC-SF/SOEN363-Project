@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hCzdMMvBblxJRezKNz5BY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hCzdMMvBblxJRezKNz5BY",
+      "id": "2hCzdMMvBblxJRezKNz5BY",
+      "name": "Archie Faulks",
+      "type": "artist",
+      "uri": "spotify:artist:2hCzdMMvBblxJRezKNz5BY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Cartoon Records Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2018 Cartoon Records Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526345867"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/347S8oh8JDO2iwc85biItP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/347S8oh8JDO2iwc85biItP",
+  "id": "347S8oh8JDO2iwc85biItP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc6179feb3ed5b06d2d364cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc6179feb3ed5b06d2d364cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc6179feb3ed5b06d2d364cb",
+      "width": 64
+    }
+  ],
+  "label": "Cartoon Records Ltd",
+  "name": "It Rains",
+  "popularity": 0,
+  "release_date": "2018-08-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/347S8oh8JDO2iwc85biItP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hCzdMMvBblxJRezKNz5BY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hCzdMMvBblxJRezKNz5BY",
+            "id": "2hCzdMMvBblxJRezKNz5BY",
+            "name": "Archie Faulks",
+            "type": "artist",
+            "uri": "spotify:artist:2hCzdMMvBblxJRezKNz5BY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MZajGTJPJijLNoYtergBq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MZajGTJPJijLNoYtergBq",
+        "id": "4MZajGTJPJijLNoYtergBq",
+        "is_local": false,
+        "name": "It Rains",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MZajGTJPJijLNoYtergBq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:347S8oh8JDO2iwc85biItP"
+}

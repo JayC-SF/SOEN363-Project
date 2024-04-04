@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+      },
+      "href": "https://api.spotify.com/v1/artists/01AuIzn7oUxs1H3oqWpy8d",
+      "id": "01AuIzn7oUxs1H3oqWpy8d",
+      "name": "Nikos Apergis",
+      "type": "artist",
+      "uri": "spotify:artist:01AuIzn7oUxs1H3oqWpy8d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Cobalt Music - Helladisc S.A. (GR)",
+      "type": "C"
+    },
+    {
+      "text": "2016 Cobalt Music - Helladisc S.A. (GR)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "05206999014577"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2RHFKVAIuM6Y1l2eCcj9M7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2RHFKVAIuM6Y1l2eCcj9M7",
+  "id": "2RHFKVAIuM6Y1l2eCcj9M7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9eacdffd145cb248c632dfd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9eacdffd145cb248c632dfd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9eacdffd145cb248c632dfd",
+      "width": 64
+    }
+  ],
+  "label": "Cobalt Music - Helladisc S.A. (GR)",
+  "name": "Spase Ta Frena",
+  "popularity": 0,
+  "release_date": "2016-02-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2RHFKVAIuM6Y1l2eCcj9M7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+            },
+            "href": "https://api.spotify.com/v1/artists/01AuIzn7oUxs1H3oqWpy8d",
+            "id": "01AuIzn7oUxs1H3oqWpy8d",
+            "name": "Nikos Apergis",
+            "type": "artist",
+            "uri": "spotify:artist:01AuIzn7oUxs1H3oqWpy8d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227264,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qdHQNEaZQcZWjE1BJMohY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qdHQNEaZQcZWjE1BJMohY",
+        "id": "3qdHQNEaZQcZWjE1BJMohY",
+        "is_local": false,
+        "name": "Spase Ta Frena",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3qdHQNEaZQcZWjE1BJMohY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2RHFKVAIuM6Y1l2eCcj9M7"
+}

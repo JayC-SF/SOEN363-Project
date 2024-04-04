@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+      },
+      "href": "https://api.spotify.com/v1/artists/6H79VfD8FjtzQHYdVwZ3I4",
+      "id": "6H79VfD8FjtzQHYdVwZ3I4",
+      "name": "Henry Verus",
+      "type": "artist",
+      "uri": "spotify:artist:6H79VfD8FjtzQHYdVwZ3I4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 OutofIdeasMusic",
+      "type": "C"
+    },
+    {
+      "text": "2021 OutofIdeasMusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "759159315762"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3x0OjWQt4BhiLZewP0NRkG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3x0OjWQt4BhiLZewP0NRkG",
+  "id": "3x0OjWQt4BhiLZewP0NRkG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d67ac4588fcc4cd52b91648f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d67ac4588fcc4cd52b91648f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d67ac4588fcc4cd52b91648f",
+      "width": 64
+    }
+  ],
+  "label": "OutofIdeasMusic",
+  "name": "Your Guilty Pleasure",
+  "popularity": 0,
+  "release_date": "2021-01-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3x0OjWQt4BhiLZewP0NRkG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6H79VfD8FjtzQHYdVwZ3I4",
+            "id": "6H79VfD8FjtzQHYdVwZ3I4",
+            "name": "Henry Verus",
+            "type": "artist",
+            "uri": "spotify:artist:6H79VfD8FjtzQHYdVwZ3I4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174101,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FlH4OcYNclGCb2nIvKmld"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FlH4OcYNclGCb2nIvKmld",
+        "id": "1FlH4OcYNclGCb2nIvKmld",
+        "is_local": false,
+        "name": "Your Guilty Pleasure",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1FlH4OcYNclGCb2nIvKmld"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3x0OjWQt4BhiLZewP0NRkG"
+}

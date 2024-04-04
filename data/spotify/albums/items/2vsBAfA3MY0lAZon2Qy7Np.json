@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6T04hB7RDjKLHA6SRfxoNK"
+      },
+      "href": "https://api.spotify.com/v1/artists/6T04hB7RDjKLHA6SRfxoNK",
+      "id": "6T04hB7RDjKLHA6SRfxoNK",
+      "name": "korpsebunny",
+      "type": "artist",
+      "uri": "spotify:artist:6T04hB7RDjKLHA6SRfxoNK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 korpsebunny",
+      "type": "C"
+    },
+    {
+      "text": "2022 korpsebunny",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197389621077"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2vsBAfA3MY0lAZon2Qy7Np"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2vsBAfA3MY0lAZon2Qy7Np",
+  "id": "2vsBAfA3MY0lAZon2Qy7Np",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4e6f47a5a0d4131d1e644bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f4e6f47a5a0d4131d1e644bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f4e6f47a5a0d4131d1e644bb",
+      "width": 64
+    }
+  ],
+  "label": "korpsebunny",
+  "name": "4evr",
+  "popularity": 5,
+  "release_date": "2022-06-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2vsBAfA3MY0lAZon2Qy7Np/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6T04hB7RDjKLHA6SRfxoNK"
+            },
+            "href": "https://api.spotify.com/v1/artists/6T04hB7RDjKLHA6SRfxoNK",
+            "id": "6T04hB7RDjKLHA6SRfxoNK",
+            "name": "korpsebunny",
+            "type": "artist",
+            "uri": "spotify:artist:6T04hB7RDjKLHA6SRfxoNK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+            "id": "1oYXEVbGh1L7EWGm9C68cN",
+            "name": "6arelyhuman",
+            "type": "artist",
+            "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151485,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uwPDFtqs3glxy332Irlik"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0uwPDFtqs3glxy332Irlik",
+        "id": "0uwPDFtqs3glxy332Irlik",
+        "is_local": false,
+        "name": "4evr",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0uwPDFtqs3glxy332Irlik"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2vsBAfA3MY0lAZon2Qy7Np"
+}

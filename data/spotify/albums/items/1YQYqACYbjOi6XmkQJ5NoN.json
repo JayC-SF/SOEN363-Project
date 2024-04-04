@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rRlbUvyMjvEOdQPWtGoPI",
+      "id": "2rRlbUvyMjvEOdQPWtGoPI",
+      "name": "BEC",
+      "type": "artist",
+      "uri": "spotify:artist:2rRlbUvyMjvEOdQPWtGoPI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 We Are The Brave Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 We Are The Brave Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062548037630"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1YQYqACYbjOi6XmkQJ5NoN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1YQYqACYbjOi6XmkQJ5NoN",
+  "id": "1YQYqACYbjOi6XmkQJ5NoN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737f5a4192af2fc1bcb67d8f67",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027f5a4192af2fc1bcb67d8f67",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517f5a4192af2fc1bcb67d8f67",
+      "width": 64
+    }
+  ],
+  "label": "We Are The Brave",
+  "name": "Marimba",
+  "popularity": 0,
+  "release_date": "2021-11-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1YQYqACYbjOi6XmkQJ5NoN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rRlbUvyMjvEOdQPWtGoPI",
+            "id": "2rRlbUvyMjvEOdQPWtGoPI",
+            "name": "BEC",
+            "type": "artist",
+            "uri": "spotify:artist:2rRlbUvyMjvEOdQPWtGoPI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 364976,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V4RwNoyjGjpuX1Fwcvc21"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5V4RwNoyjGjpuX1Fwcvc21",
+        "id": "5V4RwNoyjGjpuX1Fwcvc21",
+        "is_local": false,
+        "name": "Marimba",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5V4RwNoyjGjpuX1Fwcvc21"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1YQYqACYbjOi6XmkQJ5NoN"
+}

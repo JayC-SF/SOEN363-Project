@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BEGUGWpPDPKXCgqubqnLB",
+      "id": "5BEGUGWpPDPKXCgqubqnLB",
+      "name": "DIRTYXAN",
+      "type": "artist",
+      "uri": "spotify:artist:5BEGUGWpPDPKXCgqubqnLB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 SELENE",
+      "type": "C"
+    },
+    {
+      "text": "2023 SELENE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391186880"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6xn0UHdx3teWPJcblsCeLl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6xn0UHdx3teWPJcblsCeLl",
+  "id": "6xn0UHdx3teWPJcblsCeLl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd551dfb79b8d26e4cb9a7c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd551dfb79b8d26e4cb9a7c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd551dfb79b8d26e4cb9a7c7",
+      "width": 64
+    }
+  ],
+  "label": "SELENE",
+  "name": "STORM",
+  "popularity": 0,
+  "release_date": "2023-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6xn0UHdx3teWPJcblsCeLl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BEGUGWpPDPKXCgqubqnLB",
+            "id": "5BEGUGWpPDPKXCgqubqnLB",
+            "name": "DIRTYXAN",
+            "type": "artist",
+            "uri": "spotify:artist:5BEGUGWpPDPKXCgqubqnLB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178983,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hLu8lAkeGXsvbQ7KjLNB7",
+        "id": "1hLu8lAkeGXsvbQ7KjLNB7",
+        "is_local": false,
+        "name": "STORM",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1hLu8lAkeGXsvbQ7KjLNB7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6xn0UHdx3teWPJcblsCeLl"
+}

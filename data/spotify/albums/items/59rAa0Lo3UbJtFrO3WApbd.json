@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+      },
+      "href": "https://api.spotify.com/v1/artists/1I9HNoVK6kOQGVZfulXVnm",
+      "id": "1I9HNoVK6kOQGVZfulXVnm",
+      "name": "TENDER",
+      "type": "artist",
+      "uri": "spotify:artist:1I9HNoVK6kOQGVZfulXVnm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Tender",
+      "type": "C"
+    },
+    {
+      "text": "2016 Tender",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054227086908"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/59rAa0Lo3UbJtFrO3WApbd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/59rAa0Lo3UbJtFrO3WApbd",
+  "id": "59rAa0Lo3UbJtFrO3WApbd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273978a8f541edc63ff05b8dd4b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02978a8f541edc63ff05b8dd4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851978a8f541edc63ff05b8dd4b",
+      "width": 64
+    }
+  ],
+  "label": "Tender",
+  "name": "Afternoon",
+  "popularity": 0,
+  "release_date": "2016-01-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/59rAa0Lo3UbJtFrO3WApbd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+            },
+            "href": "https://api.spotify.com/v1/artists/1I9HNoVK6kOQGVZfulXVnm",
+            "id": "1I9HNoVK6kOQGVZfulXVnm",
+            "name": "TENDER",
+            "type": "artist",
+            "uri": "spotify:artist:1I9HNoVK6kOQGVZfulXVnm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188072,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bleWpLne79d7vpP1cUC4p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bleWpLne79d7vpP1cUC4p",
+        "id": "0bleWpLne79d7vpP1cUC4p",
+        "is_local": false,
+        "name": "Afternoon",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bleWpLne79d7vpP1cUC4p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:59rAa0Lo3UbJtFrO3WApbd"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2SFLzaGmE38K1GGedJASDJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/2SFLzaGmE38K1GGedJASDJ",
+      "id": "2SFLzaGmE38K1GGedJASDJ",
+      "name": "lussian",
+      "type": "artist",
+      "uri": "spotify:artist:2SFLzaGmE38K1GGedJASDJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Cupid Soldiers, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "617513556568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1yWd33kCjDGZQf7IS6avhi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1yWd33kCjDGZQf7IS6avhi",
+  "id": "1yWd33kCjDGZQf7IS6avhi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e591a6015572e6f4ef1b076",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e591a6015572e6f4ef1b076",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e591a6015572e6f4ef1b076",
+      "width": 64
+    }
+  ],
+  "label": "Cupid Soldiers, LLC",
+  "name": "Aftermath",
+  "popularity": 11,
+  "release_date": "2021-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1yWd33kCjDGZQf7IS6avhi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SFLzaGmE38K1GGedJASDJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SFLzaGmE38K1GGedJASDJ",
+            "id": "2SFLzaGmE38K1GGedJASDJ",
+            "name": "lussian",
+            "type": "artist",
+            "uri": "spotify:artist:2SFLzaGmE38K1GGedJASDJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161285,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08Vbks4ouywxU7XUySKA9d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08Vbks4ouywxU7XUySKA9d",
+        "id": "08Vbks4ouywxU7XUySKA9d",
+        "is_local": false,
+        "name": "Aftermath",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:08Vbks4ouywxU7XUySKA9d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1yWd33kCjDGZQf7IS6avhi"
+}

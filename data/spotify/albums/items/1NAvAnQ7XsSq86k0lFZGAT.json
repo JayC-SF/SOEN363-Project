@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+      },
+      "href": "https://api.spotify.com/v1/artists/1YdO9GJZicIofAYHnFZSwv",
+      "id": "1YdO9GJZicIofAYHnFZSwv",
+      "name": "Sergi",
+      "type": "artist",
+      "uri": "spotify:artist:1YdO9GJZicIofAYHnFZSwv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MG0nEhYET2TCkegY1QBP6",
+      "id": "3MG0nEhYET2TCkegY1QBP6",
+      "name": "KID FLEX",
+      "type": "artist",
+      "uri": "spotify:artist:3MG0nEhYET2TCkegY1QBP6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 WK Records/ NAFTA",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 WK Records/ NAFTA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195163715714"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NAvAnQ7XsSq86k0lFZGAT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1NAvAnQ7XsSq86k0lFZGAT",
+  "id": "1NAvAnQ7XsSq86k0lFZGAT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273faeeaf8bc61b76de0117a171",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02faeeaf8bc61b76de0117a171",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851faeeaf8bc61b76de0117a171",
+      "width": 64
+    }
+  ],
+  "label": "WK Records/ NAFTA",
+  "name": "Seguro Te Pierdo",
+  "popularity": 0,
+  "release_date": "2020-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1NAvAnQ7XsSq86k0lFZGAT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YdO9GJZicIofAYHnFZSwv",
+            "id": "1YdO9GJZicIofAYHnFZSwv",
+            "name": "Sergi",
+            "type": "artist",
+            "uri": "spotify:artist:1YdO9GJZicIofAYHnFZSwv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MG0nEhYET2TCkegY1QBP6",
+            "id": "3MG0nEhYET2TCkegY1QBP6",
+            "name": "KID FLEX",
+            "type": "artist",
+            "uri": "spotify:artist:3MG0nEhYET2TCkegY1QBP6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09z12iI8PMeFdltykewNpt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09z12iI8PMeFdltykewNpt",
+        "id": "09z12iI8PMeFdltykewNpt",
+        "is_local": false,
+        "name": "Seguro Te Pierdo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:09z12iI8PMeFdltykewNpt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1NAvAnQ7XsSq86k0lFZGAT"
+}

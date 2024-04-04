@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+      },
+      "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+      "id": "164Uj4eKjl6zTBKfJLFKKK",
+      "name": "JVKE",
+      "type": "artist",
+      "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 JVKE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436230483"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3zbwyRuqL8HYmRJdtcI4xL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3zbwyRuqL8HYmRJdtcI4xL",
+  "id": "3zbwyRuqL8HYmRJdtcI4xL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a798608eaf0cf4eeb987de17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a798608eaf0cf4eeb987de17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a798608eaf0cf4eeb987de17",
+      "width": 64
+    }
+  ],
+  "label": "JVKE",
+  "name": "Upside Down",
+  "popularity": 0,
+  "release_date": "2020-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3zbwyRuqL8HYmRJdtcI4xL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+            },
+            "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+            "id": "164Uj4eKjl6zTBKfJLFKKK",
+            "name": "JVKE",
+            "type": "artist",
+            "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/614OkajfRPH8V0ugNQnduP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/614OkajfRPH8V0ugNQnduP",
+        "id": "614OkajfRPH8V0ugNQnduP",
+        "is_local": false,
+        "name": "Upside Down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:614OkajfRPH8V0ugNQnduP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3zbwyRuqL8HYmRJdtcI4xL"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1MP7xlABJ13LtmHfG77SCJ",
+      "id": "1MP7xlABJ13LtmHfG77SCJ",
+      "name": "Loveless",
+      "type": "artist",
+      "uri": "spotify:artist:1MP7xlABJ13LtmHfG77SCJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Loveless",
+      "type": "C"
+    },
+    {
+      "text": "2022 Loveless",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "603059123166"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ejG2M4qiovk22WUuhkRAU",
+  "id": "3ejG2M4qiovk22WUuhkRAU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a93e4311b21621fe9889a7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a93e4311b21621fe9889a7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a93e4311b21621fe9889a7b",
+      "width": 64
+    }
+  ],
+  "label": "Loveless",
+  "name": "killing time",
+  "popularity": 0,
+  "release_date": "2022-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ejG2M4qiovk22WUuhkRAU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1MP7xlABJ13LtmHfG77SCJ",
+            "id": "1MP7xlABJ13LtmHfG77SCJ",
+            "name": "Loveless",
+            "type": "artist",
+            "uri": "spotify:artist:1MP7xlABJ13LtmHfG77SCJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195753,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RShGAYnwQ8Wxrkft4uOEX",
+        "id": "5RShGAYnwQ8Wxrkft4uOEX",
+        "is_local": false,
+        "name": "killing time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RShGAYnwQ8Wxrkft4uOEX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3ejG2M4qiovk22WUuhkRAU"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5DwFlqPNUIPOq78wa0ABQX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5DwFlqPNUIPOq78wa0ABQX",
+      "id": "5DwFlqPNUIPOq78wa0ABQX",
+      "name": "T-LUV",
+      "type": "artist",
+      "uri": "spotify:artist:5DwFlqPNUIPOq78wa0ABQX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 A1 Digital",
+      "type": "C"
+    },
+    {
+      "text": "2023 A1 Digital",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859778074085"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qK1DVlVBn1NVEHzn9Bnc9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7qK1DVlVBn1NVEHzn9Bnc9",
+  "id": "7qK1DVlVBn1NVEHzn9Bnc9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734432ac44fce2ad1a957310c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024432ac44fce2ad1a957310c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514432ac44fce2ad1a957310c0",
+      "width": 64
+    }
+  ],
+  "label": "A1 Digital",
+  "name": "For Me",
+  "popularity": 0,
+  "release_date": "2023-09-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7qK1DVlVBn1NVEHzn9Bnc9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5DwFlqPNUIPOq78wa0ABQX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5DwFlqPNUIPOq78wa0ABQX",
+            "id": "5DwFlqPNUIPOq78wa0ABQX",
+            "name": "T-LUV",
+            "type": "artist",
+            "uri": "spotify:artist:5DwFlqPNUIPOq78wa0ABQX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174444,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MEizvboAak4aw6XuchOlh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MEizvboAak4aw6XuchOlh",
+        "id": "2MEizvboAak4aw6XuchOlh",
+        "is_local": false,
+        "name": "For Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2MEizvboAak4aw6XuchOlh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7qK1DVlVBn1NVEHzn9Bnc9"
+}

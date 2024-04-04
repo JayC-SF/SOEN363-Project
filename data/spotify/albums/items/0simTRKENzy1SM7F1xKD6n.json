@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ONAXWCJeNG7NwQulOI8e0",
+      "id": "3ONAXWCJeNG7NwQulOI8e0",
+      "name": "Aaron",
+      "type": "artist",
+      "uri": "spotify:artist:3ONAXWCJeNG7NwQulOI8e0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Amici",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 Amici",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197187434145"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0simTRKENzy1SM7F1xKD6n"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0simTRKENzy1SM7F1xKD6n",
+  "id": "0simTRKENzy1SM7F1xKD6n",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc40e54fb8640062c63acb70",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc40e54fb8640062c63acb70",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc40e54fb8640062c63acb70",
+      "width": 64
+    }
+  ],
+  "label": "Amici 22",
+  "name": "Universale",
+  "popularity": 0,
+  "release_date": "2022-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0simTRKENzy1SM7F1xKD6n/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ONAXWCJeNG7NwQulOI8e0",
+            "id": "3ONAXWCJeNG7NwQulOI8e0",
+            "name": "Aaron",
+            "type": "artist",
+            "uri": "spotify:artist:3ONAXWCJeNG7NwQulOI8e0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161118,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FXRvkVZOvXZuoj3g4pnO9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FXRvkVZOvXZuoj3g4pnO9",
+        "id": "3FXRvkVZOvXZuoj3g4pnO9",
+        "is_local": false,
+        "name": "Universale",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FXRvkVZOvXZuoj3g4pnO9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0simTRKENzy1SM7F1xKD6n"
+}

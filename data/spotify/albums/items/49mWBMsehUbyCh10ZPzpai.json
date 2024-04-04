@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V1cNuf6A5vXCOc2oVNGLL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4V1cNuf6A5vXCOc2oVNGLL",
+      "id": "4V1cNuf6A5vXCOc2oVNGLL",
+      "name": "Harsh Ben",
+      "type": "artist",
+      "uri": "spotify:artist:4V1cNuf6A5vXCOc2oVNGLL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 1181406 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2019 1181406 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194155891580"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49mWBMsehUbyCh10ZPzpai"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49mWBMsehUbyCh10ZPzpai",
+  "id": "49mWBMsehUbyCh10ZPzpai",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330b60b5297e4d1727b891fc1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230b60b5297e4d1727b891fc1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130b60b5297e4d1727b891fc1",
+      "width": 64
+    }
+  ],
+  "label": "1181406 Records DK",
+  "name": "Rukh Zindagi",
+  "popularity": 4,
+  "release_date": "2019-02-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49mWBMsehUbyCh10ZPzpai/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V1cNuf6A5vXCOc2oVNGLL"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V1cNuf6A5vXCOc2oVNGLL",
+            "id": "4V1cNuf6A5vXCOc2oVNGLL",
+            "name": "Harsh Ben",
+            "type": "artist",
+            "uri": "spotify:artist:4V1cNuf6A5vXCOc2oVNGLL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187977,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63iepfaGkmToWbltelLDZP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/63iepfaGkmToWbltelLDZP",
+        "id": "63iepfaGkmToWbltelLDZP",
+        "is_local": false,
+        "name": "Rukh Zindagi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:63iepfaGkmToWbltelLDZP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49mWBMsehUbyCh10ZPzpai"
+}

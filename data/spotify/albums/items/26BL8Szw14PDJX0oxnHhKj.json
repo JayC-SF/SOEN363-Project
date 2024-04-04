@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+      },
+      "href": "https://api.spotify.com/v1/artists/0FXk0xKcMcLfLjkGduqGkn",
+      "id": "0FXk0xKcMcLfLjkGduqGkn",
+      "name": "Blurstem",
+      "type": "artist",
+      "uri": "spotify:artist:0FXk0xKcMcLfLjkGduqGkn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Pianoramix",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Pianoramix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300042596"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/26BL8Szw14PDJX0oxnHhKj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/26BL8Szw14PDJX0oxnHhKj",
+  "id": "26BL8Szw14PDJX0oxnHhKj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396c5c09203e3f964bb34c581",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296c5c09203e3f964bb34c581",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196c5c09203e3f964bb34c581",
+      "width": 64
+    }
+  ],
+  "label": "Pianoramix",
+  "name": "A Pair of Us",
+  "popularity": 0,
+  "release_date": "2023-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/26BL8Szw14PDJX0oxnHhKj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+            },
+            "href": "https://api.spotify.com/v1/artists/0FXk0xKcMcLfLjkGduqGkn",
+            "id": "0FXk0xKcMcLfLjkGduqGkn",
+            "name": "Blurstem",
+            "type": "artist",
+            "uri": "spotify:artist:0FXk0xKcMcLfLjkGduqGkn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167340,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WbaP8teQvNv2gUWsb4J1u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WbaP8teQvNv2gUWsb4J1u",
+        "id": "2WbaP8teQvNv2gUWsb4J1u",
+        "is_local": false,
+        "name": "A Pair of Us",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2WbaP8teQvNv2gUWsb4J1u"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:26BL8Szw14PDJX0oxnHhKj"
+}

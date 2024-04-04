@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+      },
+      "href": "https://api.spotify.com/v1/artists/7hr9W3IjXcm3UlLY7guLk5",
+      "id": "7hr9W3IjXcm3UlLY7guLk5",
+      "name": "Henry Moodie",
+      "type": "artist",
+      "uri": "spotify:artist:7hr9W3IjXcm3UlLY7guLk5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2023 Robots & Humans Music Limited/Columbia",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300012407"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1UIQIGA87GXO6Or60s73cV",
+  "id": "1UIQIGA87GXO6Or60s73cV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730aac10d93a55e986a84a9ddf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020aac10d93a55e986a84a9ddf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510aac10d93a55e986a84a9ddf",
+      "width": 64
+    }
+  ],
+  "label": "Robots & Humans",
+  "name": "you were there for me",
+  "popularity": 55,
+  "release_date": "2022-08-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1UIQIGA87GXO6Or60s73cV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hr9W3IjXcm3UlLY7guLk5",
+            "id": "7hr9W3IjXcm3UlLY7guLk5",
+            "name": "Henry Moodie",
+            "type": "artist",
+            "uri": "spotify:artist:7hr9W3IjXcm3UlLY7guLk5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195365,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0C3shWEOObGT5IxApC7Mkg",
+        "id": "0C3shWEOObGT5IxApC7Mkg",
+        "is_local": false,
+        "name": "you were there for me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0C3shWEOObGT5IxApC7Mkg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1UIQIGA87GXO6Or60s73cV"
+}

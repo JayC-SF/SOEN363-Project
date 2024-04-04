@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xmZKWPhiMa6sD84Efjrh9",
+      "id": "5xmZKWPhiMa6sD84Efjrh9",
+      "name": "kevoxx",
+      "type": "artist",
+      "uri": "spotify:artist:5xmZKWPhiMa6sD84Efjrh9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 kevoxx",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840350809010"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2aOmueFNkStNm1wsL5Qxno"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2aOmueFNkStNm1wsL5Qxno",
+  "id": "2aOmueFNkStNm1wsL5Qxno",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732dba1013344ad294e13c0669",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022dba1013344ad294e13c0669",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512dba1013344ad294e13c0669",
+      "width": 64
+    }
+  ],
+  "label": "kevoxx",
+  "name": "Spin Back x Collide",
+  "popularity": 0,
+  "release_date": "2022-10-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2aOmueFNkStNm1wsL5Qxno/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmZKWPhiMa6sD84Efjrh9",
+            "id": "5xmZKWPhiMa6sD84Efjrh9",
+            "name": "kevoxx",
+            "type": "artist",
+            "uri": "spotify:artist:5xmZKWPhiMa6sD84Efjrh9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 113574,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SL7KTvepEh8ezrySOCwi4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SL7KTvepEh8ezrySOCwi4",
+        "id": "0SL7KTvepEh8ezrySOCwi4",
+        "is_local": false,
+        "name": "Spin Back x Collide",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0SL7KTvepEh8ezrySOCwi4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2aOmueFNkStNm1wsL5Qxno"
+}

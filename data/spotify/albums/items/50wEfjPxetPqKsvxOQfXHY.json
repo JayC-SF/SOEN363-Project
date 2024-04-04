@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hfwwpXqZPRC9CsKI7qtv1",
+      "id": "6hfwwpXqZPRC9CsKI7qtv1",
+      "name": "Alina Baraz",
+      "type": "artist",
+      "uri": "spotify:artist:6hfwwpXqZPRC9CsKI7qtv1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Mom+Pop",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 Mom+Pop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446330136"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/50wEfjPxetPqKsvxOQfXHY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/50wEfjPxetPqKsvxOQfXHY",
+  "id": "50wEfjPxetPqKsvxOQfXHY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350b2feb42c48f74db7cfdc11",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250b2feb42c48f74db7cfdc11",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150b2feb42c48f74db7cfdc11",
+      "width": 64
+    }
+  ],
+  "label": "Mom & Pop Music",
+  "name": "Electric (feat. Khalid)",
+  "popularity": 0,
+  "release_date": "2017-01-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/50wEfjPxetPqKsvxOQfXHY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+            },
+            "href": "https://api.spotify.com/v1/artists/6hfwwpXqZPRC9CsKI7qtv1",
+            "id": "6hfwwpXqZPRC9CsKI7qtv1",
+            "name": "Alina Baraz",
+            "type": "artist",
+            "uri": "spotify:artist:6hfwwpXqZPRC9CsKI7qtv1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+            "id": "6LuN9FCkKOj5PcnpouEgny",
+            "name": "Khalid",
+            "type": "artist",
+            "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25wBlLDFcspzo9gBqvrQr3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25wBlLDFcspzo9gBqvrQr3",
+        "id": "25wBlLDFcspzo9gBqvrQr3",
+        "is_local": false,
+        "name": "Electric (feat. Khalid)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:25wBlLDFcspzo9gBqvrQr3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:50wEfjPxetPqKsvxOQfXHY"
+}

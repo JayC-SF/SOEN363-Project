@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6OMXE5HedZYgaXI4Y7fe1d"
+      },
+      "href": "https://api.spotify.com/v1/artists/6OMXE5HedZYgaXI4Y7fe1d",
+      "id": "6OMXE5HedZYgaXI4Y7fe1d",
+      "name": "Picu",
+      "type": "artist",
+      "uri": "spotify:artist:6OMXE5HedZYgaXI4Y7fe1d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Syena Musica",
+      "type": "C"
+    },
+    {
+      "text": "2023 Syena Musica",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063346237658"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1pLxoPLAuuwMay9V1oi8C8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1pLxoPLAuuwMay9V1oi8C8",
+  "id": "1pLxoPLAuuwMay9V1oi8C8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273362310298ecc53f1357f96f3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02362310298ecc53f1357f96f3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851362310298ecc53f1357f96f3",
+      "width": 64
+    }
+  ],
+  "label": "Syena Musica",
+  "name": "Whiskey Cola",
+  "popularity": 1,
+  "release_date": "2014-07-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1pLxoPLAuuwMay9V1oi8C8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OMXE5HedZYgaXI4Y7fe1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OMXE5HedZYgaXI4Y7fe1d",
+            "id": "6OMXE5HedZYgaXI4Y7fe1d",
+            "name": "Picu",
+            "type": "artist",
+            "uri": "spotify:artist:6OMXE5HedZYgaXI4Y7fe1d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186768,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7x75MZdQKmaWYiS0hKSGOS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7x75MZdQKmaWYiS0hKSGOS",
+        "id": "7x75MZdQKmaWYiS0hKSGOS",
+        "is_local": false,
+        "name": "Whiskey Cola",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7x75MZdQKmaWYiS0hKSGOS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1pLxoPLAuuwMay9V1oi8C8"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+      },
+      "href": "https://api.spotify.com/v1/artists/7DJiupNnzTkhLPygjCaVKj",
+      "id": "7DJiupNnzTkhLPygjCaVKj",
+      "name": "K\u00e1llay Saunders",
+      "type": "artist",
+      "uri": "spotify:artist:7DJiupNnzTkhLPygjCaVKj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Joyride",
+      "type": "C"
+    },
+    {
+      "text": "2014 Joyride",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3610156356417"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6PjQdxPjQQY71OLQvXnpzN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6PjQdxPjQQY71OLQvXnpzN",
+  "id": "6PjQdxPjQQY71OLQvXnpzN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273591b26bac390d65e9a85c699",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02591b26bac390d65e9a85c699",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851591b26bac390d65e9a85c699",
+      "width": 64
+    }
+  ],
+  "label": "Joyride",
+  "name": "Running",
+  "popularity": 0,
+  "release_date": "2014-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6PjQdxPjQQY71OLQvXnpzN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DJiupNnzTkhLPygjCaVKj",
+            "id": "7DJiupNnzTkhLPygjCaVKj",
+            "name": "K\u00e1llay Saunders",
+            "type": "artist",
+            "uri": "spotify:artist:7DJiupNnzTkhLPygjCaVKj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2l75XRzIrKfAZ4cE7VW6fo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2l75XRzIrKfAZ4cE7VW6fo",
+        "id": "2l75XRzIrKfAZ4cE7VW6fo",
+        "is_local": false,
+        "name": "Running",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2l75XRzIrKfAZ4cE7VW6fo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DJiupNnzTkhLPygjCaVKj",
+            "id": "7DJiupNnzTkhLPygjCaVKj",
+            "name": "K\u00e1llay Saunders",
+            "type": "artist",
+            "uri": "spotify:artist:7DJiupNnzTkhLPygjCaVKj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ChmamBUcJzIvsfk7nl7Bq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ChmamBUcJzIvsfk7nl7Bq",
+        "id": "3ChmamBUcJzIvsfk7nl7Bq",
+        "is_local": false,
+        "name": "Running - Karaoke Version",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3ChmamBUcJzIvsfk7nl7Bq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6PjQdxPjQQY71OLQvXnpzN"
+}

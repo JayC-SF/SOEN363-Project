@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn"
+      },
+      "href": "https://api.spotify.com/v1/artists/6gtIvaBCrswcltfMt67LMn",
+      "id": "6gtIvaBCrswcltfMt67LMn",
+      "name": "Yuno Miles",
+      "type": "artist",
+      "uri": "spotify:artist:6gtIvaBCrswcltfMt67LMn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 TrashBag Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 TrashBag Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197877548824"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0sTbZbCTMcdB6yoq6rWUGF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0sTbZbCTMcdB6yoq6rWUGF",
+  "id": "0sTbZbCTMcdB6yoq6rWUGF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f4ff502eb54333e2e511171",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f4ff502eb54333e2e511171",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f4ff502eb54333e2e511171",
+      "width": 64
+    }
+  ],
+  "label": "TrashBag Records",
+  "name": "Hong Kong",
+  "popularity": 18,
+  "release_date": "2023-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0sTbZbCTMcdB6yoq6rWUGF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gtIvaBCrswcltfMt67LMn",
+            "id": "6gtIvaBCrswcltfMt67LMn",
+            "name": "Yuno Miles",
+            "type": "artist",
+            "uri": "spotify:artist:6gtIvaBCrswcltfMt67LMn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 127801,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xau6ikAWYRdPQkNGGUXl9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xau6ikAWYRdPQkNGGUXl9",
+        "id": "4xau6ikAWYRdPQkNGGUXl9",
+        "is_local": false,
+        "name": "Hong Kong",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4xau6ikAWYRdPQkNGGUXl9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0sTbZbCTMcdB6yoq6rWUGF"
+}

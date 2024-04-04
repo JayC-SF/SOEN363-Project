@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+      },
+      "href": "https://api.spotify.com/v1/artists/6IhG3Yxm3UW98jhyBvrIut",
+      "id": "6IhG3Yxm3UW98jhyBvrIut",
+      "name": "Tekno",
+      "type": "artist",
+      "uri": "spotify:artist:6IhG3Yxm3UW98jhyBvrIut"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Made Men Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2017 Made Men Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0632181486535"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5WerSKA3t3LLWQnCQBfXsR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5WerSKA3t3LLWQnCQBfXsR",
+  "id": "5WerSKA3t3LLWQnCQBfXsR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f38ff0bc94c90a7e2b29c039",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f38ff0bc94c90a7e2b29c039",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f38ff0bc94c90a7e2b29c039",
+      "width": 64
+    }
+  ],
+  "label": "Made Men Music Group",
+  "name": "Pana",
+  "popularity": 0,
+  "release_date": "2017-01-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5WerSKA3t3LLWQnCQBfXsR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+            },
+            "href": "https://api.spotify.com/v1/artists/6IhG3Yxm3UW98jhyBvrIut",
+            "id": "6IhG3Yxm3UW98jhyBvrIut",
+            "name": "Tekno",
+            "type": "artist",
+            "uri": "spotify:artist:6IhG3Yxm3UW98jhyBvrIut"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244867,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Eoh9sl1hky2TxnVVpeZcG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Eoh9sl1hky2TxnVVpeZcG",
+        "id": "5Eoh9sl1hky2TxnVVpeZcG",
+        "is_local": false,
+        "name": "Pana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Eoh9sl1hky2TxnVVpeZcG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5WerSKA3t3LLWQnCQBfXsR"
+}

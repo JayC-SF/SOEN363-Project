@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17mUKWvU6t1q16LZAS0ljX"
+      },
+      "href": "https://api.spotify.com/v1/artists/17mUKWvU6t1q16LZAS0ljX",
+      "id": "17mUKWvU6t1q16LZAS0ljX",
+      "name": "Dominic",
+      "type": "artist",
+      "uri": "spotify:artist:17mUKWvU6t1q16LZAS0ljX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Dominic",
+      "type": "C"
+    },
+    {
+      "text": "2013 Dominic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859710282547"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10MVJi6TFrEbR3gXTnoTAd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10MVJi6TFrEbR3gXTnoTAd",
+  "id": "10MVJi6TFrEbR3gXTnoTAd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273712205df3815e25e5c74381c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02712205df3815e25e5c74381c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851712205df3815e25e5c74381c",
+      "width": 64
+    }
+  ],
+  "label": "Dominic",
+  "name": "Adi\u00f3s Buenos Aires",
+  "popularity": 0,
+  "release_date": "2013-06-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10MVJi6TFrEbR3gXTnoTAd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17mUKWvU6t1q16LZAS0ljX"
+            },
+            "href": "https://api.spotify.com/v1/artists/17mUKWvU6t1q16LZAS0ljX",
+            "id": "17mUKWvU6t1q16LZAS0ljX",
+            "name": "Dominic",
+            "type": "artist",
+            "uri": "spotify:artist:17mUKWvU6t1q16LZAS0ljX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205166,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42oVar9QuAkAwgrpAiWwm1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42oVar9QuAkAwgrpAiWwm1",
+        "id": "42oVar9QuAkAwgrpAiWwm1",
+        "is_local": false,
+        "name": "Adi\u00f3s Buenos Aires",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42oVar9QuAkAwgrpAiWwm1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10MVJi6TFrEbR3gXTnoTAd"
+}

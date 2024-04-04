@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+      },
+      "href": "https://api.spotify.com/v1/artists/5o7fmoqHl79fzoCzeApdxm",
+      "id": "5o7fmoqHl79fzoCzeApdxm",
+      "name": "Sticky M.A.",
+      "type": "artist",
+      "uri": "spotify:artist:5o7fmoqHl79fzoCzeApdxm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Agorazein",
+      "type": "C"
+    },
+    {
+      "text": "2018 Agorazein",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8429006249541"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1RPPHIpYwx8zvuZnwDgl4s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1RPPHIpYwx8zvuZnwDgl4s",
+  "id": "1RPPHIpYwx8zvuZnwDgl4s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e86650bc3e6a18e5932169b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e86650bc3e6a18e5932169b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e86650bc3e6a18e5932169b",
+      "width": 64
+    }
+  ],
+  "label": "Agorazein",
+  "name": "Diablo (Remix)",
+  "popularity": 0,
+  "release_date": "2018-07-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1RPPHIpYwx8zvuZnwDgl4s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5o7fmoqHl79fzoCzeApdxm",
+            "id": "5o7fmoqHl79fzoCzeApdxm",
+            "name": "Sticky M.A.",
+            "type": "artist",
+            "uri": "spotify:artist:5o7fmoqHl79fzoCzeApdxm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+            },
+            "href": "https://api.spotify.com/v1/artists/1rTUwYS38LkQTlT2fhikch",
+            "id": "1rTUwYS38LkQTlT2fhikch",
+            "name": "Yung Beef",
+            "type": "artist",
+            "uri": "spotify:artist:1rTUwYS38LkQTlT2fhikch"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235370,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tS7Frxipmi0gj3iZxeD5v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tS7Frxipmi0gj3iZxeD5v",
+        "id": "0tS7Frxipmi0gj3iZxeD5v",
+        "is_local": false,
+        "name": "Diablo - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0tS7Frxipmi0gj3iZxeD5v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1RPPHIpYwx8zvuZnwDgl4s"
+}

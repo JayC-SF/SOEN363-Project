@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+      },
+      "href": "https://api.spotify.com/v1/artists/7me0S5Z40qVWj3gzyK8aC3",
+      "id": "7me0S5Z40qVWj3gzyK8aC3",
+      "name": "Mc Livinho",
+      "type": "artist",
+      "uri": "spotify:artist:7me0S5Z40qVWj3gzyK8aC3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 MC Livinho",
+      "type": "C"
+    },
+    {
+      "text": "2016 MC Livinho",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "700118891407"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6mQcoubTzMS13896aUpWGP",
+  "id": "6mQcoubTzMS13896aUpWGP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d8da10ccbb0cdb8fe1ae759",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d8da10ccbb0cdb8fe1ae759",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d8da10ccbb0cdb8fe1ae759",
+      "width": 64
+    }
+  ],
+  "label": "GR6",
+  "name": "Cheia de Marra",
+  "popularity": 0,
+  "release_date": "2016-06-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6mQcoubTzMS13896aUpWGP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+            },
+            "href": "https://api.spotify.com/v1/artists/7me0S5Z40qVWj3gzyK8aC3",
+            "id": "7me0S5Z40qVWj3gzyK8aC3",
+            "name": "Mc Livinho",
+            "type": "artist",
+            "uri": "spotify:artist:7me0S5Z40qVWj3gzyK8aC3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267795,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gvePWCd0GfkC40QshflUy",
+        "id": "4gvePWCd0GfkC40QshflUy",
+        "is_local": false,
+        "name": "Cheia de Marra",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4gvePWCd0GfkC40QshflUy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6mQcoubTzMS13896aUpWGP"
+}

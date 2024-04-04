@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LtnBJnmEj8gmEQothcCVp"
+      },
+      "href": "https://api.spotify.com/v1/artists/1LtnBJnmEj8gmEQothcCVp",
+      "id": "1LtnBJnmEj8gmEQothcCVp",
+      "name": "K.A.D",
+      "type": "artist",
+      "uri": "spotify:artist:1LtnBJnmEj8gmEQothcCVp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iG3CtoJswOoCx42IqTdtR",
+      "id": "5iG3CtoJswOoCx42IqTdtR",
+      "name": "Kak Hatt",
+      "type": "artist",
+      "uri": "spotify:artist:5iG3CtoJswOoCx42IqTdtR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 TEAMKAD",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 TEAMKAD",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497874286"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/07xMYqCucIDA93hQSaFaFz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/07xMYqCucIDA93hQSaFaFz",
+  "id": "07xMYqCucIDA93hQSaFaFz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387a4bb52a3db903cdef5b610",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287a4bb52a3db903cdef5b610",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187a4bb52a3db903cdef5b610",
+      "width": 64
+    }
+  ],
+  "label": "AGM",
+  "name": "Just How You Like It",
+  "popularity": 6,
+  "release_date": "2021-01-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/07xMYqCucIDA93hQSaFaFz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1LtnBJnmEj8gmEQothcCVp"
+            },
+            "href": "https://api.spotify.com/v1/artists/1LtnBJnmEj8gmEQothcCVp",
+            "id": "1LtnBJnmEj8gmEQothcCVp",
+            "name": "K.A.D",
+            "type": "artist",
+            "uri": "spotify:artist:1LtnBJnmEj8gmEQothcCVp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iG3CtoJswOoCx42IqTdtR",
+            "id": "5iG3CtoJswOoCx42IqTdtR",
+            "name": "Kak Hatt",
+            "type": "artist",
+            "uri": "spotify:artist:5iG3CtoJswOoCx42IqTdtR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188160,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IUuO9U6Rv3wdFhZYUoqL1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4IUuO9U6Rv3wdFhZYUoqL1",
+        "id": "4IUuO9U6Rv3wdFhZYUoqL1",
+        "is_local": false,
+        "name": "Just How You Like It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4IUuO9U6Rv3wdFhZYUoqL1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:07xMYqCucIDA93hQSaFaFz"
+}

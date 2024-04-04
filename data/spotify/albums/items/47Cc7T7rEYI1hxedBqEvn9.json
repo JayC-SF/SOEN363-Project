@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ciTdf9bGl9L3JM1Z0nLCT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ciTdf9bGl9L3JM1Z0nLCT",
+      "id": "0ciTdf9bGl9L3JM1Z0nLCT",
+      "name": "Vico C",
+      "type": "artist",
+      "uri": "spotify:artist:0ciTdf9bGl9L3JM1Z0nLCT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Los Bandoleros",
+      "type": "C"
+    },
+    {
+      "text": "2018 Los Bandoleros",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859724707548"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/47Cc7T7rEYI1hxedBqEvn9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/47Cc7T7rEYI1hxedBqEvn9",
+  "id": "47Cc7T7rEYI1hxedBqEvn9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae016175e3b5773cdb80c793",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae016175e3b5773cdb80c793",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae016175e3b5773cdb80c793",
+      "width": 64
+    }
+  ],
+  "label": "Los Bandoleros",
+  "name": "La Vecinita",
+  "popularity": 0,
+  "release_date": "2018-01-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/47Cc7T7rEYI1hxedBqEvn9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ciTdf9bGl9L3JM1Z0nLCT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ciTdf9bGl9L3JM1Z0nLCT",
+            "id": "0ciTdf9bGl9L3JM1Z0nLCT",
+            "name": "Vico C",
+            "type": "artist",
+            "uri": "spotify:artist:0ciTdf9bGl9L3JM1Z0nLCT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dUkdZ8oXfdDhSFGJOQz5v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dUkdZ8oXfdDhSFGJOQz5v",
+        "id": "0dUkdZ8oXfdDhSFGJOQz5v",
+        "is_local": false,
+        "name": "La Vecinita",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0dUkdZ8oXfdDhSFGJOQz5v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:47Cc7T7rEYI1hxedBqEvn9"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL"
+      },
+      "href": "https://api.spotify.com/v1/artists/10bmjPGhgwYvRis3pjAAmL",
+      "id": "10bmjPGhgwYvRis3pjAAmL",
+      "name": "CYREES",
+      "type": "artist",
+      "uri": "spotify:artist:10bmjPGhgwYvRis3pjAAmL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 AMC",
+      "type": "C"
+    },
+    {
+      "text": "2024 AMC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "019591372854"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2mG2BCrq18dPuqyXluFAD5",
+  "id": "2mG2BCrq18dPuqyXluFAD5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273557a9f1d5288c7b9fe7bbedb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02557a9f1d5288c7b9fe7bbedb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851557a9f1d5288c7b9fe7bbedb",
+      "width": 64
+    }
+  ],
+  "label": "AMC",
+  "name": "The Sound Of Silence",
+  "popularity": 39,
+  "release_date": "2024-01-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2mG2BCrq18dPuqyXluFAD5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL"
+            },
+            "href": "https://api.spotify.com/v1/artists/10bmjPGhgwYvRis3pjAAmL",
+            "id": "10bmjPGhgwYvRis3pjAAmL",
+            "name": "CYREES",
+            "type": "artist",
+            "uri": "spotify:artist:10bmjPGhgwYvRis3pjAAmL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 133374,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Cw1C3iQUquhH2gehdqqj8",
+        "id": "5Cw1C3iQUquhH2gehdqqj8",
+        "is_local": false,
+        "name": "The Sound Of Silence",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Cw1C3iQUquhH2gehdqqj8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2mG2BCrq18dPuqyXluFAD5"
+}

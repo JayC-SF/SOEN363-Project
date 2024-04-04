@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XURbuTnWfewaoe5Et21T0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2XURbuTnWfewaoe5Et21T0",
+      "id": "2XURbuTnWfewaoe5Et21T0",
+      "name": "Pie",
+      "type": "artist",
+      "uri": "spotify:artist:2XURbuTnWfewaoe5Et21T0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 Pi.E",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 Pi.E",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889326262930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5XNTLOAHdcbOF3j4PEuBSO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5XNTLOAHdcbOF3j4PEuBSO",
+  "id": "5XNTLOAHdcbOF3j4PEuBSO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355b62b0fe0be6a1f3b475f3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255b62b0fe0be6a1f3b475f3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155b62b0fe0be6a1f3b475f3a",
+      "width": 64
+    }
+  ],
+  "label": "Pi.E",
+  "name": "Blood to Alcohol - Single",
+  "popularity": 0,
+  "release_date": "2015-02-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5XNTLOAHdcbOF3j4PEuBSO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2XURbuTnWfewaoe5Et21T0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2XURbuTnWfewaoe5Et21T0",
+            "id": "2XURbuTnWfewaoe5Et21T0",
+            "name": "Pie",
+            "type": "artist",
+            "uri": "spotify:artist:2XURbuTnWfewaoe5Et21T0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180900,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zyzdM1grL9SgrKsyYfqZn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6zyzdM1grL9SgrKsyYfqZn",
+        "id": "6zyzdM1grL9SgrKsyYfqZn",
+        "is_local": false,
+        "name": "Blood to Alcohol",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6zyzdM1grL9SgrKsyYfqZn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5XNTLOAHdcbOF3j4PEuBSO"
+}

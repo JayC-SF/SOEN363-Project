@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+      },
+      "href": "https://api.spotify.com/v1/artists/6aAXBSjwLUEukyVDhOuKNO",
+      "id": "6aAXBSjwLUEukyVDhOuKNO",
+      "name": "Voyage",
+      "type": "artist",
+      "uri": "spotify:artist:6aAXBSjwLUEukyVDhOuKNO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Voyage",
+      "type": "C"
+    },
+    {
+      "text": "2021 Voyage",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193872648125"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0yKfJb0gIBiOmqow765VRo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0yKfJb0gIBiOmqow765VRo",
+  "id": "0yKfJb0gIBiOmqow765VRo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7658948bd51837fdcb4aa80",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7658948bd51837fdcb4aa80",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7658948bd51837fdcb4aa80",
+      "width": 64
+    }
+  ],
+  "label": "Voyage",
+  "name": "Glow",
+  "popularity": 1,
+  "release_date": "2021-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0yKfJb0gIBiOmqow765VRo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+            },
+            "href": "https://api.spotify.com/v1/artists/6aAXBSjwLUEukyVDhOuKNO",
+            "id": "6aAXBSjwLUEukyVDhOuKNO",
+            "name": "Voyage",
+            "type": "artist",
+            "uri": "spotify:artist:6aAXBSjwLUEukyVDhOuKNO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202291,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0T0U7Ak81yuL1h4tyasOey"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0T0U7Ak81yuL1h4tyasOey",
+        "id": "0T0U7Ak81yuL1h4tyasOey",
+        "is_local": false,
+        "name": "Glow",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0T0U7Ak81yuL1h4tyasOey"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0yKfJb0gIBiOmqow765VRo"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
+      },
+      "href": "https://api.spotify.com/v1/artists/16Ne2S96l791xLUXKov8hE",
+      "id": "16Ne2S96l791xLUXKov8hE",
+      "name": "Blockwork",
+      "type": "artist",
+      "uri": "spotify:artist:16Ne2S96l791xLUXKov8hE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Blockwork",
+      "type": "C"
+    },
+    {
+      "text": "2021 Blockwork",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283212695"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6jr2flmVHwYFGim92kW0yr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6jr2flmVHwYFGim92kW0yr",
+  "id": "6jr2flmVHwYFGim92kW0yr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273422ea5671c9bdd61e753885f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02422ea5671c9bdd61e753885f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851422ea5671c9bdd61e753885f",
+      "width": 64
+    }
+  ],
+  "label": "Blockwork",
+  "name": "Last Message",
+  "popularity": 0,
+  "release_date": "2021-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6jr2flmVHwYFGim92kW0yr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
+            },
+            "href": "https://api.spotify.com/v1/artists/16Ne2S96l791xLUXKov8hE",
+            "id": "16Ne2S96l791xLUXKov8hE",
+            "name": "Blockwork",
+            "type": "artist",
+            "uri": "spotify:artist:16Ne2S96l791xLUXKov8hE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144020,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oclGjk3YDaVI0pKJJtV58"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7oclGjk3YDaVI0pKJJtV58",
+        "id": "7oclGjk3YDaVI0pKJJtV58",
+        "is_local": false,
+        "name": "Last Message",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7oclGjk3YDaVI0pKJJtV58"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6jr2flmVHwYFGim92kW0yr"
+}

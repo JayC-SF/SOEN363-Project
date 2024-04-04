@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "name": "Rihanna",
+      "type": "artist",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 The Island Def Jam Music Group",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 The Island Def Jam Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527656847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3yUzeHwBFOgAg0w4YUjsnh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3yUzeHwBFOgAg0w4YUjsnh",
+  "id": "3yUzeHwBFOgAg0w4YUjsnh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6d55c9046c074796dd75a68",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6d55c9046c074796dd75a68",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6d55c9046c074796dd75a68",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "S&M",
+  "popularity": 0,
+  "release_date": "2011-01-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3yUzeHwBFOgAg0w4YUjsnh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OPgEEjz5gvv2FBl0qxvrA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OPgEEjz5gvv2FBl0qxvrA",
+        "id": "1OPgEEjz5gvv2FBl0qxvrA",
+        "is_local": false,
+        "name": "S&M",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1OPgEEjz5gvv2FBl0qxvrA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3yUzeHwBFOgAg0w4YUjsnh"
+}

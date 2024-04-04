@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
+      },
+      "href": "https://api.spotify.com/v1/artists/7yk8lN0B2B5wBdb4DJfQLI",
+      "id": "7yk8lN0B2B5wBdb4DJfQLI",
+      "name": "Silience",
+      "type": "artist",
+      "uri": "spotify:artist:7yk8lN0B2B5wBdb4DJfQLI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Casual Jam Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Casual Jam Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859739204230"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mfq4FoNGi29lLyMxhXARc",
+  "id": "3mfq4FoNGi29lLyMxhXARc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b24ff8bbeb5e06e754f43e20",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b24ff8bbeb5e06e754f43e20",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b24ff8bbeb5e06e754f43e20",
+      "width": 64
+    }
+  ],
+  "label": "Casual Jam Records",
+  "name": "I Don't Wanna Know",
+  "popularity": 0,
+  "release_date": "2020-05-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mfq4FoNGi29lLyMxhXARc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
+            },
+            "href": "https://api.spotify.com/v1/artists/7yk8lN0B2B5wBdb4DJfQLI",
+            "id": "7yk8lN0B2B5wBdb4DJfQLI",
+            "name": "Silience",
+            "type": "artist",
+            "uri": "spotify:artist:7yk8lN0B2B5wBdb4DJfQLI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180522,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33VTOL8M86sq1qJOL6rNIm",
+        "id": "33VTOL8M86sq1qJOL6rNIm",
+        "is_local": false,
+        "name": "I Don't Wanna Know",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:33VTOL8M86sq1qJOL6rNIm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mfq4FoNGi29lLyMxhXARc"
+}

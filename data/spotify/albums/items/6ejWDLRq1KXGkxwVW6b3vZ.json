@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5DwFlqPNUIPOq78wa0ABQX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5DwFlqPNUIPOq78wa0ABQX",
+      "id": "5DwFlqPNUIPOq78wa0ABQX",
+      "name": "T-LUV",
+      "type": "artist",
+      "uri": "spotify:artist:5DwFlqPNUIPOq78wa0ABQX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 A1 Digital",
+      "type": "C"
+    },
+    {
+      "text": "2021 A1 Digital",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195938746400"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ejWDLRq1KXGkxwVW6b3vZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ejWDLRq1KXGkxwVW6b3vZ",
+  "id": "6ejWDLRq1KXGkxwVW6b3vZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b8ff9dcd5b07422ee9fd900",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b8ff9dcd5b07422ee9fd900",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b8ff9dcd5b07422ee9fd900",
+      "width": 64
+    }
+  ],
+  "label": "A1 Digital",
+  "name": "Paradise In Ecuador",
+  "popularity": 0,
+  "release_date": "2021-01-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ejWDLRq1KXGkxwVW6b3vZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5DwFlqPNUIPOq78wa0ABQX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5DwFlqPNUIPOq78wa0ABQX",
+            "id": "5DwFlqPNUIPOq78wa0ABQX",
+            "name": "T-LUV",
+            "type": "artist",
+            "uri": "spotify:artist:5DwFlqPNUIPOq78wa0ABQX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207177,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xdhyZ4OYmgvFVtjzz91ch"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xdhyZ4OYmgvFVtjzz91ch",
+        "id": "1xdhyZ4OYmgvFVtjzz91ch",
+        "is_local": false,
+        "name": "Paradise In Ecuador",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1xdhyZ4OYmgvFVtjzz91ch"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ejWDLRq1KXGkxwVW6b3vZ"
+}

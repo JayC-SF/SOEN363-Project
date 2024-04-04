@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3OG22V4iOqWi8DoG6LN56I"
+      },
+      "href": "https://api.spotify.com/v1/artists/3OG22V4iOqWi8DoG6LN56I",
+      "id": "3OG22V4iOqWi8DoG6LN56I",
+      "name": "Martin Bravi",
+      "type": "artist",
+      "uri": "spotify:artist:3OG22V4iOqWi8DoG6LN56I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Mrtn Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Mrtn Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197727801475"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7zgsxJ7953jNTuZyOrkgs9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7zgsxJ7953jNTuZyOrkgs9",
+  "id": "7zgsxJ7953jNTuZyOrkgs9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d8e7b56b37cf6da32e688aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d8e7b56b37cf6da32e688aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d8e7b56b37cf6da32e688aa",
+      "width": 64
+    }
+  ],
+  "label": "Mrtn Records",
+  "name": "S&M (Carpool)",
+  "popularity": 2,
+  "release_date": "2023-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7zgsxJ7953jNTuZyOrkgs9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3OG22V4iOqWi8DoG6LN56I"
+            },
+            "href": "https://api.spotify.com/v1/artists/3OG22V4iOqWi8DoG6LN56I",
+            "id": "3OG22V4iOqWi8DoG6LN56I",
+            "name": "Martin Bravi",
+            "type": "artist",
+            "uri": "spotify:artist:3OG22V4iOqWi8DoG6LN56I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5E5xG3g7Jfhz1xq1KE899U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5E5xG3g7Jfhz1xq1KE899U",
+        "id": "5E5xG3g7Jfhz1xq1KE899U",
+        "is_local": false,
+        "name": "S&M (Carpool)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5E5xG3g7Jfhz1xq1KE899U"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7zgsxJ7953jNTuZyOrkgs9"
+}

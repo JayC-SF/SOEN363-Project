@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2liz91vgGxl0gzWJaE0OfG"
+      },
+      "href": "https://api.spotify.com/v1/artists/2liz91vgGxl0gzWJaE0OfG",
+      "id": "2liz91vgGxl0gzWJaE0OfG",
+      "name": "Shaira",
+      "type": "artist",
+      "uri": "spotify:artist:2liz91vgGxl0gzWJaE0OfG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 AHS Productions",
+      "type": "C"
+    },
+    {
+      "text": "2023 AHS Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859781006349"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2WeMoZzWyfJKk8WlalCOuj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2WeMoZzWyfJKk8WlalCOuj",
+  "id": "2WeMoZzWyfJKk8WlalCOuj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c6f5dc0af34f302c663d948",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c6f5dc0af34f302c663d948",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c6f5dc0af34f302c663d948",
+      "width": 64
+    }
+  ],
+  "label": "AHS Productions",
+  "name": "Selos",
+  "popularity": 47,
+  "release_date": "2023-11-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2WeMoZzWyfJKk8WlalCOuj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2liz91vgGxl0gzWJaE0OfG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2liz91vgGxl0gzWJaE0OfG",
+            "id": "2liz91vgGxl0gzWJaE0OfG",
+            "name": "Shaira",
+            "type": "artist",
+            "uri": "spotify:artist:2liz91vgGxl0gzWJaE0OfG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212672,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2V60xtaIG4dUTJctNd4xQX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2V60xtaIG4dUTJctNd4xQX",
+        "id": "2V60xtaIG4dUTJctNd4xQX",
+        "is_local": false,
+        "name": "Selos",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2V60xtaIG4dUTJctNd4xQX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2WeMoZzWyfJKk8WlalCOuj"
+}

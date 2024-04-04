@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+      },
+      "href": "https://api.spotify.com/v1/artists/7JMwO9tyFPMsb2KnsJqZlp",
+      "id": "7JMwO9tyFPMsb2KnsJqZlp",
+      "name": "B Young",
+      "type": "artist",
+      "uri": "spotify:artist:7JMwO9tyFPMsb2KnsJqZlp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2020 Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448286103"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0siVXPiZpVgcunEQ7MDNgl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0siVXPiZpVgcunEQ7MDNgl",
+  "id": "0siVXPiZpVgcunEQ7MDNgl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fab5e9dd02cf5b0256b834e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fab5e9dd02cf5b0256b834e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fab5e9dd02cf5b0256b834e3",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "WINE",
+  "popularity": 0,
+  "release_date": "2020-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0siVXPiZpVgcunEQ7MDNgl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+            },
+            "href": "https://api.spotify.com/v1/artists/7JMwO9tyFPMsb2KnsJqZlp",
+            "id": "7JMwO9tyFPMsb2KnsJqZlp",
+            "name": "B Young",
+            "type": "artist",
+            "uri": "spotify:artist:7JMwO9tyFPMsb2KnsJqZlp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167489,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Jvcvvz3qqNsFEzryvcaCs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Jvcvvz3qqNsFEzryvcaCs",
+        "id": "2Jvcvvz3qqNsFEzryvcaCs",
+        "is_local": false,
+        "name": "WINE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Jvcvvz3qqNsFEzryvcaCs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0siVXPiZpVgcunEQ7MDNgl"
+}

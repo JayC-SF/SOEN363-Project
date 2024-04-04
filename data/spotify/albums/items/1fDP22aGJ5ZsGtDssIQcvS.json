@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+      "id": "1F3BcbR6yzILOCzzA3i0Rh",
+      "name": "Mishegas",
+      "type": "artist",
+      "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 COED RECS",
+      "type": "C"
+    },
+    {
+      "text": "2017 COED RECS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "647732616798"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1fDP22aGJ5ZsGtDssIQcvS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1fDP22aGJ5ZsGtDssIQcvS",
+  "id": "1fDP22aGJ5ZsGtDssIQcvS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a272f319590b21e1de2a7e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a272f319590b21e1de2a7e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a272f319590b21e1de2a7e1",
+      "width": 64
+    }
+  ],
+  "label": "COED RECS",
+  "name": "Have Me",
+  "popularity": 0,
+  "release_date": "2017-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1fDP22aGJ5ZsGtDssIQcvS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1F3BcbR6yzILOCzzA3i0Rh",
+            "id": "1F3BcbR6yzILOCzzA3i0Rh",
+            "name": "Mishegas",
+            "type": "artist",
+            "uri": "spotify:artist:1F3BcbR6yzILOCzzA3i0Rh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195223,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2800auIFNfhEgVQPcc0nOk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2800auIFNfhEgVQPcc0nOk",
+        "id": "2800auIFNfhEgVQPcc0nOk",
+        "is_local": false,
+        "name": "Have Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2800auIFNfhEgVQPcc0nOk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1fDP22aGJ5ZsGtDssIQcvS"
+}

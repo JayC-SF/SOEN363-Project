@@ -1,0 +1,857 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+      "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+      "name": "Teyana Taylor",
+      "type": "artist",
+      "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602507296889"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11QKDc8OK4rnD3uBs7wKmR",
+  "id": "11QKDc8OK4rnD3uBs7wKmR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c1d50d3467be460844da7c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c1d50d3467be460844da7c1",
+      "width": 64
+    }
+  ],
+  "label": "Getting Out Our Dreams, Inc./Def Jam Recordings",
+  "name": "The Album",
+  "popularity": 58,
+  "release_date": "2020-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 23,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11QKDc8OK4rnD3uBs7wKmR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167670,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3swG5TKDlSZqEuIVFppGNo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3swG5TKDlSZqEuIVFppGNo",
+        "id": "3swG5TKDlSZqEuIVFppGNo",
+        "is_local": false,
+        "name": "Intro",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3swG5TKDlSZqEuIVFppGNo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dhJVANMbZ8vFSYlGRXeSe"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dhJVANMbZ8vFSYlGRXeSe",
+            "id": "7dhJVANMbZ8vFSYlGRXeSe",
+            "name": "Junie",
+            "type": "artist",
+            "uri": "spotify:artist:7dhJVANMbZ8vFSYlGRXeSe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+            },
+            "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+            "id": "1sBkRIssrMs1AbVkOJbc7a",
+            "name": "Rick Ross",
+            "type": "artist",
+            "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 249196,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JoapqwIRFlUgX0lCpoHFz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JoapqwIRFlUgX0lCpoHFz",
+        "id": "4JoapqwIRFlUgX0lCpoHFz",
+        "is_local": false,
+        "name": "Come Back To Me (feat. Junie & Rick Ross)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4JoapqwIRFlUgX0lCpoHFz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+            },
+            "href": "https://api.spotify.com/v1/artists/4snOTeLIxOa9anlWC3k5cC",
+            "id": "4snOTeLIxOa9anlWC3k5cC",
+            "name": "Iman.",
+            "type": "artist",
+            "uri": "spotify:artist:4snOTeLIxOa9anlWC3k5cC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213045,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QutayBrziruy3GoPMqBBq",
+        "id": "6QutayBrziruy3GoPMqBBq",
+        "is_local": false,
+        "name": "Wake Up Love (feat. IMAN)",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6QutayBrziruy3GoPMqBBq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+            },
+            "href": "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+            "id": "7IfculRW2WXyzNQ8djX8WX",
+            "name": "Erykah Badu",
+            "type": "artist",
+            "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257789,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/125kmhAUbQqM4zKOS3L7No"
+        },
+        "href": "https://api.spotify.com/v1/tracks/125kmhAUbQqM4zKOS3L7No",
+        "id": "125kmhAUbQqM4zKOS3L7No",
+        "is_local": false,
+        "name": "Lowkey (feat. Erykah Badu)",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:125kmhAUbQqM4zKOS3L7No"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+            "id": "0VRj0yCOv2FXJNP47XQnx5",
+            "name": "Quavo",
+            "type": "artist",
+            "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CrK0hSGlIFESHiT6rPe1s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2CrK0hSGlIFESHiT6rPe1s",
+        "id": "2CrK0hSGlIFESHiT6rPe1s",
+        "is_local": false,
+        "name": "Let's Build (feat. Quavo)",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2CrK0hSGlIFESHiT6rPe1s"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152514,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EAnCQ85mckyePrp0l35CM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EAnCQ85mckyePrp0l35CM",
+        "id": "7EAnCQ85mckyePrp0l35CM",
+        "is_local": false,
+        "name": "1800-One-Night",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7EAnCQ85mckyePrp0l35CM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+            "id": "0cGUm45nv7Z6M6qdXYQGTX",
+            "name": "Kehlani",
+            "type": "artist",
+            "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 287163,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nYT2MO2wuJ0KkYJhKvD0v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nYT2MO2wuJ0KkYJhKvD0v",
+        "id": "5nYT2MO2wuJ0KkYJhKvD0v",
+        "is_local": false,
+        "name": "Morning (with Kehlani)",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5nYT2MO2wuJ0KkYJhKvD0v"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
+            "id": "2wIVse2owClT7go1WT98tk",
+            "name": "Missy Elliott",
+            "type": "artist",
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+            "id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "name": "Future",
+            "type": "artist",
+            "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 331468,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tCV8RZVP7zW59Ybxj6COL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tCV8RZVP7zW59Ybxj6COL",
+        "id": "6tCV8RZVP7zW59Ybxj6COL",
+        "is_local": false,
+        "name": "Boomin (feat. Missy Elliott & Future)",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6tCV8RZVP7zW59Ybxj6COL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 161274,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HcuZWhsdGMULD6o3o0XA4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HcuZWhsdGMULD6o3o0XA4",
+        "id": "7HcuZWhsdGMULD6o3o0XA4",
+        "is_local": false,
+        "name": "69",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7HcuZWhsdGMULD6o3o0XA4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y3agQaa6g2r0YmHPOO9rh",
+            "id": "0Y3agQaa6g2r0YmHPOO9rh",
+            "name": "Davido",
+            "type": "artist",
+            "uri": "spotify:artist:0Y3agQaa6g2r0YmHPOO9rh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182666,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/46YL800EFmXBhOjab7MLsy",
+        "id": "46YL800EFmXBhOjab7MLsy",
+        "is_local": false,
+        "name": "Killa (feat. DaVido)",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:46YL800EFmXBhOjab7MLsy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 87730,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HIo5h45QzgZmZHSbwlBLq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HIo5h45QzgZmZHSbwlBLq",
+        "id": "7HIo5h45QzgZmZHSbwlBLq",
+        "is_local": false,
+        "name": "Bad",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7HIo5h45QzgZmZHSbwlBLq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159701,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33eARItosPkQZxshJPzRgd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33eARItosPkQZxshJPzRgd",
+        "id": "33eARItosPkQZxshJPzRgd",
+        "is_local": false,
+        "name": "Wrong Bitch",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:33eARItosPkQZxshJPzRgd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+            "id": "0c173mlxpT3dSFRgMO8XPh",
+            "name": "Big Sean",
+            "type": "artist",
+            "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227447,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JfuEicUc4M8IePW7HOSFw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JfuEicUc4M8IePW7HOSFw",
+        "id": "3JfuEicUc4M8IePW7HOSFw",
+        "is_local": false,
+        "name": "Shoot It Up (feat. Big Sean)",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3JfuEicUc4M8IePW7HOSFw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128651,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QvU2zJrEVw1gAVL4D4iLj",
+        "id": "5QvU2zJrEVw1gAVL4D4iLj",
+        "is_local": false,
+        "name": "Bare Wit Me",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5QvU2zJrEVw1gAVL4D4iLj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139488,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DxUQOQuS0BX2S7YPz8AWi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DxUQOQuS0BX2S7YPz8AWi",
+        "id": "2DxUQOQuS0BX2S7YPz8AWi",
+        "is_local": false,
+        "name": "Lose Each Other",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2DxUQOQuS0BX2S7YPz8AWi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 237899,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27PNPVQqaqQ0m2p7uoxnFo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27PNPVQqaqQ0m2p7uoxnFo",
+        "id": "27PNPVQqaqQ0m2p7uoxnFo",
+        "is_local": false,
+        "name": "Concrete",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:27PNPVQqaqQ0m2p7uoxnFo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244538,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02h3SuClrE5DFTpZpgfMzv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/02h3SuClrE5DFTpZpgfMzv",
+        "id": "02h3SuClrE5DFTpZpgfMzv",
+        "is_local": false,
+        "name": "Still",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:02h3SuClrE5DFTpZpgfMzv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 281043,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wiIhj3ha7nfL4oEeYwzU0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wiIhj3ha7nfL4oEeYwzU0",
+        "id": "3wiIhj3ha7nfL4oEeYwzU0",
+        "is_local": false,
+        "name": "Ever Ever",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:3wiIhj3ha7nfL4oEeYwzU0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178016,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gCGyW2TZqA0POkNueFz2X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gCGyW2TZqA0POkNueFz2X",
+        "id": "5gCGyW2TZqA0POkNueFz2X",
+        "is_local": false,
+        "name": "Try Again",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:5gCGyW2TZqA0POkNueFz2X"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144668,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cl86kfLUPUndeX4uQhSsY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4cl86kfLUPUndeX4uQhSsY",
+        "id": "4cl86kfLUPUndeX4uQhSsY",
+        "is_local": false,
+        "name": "Friends",
+        "preview_url": null,
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:4cl86kfLUPUndeX4uQhSsY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+            },
+            "href": "https://api.spotify.com/v1/artists/41I5xI04kixwmonDBl0Sda",
+            "id": "41I5xI04kixwmonDBl0Sda",
+            "name": "King Combs",
+            "type": "artist",
+            "uri": "spotify:artist:41I5xI04kixwmonDBl0Sda"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221713,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UgcHFkETFCydO4u8JXQMj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1UgcHFkETFCydO4u8JXQMj",
+        "id": "1UgcHFkETFCydO4u8JXQMj",
+        "is_local": false,
+        "name": "How You Want It? (feat. King Combs)",
+        "preview_url": null,
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:1UgcHFkETFCydO4u8JXQMj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198552,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aI2VUmejj1Ywzj0tQLYH6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aI2VUmejj1Ywzj0tQLYH6",
+        "id": "5aI2VUmejj1Ywzj0tQLYH6",
+        "is_local": false,
+        "name": "Made It",
+        "preview_url": null,
+        "track_number": 22,
+        "type": "track",
+        "uri": "spotify:track:5aI2VUmejj1Ywzj0tQLYH6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ULO7IGI3M2bo0Ap7B9h8a",
+            "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+            "name": "Teyana Taylor",
+            "type": "artist",
+            "uri": "spotify:artist:4ULO7IGI3M2bo0Ap7B9h8a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Mu5NfyYm8n5iTomuKAEHl",
+            "id": "2Mu5NfyYm8n5iTomuKAEHl",
+            "name": "Ms. Lauryn Hill",
+            "type": "artist",
+            "uri": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246503,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Pm5roB9VO46lSkEB1luuz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Pm5roB9VO46lSkEB1luuz",
+        "id": "5Pm5roB9VO46lSkEB1luuz",
+        "is_local": false,
+        "name": "We Got Love (feat. Ms. Lauryn Hill )",
+        "preview_url": null,
+        "track_number": 23,
+        "type": "track",
+        "uri": "spotify:track:5Pm5roB9VO46lSkEB1luuz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 23
+  },
+  "type": "album",
+  "uri": "spotify:album:11QKDc8OK4rnD3uBs7wKmR"
+}

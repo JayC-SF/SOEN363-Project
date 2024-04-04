@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+      },
+      "href": "https://api.spotify.com/v1/artists/0I6yADrmeyvw66g7yjkqIF",
+      "id": "0I6yADrmeyvw66g7yjkqIF",
+      "name": "The Living Tombstone",
+      "type": "artist",
+      "uri": "spotify:artist:0I6yADrmeyvw66g7yjkqIF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Yoav Landau",
+      "type": "C"
+    },
+    {
+      "text": "2016 Yoav Landau",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "638865021788"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rMF8jnaNbaL4OGVBzg1kF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rMF8jnaNbaL4OGVBzg1kF",
+  "id": "1rMF8jnaNbaL4OGVBzg1kF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e71b1056673f05e544b13f77",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e71b1056673f05e544b13f77",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e71b1056673f05e544b13f77",
+      "width": 64
+    }
+  ],
+  "label": "The Living Tombstone",
+  "name": "I Got No Time",
+  "popularity": 15,
+  "release_date": "2016-02-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rMF8jnaNbaL4OGVBzg1kF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+            },
+            "href": "https://api.spotify.com/v1/artists/0I6yADrmeyvw66g7yjkqIF",
+            "id": "0I6yADrmeyvw66g7yjkqIF",
+            "name": "The Living Tombstone",
+            "type": "artist",
+            "uri": "spotify:artist:0I6yADrmeyvw66g7yjkqIF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 166333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HYKgl1NaCgJkm24EeaeKs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6HYKgl1NaCgJkm24EeaeKs",
+        "id": "6HYKgl1NaCgJkm24EeaeKs",
+        "is_local": false,
+        "name": "I Got No Time",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6HYKgl1NaCgJkm24EeaeKs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rMF8jnaNbaL4OGVBzg1kF"
+}

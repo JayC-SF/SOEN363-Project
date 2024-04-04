@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+      "id": "3zmfs9cQwzJl575W1ZYXeT",
+      "name": "Men I Trust",
+      "type": "artist",
+      "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Independent",
+      "type": "C"
+    },
+    {
+      "text": "2022 Independent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859762992142"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0PboTq5CUcoilt6IJS2SQo",
+  "id": "0PboTq5CUcoilt6IJS2SQo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273018fb0e9a7a5bd43079c0f08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02018fb0e9a7a5bd43079c0f08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851018fb0e9a7a5bd43079c0f08",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Hard to Let Go",
+  "popularity": 13,
+  "release_date": "2022-06-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0PboTq5CUcoilt6IJS2SQo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+            "id": "3zmfs9cQwzJl575W1ZYXeT",
+            "name": "Men I Trust",
+            "type": "artist",
+            "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247615,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lKN7pik3CelVWHWGp6DfB",
+        "id": "7lKN7pik3CelVWHWGp6DfB",
+        "is_local": false,
+        "name": "Hard to Let Go",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7lKN7pik3CelVWHWGp6DfB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0PboTq5CUcoilt6IJS2SQo"
+}

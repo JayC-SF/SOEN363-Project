@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w"
+      },
+      "href": "https://api.spotify.com/v1/artists/4T8dF8zYAxgtlPPICuFQ5w",
+      "id": "4T8dF8zYAxgtlPPICuFQ5w",
+      "name": "Pascal Junior",
+      "type": "artist",
+      "uri": "spotify:artist:4T8dF8zYAxgtlPPICuFQ5w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Crossworlder Music Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2016 Crossworlder Music Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054282526159"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MnxrSJXHT1TXBgCJ9Fd0H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7MnxrSJXHT1TXBgCJ9Fd0H",
+  "id": "7MnxrSJXHT1TXBgCJ9Fd0H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733b162116b3d18f821c121362",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023b162116b3d18f821c121362",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513b162116b3d18f821c121362",
+      "width": 64
+    }
+  ],
+  "label": "Teddy Bear",
+  "name": "She Likes It",
+  "popularity": 0,
+  "release_date": "2016-09-19",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7MnxrSJXHT1TXBgCJ9Fd0H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w"
+            },
+            "href": "https://api.spotify.com/v1/artists/4T8dF8zYAxgtlPPICuFQ5w",
+            "id": "4T8dF8zYAxgtlPPICuFQ5w",
+            "name": "Pascal Junior",
+            "type": "artist",
+            "uri": "spotify:artist:4T8dF8zYAxgtlPPICuFQ5w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 306885,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jteCwrKr2zOksne6WrATV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jteCwrKr2zOksne6WrATV",
+        "id": "4jteCwrKr2zOksne6WrATV",
+        "is_local": false,
+        "name": "She Likes It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4jteCwrKr2zOksne6WrATV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w"
+            },
+            "href": "https://api.spotify.com/v1/artists/4T8dF8zYAxgtlPPICuFQ5w",
+            "id": "4T8dF8zYAxgtlPPICuFQ5w",
+            "name": "Pascal Junior",
+            "type": "artist",
+            "uri": "spotify:artist:4T8dF8zYAxgtlPPICuFQ5w"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jfhMoC88bueFbxYuwUpNN",
+            "id": "1jfhMoC88bueFbxYuwUpNN",
+            "name": "Moonsound",
+            "type": "artist",
+            "uri": "spotify:artist:1jfhMoC88bueFbxYuwUpNN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PVGmyvnazzmI7un8xTIdp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3PVGmyvnazzmI7un8xTIdp",
+        "id": "3PVGmyvnazzmI7un8xTIdp",
+        "is_local": false,
+        "name": "She Likes It - Moonsound Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3PVGmyvnazzmI7un8xTIdp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:7MnxrSJXHT1TXBgCJ9Fd0H"
+}

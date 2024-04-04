@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3i94wxAKQqlJyiPLDmjNdH",
+      "id": "3i94wxAKQqlJyiPLDmjNdH",
+      "name": "St. Lundi",
+      "type": "artist",
+      "uri": "spotify:artist:3i94wxAKQqlJyiPLDmjNdH"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2020 Propeller Recordings UK LTD under exclusive license to Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526875661"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uxFdJEIMqnC55yM28knvL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3uxFdJEIMqnC55yM28knvL",
+  "id": "3uxFdJEIMqnC55yM28knvL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273236fde770620c000cee6941a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02236fde770620c000cee6941a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851236fde770620c000cee6941a",
+      "width": 64
+    }
+  ],
+  "label": "Palm Tree Records",
+  "name": "To Die For (feat. Kygo) [Acoustic Rework]",
+  "popularity": 21,
+  "release_date": "2020-11-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3uxFdJEIMqnC55yM28knvL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3i94wxAKQqlJyiPLDmjNdH",
+            "id": "3i94wxAKQqlJyiPLDmjNdH",
+            "name": "St. Lundi",
+            "type": "artist",
+            "uri": "spotify:artist:3i94wxAKQqlJyiPLDmjNdH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+            },
+            "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+            "id": "23fqKkggKUBHNkbKtXEls4",
+            "name": "Kygo",
+            "type": "artist",
+            "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 196301,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YSl368INhEnOCOSxvQRkX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YSl368INhEnOCOSxvQRkX",
+        "id": "3YSl368INhEnOCOSxvQRkX",
+        "is_local": false,
+        "name": "To Die For (feat. Kygo) - Acoustic Rework",
+        "preview_url": "https://p.scdn.co/mp3-preview/203a177479d9e7703e94f9c56b46812cebe0e66a?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3YSl368INhEnOCOSxvQRkX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3uxFdJEIMqnC55yM28knvL"
+}

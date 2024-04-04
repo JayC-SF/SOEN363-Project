@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq"
+      },
+      "href": "https://api.spotify.com/v1/artists/59tUUyuaTFMty5kJE9Ojrq",
+      "id": "59tUUyuaTFMty5kJE9Ojrq",
+      "name": "mitsume",
+      "type": "artist",
+      "uri": "spotify:artist:59tUUyuaTFMty5kJE9Ojrq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 mitsume",
+      "type": "C"
+    },
+    {
+      "text": "2020 mitsume",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4538182905074"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21B9geyInJXwLqa38ba9kP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21B9geyInJXwLqa38ba9kP",
+  "id": "21B9geyInJXwLqa38ba9kP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273967f0d9d897fa3753fba7cb1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02967f0d9d897fa3753fba7cb1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851967f0d9d897fa3753fba7cb1",
+      "width": 64
+    }
+  ],
+  "label": "mitsume",
+  "name": "\u30c8\u30cb\u30c3\u30af\u30fb\u30e9\u30d6",
+  "popularity": 0,
+  "release_date": "2020-08-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21B9geyInJXwLqa38ba9kP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq"
+            },
+            "href": "https://api.spotify.com/v1/artists/59tUUyuaTFMty5kJE9Ojrq",
+            "id": "59tUUyuaTFMty5kJE9Ojrq",
+            "name": "mitsume",
+            "type": "artist",
+            "uri": "spotify:artist:59tUUyuaTFMty5kJE9Ojrq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 267921,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3efskkh5LSAu8KFULAGDXc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3efskkh5LSAu8KFULAGDXc",
+        "id": "3efskkh5LSAu8KFULAGDXc",
+        "is_local": false,
+        "name": "\u30c8\u30cb\u30c3\u30af\u30fb\u30e9\u30d6",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3efskkh5LSAu8KFULAGDXc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21B9geyInJXwLqa38ba9kP"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2MWxnc0Id6PJjr3i3c62rE"
+      },
+      "href": "https://api.spotify.com/v1/artists/2MWxnc0Id6PJjr3i3c62rE",
+      "id": "2MWxnc0Id6PJjr3i3c62rE",
+      "name": "Christian Davis",
+      "type": "artist",
+      "uri": "spotify:artist:2MWxnc0Id6PJjr3i3c62rE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Christian Davis",
+      "type": "C"
+    },
+    {
+      "text": "2020 Christian Davis",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195833121807"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1oPExuGdOpHzeh2QhZrEj1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1oPExuGdOpHzeh2QhZrEj1",
+  "id": "1oPExuGdOpHzeh2QhZrEj1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c70388df5fc28e57fbbaf022",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c70388df5fc28e57fbbaf022",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c70388df5fc28e57fbbaf022",
+      "width": 64
+    }
+  ],
+  "label": "Christian Davis",
+  "name": "Takumi Drift",
+  "popularity": 1,
+  "release_date": "2020-11-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1oPExuGdOpHzeh2QhZrEj1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2MWxnc0Id6PJjr3i3c62rE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2MWxnc0Id6PJjr3i3c62rE",
+            "id": "2MWxnc0Id6PJjr3i3c62rE",
+            "name": "Christian Davis",
+            "type": "artist",
+            "uri": "spotify:artist:2MWxnc0Id6PJjr3i3c62rE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 118700,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ROcaskcRpOph84fbr6MkE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ROcaskcRpOph84fbr6MkE",
+        "id": "1ROcaskcRpOph84fbr6MkE",
+        "is_local": false,
+        "name": "Takumi Drift",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ROcaskcRpOph84fbr6MkE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1oPExuGdOpHzeh2QhZrEj1"
+}

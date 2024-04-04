@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1mZia2NTWwom2SaSzscGrR"
+      },
+      "href": "https://api.spotify.com/v1/artists/1mZia2NTWwom2SaSzscGrR",
+      "id": "1mZia2NTWwom2SaSzscGrR",
+      "name": "Milly Wop",
+      "type": "artist",
+      "uri": "spotify:artist:1mZia2NTWwom2SaSzscGrR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Milly Wop",
+      "type": "C"
+    },
+    {
+      "text": "2021 Milly Wop",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196022876881"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/16QbaXVGOKyYtYp2ofRyV4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/16QbaXVGOKyYtYp2ofRyV4",
+  "id": "16QbaXVGOKyYtYp2ofRyV4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731abf58375adf775a9a14a9c3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021abf58375adf775a9a14a9c3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511abf58375adf775a9a14a9c3",
+      "width": 64
+    }
+  ],
+  "label": "Milly Wop X Cin Munna X Kay Flocc x Zay Munna",
+  "name": "Who Really Buggin",
+  "popularity": 0,
+  "release_date": "2020-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/16QbaXVGOKyYtYp2ofRyV4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZia2NTWwom2SaSzscGrR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mZia2NTWwom2SaSzscGrR",
+            "id": "1mZia2NTWwom2SaSzscGrR",
+            "name": "Milly Wop",
+            "type": "artist",
+            "uri": "spotify:artist:1mZia2NTWwom2SaSzscGrR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AMeiDbfU2vonrTkpXDKUu",
+            "id": "2AMeiDbfU2vonrTkpXDKUu",
+            "name": "Kay Flock",
+            "type": "artist",
+            "uri": "spotify:artist:2AMeiDbfU2vonrTkpXDKUu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198611,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26h9URILoxyLnT0vzbVvrv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26h9URILoxyLnT0vzbVvrv",
+        "id": "26h9URILoxyLnT0vzbVvrv",
+        "is_local": false,
+        "name": "Who Really Buggin",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:26h9URILoxyLnT0vzbVvrv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:16QbaXVGOKyYtYp2ofRyV4"
+}

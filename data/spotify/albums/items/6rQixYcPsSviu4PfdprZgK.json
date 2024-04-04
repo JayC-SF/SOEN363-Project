@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+      "id": "3zmfs9cQwzJl575W1ZYXeT",
+      "name": "Men I Trust",
+      "type": "artist",
+      "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Independent",
+      "type": "C"
+    },
+    {
+      "text": "2018 Independent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859729497468"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6rQixYcPsSviu4PfdprZgK",
+  "id": "6rQixYcPsSviu4PfdprZgK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eeae78397dd4ed3b988560e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eeae78397dd4ed3b988560e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eeae78397dd4ed3b988560e4",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Say, Can You Hear",
+  "popularity": 19,
+  "release_date": "2018-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6rQixYcPsSviu4PfdprZgK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+            "id": "3zmfs9cQwzJl575W1ZYXeT",
+            "name": "Men I Trust",
+            "type": "artist",
+            "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189246,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7JvjjlZ5R1I1xRDsEkPuJ7",
+        "id": "7JvjjlZ5R1I1xRDsEkPuJ7",
+        "is_local": false,
+        "name": "Say, Can You Hear",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7JvjjlZ5R1I1xRDsEkPuJ7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6rQixYcPsSviu4PfdprZgK"
+}

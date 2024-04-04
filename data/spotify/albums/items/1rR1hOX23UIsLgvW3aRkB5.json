@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dOo2vzOxx1HaSteQGb56s"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dOo2vzOxx1HaSteQGb56s",
+      "id": "3dOo2vzOxx1HaSteQGb56s",
+      "name": "Crie 930",
+      "type": "artist",
+      "uri": "spotify:artist:3dOo2vzOxx1HaSteQGb56s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2021 Leful",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2021 Leful",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196006481551"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rR1hOX23UIsLgvW3aRkB5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rR1hOX23UIsLgvW3aRkB5",
+  "id": "1rR1hOX23UIsLgvW3aRkB5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387b2be922ef90ca7cdf8aa60",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287b2be922ef90ca7cdf8aa60",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187b2be922ef90ca7cdf8aa60",
+      "width": 64
+    }
+  ],
+  "label": "Leful",
+  "name": "Fekas (Tiradera)",
+  "popularity": 0,
+  "release_date": "2021-04-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rR1hOX23UIsLgvW3aRkB5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dOo2vzOxx1HaSteQGb56s"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dOo2vzOxx1HaSteQGb56s",
+            "id": "3dOo2vzOxx1HaSteQGb56s",
+            "name": "Crie 930",
+            "type": "artist",
+            "uri": "spotify:artist:3dOo2vzOxx1HaSteQGb56s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243316,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WXW4KjNMNFwgsglaOUXaR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WXW4KjNMNFwgsglaOUXaR",
+        "id": "5WXW4KjNMNFwgsglaOUXaR",
+        "is_local": false,
+        "name": "Fekas - Tiradera",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5WXW4KjNMNFwgsglaOUXaR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rR1hOX23UIsLgvW3aRkB5"
+}

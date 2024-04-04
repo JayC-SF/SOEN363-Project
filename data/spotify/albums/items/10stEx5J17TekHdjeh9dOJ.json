@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2EGJbNf0Hva2C2N6hvhMXD",
+      "id": "2EGJbNf0Hva2C2N6hvhMXD",
+      "name": "Soulstice",
+      "type": "artist",
+      "uri": "spotify:artist:2EGJbNf0Hva2C2N6hvhMXD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Peso Productions",
+      "type": "C"
+    },
+    {
+      "text": "2020 Peso Productions",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195036061108"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10stEx5J17TekHdjeh9dOJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10stEx5J17TekHdjeh9dOJ",
+  "id": "10stEx5J17TekHdjeh9dOJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c632c0ecd12a0ec255426406",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c632c0ecd12a0ec255426406",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c632c0ecd12a0ec255426406",
+      "width": 64
+    }
+  ],
+  "label": "Peso Productions",
+  "name": "Ivana",
+  "popularity": 0,
+  "release_date": "2020-01-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10stEx5J17TekHdjeh9dOJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD"
+            },
+            "href": "https://api.spotify.com/v1/artists/2EGJbNf0Hva2C2N6hvhMXD",
+            "id": "2EGJbNf0Hva2C2N6hvhMXD",
+            "name": "Soulstice",
+            "type": "artist",
+            "uri": "spotify:artist:2EGJbNf0Hva2C2N6hvhMXD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246550,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54b8IPvheXDpro2VR2rWAS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54b8IPvheXDpro2VR2rWAS",
+        "id": "54b8IPvheXDpro2VR2rWAS",
+        "is_local": false,
+        "name": "Ivana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:54b8IPvheXDpro2VR2rWAS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10stEx5J17TekHdjeh9dOJ"
+}

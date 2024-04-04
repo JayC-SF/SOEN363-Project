@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+      },
+      "href": "https://api.spotify.com/v1/artists/75OmhmviEWTWkMBllWgdQv",
+      "id": "75OmhmviEWTWkMBllWgdQv",
+      "name": "juno roome",
+      "type": "artist",
+      "uri": "spotify:artist:75OmhmviEWTWkMBllWgdQv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 juno roome",
+      "type": "C"
+    },
+    {
+      "text": "2019 juno roome",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194156882273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/724SctqNDfOYOdn9g9oLB0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/724SctqNDfOYOdn9g9oLB0",
+  "id": "724SctqNDfOYOdn9g9oLB0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356e348c7af1f7ca0f3d4d588",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256e348c7af1f7ca0f3d4d588",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156e348c7af1f7ca0f3d4d588",
+      "width": 64
+    }
+  ],
+  "label": "juno roome",
+  "name": "american boy",
+  "popularity": 0,
+  "release_date": "2019-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/724SctqNDfOYOdn9g9oLB0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+            },
+            "href": "https://api.spotify.com/v1/artists/75OmhmviEWTWkMBllWgdQv",
+            "id": "75OmhmviEWTWkMBllWgdQv",
+            "name": "juno roome",
+            "type": "artist",
+            "uri": "spotify:artist:75OmhmviEWTWkMBllWgdQv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232687,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4trbe8qBxMsUhfOCHIEGrA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4trbe8qBxMsUhfOCHIEGrA",
+        "id": "4trbe8qBxMsUhfOCHIEGrA",
+        "is_local": false,
+        "name": "american boy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4trbe8qBxMsUhfOCHIEGrA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:724SctqNDfOYOdn9g9oLB0"
+}

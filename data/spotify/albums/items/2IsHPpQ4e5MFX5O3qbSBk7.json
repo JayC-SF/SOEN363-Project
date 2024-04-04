@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0VPHNlFtQyI9wIDho4OQks"
+      },
+      "href": "https://api.spotify.com/v1/artists/0VPHNlFtQyI9wIDho4OQks",
+      "id": "0VPHNlFtQyI9wIDho4OQks",
+      "name": "Alexis Kings",
+      "type": "artist",
+      "uri": "spotify:artist:0VPHNlFtQyI9wIDho4OQks"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Alexis Kings",
+      "type": "C"
+    },
+    {
+      "text": "2016 Alexis Kings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054960079311"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2IsHPpQ4e5MFX5O3qbSBk7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2IsHPpQ4e5MFX5O3qbSBk7",
+  "id": "2IsHPpQ4e5MFX5O3qbSBk7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d99f67985ccf22be4ffb393",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d99f67985ccf22be4ffb393",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d99f67985ccf22be4ffb393",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Squire",
+  "popularity": 0,
+  "release_date": "2016-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2IsHPpQ4e5MFX5O3qbSBk7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VPHNlFtQyI9wIDho4OQks"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VPHNlFtQyI9wIDho4OQks",
+            "id": "0VPHNlFtQyI9wIDho4OQks",
+            "name": "Alexis Kings",
+            "type": "artist",
+            "uri": "spotify:artist:0VPHNlFtQyI9wIDho4OQks"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 251213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FxfZUQ6niXteK3pR9gQN0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FxfZUQ6niXteK3pR9gQN0",
+        "id": "3FxfZUQ6niXteK3pR9gQN0",
+        "is_local": false,
+        "name": "Squire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FxfZUQ6niXteK3pR9gQN0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2IsHPpQ4e5MFX5O3qbSBk7"
+}

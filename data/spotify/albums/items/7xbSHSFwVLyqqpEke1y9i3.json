@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0RMeG9M8QFzss9bAbq99KA",
+      "id": "0RMeG9M8QFzss9bAbq99KA",
+      "name": "Maddix",
+      "type": "artist",
+      "uri": "spotify:artist:0RMeG9M8QFzss9bAbq99KA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Revealed Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2021 Revealed Music B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720205959553"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7xbSHSFwVLyqqpEke1y9i3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7xbSHSFwVLyqqpEke1y9i3",
+  "id": "7xbSHSFwVLyqqpEke1y9i3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391a15b1e2ffd8b7677d5ed3d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291a15b1e2ffd8b7677d5ed3d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191a15b1e2ffd8b7677d5ed3d",
+      "width": 64
+    }
+  ],
+  "label": "Revealed Recordings",
+  "name": "Different State",
+  "popularity": 0,
+  "release_date": "2021-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7xbSHSFwVLyqqpEke1y9i3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0RMeG9M8QFzss9bAbq99KA",
+            "id": "0RMeG9M8QFzss9bAbq99KA",
+            "name": "Maddix",
+            "type": "artist",
+            "uri": "spotify:artist:0RMeG9M8QFzss9bAbq99KA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pSR4dXqzUWejUw7NeNMH8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1pSR4dXqzUWejUw7NeNMH8",
+        "id": "1pSR4dXqzUWejUw7NeNMH8",
+        "is_local": false,
+        "name": "Different State",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1pSR4dXqzUWejUw7NeNMH8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7xbSHSFwVLyqqpEke1y9i3"
+}

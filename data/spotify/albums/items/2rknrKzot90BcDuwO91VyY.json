@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2SVWbk28J41NfYovnwLj2K"
+      },
+      "href": "https://api.spotify.com/v1/artists/2SVWbk28J41NfYovnwLj2K",
+      "id": "2SVWbk28J41NfYovnwLj2K",
+      "name": "IN-IS",
+      "type": "artist",
+      "uri": "spotify:artist:2SVWbk28J41NfYovnwLj2K"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 NW1 Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 NW1 Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5016959006692"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2rknrKzot90BcDuwO91VyY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2rknrKzot90BcDuwO91VyY",
+  "id": "2rknrKzot90BcDuwO91VyY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c2015af44266b64f4986f9a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c2015af44266b64f4986f9a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c2015af44266b64f4986f9a5",
+      "width": 64
+    }
+  ],
+  "label": "NW1 Records",
+  "name": "Daydream",
+  "popularity": 0,
+  "release_date": "2020-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2rknrKzot90BcDuwO91VyY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SVWbk28J41NfYovnwLj2K"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SVWbk28J41NfYovnwLj2K",
+            "id": "2SVWbk28J41NfYovnwLj2K",
+            "name": "IN-IS",
+            "type": "artist",
+            "uri": "spotify:artist:2SVWbk28J41NfYovnwLj2K"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YQiMR5M12HJ28hkJz7qnn",
+            "id": "1YQiMR5M12HJ28hkJz7qnn",
+            "name": "Ailbhe Reddy",
+            "type": "artist",
+            "uri": "spotify:artist:1YQiMR5M12HJ28hkJz7qnn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1C75F73RXhQqzyWQbTRqJH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1C75F73RXhQqzyWQbTRqJH",
+        "id": "1C75F73RXhQqzyWQbTRqJH",
+        "is_local": false,
+        "name": "Daydream",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1C75F73RXhQqzyWQbTRqJH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2rknrKzot90BcDuwO91VyY"
+}

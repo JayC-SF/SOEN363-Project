@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1cKyknhftNKXCjMBd2hDrG",
+      "id": "1cKyknhftNKXCjMBd2hDrG",
+      "name": "DYSTINCT",
+      "type": "artist",
+      "uri": "spotify:artist:1cKyknhftNKXCjMBd2hDrG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Avalon Music / Hnsty Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 Avalon Music / Hnsty Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859734415761"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/57hJLcLLvtkAV2kmQ0YfvT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/57hJLcLLvtkAV2kmQ0YfvT",
+  "id": "57hJLcLLvtkAV2kmQ0YfvT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273979dc552eb1d0b03a17a3897",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02979dc552eb1d0b03a17a3897",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851979dc552eb1d0b03a17a3897",
+      "width": 64
+    }
+  ],
+  "label": "Avalon Music / Hnsty Music",
+  "name": "Boussa",
+  "popularity": 0,
+  "release_date": "2019-09-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/57hJLcLLvtkAV2kmQ0YfvT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cKyknhftNKXCjMBd2hDrG",
+            "id": "1cKyknhftNKXCjMBd2hDrG",
+            "name": "DYSTINCT",
+            "type": "artist",
+            "uri": "spotify:artist:1cKyknhftNKXCjMBd2hDrG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181963,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FuA2qaoOR379dPqksalz4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FuA2qaoOR379dPqksalz4",
+        "id": "2FuA2qaoOR379dPqksalz4",
+        "is_local": false,
+        "name": "Boussa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2FuA2qaoOR379dPqksalz4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:57hJLcLLvtkAV2kmQ0YfvT"
+}

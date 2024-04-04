@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+      "id": "1oYXEVbGh1L7EWGm9C68cN",
+      "name": "6arelyhuman",
+      "type": "artist",
+      "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 FabFantasy",
+      "type": "C"
+    },
+    {
+      "text": "2023 FabFantasy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197544917717"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ZiWOH8iUYQzMQvHktFtx4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ZiWOH8iUYQzMQvHktFtx4",
+  "id": "5ZiWOH8iUYQzMQvHktFtx4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733bc91ee4eef922befc1d0102",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023bc91ee4eef922befc1d0102",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513bc91ee4eef922befc1d0102",
+      "width": 64
+    }
+  ],
+  "label": "FabFantasy",
+  "name": "Eat Me",
+  "popularity": 0,
+  "release_date": "2023-02-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ZiWOH8iUYQzMQvHktFtx4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+            "id": "1oYXEVbGh1L7EWGm9C68cN",
+            "name": "6arelyhuman",
+            "type": "artist",
+            "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176250,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6a9U5AzzCY179Xr2fMAHmi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6a9U5AzzCY179Xr2fMAHmi",
+        "id": "6a9U5AzzCY179Xr2fMAHmi",
+        "is_local": false,
+        "name": "Eat Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6a9U5AzzCY179Xr2fMAHmi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ZiWOH8iUYQzMQvHktFtx4"
+}

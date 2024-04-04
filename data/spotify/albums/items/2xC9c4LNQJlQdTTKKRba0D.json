@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+      },
+      "href": "https://api.spotify.com/v1/artists/7hOGhpa8RMSuDOWntGIAJt",
+      "id": "7hOGhpa8RMSuDOWntGIAJt",
+      "name": "A R I Z O N A",
+      "type": "artist",
+      "uri": "spotify:artist:7hOGhpa8RMSuDOWntGIAJt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+      "type": "C"
+    },
+    {
+      "text": "2016 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679907127"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2xC9c4LNQJlQdTTKKRba0D"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2xC9c4LNQJlQdTTKKRba0D",
+  "id": "2xC9c4LNQJlQdTTKKRba0D",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e092cb38c233c683db37c9da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e092cb38c233c683db37c9da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e092cb38c233c683db37c9da",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Cross My Mind",
+  "popularity": 0,
+  "release_date": "2016-08-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2xC9c4LNQJlQdTTKKRba0D/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hOGhpa8RMSuDOWntGIAJt",
+            "id": "7hOGhpa8RMSuDOWntGIAJt",
+            "name": "A R I Z O N A",
+            "type": "artist",
+            "uri": "spotify:artist:7hOGhpa8RMSuDOWntGIAJt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217278,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cLgBwRc1LfV0cSoboEfJD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cLgBwRc1LfV0cSoboEfJD",
+        "id": "6cLgBwRc1LfV0cSoboEfJD",
+        "is_local": false,
+        "name": "Cross My Mind",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6cLgBwRc1LfV0cSoboEfJD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2xC9c4LNQJlQdTTKKRba0D"
+}

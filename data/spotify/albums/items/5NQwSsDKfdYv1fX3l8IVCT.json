@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wZCvFXji5Fm3tWalSACZi"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wZCvFXji5Fm3tWalSACZi",
+      "id": "0wZCvFXji5Fm3tWalSACZi",
+      "name": "inci0",
+      "type": "artist",
+      "uri": "spotify:artist:0wZCvFXji5Fm3tWalSACZi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 inci0",
+      "type": "C"
+    },
+    {
+      "text": "2021 inci0",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "689690718046"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5NQwSsDKfdYv1fX3l8IVCT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5NQwSsDKfdYv1fX3l8IVCT",
+  "id": "5NQwSsDKfdYv1fX3l8IVCT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aef300b15c290a57cdef9ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028aef300b15c290a57cdef9ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518aef300b15c290a57cdef9ef",
+      "width": 64
+    }
+  ],
+  "label": "inci0",
+  "name": "reaper w/ lieu & doxia",
+  "popularity": 0,
+  "release_date": "2021-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5NQwSsDKfdYv1fX3l8IVCT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0wZCvFXji5Fm3tWalSACZi"
+            },
+            "href": "https://api.spotify.com/v1/artists/0wZCvFXji5Fm3tWalSACZi",
+            "id": "0wZCvFXji5Fm3tWalSACZi",
+            "name": "inci0",
+            "type": "artist",
+            "uri": "spotify:artist:0wZCvFXji5Fm3tWalSACZi"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59gBdiMkrnO0yIchsUzvNx"
+            },
+            "href": "https://api.spotify.com/v1/artists/59gBdiMkrnO0yIchsUzvNx",
+            "id": "59gBdiMkrnO0yIchsUzvNx",
+            "name": "lieu",
+            "type": "artist",
+            "uri": "spotify:artist:59gBdiMkrnO0yIchsUzvNx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0VzuGmBTj26BrK57VPdSLM"
+            },
+            "href": "https://api.spotify.com/v1/artists/0VzuGmBTj26BrK57VPdSLM",
+            "id": "0VzuGmBTj26BrK57VPdSLM",
+            "name": "doxia",
+            "type": "artist",
+            "uri": "spotify:artist:0VzuGmBTj26BrK57VPdSLM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111592,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PGWsPJZFXTqVI7JCRCIJf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3PGWsPJZFXTqVI7JCRCIJf",
+        "id": "3PGWsPJZFXTqVI7JCRCIJf",
+        "is_local": false,
+        "name": "reaper w/ lieu & doxia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3PGWsPJZFXTqVI7JCRCIJf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5NQwSsDKfdYv1fX3l8IVCT"
+}

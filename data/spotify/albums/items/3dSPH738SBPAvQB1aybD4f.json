@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7uwY65fDg3FVJ8MkJ5QuZK",
+      "id": "7uwY65fDg3FVJ8MkJ5QuZK",
+      "name": "easy life",
+      "type": "artist",
+      "uri": "spotify:artist:7uwY65fDg3FVJ8MkJ5QuZK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 Universal Music Operations Limited",
+      "type": "C"
+    },
+    {
+      "text": "An Island Records release; \u2117 2020 Universal Music Operations Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602435223520"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3dSPH738SBPAvQB1aybD4f"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3dSPH738SBPAvQB1aybD4f",
+  "id": "3dSPH738SBPAvQB1aybD4f",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366c63589b9634350ba31999f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0266c63589b9634350ba31999f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485166c63589b9634350ba31999f",
+      "width": 64
+    }
+  ],
+  "label": "Universal-Island Records Ltd.",
+  "name": "daydreams",
+  "popularity": 0,
+  "release_date": "2020-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3dSPH738SBPAvQB1aybD4f/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7uwY65fDg3FVJ8MkJ5QuZK",
+            "id": "7uwY65fDg3FVJ8MkJ5QuZK",
+            "name": "easy life",
+            "type": "artist",
+            "uri": "spotify:artist:7uwY65fDg3FVJ8MkJ5QuZK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28gOU6aiAGqn3INdkrbabZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28gOU6aiAGqn3INdkrbabZ",
+        "id": "28gOU6aiAGqn3INdkrbabZ",
+        "is_local": false,
+        "name": "daydreams",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:28gOU6aiAGqn3INdkrbabZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3dSPH738SBPAvQB1aybD4f"
+}

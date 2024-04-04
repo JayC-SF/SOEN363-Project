@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+      },
+      "href": "https://api.spotify.com/v1/artists/7tmTvmqgTBcX88ZrSHByrD",
+      "id": "7tmTvmqgTBcX88ZrSHByrD",
+      "name": "Nayt",
+      "type": "artist",
+      "uri": "spotify:artist:7tmTvmqgTBcX88ZrSHByrD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+      },
+      "href": "https://api.spotify.com/v1/artists/5K92J8NwWAlu6fRN2uoHVN",
+      "id": "5K92J8NwWAlu6fRN2uoHVN",
+      "name": "3D",
+      "type": "artist",
+      "uri": "spotify:artist:5K92J8NwWAlu6fRN2uoHVN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 VNT1 Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 VNT1 Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859726804467"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ItJBtctX3JPvj2JxArrjK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ItJBtctX3JPvj2JxArrjK",
+  "id": "6ItJBtctX3JPvj2JxArrjK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e052ac02af750c78fd2fc299",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e052ac02af750c78fd2fc299",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e052ac02af750c78fd2fc299",
+      "width": 64
+    }
+  ],
+  "label": "VNT1 Records",
+  "name": "Quando non ci crede nessuno",
+  "popularity": 0,
+  "release_date": "2018-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ItJBtctX3JPvj2JxArrjK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+            },
+            "href": "https://api.spotify.com/v1/artists/7tmTvmqgTBcX88ZrSHByrD",
+            "id": "7tmTvmqgTBcX88ZrSHByrD",
+            "name": "Nayt",
+            "type": "artist",
+            "uri": "spotify:artist:7tmTvmqgTBcX88ZrSHByrD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+            },
+            "href": "https://api.spotify.com/v1/artists/5K92J8NwWAlu6fRN2uoHVN",
+            "id": "5K92J8NwWAlu6fRN2uoHVN",
+            "name": "3D",
+            "type": "artist",
+            "uri": "spotify:artist:5K92J8NwWAlu6fRN2uoHVN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183428,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50G27pAmv8IhQGjuINZkkq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50G27pAmv8IhQGjuINZkkq",
+        "id": "50G27pAmv8IhQGjuINZkkq",
+        "is_local": false,
+        "name": "Quando non ci crede nessuno",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:50G27pAmv8IhQGjuINZkkq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ItJBtctX3JPvj2JxArrjK"
+}

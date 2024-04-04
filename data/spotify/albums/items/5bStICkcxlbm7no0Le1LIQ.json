@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qDdxfKUpYg8wc49KIuT3b",
+      "id": "2qDdxfKUpYg8wc49KIuT3b",
+      "name": "Tommy Genesis",
+      "type": "artist",
+      "uri": "spotify:artist:2qDdxfKUpYg8wc49KIuT3b"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Downtown Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Downtown Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167105152"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5bStICkcxlbm7no0Le1LIQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5bStICkcxlbm7no0Le1LIQ",
+  "id": "5bStICkcxlbm7no0Le1LIQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273989a248128cf171755ad7f9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02989a248128cf171755ad7f9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851989a248128cf171755ad7f9e",
+      "width": 64
+    }
+  ],
+  "label": "Downtown Records",
+  "name": "Tommy",
+  "popularity": 0,
+  "release_date": "2017-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5bStICkcxlbm7no0Le1LIQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qDdxfKUpYg8wc49KIuT3b",
+            "id": "2qDdxfKUpYg8wc49KIuT3b",
+            "name": "Tommy Genesis",
+            "type": "artist",
+            "uri": "spotify:artist:2qDdxfKUpYg8wc49KIuT3b"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162480,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JteZ9kiW5EGnNN19lMrKU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JteZ9kiW5EGnNN19lMrKU",
+        "id": "6JteZ9kiW5EGnNN19lMrKU",
+        "is_local": false,
+        "name": "Tommy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JteZ9kiW5EGnNN19lMrKU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qDdxfKUpYg8wc49KIuT3b",
+            "id": "2qDdxfKUpYg8wc49KIuT3b",
+            "name": "Tommy Genesis",
+            "type": "artist",
+            "uri": "spotify:artist:2qDdxfKUpYg8wc49KIuT3b"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164172,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/398mqyHfbrfcB7EyoOmbpb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/398mqyHfbrfcB7EyoOmbpb",
+        "id": "398mqyHfbrfcB7EyoOmbpb",
+        "is_local": false,
+        "name": "Tommy",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:398mqyHfbrfcB7EyoOmbpb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5bStICkcxlbm7no0Le1LIQ"
+}

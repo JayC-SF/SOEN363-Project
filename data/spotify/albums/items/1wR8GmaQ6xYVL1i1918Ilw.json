@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kXp8r42AOwb6s5GzdiukU",
+      "id": "2kXp8r42AOwb6s5GzdiukU",
+      "name": "gome",
+      "type": "artist",
+      "uri": "spotify:artist:2kXp8r42AOwb6s5GzdiukU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 snackwax",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 snackwax",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197190297997"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1wR8GmaQ6xYVL1i1918Ilw",
+  "id": "1wR8GmaQ6xYVL1i1918Ilw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273987d8f40e76401c8aae9df54",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02987d8f40e76401c8aae9df54",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851987d8f40e76401c8aae9df54",
+      "width": 64
+    }
+  ],
+  "label": "snackwax",
+  "name": "Tell Me",
+  "popularity": 26,
+  "release_date": "2023-11-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1wR8GmaQ6xYVL1i1918Ilw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kXp8r42AOwb6s5GzdiukU",
+            "id": "2kXp8r42AOwb6s5GzdiukU",
+            "name": "gome",
+            "type": "artist",
+            "uri": "spotify:artist:2kXp8r42AOwb6s5GzdiukU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tRVTrvTIpYC15QvLkI3Tv",
+        "id": "7tRVTrvTIpYC15QvLkI3Tv",
+        "is_local": false,
+        "name": "Tell Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7tRVTrvTIpYC15QvLkI3Tv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1wR8GmaQ6xYVL1i1918Ilw"
+}

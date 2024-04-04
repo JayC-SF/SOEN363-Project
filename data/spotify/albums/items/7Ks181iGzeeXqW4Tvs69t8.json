@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
+      },
+      "href": "https://api.spotify.com/v1/artists/6RcPiWIVptnyi8y3EIbDLB",
+      "id": "6RcPiWIVptnyi8y3EIbDLB",
+      "name": "Blu Samu",
+      "type": "artist",
+      "uri": "spotify:artist:6RcPiWIVptnyi8y3EIbDLB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Bumaye",
+      "type": "C"
+    },
+    {
+      "text": "2017 Bumaye",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859723207773"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7Ks181iGzeeXqW4Tvs69t8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7Ks181iGzeeXqW4Tvs69t8",
+  "id": "7Ks181iGzeeXqW4Tvs69t8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273874e10ec39a3bcc5f1c8286e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02874e10ec39a3bcc5f1c8286e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851874e10ec39a3bcc5f1c8286e",
+      "width": 64
+    }
+  ],
+  "label": "Bumaye",
+  "name": "I Run",
+  "popularity": 0,
+  "release_date": "2017-09-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7Ks181iGzeeXqW4Tvs69t8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
+            },
+            "href": "https://api.spotify.com/v1/artists/6RcPiWIVptnyi8y3EIbDLB",
+            "id": "6RcPiWIVptnyi8y3EIbDLB",
+            "name": "Blu Samu",
+            "type": "artist",
+            "uri": "spotify:artist:6RcPiWIVptnyi8y3EIbDLB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150399,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/267YwBfEzHNZMdLnEJpB17"
+        },
+        "href": "https://api.spotify.com/v1/tracks/267YwBfEzHNZMdLnEJpB17",
+        "id": "267YwBfEzHNZMdLnEJpB17",
+        "is_local": false,
+        "name": "I Run",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:267YwBfEzHNZMdLnEJpB17"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7Ks181iGzeeXqW4Tvs69t8"
+}

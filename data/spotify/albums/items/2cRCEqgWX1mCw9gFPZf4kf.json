@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+      },
+      "href": "https://api.spotify.com/v1/artists/3R1penrqtuKNTeWABjKT5N",
+      "id": "3R1penrqtuKNTeWABjKT5N",
+      "name": "Bir",
+      "type": "artist",
+      "uri": "spotify:artist:3R1penrqtuKNTeWABjKT5N"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M"
+      },
+      "href": "https://api.spotify.com/v1/artists/3SQVNBF31sOSgXeXzkGW9M",
+      "id": "3SQVNBF31sOSgXeXzkGW9M",
+      "name": "Dhanju",
+      "type": "artist",
+      "uri": "spotify:artist:3SQVNBF31sOSgXeXzkGW9M"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+      },
+      "href": "https://api.spotify.com/v1/artists/54BjV0qctcWp8xOip7uaJD",
+      "id": "54BjV0qctcWp8xOip7uaJD",
+      "name": "thiarajxtt",
+      "type": "artist",
+      "uri": "spotify:artist:54BjV0qctcWp8xOip7uaJD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Unbothered Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Unbothered Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197046249583"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2cRCEqgWX1mCw9gFPZf4kf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2cRCEqgWX1mCw9gFPZf4kf",
+  "id": "2cRCEqgWX1mCw9gFPZf4kf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed989311b4099f875ccfbf33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed989311b4099f875ccfbf33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed989311b4099f875ccfbf33",
+      "width": 64
+    }
+  ],
+  "label": "Unbothered Records",
+  "name": "Afterhours",
+  "popularity": 0,
+  "release_date": "2022-07-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2cRCEqgWX1mCw9gFPZf4kf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+            },
+            "href": "https://api.spotify.com/v1/artists/3R1penrqtuKNTeWABjKT5N",
+            "id": "3R1penrqtuKNTeWABjKT5N",
+            "name": "Bir",
+            "type": "artist",
+            "uri": "spotify:artist:3R1penrqtuKNTeWABjKT5N"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SQVNBF31sOSgXeXzkGW9M",
+            "id": "3SQVNBF31sOSgXeXzkGW9M",
+            "name": "Dhanju",
+            "type": "artist",
+            "uri": "spotify:artist:3SQVNBF31sOSgXeXzkGW9M"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+            },
+            "href": "https://api.spotify.com/v1/artists/54BjV0qctcWp8xOip7uaJD",
+            "id": "54BjV0qctcWp8xOip7uaJD",
+            "name": "thiarajxtt",
+            "type": "artist",
+            "uri": "spotify:artist:54BjV0qctcWp8xOip7uaJD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140152,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xIGWteeVsy3hM9fJZMwji"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xIGWteeVsy3hM9fJZMwji",
+        "id": "4xIGWteeVsy3hM9fJZMwji",
+        "is_local": false,
+        "name": "Afterhours",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4xIGWteeVsy3hM9fJZMwji"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2cRCEqgWX1mCw9gFPZf4kf"
+}

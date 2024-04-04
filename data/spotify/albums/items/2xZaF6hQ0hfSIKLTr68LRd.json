@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2SPdjJi2EG3guXGqH1m3mk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2SPdjJi2EG3guXGqH1m3mk",
+      "id": "2SPdjJi2EG3guXGqH1m3mk",
+      "name": "MXT",
+      "type": "artist",
+      "uri": "spotify:artist:2SPdjJi2EG3guXGqH1m3mk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Tribal Trap",
+      "type": "C"
+    },
+    {
+      "text": "2019 Tribal Trap",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733171811"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2xZaF6hQ0hfSIKLTr68LRd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2xZaF6hQ0hfSIKLTr68LRd",
+  "id": "2xZaF6hQ0hfSIKLTr68LRd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b79716556446098809b76a1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b79716556446098809b76a1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b79716556446098809b76a1c",
+      "width": 64
+    }
+  ],
+  "label": "Tribal Trap",
+  "name": "In Between",
+  "popularity": 0,
+  "release_date": "2019-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2xZaF6hQ0hfSIKLTr68LRd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SPdjJi2EG3guXGqH1m3mk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SPdjJi2EG3guXGqH1m3mk",
+            "id": "2SPdjJi2EG3guXGqH1m3mk",
+            "name": "MXT",
+            "type": "artist",
+            "uri": "spotify:artist:2SPdjJi2EG3guXGqH1m3mk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215210,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rohu5n5PTaYeV5rVv7qAV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rohu5n5PTaYeV5rVv7qAV",
+        "id": "0rohu5n5PTaYeV5rVv7qAV",
+        "is_local": false,
+        "name": "In Between",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0rohu5n5PTaYeV5rVv7qAV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2xZaF6hQ0hfSIKLTr68LRd"
+}

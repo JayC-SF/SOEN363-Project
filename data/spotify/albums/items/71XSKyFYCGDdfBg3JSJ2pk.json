@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/11jOZfVtketvHlyEXCkCWC"
+      },
+      "href": "https://api.spotify.com/v1/artists/11jOZfVtketvHlyEXCkCWC",
+      "id": "11jOZfVtketvHlyEXCkCWC",
+      "name": "Hungry Kids of Hungary",
+      "type": "artist",
+      "uri": "spotify:artist:11jOZfVtketvHlyEXCkCWC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Stop Start",
+      "type": "C"
+    },
+    {
+      "text": "2011 Stop Start",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859705589644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/71XSKyFYCGDdfBg3JSJ2pk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/71XSKyFYCGDdfBg3JSJ2pk",
+  "id": "71XSKyFYCGDdfBg3JSJ2pk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c1642dc3ddefd9aade5a0e41",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c1642dc3ddefd9aade5a0e41",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c1642dc3ddefd9aade5a0e41",
+      "width": 64
+    }
+  ],
+  "label": "Stop Start",
+  "name": "Wristwatch",
+  "popularity": 1,
+  "release_date": "2011-03-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/71XSKyFYCGDdfBg3JSJ2pk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11jOZfVtketvHlyEXCkCWC"
+            },
+            "href": "https://api.spotify.com/v1/artists/11jOZfVtketvHlyEXCkCWC",
+            "id": "11jOZfVtketvHlyEXCkCWC",
+            "name": "Hungry Kids of Hungary",
+            "type": "artist",
+            "uri": "spotify:artist:11jOZfVtketvHlyEXCkCWC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0m4QzQynvICdEOCaa9u3l9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0m4QzQynvICdEOCaa9u3l9",
+        "id": "0m4QzQynvICdEOCaa9u3l9",
+        "is_local": false,
+        "name": "Wristwatch",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0m4QzQynvICdEOCaa9u3l9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11jOZfVtketvHlyEXCkCWC"
+            },
+            "href": "https://api.spotify.com/v1/artists/11jOZfVtketvHlyEXCkCWC",
+            "id": "11jOZfVtketvHlyEXCkCWC",
+            "name": "Hungry Kids of Hungary",
+            "type": "artist",
+            "uri": "spotify:artist:11jOZfVtketvHlyEXCkCWC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191162,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rN6rJnkdntFXhwdu7qyGF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rN6rJnkdntFXhwdu7qyGF",
+        "id": "6rN6rJnkdntFXhwdu7qyGF",
+        "is_local": false,
+        "name": "Wristwatch (My Own Pet Radio Remix)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6rN6rJnkdntFXhwdu7qyGF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:71XSKyFYCGDdfBg3JSJ2pk"
+}

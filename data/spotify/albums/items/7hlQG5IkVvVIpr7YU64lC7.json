@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gqndMPreD7yp1snkBw5k1"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gqndMPreD7yp1snkBw5k1",
+      "id": "1gqndMPreD7yp1snkBw5k1",
+      "name": "BBG Steppaa",
+      "type": "artist",
+      "uri": "spotify:artist:1gqndMPreD7yp1snkBw5k1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+      },
+      "href": "https://api.spotify.com/v1/artists/63X7mnpy2kfkDtltarrWD1",
+      "id": "63X7mnpy2kfkDtltarrWD1",
+      "name": "Sugarhill Ddot",
+      "type": "artist",
+      "uri": "spotify:artist:63X7mnpy2kfkDtltarrWD1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602455847416"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7hlQG5IkVvVIpr7YU64lC7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7hlQG5IkVvVIpr7YU64lC7",
+  "id": "7hlQG5IkVvVIpr7YU64lC7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384212f111868129055936d3c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284212f111868129055936d3c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184212f111868129055936d3c",
+      "width": 64
+    }
+  ],
+  "label": "Priority Records",
+  "name": "Spinnin'",
+  "popularity": 0,
+  "release_date": "2023-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7hlQG5IkVvVIpr7YU64lC7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gqndMPreD7yp1snkBw5k1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gqndMPreD7yp1snkBw5k1",
+            "id": "1gqndMPreD7yp1snkBw5k1",
+            "name": "BBG Steppaa",
+            "type": "artist",
+            "uri": "spotify:artist:1gqndMPreD7yp1snkBw5k1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+            },
+            "href": "https://api.spotify.com/v1/artists/63X7mnpy2kfkDtltarrWD1",
+            "id": "63X7mnpy2kfkDtltarrWD1",
+            "name": "Sugarhill Ddot",
+            "type": "artist",
+            "uri": "spotify:artist:63X7mnpy2kfkDtltarrWD1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125797,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5oC1t3DSHx2xF9TscRL1nQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oC1t3DSHx2xF9TscRL1nQ",
+        "id": "5oC1t3DSHx2xF9TscRL1nQ",
+        "is_local": false,
+        "name": "Spinnin'",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5oC1t3DSHx2xF9TscRL1nQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7hlQG5IkVvVIpr7YU64lC7"
+}

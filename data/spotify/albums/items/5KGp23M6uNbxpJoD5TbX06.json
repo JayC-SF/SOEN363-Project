@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IKdK6PbitvCiXt1t2bPU6",
+      "id": "2IKdK6PbitvCiXt1t2bPU6",
+      "name": "Mesita",
+      "type": "artist",
+      "uri": "spotify:artist:2IKdK6PbitvCiXt1t2bPU6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Mesita",
+      "type": "C"
+    },
+    {
+      "text": "2020 Mesita",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195037852729"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5KGp23M6uNbxpJoD5TbX06"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5KGp23M6uNbxpJoD5TbX06",
+  "id": "5KGp23M6uNbxpJoD5TbX06",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737bf617bd2debdb2085098706",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027bf617bd2debdb2085098706",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517bf617bd2debdb2085098706",
+      "width": 64
+    }
+  ],
+  "label": "Mesita",
+  "name": "Dubai",
+  "popularity": 0,
+  "release_date": "2020-01-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5KGp23M6uNbxpJoD5TbX06/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+            },
+            "href": "https://api.spotify.com/v1/artists/2IKdK6PbitvCiXt1t2bPU6",
+            "id": "2IKdK6PbitvCiXt1t2bPU6",
+            "name": "Mesita",
+            "type": "artist",
+            "uri": "spotify:artist:2IKdK6PbitvCiXt1t2bPU6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157732,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PZf3xkR1X0IMj7o924Gpx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PZf3xkR1X0IMj7o924Gpx",
+        "id": "1PZf3xkR1X0IMj7o924Gpx",
+        "is_local": false,
+        "name": "Dubai",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1PZf3xkR1X0IMj7o924Gpx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5KGp23M6uNbxpJoD5TbX06"
+}

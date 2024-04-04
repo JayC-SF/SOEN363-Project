@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE"
+      },
+      "href": "https://api.spotify.com/v1/artists/2eHEzcBykQCBbtWvYLjHHE",
+      "id": "2eHEzcBykQCBbtWvYLjHHE",
+      "name": "Ben Haenow",
+      "type": "artist",
+      "uri": "spotify:artist:2eHEzcBykQCBbtWvYLjHHE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2024 Double J Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2024 Double J Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5037300065588"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/06uFVDo7OVdHNhTBuyaakD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/06uFVDo7OVdHNhTBuyaakD",
+  "id": "06uFVDo7OVdHNhTBuyaakD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f71fae3d5f00a20a3f6962f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f71fae3d5f00a20a3f6962f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f71fae3d5f00a20a3f6962f5",
+      "width": 64
+    }
+  ],
+  "label": "Double J Music",
+  "name": "Easy (Like Sunday Morning)",
+  "popularity": 26,
+  "release_date": "2024-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/06uFVDo7OVdHNhTBuyaakD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2eHEzcBykQCBbtWvYLjHHE",
+            "id": "2eHEzcBykQCBbtWvYLjHHE",
+            "name": "Ben Haenow",
+            "type": "artist",
+            "uri": "spotify:artist:2eHEzcBykQCBbtWvYLjHHE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 227464,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f5A2kiVnIjUUJfnNDGGUg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0f5A2kiVnIjUUJfnNDGGUg",
+        "id": "0f5A2kiVnIjUUJfnNDGGUg",
+        "is_local": false,
+        "name": "Easy (Like Sunday Morning)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0f5A2kiVnIjUUJfnNDGGUg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:06uFVDo7OVdHNhTBuyaakD"
+}

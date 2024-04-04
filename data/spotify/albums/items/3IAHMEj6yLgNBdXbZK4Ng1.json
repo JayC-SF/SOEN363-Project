@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+      },
+      "href": "https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF",
+      "id": "41MozSoPIsD1dJM0CLPjZF",
+      "name": "BLACKPINK",
+      "type": "artist",
+      "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 BlackPink",
+      "type": "C"
+    },
+    {
+      "text": "2018 BlackPink",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5057173914172"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3IAHMEj6yLgNBdXbZK4Ng1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3IAHMEj6yLgNBdXbZK4Ng1",
+  "id": "3IAHMEj6yLgNBdXbZK4Ng1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5f531958e4ac430acf75c94",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5f531958e4ac430acf75c94",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5f531958e4ac430acf75c94",
+      "width": 64
+    }
+  ],
+  "label": "BlackPink",
+  "name": "So Hot",
+  "popularity": 0,
+  "release_date": "2018-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3IAHMEj6yLgNBdXbZK4Ng1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+            },
+            "href": "https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF",
+            "id": "41MozSoPIsD1dJM0CLPjZF",
+            "name": "BLACKPINK",
+            "type": "artist",
+            "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139899,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OLkecLbqxFwIyjTWQXtvt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3OLkecLbqxFwIyjTWQXtvt",
+        "id": "3OLkecLbqxFwIyjTWQXtvt",
+        "is_local": false,
+        "name": "So Hot",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3OLkecLbqxFwIyjTWQXtvt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3IAHMEj6yLgNBdXbZK4Ng1"
+}

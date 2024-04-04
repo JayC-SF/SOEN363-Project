@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+      },
+      "href": "https://api.spotify.com/v1/artists/5UKoKVlU7EDN4UgDuVRAbX",
+      "id": "5UKoKVlU7EDN4UgDuVRAbX",
+      "name": "Baek A Yeon",
+      "type": "artist",
+      "uri": "spotify:artist:5UKoKVlU7EDN4UgDuVRAbX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 JYP Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 JYP Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "738676856392"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4XU6JkCwfKDD12NV74MkKq",
+  "id": "4XU6JkCwfKDD12NV74MkKq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7870164255c48b9cdbf18e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7870164255c48b9cdbf18e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7870164255c48b9cdbf18e8",
+      "width": 64
+    }
+  ],
+  "label": "JYP Entertainment",
+  "name": "So-so",
+  "popularity": 0,
+  "release_date": "2016-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4XU6JkCwfKDD12NV74MkKq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UKoKVlU7EDN4UgDuVRAbX",
+            "id": "5UKoKVlU7EDN4UgDuVRAbX",
+            "name": "Baek A Yeon",
+            "type": "artist",
+            "uri": "spotify:artist:5UKoKVlU7EDN4UgDuVRAbX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212641,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1F3PSls61sG4NvY5S6gt7Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1F3PSls61sG4NvY5S6gt7Y",
+        "id": "1F3PSls61sG4NvY5S6gt7Y",
+        "is_local": false,
+        "name": "So-so",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1F3PSls61sG4NvY5S6gt7Y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UKoKVlU7EDN4UgDuVRAbX",
+            "id": "5UKoKVlU7EDN4UgDuVRAbX",
+            "name": "Baek A Yeon",
+            "type": "artist",
+            "uri": "spotify:artist:5UKoKVlU7EDN4UgDuVRAbX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gdttvt383pkL2so39JgzX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gdttvt383pkL2so39JgzX",
+        "id": "7gdttvt383pkL2so39JgzX",
+        "is_local": false,
+        "name": "Something to Say",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7gdttvt383pkL2so39JgzX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4XU6JkCwfKDD12NV74MkKq"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Vu87j6vCvfwc7FNVGnBwk",
+      "id": "5Vu87j6vCvfwc7FNVGnBwk",
+      "name": "Justin Stone",
+      "type": "artist",
+      "uri": "spotify:artist:5Vu87j6vCvfwc7FNVGnBwk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 JustinStoneMusicLLC",
+      "type": "C"
+    },
+    {
+      "text": "2018 JustinStoneMusicLLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840090555819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4mFWBoW0GCKJLoZdBIulna"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4mFWBoW0GCKJLoZdBIulna",
+  "id": "4mFWBoW0GCKJLoZdBIulna",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273611c3ba9486b50883cf94835",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02611c3ba9486b50883cf94835",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851611c3ba9486b50883cf94835",
+      "width": 64
+    }
+  ],
+  "label": "JustinStoneMusicLLC",
+  "name": "Can't Be Yours",
+  "popularity": 0,
+  "release_date": "2018-09-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4mFWBoW0GCKJLoZdBIulna/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Vu87j6vCvfwc7FNVGnBwk",
+            "id": "5Vu87j6vCvfwc7FNVGnBwk",
+            "name": "Justin Stone",
+            "type": "artist",
+            "uri": "spotify:artist:5Vu87j6vCvfwc7FNVGnBwk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 148645,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tsvt4PVsDavakD7XqfEv5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tsvt4PVsDavakD7XqfEv5",
+        "id": "2tsvt4PVsDavakD7XqfEv5",
+        "is_local": false,
+        "name": "Can't Be Yours",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2tsvt4PVsDavakD7XqfEv5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4mFWBoW0GCKJLoZdBIulna"
+}

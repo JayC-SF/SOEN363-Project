@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO"
+      },
+      "href": "https://api.spotify.com/v1/artists/659fOqEHzm3jL8AeWuOwXO",
+      "id": "659fOqEHzm3jL8AeWuOwXO",
+      "name": "Beoga",
+      "type": "artist",
+      "uri": "spotify:artist:659fOqEHzm3jL8AeWuOwXO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3j4FHbC5zwmYGJ7r0ZgaMt",
+      "id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+      "name": "Lissie",
+      "type": "artist",
+      "uri": "spotify:artist:3j4FHbC5zwmYGJ7r0ZgaMt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Beoga Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2020 Beoga Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526900882"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1KvlgyaBimqIKqtLcGUS2J"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1KvlgyaBimqIKqtLcGUS2J",
+  "id": "1KvlgyaBimqIKqtLcGUS2J",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bc9aee500f7632b0274d90d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bc9aee500f7632b0274d90d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bc9aee500f7632b0274d90d",
+      "width": 64
+    }
+  ],
+  "label": "Beoga Ltd.",
+  "name": "In a Rocket",
+  "popularity": 0,
+  "release_date": "2020-04-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1KvlgyaBimqIKqtLcGUS2J/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO"
+            },
+            "href": "https://api.spotify.com/v1/artists/659fOqEHzm3jL8AeWuOwXO",
+            "id": "659fOqEHzm3jL8AeWuOwXO",
+            "name": "Beoga",
+            "type": "artist",
+            "uri": "spotify:artist:659fOqEHzm3jL8AeWuOwXO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3j4FHbC5zwmYGJ7r0ZgaMt",
+            "id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+            "name": "Lissie",
+            "type": "artist",
+            "uri": "spotify:artist:3j4FHbC5zwmYGJ7r0ZgaMt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170490,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ohMvJzJyBzklKAqCNEaIg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ohMvJzJyBzklKAqCNEaIg",
+        "id": "3ohMvJzJyBzklKAqCNEaIg",
+        "is_local": false,
+        "name": "In a Rocket",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ohMvJzJyBzklKAqCNEaIg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1KvlgyaBimqIKqtLcGUS2J"
+}

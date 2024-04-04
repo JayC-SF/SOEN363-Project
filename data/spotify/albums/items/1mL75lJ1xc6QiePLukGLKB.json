@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+      "id": "3836OTICMPjhTMMcpPw4EC",
+      "name": "Broiler",
+      "type": "artist",
+      "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+    }
+  ],
+  "available_markets": [
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Sky Music, under exclusive license to Universal Music AS, Norway",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Sky Music, under exclusive license to Universal Music AS, Norway",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547137777"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1mL75lJ1xc6QiePLukGLKB",
+  "id": "1mL75lJ1xc6QiePLukGLKB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731bc2608998d3ab9300cbf1d0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021bc2608998d3ab9300cbf1d0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511bc2608998d3ab9300cbf1d0",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AS",
+  "name": "Wild Eyes",
+  "popularity": 36,
+  "release_date": "2014-11-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1mL75lJ1xc6QiePLukGLKB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+            "id": "3836OTICMPjhTMMcpPw4EC",
+            "name": "Broiler",
+            "type": "artist",
+            "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONN78qj6zuTEsmal4ZJKG",
+            "id": "0ONN78qj6zuTEsmal4ZJKG",
+            "name": "RAVVEL",
+            "type": "artist",
+            "uri": "spotify:artist:0ONN78qj6zuTEsmal4ZJKG"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 204573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6CZSePF4e6DJbraNkjgJ6d",
+        "id": "6CZSePF4e6DJbraNkjgJ6d",
+        "is_local": false,
+        "name": "Wild Eyes",
+        "preview_url": "https://p.scdn.co/mp3-preview/906b6cb2703cd9296aa0f03444ef537c77b6d18b?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6CZSePF4e6DJbraNkjgJ6d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1mL75lJ1xc6QiePLukGLKB"
+}

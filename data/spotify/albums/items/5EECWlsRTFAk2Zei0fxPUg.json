@@ -1,0 +1,679 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id": "7hJcb9fa4alzcOq3EaNPoG",
+      "name": "Snoop Dogg",
+      "type": "artist",
+      "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2001 Death Row",
+      "type": "C"
+    },
+    {
+      "text": "2001 Death Row",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "728706301022"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EECWlsRTFAk2Zei0fxPUg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EECWlsRTFAk2Zei0fxPUg",
+  "id": "5EECWlsRTFAk2Zei0fxPUg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dff24e7ab8318ce87bfa3c36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dff24e7ab8318ce87bfa3c36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dff24e7ab8318ce87bfa3c36",
+      "width": 64
+    }
+  ],
+  "label": "Death Row Records",
+  "name": "Tha Doggfather",
+  "popularity": 0,
+  "release_date": "2001-04-24",
+  "release_date_precision": "day",
+  "total_tracks": 21,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EECWlsRTFAk2Zei0fxPUg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 46880,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UEKcqjE6HVewp0UP19hbU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UEKcqjE6HVewp0UP19hbU",
+        "id": "2UEKcqjE6HVewp0UP19hbU",
+        "is_local": false,
+        "name": "Intro",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2UEKcqjE6HVewp0UP19hbU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 236893,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZLHdH0TciKva3RMB7w0F1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ZLHdH0TciKva3RMB7w0F1",
+        "id": "1ZLHdH0TciKva3RMB7w0F1",
+        "is_local": false,
+        "name": "Doggfather",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1ZLHdH0TciKva3RMB7w0F1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 60906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M7nRL9nTtyHmXzv0Ifhbh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3M7nRL9nTtyHmXzv0Ifhbh",
+        "id": "3M7nRL9nTtyHmXzv0Ifhbh",
+        "is_local": false,
+        "name": "Ride 4 Me",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3M7nRL9nTtyHmXzv0Ifhbh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283400,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70CAz0Obf7on88TjRorxQ8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70CAz0Obf7on88TjRorxQ8",
+        "id": "70CAz0Obf7on88TjRorxQ8",
+        "is_local": false,
+        "name": "Up Jump Tha Boogie",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:70CAz0Obf7on88TjRorxQ8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ivaQ0XZ2Bwjw4DMvSICsA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ivaQ0XZ2Bwjw4DMvSICsA",
+        "id": "5ivaQ0XZ2Bwjw4DMvSICsA",
+        "is_local": false,
+        "name": "Freestyle Conversation",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5ivaQ0XZ2Bwjw4DMvSICsA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 37453,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RpkjbzIH63scsMEo9VUno"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RpkjbzIH63scsMEo9VUno",
+        "id": "1RpkjbzIH63scsMEo9VUno",
+        "is_local": false,
+        "name": "When I Grow Up",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1RpkjbzIH63scsMEo9VUno"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243560,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bEztEsSt3xxnkYU14iSrx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7bEztEsSt3xxnkYU14iSrx",
+        "id": "7bEztEsSt3xxnkYU14iSrx",
+        "is_local": false,
+        "name": "Snoop Bounce",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7bEztEsSt3xxnkYU14iSrx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 292800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WuZvYvLZcEcpOiNRNlIqr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3WuZvYvLZcEcpOiNRNlIqr",
+        "id": "3WuZvYvLZcEcpOiNRNlIqr",
+        "is_local": false,
+        "name": "Gold Rush",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3WuZvYvLZcEcpOiNRNlIqr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211493,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YewT2ic06Hc4AQOVTNGlo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YewT2ic06Hc4AQOVTNGlo",
+        "id": "2YewT2ic06Hc4AQOVTNGlo",
+        "is_local": false,
+        "name": "(Tear 'Em Off) Me and My Doggz",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2YewT2ic06Hc4AQOVTNGlo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 284853,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gM3DCmSDVSLbjtka3jEyo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gM3DCmSDVSLbjtka3jEyo",
+        "id": "5gM3DCmSDVSLbjtka3jEyo",
+        "is_local": false,
+        "name": "You Thought",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5gM3DCmSDVSLbjtka3jEyo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5S59X5Ily0aLNsmF1kqa6K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5S59X5Ily0aLNsmF1kqa6K",
+        "id": "5S59X5Ily0aLNsmF1kqa6K",
+        "is_local": false,
+        "name": "Vapors",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5S59X5Ily0aLNsmF1kqa6K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ExSwweOx2xGwAJTUKijW8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ExSwweOx2xGwAJTUKijW8",
+        "id": "6ExSwweOx2xGwAJTUKijW8",
+        "is_local": false,
+        "name": "Groupie",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6ExSwweOx2xGwAJTUKijW8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 217173,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2T8SN1Wf3KDAys2HSbWrrt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2T8SN1Wf3KDAys2HSbWrrt",
+        "id": "2T8SN1Wf3KDAys2HSbWrrt",
+        "is_local": false,
+        "name": "2001",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2T8SN1Wf3KDAys2HSbWrrt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 279120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6prj9wCYG6Ffj1D1TsssF1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6prj9wCYG6Ffj1D1TsssF1",
+        "id": "6prj9wCYG6Ffj1D1TsssF1",
+        "is_local": false,
+        "name": "Sixx Minutes",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6prj9wCYG6Ffj1D1TsssF1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 282373,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lfuIooR1JQZUB68VobNMD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5lfuIooR1JQZUB68VobNMD",
+        "id": "5lfuIooR1JQZUB68VobNMD",
+        "is_local": false,
+        "name": "(D.J.) Wake Up",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5lfuIooR1JQZUB68VobNMD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HXPPI7F3CQxJwo8FP1H9l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HXPPI7F3CQxJwo8FP1H9l",
+        "id": "7HXPPI7F3CQxJwo8FP1H9l",
+        "is_local": false,
+        "name": "Snoop's Upside Ya Head",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:7HXPPI7F3CQxJwo8FP1H9l"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 255640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UFelSRsHMPkFvLt3GI5IR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UFelSRsHMPkFvLt3GI5IR",
+        "id": "4UFelSRsHMPkFvLt3GI5IR",
+        "is_local": false,
+        "name": "Blueberry",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:4UFelSRsHMPkFvLt3GI5IR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 31720,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aAf6CamQXpMUaf8hU5MFv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6aAf6CamQXpMUaf8hU5MFv",
+        "id": "6aAf6CamQXpMUaf8hU5MFv",
+        "is_local": false,
+        "name": "Traffic Jam",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:6aAf6CamQXpMUaf8hU5MFv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 280346,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YYCsmd1x0sOAM2WLDev4b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YYCsmd1x0sOAM2WLDev4b",
+        "id": "4YYCsmd1x0sOAM2WLDev4b",
+        "is_local": false,
+        "name": "Doggyland",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:4YYCsmd1x0sOAM2WLDev4b"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 262573,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jtXjA7FCSTezba9ozQbK2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jtXjA7FCSTezba9ozQbK2",
+        "id": "0jtXjA7FCSTezba9ozQbK2",
+        "is_local": false,
+        "name": "Downtown Assassins",
+        "preview_url": null,
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:0jtXjA7FCSTezba9ozQbK2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 44933,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nVWrsnSrJ5GUwJerFQL4S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nVWrsnSrJ5GUwJerFQL4S",
+        "id": "6nVWrsnSrJ5GUwJerFQL4S",
+        "is_local": false,
+        "name": "Outro",
+        "preview_url": null,
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:6nVWrsnSrJ5GUwJerFQL4S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 21
+  },
+  "type": "album",
+  "uri": "spotify:album:5EECWlsRTFAk2Zei0fxPUg"
+}

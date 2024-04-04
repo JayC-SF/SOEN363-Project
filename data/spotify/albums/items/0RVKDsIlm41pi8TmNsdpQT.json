@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE"
+      },
+      "href": "https://api.spotify.com/v1/artists/3RMAZkh3T3IO2EUMuZMlOE",
+      "id": "3RMAZkh3T3IO2EUMuZMlOE",
+      "name": "Yus Gz",
+      "type": "artist",
+      "uri": "spotify:artist:3RMAZkh3T3IO2EUMuZMlOE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Yus Gz",
+      "type": "C"
+    },
+    {
+      "text": "2022 Yus Gz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196814268795"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0RVKDsIlm41pi8TmNsdpQT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0RVKDsIlm41pi8TmNsdpQT",
+  "id": "0RVKDsIlm41pi8TmNsdpQT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1a6774690794e52246fda24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1a6774690794e52246fda24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1a6774690794e52246fda24",
+      "width": 64
+    }
+  ],
+  "label": "Yus Gz",
+  "name": "PG-13",
+  "popularity": 6,
+  "release_date": "2022-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0RVKDsIlm41pi8TmNsdpQT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RMAZkh3T3IO2EUMuZMlOE",
+            "id": "3RMAZkh3T3IO2EUMuZMlOE",
+            "name": "Yus Gz",
+            "type": "artist",
+            "uri": "spotify:artist:3RMAZkh3T3IO2EUMuZMlOE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114991,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rulkonJlp5t8eXikqjKQD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rulkonJlp5t8eXikqjKQD",
+        "id": "5rulkonJlp5t8eXikqjKQD",
+        "is_local": false,
+        "name": "PG-13",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5rulkonJlp5t8eXikqjKQD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0RVKDsIlm41pi8TmNsdpQT"
+}

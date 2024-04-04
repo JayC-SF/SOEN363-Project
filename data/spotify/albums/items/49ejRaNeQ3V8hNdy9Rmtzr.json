@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+      },
+      "href": "https://api.spotify.com/v1/artists/22dFwJoRBV51ue5TGnC7Dt",
+      "id": "22dFwJoRBV51ue5TGnC7Dt",
+      "name": "Beny Jr",
+      "type": "artist",
+      "uri": "spotify:artist:22dFwJoRBV51ue5TGnC7Dt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Beny Jr",
+      "type": "C"
+    },
+    {
+      "text": "2021 Beny Jr",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162330930"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49ejRaNeQ3V8hNdy9Rmtzr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49ejRaNeQ3V8hNdy9Rmtzr",
+  "id": "49ejRaNeQ3V8hNdy9Rmtzr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ddf352ad7447cc46dbde39ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ddf352ad7447cc46dbde39ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ddf352ad7447cc46dbde39ef",
+      "width": 64
+    }
+  ],
+  "label": "Beny Jr",
+  "name": "Carretera",
+  "popularity": 0,
+  "release_date": "2021-02-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49ejRaNeQ3V8hNdy9Rmtzr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+            },
+            "href": "https://api.spotify.com/v1/artists/22dFwJoRBV51ue5TGnC7Dt",
+            "id": "22dFwJoRBV51ue5TGnC7Dt",
+            "name": "Beny Jr",
+            "type": "artist",
+            "uri": "spotify:artist:22dFwJoRBV51ue5TGnC7Dt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157090,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kcMVSt1DIKkLKktHTNKGw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5kcMVSt1DIKkLKktHTNKGw",
+        "id": "5kcMVSt1DIKkLKktHTNKGw",
+        "is_local": false,
+        "name": "Carretera",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5kcMVSt1DIKkLKktHTNKGw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49ejRaNeQ3V8hNdy9Rmtzr"
+}

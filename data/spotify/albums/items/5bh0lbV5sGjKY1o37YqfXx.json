@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AMeiDbfU2vonrTkpXDKUu",
+      "id": "2AMeiDbfU2vonrTkpXDKUu",
+      "name": "Kay Flock",
+      "type": "artist",
+      "uri": "spotify:artist:2AMeiDbfU2vonrTkpXDKUu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Kay Flock",
+      "type": "C"
+    },
+    {
+      "text": "2021 Kay Flock",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196282432056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5bh0lbV5sGjKY1o37YqfXx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5bh0lbV5sGjKY1o37YqfXx",
+  "id": "5bh0lbV5sGjKY1o37YqfXx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a96dfa5b175c7a4534c8c9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a96dfa5b175c7a4534c8c9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a96dfa5b175c7a4534c8c9c",
+      "width": 64
+    }
+  ],
+  "label": "DOA Records",
+  "name": "War",
+  "popularity": 0,
+  "release_date": "2021-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5bh0lbV5sGjKY1o37YqfXx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AMeiDbfU2vonrTkpXDKUu",
+            "id": "2AMeiDbfU2vonrTkpXDKUu",
+            "name": "Kay Flock",
+            "type": "artist",
+            "uri": "spotify:artist:2AMeiDbfU2vonrTkpXDKUu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2a3aYuuHGaRPW88faYvApR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2a3aYuuHGaRPW88faYvApR",
+            "id": "2a3aYuuHGaRPW88faYvApR",
+            "name": "KD",
+            "type": "artist",
+            "uri": "spotify:artist:2a3aYuuHGaRPW88faYvApR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198902,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0INqMPPPsIMK753jQaTNtf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0INqMPPPsIMK753jQaTNtf",
+        "id": "0INqMPPPsIMK753jQaTNtf",
+        "is_local": false,
+        "name": "War",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0INqMPPPsIMK753jQaTNtf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5bh0lbV5sGjKY1o37YqfXx"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZK8OIUhJAN0wlEZRoptQh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZK8OIUhJAN0wlEZRoptQh",
+      "id": "1ZK8OIUhJAN0wlEZRoptQh",
+      "name": "snvqs",
+      "type": "artist",
+      "uri": "spotify:artist:1ZK8OIUhJAN0wlEZRoptQh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 2311917 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 2311917 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207201016"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4jY2KREYK1qQgKdTIuCGvn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4jY2KREYK1qQgKdTIuCGvn",
+  "id": "4jY2KREYK1qQgKdTIuCGvn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fbaf53e81a063c1ce6425f6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fbaf53e81a063c1ce6425f6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fbaf53e81a063c1ce6425f6b",
+      "width": 64
+    }
+  ],
+  "label": "2311917 Records DK",
+  "name": "Teeth",
+  "popularity": 17,
+  "release_date": "2022-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4jY2KREYK1qQgKdTIuCGvn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZK8OIUhJAN0wlEZRoptQh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZK8OIUhJAN0wlEZRoptQh",
+            "id": "1ZK8OIUhJAN0wlEZRoptQh",
+            "name": "snvqs",
+            "type": "artist",
+            "uri": "spotify:artist:1ZK8OIUhJAN0wlEZRoptQh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163722,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40GLLul7Qap0Q1gVv5OaeW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40GLLul7Qap0Q1gVv5OaeW",
+        "id": "40GLLul7Qap0Q1gVv5OaeW",
+        "is_local": false,
+        "name": "Teeth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40GLLul7Qap0Q1gVv5OaeW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4jY2KREYK1qQgKdTIuCGvn"
+}

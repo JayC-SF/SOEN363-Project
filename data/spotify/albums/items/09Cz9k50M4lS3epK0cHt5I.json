@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+      },
+      "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+      "id": "7iZtZyCzp3LItcw1wtPI3D",
+      "name": "Rae Sremmurd",
+      "type": "artist",
+      "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2016 Eardruma/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Eardruma/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547920348"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/09Cz9k50M4lS3epK0cHt5I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/09Cz9k50M4lS3epK0cHt5I",
+  "id": "09Cz9k50M4lS3epK0cHt5I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347f6181a3aa332dd7d4085ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247f6181a3aa332dd7d4085ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147f6181a3aa332dd7d4085ea",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Look Alive",
+  "popularity": 0,
+  "release_date": "2016-04-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/09Cz9k50M4lS3epK0cHt5I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D",
+            "id": "7iZtZyCzp3LItcw1wtPI3D",
+            "name": "Rae Sremmurd",
+            "type": "artist",
+            "uri": "spotify:artist:7iZtZyCzp3LItcw1wtPI3D"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228561,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2q5VihLtrTkHHI5dnNkzoJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2q5VihLtrTkHHI5dnNkzoJ",
+        "id": "2q5VihLtrTkHHI5dnNkzoJ",
+        "is_local": false,
+        "name": "Look Alive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2q5VihLtrTkHHI5dnNkzoJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:09Cz9k50M4lS3epK0cHt5I"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77AkUp3YNp9Snnl84VRo0Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/77AkUp3YNp9Snnl84VRo0Q",
+      "id": "77AkUp3YNp9Snnl84VRo0Q",
+      "name": "Jon Roger Band",
+      "type": "artist",
+      "uri": "spotify:artist:77AkUp3YNp9Snnl84VRo0Q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 Jon Roger Band",
+      "type": "C"
+    },
+    {
+      "text": "2024 Jon Roger Band",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "798239675983"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1IPVy8qY5Li5bGYBqd8OD0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1IPVy8qY5Li5bGYBqd8OD0",
+  "id": "1IPVy8qY5Li5bGYBqd8OD0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d60da4dea3bf36b5c4f7b081",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d60da4dea3bf36b5c4f7b081",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d60da4dea3bf36b5c4f7b081",
+      "width": 64
+    }
+  ],
+  "label": "Jon Roger Band",
+  "name": "Roses in the Winter",
+  "popularity": 32,
+  "release_date": "2024-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1IPVy8qY5Li5bGYBqd8OD0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77AkUp3YNp9Snnl84VRo0Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/77AkUp3YNp9Snnl84VRo0Q",
+            "id": "77AkUp3YNp9Snnl84VRo0Q",
+            "name": "Jon Roger Band",
+            "type": "artist",
+            "uri": "spotify:artist:77AkUp3YNp9Snnl84VRo0Q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gK9NtaePH85mjkrqEbgcS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gK9NtaePH85mjkrqEbgcS",
+            "id": "4gK9NtaePH85mjkrqEbgcS",
+            "name": "Lucas Poltronieri",
+            "type": "artist",
+            "uri": "spotify:artist:4gK9NtaePH85mjkrqEbgcS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209495,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57GrsHvlk0XMI3J6GUnayC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/57GrsHvlk0XMI3J6GUnayC",
+        "id": "57GrsHvlk0XMI3J6GUnayC",
+        "is_local": false,
+        "name": "Roses in the Winter",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:57GrsHvlk0XMI3J6GUnayC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1IPVy8qY5Li5bGYBqd8OD0"
+}

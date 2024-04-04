@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+      },
+      "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+      "id": "62DmErcU7dqZbJaDqwsqzR",
+      "name": "Popcaan",
+      "type": "artist",
+      "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Jelly Records, Kalex Productions & Unruly Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2018 Jelly Records, Kalex Productions & Unruly Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "848760068966"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1FXCzLV4JUbt0jpv184cjE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1FXCzLV4JUbt0jpv184cjE",
+  "id": "1FXCzLV4JUbt0jpv184cjE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc947284bc01eac20cf1b590",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc947284bc01eac20cf1b590",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc947284bc01eac20cf1b590",
+      "width": 64
+    }
+  ],
+  "label": "Jelly Records, Kalex Productions & Unruly Entertainment",
+  "name": "My Type - Single",
+  "popularity": 0,
+  "release_date": "2018-03-09",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1FXCzLV4JUbt0jpv184cjE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+            },
+            "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+            "id": "62DmErcU7dqZbJaDqwsqzR",
+            "name": "Popcaan",
+            "type": "artist",
+            "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zFICrJwHNzgHqnrJZ1jsl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0zFICrJwHNzgHqnrJZ1jsl",
+        "id": "0zFICrJwHNzgHqnrJZ1jsl",
+        "is_local": false,
+        "name": "My Type",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0zFICrJwHNzgHqnrJZ1jsl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+            },
+            "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+            "id": "62DmErcU7dqZbJaDqwsqzR",
+            "name": "Popcaan",
+            "type": "artist",
+            "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185065,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y0vBgyEGaPUIDsoQQCZxr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y0vBgyEGaPUIDsoQQCZxr",
+        "id": "0y0vBgyEGaPUIDsoQQCZxr",
+        "is_local": false,
+        "name": "My Type",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0y0vBgyEGaPUIDsoQQCZxr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1FXCzLV4JUbt0jpv184cjE"
+}

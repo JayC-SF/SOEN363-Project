@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xmZKWPhiMa6sD84Efjrh9",
+      "id": "5xmZKWPhiMa6sD84Efjrh9",
+      "name": "kevoxx",
+      "type": "artist",
+      "uri": "spotify:artist:5xmZKWPhiMa6sD84Efjrh9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 kevoxx",
+      "type": "C"
+    },
+    {
+      "text": "2023 kevoxx",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197545388530"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5XwS5D1l3nfzyLHbv74HVh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5XwS5D1l3nfzyLHbv74HVh",
+  "id": "5XwS5D1l3nfzyLHbv74HVh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b601f3d841ef2924b4182fa3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b601f3d841ef2924b4182fa3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b601f3d841ef2924b4182fa3",
+      "width": 64
+    }
+  ],
+  "label": "kevoxx",
+  "name": "4 Morant",
+  "popularity": 0,
+  "release_date": "1974-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5XwS5D1l3nfzyLHbv74HVh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmZKWPhiMa6sD84Efjrh9",
+            "id": "5xmZKWPhiMa6sD84Efjrh9",
+            "name": "kevoxx",
+            "type": "artist",
+            "uri": "spotify:artist:5xmZKWPhiMa6sD84Efjrh9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172230,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2S3aSvZrPLg66h9SgNFHep"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2S3aSvZrPLg66h9SgNFHep",
+        "id": "2S3aSvZrPLg66h9SgNFHep",
+        "is_local": false,
+        "name": "4 Morant",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2S3aSvZrPLg66h9SgNFHep"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5XwS5D1l3nfzyLHbv74HVh"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EnZjgGD81emhSdq6adEKt",
+      "id": "1EnZjgGD81emhSdq6adEKt",
+      "name": "GRAVECHILL",
+      "type": "artist",
+      "uri": "spotify:artist:1EnZjgGD81emhSdq6adEKt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 GRAVECHILL",
+      "type": "C"
+    },
+    {
+      "text": "2022 GRAVECHILL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059647861074"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2AXcVujiP64YJjh05z7xBu",
+  "id": "2AXcVujiP64YJjh05z7xBu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734477eb9b129cccbcb89a1e40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024477eb9b129cccbcb89a1e40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514477eb9b129cccbcb89a1e40",
+      "width": 64
+    }
+  ],
+  "label": "GRAVECHILL",
+  "name": "Twilight",
+  "popularity": 0,
+  "release_date": "2021-05-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2AXcVujiP64YJjh05z7xBu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EnZjgGD81emhSdq6adEKt",
+            "id": "1EnZjgGD81emhSdq6adEKt",
+            "name": "GRAVECHILL",
+            "type": "artist",
+            "uri": "spotify:artist:1EnZjgGD81emhSdq6adEKt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 116129,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1guHCTD0uiEgTG3HOPgBmU",
+        "id": "1guHCTD0uiEgTG3HOPgBmU",
+        "is_local": false,
+        "name": "Twilight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1guHCTD0uiEgTG3HOPgBmU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2AXcVujiP64YJjh05z7xBu"
+}

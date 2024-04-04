@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+      },
+      "href": "https://api.spotify.com/v1/artists/4zjO8Jhi2pciJJzd8Q6rga",
+      "id": "4zjO8Jhi2pciJJzd8Q6rga",
+      "name": "Unlike Pluto",
+      "type": "artist",
+      "uri": "spotify:artist:4zjO8Jhi2pciJJzd8Q6rga"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Unlike Pluto",
+      "type": "C"
+    },
+    {
+      "text": "2019 Unlike Pluto",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857500858"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2MelVTpj17gMbkTECQc0Vh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2MelVTpj17gMbkTECQc0Vh",
+  "id": "2MelVTpj17gMbkTECQc0Vh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329ff58839af094f4c71e6d29",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229ff58839af094f4c71e6d29",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129ff58839af094f4c71e6d29",
+      "width": 64
+    }
+  ],
+  "label": "Heroic",
+  "name": "Misdiagnosed (Pluto Tapes)",
+  "popularity": 0,
+  "release_date": "2019-01-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2MelVTpj17gMbkTECQc0Vh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zjO8Jhi2pciJJzd8Q6rga",
+            "id": "4zjO8Jhi2pciJJzd8Q6rga",
+            "name": "Unlike Pluto",
+            "type": "artist",
+            "uri": "spotify:artist:4zjO8Jhi2pciJJzd8Q6rga"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189176,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dGIfvxPh7rpHOwpQQoBxu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dGIfvxPh7rpHOwpQQoBxu",
+        "id": "1dGIfvxPh7rpHOwpQQoBxu",
+        "is_local": false,
+        "name": "Misdiagnosed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1dGIfvxPh7rpHOwpQQoBxu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2MelVTpj17gMbkTECQc0Vh"
+}

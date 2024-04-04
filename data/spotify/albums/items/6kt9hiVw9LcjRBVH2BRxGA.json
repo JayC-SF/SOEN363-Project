@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+      "id": "5vBSrE1xujD2FXYRarbAXc",
+      "name": "Olly Alexander (Years & Years)",
+      "type": "artist",
+      "uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Polydor Ltd. (UK)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Polydor Ltd. (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547385949"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6kt9hiVw9LcjRBVH2BRxGA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6kt9hiVw9LcjRBVH2BRxGA",
+  "id": "6kt9hiVw9LcjRBVH2BRxGA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334faa8d1b65eb00cbfc233bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234faa8d1b65eb00cbfc233bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134faa8d1b65eb00cbfc233bf",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Shine",
+  "popularity": 0,
+  "release_date": "2015-05-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6kt9hiVw9LcjRBVH2BRxGA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+            "id": "5vBSrE1xujD2FXYRarbAXc",
+            "name": "Olly Alexander (Years & Years)",
+            "type": "artist",
+            "uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252909,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PRXyTkFmU0itou1ii4BPa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PRXyTkFmU0itou1ii4BPa",
+        "id": "2PRXyTkFmU0itou1ii4BPa",
+        "is_local": false,
+        "name": "Shine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2PRXyTkFmU0itou1ii4BPa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6kt9hiVw9LcjRBVH2BRxGA"
+}

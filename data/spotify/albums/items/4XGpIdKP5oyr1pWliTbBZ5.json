@@ -1,0 +1,909 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+      },
+      "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+      "id": "3dRfiJ2650SZu6GbydcHNb",
+      "name": "John Williams",
+      "type": "artist",
+      "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 1999 Lucasfilm Ltd. & TM.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "074646177624"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4XGpIdKP5oyr1pWliTbBZ5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4XGpIdKP5oyr1pWliTbBZ5",
+  "id": "4XGpIdKP5oyr1pWliTbBZ5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c3bc91284cb2557057a914f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c3bc91284cb2557057a914f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c3bc91284cb2557057a914f",
+      "width": 64
+    }
+  ],
+  "label": "Sony Classical",
+  "name": "Star Wars Episode 1: The Phantom Menace: Original Motion Picture Soundtrack",
+  "popularity": 0,
+  "release_date": "1999-06-03",
+  "release_date_precision": "day",
+  "total_tracks": 17,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4XGpIdKP5oyr1pWliTbBZ5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 175466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SqKqSIlI9IF0MvQTPYqHk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SqKqSIlI9IF0MvQTPYqHk",
+        "id": "1SqKqSIlI9IF0MvQTPYqHk",
+        "is_local": false,
+        "name": "Star Wars Main Title and Ambush on Coruscant",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SqKqSIlI9IF0MvQTPYqHk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 254360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mOS5otVnh103JwefAKhwS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mOS5otVnh103JwefAKhwS",
+        "id": "6mOS5otVnh103JwefAKhwS",
+        "is_local": false,
+        "name": "Episode I - Duel of The Fates",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6mOS5otVnh103JwefAKhwS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JNmGu06CzZjX0L0VQj2iP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JNmGu06CzZjX0L0VQj2iP",
+        "id": "3JNmGu06CzZjX0L0VQj2iP",
+        "is_local": false,
+        "name": "Episode I - Anakin's Theme",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3JNmGu06CzZjX0L0VQj2iP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 307560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5O0r666Ra4dUTVmEH9pdtA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5O0r666Ra4dUTVmEH9pdtA",
+        "id": "5O0r666Ra4dUTVmEH9pdtA",
+        "is_local": false,
+        "name": "Episode I - Jar Jar's Introduction and the Swim to Otoh Gunga",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5O0r666Ra4dUTVmEH9pdtA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29RW4lYmfavNxI4DUNM8tu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29RW4lYmfavNxI4DUNM8tu",
+        "id": "29RW4lYmfavNxI4DUNM8tu",
+        "is_local": false,
+        "name": "Episode I - The Sith Spacecraft and the Droid Battle",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:29RW4lYmfavNxI4DUNM8tu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DgFizsjcpmU61MX8BMMA9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0DgFizsjcpmU61MX8BMMA9",
+        "id": "0DgFizsjcpmU61MX8BMMA9",
+        "is_local": false,
+        "name": "Episode I - The Trip to the Naboo Temple and the Audience with Boss Nass",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0DgFizsjcpmU61MX8BMMA9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FXQN2RK702hvetQNecaCO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FXQN2RK702hvetQNecaCO",
+        "id": "1FXQN2RK702hvetQNecaCO",
+        "is_local": false,
+        "name": "Episode I - The Arrival at Tatooine and the Flag Parade",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1FXQN2RK702hvetQNecaCO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HCss4q3EmANGuVHiMZvWl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6HCss4q3EmANGuVHiMZvWl",
+        "id": "6HCss4q3EmANGuVHiMZvWl",
+        "is_local": false,
+        "name": "Episode I - He Is the Chosen One",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6HCss4q3EmANGuVHiMZvWl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 263760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DvBZ5175fWcoeCT02vw3Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DvBZ5175fWcoeCT02vw3Q",
+        "id": "2DvBZ5175fWcoeCT02vw3Q",
+        "is_local": false,
+        "name": "Episode I - Anakin Defeats Sebulba",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2DvBZ5175fWcoeCT02vw3Q"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 279533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LZ5QxoOQiskAgEm4id8hS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0LZ5QxoOQiskAgEm4id8hS",
+        "id": "0LZ5QxoOQiskAgEm4id8hS",
+        "is_local": false,
+        "name": "Episode I - Passage Through the Planet Core",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0LZ5QxoOQiskAgEm4id8hS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 297200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rgqpCHXwhW4oidMXBInTD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rgqpCHXwhW4oidMXBInTD",
+        "id": "6rgqpCHXwhW4oidMXBInTD",
+        "is_local": false,
+        "name": "Episode I - Watto's Deal and Kids at Play",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6rgqpCHXwhW4oidMXBInTD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PLJTA9gb0WxMYBlqQwsLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PLJTA9gb0WxMYBlqQwsLp",
+        "id": "5PLJTA9gb0WxMYBlqQwsLp",
+        "is_local": false,
+        "name": "Episode I - Panaka and the Queen's Protectors",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5PLJTA9gb0WxMYBlqQwsLp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 291573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MefpSkBb7x7rhyhtxjiRa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MefpSkBb7x7rhyhtxjiRa",
+        "id": "1MefpSkBb7x7rhyhtxjiRa",
+        "is_local": false,
+        "name": "Episode I - Queen Amidala and the Naboo Palace",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1MefpSkBb7x7rhyhtxjiRa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 314360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hsRZwUzZVUEv5ggiylAmR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hsRZwUzZVUEv5ggiylAmR",
+        "id": "1hsRZwUzZVUEv5ggiylAmR",
+        "is_local": false,
+        "name": "Episode I - The Droid Invasion and the Appearance of Darth Maul",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1hsRZwUzZVUEv5ggiylAmR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6toUVzjWjZ9WgzwFTuQEhc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6toUVzjWjZ9WgzwFTuQEhc",
+        "id": "6toUVzjWjZ9WgzwFTuQEhc",
+        "is_local": false,
+        "name": "Episode I - Qui-Gon's Noble End",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:6toUVzjWjZ9WgzwFTuQEhc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Vg0nQ6QO0DVVUjmFnB9OA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Vg0nQ6QO0DVVUjmFnB9OA",
+        "id": "0Vg0nQ6QO0DVVUjmFnB9OA",
+        "is_local": false,
+        "name": "Episode I - The High Council Meeting and Qui-Gon's Funeral",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:0Vg0nQ6QO0DVVUjmFnB9OA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+            "id": "3dRfiJ2650SZu6GbydcHNb",
+            "name": "John Williams",
+            "type": "artist",
+            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+            "id": "5yxyJsFanEAuwSM5kOuZKc",
+            "name": "London Symphony Orchestra",
+            "type": "artist",
+            "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6NjmXZS0hvrKr02zn34lLb",
+            "id": "6NjmXZS0hvrKr02zn34lLb",
+            "name": "New London Children's Choir",
+            "type": "artist",
+            "uri": "spotify:artist:6NjmXZS0hvrKr02zn34lLb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+            },
+            "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+            "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+            "name": "London Voices",
+            "type": "artist",
+            "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 578426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4t9RYibFwaEfblvp7vMkVy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4t9RYibFwaEfblvp7vMkVy",
+        "id": "4t9RYibFwaEfblvp7vMkVy",
+        "is_local": false,
+        "name": "Episode I - Augie's Great Municipal Band and End Credits",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:4t9RYibFwaEfblvp7vMkVy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 17
+  },
+  "type": "album",
+  "uri": "spotify:album:4XGpIdKP5oyr1pWliTbBZ5"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45RCoLWnSM5e2T2yX2ttbu"
+      },
+      "href": "https://api.spotify.com/v1/artists/45RCoLWnSM5e2T2yX2ttbu",
+      "id": "45RCoLWnSM5e2T2yX2ttbu",
+      "name": "Chii",
+      "type": "artist",
+      "uri": "spotify:artist:45RCoLWnSM5e2T2yX2ttbu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Wvttz Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Wvttz Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196813456902"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6t8CT3OpIHx4WwTBOvJokS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6t8CT3OpIHx4WwTBOvJokS",
+  "id": "6t8CT3OpIHx4WwTBOvJokS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736bd69b6b6f579d1bf776af5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026bd69b6b6f579d1bf776af5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516bd69b6b6f579d1bf776af5a",
+      "width": 64
+    }
+  ],
+  "label": "Wvttz Records",
+  "name": "Don't Run",
+  "popularity": 0,
+  "release_date": "2022-04-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6t8CT3OpIHx4WwTBOvJokS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45RCoLWnSM5e2T2yX2ttbu"
+            },
+            "href": "https://api.spotify.com/v1/artists/45RCoLWnSM5e2T2yX2ttbu",
+            "id": "45RCoLWnSM5e2T2yX2ttbu",
+            "name": "Chii",
+            "type": "artist",
+            "uri": "spotify:artist:45RCoLWnSM5e2T2yX2ttbu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1NjHXCUobaXDJeIBVkxHJV"
+            },
+            "href": "https://api.spotify.com/v1/artists/1NjHXCUobaXDJeIBVkxHJV",
+            "id": "1NjHXCUobaXDJeIBVkxHJV",
+            "name": "AC ZOE , SWERVO FLOCCA",
+            "type": "artist",
+            "uri": "spotify:artist:1NjHXCUobaXDJeIBVkxHJV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xhl5sRz4VuKpUpZy8i7Dv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3xhl5sRz4VuKpUpZy8i7Dv",
+        "id": "3xhl5sRz4VuKpUpZy8i7Dv",
+        "is_local": false,
+        "name": "Don't Run",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3xhl5sRz4VuKpUpZy8i7Dv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6t8CT3OpIHx4WwTBOvJokS"
+}

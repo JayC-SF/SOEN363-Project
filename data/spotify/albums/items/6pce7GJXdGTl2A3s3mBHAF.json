@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+      "id": "1oYXEVbGh1L7EWGm9C68cN",
+      "name": "6arelyhuman",
+      "type": "artist",
+      "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Anuba",
+      "type": "C"
+    },
+    {
+      "text": "2022 Anuba",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207509785"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6pce7GJXdGTl2A3s3mBHAF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6pce7GJXdGTl2A3s3mBHAF",
+  "id": "6pce7GJXdGTl2A3s3mBHAF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273be14ba191e0fda463892626e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02be14ba191e0fda463892626e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851be14ba191e0fda463892626e",
+      "width": 64
+    }
+  ],
+  "label": "Anuba",
+  "name": "XXXTRA",
+  "popularity": 0,
+  "release_date": "2022-04-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6pce7GJXdGTl2A3s3mBHAF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oYXEVbGh1L7EWGm9C68cN",
+            "id": "1oYXEVbGh1L7EWGm9C68cN",
+            "name": "6arelyhuman",
+            "type": "artist",
+            "uri": "spotify:artist:1oYXEVbGh1L7EWGm9C68cN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135917,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JF4CroG8CDc1SYD9cF7WE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JF4CroG8CDc1SYD9cF7WE",
+        "id": "0JF4CroG8CDc1SYD9cF7WE",
+        "is_local": false,
+        "name": "XXXTRA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0JF4CroG8CDc1SYD9cF7WE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6pce7GJXdGTl2A3s3mBHAF"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2T1zM7AtA0Cd9u1m3PBFEY",
+      "id": "2T1zM7AtA0Cd9u1m3PBFEY",
+      "name": "Maikel",
+      "type": "artist",
+      "uri": "spotify:artist:2T1zM7AtA0Cd9u1m3PBFEY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Global Bergers",
+      "type": "C"
+    },
+    {
+      "text": "2022 Global Bergers",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617053482935"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5TU7WZz9QUiMfmiWk00bBh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5TU7WZz9QUiMfmiWk00bBh",
+  "id": "5TU7WZz9QUiMfmiWk00bBh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369da52a84aa6bfa737bb8d0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269da52a84aa6bfa737bb8d0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169da52a84aa6bfa737bb8d0e",
+      "width": 64
+    }
+  ],
+  "label": "Global Bergers",
+  "name": "Winterlove",
+  "popularity": 0,
+  "release_date": "2022-12-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5TU7WZz9QUiMfmiWk00bBh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2T1zM7AtA0Cd9u1m3PBFEY",
+            "id": "2T1zM7AtA0Cd9u1m3PBFEY",
+            "name": "Maikel",
+            "type": "artist",
+            "uri": "spotify:artist:2T1zM7AtA0Cd9u1m3PBFEY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122057,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XmSVyyLzmbH83GESZUP8g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XmSVyyLzmbH83GESZUP8g",
+        "id": "2XmSVyyLzmbH83GESZUP8g",
+        "is_local": false,
+        "name": "Winterlove - sped up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2XmSVyyLzmbH83GESZUP8g"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2T1zM7AtA0Cd9u1m3PBFEY",
+            "id": "2T1zM7AtA0Cd9u1m3PBFEY",
+            "name": "Maikel",
+            "type": "artist",
+            "uri": "spotify:artist:2T1zM7AtA0Cd9u1m3PBFEY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cidhIQjCQ1gcaSNSJ1VKO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cidhIQjCQ1gcaSNSJ1VKO",
+        "id": "6cidhIQjCQ1gcaSNSJ1VKO",
+        "is_local": false,
+        "name": "Winterlove",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6cidhIQjCQ1gcaSNSJ1VKO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5TU7WZz9QUiMfmiWk00bBh"
+}

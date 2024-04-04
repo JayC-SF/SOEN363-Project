@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nkuNzBcYGlNmAqFWbHLqS",
+      "id": "4nkuNzBcYGlNmAqFWbHLqS",
+      "name": "Ash",
+      "type": "artist",
+      "uri": "spotify:artist:4nkuNzBcYGlNmAqFWbHLqS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+      },
+      "href": "https://api.spotify.com/v1/artists/7vwmGnGMM1UsrIz3vEfNz0",
+      "id": "7vwmGnGMM1UsrIz3vEfNz0",
+      "name": "Naila",
+      "type": "artist",
+      "uri": "spotify:artist:7vwmGnGMM1UsrIz3vEfNz0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Ash",
+      "type": "C"
+    },
+    {
+      "text": "2018 Ash",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840093145567"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5PoJZoicXTv9MTKCocLvkz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5PoJZoicXTv9MTKCocLvkz",
+  "id": "5PoJZoicXTv9MTKCocLvkz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6b017a94d519e0c79403b7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6b017a94d519e0c79403b7e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6b017a94d519e0c79403b7e",
+      "width": 64
+    }
+  ],
+  "label": "Ash",
+  "name": "Sing It Back",
+  "popularity": 0,
+  "release_date": "2018-02-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5PoJZoicXTv9MTKCocLvkz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4nkuNzBcYGlNmAqFWbHLqS",
+            "id": "4nkuNzBcYGlNmAqFWbHLqS",
+            "name": "Ash",
+            "type": "artist",
+            "uri": "spotify:artist:4nkuNzBcYGlNmAqFWbHLqS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vwmGnGMM1UsrIz3vEfNz0",
+            "id": "7vwmGnGMM1UsrIz3vEfNz0",
+            "name": "Naila",
+            "type": "artist",
+            "uri": "spotify:artist:7vwmGnGMM1UsrIz3vEfNz0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0afBI0cb2U0swk3Ufrh56t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0afBI0cb2U0swk3Ufrh56t",
+        "id": "0afBI0cb2U0swk3Ufrh56t",
+        "is_local": false,
+        "name": "Sing It Back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0afBI0cb2U0swk3Ufrh56t"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5PoJZoicXTv9MTKCocLvkz"
+}

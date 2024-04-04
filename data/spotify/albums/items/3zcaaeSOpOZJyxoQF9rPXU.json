@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+      "id": "2qk9voo8llSGYcZ6xrBzKx",
+      "name": "Kings of Leon",
+      "type": "artist",
+      "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2008 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888880669827"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3zcaaeSOpOZJyxoQF9rPXU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3zcaaeSOpOZJyxoQF9rPXU",
+  "id": "3zcaaeSOpOZJyxoQF9rPXU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737166e422f5fb29e8c84f3c4b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027166e422f5fb29e8c84f3c4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517166e422f5fb29e8c84f3c4b",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "Sex on Fire",
+  "popularity": 0,
+  "release_date": "2008-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3zcaaeSOpOZJyxoQF9rPXU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+            "id": "2qk9voo8llSGYcZ6xrBzKx",
+            "name": "Kings of Leon",
+            "type": "artist",
+            "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/395C2pn0PdOYPzM4B1jLoO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/395C2pn0PdOYPzM4B1jLoO",
+        "id": "395C2pn0PdOYPzM4B1jLoO",
+        "is_local": false,
+        "name": "Sex on Fire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:395C2pn0PdOYPzM4B1jLoO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3zcaaeSOpOZJyxoQF9rPXU"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6"
+      },
+      "href": "https://api.spotify.com/v1/artists/24UwzhsMtaOjBOL6483Jr6",
+      "id": "24UwzhsMtaOjBOL6483Jr6",
+      "name": "Pitstop Boys",
+      "type": "artist",
+      "uri": "spotify:artist:24UwzhsMtaOjBOL6483Jr6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Longstream Media",
+      "type": "C"
+    },
+    {
+      "text": "M.Distel, D.de Leon, R.Toonen & N.Lingbeek",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8700001896818"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5giBzXuOs4UpWuKEV7bHXX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5giBzXuOs4UpWuKEV7bHXX",
+  "id": "5giBzXuOs4UpWuKEV7bHXX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273563a30f88023b3cb5518756e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02563a30f88023b3cb5518756e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851563a30f88023b3cb5518756e",
+      "width": 64
+    }
+  ],
+  "label": "Longstream Media",
+  "name": "Super Max!",
+  "popularity": 0,
+  "release_date": "2016-07-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5giBzXuOs4UpWuKEV7bHXX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6"
+            },
+            "href": "https://api.spotify.com/v1/artists/24UwzhsMtaOjBOL6483Jr6",
+            "id": "24UwzhsMtaOjBOL6483Jr6",
+            "name": "Pitstop Boys",
+            "type": "artist",
+            "uri": "spotify:artist:24UwzhsMtaOjBOL6483Jr6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gqOzJPGNCvEnS1u5YHOkp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gqOzJPGNCvEnS1u5YHOkp",
+        "id": "4gqOzJPGNCvEnS1u5YHOkp",
+        "is_local": false,
+        "name": "Super Max!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4gqOzJPGNCvEnS1u5YHOkp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5giBzXuOs4UpWuKEV7bHXX"
+}

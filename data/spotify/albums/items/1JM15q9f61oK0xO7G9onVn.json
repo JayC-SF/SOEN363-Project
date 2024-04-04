@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+      },
+      "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+      "id": "28DdkLhrzQNizZ0ExQpyku",
+      "name": "Rizky Febian",
+      "type": "artist",
+      "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Rfas Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Rfas Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616407751802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1JM15q9f61oK0xO7G9onVn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1JM15q9f61oK0xO7G9onVn",
+  "id": "1JM15q9f61oK0xO7G9onVn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e0561c9cf6c7132a791b7a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e0561c9cf6c7132a791b7a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e0561c9cf6c7132a791b7a9",
+      "width": 64
+    }
+  ],
+  "label": "Rfas Music",
+  "name": "Makna Cinta",
+  "popularity": 0,
+  "release_date": "2020-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1JM15q9f61oK0xO7G9onVn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+            },
+            "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+            "id": "28DdkLhrzQNizZ0ExQpyku",
+            "name": "Rizky Febian",
+            "type": "artist",
+            "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205781,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7B3zHfPqcLgV3DHcjQP2OM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7B3zHfPqcLgV3DHcjQP2OM",
+        "id": "7B3zHfPqcLgV3DHcjQP2OM",
+        "is_local": false,
+        "name": "Makna Cinta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7B3zHfPqcLgV3DHcjQP2OM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1JM15q9f61oK0xO7G9onVn"
+}

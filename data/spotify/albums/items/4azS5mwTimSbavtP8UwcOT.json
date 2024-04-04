@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+      "id": "4vhNDa5ycK0ST968ek7kRr",
+      "name": "Carlos Vives",
+      "type": "artist",
+      "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 Sony Music Entertainment US Latin LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446726540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4azS5mwTimSbavtP8UwcOT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4azS5mwTimSbavtP8UwcOT",
+  "id": "4azS5mwTimSbavtP8UwcOT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a508c7071b23bd02f3b7f04",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a508c7071b23bd02f3b7f04",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a508c7071b23bd02f3b7f04",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Latin",
+  "name": "Pesca\u00edto",
+  "popularity": 0,
+  "release_date": "2017-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4azS5mwTimSbavtP8UwcOT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+            "id": "4vhNDa5ycK0ST968ek7kRr",
+            "name": "Carlos Vives",
+            "type": "artist",
+            "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186941,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lthedM1zeyNE8UNC4KvIb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lthedM1zeyNE8UNC4KvIb",
+        "id": "1lthedM1zeyNE8UNC4KvIb",
+        "is_local": false,
+        "name": "Pesca\u00edto",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1lthedM1zeyNE8UNC4KvIb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4azS5mwTimSbavtP8UwcOT"
+}

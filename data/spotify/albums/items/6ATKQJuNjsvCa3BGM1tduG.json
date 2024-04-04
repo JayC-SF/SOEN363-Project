@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6NWr7ds45nBjpsJd25butt"
+      },
+      "href": "https://api.spotify.com/v1/artists/6NWr7ds45nBjpsJd25butt",
+      "id": "6NWr7ds45nBjpsJd25butt",
+      "name": "Zleepy Girl",
+      "type": "artist",
+      "uri": "spotify:artist:6NWr7ds45nBjpsJd25butt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4614264 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4614264 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "019805098815"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6ATKQJuNjsvCa3BGM1tduG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6ATKQJuNjsvCa3BGM1tduG",
+  "id": "6ATKQJuNjsvCa3BGM1tduG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27304ef6ffe54064bdf1c7a8fb0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0204ef6ffe54064bdf1c7a8fb0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485104ef6ffe54064bdf1c7a8fb0",
+      "width": 64
+    }
+  ],
+  "label": "4614264 Records DK",
+  "name": "Playland",
+  "popularity": 0,
+  "release_date": "2023-12-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6ATKQJuNjsvCa3BGM1tduG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6NWr7ds45nBjpsJd25butt"
+            },
+            "href": "https://api.spotify.com/v1/artists/6NWr7ds45nBjpsJd25butt",
+            "id": "6NWr7ds45nBjpsJd25butt",
+            "name": "Zleepy Girl",
+            "type": "artist",
+            "uri": "spotify:artist:6NWr7ds45nBjpsJd25butt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KR23lTKcHUqKqOMNGTHKy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KR23lTKcHUqKqOMNGTHKy",
+        "id": "5KR23lTKcHUqKqOMNGTHKy",
+        "is_local": false,
+        "name": "Playland",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5KR23lTKcHUqKqOMNGTHKy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6ATKQJuNjsvCa3BGM1tduG"
+}

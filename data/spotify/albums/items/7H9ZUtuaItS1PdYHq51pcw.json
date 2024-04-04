@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3E3YhnlqBrMcTQGQSAfCK2"
+      },
+      "href": "https://api.spotify.com/v1/artists/3E3YhnlqBrMcTQGQSAfCK2",
+      "id": "3E3YhnlqBrMcTQGQSAfCK2",
+      "name": "xRjay",
+      "type": "artist",
+      "uri": "spotify:artist:3E3YhnlqBrMcTQGQSAfCK2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 xRjay",
+      "type": "C"
+    },
+    {
+      "text": "2021 xRjay",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859751190245"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7H9ZUtuaItS1PdYHq51pcw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7H9ZUtuaItS1PdYHq51pcw",
+  "id": "7H9ZUtuaItS1PdYHq51pcw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8c978039eb3ac80ad68b0d2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8c978039eb3ac80ad68b0d2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8c978039eb3ac80ad68b0d2",
+      "width": 64
+    }
+  ],
+  "label": "xRjay",
+  "name": "Talk Facts",
+  "popularity": 0,
+  "release_date": "2021-10-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7H9ZUtuaItS1PdYHq51pcw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3E3YhnlqBrMcTQGQSAfCK2"
+            },
+            "href": "https://api.spotify.com/v1/artists/3E3YhnlqBrMcTQGQSAfCK2",
+            "id": "3E3YhnlqBrMcTQGQSAfCK2",
+            "name": "xRjay",
+            "type": "artist",
+            "uri": "spotify:artist:3E3YhnlqBrMcTQGQSAfCK2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206773,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RQ2BJAtAHjDxj6MMnUEKq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RQ2BJAtAHjDxj6MMnUEKq",
+        "id": "5RQ2BJAtAHjDxj6MMnUEKq",
+        "is_local": false,
+        "name": "Talk Facts",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RQ2BJAtAHjDxj6MMnUEKq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7H9ZUtuaItS1PdYHq51pcw"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+      },
+      "href": "https://api.spotify.com/v1/artists/0XHiH53dHrvbwfjYM7en7I",
+      "id": "0XHiH53dHrvbwfjYM7en7I",
+      "name": "Chris Cornell",
+      "type": "artist",
+      "uri": "spotify:artist:0XHiH53dHrvbwfjYM7en7I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "A Universal Music Enterprises Release; \u2117 2018 UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602577248122"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4rZKfsTDbBvHAwZg1lHbmg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4rZKfsTDbBvHAwZg1lHbmg",
+  "id": "4rZKfsTDbBvHAwZg1lHbmg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733b2205d80b01366dc030e05d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023b2205d80b01366dc030e05d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513b2205d80b01366dc030e05d",
+      "width": 64
+    }
+  ],
+  "label": "A&M",
+  "name": "Nothing Compares 2 U / When Bad Does Good",
+  "popularity": 0,
+  "release_date": "2018-10-26",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4rZKfsTDbBvHAwZg1lHbmg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+            },
+            "href": "https://api.spotify.com/v1/artists/0XHiH53dHrvbwfjYM7en7I",
+            "id": "0XHiH53dHrvbwfjYM7en7I",
+            "name": "Chris Cornell",
+            "type": "artist",
+            "uri": "spotify:artist:0XHiH53dHrvbwfjYM7en7I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TTlKilNyCPUl7TUodrfMM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TTlKilNyCPUl7TUodrfMM",
+        "id": "2TTlKilNyCPUl7TUodrfMM",
+        "is_local": false,
+        "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2TTlKilNyCPUl7TUodrfMM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+            },
+            "href": "https://api.spotify.com/v1/artists/0XHiH53dHrvbwfjYM7en7I",
+            "id": "0XHiH53dHrvbwfjYM7en7I",
+            "name": "Chris Cornell",
+            "type": "artist",
+            "uri": "spotify:artist:0XHiH53dHrvbwfjYM7en7I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5c1Cmh5Yh44xMrd96xVQ3c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5c1Cmh5Yh44xMrd96xVQ3c",
+        "id": "5c1Cmh5Yh44xMrd96xVQ3c",
+        "is_local": false,
+        "name": "When Bad Does Good",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5c1Cmh5Yh44xMrd96xVQ3c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4rZKfsTDbBvHAwZg1lHbmg"
+}

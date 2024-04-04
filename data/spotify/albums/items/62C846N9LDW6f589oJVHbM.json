@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id": "4BxCuXFJrSWGi1KHcVqaU4",
+      "name": "Kodaline",
+      "type": "artist",
+      "uri": "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 B-Unique Records (UK) Limited under exclusive licence to Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446533414"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/62C846N9LDW6f589oJVHbM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/62C846N9LDW6f589oJVHbM",
+  "id": "62C846N9LDW6f589oJVHbM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d6772d80500ef9206100eea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d6772d80500ef9206100eea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d6772d80500ef9206100eea",
+      "width": 64
+    }
+  ],
+  "label": "B-Unique/RCA",
+  "name": "Brother",
+  "popularity": 0,
+  "release_date": "2017-07-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/62C846N9LDW6f589oJVHbM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+            "id": "4BxCuXFJrSWGi1KHcVqaU4",
+            "name": "Kodaline",
+            "type": "artist",
+            "uri": "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201980,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dVa7xk5dOoT6pOkDw1TMH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dVa7xk5dOoT6pOkDw1TMH",
+        "id": "6dVa7xk5dOoT6pOkDw1TMH",
+        "is_local": false,
+        "name": "Brother",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6dVa7xk5dOoT6pOkDw1TMH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:62C846N9LDW6f589oJVHbM"
+}

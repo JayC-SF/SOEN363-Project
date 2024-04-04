@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+      },
+      "href": "https://api.spotify.com/v1/artists/4mwXUEKaW4ftbncf9Hi58l",
+      "id": "4mwXUEKaW4ftbncf9Hi58l",
+      "name": "Tank",
+      "type": "artist",
+      "uri": "spotify:artist:4mwXUEKaW4ftbncf9Hi58l"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2007 Blackground Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2007 Blackground Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602517418882"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4F5ogysAYpmkrzyftlSKZS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4F5ogysAYpmkrzyftlSKZS",
+  "id": "4F5ogysAYpmkrzyftlSKZS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f08a561862b714e15b411a73",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f08a561862b714e15b411a73",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f08a561862b714e15b411a73",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music s.r.o.",
+  "name": "Please Don't Go (International Version)",
+  "popularity": 0,
+  "release_date": "2007-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4F5ogysAYpmkrzyftlSKZS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mwXUEKaW4ftbncf9Hi58l",
+            "id": "4mwXUEKaW4ftbncf9Hi58l",
+            "name": "Tank",
+            "type": "artist",
+            "uri": "spotify:artist:4mwXUEKaW4ftbncf9Hi58l"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 352120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NXWGflF4ugqziTFYnIf04"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NXWGflF4ugqziTFYnIf04",
+        "id": "1NXWGflF4ugqziTFYnIf04",
+        "is_local": false,
+        "name": "Please Don't Go",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1NXWGflF4ugqziTFYnIf04"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4F5ogysAYpmkrzyftlSKZS"
+}

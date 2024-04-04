@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/05i5DIXDf4Ai4NEPEi3uBZ",
+      "id": "05i5DIXDf4Ai4NEPEi3uBZ",
+      "name": "Atomic Otro Way",
+      "type": "artist",
+      "uri": "spotify:artist:05i5DIXDf4Ai4NEPEi3uBZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Jhonuel Castillo",
+      "type": "C"
+    },
+    {
+      "text": "2016 Jhonuel Castillo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859716600109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/08HiGUM1gneMEdjiIFRI6V"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/08HiGUM1gneMEdjiIFRI6V",
+  "id": "08HiGUM1gneMEdjiIFRI6V",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f76be0981b80f0a933b74c8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f76be0981b80f0a933b74c8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f76be0981b80f0a933b74c8",
+      "width": 64
+    }
+  ],
+  "label": "Jhonuel Castillo",
+  "name": "Te De Campana",
+  "popularity": 0,
+  "release_date": "2016-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/08HiGUM1gneMEdjiIFRI6V/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/05i5DIXDf4Ai4NEPEi3uBZ",
+            "id": "05i5DIXDf4Ai4NEPEi3uBZ",
+            "name": "Atomic Otro Way",
+            "type": "artist",
+            "uri": "spotify:artist:05i5DIXDf4Ai4NEPEi3uBZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198624,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OdD1XrpFD5BuxiAMFUWZC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6OdD1XrpFD5BuxiAMFUWZC",
+        "id": "6OdD1XrpFD5BuxiAMFUWZC",
+        "is_local": false,
+        "name": "Te De Campana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6OdD1XrpFD5BuxiAMFUWZC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:08HiGUM1gneMEdjiIFRI6V"
+}

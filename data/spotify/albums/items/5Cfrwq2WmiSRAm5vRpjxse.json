@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+      },
+      "href": "https://api.spotify.com/v1/artists/3CJKkU0XuElRT1z8rEtIYg",
+      "id": "3CJKkU0XuElRT1z8rEtIYg",
+      "name": "Luciano",
+      "type": "artist",
+      "uri": "spotify:artist:3CJKkU0XuElRT1z8rEtIYg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+      },
+      "href": "https://api.spotify.com/v1/artists/6veh5zbFpm31XsPdjBgPER",
+      "id": "6veh5zbFpm31XsPdjBgPER",
+      "name": "BIA",
+      "type": "artist",
+      "uri": "spotify:artist:6veh5zbFpm31XsPdjBgPER"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Locosquad GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Locosquad GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458339772"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Cfrwq2WmiSRAm5vRpjxse",
+  "id": "5Cfrwq2WmiSRAm5vRpjxse",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b460805e1a1ea62694568c96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b460805e1a1ea62694568c96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b460805e1a1ea62694568c96",
+      "width": 64
+    }
+  ],
+  "label": "URBAN",
+  "name": "Mami (feat. BIA)",
+  "popularity": 39,
+  "release_date": "2023-08-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Cfrwq2WmiSRAm5vRpjxse/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+            },
+            "href": "https://api.spotify.com/v1/artists/3CJKkU0XuElRT1z8rEtIYg",
+            "id": "3CJKkU0XuElRT1z8rEtIYg",
+            "name": "Luciano",
+            "type": "artist",
+            "uri": "spotify:artist:3CJKkU0XuElRT1z8rEtIYg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+            },
+            "href": "https://api.spotify.com/v1/artists/6veh5zbFpm31XsPdjBgPER",
+            "id": "6veh5zbFpm31XsPdjBgPER",
+            "name": "BIA",
+            "type": "artist",
+            "uri": "spotify:artist:6veh5zbFpm31XsPdjBgPER"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178398,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2cEklOsQ4yr4SgtXZtHwvN",
+        "id": "2cEklOsQ4yr4SgtXZtHwvN",
+        "is_local": false,
+        "name": "Mami (feat. BIA)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2cEklOsQ4yr4SgtXZtHwvN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5Cfrwq2WmiSRAm5vRpjxse"
+}

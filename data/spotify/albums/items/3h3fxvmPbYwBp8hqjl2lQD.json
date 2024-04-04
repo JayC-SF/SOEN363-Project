@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+      },
+      "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+      "id": "6w9ToX5slZ4uIdmD17hJ3c",
+      "name": "Bryant Myers",
+      "type": "artist",
+      "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 La Commission, LLC & Entertainment One U.S., LP",
+      "type": "C"
+    },
+    {
+      "text": "2018 La Commission, LLC & Entertainment One U.S., LP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164160623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3h3fxvmPbYwBp8hqjl2lQD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3h3fxvmPbYwBp8hqjl2lQD",
+  "id": "3h3fxvmPbYwBp8hqjl2lQD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315fb5b134f770f096d94a488",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215fb5b134f770f096d94a488",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115fb5b134f770f096d94a488",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Tanta Falta",
+  "popularity": 23,
+  "release_date": "2018-10-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3h3fxvmPbYwBp8hqjl2lQD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w9ToX5slZ4uIdmD17hJ3c",
+            "id": "6w9ToX5slZ4uIdmD17hJ3c",
+            "name": "Bryant Myers",
+            "type": "artist",
+            "uri": "spotify:artist:6w9ToX5slZ4uIdmD17hJ3c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00GbPd84bEyYS477RSymJW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00GbPd84bEyYS477RSymJW",
+        "id": "00GbPd84bEyYS477RSymJW",
+        "is_local": false,
+        "name": "Tanta Falta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:00GbPd84bEyYS477RSymJW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3h3fxvmPbYwBp8hqjl2lQD"
+}

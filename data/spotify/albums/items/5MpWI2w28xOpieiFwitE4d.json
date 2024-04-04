@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+      },
+      "href": "https://api.spotify.com/v1/artists/3wcj11K77LjEY1PkEazffa",
+      "id": "3wcj11K77LjEY1PkEazffa",
+      "name": "Burna Boy",
+      "type": "artist",
+      "uri": "spotify:artist:3wcj11K77LjEY1PkEazffa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Aristokrat Records",
+      "type": "C"
+    },
+    {
+      "text": "2012 Aristokrat Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859709429915"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5MpWI2w28xOpieiFwitE4d"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5MpWI2w28xOpieiFwitE4d",
+  "id": "5MpWI2w28xOpieiFwitE4d",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334d7f84e1677305c226270b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234d7f84e1677305c226270b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134d7f84e1677305c226270b8",
+      "width": 64
+    }
+  ],
+  "label": "Aristokrat Records",
+  "name": "Like to Party",
+  "popularity": 0,
+  "release_date": "2012-05-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5MpWI2w28xOpieiFwitE4d/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3wcj11K77LjEY1PkEazffa",
+            "id": "3wcj11K77LjEY1PkEazffa",
+            "name": "Burna Boy",
+            "type": "artist",
+            "uri": "spotify:artist:3wcj11K77LjEY1PkEazffa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bv9fcxjNNBDP6GNAgrvbp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bv9fcxjNNBDP6GNAgrvbp",
+        "id": "4bv9fcxjNNBDP6GNAgrvbp",
+        "is_local": false,
+        "name": "Like to Party",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4bv9fcxjNNBDP6GNAgrvbp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5MpWI2w28xOpieiFwitE4d"
+}

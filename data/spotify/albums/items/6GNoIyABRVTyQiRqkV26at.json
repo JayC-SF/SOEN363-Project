@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ikID9RZZMvkuBGDWrqajq",
+      "id": "1ikID9RZZMvkuBGDWrqajq",
+      "name": "Kasbo",
+      "type": "artist",
+      "uri": "spotify:artist:1ikID9RZZMvkuBGDWrqajq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 Foreign Family Collective",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 Foreign Family Collective",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889326398189"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6GNoIyABRVTyQiRqkV26at"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6GNoIyABRVTyQiRqkV26at",
+  "id": "6GNoIyABRVTyQiRqkV26at",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a421cf1b14a6a9765296768",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a421cf1b14a6a9765296768",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a421cf1b14a6a9765296768",
+      "width": 64
+    }
+  ],
+  "label": "Foreign Family Collective",
+  "name": "World Away",
+  "popularity": 0,
+  "release_date": "2015-10-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6GNoIyABRVTyQiRqkV26at/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ikID9RZZMvkuBGDWrqajq",
+            "id": "1ikID9RZZMvkuBGDWrqajq",
+            "name": "Kasbo",
+            "type": "artist",
+            "uri": "spotify:artist:1ikID9RZZMvkuBGDWrqajq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204012,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ImhD7dhkGVPa0oLiy6R5W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ImhD7dhkGVPa0oLiy6R5W",
+        "id": "5ImhD7dhkGVPa0oLiy6R5W",
+        "is_local": false,
+        "name": "World Away",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ImhD7dhkGVPa0oLiy6R5W"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6GNoIyABRVTyQiRqkV26at"
+}

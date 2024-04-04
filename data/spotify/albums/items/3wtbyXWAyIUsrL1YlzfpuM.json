@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PiJ4dvhB2T4OvRvxJbEec"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PiJ4dvhB2T4OvRvxJbEec",
+      "id": "5PiJ4dvhB2T4OvRvxJbEec",
+      "name": "Linda Lind",
+      "type": "artist",
+      "uri": "spotify:artist:5PiJ4dvhB2T4OvRvxJbEec"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Linda Lind",
+      "type": "C"
+    },
+    {
+      "text": "2017 Linda Lind",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526970311"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wtbyXWAyIUsrL1YlzfpuM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wtbyXWAyIUsrL1YlzfpuM",
+  "id": "3wtbyXWAyIUsrL1YlzfpuM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396298edfafac301b122695fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296298edfafac301b122695fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196298edfafac301b122695fb",
+      "width": 64
+    }
+  ],
+  "label": "Linda Lind",
+  "name": "Hush",
+  "popularity": 0,
+  "release_date": "2017-07-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wtbyXWAyIUsrL1YlzfpuM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PiJ4dvhB2T4OvRvxJbEec"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PiJ4dvhB2T4OvRvxJbEec",
+            "id": "5PiJ4dvhB2T4OvRvxJbEec",
+            "name": "Linda Lind",
+            "type": "artist",
+            "uri": "spotify:artist:5PiJ4dvhB2T4OvRvxJbEec"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189273,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PZZcJ6XYnWTbraxFHOguv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3PZZcJ6XYnWTbraxFHOguv",
+        "id": "3PZZcJ6XYnWTbraxFHOguv",
+        "is_local": false,
+        "name": "Hush",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3PZZcJ6XYnWTbraxFHOguv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wtbyXWAyIUsrL1YlzfpuM"
+}

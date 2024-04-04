@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2beRTIJ89kb6a011vFqGuk",
+      "id": "2beRTIJ89kb6a011vFqGuk",
+      "name": "GHOSTT",
+      "type": "artist",
+      "uri": "spotify:artist:2beRTIJ89kb6a011vFqGuk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Ghostt Town",
+      "type": "C"
+    },
+    {
+      "text": "2018 Ghostt Town",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840091489779"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4aWm1MzFzehGvrk8fmyQ3s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4aWm1MzFzehGvrk8fmyQ3s",
+  "id": "4aWm1MzFzehGvrk8fmyQ3s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e4d53a5d69be166386aca90",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020e4d53a5d69be166386aca90",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510e4d53a5d69be166386aca90",
+      "width": 64
+    }
+  ],
+  "label": "Ghostt Town",
+  "name": "Somebody Told Me",
+  "popularity": 0,
+  "release_date": "2018-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4aWm1MzFzehGvrk8fmyQ3s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
+            },
+            "href": "https://api.spotify.com/v1/artists/2beRTIJ89kb6a011vFqGuk",
+            "id": "2beRTIJ89kb6a011vFqGuk",
+            "name": "GHOSTT",
+            "type": "artist",
+            "uri": "spotify:artist:2beRTIJ89kb6a011vFqGuk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230564,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TJbs9zqa1GwtvTNvdmhVL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TJbs9zqa1GwtvTNvdmhVL",
+        "id": "5TJbs9zqa1GwtvTNvdmhVL",
+        "is_local": false,
+        "name": "Somebody Told Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5TJbs9zqa1GwtvTNvdmhVL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4aWm1MzFzehGvrk8fmyQ3s"
+}

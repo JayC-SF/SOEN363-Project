@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3GkR23HksQbbdSvZYpYWtl"
+      },
+      "href": "https://api.spotify.com/v1/artists/3GkR23HksQbbdSvZYpYWtl",
+      "id": "3GkR23HksQbbdSvZYpYWtl",
+      "name": "Die milden Kerle",
+      "type": "artist",
+      "uri": "spotify:artist:3GkR23HksQbbdSvZYpYWtl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Die milden Kerle",
+      "type": "C"
+    },
+    {
+      "text": "2023 Die milden Kerle",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859772375867"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3s27KyG5V81kXBUDNCxlLC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3s27KyG5V81kXBUDNCxlLC",
+  "id": "3s27KyG5V81kXBUDNCxlLC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273abd8c49303858c77a133064d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abd8c49303858c77a133064d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abd8c49303858c77a133064d",
+      "width": 64
+    }
+  ],
+  "label": "Die milden Kerle",
+  "name": "Griechischer Wein Hard",
+  "popularity": 1,
+  "release_date": "2023-03-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3s27KyG5V81kXBUDNCxlLC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3GkR23HksQbbdSvZYpYWtl"
+            },
+            "href": "https://api.spotify.com/v1/artists/3GkR23HksQbbdSvZYpYWtl",
+            "id": "3GkR23HksQbbdSvZYpYWtl",
+            "name": "Die milden Kerle",
+            "type": "artist",
+            "uri": "spotify:artist:3GkR23HksQbbdSvZYpYWtl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235865,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xZf2PTuN59TQuTGv7NyIz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xZf2PTuN59TQuTGv7NyIz",
+        "id": "2xZf2PTuN59TQuTGv7NyIz",
+        "is_local": false,
+        "name": "Griechischer Wein Hard",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xZf2PTuN59TQuTGv7NyIz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3s27KyG5V81kXBUDNCxlLC"
+}

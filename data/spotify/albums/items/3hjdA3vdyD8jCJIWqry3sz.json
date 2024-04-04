@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dEG3qH6Q2mM5p7RoyHY0h"
+      },
+      "href": "https://api.spotify.com/v1/artists/0dEG3qH6Q2mM5p7RoyHY0h",
+      "id": "0dEG3qH6Q2mM5p7RoyHY0h",
+      "name": "Sonay",
+      "type": "artist",
+      "uri": "spotify:artist:0dEG3qH6Q2mM5p7RoyHY0h"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Sonay, distributed by Spinnup",
+      "type": "C"
+    },
+    {
+      "text": "2019 Sonay, distributed by Spinnup",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729566354"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3hjdA3vdyD8jCJIWqry3sz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3hjdA3vdyD8jCJIWqry3sz",
+  "id": "3hjdA3vdyD8jCJIWqry3sz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356ed69a8e12b6d6a1bf89f92",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256ed69a8e12b6d6a1bf89f92",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156ed69a8e12b6d6a1bf89f92",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Bandolero",
+  "popularity": 0,
+  "release_date": "2019-08-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3hjdA3vdyD8jCJIWqry3sz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0dEG3qH6Q2mM5p7RoyHY0h"
+            },
+            "href": "https://api.spotify.com/v1/artists/0dEG3qH6Q2mM5p7RoyHY0h",
+            "id": "0dEG3qH6Q2mM5p7RoyHY0h",
+            "name": "Sonay",
+            "type": "artist",
+            "uri": "spotify:artist:0dEG3qH6Q2mM5p7RoyHY0h"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126724,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68t9P46a7I3vof17446MF9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68t9P46a7I3vof17446MF9",
+        "id": "68t9P46a7I3vof17446MF9",
+        "is_local": false,
+        "name": "Bandolero",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:68t9P46a7I3vof17446MF9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3hjdA3vdyD8jCJIWqry3sz"
+}

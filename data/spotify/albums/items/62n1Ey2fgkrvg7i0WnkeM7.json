@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0K1Xf5GQL7dzOCI5cexQNf"
+      },
+      "href": "https://api.spotify.com/v1/artists/0K1Xf5GQL7dzOCI5cexQNf",
+      "id": "0K1Xf5GQL7dzOCI5cexQNf",
+      "name": "Lana Harrison",
+      "type": "artist",
+      "uri": "spotify:artist:0K1Xf5GQL7dzOCI5cexQNf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Lana Harrison",
+      "type": "C"
+    },
+    {
+      "text": "2023 Lana Harrison",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "732138132055"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/62n1Ey2fgkrvg7i0WnkeM7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/62n1Ey2fgkrvg7i0WnkeM7",
+  "id": "62n1Ey2fgkrvg7i0WnkeM7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1755b136f14e602dcd3179a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1755b136f14e602dcd3179a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1755b136f14e602dcd3179a",
+      "width": 64
+    }
+  ],
+  "label": "Lana Harrison",
+  "name": "Trash Magic",
+  "popularity": 0,
+  "release_date": "2023-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/62n1Ey2fgkrvg7i0WnkeM7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0K1Xf5GQL7dzOCI5cexQNf"
+            },
+            "href": "https://api.spotify.com/v1/artists/0K1Xf5GQL7dzOCI5cexQNf",
+            "id": "0K1Xf5GQL7dzOCI5cexQNf",
+            "name": "Lana Harrison",
+            "type": "artist",
+            "uri": "spotify:artist:0K1Xf5GQL7dzOCI5cexQNf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 290063,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hp9K0uGl5aGQy1ZXl1bpH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2hp9K0uGl5aGQy1ZXl1bpH",
+        "id": "2hp9K0uGl5aGQy1ZXl1bpH",
+        "is_local": false,
+        "name": "Trash Magic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2hp9K0uGl5aGQy1ZXl1bpH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:62n1Ey2fgkrvg7i0WnkeM7"
+}

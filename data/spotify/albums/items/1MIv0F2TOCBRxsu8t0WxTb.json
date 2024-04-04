@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+      },
+      "href": "https://api.spotify.com/v1/artists/089IZ7FwRjpOxPypnAG7kW",
+      "id": "089IZ7FwRjpOxPypnAG7kW",
+      "name": "Los Polinesios",
+      "type": "artist",
+      "uri": "spotify:artist:089IZ7FwRjpOxPypnAG7kW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Gazer Music",
+      "type": "C"
+    },
+    {
+      "text": "2019 G73",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616405315204"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1MIv0F2TOCBRxsu8t0WxTb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1MIv0F2TOCBRxsu8t0WxTb",
+  "id": "1MIv0F2TOCBRxsu8t0WxTb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5d66accf8b30701c7d59dc6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5d66accf8b30701c7d59dc6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5d66accf8b30701c7d59dc6",
+      "width": 64
+    }
+  ],
+  "label": "Gazer Music",
+  "name": "Gracias",
+  "popularity": 0,
+  "release_date": "2020-04-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1MIv0F2TOCBRxsu8t0WxTb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+            },
+            "href": "https://api.spotify.com/v1/artists/089IZ7FwRjpOxPypnAG7kW",
+            "id": "089IZ7FwRjpOxPypnAG7kW",
+            "name": "Los Polinesios",
+            "type": "artist",
+            "uri": "spotify:artist:089IZ7FwRjpOxPypnAG7kW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206657,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eVTBI3clwaHcsP53ITTNe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1eVTBI3clwaHcsP53ITTNe",
+        "id": "1eVTBI3clwaHcsP53ITTNe",
+        "is_local": false,
+        "name": "Gracias",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1eVTBI3clwaHcsP53ITTNe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1MIv0F2TOCBRxsu8t0WxTb"
+}

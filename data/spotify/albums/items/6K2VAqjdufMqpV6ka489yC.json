@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qcAIycColPoLfaz16NvbI"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qcAIycColPoLfaz16NvbI",
+      "id": "2qcAIycColPoLfaz16NvbI",
+      "name": "Zak Downtown",
+      "type": "artist",
+      "uri": "spotify:artist:2qcAIycColPoLfaz16NvbI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Zak Downtown LLC",
+      "type": "C"
+    },
+    {
+      "text": "2017 Zak Downtown LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859723286396"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6K2VAqjdufMqpV6ka489yC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6K2VAqjdufMqpV6ka489yC",
+  "id": "6K2VAqjdufMqpV6ka489yC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273113d3c255665704877065361",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02113d3c255665704877065361",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851113d3c255665704877065361",
+      "width": 64
+    }
+  ],
+  "label": "Zak Downtown LLC",
+  "name": "Zones",
+  "popularity": 0,
+  "release_date": "2017-02-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6K2VAqjdufMqpV6ka489yC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qcAIycColPoLfaz16NvbI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qcAIycColPoLfaz16NvbI",
+            "id": "2qcAIycColPoLfaz16NvbI",
+            "name": "Zak Downtown",
+            "type": "artist",
+            "uri": "spotify:artist:2qcAIycColPoLfaz16NvbI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192075,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fYbks0SiTwtxJwKMYW3sC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fYbks0SiTwtxJwKMYW3sC",
+        "id": "7fYbks0SiTwtxJwKMYW3sC",
+        "is_local": false,
+        "name": "Zones",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7fYbks0SiTwtxJwKMYW3sC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6K2VAqjdufMqpV6ka489yC"
+}

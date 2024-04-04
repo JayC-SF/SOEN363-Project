@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      },
+      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "name": "Imagine Dragons",
+      "type": "artist",
+      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 KIDinaKORNER/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 KIDinaKORNER/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537744039"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lb5EgLuZlnAcfa7NptjWq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lb5EgLuZlnAcfa7NptjWq",
+  "id": "4lb5EgLuZlnAcfa7NptjWq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd065663dadf0312eaac48dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd065663dadf0312eaac48dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd065663dadf0312eaac48dc",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Radioactive",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lb5EgLuZlnAcfa7NptjWq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            },
+            "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+            "id": "53XhwfbYqKCa1cC15pYq2q",
+            "name": "Imagine Dragons",
+            "type": "artist",
+            "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 276040,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VgkwQf6Rzfw9cAzNpxrDJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VgkwQf6Rzfw9cAzNpxrDJ",
+        "id": "5VgkwQf6Rzfw9cAzNpxrDJ",
+        "is_local": false,
+        "name": "Radioactive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5VgkwQf6Rzfw9cAzNpxrDJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4lb5EgLuZlnAcfa7NptjWq"
+}

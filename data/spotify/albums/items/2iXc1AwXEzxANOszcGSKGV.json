@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id": "0SCbttzoZTnLFebDYmAWCm",
+      "name": "Glee Cast",
+      "type": "artist",
+      "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2013 Twentieth Century Fox Film Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443850644"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2iXc1AwXEzxANOszcGSKGV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2iXc1AwXEzxANOszcGSKGV",
+  "id": "2iXc1AwXEzxANOszcGSKGV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738cbb9c597e2351823cc21a21",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028cbb9c597e2351823cc21a21",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518cbb9c597e2351823cc21a21",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Don't Stop Me Now (Glee Cast Version)",
+  "popularity": 0,
+  "release_date": "2013-02-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2iXc1AwXEzxANOszcGSKGV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61i2rbrC7UAfTDPPDBLlY5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61i2rbrC7UAfTDPPDBLlY5",
+        "id": "61i2rbrC7UAfTDPPDBLlY5",
+        "is_local": false,
+        "name": "Don't Stop Me Now (Glee Cast Version)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61i2rbrC7UAfTDPPDBLlY5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2iXc1AwXEzxANOszcGSKGV"
+}

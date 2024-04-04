@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+      },
+      "href": "https://api.spotify.com/v1/artists/5arKwJZEvT5uKq4o0JfqR4",
+      "id": "5arKwJZEvT5uKq4o0JfqR4",
+      "name": "Isabel LaRosa",
+      "type": "artist",
+      "uri": "spotify:artist:5arKwJZEvT5uKq4o0JfqR4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Slumbo Labs",
+      "type": "C"
+    },
+    {
+      "text": "2021 Slumbo Labs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196513957914"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6CrxVIs6PZY93TYnNwVx3W",
+  "id": "6CrxVIs6PZY93TYnNwVx3W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a3974c681d3bb73255e836e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a3974c681d3bb73255e836e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a3974c681d3bb73255e836e",
+      "width": 64
+    }
+  ],
+  "label": "Slumbo Labs",
+  "name": "GAMEBOY",
+  "popularity": 0,
+  "release_date": "2021-12-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6CrxVIs6PZY93TYnNwVx3W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+            },
+            "href": "https://api.spotify.com/v1/artists/5arKwJZEvT5uKq4o0JfqR4",
+            "id": "5arKwJZEvT5uKq4o0JfqR4",
+            "name": "Isabel LaRosa",
+            "type": "artist",
+            "uri": "spotify:artist:5arKwJZEvT5uKq4o0JfqR4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4H7uK9wWfh8AaDS0pVWh0f",
+        "id": "4H7uK9wWfh8AaDS0pVWh0f",
+        "is_local": false,
+        "name": "GAMEBOY",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4H7uK9wWfh8AaDS0pVWh0f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6CrxVIs6PZY93TYnNwVx3W"
+}

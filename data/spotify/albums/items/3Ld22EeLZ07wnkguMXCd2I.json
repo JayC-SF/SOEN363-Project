@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+      "id": "5j4HeCoUlzhfWtjAfM1acR",
+      "name": "Stromae",
+      "type": "artist",
+      "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 Mosaert",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 Mosaert",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527525273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Ld22EeLZ07wnkguMXCd2I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Ld22EeLZ07wnkguMXCd2I",
+  "id": "3Ld22EeLZ07wnkguMXCd2I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d61b5de89ceff797090ee91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d61b5de89ceff797090ee91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d61b5de89ceff797090ee91",
+      "width": 64
+    }
+  ],
+  "label": "Island Records",
+  "name": "Alors On Danse",
+  "popularity": 0,
+  "release_date": "2010-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Ld22EeLZ07wnkguMXCd2I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+            "id": "5j4HeCoUlzhfWtjAfM1acR",
+            "name": "Stromae",
+            "type": "artist",
+            "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            },
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+            "id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "name": "Kanye West",
+            "type": "artist",
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TprRQQ895PUNw0l8hsgiy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TprRQQ895PUNw0l8hsgiy",
+        "id": "6TprRQQ895PUNw0l8hsgiy",
+        "is_local": false,
+        "name": "Alors On Danse",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6TprRQQ895PUNw0l8hsgiy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Ld22EeLZ07wnkguMXCd2I"
+}

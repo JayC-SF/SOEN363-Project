@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xIWjLEjEkPdclYsGGMTpK",
+      "id": "2xIWjLEjEkPdclYsGGMTpK",
+      "name": "B10",
+      "type": "artist",
+      "uri": "spotify:artist:2xIWjLEjEkPdclYsGGMTpK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 B10",
+      "type": "C"
+    },
+    {
+      "text": "2020 B10",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195916943937"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5V322dFOYp7xoXWPfkgMjI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5V322dFOYp7xoXWPfkgMjI",
+  "id": "5V322dFOYp7xoXWPfkgMjI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ced9061ac7c6a8c09dc7d25e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ced9061ac7c6a8c09dc7d25e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ced9061ac7c6a8c09dc7d25e",
+      "width": 64
+    }
+  ],
+  "label": "B10",
+  "name": "Mentalidad De Futbolista",
+  "popularity": 1,
+  "release_date": "2020-12-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5V322dFOYp7xoXWPfkgMjI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xIWjLEjEkPdclYsGGMTpK",
+            "id": "2xIWjLEjEkPdclYsGGMTpK",
+            "name": "B10",
+            "type": "artist",
+            "uri": "spotify:artist:2xIWjLEjEkPdclYsGGMTpK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200855,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BMQ4OedX5HmF48vKK3CJg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BMQ4OedX5HmF48vKK3CJg",
+        "id": "7BMQ4OedX5HmF48vKK3CJg",
+        "is_local": false,
+        "name": "Mentalidad De Futbolista",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BMQ4OedX5HmF48vKK3CJg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5V322dFOYp7xoXWPfkgMjI"
+}

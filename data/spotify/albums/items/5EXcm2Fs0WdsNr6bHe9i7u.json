@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+      },
+      "href": "https://api.spotify.com/v1/artists/6kyw9sh7ryjy1GQdPYH3Yd",
+      "id": "6kyw9sh7ryjy1GQdPYH3Yd",
+      "name": "Juan Caoile",
+      "type": "artist",
+      "uri": "spotify:artist:6kyw9sh7ryjy1GQdPYH3Yd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Viva Records Corporation",
+      "type": "C"
+    },
+    {
+      "text": "2020 Viva Records Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059435672042"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EXcm2Fs0WdsNr6bHe9i7u"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EXcm2Fs0WdsNr6bHe9i7u",
+  "id": "5EXcm2Fs0WdsNr6bHe9i7u",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735777dd0d2ccf23eb88e0ae15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025777dd0d2ccf23eb88e0ae15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515777dd0d2ccf23eb88e0ae15",
+      "width": 64
+    }
+  ],
+  "label": "Viva Records Corporation",
+  "name": "Marikit",
+  "popularity": 0,
+  "release_date": "2020-05-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EXcm2Fs0WdsNr6bHe9i7u/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kyw9sh7ryjy1GQdPYH3Yd",
+            "id": "6kyw9sh7ryjy1GQdPYH3Yd",
+            "name": "Juan Caoile",
+            "type": "artist",
+            "uri": "spotify:artist:6kyw9sh7ryjy1GQdPYH3Yd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EMaB1ZnRpeXWruJZMtaUa",
+            "id": "1EMaB1ZnRpeXWruJZMtaUa",
+            "name": "Kyleswish",
+            "type": "artist",
+            "uri": "spotify:artist:1EMaB1ZnRpeXWruJZMtaUa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 263348,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nd9cEo5R4jGNcgPHDm7Ar"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4nd9cEo5R4jGNcgPHDm7Ar",
+        "id": "4nd9cEo5R4jGNcgPHDm7Ar",
+        "is_local": false,
+        "name": "Marikit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4nd9cEo5R4jGNcgPHDm7Ar"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5EXcm2Fs0WdsNr6bHe9i7u"
+}

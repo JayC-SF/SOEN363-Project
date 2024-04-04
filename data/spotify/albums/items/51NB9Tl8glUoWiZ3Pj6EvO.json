@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3G0UGz2ulKDrTkl3g3qGJN",
+      "id": "3G0UGz2ulKDrTkl3g3qGJN",
+      "name": "DEVOTED",
+      "type": "artist",
+      "uri": "spotify:artist:3G0UGz2ulKDrTkl3g3qGJN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Record Record",
+      "type": "C"
+    },
+    {
+      "text": "2017 Record Record",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3663729040312"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51NB9Tl8glUoWiZ3Pj6EvO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51NB9Tl8glUoWiZ3Pj6EvO",
+  "id": "51NB9Tl8glUoWiZ3Pj6EvO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273816c0cf65d447a7a7e1f1ce4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02816c0cf65d447a7a7e1f1ce4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851816c0cf65d447a7a7e1f1ce4",
+      "width": 64
+    }
+  ],
+  "label": "Record Record",
+  "name": "Santa Fe",
+  "popularity": 0,
+  "release_date": "2017-08-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51NB9Tl8glUoWiZ3Pj6EvO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3G0UGz2ulKDrTkl3g3qGJN",
+            "id": "3G0UGz2ulKDrTkl3g3qGJN",
+            "name": "DEVOTED",
+            "type": "artist",
+            "uri": "spotify:artist:3G0UGz2ulKDrTkl3g3qGJN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kjjtEYy9VsZvhLTCfUSjX"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kjjtEYy9VsZvhLTCfUSjX",
+            "id": "1kjjtEYy9VsZvhLTCfUSjX",
+            "name": "Billionaire",
+            "type": "artist",
+            "uri": "spotify:artist:1kjjtEYy9VsZvhLTCfUSjX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Hz8udArpjGaV6Cfw5LCkn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Hz8udArpjGaV6Cfw5LCkn",
+        "id": "2Hz8udArpjGaV6Cfw5LCkn",
+        "is_local": false,
+        "name": "Santa Fe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Hz8udArpjGaV6Cfw5LCkn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51NB9Tl8glUoWiZ3Pj6EvO"
+}

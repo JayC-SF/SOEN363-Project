@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+      },
+      "href": "https://api.spotify.com/v1/artists/6B4RvAzPbZcxMjhZvFSDis",
+      "id": "6B4RvAzPbZcxMjhZvFSDis",
+      "name": "Boris Way",
+      "type": "artist",
+      "uri": "spotify:artist:6B4RvAzPbZcxMjhZvFSDis"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465033063"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QW9fDgYMn1qySKAqCKDSe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QW9fDgYMn1qySKAqCKDSe",
+  "id": "1QW9fDgYMn1qySKAqCKDSe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a989192f6b19a0ef470c59df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a989192f6b19a0ef470c59df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a989192f6b19a0ef470c59df",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Walking Away",
+  "popularity": 2,
+  "release_date": "2021-08-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QW9fDgYMn1qySKAqCKDSe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+            },
+            "href": "https://api.spotify.com/v1/artists/6B4RvAzPbZcxMjhZvFSDis",
+            "id": "6B4RvAzPbZcxMjhZvFSDis",
+            "name": "Boris Way",
+            "type": "artist",
+            "uri": "spotify:artist:6B4RvAzPbZcxMjhZvFSDis"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141142,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UxYnypWEEE9T4mbACce7H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UxYnypWEEE9T4mbACce7H",
+        "id": "4UxYnypWEEE9T4mbACce7H",
+        "is_local": false,
+        "name": "Walking Away",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4UxYnypWEEE9T4mbACce7H"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QW9fDgYMn1qySKAqCKDSe"
+}

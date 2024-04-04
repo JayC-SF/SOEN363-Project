@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+      },
+      "href": "https://api.spotify.com/v1/artists/49EE6lVLgU8sp7dFgPshgM",
+      "id": "49EE6lVLgU8sp7dFgPshgM",
+      "name": "La Adictiva",
+      "type": "artist",
+      "uri": "spotify:artist:49EE6lVLgU8sp7dFgPshgM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 Anval Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 Anval Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483600116"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4T4LzOrGQAAvs4CjQ4ZrXv",
+  "id": "4T4LzOrGQAAvs4CjQ4ZrXv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311b77a8693ac5cce83870491",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211b77a8693ac5cce83870491",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111b77a8693ac5cce83870491",
+      "width": 64
+    }
+  ],
+  "label": "Anval Music",
+  "name": "El Amor de Mi Vida",
+  "popularity": 0,
+  "release_date": "2019-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4T4LzOrGQAAvs4CjQ4ZrXv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+            },
+            "href": "https://api.spotify.com/v1/artists/49EE6lVLgU8sp7dFgPshgM",
+            "id": "49EE6lVLgU8sp7dFgPshgM",
+            "name": "La Adictiva",
+            "type": "artist",
+            "uri": "spotify:artist:49EE6lVLgU8sp7dFgPshgM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xxq5LXFBFyawPChsOOWVu",
+        "id": "2xxq5LXFBFyawPChsOOWVu",
+        "is_local": false,
+        "name": "El Amor de Mi Vida",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xxq5LXFBFyawPChsOOWVu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4T4LzOrGQAAvs4CjQ4ZrXv"
+}

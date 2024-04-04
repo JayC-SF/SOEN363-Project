@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+      },
+      "href": "https://api.spotify.com/v1/artists/58R31AvN8JMHM7xkNpVLjX",
+      "id": "58R31AvN8JMHM7xkNpVLjX",
+      "name": "Alexis Ffrench",
+      "type": "artist",
+      "uri": "spotify:artist:58R31AvN8JMHM7xkNpVLjX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2022 Alexis Ffrench, under exclusive license to Sony Classical, a label of Sony music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196589314130"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1q8YumKsCqWZo1YospqkP3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1q8YumKsCqWZo1YospqkP3",
+  "id": "1q8YumKsCqWZo1YospqkP3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393df4c10f7ee162584ab3fe5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293df4c10f7ee162584ab3fe5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193df4c10f7ee162584ab3fe5",
+      "width": 64
+    }
+  ],
+  "label": "Sony Classical",
+  "name": "Guiding Light (Solo Piano Version)",
+  "popularity": 0,
+  "release_date": "2022-07-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1q8YumKsCqWZo1YospqkP3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+            },
+            "href": "https://api.spotify.com/v1/artists/58R31AvN8JMHM7xkNpVLjX",
+            "id": "58R31AvN8JMHM7xkNpVLjX",
+            "name": "Alexis Ffrench",
+            "type": "artist",
+            "uri": "spotify:artist:58R31AvN8JMHM7xkNpVLjX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Bv0zecdPnCITv9JV392RH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Bv0zecdPnCITv9JV392RH",
+        "id": "2Bv0zecdPnCITv9JV392RH",
+        "is_local": false,
+        "name": "Guiding Light - Solo Piano Version",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Bv0zecdPnCITv9JV392RH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1q8YumKsCqWZo1YospqkP3"
+}

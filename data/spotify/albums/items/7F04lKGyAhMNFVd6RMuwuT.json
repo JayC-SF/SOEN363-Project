@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+      },
+      "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+      "id": "28DdkLhrzQNizZ0ExQpyku",
+      "name": "Rizky Febian",
+      "type": "artist",
+      "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 NET.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 NET.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614975117730"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7F04lKGyAhMNFVd6RMuwuT",
+  "id": "7F04lKGyAhMNFVd6RMuwuT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273621b3fbe660acdd5d1251785",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02621b3fbe660acdd5d1251785",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851621b3fbe660acdd5d1251785",
+      "width": 64
+    }
+  ],
+  "label": "NET.",
+  "name": "Cukup Tau",
+  "popularity": 0,
+  "release_date": "2017-04-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7F04lKGyAhMNFVd6RMuwuT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+            },
+            "href": "https://api.spotify.com/v1/artists/28DdkLhrzQNizZ0ExQpyku",
+            "id": "28DdkLhrzQNizZ0ExQpyku",
+            "name": "Rizky Febian",
+            "type": "artist",
+            "uri": "spotify:artist:28DdkLhrzQNizZ0ExQpyku"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207191,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Q1dOmmQ6u1ihYLD1912LR",
+        "id": "5Q1dOmmQ6u1ihYLD1912LR",
+        "is_local": false,
+        "name": "Cukup Tau",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Q1dOmmQ6u1ihYLD1912LR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7F04lKGyAhMNFVd6RMuwuT"
+}

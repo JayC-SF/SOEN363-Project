@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZkNEylmE0uGS4lgPOskat"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZkNEylmE0uGS4lgPOskat",
+      "id": "5ZkNEylmE0uGS4lgPOskat",
+      "name": "Tony Glausi",
+      "type": "artist",
+      "uri": "spotify:artist:5ZkNEylmE0uGS4lgPOskat"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Tony Glausi",
+      "type": "C"
+    },
+    {
+      "text": "2020 Tony Glausi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "018736916472"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0efRdCaofAWLJtr3SQ3llM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0efRdCaofAWLJtr3SQ3llM",
+  "id": "0efRdCaofAWLJtr3SQ3llM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d43a19992381029d2233befa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d43a19992381029d2233befa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d43a19992381029d2233befa",
+      "width": 64
+    }
+  ],
+  "label": "Outside in Music",
+  "name": "Historia de un Amor",
+  "popularity": 0,
+  "release_date": "2020-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0efRdCaofAWLJtr3SQ3llM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZkNEylmE0uGS4lgPOskat"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZkNEylmE0uGS4lgPOskat",
+            "id": "5ZkNEylmE0uGS4lgPOskat",
+            "name": "Tony Glausi",
+            "type": "artist",
+            "uri": "spotify:artist:5ZkNEylmE0uGS4lgPOskat"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14BcBoFYpI3Q5dhBkCjlm8"
+            },
+            "href": "https://api.spotify.com/v1/artists/14BcBoFYpI3Q5dhBkCjlm8",
+            "id": "14BcBoFYpI3Q5dhBkCjlm8",
+            "name": "Martina DaSilva, Vanessa Perea",
+            "type": "artist",
+            "uri": "spotify:artist:14BcBoFYpI3Q5dhBkCjlm8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154912,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5M8Rgo4KhjlTslvwP3VFHU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5M8Rgo4KhjlTslvwP3VFHU",
+        "id": "5M8Rgo4KhjlTslvwP3VFHU",
+        "is_local": false,
+        "name": "Historia de un Amor",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5M8Rgo4KhjlTslvwP3VFHU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0efRdCaofAWLJtr3SQ3llM"
+}

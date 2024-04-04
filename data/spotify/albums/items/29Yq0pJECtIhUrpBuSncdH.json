@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+      },
+      "href": "https://api.spotify.com/v1/artists/2NqgE99Ll5vOTvmbN7O2R6",
+      "id": "2NqgE99Ll5vOTvmbN7O2R6",
+      "name": "Boy & Bear",
+      "type": "artist",
+      "uri": "spotify:artist:2NqgE99Ll5vOTvmbN7O2R6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Boy & Bear Pty Ltd. under exclusive license to Nettwerk Productions Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Boy & Bear Pty Ltd. under exclusive license to Nettwerk Productions Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "067003412056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/29Yq0pJECtIhUrpBuSncdH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/29Yq0pJECtIhUrpBuSncdH",
+  "id": "29Yq0pJECtIhUrpBuSncdH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330689862bee7adcc51361da1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230689862bee7adcc51361da1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130689862bee7adcc51361da1",
+      "width": 64
+    }
+  ],
+  "label": "Nettwerk Records",
+  "name": "Where'd You Go (Acoustic)",
+  "popularity": 0,
+  "release_date": "2016-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/29Yq0pJECtIhUrpBuSncdH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+            },
+            "href": "https://api.spotify.com/v1/artists/2NqgE99Ll5vOTvmbN7O2R6",
+            "id": "2NqgE99Ll5vOTvmbN7O2R6",
+            "name": "Boy & Bear",
+            "type": "artist",
+            "uri": "spotify:artist:2NqgE99Ll5vOTvmbN7O2R6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hyOuwsfb3wYYzCtnJ2IDx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2hyOuwsfb3wYYzCtnJ2IDx",
+        "id": "2hyOuwsfb3wYYzCtnJ2IDx",
+        "is_local": false,
+        "name": "Where'd You Go - Acoustic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2hyOuwsfb3wYYzCtnJ2IDx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:29Yq0pJECtIhUrpBuSncdH"
+}

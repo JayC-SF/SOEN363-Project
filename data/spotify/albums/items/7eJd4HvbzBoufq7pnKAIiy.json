@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+      },
+      "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+      "id": "3zmfs9cQwzJl575W1ZYXeT",
+      "name": "Men I Trust",
+      "type": "artist",
+      "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Men i Trust",
+      "type": "C"
+    },
+    {
+      "text": "2017 Men i Trust",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859722754902"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7eJd4HvbzBoufq7pnKAIiy",
+  "id": "7eJd4HvbzBoufq7pnKAIiy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5d2a7e29794ff7e91305aa8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5d2a7e29794ff7e91305aa8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5d2a7e29794ff7e91305aa8",
+      "width": 64
+    }
+  ],
+  "label": "Men i Trust",
+  "name": "Tailwhip",
+  "popularity": 17,
+  "release_date": "2017-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7eJd4HvbzBoufq7pnKAIiy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+            "id": "3zmfs9cQwzJl575W1ZYXeT",
+            "name": "Men I Trust",
+            "type": "artist",
+            "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225263,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DoO0sn4SbUrz7Uay9ACTM",
+        "id": "2DoO0sn4SbUrz7Uay9ACTM",
+        "is_local": false,
+        "name": "Tailwhip",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2DoO0sn4SbUrz7Uay9ACTM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7eJd4HvbzBoufq7pnKAIiy"
+}

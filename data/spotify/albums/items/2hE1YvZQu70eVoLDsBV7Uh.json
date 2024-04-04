@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Lm0pUvmisUHMdoky5ch2I",
+      "id": "4Lm0pUvmisUHMdoky5ch2I",
+      "name": "Apocalyptica",
+      "type": "artist",
+      "uri": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2010 Sony Music Entertainment Germany GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977660708"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2hE1YvZQu70eVoLDsBV7Uh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2hE1YvZQu70eVoLDsBV7Uh",
+  "id": "2hE1YvZQu70eVoLDsBV7Uh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aaf3388fe939953243371c8b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aaf3388fe939953243371c8b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aaf3388fe939953243371c8b",
+      "width": 64
+    }
+  ],
+  "label": "Columbia Dragnet",
+  "name": "End of Me (feat. Gavin Rossdale)",
+  "popularity": 0,
+  "release_date": "2010-06-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2hE1YvZQu70eVoLDsBV7Uh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Lm0pUvmisUHMdoky5ch2I",
+            "id": "4Lm0pUvmisUHMdoky5ch2I",
+            "name": "Apocalyptica",
+            "type": "artist",
+            "uri": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lBam1B1t8wpnH7pJHWnj6",
+            "id": "6lBam1B1t8wpnH7pJHWnj6",
+            "name": "Gavin Rossdale",
+            "type": "artist",
+            "uri": "spotify:artist:6lBam1B1t8wpnH7pJHWnj6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5405djHNhs1HnV7IEy6Aki"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5405djHNhs1HnV7IEy6Aki",
+        "id": "5405djHNhs1HnV7IEy6Aki",
+        "is_local": false,
+        "name": "End of Me (feat. Gavin Rossdale)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5405djHNhs1HnV7IEy6Aki"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2hE1YvZQu70eVoLDsBV7Uh"
+}

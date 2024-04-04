@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xvXrTBkQdY9CALtV1KXGD",
+      "id": "5xvXrTBkQdY9CALtV1KXGD",
+      "name": "\u5098\u6751\u30c8\u30fc\u30bf",
+      "type": "artist",
+      "uri": "spotify:artist:5xvXrTBkQdY9CALtV1KXGD"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 LIVE LAB.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 LIVE LAB.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859759934513"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6NNY8hjHLDSk29h1vI4pCt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6NNY8hjHLDSk29h1vI4pCt",
+  "id": "6NNY8hjHLDSk29h1vI4pCt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342928775b769762ad5032c5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242928775b769762ad5032c5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142928775b769762ad5032c5d",
+      "width": 64
+    }
+  ],
+  "label": "LIVE LAB.",
+  "name": "\u30aa\u30fc\u30c0\u30fc\u30e1\u30a4\u30c9",
+  "popularity": 16,
+  "release_date": "2023-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6NNY8hjHLDSk29h1vI4pCt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xvXrTBkQdY9CALtV1KXGD",
+            "id": "5xvXrTBkQdY9CALtV1KXGD",
+            "name": "\u5098\u6751\u30c8\u30fc\u30bf",
+            "type": "artist",
+            "uri": "spotify:artist:5xvXrTBkQdY9CALtV1KXGD"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257730,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PQX4LWsKbmEX76TylvE7V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PQX4LWsKbmEX76TylvE7V",
+        "id": "2PQX4LWsKbmEX76TylvE7V",
+        "is_local": false,
+        "name": "\u30aa\u30fc\u30c0\u30fc\u30e1\u30a4\u30c9",
+        "preview_url": "https://p.scdn.co/mp3-preview/c86d855618c6d09f328f31414f66512d3576459f?cid=86b05f3697cb4212a3889cf6b40859f6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2PQX4LWsKbmEX76TylvE7V"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6NNY8hjHLDSk29h1vI4pCt"
+}

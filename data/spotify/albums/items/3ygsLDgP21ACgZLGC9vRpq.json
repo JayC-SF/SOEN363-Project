@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7rwPLQfRcQlFApvZUmzYlq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7rwPLQfRcQlFApvZUmzYlq",
+      "id": "7rwPLQfRcQlFApvZUmzYlq",
+      "name": "JaBa",
+      "type": "artist",
+      "uri": "spotify:artist:7rwPLQfRcQlFApvZUmzYlq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 A1 Digital",
+      "type": "C"
+    },
+    {
+      "text": "2022 A1 Digital",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196864783422"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ygsLDgP21ACgZLGC9vRpq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ygsLDgP21ACgZLGC9vRpq",
+  "id": "3ygsLDgP21ACgZLGC9vRpq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d87dc73d27b1a7fb5df8581",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d87dc73d27b1a7fb5df8581",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d87dc73d27b1a7fb5df8581",
+      "width": 64
+    }
+  ],
+  "label": "A1 Digital",
+  "name": "Reasons",
+  "popularity": 0,
+  "release_date": "2022-05-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ygsLDgP21ACgZLGC9vRpq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7rwPLQfRcQlFApvZUmzYlq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7rwPLQfRcQlFApvZUmzYlq",
+            "id": "7rwPLQfRcQlFApvZUmzYlq",
+            "name": "JaBa",
+            "type": "artist",
+            "uri": "spotify:artist:7rwPLQfRcQlFApvZUmzYlq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168408,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21oGEV85XcVKt9APWjYvM9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21oGEV85XcVKt9APWjYvM9",
+        "id": "21oGEV85XcVKt9APWjYvM9",
+        "is_local": false,
+        "name": "Reasons",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:21oGEV85XcVKt9APWjYvM9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3ygsLDgP21ACgZLGC9vRpq"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ev7vtPI38BE2kQvwmH4ce",
+      "id": "2Ev7vtPI38BE2kQvwmH4ce",
+      "name": "Arthur Miguel",
+      "type": "artist",
+      "uri": "spotify:artist:2Ev7vtPI38BE2kQvwmH4ce"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Arthur Miguel",
+      "type": "C"
+    },
+    {
+      "text": "2022 Arthur Miguel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316214292456"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/06iIFd7rdU1ezp4WpfAINo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/06iIFd7rdU1ezp4WpfAINo",
+  "id": "06iIFd7rdU1ezp4WpfAINo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1c6091f84bfbfba48b50c0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1c6091f84bfbfba48b50c0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1c6091f84bfbfba48b50c0c",
+      "width": 64
+    }
+  ],
+  "label": "Arthur Miguel",
+  "name": "Ang Wakas",
+  "popularity": 0,
+  "release_date": "2022-02-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/06iIFd7rdU1ezp4WpfAINo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Ev7vtPI38BE2kQvwmH4ce",
+            "id": "2Ev7vtPI38BE2kQvwmH4ce",
+            "name": "Arthur Miguel",
+            "type": "artist",
+            "uri": "spotify:artist:2Ev7vtPI38BE2kQvwmH4ce"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+            },
+            "href": "https://api.spotify.com/v1/artists/6oF9fOWX7L88hNPKqWzB0O",
+            "id": "6oF9fOWX7L88hNPKqWzB0O",
+            "name": "Trisha Macapagal",
+            "type": "artist",
+            "uri": "spotify:artist:6oF9fOWX7L88hNPKqWzB0O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 304000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uG6Uh2JTvvxMEfFYPFkFz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uG6Uh2JTvvxMEfFYPFkFz",
+        "id": "3uG6Uh2JTvvxMEfFYPFkFz",
+        "is_local": false,
+        "name": "Ang Wakas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3uG6Uh2JTvvxMEfFYPFkFz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:06iIFd7rdU1ezp4WpfAINo"
+}

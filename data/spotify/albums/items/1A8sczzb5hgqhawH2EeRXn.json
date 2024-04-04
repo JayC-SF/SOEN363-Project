@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+      },
+      "href": "https://api.spotify.com/v1/artists/5uiDE9y1o7EEyDbNBo6vl9",
+      "id": "5uiDE9y1o7EEyDbNBo6vl9",
+      "name": "Drezo",
+      "type": "artist",
+      "uri": "spotify:artist:5uiDE9y1o7EEyDbNBo6vl9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Drezo",
+      "type": "C"
+    },
+    {
+      "text": "2016 Drezo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859717646656"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1A8sczzb5hgqhawH2EeRXn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1A8sczzb5hgqhawH2EeRXn",
+  "id": "1A8sczzb5hgqhawH2EeRXn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273239cdc63a254bd116c6d0431",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02239cdc63a254bd116c6d0431",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851239cdc63a254bd116c6d0431",
+      "width": 64
+    }
+  ],
+  "label": "Drezo",
+  "name": "Malice",
+  "popularity": 0,
+  "release_date": "2016-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1A8sczzb5hgqhawH2EeRXn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uiDE9y1o7EEyDbNBo6vl9",
+            "id": "5uiDE9y1o7EEyDbNBo6vl9",
+            "name": "Drezo",
+            "type": "artist",
+            "uri": "spotify:artist:5uiDE9y1o7EEyDbNBo6vl9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 262500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JtzkYPSeFA4ezd4kBjeS6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JtzkYPSeFA4ezd4kBjeS6",
+        "id": "2JtzkYPSeFA4ezd4kBjeS6",
+        "is_local": false,
+        "name": "Malice",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JtzkYPSeFA4ezd4kBjeS6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1A8sczzb5hgqhawH2EeRXn"
+}

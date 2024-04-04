@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+      },
+      "href": "https://api.spotify.com/v1/artists/4bYPcJP5jwMhSivRcqie2n",
+      "id": "4bYPcJP5jwMhSivRcqie2n",
+      "name": "Adam Levine",
+      "type": "artist",
+      "uri": "spotify:artist:4bYPcJP5jwMhSivRcqie2n"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3flTDj1VSZCktpBGZlNutt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3flTDj1VSZCktpBGZlNutt",
+      "id": "3flTDj1VSZCktpBGZlNutt",
+      "name": "Javier Colon",
+      "type": "artist",
+      "uri": "spotify:artist:3flTDj1VSZCktpBGZlNutt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2011 Universal Republic Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2011 Universal Republic Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527785929"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ur4Mxj9SHKdLtcqhwK56y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ur4Mxj9SHKdLtcqhwK56y",
+  "id": "4ur4Mxj9SHKdLtcqhwK56y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358b33c36b0311e4baa180600",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258b33c36b0311e4baa180600",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158b33c36b0311e4baa180600",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Man In The Mirror (The Voice Performance)",
+  "popularity": 0,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ur4Mxj9SHKdLtcqhwK56y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+            },
+            "href": "https://api.spotify.com/v1/artists/4bYPcJP5jwMhSivRcqie2n",
+            "id": "4bYPcJP5jwMhSivRcqie2n",
+            "name": "Adam Levine",
+            "type": "artist",
+            "uri": "spotify:artist:4bYPcJP5jwMhSivRcqie2n"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3flTDj1VSZCktpBGZlNutt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3flTDj1VSZCktpBGZlNutt",
+            "id": "3flTDj1VSZCktpBGZlNutt",
+            "name": "Javier Colon",
+            "type": "artist",
+            "uri": "spotify:artist:3flTDj1VSZCktpBGZlNutt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4C3tWSdVQDqr3DVBMpJBx8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4C3tWSdVQDqr3DVBMpJBx8",
+        "id": "4C3tWSdVQDqr3DVBMpJBx8",
+        "is_local": false,
+        "name": "Man In The Mirror - The Voice Performance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4C3tWSdVQDqr3DVBMpJBx8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ur4Mxj9SHKdLtcqhwK56y"
+}

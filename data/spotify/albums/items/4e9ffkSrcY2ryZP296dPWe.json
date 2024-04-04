@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Ev7vtPI38BE2kQvwmH4ce",
+      "id": "2Ev7vtPI38BE2kQvwmH4ce",
+      "name": "Arthur Miguel",
+      "type": "artist",
+      "uri": "spotify:artist:2Ev7vtPI38BE2kQvwmH4ce"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Arthur Miguel",
+      "type": "C"
+    },
+    {
+      "text": "2021 Arthur Miguel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316213655641"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4e9ffkSrcY2ryZP296dPWe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4e9ffkSrcY2ryZP296dPWe",
+  "id": "4e9ffkSrcY2ryZP296dPWe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad1297bb7e73b4a566bad9cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad1297bb7e73b4a566bad9cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad1297bb7e73b4a566bad9cd",
+      "width": 64
+    }
+  ],
+  "label": "Arthur Miguel",
+  "name": "Dito, Sa Ilalim Ng Buwan",
+  "popularity": 0,
+  "release_date": "2021-12-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4e9ffkSrcY2ryZP296dPWe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Ev7vtPI38BE2kQvwmH4ce",
+            "id": "2Ev7vtPI38BE2kQvwmH4ce",
+            "name": "Arthur Miguel",
+            "type": "artist",
+            "uri": "spotify:artist:2Ev7vtPI38BE2kQvwmH4ce"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245225,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Jsk4XzMSOK21Ubxx5YjVx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Jsk4XzMSOK21Ubxx5YjVx",
+        "id": "6Jsk4XzMSOK21Ubxx5YjVx",
+        "is_local": false,
+        "name": "Dito, Sa Ilalim Ng Buwan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Jsk4XzMSOK21Ubxx5YjVx"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4e9ffkSrcY2ryZP296dPWe"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+      },
+      "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+      "id": "512ryQI6aOrN662xL2g1C9",
+      "name": "Joe Worker",
+      "type": "artist",
+      "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Joe Worker",
+      "type": "C"
+    },
+    {
+      "text": "2023 Joe Worker",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "696168083605"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3qydpgliIE1RW0G3znHVuH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3qydpgliIE1RW0G3znHVuH",
+  "id": "3qydpgliIE1RW0G3znHVuH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730315cebb928a621b6d217797",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020315cebb928a621b6d217797",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510315cebb928a621b6d217797",
+      "width": 64
+    }
+  ],
+  "label": "2206, LLC.",
+  "name": "MADE IT THIS FAR",
+  "popularity": 18,
+  "release_date": "2023-11-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3qydpgliIE1RW0G3znHVuH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+            },
+            "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+            "id": "512ryQI6aOrN662xL2g1C9",
+            "name": "Joe Worker",
+            "type": "artist",
+            "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225150,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47GS9imzjYmRQVCsfwQnQ4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47GS9imzjYmRQVCsfwQnQ4",
+        "id": "47GS9imzjYmRQVCsfwQnQ4",
+        "is_local": false,
+        "name": "MADE IT THIS FAR",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:47GS9imzjYmRQVCsfwQnQ4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3qydpgliIE1RW0G3znHVuH"
+}

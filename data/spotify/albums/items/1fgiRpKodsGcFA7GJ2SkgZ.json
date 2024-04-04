@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+      },
+      "href": "https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux",
+      "id": "7KMqksf0UMdyA0UCf4R3ux",
+      "name": "James Blunt",
+      "type": "artist",
+      "uri": "spotify:artist:7KMqksf0UMdyA0UCf4R3ux"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Atlantic Records UK, a Warner Music Group company.",
+      "type": "C"
+    },
+    {
+      "text": "2017 Atlantic Records UK, a Warner Music Group company.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295828790"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1fgiRpKodsGcFA7GJ2SkgZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1fgiRpKodsGcFA7GJ2SkgZ",
+  "id": "1fgiRpKodsGcFA7GJ2SkgZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b745e71c97c8969a785cb814",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b745e71c97c8969a785cb814",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b745e71c97c8969a785cb814",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records UK",
+  "name": "Bartender",
+  "popularity": 0,
+  "release_date": "2017-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1fgiRpKodsGcFA7GJ2SkgZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+            },
+            "href": "https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux",
+            "id": "7KMqksf0UMdyA0UCf4R3ux",
+            "name": "James Blunt",
+            "type": "artist",
+            "uri": "spotify:artist:7KMqksf0UMdyA0UCf4R3ux"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193194,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tDz9F8dcTlZcaUgrg4o2H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tDz9F8dcTlZcaUgrg4o2H",
+        "id": "1tDz9F8dcTlZcaUgrg4o2H",
+        "is_local": false,
+        "name": "Bartender",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1tDz9F8dcTlZcaUgrg4o2H"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1fgiRpKodsGcFA7GJ2SkgZ"
+}

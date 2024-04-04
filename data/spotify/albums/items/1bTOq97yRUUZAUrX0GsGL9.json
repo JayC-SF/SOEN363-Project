@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg"
+      },
+      "href": "https://api.spotify.com/v1/artists/0RQEMnWcCrVW4vkPFbAVsg",
+      "id": "0RQEMnWcCrVW4vkPFbAVsg",
+      "name": "Lucy Daydream",
+      "type": "artist",
+      "uri": "spotify:artist:0RQEMnWcCrVW4vkPFbAVsg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Lucy Daydream",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436007207"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bTOq97yRUUZAUrX0GsGL9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bTOq97yRUUZAUrX0GsGL9",
+  "id": "1bTOq97yRUUZAUrX0GsGL9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b66cab821c3e59c6fba9cd5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b66cab821c3e59c6fba9cd5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b66cab821c3e59c6fba9cd5",
+      "width": 64
+    }
+  ],
+  "label": "Lucy Daydream",
+  "name": "Go Flex",
+  "popularity": 0,
+  "release_date": "2018-08-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bTOq97yRUUZAUrX0GsGL9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0RQEMnWcCrVW4vkPFbAVsg",
+            "id": "0RQEMnWcCrVW4vkPFbAVsg",
+            "name": "Lucy Daydream",
+            "type": "artist",
+            "uri": "spotify:artist:0RQEMnWcCrVW4vkPFbAVsg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190243,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xmkI0uZtDKGuFoarKzrrJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xmkI0uZtDKGuFoarKzrrJ",
+        "id": "0xmkI0uZtDKGuFoarKzrrJ",
+        "is_local": false,
+        "name": "Go Flex",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xmkI0uZtDKGuFoarKzrrJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1bTOq97yRUUZAUrX0GsGL9"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fwYrHN92VR90PJQ11ybJ8",
+      "id": "5fwYrHN92VR90PJQ11ybJ8",
+      "name": "THE SOLUTIONS",
+      "type": "artist",
+      "uri": "spotify:artist:5fwYrHN92VR90PJQ11ybJ8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Happy Robot Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Happy Robot Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "887928017934"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53P5weqc2cb75Bg3LuFPcZ",
+  "id": "53P5weqc2cb75Bg3LuFPcZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273afa3909114458ca77a1c92dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02afa3909114458ca77a1c92dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851afa3909114458ca77a1c92dd",
+      "width": 64
+    }
+  ],
+  "label": "Happy Robot Records",
+  "name": "MOOD FOR LOVE",
+  "popularity": 0,
+  "release_date": "2018-12-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53P5weqc2cb75Bg3LuFPcZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fwYrHN92VR90PJQ11ybJ8",
+            "id": "5fwYrHN92VR90PJQ11ybJ8",
+            "name": "THE SOLUTIONS",
+            "type": "artist",
+            "uri": "spotify:artist:5fwYrHN92VR90PJQ11ybJ8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204012,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U46xmSU9CczDNPEUx20OD",
+        "id": "4U46xmSU9CczDNPEUx20OD",
+        "is_local": false,
+        "name": "MOOD FOR LOVE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4U46xmSU9CczDNPEUx20OD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:53P5weqc2cb75Bg3LuFPcZ"
+}

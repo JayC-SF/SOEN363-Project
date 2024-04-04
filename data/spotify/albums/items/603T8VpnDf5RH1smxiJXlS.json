@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+      },
+      "href": "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+      "id": "5uCXJWo3WoXgqv3T1RlAbh",
+      "name": "Katie Melua",
+      "type": "artist",
+      "uri": "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 BMG Rights Management (UK) Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 BMG Rights Management (UK) Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538623666"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/603T8VpnDf5RH1smxiJXlS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/603T8VpnDf5RH1smxiJXlS",
+  "id": "603T8VpnDf5RH1smxiJXlS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de40602cbdac5f9ec60761fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de40602cbdac5f9ec60761fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de40602cbdac5f9ec60761fb",
+      "width": 64
+    }
+  ],
+  "label": "BMG Rights Management (UK) Ltd",
+  "name": "A Love Like That",
+  "popularity": 0,
+  "release_date": "2020-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/603T8VpnDf5RH1smxiJXlS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+            "id": "5uCXJWo3WoXgqv3T1RlAbh",
+            "name": "Katie Melua",
+            "type": "artist",
+            "uri": "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7z5bwJ8Ce5XKRoXZpwi4T7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7z5bwJ8Ce5XKRoXZpwi4T7",
+        "id": "7z5bwJ8Ce5XKRoXZpwi4T7",
+        "is_local": false,
+        "name": "A Love Like That - Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7z5bwJ8Ce5XKRoXZpwi4T7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+            "id": "5uCXJWo3WoXgqv3T1RlAbh",
+            "name": "Katie Melua",
+            "type": "artist",
+            "uri": "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Tq8g0Vs7tap4sbAs5q8kF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Tq8g0Vs7tap4sbAs5q8kF",
+        "id": "2Tq8g0Vs7tap4sbAs5q8kF",
+        "is_local": false,
+        "name": "A Love Like That",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2Tq8g0Vs7tap4sbAs5q8kF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:603T8VpnDf5RH1smxiJXlS"
+}

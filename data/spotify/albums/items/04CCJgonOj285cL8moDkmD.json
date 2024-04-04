@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+      },
+      "href": "https://api.spotify.com/v1/artists/4cJD9t5QBFTUQcd3xfbOb2",
+      "id": "4cJD9t5QBFTUQcd3xfbOb2",
+      "name": "Dillom",
+      "type": "artist",
+      "uri": "spotify:artist:4cJD9t5QBFTUQcd3xfbOb2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Bohemian Groove",
+      "type": "C"
+    },
+    {
+      "text": "2021 Bohemian Groove",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "759159029065"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04CCJgonOj285cL8moDkmD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04CCJgonOj285cL8moDkmD",
+  "id": "04CCJgonOj285cL8moDkmD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273713cd4fdac3a61dfb4e1a137",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02713cd4fdac3a61dfb4e1a137",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851713cd4fdac3a61dfb4e1a137",
+      "width": 64
+    }
+  ],
+  "label": "Bohemian Groove",
+  "name": "Sauce",
+  "popularity": 0,
+  "release_date": "2021-01-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04CCJgonOj285cL8moDkmD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+            },
+            "href": "https://api.spotify.com/v1/artists/4cJD9t5QBFTUQcd3xfbOb2",
+            "id": "4cJD9t5QBFTUQcd3xfbOb2",
+            "name": "Dillom",
+            "type": "artist",
+            "uri": "spotify:artist:4cJD9t5QBFTUQcd3xfbOb2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06AeUCEBbDQ0FNziK1BYvj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06AeUCEBbDQ0FNziK1BYvj",
+        "id": "06AeUCEBbDQ0FNziK1BYvj",
+        "is_local": false,
+        "name": "Sauce",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06AeUCEBbDQ0FNziK1BYvj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04CCJgonOj285cL8moDkmD"
+}
