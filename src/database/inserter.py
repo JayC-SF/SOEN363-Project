@@ -61,7 +61,7 @@ class DatabaseInserter:
                 self.__insert_available_markets_albums()
                 pass
             case 'available_markets_tracks':
-                pass
+                self.__insert_available_markets_tracks()
             case 'playlists_tracks':
                 pass
             case 'audiobooks_authors':
@@ -527,16 +527,6 @@ class DatabaseInserter:
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} track-artist relationships in {end_time - start_time} seconds")
 
-    # def __insert_authors(self):
-    #     parser = SpotifyParser('audiobooks', AuthorModel)
-    #     authors: List[AuthorModel] = parser.parse_all(
-    #         middleware=lambda mapped_object, json_data: (
-    #             setattr(mapped_object, 'audiobook_id', json_data.get('audiobook_id')) or mapped_object
-    #         )
-    #     )
-    #     query =
-    #     for author in authors:
-
     def __insert_tracks_albums(self):
         parser = SpotifyParser('tracks', TrackModel)
         tracks: List[TrackModel] = parser.parse_all(
@@ -637,3 +627,56 @@ class DatabaseInserter:
         parser = SpotifyParser('aliases', AliasModel)
         aliases: List[AliasModel] = parser.parse_all()
         cursor = self.__db.cursor()
+
+    def __insert_available_markets_tracks(self):
+        parser = SpotifyParser('tracks', TrackModel)
+        tracks: List[TrackModel] = parser.parse_all(
+            middleware=lambda mapped_object, json_data: (
+                    setattr(mapped_object, 'available_markets', json_data.get('available_markets')) or mapped_object
+            )
+        )
+
+        # Use buffered cursor to avoid "Unread result found" error
+        cursor = self.__db.cursor(buffered=True)
+        start_time = time.time()
+        num_inserts = 0
+
+        # Get all markets and their ids
+        cursor.execute("SELECT market_id, country_code FROM Market")
+        markets = cursor.fetchall()
+        market_map = {}
+        for market in markets:
+            market_id, country_code = market
+            market_map[country_code] = market_id
+
+        for track in tracks:
+            # Check if track exists in Audio table
+            cursor.execute("SELECT audio_id FROM Audio WHERE spotify_id = %s", (track.spotify_id,))
+            result = cursor.fetchone()
+            if not result:
+                continue
+
+            track_id = result[0]
+
+            # Check if track exists in Track table
+            cursor.execute("SELECT EXISTS(SELECT 1 FROM Track WHERE track_id = %s)", (track_id,))
+            exists = cursor.fetchone()[0]
+            if not exists:
+                continue
+
+            for market in track.available_markets:
+                market_id = market_map[market]
+
+                cursor.execute("SELECT COUNT(1) FROM Available_Markets_Tracks WHERE market_id = %s AND track_id = %s",
+                               (market_id, track_id))
+                if cursor.fetchone()[0] == 0:
+                    cursor.execute("INSERT INTO Available_Markets_Tracks (track_id, market_id) VALUES (%s, %s)",
+                                   (track_id, market_id))
+                    self.__db.commit()
+                    num_inserts += 1
+                #     print(f"Inserted market, track data for {market_id}, {track_id}")
+                # else:
+                #     print(f"Row already exists for {market_id}, {track_id}, skipping.")
+
+        end_time = time.time()
+        print(f"Successfully inserted {num_inserts} market-track relationships in {end_time - start_time} seconds")
