@@ -83,9 +83,8 @@ if __name__ == '__main__':
     insert_parser.set_defaults(func=insert_to_database)
 
     # Run below if token expires at root dir through src/main_spotify_scraper.py
-    # SPOTIFY_AUTH_TOKEN.refresh_token()
-    # print(SPOTIFY_AUTH_zTOKEN.get_authorization())
-    # print(SPOTIFY_AUTH_TOKEN.get_authorization())
+    SPOTIFY_AUTH_TOKEN.refresh_token()
+    print(SPOTIFY_AUTH_TOKEN.get_authorization())
 
     args = parser.parse_args()
     if hasattr(args, 'func'):

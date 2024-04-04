@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 from os import getenv
 from os.path import abspath, join, dirname
 
-load_dotenv(".env")
+load_dotenv(abspath(join(dirname(__file__), "../.env")))
 
 # CONSTANTS
 SLEEP_TIMER_AVG = 2.6
