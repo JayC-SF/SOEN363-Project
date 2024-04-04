@@ -8,6 +8,7 @@ import mysql.connector
 import pandas as pd
 
 from spotify.models.album_model import AlbumModel
+from spotify.models.alias_model import AliasModel
 from spotify.models.artist_model import ArtistModel
 from spotify.models.audiobook_model import AudiobookModel
 from spotify.models.author_model import AuthorModel
@@ -586,3 +587,8 @@ class DatabaseInserter:
 
         end_time = time.time()
         print(f"Successfully inserted {num_inserts} track-album relationships in {end_time - start_time} seconds")
+
+    def __insert_aliases(self):
+        parser = SpotifyParser('aliases', AliasModel)
+        aliases: List[AliasModel] = parser.parse_all()
+        cursor = self.__db.cursor()
