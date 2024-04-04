@@ -16,7 +16,7 @@ def load_info_from_playlists():
     _, artists_csv, _, _ = setup_spotify_folders('artists')
     print("Loading playlists...")
     playlists_df = pd.read_csv(playlists_csv)
-    print("Drop duplicates of playlists")
+    print("Drop duplicates of playlists...")
     playlists_df.drop_duplicates(subset=['ID'], inplace=True)
     print("Removing playlists that are not cached...")
     playlists_df = playlists_df[playlists_df['CACHED'] == True]
@@ -53,14 +53,12 @@ def output_to_csv(csv_path: str, ids: set[str], type: str):
     # delete csv_id's reference for garbage collector
     del csv_id
     # map ids to csv format
-    ids = [id for id in ids if id is not None]
+    ids = [f"{id},False\n" for id in ids if id is not None]
     size = len(ids)
-    ids = ",False\n".join(ids)
-    if len(ids) != 0:
+    if size:
         print(f"Writing to {type} csv...")
         with open(csv_path, "a") as f:
-            f.write(ids)
-            f.write(",False")
+            f.writelines(ids)
     else:
         print(f"Nothing to write for {type}")
     return size

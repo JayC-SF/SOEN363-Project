@@ -5,7 +5,7 @@ from os.path import abspath, join, dirname
 load_dotenv(".env")
 
 # CONSTANTS
-SLEEP_TIMER_AVG = 2.4
+SLEEP_TIMER_AVG = 2.6
 
 # LOAD ENVIRONMENT VARIABLES
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID")
