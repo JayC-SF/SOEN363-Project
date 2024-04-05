@@ -1,6 +1,8 @@
 -- Active: 1712015075548@@walidoow.com@3306@project
--- Drop existing tables if they exist
 
+-- DDL.sql is the DDL file of the database. It creates all the tables and domain constraints needed to store all the data fetched from the Spotify and MusicBrainz API.
+
+-- Drop existing tables if they exist
 DROP TABLE IF EXISTS Audiobooks_Chapters;
 DROP TABLE IF EXISTS Audiobooks_Authors;
 DROP TABLE IF EXISTS Available_Markets_Albums;
@@ -26,7 +28,6 @@ DROP TABLE IF EXISTS Genre;
 DROP TABLE IF EXISTS Chapters;
 
 -- CREATE ALL TABLES
-
 CREATE TABLE Audio
 (
     audio_id     INT AUTO_INCREMENT,
@@ -164,15 +165,6 @@ CREATE TABLE Tracks_Artists
     FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE
 );
 
--- CREATE TABLE Artists_Aliases
--- (
---     artist_id INT NOT NULL,
---     alias_id  INT NOT NULL,
---     PRIMARY KEY (artist_id, alias_id),
---     FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE,
---     FOREIGN KEY (alias_id) REFERENCES Alias (alias_id) ON DELETE CASCADE
--- );
-
 CREATE TABLE Tracks_Albums
 (
     track_id INT NOT NULL,
@@ -234,11 +226,3 @@ CREATE TABLE Audiobooks_Chapters
     PRIMARY KEY (chapter_id),
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook (audiobook_id) ON DELETE CASCADE
 );
-
--- SELECT table_schema                                  "database name",
---        sum(data_length + index_length) / 1024 / 1024 "database size in MB",
---        sum(data_free) / 1024 / 1024                  "free space in MB"
--- FROM information_schema.TABLES
--- GROUP BY table_schema; 
-
-show variables like "%named%";

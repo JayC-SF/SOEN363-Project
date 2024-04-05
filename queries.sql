@@ -24,27 +24,26 @@ HAVING COUNT(track_id) > 10;
 -- 3. A simple join select query using cartesian product and where clause vs. a join query using on.
 
 -- Cartesian product with WHERE clause
-SELECT * FROM Track, Album
-WHERE Track.album_id = Album.album_id;
+SELECT * FROM Track, Artist
+WHERE Track.track_id = Artist.artist_id;
 
 -- Join query using ON keyword
-SELECT *
-FROM Track
-JOIN Album ON Track.album_id = Album.album_id;
+SELECT * FROM Track
+INNER JOIN Artist ON Track.track_id = Artist.artist_id;
 
 -- 4. A few queries to demonstrate various join types on the same tables: inner vs. outer (left and right) vs. full join. Use of null values in the database to show the differences is required.
-SELECT * FROM Tracks_Albums AS TA
-LEFT JOIN Album AS A ON TA.album_id = A.album_id;
+SELECT * FROM Tracks_Albums AS ta
+LEFT JOIN Album AS a ON ta.album_id = a.album_id;
 
-SELECT * FROM Tracks_Albums AS TA
-RIGHT JOIN Album AS A ON TA.album_id = A.album_id;
+SELECT * FROM Tracks_Albums AS ta
+RIGHT JOIN Album AS a ON ta.album_id = a.album_id;
 
-SELECT * FROM Tracks_Albums AS TA
-LEFT JOIN Album AS A ON TA.album_id = A.album_id
+SELECT * FROM Tracks_Albums AS ta
+LEFT JOIN Album AS a ON ta.album_id = a.album_id
 UNION
-SELECT * FROM Tracks_Albums AS TA
-RIGHT JOIN Album AS A ON TA.album_id = A.album_id
-WHERE TA.album_id IS NULL;
+SELECT * FROM Tracks_Albums AS ta
+RIGHT JOIN Album AS a ON TA.album_id = a.album_id
+WHERE ta.album_id IS NULL;
 
 -- 5. A couple of examples to demonstrate correlated queries.
 
@@ -56,16 +55,12 @@ WHERE (
     WHERE ta.artist_id = a.artist_id
 ) > 5;
 
--- Correlated Subquery to Find Albums with Less Than the Average Popularity of Their Artists:
-SELECT album_name FROM Album al
-WHERE (
-    SELECT AVG(popularity) FROM Artist ar
-    INNER JOIN Tracks_Albums ta ON ar.artist_id = ta.artist_id
-    INNER JOIN Track tr ON ta.track_id = tr.track_id
-    WHERE ta.album_id = al.album_id
-) < (
-    SELECT AVG(popularity) FROM Artist
-);
+-- Finding Artists with More Than 10 Tracks
+SELECT playlist_id, playlist_name
+FROM Playlist p
+WHERE (SELECT COUNT(*)
+       FROM Playlists_Tracks pt
+       WHERE pt.playlist_id = p.playlist_id) > 10;
 
 -- 6. One example per set operations: intersect, union, and difference vs. their equivalences without using set operations.
 
@@ -77,7 +72,7 @@ INNER JOIN Artist a ON ta.artist_id = a.artist_id
 INNER JOIN Track t ON ta.track_id = t.track_id
 INNER JOIN Tracks_Albums tra ON t.track_id = tra.track_id
 INNER JOIN Album al ON tra.album_id = al.album_id
-WHERE al.album_name = 'Album Name';
+WHERE al.album_name = 'UTOPIA';
 
 -- Equivalent without Set Operation
 SELECT DISTINCT a.artist_name
@@ -86,21 +81,22 @@ INNER JOIN Tracks_Artists ta ON a.artist_id = ta.artist_id
 INNER JOIN Track t ON ta.track_id = t.track_id
 INNER JOIN Tracks_Albums tra ON t.track_id = tra.track_id
 INNER JOIN Album al ON tra.album_id = al.album_id
-WHERE al.album_name = 'Album Name'
+WHERE al.album_name = 'GUTS'
 AND EXISTS (
     SELECT 1 FROM Artist a2
     INNER JOIN Tracks_Artists ta2 ON a2.artist_id = ta2.artist_id
     INNER JOIN Track t2 ON ta2.track_id = t2.track_id
     INNER JOIN Tracks_Albums tra2 ON t2.track_id = tra2.track_id
     INNER JOIN Album al2 ON tra2.album_id = al2.album_id
-    WHERE al2.album_name = 'Another Album Name'
+    WHERE al2.album_name = 'SOUR'
     AND a.artist_id = a2.artist_id
 );
 
 -- Using Set Operation (Union)
 SELECT artist_name FROM Artist
 WHERE nb_followers > 1000
-UNION SELECT artist_name FROM Artist
+UNION 
+SELECT artist_name FROM Artist
 WHERE popularity > 70;
 
 -- Equivalent without Set Operation
@@ -115,7 +111,7 @@ INNER JOIN Artist a ON ta.artist_id = a.artist_id
 INNER JOIN Track t ON ta.track_id = t.track_id
 INNER JOIN Tracks_Albums tra ON t.track_id = tra.track_id
 INNER JOIN Album al ON tra.album_id = al.album_id
-WHERE al.album_name = 'Album Name';
+WHERE al.album_name = 'HEROES & VILLAINS';
 
 -- Equivalent without Set Operation
 SELECT DISTINCT a.artist_name FROM Artist a
@@ -123,13 +119,13 @@ LEFT JOIN Tracks_Artists ta ON a.artist_id = ta.artist_id
 LEFT JOIN Track t ON ta.track_id = t.track_id
 LEFT JOIN Tracks_Albums tra ON t.track_id = tra.track_id
 LEFT JOIN Album al ON tra.album_id = al.album_id
-WHERE al.album_name != 'Album Name'
+WHERE al.album_name != 'HEROES & VILLAINS'
 OR al.album_name IS NULL;
 
 
 -- 7. An example of a view that has a hard-coded criteria, by which the content of the view may change upon changing the hard-coded value (see L09 slide 24).
 -- Create a view to display detailed information about popular tracks by genre
-CREATE VIEW PopularTracksByGenre AS
+CREATE OR REPLACE VIEW PopularTracksByGenre AS
 SELECT
     t.track_id,
     t.popularity,
