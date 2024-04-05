@@ -94,9 +94,10 @@ CREATE TABLE Playlist
 
 CREATE TABLE Alias
 (
-    alias_id   INT AUTO_INCREMENT,
+    artist_id  INT,
     alias_name VARCHAR(200) NOT NULL,
-    PRIMARY KEY (alias_id)
+    PRIMARY KEY (artist_id, alias_name),
+    FOREIGN KEY (artist_id) REFERENCES Artist(artist_id)
 );
 
 CREATE TABLE Album
@@ -163,14 +164,14 @@ CREATE TABLE Tracks_Artists
     FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE
 );
 
-CREATE TABLE Artists_Aliases
-(
-    artist_id INT NOT NULL,
-    alias_id  INT NOT NULL,
-    PRIMARY KEY (artist_id, alias_id),
-    FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE,
-    FOREIGN KEY (alias_id) REFERENCES Alias (alias_id) ON DELETE CASCADE
-);
+-- CREATE TABLE Artists_Aliases
+-- (
+--     artist_id INT NOT NULL,
+--     alias_id  INT NOT NULL,
+--     PRIMARY KEY (artist_id, alias_id),
+--     FOREIGN KEY (artist_id) REFERENCES Artist (artist_id) ON DELETE CASCADE,
+--     FOREIGN KEY (alias_id) REFERENCES Alias (alias_id) ON DELETE CASCADE
+-- );
 
 CREATE TABLE Tracks_Albums
 (
@@ -239,3 +240,5 @@ CREATE TABLE Audiobooks_Chapters
 --        sum(data_free) / 1024 / 1024                  "free space in MB"
 -- FROM information_schema.TABLES
 -- GROUP BY table_schema; 
+
+show variables like "%named%";
