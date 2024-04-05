@@ -6,8 +6,10 @@ from utility.variables import SPOTIFY_DATA_PATH, SPOTIFY_ITEMS_CSV_NAME, SPOTIFY
     SPOTIFY_MAPPING_FILE_NAME
 
 
-def setup_spotify_folders(endpoint) -> tuple[str | bytes, str, str | bytes, str]:
-    data_path = abspath(joinpath(SPOTIFY_DATA_PATH, endpoint))
+def setup_spotify_folders(endpoint, source_data_path=None, create_ids_csv=True) -> tuple[str | bytes, str, str | bytes, str]:
+    if not source_data_path:
+        source_data_path = SPOTIFY_DATA_PATH
+    data_path = abspath(joinpath(source_data_path, endpoint))
     csv_file_path = abspath(joinpath(data_path, SPOTIFY_ITEMS_CSV_NAME))
     mapper_file_path = abspath(joinpath(data_path, SPOTIFY_MAPPING_FILE_NAME))
     items_folder_path = joinpath(data_path, SPOTIFY_ITEMS_FOLDER_NAME)
@@ -16,7 +18,7 @@ def setup_spotify_folders(endpoint) -> tuple[str | bytes, str, str | bytes, str]
     # add a .gitkeep file if it doesn't exist
     open(joinpath(items_folder_path, ".gitkeep"), "a")
     # create csv file if doesn't exist
-    if not os.path.exists(csv_file_path):
+    if not os.path.exists(csv_file_path) and create_ids_csv:
         with open(csv_file_path, "w") as f:
             f.write('ID,CACHED')
         # log info
