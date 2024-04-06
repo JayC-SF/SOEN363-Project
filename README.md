@@ -20,8 +20,33 @@ git clone https://github.com/JayC-SF/SOEN363-Project.git
 pip install -r requirements.txt
 ```
 
-...
+3. Create a connection to your local MySQL server to be able to run the DML and DDL code. You can perform this by setting up your own database in MySQL using Visual Studio Code.
 
+Alternatively, you can also connect to our database that is hosted on our personal server which will contain a database named `project` that already has all the data required.
+The credentials to connect are the following:
+
+```
+URL: jdbc:mysql://walidoow.com:3306/project
+
+USER: mysql
+PASSWORD: fLkuJLPgt*9kB5
+
+Info already included in the URL:
+HOST: walidoow.com
+PORT: 3306
+DATABASE: project
+```
+
+4. Run the `SOEN363_FinalProject_DDL.sql` to create all the tables required for the database. You can select all the queries and run them.
+One problem is that the file is too large for submission so to access it, please download it from the following link and place it at the root folder:
+
+`https://drive.google.com/file/d/1hNQ1UypdFCoF5RwHfwFfyHmfP0yahKGa/view?usp=sharing`
+
+To execute it, install MySQL on your terminal and run the following command in a Linux terminal:
+
+`source ./SOEN363_FinalProject_DML.sql`
+
+6. With the database populated, run each query inside `SOEN363_FinalProject_Queries.sql` to verify if the queries are working as intended.
 
 ## Contributors
 
