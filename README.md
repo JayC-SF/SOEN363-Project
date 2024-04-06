@@ -40,11 +40,15 @@ DATABASE: project
 4. Run the `SOEN363_FinalProject_DDL.sql` to create all the tables required for the database. You can select all the queries and run them.
 One problem is that the file is too large for submission so to access it, please download it from the following link and place it at the root folder:
 
-`https://drive.google.com/file/d/1hNQ1UypdFCoF5RwHfwFfyHmfP0yahKGa/view?usp=sharing`
+```
+https://drive.google.com/file/d/1hNQ1UypdFCoF5RwHfwFfyHmfP0yahKGa/view?usp=sharing
+```
 
 To execute it, install MySQL on your terminal and run the following command in a Linux terminal:
 
-`source ./SOEN363_FinalProject_DML.sql`
+```
+source ./SOEN363_FinalProject_DML.sql
+```
 
 6. With the database populated, run each query inside `SOEN363_FinalProject_Queries.sql` to verify if the queries are working as intended.
 
