@@ -44,8 +44,12 @@ One problem is that the file is too large for submission so to access it, please
 https://drive.google.com/file/d/1hNQ1UypdFCoF5RwHfwFfyHmfP0yahKGa/view?usp=sharing
 ```
 
-To execute it, install MySQL on your terminal and run the following command in a Linux terminal:
-
+To execute it, install `mysql-client` and connect to it.
+Run the following:
+```bash
+mysql -u <username> -p -h <host> -P <port>
+```
+Once connected, run the following command through the `mysql-client`: 
 ```
 source ./SOEN363_FinalProject_DML.sql
 ```
