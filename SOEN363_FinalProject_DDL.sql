@@ -98,7 +98,7 @@ CREATE TABLE Alias
     artist_id  INT,
     alias_name VARCHAR(200) NOT NULL,
     PRIMARY KEY (artist_id, alias_name),
-    FOREIGN KEY (artist_id) REFERENCES Artist(artist_id)
+    FOREIGN KEY (artist_id) REFERENCES Artist (artist_id)
 );
 
 CREATE TABLE Album
@@ -221,8 +221,9 @@ CREATE TABLE Audiobooks_Authors
 
 CREATE TABLE Audiobooks_Chapters
 (
-    chapter_id   INT AUTO_INCREMENT,
+    chapter_id   INT NOT NULL,
     audiobook_id INT NOT NULL,
-    PRIMARY KEY (chapter_id),
+    PRIMARY KEY (chapter_id, audiobook_id),
+    UNIQUE (chapter_id),
     FOREIGN KEY (audiobook_id) REFERENCES Audiobook (audiobook_id) ON DELETE CASCADE
 );
