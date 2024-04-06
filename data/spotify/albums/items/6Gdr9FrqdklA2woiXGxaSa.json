@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+      "id": "5iQNy7hQGe1suvNOQz19Jz",
+      "name": "AMBKOR",
+      "type": "artist",
+      "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 The Music Republic Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 The Music Republic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162755542"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Gdr9FrqdklA2woiXGxaSa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Gdr9FrqdklA2woiXGxaSa",
+  "id": "6Gdr9FrqdklA2woiXGxaSa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318ef638d43ca8d8a96d3cf54",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218ef638d43ca8d8a96d3cf54",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118ef638d43ca8d8a96d3cf54",
+      "width": 64
+    }
+  ],
+  "label": "The Music Republic Records",
+  "name": "Invernalia",
+  "popularity": 29,
+  "release_date": "2022-10-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Gdr9FrqdklA2woiXGxaSa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+            "id": "5iQNy7hQGe1suvNOQz19Jz",
+            "name": "AMBKOR",
+            "type": "artist",
+            "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245325,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FN2IcP0rJJ911O8i3W7iL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FN2IcP0rJJ911O8i3W7iL",
+        "id": "5FN2IcP0rJJ911O8i3W7iL",
+        "is_local": false,
+        "name": "Invernalia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5FN2IcP0rJJ911O8i3W7iL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Gdr9FrqdklA2woiXGxaSa"
+}

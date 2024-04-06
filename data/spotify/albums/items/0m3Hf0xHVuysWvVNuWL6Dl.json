@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM"
+      },
+      "href": "https://api.spotify.com/v1/artists/3p6my89rn8STAqtZohziRM",
+      "id": "3p6my89rn8STAqtZohziRM",
+      "name": "Matt Cooper",
+      "type": "artist",
+      "uri": "spotify:artist:3p6my89rn8STAqtZohziRM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Matt Cooper",
+      "type": "C"
+    },
+    {
+      "text": "2021 Matt Cooper",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196511806191"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0m3Hf0xHVuysWvVNuWL6Dl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0m3Hf0xHVuysWvVNuWL6Dl",
+  "id": "0m3Hf0xHVuysWvVNuWL6Dl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6ef91b84df9bbabf1c6de11",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6ef91b84df9bbabf1c6de11",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6ef91b84df9bbabf1c6de11",
+      "width": 64
+    }
+  ],
+  "label": "Matt Cooper",
+  "name": "Taylor Swift + Partner In Crime",
+  "popularity": 5,
+  "release_date": "2022-01-14",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0m3Hf0xHVuysWvVNuWL6Dl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/3p6my89rn8STAqtZohziRM",
+            "id": "3p6my89rn8STAqtZohziRM",
+            "name": "Matt Cooper",
+            "type": "artist",
+            "uri": "spotify:artist:3p6my89rn8STAqtZohziRM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V8EfI4NMnq1G74CGUhYuS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5V8EfI4NMnq1G74CGUhYuS",
+        "id": "5V8EfI4NMnq1G74CGUhYuS",
+        "is_local": false,
+        "name": "Taylor Swift",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5V8EfI4NMnq1G74CGUhYuS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/3p6my89rn8STAqtZohziRM",
+            "id": "3p6my89rn8STAqtZohziRM",
+            "name": "Matt Cooper",
+            "type": "artist",
+            "uri": "spotify:artist:3p6my89rn8STAqtZohziRM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176507,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tw5sOYJ6NCyBEflF8fVuD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tw5sOYJ6NCyBEflF8fVuD",
+        "id": "6tw5sOYJ6NCyBEflF8fVuD",
+        "is_local": false,
+        "name": "Partner In Crime",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6tw5sOYJ6NCyBEflF8fVuD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0m3Hf0xHVuysWvVNuWL6Dl"
+}

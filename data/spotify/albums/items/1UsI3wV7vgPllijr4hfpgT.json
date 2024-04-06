@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yjm4SvYqC5FFuLbB6TyHr",
+      "id": "4yjm4SvYqC5FFuLbB6TyHr",
+      "name": "Bellakath",
+      "type": "artist",
+      "uri": "spotify:artist:4yjm4SvYqC5FFuLbB6TyHr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 2325065 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 2325065 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197209605669"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1UsI3wV7vgPllijr4hfpgT",
+  "id": "1UsI3wV7vgPllijr4hfpgT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a77c48cca4e8d66add8bb6f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a77c48cca4e8d66add8bb6f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a77c48cca4e8d66add8bb6f9",
+      "width": 64
+    }
+  ],
+  "label": "2325065 Records DK",
+  "name": "Gatita",
+  "popularity": 0,
+  "release_date": "2022-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1UsI3wV7vgPllijr4hfpgT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4yjm4SvYqC5FFuLbB6TyHr",
+            "id": "4yjm4SvYqC5FFuLbB6TyHr",
+            "name": "Bellakath",
+            "type": "artist",
+            "uri": "spotify:artist:4yjm4SvYqC5FFuLbB6TyHr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152004,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25Jf61edvM78rQHYaWRiIL",
+        "id": "25Jf61edvM78rQHYaWRiIL",
+        "is_local": false,
+        "name": "Gatita",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:25Jf61edvM78rQHYaWRiIL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1UsI3wV7vgPllijr4hfpgT"
+}

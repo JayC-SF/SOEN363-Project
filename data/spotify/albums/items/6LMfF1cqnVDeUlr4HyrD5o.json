@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+      },
+      "href": "https://api.spotify.com/v1/artists/5QuBVnBPEzwYvFrgBbwpmU",
+      "id": "5QuBVnBPEzwYvFrgBbwpmU",
+      "name": "Empress Of",
+      "type": "artist",
+      "uri": "spotify:artist:5QuBVnBPEzwYvFrgBbwpmU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Terrible Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Terrible Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634904705367"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6LMfF1cqnVDeUlr4HyrD5o"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6LMfF1cqnVDeUlr4HyrD5o",
+  "id": "6LMfF1cqnVDeUlr4HyrD5o",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba4a2e3642041c8c5a53fb9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba4a2e3642041c8c5a53fb9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba4a2e3642041c8c5a53fb9e",
+      "width": 64
+    }
+  ],
+  "label": "Terrible Records",
+  "name": "Woman Is a Word",
+  "popularity": 0,
+  "release_date": "2016-03-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6LMfF1cqnVDeUlr4HyrD5o/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QuBVnBPEzwYvFrgBbwpmU",
+            "id": "5QuBVnBPEzwYvFrgBbwpmU",
+            "name": "Empress Of",
+            "type": "artist",
+            "uri": "spotify:artist:5QuBVnBPEzwYvFrgBbwpmU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197007,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RhyVwNEpuxHgqpHP686v7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RhyVwNEpuxHgqpHP686v7",
+        "id": "1RhyVwNEpuxHgqpHP686v7",
+        "is_local": false,
+        "name": "Woman Is a Word",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RhyVwNEpuxHgqpHP686v7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6LMfF1cqnVDeUlr4HyrD5o"
+}

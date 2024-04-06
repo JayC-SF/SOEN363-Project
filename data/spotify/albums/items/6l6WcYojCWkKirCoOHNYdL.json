@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dNg7OLrxcWU9cVe3sQoMV",
+      "id": "7dNg7OLrxcWU9cVe3sQoMV",
+      "name": "Scott Rill",
+      "type": "artist",
+      "uri": "spotify:artist:7dNg7OLrxcWU9cVe3sQoMV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Vy6RSEJf7dqYyymV9T632",
+      "id": "5Vy6RSEJf7dqYyymV9T632",
+      "name": "Dayana",
+      "type": "artist",
+      "uri": "spotify:artist:5Vy6RSEJf7dqYyymV9T632"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Pink Elephant",
+      "type": "C"
+    },
+    {
+      "text": "2020 Pink Elephant",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195597617653"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6l6WcYojCWkKirCoOHNYdL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6l6WcYojCWkKirCoOHNYdL",
+  "id": "6l6WcYojCWkKirCoOHNYdL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a97dbcd6d8e57add8542de8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a97dbcd6d8e57add8542de8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a97dbcd6d8e57add8542de8",
+      "width": 64
+    }
+  ],
+  "label": "Pink Elephant",
+  "name": "Before I Die",
+  "popularity": 0,
+  "release_date": "2020-10-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6l6WcYojCWkKirCoOHNYdL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dNg7OLrxcWU9cVe3sQoMV",
+            "id": "7dNg7OLrxcWU9cVe3sQoMV",
+            "name": "Scott Rill",
+            "type": "artist",
+            "uri": "spotify:artist:7dNg7OLrxcWU9cVe3sQoMV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Vy6RSEJf7dqYyymV9T632",
+            "id": "5Vy6RSEJf7dqYyymV9T632",
+            "name": "Dayana",
+            "type": "artist",
+            "uri": "spotify:artist:5Vy6RSEJf7dqYyymV9T632"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168750,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RDlgzKoflASU4AC0C3Sv0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RDlgzKoflASU4AC0C3Sv0",
+        "id": "5RDlgzKoflASU4AC0C3Sv0",
+        "is_local": false,
+        "name": "Before I Die",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RDlgzKoflASU4AC0C3Sv0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6l6WcYojCWkKirCoOHNYdL"
+}

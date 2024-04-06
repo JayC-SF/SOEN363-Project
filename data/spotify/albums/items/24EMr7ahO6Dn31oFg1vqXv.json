@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+      },
+      "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+      "id": "6x2LnllRG5uGarZMsD4iO8",
+      "name": "Thomas Rhett",
+      "type": "artist",
+      "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Big Machine Label Group, LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Big Machine Label Group, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00843930032389"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24EMr7ahO6Dn31oFg1vqXv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/24EMr7ahO6Dn31oFg1vqXv",
+  "id": "24EMr7ahO6Dn31oFg1vqXv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f4c528049bbd6c39fe78c73",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f4c528049bbd6c39fe78c73",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f4c528049bbd6c39fe78c73",
+      "width": 64
+    }
+  ],
+  "label": "The Valory Music Co.",
+  "name": "Unforgettable",
+  "popularity": 0,
+  "release_date": "2017-07-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/24EMr7ahO6Dn31oFg1vqXv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+            },
+            "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+            "id": "6x2LnllRG5uGarZMsD4iO8",
+            "name": "Thomas Rhett",
+            "type": "artist",
+            "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZiRSqlSsDlY0UyDYU9CTE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ZiRSqlSsDlY0UyDYU9CTE",
+        "id": "0ZiRSqlSsDlY0UyDYU9CTE",
+        "is_local": false,
+        "name": "Unforgettable",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ZiRSqlSsDlY0UyDYU9CTE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:24EMr7ahO6Dn31oFg1vqXv"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ODkUSyC9qhputGEbAIf6p",
+      "id": "0ODkUSyC9qhputGEbAIf6p",
+      "name": "Erik Frank",
+      "type": "artist",
+      "uri": "spotify:artist:0ODkUSyC9qhputGEbAIf6p"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Creator Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Creator Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617224707294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3z5xA51VoSt8VME8OWTboV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3z5xA51VoSt8VME8OWTboV",
+  "id": "3z5xA51VoSt8VME8OWTboV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f84203d6b5843a700066c8b3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f84203d6b5843a700066c8b3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f84203d6b5843a700066c8b3",
+      "width": 64
+    }
+  ],
+  "label": "Creator Records",
+  "name": "Physical",
+  "popularity": 0,
+  "release_date": "2023-08-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3z5xA51VoSt8VME8OWTboV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ODkUSyC9qhputGEbAIf6p",
+            "id": "0ODkUSyC9qhputGEbAIf6p",
+            "name": "Erik Frank",
+            "type": "artist",
+            "uri": "spotify:artist:0ODkUSyC9qhputGEbAIf6p"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139338,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IIu39Kj39uOYqkdDBr3CG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IIu39Kj39uOYqkdDBr3CG",
+        "id": "0IIu39Kj39uOYqkdDBr3CG",
+        "is_local": false,
+        "name": "Physical",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0IIu39Kj39uOYqkdDBr3CG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3z5xA51VoSt8VME8OWTboV"
+}

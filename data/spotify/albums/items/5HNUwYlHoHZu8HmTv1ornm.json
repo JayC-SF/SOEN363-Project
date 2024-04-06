@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+      },
+      "href": "https://api.spotify.com/v1/artists/6C0Tazx8fb7cJIhm2s2Ttm",
+      "id": "6C0Tazx8fb7cJIhm2s2Ttm",
+      "name": "Kamakaze",
+      "type": "artist",
+      "uri": "spotify:artist:6C0Tazx8fb7cJIhm2s2Ttm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Kamakaze",
+      "type": "C"
+    },
+    {
+      "text": "2017 Kamakaze",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059580602048"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5HNUwYlHoHZu8HmTv1ornm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5HNUwYlHoHZu8HmTv1ornm",
+  "id": "5HNUwYlHoHZu8HmTv1ornm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f68916995a86b6b4de6947ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f68916995a86b6b4de6947ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f68916995a86b6b4de6947ce",
+      "width": 64
+    }
+  ],
+  "label": "Indeed Records",
+  "name": "Road Rage",
+  "popularity": 0,
+  "release_date": "2017-12-24",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5HNUwYlHoHZu8HmTv1ornm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+            },
+            "href": "https://api.spotify.com/v1/artists/6C0Tazx8fb7cJIhm2s2Ttm",
+            "id": "6C0Tazx8fb7cJIhm2s2Ttm",
+            "name": "Kamakaze",
+            "type": "artist",
+            "uri": "spotify:artist:6C0Tazx8fb7cJIhm2s2Ttm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168124,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/660PiXcIG3K20aZJWbsSui"
+        },
+        "href": "https://api.spotify.com/v1/tracks/660PiXcIG3K20aZJWbsSui",
+        "id": "660PiXcIG3K20aZJWbsSui",
+        "is_local": false,
+        "name": "Road Rage I",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:660PiXcIG3K20aZJWbsSui"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+            },
+            "href": "https://api.spotify.com/v1/artists/6C0Tazx8fb7cJIhm2s2Ttm",
+            "id": "6C0Tazx8fb7cJIhm2s2Ttm",
+            "name": "Kamakaze",
+            "type": "artist",
+            "uri": "spotify:artist:6C0Tazx8fb7cJIhm2s2Ttm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172112,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32PuW9OCLImDIcd04R0p2n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32PuW9OCLImDIcd04R0p2n",
+        "id": "32PuW9OCLImDIcd04R0p2n",
+        "is_local": false,
+        "name": "Road Rage III",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:32PuW9OCLImDIcd04R0p2n"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5HNUwYlHoHZu8HmTv1ornm"
+}

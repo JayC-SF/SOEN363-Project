@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+      "id": "2KaW48xlLnXC2v8tvyhWsa",
+      "name": "Amaranthe",
+      "type": "artist",
+      "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Spin-Farm Oy",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Spin-Farm Oy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537426522"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1m6dWoDQTTEMpOhl0WDEsQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1m6dWoDQTTEMpOhl0WDEsQ",
+  "id": "1m6dWoDQTTEMpOhl0WDEsQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738730ab35847f13201654ac0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028730ab35847f13201654ac0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518730ab35847f13201654ac0a",
+      "width": 64
+    }
+  ],
+  "label": "Spin-Farm Oy",
+  "name": "Burn With Me",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1m6dWoDQTTEMpOhl0WDEsQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+            "id": "2KaW48xlLnXC2v8tvyhWsa",
+            "name": "Amaranthe",
+            "type": "artist",
+            "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vv0Bl2ffp7W5iuHfuH6g0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vv0Bl2ffp7W5iuHfuH6g0",
+        "id": "4vv0Bl2ffp7W5iuHfuH6g0",
+        "is_local": false,
+        "name": "Burn With Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4vv0Bl2ffp7W5iuHfuH6g0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+            "id": "2KaW48xlLnXC2v8tvyhWsa",
+            "name": "Amaranthe",
+            "type": "artist",
+            "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FsBtvljwElobnSGqJVzyy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FsBtvljwElobnSGqJVzyy",
+        "id": "5FsBtvljwElobnSGqJVzyy",
+        "is_local": false,
+        "name": "Burn With Me - Acoustic",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5FsBtvljwElobnSGqJVzyy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1m6dWoDQTTEMpOhl0WDEsQ"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hgaXjbAcED2p80Lj8dzXT",
+      "id": "1hgaXjbAcED2p80Lj8dzXT",
+      "name": "Canbay & Wolker",
+      "type": "artist",
+      "uri": "spotify:artist:1hgaXjbAcED2p80Lj8dzXT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Kokpit Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Kokpit Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615939173236"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6alwVYijkeoYaCIn0aJaiI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6alwVYijkeoYaCIn0aJaiI",
+  "id": "6alwVYijkeoYaCIn0aJaiI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273090e21b5aa52a46092502437",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02090e21b5aa52a46092502437",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851090e21b5aa52a46092502437",
+      "width": 64
+    }
+  ],
+  "label": "Kokpit Records",
+  "name": "Fersah",
+  "popularity": 0,
+  "release_date": "2019-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6alwVYijkeoYaCIn0aJaiI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hgaXjbAcED2p80Lj8dzXT",
+            "id": "1hgaXjbAcED2p80Lj8dzXT",
+            "name": "Canbay & Wolker",
+            "type": "artist",
+            "uri": "spotify:artist:1hgaXjbAcED2p80Lj8dzXT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vPwz9tLf2mA9fL7o2Tvjh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0vPwz9tLf2mA9fL7o2Tvjh",
+        "id": "0vPwz9tLf2mA9fL7o2Tvjh",
+        "is_local": false,
+        "name": "Fersah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0vPwz9tLf2mA9fL7o2Tvjh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6alwVYijkeoYaCIn0aJaiI"
+}

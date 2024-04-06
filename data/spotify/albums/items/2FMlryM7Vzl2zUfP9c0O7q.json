@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IT9wOWTOtqMLtpg49K7Lk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IT9wOWTOtqMLtpg49K7Lk",
+      "id": "3IT9wOWTOtqMLtpg49K7Lk",
+      "name": "Tim Janis",
+      "type": "artist",
+      "uri": "spotify:artist:3IT9wOWTOtqMLtpg49K7Lk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Tim Janis Ensemble Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2022 Tim Janis Ensemble, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "664277000240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2FMlryM7Vzl2zUfP9c0O7q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2FMlryM7Vzl2zUfP9c0O7q",
+  "id": "2FMlryM7Vzl2zUfP9c0O7q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273845b31d71b4b0bcfef02b94f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02845b31d71b4b0bcfef02b94f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851845b31d71b4b0bcfef02b94f",
+      "width": 64
+    }
+  ],
+  "label": "Tim Janis Ensemble",
+  "name": "The Fairy Woods",
+  "popularity": 1,
+  "release_date": "2022-08-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2FMlryM7Vzl2zUfP9c0O7q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IT9wOWTOtqMLtpg49K7Lk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3IT9wOWTOtqMLtpg49K7Lk",
+            "id": "3IT9wOWTOtqMLtpg49K7Lk",
+            "name": "Tim Janis",
+            "type": "artist",
+            "uri": "spotify:artist:3IT9wOWTOtqMLtpg49K7Lk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WW8j258kvefOUU1m94TQg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4WW8j258kvefOUU1m94TQg",
+        "id": "4WW8j258kvefOUU1m94TQg",
+        "is_local": false,
+        "name": "The Fairy Woods",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4WW8j258kvefOUU1m94TQg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2FMlryM7Vzl2zUfP9c0O7q"
+}

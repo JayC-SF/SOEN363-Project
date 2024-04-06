@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CivzLGNmlMRgNW8f2qVpg"
+      },
+      "href": "https://api.spotify.com/v1/artists/4CivzLGNmlMRgNW8f2qVpg",
+      "id": "4CivzLGNmlMRgNW8f2qVpg",
+      "name": "DJ Brisk",
+      "type": "artist",
+      "uri": "spotify:artist:4CivzLGNmlMRgNW8f2qVpg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1999 Kniteforce Records",
+      "type": "C"
+    },
+    {
+      "text": "1999 Kniteforce Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653830171"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ohgqCHMzhtYdYvQeTrspO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ohgqCHMzhtYdYvQeTrspO",
+  "id": "5ohgqCHMzhtYdYvQeTrspO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b178117b0a95341f6399cc6f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b178117b0a95341f6399cc6f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b178117b0a95341f6399cc6f",
+      "width": 64
+    }
+  ],
+  "label": "Remix Records",
+  "name": "Thru The Knite",
+  "popularity": 0,
+  "release_date": "1999-01-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ohgqCHMzhtYdYvQeTrspO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4CivzLGNmlMRgNW8f2qVpg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4CivzLGNmlMRgNW8f2qVpg",
+            "id": "4CivzLGNmlMRgNW8f2qVpg",
+            "name": "DJ Brisk",
+            "type": "artist",
+            "uri": "spotify:artist:4CivzLGNmlMRgNW8f2qVpg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 441666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BR2CS30vq1rPUZBMRIxHw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BR2CS30vq1rPUZBMRIxHw",
+        "id": "0BR2CS30vq1rPUZBMRIxHw",
+        "is_local": false,
+        "name": "Airhead",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BR2CS30vq1rPUZBMRIxHw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4CivzLGNmlMRgNW8f2qVpg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4CivzLGNmlMRgNW8f2qVpg",
+            "id": "4CivzLGNmlMRgNW8f2qVpg",
+            "name": "DJ Brisk",
+            "type": "artist",
+            "uri": "spotify:artist:4CivzLGNmlMRgNW8f2qVpg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 350733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bH139ZS3aaTLRWOqky9iD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bH139ZS3aaTLRWOqky9iD",
+        "id": "5bH139ZS3aaTLRWOqky9iD",
+        "is_local": false,
+        "name": "Thru The Knite",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5bH139ZS3aaTLRWOqky9iD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5ohgqCHMzhtYdYvQeTrspO"
+}

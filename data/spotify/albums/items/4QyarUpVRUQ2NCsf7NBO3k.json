@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+      },
+      "href": "https://api.spotify.com/v1/artists/7HkdQ0gt53LP4zmHsL0nap",
+      "id": "7HkdQ0gt53LP4zmHsL0nap",
+      "name": "Ella Mai",
+      "type": "artist",
+      "uri": "spotify:artist:7HkdQ0gt53LP4zmHsL0nap"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 10 Summers Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "A 10 Summers/Interscope Records Release; \u2117 2022 10 Summers Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602445432394"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4QyarUpVRUQ2NCsf7NBO3k",
+  "id": "4QyarUpVRUQ2NCsf7NBO3k",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ab555adf5bf258b883fe565",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ab555adf5bf258b883fe565",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ab555adf5bf258b883fe565",
+      "width": 64
+    }
+  ],
+  "label": "10 Summers/Interscope Records",
+  "name": "DFMU",
+  "popularity": 0,
+  "release_date": "2022-01-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4QyarUpVRUQ2NCsf7NBO3k/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+            },
+            "href": "https://api.spotify.com/v1/artists/7HkdQ0gt53LP4zmHsL0nap",
+            "id": "7HkdQ0gt53LP4zmHsL0nap",
+            "name": "Ella Mai",
+            "type": "artist",
+            "uri": "spotify:artist:7HkdQ0gt53LP4zmHsL0nap"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197517,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3la7i4yJUIqcXPoRoo3w8d",
+        "id": "3la7i4yJUIqcXPoRoo3w8d",
+        "is_local": false,
+        "name": "DFMU",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3la7i4yJUIqcXPoRoo3w8d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4QyarUpVRUQ2NCsf7NBO3k"
+}

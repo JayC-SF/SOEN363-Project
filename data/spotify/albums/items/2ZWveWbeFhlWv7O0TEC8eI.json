@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+      },
+      "href": "https://api.spotify.com/v1/artists/2uMWUtg8XLpJxNSqbGOkl1",
+      "id": "2uMWUtg8XLpJxNSqbGOkl1",
+      "name": "All Good Things",
+      "type": "artist",
+      "uri": "spotify:artist:2uMWUtg8XLpJxNSqbGOkl1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Better Noise Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 Better Noise Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "849320012306"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ZWveWbeFhlWv7O0TEC8eI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ZWveWbeFhlWv7O0TEC8eI",
+  "id": "2ZWveWbeFhlWv7O0TEC8eI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273029bd43c5f9c61f1d0b7fc43",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02029bd43c5f9c61f1d0b7fc43",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851029bd43c5f9c61f1d0b7fc43",
+      "width": 64
+    }
+  ],
+  "label": "Better Noise Music",
+  "name": "For The Glory (feat. Hollywood Undead)",
+  "popularity": 0,
+  "release_date": "2021-03-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ZWveWbeFhlWv7O0TEC8eI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uMWUtg8XLpJxNSqbGOkl1",
+            "id": "2uMWUtg8XLpJxNSqbGOkl1",
+            "name": "All Good Things",
+            "type": "artist",
+            "uri": "spotify:artist:2uMWUtg8XLpJxNSqbGOkl1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CEFCo8288kQU7mJi25s6E",
+            "id": "0CEFCo8288kQU7mJi25s6E",
+            "name": "Hollywood Undead",
+            "type": "artist",
+            "uri": "spotify:artist:0CEFCo8288kQU7mJi25s6E"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 281197,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iyoHJe8kA4ZmDhHxwVdz7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4iyoHJe8kA4ZmDhHxwVdz7",
+        "id": "4iyoHJe8kA4ZmDhHxwVdz7",
+        "is_local": false,
+        "name": "For The Glory (feat. Hollywood Undead)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4iyoHJe8kA4ZmDhHxwVdz7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ZWveWbeFhlWv7O0TEC8eI"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fUJRJVTuLiDGLXk0TBPuS"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fUJRJVTuLiDGLXk0TBPuS",
+      "id": "3fUJRJVTuLiDGLXk0TBPuS",
+      "name": "Caneras",
+      "type": "artist",
+      "uri": "spotify:artist:3fUJRJVTuLiDGLXk0TBPuS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 LEONA",
+      "type": "C"
+    },
+    {
+      "text": "2018 LEONA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8600525012926"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1I8KjSm1bXC6CWvu45gxy8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1I8KjSm1bXC6CWvu45gxy8",
+  "id": "1I8KjSm1bXC6CWvu45gxy8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9d3787c857e407abb49d268",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9d3787c857e407abb49d268",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9d3787c857e407abb49d268",
+      "width": 64
+    }
+  ],
+  "label": "LEONA",
+  "name": "ELIXIR",
+  "popularity": 0,
+  "release_date": "2019-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1I8KjSm1bXC6CWvu45gxy8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fUJRJVTuLiDGLXk0TBPuS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fUJRJVTuLiDGLXk0TBPuS",
+            "id": "3fUJRJVTuLiDGLXk0TBPuS",
+            "name": "Caneras",
+            "type": "artist",
+            "uri": "spotify:artist:3fUJRJVTuLiDGLXk0TBPuS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188339,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70BddXu3dBueqNAUqOZve9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70BddXu3dBueqNAUqOZve9",
+        "id": "70BddXu3dBueqNAUqOZve9",
+        "is_local": false,
+        "name": "ELIXIR",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70BddXu3dBueqNAUqOZve9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1I8KjSm1bXC6CWvu45gxy8"
+}

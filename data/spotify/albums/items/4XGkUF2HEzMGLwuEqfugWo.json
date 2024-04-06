@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/65jWfGcfcPTeQPxU4kMlxR"
+      },
+      "href": "https://api.spotify.com/v1/artists/65jWfGcfcPTeQPxU4kMlxR",
+      "id": "65jWfGcfcPTeQPxU4kMlxR",
+      "name": "Desider",
+      "type": "artist",
+      "uri": "spotify:artist:65jWfGcfcPTeQPxU4kMlxR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 XEN MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "2022 XEN MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3701478149587"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4XGkUF2HEzMGLwuEqfugWo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4XGkUF2HEzMGLwuEqfugWo",
+  "id": "4XGkUF2HEzMGLwuEqfugWo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730bc019ea2420d6507f8a60f7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020bc019ea2420d6507f8a60f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510bc019ea2420d6507f8a60f7",
+      "width": 64
+    }
+  ],
+  "label": "XEN MUSIC",
+  "name": "Old Fire",
+  "popularity": 0,
+  "release_date": "2022-06-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4XGkUF2HEzMGLwuEqfugWo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/65jWfGcfcPTeQPxU4kMlxR"
+            },
+            "href": "https://api.spotify.com/v1/artists/65jWfGcfcPTeQPxU4kMlxR",
+            "id": "65jWfGcfcPTeQPxU4kMlxR",
+            "name": "Desider",
+            "type": "artist",
+            "uri": "spotify:artist:65jWfGcfcPTeQPxU4kMlxR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 142500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5iR94iAOFMdrgMlzpwATgW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5iR94iAOFMdrgMlzpwATgW",
+        "id": "5iR94iAOFMdrgMlzpwATgW",
+        "is_local": false,
+        "name": "Old Fire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5iR94iAOFMdrgMlzpwATgW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4XGkUF2HEzMGLwuEqfugWo"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Qc96byIWUrGk7BHxfvK4F",
+      "id": "6Qc96byIWUrGk7BHxfvK4F",
+      "name": "Coby",
+      "type": "artist",
+      "uri": "spotify:artist:6Qc96byIWUrGk7BHxfvK4F"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Bassivity Digital",
+      "type": "C"
+    },
+    {
+      "text": "2019 Bassivity Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8600525014234"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1mDLRvYGWNpFmtUYJTALAE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1mDLRvYGWNpFmtUYJTALAE",
+  "id": "1mDLRvYGWNpFmtUYJTALAE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a8c5ca201fa7a9f365489c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a8c5ca201fa7a9f365489c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a8c5ca201fa7a9f365489c0",
+      "width": 64
+    }
+  ],
+  "label": "Bassivity Digital",
+  "name": "Zver",
+  "popularity": 0,
+  "release_date": "2019-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1mDLRvYGWNpFmtUYJTALAE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Qc96byIWUrGk7BHxfvK4F",
+            "id": "6Qc96byIWUrGk7BHxfvK4F",
+            "name": "Coby",
+            "type": "artist",
+            "uri": "spotify:artist:6Qc96byIWUrGk7BHxfvK4F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IIilVon6sb7ph4MS60Wer"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IIilVon6sb7ph4MS60Wer",
+        "id": "1IIilVon6sb7ph4MS60Wer",
+        "is_local": false,
+        "name": "Zver",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1IIilVon6sb7ph4MS60Wer"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1mDLRvYGWNpFmtUYJTALAE"
+}

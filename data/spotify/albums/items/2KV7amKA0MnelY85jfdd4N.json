@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/4GLzX588I9R2vs0nTHhD6Z",
+      "id": "4GLzX588I9R2vs0nTHhD6Z",
+      "name": "Mt. Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:4GLzX588I9R2vs0nTHhD6Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 CRC Music Group",
+      "type": "C"
+    },
+    {
+      "text": "2017 2017 CRC Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "827565062089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2KV7amKA0MnelY85jfdd4N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2KV7amKA0MnelY85jfdd4N",
+  "id": "2KV7amKA0MnelY85jfdd4N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309e6476d0f0b7a9a89f55ab8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209e6476d0f0b7a9a89f55ab8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109e6476d0f0b7a9a89f55ab8",
+      "width": 64
+    }
+  ],
+  "label": "CRC Music",
+  "name": "Bohemia",
+  "popularity": 0,
+  "release_date": "2017-05-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2KV7amKA0MnelY85jfdd4N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/4GLzX588I9R2vs0nTHhD6Z",
+            "id": "4GLzX588I9R2vs0nTHhD6Z",
+            "name": "Mt. Wolf",
+            "type": "artist",
+            "uri": "spotify:artist:4GLzX588I9R2vs0nTHhD6Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 315973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AjdSYX4mOZbm721s7v3CR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AjdSYX4mOZbm721s7v3CR",
+        "id": "7AjdSYX4mOZbm721s7v3CR",
+        "is_local": false,
+        "name": "Bohemia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7AjdSYX4mOZbm721s7v3CR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2KV7amKA0MnelY85jfdd4N"
+}

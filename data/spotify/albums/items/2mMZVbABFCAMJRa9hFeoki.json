@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RP2lKGYgYkC0TUiTT2JTR",
+      "id": "4RP2lKGYgYkC0TUiTT2JTR",
+      "name": "TheExorcist",
+      "type": "artist",
+      "uri": "spotify:artist:4RP2lKGYgYkC0TUiTT2JTR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 TheExorcist",
+      "type": "C"
+    },
+    {
+      "text": "2023 TheExorcist",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197802646458"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2mMZVbABFCAMJRa9hFeoki"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2mMZVbABFCAMJRa9hFeoki",
+  "id": "2mMZVbABFCAMJRa9hFeoki",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731361f9fa633c6e8003cccaa3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021361f9fa633c6e8003cccaa3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511361f9fa633c6e8003cccaa3",
+      "width": 64
+    }
+  ],
+  "label": "TheExorcist",
+  "name": "Ur Final Message",
+  "popularity": 0,
+  "release_date": "2023-04-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2mMZVbABFCAMJRa9hFeoki/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RP2lKGYgYkC0TUiTT2JTR",
+            "id": "4RP2lKGYgYkC0TUiTT2JTR",
+            "name": "TheExorcist",
+            "type": "artist",
+            "uri": "spotify:artist:4RP2lKGYgYkC0TUiTT2JTR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183044,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/640EMqwkVio0uH8n7PSErl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/640EMqwkVio0uH8n7PSErl",
+        "id": "640EMqwkVio0uH8n7PSErl",
+        "is_local": false,
+        "name": "Ur Final Message",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:640EMqwkVio0uH8n7PSErl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2mMZVbABFCAMJRa9hFeoki"
+}

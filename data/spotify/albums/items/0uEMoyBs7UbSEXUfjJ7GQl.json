@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+      "id": "1VBflYyxBhnDc9uVib98rw",
+      "name": "Icona Pop",
+      "type": "artist",
+      "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 TEN Music Group under exclusive license to Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 TEN Music Group under exclusive license to Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465006876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uEMoyBs7UbSEXUfjJ7GQl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uEMoyBs7UbSEXUfjJ7GQl",
+  "id": "0uEMoyBs7UbSEXUfjJ7GQl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ce354a355b8cbc161ed56ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028ce354a355b8cbc161ed56ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518ce354a355b8cbc161ed56ff",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Next Mistake",
+  "popularity": 0,
+  "release_date": "2019-07-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uEMoyBs7UbSEXUfjJ7GQl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+            "id": "1VBflYyxBhnDc9uVib98rw",
+            "name": "Icona Pop",
+            "type": "artist",
+            "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191798,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XgRGKZqta5TAAqt9jgxwX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XgRGKZqta5TAAqt9jgxwX",
+        "id": "2XgRGKZqta5TAAqt9jgxwX",
+        "is_local": false,
+        "name": "Next Mistake",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2XgRGKZqta5TAAqt9jgxwX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0uEMoyBs7UbSEXUfjJ7GQl"
+}

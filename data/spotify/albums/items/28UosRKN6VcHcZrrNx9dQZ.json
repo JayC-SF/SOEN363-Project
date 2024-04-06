@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0DgpTjcucMr0FJsXrnu3Ai"
+      },
+      "href": "https://api.spotify.com/v1/artists/0DgpTjcucMr0FJsXrnu3Ai",
+      "id": "0DgpTjcucMr0FJsXrnu3Ai",
+      "name": "SlimeGoon9",
+      "type": "artist",
+      "uri": "spotify:artist:0DgpTjcucMr0FJsXrnu3Ai"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 SlimeGoon9",
+      "type": "C"
+    },
+    {
+      "text": "2020 SlimeGoon9",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195562408286"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/28UosRKN6VcHcZrrNx9dQZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/28UosRKN6VcHcZrrNx9dQZ",
+  "id": "28UosRKN6VcHcZrrNx9dQZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b7e54b321ceaedd573887b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b7e54b321ceaedd573887b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b7e54b321ceaedd573887b0",
+      "width": 64
+    }
+  ],
+  "label": "YPF",
+  "name": "RED",
+  "popularity": 0,
+  "release_date": "2020-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/28UosRKN6VcHcZrrNx9dQZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0DgpTjcucMr0FJsXrnu3Ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/0DgpTjcucMr0FJsXrnu3Ai",
+            "id": "0DgpTjcucMr0FJsXrnu3Ai",
+            "name": "SlimeGoon9",
+            "type": "artist",
+            "uri": "spotify:artist:0DgpTjcucMr0FJsXrnu3Ai"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156454,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65ciay67d6GJDYCRiW60fh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65ciay67d6GJDYCRiW60fh",
+        "id": "65ciay67d6GJDYCRiW60fh",
+        "is_local": false,
+        "name": "RED",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65ciay67d6GJDYCRiW60fh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:28UosRKN6VcHcZrrNx9dQZ"
+}

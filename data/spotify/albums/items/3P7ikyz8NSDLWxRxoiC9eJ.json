@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hklWMmuUtnCmSq5jh2mQl"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hklWMmuUtnCmSq5jh2mQl",
+      "id": "6hklWMmuUtnCmSq5jh2mQl",
+      "name": "Jealous Friend",
+      "type": "artist",
+      "uri": "spotify:artist:6hklWMmuUtnCmSq5jh2mQl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Creator Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Creator Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3617224707256"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3P7ikyz8NSDLWxRxoiC9eJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3P7ikyz8NSDLWxRxoiC9eJ",
+  "id": "3P7ikyz8NSDLWxRxoiC9eJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f69baa9ac0765b5b6cf724d0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f69baa9ac0765b5b6cf724d0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f69baa9ac0765b5b6cf724d0",
+      "width": 64
+    }
+  ],
+  "label": "Creator Records",
+  "name": "Sometimes",
+  "popularity": 2,
+  "release_date": "2023-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3P7ikyz8NSDLWxRxoiC9eJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hklWMmuUtnCmSq5jh2mQl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6hklWMmuUtnCmSq5jh2mQl",
+            "id": "6hklWMmuUtnCmSq5jh2mQl",
+            "name": "Jealous Friend",
+            "type": "artist",
+            "uri": "spotify:artist:6hklWMmuUtnCmSq5jh2mQl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147460,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3olUkiP8ShNvc1fRMOYyDJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3olUkiP8ShNvc1fRMOYyDJ",
+        "id": "3olUkiP8ShNvc1fRMOYyDJ",
+        "is_local": false,
+        "name": "Sometimes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3olUkiP8ShNvc1fRMOYyDJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3P7ikyz8NSDLWxRxoiC9eJ"
+}

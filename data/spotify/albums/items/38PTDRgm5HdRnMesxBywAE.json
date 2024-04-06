@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2014 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444555548"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/38PTDRgm5HdRnMesxBywAE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/38PTDRgm5HdRnMesxBywAE",
+  "id": "38PTDRgm5HdRnMesxBywAE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303368d777b690cca1fb8945a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0203368d777b690cca1fb8945a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103368d777b690cca1fb8945a",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "Loyal",
+  "popularity": 0,
+  "release_date": "2014-03-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/38PTDRgm5HdRnMesxBywAE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+            "id": "5LHRHt1k9lMyONurDHEdrp",
+            "name": "Tyga",
+            "type": "artist",
+            "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264334,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ls7OJaYElPH8I0BSaVJ05"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ls7OJaYElPH8I0BSaVJ05",
+        "id": "1ls7OJaYElPH8I0BSaVJ05",
+        "is_local": false,
+        "name": "Loyal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ls7OJaYElPH8I0BSaVJ05"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:38PTDRgm5HdRnMesxBywAE"
+}

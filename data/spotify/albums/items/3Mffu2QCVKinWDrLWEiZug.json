@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Za5KjrhmN4OYMr04f3g1e",
+      "id": "0Za5KjrhmN4OYMr04f3g1e",
+      "name": "Halogen",
+      "type": "artist",
+      "uri": "spotify:artist:0Za5KjrhmN4OYMr04f3g1e"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465008702"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Mffu2QCVKinWDrLWEiZug"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Mffu2QCVKinWDrLWEiZug",
+  "id": "3Mffu2QCVKinWDrLWEiZug",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d04134061e61a880f6910940",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d04134061e61a880f6910940",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d04134061e61a880f6910940",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "U Got That",
+  "popularity": 9,
+  "release_date": "2019-09-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Mffu2QCVKinWDrLWEiZug/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Za5KjrhmN4OYMr04f3g1e",
+            "id": "0Za5KjrhmN4OYMr04f3g1e",
+            "name": "Halogen",
+            "type": "artist",
+            "uri": "spotify:artist:0Za5KjrhmN4OYMr04f3g1e"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 187762,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55gKq9bOAPRAcOQInZ76tH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55gKq9bOAPRAcOQInZ76tH",
+        "id": "55gKq9bOAPRAcOQInZ76tH",
+        "is_local": false,
+        "name": "U Got That",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:55gKq9bOAPRAcOQInZ76tH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Mffu2QCVKinWDrLWEiZug"
+}

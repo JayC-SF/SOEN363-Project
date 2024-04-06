@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ETMcnmPCgAsflnXRTvNgS"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ETMcnmPCgAsflnXRTvNgS",
+      "id": "6ETMcnmPCgAsflnXRTvNgS",
+      "name": "Roksonix",
+      "type": "artist",
+      "uri": "spotify:artist:6ETMcnmPCgAsflnXRTvNgS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 Circus Records",
+      "type": "C"
+    },
+    {
+      "text": "2011 Circus Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055312514603"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dWXGmjCaDCYqHQxS89Th9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5dWXGmjCaDCYqHQxS89Th9",
+  "id": "5dWXGmjCaDCYqHQxS89Th9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346aaad9092a8aba7338aa768",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246aaad9092a8aba7338aa768",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146aaad9092a8aba7338aa768",
+      "width": 64
+    }
+  ],
+  "label": "Circus Records",
+  "name": "Music in Me / Madness",
+  "popularity": 0,
+  "release_date": "2011-08-29",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5dWXGmjCaDCYqHQxS89Th9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ETMcnmPCgAsflnXRTvNgS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ETMcnmPCgAsflnXRTvNgS",
+            "id": "6ETMcnmPCgAsflnXRTvNgS",
+            "name": "Roksonix",
+            "type": "artist",
+            "uri": "spotify:artist:6ETMcnmPCgAsflnXRTvNgS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 306891,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sSwdKGqxmpycfrRHY61Mf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3sSwdKGqxmpycfrRHY61Mf",
+        "id": "3sSwdKGqxmpycfrRHY61Mf",
+        "is_local": false,
+        "name": "Music in Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3sSwdKGqxmpycfrRHY61Mf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ETMcnmPCgAsflnXRTvNgS"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ETMcnmPCgAsflnXRTvNgS",
+            "id": "6ETMcnmPCgAsflnXRTvNgS",
+            "name": "Roksonix",
+            "type": "artist",
+            "uri": "spotify:artist:6ETMcnmPCgAsflnXRTvNgS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 303536,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IeUAxWeama5et60HMmxiR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IeUAxWeama5et60HMmxiR",
+        "id": "2IeUAxWeama5et60HMmxiR",
+        "is_local": false,
+        "name": "Madness",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2IeUAxWeama5et60HMmxiR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5dWXGmjCaDCYqHQxS89Th9"
+}

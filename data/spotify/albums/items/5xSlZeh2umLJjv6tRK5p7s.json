@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YqfXU53VVYBunSuvrDZYO",
+      "id": "4YqfXU53VVYBunSuvrDZYO",
+      "name": "Synthion",
+      "type": "artist",
+      "uri": "spotify:artist:4YqfXU53VVYBunSuvrDZYO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Dreamscape",
+      "type": "C"
+    },
+    {
+      "text": "2017 Dreamscape",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191079729197"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xSlZeh2umLJjv6tRK5p7s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5xSlZeh2umLJjv6tRK5p7s",
+  "id": "5xSlZeh2umLJjv6tRK5p7s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e72cb07bd0df298aff5eff02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e72cb07bd0df298aff5eff02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e72cb07bd0df298aff5eff02",
+      "width": 64
+    }
+  ],
+  "label": "Dreamscape",
+  "name": "Voyage",
+  "popularity": 0,
+  "release_date": "2017-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5xSlZeh2umLJjv6tRK5p7s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YqfXU53VVYBunSuvrDZYO",
+            "id": "4YqfXU53VVYBunSuvrDZYO",
+            "name": "Synthion",
+            "type": "artist",
+            "uri": "spotify:artist:4YqfXU53VVYBunSuvrDZYO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203772,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XPwIjBXEM0bk4Tkg2KhFf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XPwIjBXEM0bk4Tkg2KhFf",
+        "id": "2XPwIjBXEM0bk4Tkg2KhFf",
+        "is_local": false,
+        "name": "Voyage",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2XPwIjBXEM0bk4Tkg2KhFf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5xSlZeh2umLJjv6tRK5p7s"
+}

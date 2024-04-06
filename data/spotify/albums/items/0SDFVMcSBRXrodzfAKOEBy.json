@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4NTnwCK3RqTBH7TFIQrkfL",
+      "id": "4NTnwCK3RqTBH7TFIQrkfL",
+      "name": "PL\u00dcM",
+      "type": "artist",
+      "uri": "spotify:artist:4NTnwCK3RqTBH7TFIQrkfL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Inside Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Inside Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616405648159"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0SDFVMcSBRXrodzfAKOEBy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0SDFVMcSBRXrodzfAKOEBy",
+  "id": "0SDFVMcSBRXrodzfAKOEBy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0d6dd4277810af493b6a7f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0d6dd4277810af493b6a7f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0d6dd4277810af493b6a7f6",
+      "width": 64
+    }
+  ],
+  "label": "Inside Records",
+  "name": "Just One Dance",
+  "popularity": 0,
+  "release_date": "2020-06-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0SDFVMcSBRXrodzfAKOEBy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NTnwCK3RqTBH7TFIQrkfL",
+            "id": "4NTnwCK3RqTBH7TFIQrkfL",
+            "name": "PL\u00dcM",
+            "type": "artist",
+            "uri": "spotify:artist:4NTnwCK3RqTBH7TFIQrkfL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5a4jgwRzY0q9KopqjYrIe1",
+            "id": "5a4jgwRzY0q9KopqjYrIe1",
+            "name": "Tana\u00eb",
+            "type": "artist",
+            "uri": "spotify:artist:5a4jgwRzY0q9KopqjYrIe1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212352,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tYCf3ftc99AQrn2cXYM6d",
+        "id": "7tYCf3ftc99AQrn2cXYM6d",
+        "is_local": false,
+        "name": "Just One Dance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7tYCf3ftc99AQrn2cXYM6d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0SDFVMcSBRXrodzfAKOEBy"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FXPcIsUUrnIERyFT1SkDi"
+      },
+      "href": "https://api.spotify.com/v1/artists/7FXPcIsUUrnIERyFT1SkDi",
+      "id": "7FXPcIsUUrnIERyFT1SkDi",
+      "name": "Pho3nix",
+      "type": "artist",
+      "uri": "spotify:artist:7FXPcIsUUrnIERyFT1SkDi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Pho3nix",
+      "type": "C"
+    },
+    {
+      "text": "2021 Pho3nix",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196022041326"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MjDb4QRuxClBYC6asEMP2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MjDb4QRuxClBYC6asEMP2",
+  "id": "6MjDb4QRuxClBYC6asEMP2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aeb1723b366bbeae9018472b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aeb1723b366bbeae9018472b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aeb1723b366bbeae9018472b",
+      "width": 64
+    }
+  ],
+  "label": "Pho3nix",
+  "name": "Options",
+  "popularity": 0,
+  "release_date": "2021-02-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MjDb4QRuxClBYC6asEMP2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FXPcIsUUrnIERyFT1SkDi"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FXPcIsUUrnIERyFT1SkDi",
+            "id": "7FXPcIsUUrnIERyFT1SkDi",
+            "name": "Pho3nix",
+            "type": "artist",
+            "uri": "spotify:artist:7FXPcIsUUrnIERyFT1SkDi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 109505,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ujqSyDPETbWhidJRqOq1A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ujqSyDPETbWhidJRqOq1A",
+        "id": "5ujqSyDPETbWhidJRqOq1A",
+        "is_local": false,
+        "name": "Options",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ujqSyDPETbWhidJRqOq1A"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MjDb4QRuxClBYC6asEMP2"
+}

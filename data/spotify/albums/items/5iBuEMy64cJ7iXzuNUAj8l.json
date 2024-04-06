@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ocDQwCTkVro3cmejcF1DH",
+      "id": "6ocDQwCTkVro3cmejcF1DH",
+      "name": "Zero",
+      "type": "artist",
+      "uri": "spotify:artist:6ocDQwCTkVro3cmejcF1DH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+      },
+      "href": "https://api.spotify.com/v1/artists/5bt1iZVk3VV1LxRL4wzZ9F",
+      "id": "5bt1iZVk3VV1LxRL4wzZ9F",
+      "name": "NOISY",
+      "type": "artist",
+      "uri": "spotify:artist:5bt1iZVk3VV1LxRL4wzZ9F"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Night Bass Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Night Bass Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840200505932"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iBuEMy64cJ7iXzuNUAj8l"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5iBuEMy64cJ7iXzuNUAj8l",
+  "id": "5iBuEMy64cJ7iXzuNUAj8l",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee7b706259e396f411ff00a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee7b706259e396f411ff00a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee7b706259e396f411ff00a4",
+      "width": 64
+    }
+  ],
+  "label": "Night Bass Records",
+  "name": "Mother Nature",
+  "popularity": 0,
+  "release_date": "2021-08-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5iBuEMy64cJ7iXzuNUAj8l/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ocDQwCTkVro3cmejcF1DH",
+            "id": "6ocDQwCTkVro3cmejcF1DH",
+            "name": "Zero",
+            "type": "artist",
+            "uri": "spotify:artist:6ocDQwCTkVro3cmejcF1DH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+            },
+            "href": "https://api.spotify.com/v1/artists/5bt1iZVk3VV1LxRL4wzZ9F",
+            "id": "5bt1iZVk3VV1LxRL4wzZ9F",
+            "name": "NOISY",
+            "type": "artist",
+            "uri": "spotify:artist:5bt1iZVk3VV1LxRL4wzZ9F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155859,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45ZOQlyz2XJpQREyKWzhe7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45ZOQlyz2XJpQREyKWzhe7",
+        "id": "45ZOQlyz2XJpQREyKWzhe7",
+        "is_local": false,
+        "name": "Mother Nature",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:45ZOQlyz2XJpQREyKWzhe7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5iBuEMy64cJ7iXzuNUAj8l"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3lC07j0oFDXJflpeAjo9eZ",
+      "id": "3lC07j0oFDXJflpeAjo9eZ",
+      "name": "BENR",
+      "type": "artist",
+      "uri": "spotify:artist:3lC07j0oFDXJflpeAjo9eZ"
+    }
+  ],
+  "available_markets": [
+    "BE",
+    "CW",
+    "LU",
+    "NL"
+  ],
+  "copyrights": [
+    {
+      "text": "2021 Cloud 9 Recordings B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2021 Cloud 9 Recordings B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718521066697"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5H5fc6WgOibuRqExv8sWf4",
+  "id": "5H5fc6WgOibuRqExv8sWf4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273214f358b52e9b4ed0c0cc9d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02214f358b52e9b4ed0c0cc9d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851214f358b52e9b4ed0c0cc9d1",
+      "width": 64
+    }
+  ],
+  "label": "Cloud 9 Digital",
+  "name": "Pepas",
+  "popularity": 37,
+  "release_date": "2017-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5H5fc6WgOibuRqExv8sWf4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3lC07j0oFDXJflpeAjo9eZ",
+            "id": "3lC07j0oFDXJflpeAjo9eZ",
+            "name": "BENR",
+            "type": "artist",
+            "uri": "spotify:artist:3lC07j0oFDXJflpeAjo9eZ"
+          }
+        ],
+        "available_markets": [
+          "BE",
+          "CW",
+          "LU",
+          "NL"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BGLmRLEfZC58QPAPAikIb",
+        "id": "7BGLmRLEfZC58QPAPAikIb",
+        "is_local": false,
+        "name": "Pepas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BGLmRLEfZC58QPAPAikIb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5H5fc6WgOibuRqExv8sWf4"
+}

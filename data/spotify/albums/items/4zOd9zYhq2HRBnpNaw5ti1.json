@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+      },
+      "href": "https://api.spotify.com/v1/artists/2QpNu8tDPv9n7oY34J1TtN",
+      "id": "2QpNu8tDPv9n7oY34J1TtN",
+      "name": "quinn",
+      "type": "artist",
+      "uri": "spotify:artist:2QpNu8tDPv9n7oY34J1TtN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 my fuckin bedroom lol",
+      "type": "C"
+    },
+    {
+      "text": "2020 my fuckin bedroom lol",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195162911339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4zOd9zYhq2HRBnpNaw5ti1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4zOd9zYhq2HRBnpNaw5ti1",
+  "id": "4zOd9zYhq2HRBnpNaw5ti1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae751cb38c5de6787f668893",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae751cb38c5de6787f668893",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae751cb38c5de6787f668893",
+      "width": 64
+    }
+  ],
+  "label": "my fuckin bedroom lol",
+  "name": "mbn",
+  "popularity": 0,
+  "release_date": "2019-12-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4zOd9zYhq2HRBnpNaw5ti1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2QpNu8tDPv9n7oY34J1TtN",
+            "id": "2QpNu8tDPv9n7oY34J1TtN",
+            "name": "quinn",
+            "type": "artist",
+            "uri": "spotify:artist:2QpNu8tDPv9n7oY34J1TtN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 134961,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1giQmpTYpfP8cI5I369zje"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1giQmpTYpfP8cI5I369zje",
+        "id": "1giQmpTYpfP8cI5I369zje",
+        "is_local": false,
+        "name": "mbn",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1giQmpTYpfP8cI5I369zje"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4zOd9zYhq2HRBnpNaw5ti1"
+}

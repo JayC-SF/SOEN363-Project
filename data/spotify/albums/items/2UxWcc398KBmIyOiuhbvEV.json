@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7p0odCZxOVz684NjXt1dEf"
+      },
+      "href": "https://api.spotify.com/v1/artists/7p0odCZxOVz684NjXt1dEf",
+      "id": "7p0odCZxOVz684NjXt1dEf",
+      "name": "Le Wanski",
+      "type": "artist",
+      "uri": "spotify:artist:7p0odCZxOVz684NjXt1dEf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Unsr Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Unsr Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062994274764"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2UxWcc398KBmIyOiuhbvEV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2UxWcc398KBmIyOiuhbvEV",
+  "id": "2UxWcc398KBmIyOiuhbvEV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cc5c89faf99642143feed81",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cc5c89faf99642143feed81",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cc5c89faf99642143feed81",
+      "width": 64
+    }
+  ],
+  "label": "Unsr Records",
+  "name": "M.U.S.H.",
+  "popularity": 0,
+  "release_date": "2021-04-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2UxWcc398KBmIyOiuhbvEV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7p0odCZxOVz684NjXt1dEf"
+            },
+            "href": "https://api.spotify.com/v1/artists/7p0odCZxOVz684NjXt1dEf",
+            "id": "7p0odCZxOVz684NjXt1dEf",
+            "name": "Le Wanski",
+            "type": "artist",
+            "uri": "spotify:artist:7p0odCZxOVz684NjXt1dEf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 442370,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ucezXoKdfCKSGRHIojAfW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ucezXoKdfCKSGRHIojAfW",
+        "id": "2ucezXoKdfCKSGRHIojAfW",
+        "is_local": false,
+        "name": "M.U.S.H.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ucezXoKdfCKSGRHIojAfW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2UxWcc398KBmIyOiuhbvEV"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+      },
+      "href": "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+      "id": "6LlLRudDi60Uy4jcmOSEs1",
+      "name": "omgkirby",
+      "type": "artist",
+      "uri": "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 omgkirby",
+      "type": "C"
+    },
+    {
+      "text": "2021 omgkirby",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196398946201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/48yT3hsRcA3Ts3ctTNoHPy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/48yT3hsRcA3Ts3ctTNoHPy",
+  "id": "48yT3hsRcA3Ts3ctTNoHPy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fc1fb85739c3797afaad9fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021fc1fb85739c3797afaad9fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511fc1fb85739c3797afaad9fc",
+      "width": 64
+    }
+  ],
+  "label": "omgkirby",
+  "name": "loving you is a losing game",
+  "popularity": 0,
+  "release_date": "2021-09-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/48yT3hsRcA3Ts3ctTNoHPy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+            "id": "6LlLRudDi60Uy4jcmOSEs1",
+            "name": "omgkirby",
+            "type": "artist",
+            "uri": "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 100000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BQJFATEPDJNdRw3bpjwCJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BQJFATEPDJNdRw3bpjwCJ",
+        "id": "2BQJFATEPDJNdRw3bpjwCJ",
+        "is_local": false,
+        "name": "loving you is a losing game",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2BQJFATEPDJNdRw3bpjwCJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:48yT3hsRcA3Ts3ctTNoHPy"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HUwZ0kumzCSlhFcjFZfpp",
+      "id": "2HUwZ0kumzCSlhFcjFZfpp",
+      "name": "Flipp Dinero",
+      "type": "artist",
+      "uri": "spotify:artist:2HUwZ0kumzCSlhFcjFZfpp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Cinematic Music Group",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 Cinematic Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562745489"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2AEABjetHvl8wyc4RLUX4K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2AEABjetHvl8wyc4RLUX4K",
+  "id": "2AEABjetHvl8wyc4RLUX4K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739f7bcb4364c1297f0699a2bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029f7bcb4364c1297f0699a2bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519f7bcb4364c1297f0699a2bb",
+      "width": 64
+    }
+  ],
+  "label": "Cinematic",
+  "name": "Livin' It",
+  "popularity": 0,
+  "release_date": "2018-07-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2AEABjetHvl8wyc4RLUX4K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HUwZ0kumzCSlhFcjFZfpp",
+            "id": "2HUwZ0kumzCSlhFcjFZfpp",
+            "name": "Flipp Dinero",
+            "type": "artist",
+            "uri": "spotify:artist:2HUwZ0kumzCSlhFcjFZfpp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186126,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WrDWytDtv59Q8lfhjOoOi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WrDWytDtv59Q8lfhjOoOi",
+        "id": "1WrDWytDtv59Q8lfhjOoOi",
+        "is_local": false,
+        "name": "Livin' It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1WrDWytDtv59Q8lfhjOoOi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2AEABjetHvl8wyc4RLUX4K"
+}

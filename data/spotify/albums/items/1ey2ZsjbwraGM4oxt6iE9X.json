@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+      },
+      "href": "https://api.spotify.com/v1/artists/01qbSocTDAe2DmKayS89A5",
+      "id": "01qbSocTDAe2DmKayS89A5",
+      "name": "pluko",
+      "type": "artist",
+      "uri": "spotify:artist:01qbSocTDAe2DmKayS89A5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5"
+      },
+      "href": "https://api.spotify.com/v1/artists/5cVeSOiS002MF1uiUFOPV5",
+      "id": "5cVeSOiS002MF1uiUFOPV5",
+      "name": "Mob Rich",
+      "type": "artist",
+      "uri": "spotify:artist:5cVeSOiS002MF1uiUFOPV5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Splendid Society",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436237802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1ey2ZsjbwraGM4oxt6iE9X"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1ey2ZsjbwraGM4oxt6iE9X",
+  "id": "1ey2ZsjbwraGM4oxt6iE9X",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27312eacbc3a9d290aec02c91aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0212eacbc3a9d290aec02c91aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485112eacbc3a9d290aec02c91aa",
+      "width": 64
+    }
+  ],
+  "label": "Splendid Society",
+  "name": "the sound (w/ Mob Rich)",
+  "popularity": 35,
+  "release_date": "2020-10-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1ey2ZsjbwraGM4oxt6iE9X/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+            },
+            "href": "https://api.spotify.com/v1/artists/01qbSocTDAe2DmKayS89A5",
+            "id": "01qbSocTDAe2DmKayS89A5",
+            "name": "pluko",
+            "type": "artist",
+            "uri": "spotify:artist:01qbSocTDAe2DmKayS89A5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5"
+            },
+            "href": "https://api.spotify.com/v1/artists/5cVeSOiS002MF1uiUFOPV5",
+            "id": "5cVeSOiS002MF1uiUFOPV5",
+            "name": "Mob Rich",
+            "type": "artist",
+            "uri": "spotify:artist:5cVeSOiS002MF1uiUFOPV5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0F2HHSZSypzw1jvXzsKD2o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0F2HHSZSypzw1jvXzsKD2o",
+        "id": "0F2HHSZSypzw1jvXzsKD2o",
+        "is_local": false,
+        "name": "the sound (w/ Mob Rich)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0F2HHSZSypzw1jvXzsKD2o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1ey2ZsjbwraGM4oxt6iE9X"
+}

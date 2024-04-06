@@ -1,0 +1,413 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+      "id": "6Shas1ACrMl25XHgTrzxeo",
+      "name": "Hedley",
+      "type": "artist",
+      "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Universal Music Canada Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Universal Music Canada Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547580665"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3fDvm6v6IpwtojRhrq570N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3fDvm6v6IpwtojRhrq570N",
+  "id": "3fDvm6v6IpwtojRhrq570N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b131350bf5257dd31f906895",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b131350bf5257dd31f906895",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b131350bf5257dd31f906895",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Canada",
+  "name": "Hello",
+  "popularity": 37,
+  "release_date": "2015-11-06",
+  "release_date_precision": "day",
+  "total_tracks": 11,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3fDvm6v6IpwtojRhrq570N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 168893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RK8S5nofovM00EphniN78"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RK8S5nofovM00EphniN78",
+        "id": "1RK8S5nofovM00EphniN78",
+        "is_local": false,
+        "name": "Lost In Translation",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RK8S5nofovM00EphniN78"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BBmsbnFOH2V2MNrUNRgzP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BBmsbnFOH2V2MNrUNRgzP",
+        "id": "4BBmsbnFOH2V2MNrUNRgzP",
+        "is_local": false,
+        "name": "Hello",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4BBmsbnFOH2V2MNrUNRgzP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210173,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2V5nb48co2fUSWjA8240yo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2V5nb48co2fUSWjA8240yo",
+        "id": "2V5nb48co2fUSWjA8240yo",
+        "is_local": false,
+        "name": "Quit",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2V5nb48co2fUSWjA8240yo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rbkRKqYNoLt8my5Ev7ydj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rbkRKqYNoLt8my5Ev7ydj",
+        "id": "5rbkRKqYNoLt8my5Ev7ydj",
+        "is_local": false,
+        "name": "Can't Slow Down",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5rbkRKqYNoLt8my5Ev7ydj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qbiorM9B5NB0sSZ02Tj2X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qbiorM9B5NB0sSZ02Tj2X",
+        "id": "0qbiorM9B5NB0sSZ02Tj2X",
+        "is_local": false,
+        "name": "Very First Time",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0qbiorM9B5NB0sSZ02Tj2X"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 231706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5N62pNKMqACDLrtpYAisDv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5N62pNKMqACDLrtpYAisDv",
+        "id": "5N62pNKMqACDLrtpYAisDv",
+        "is_local": false,
+        "name": "I Will",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5N62pNKMqACDLrtpYAisDv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217746,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IEMnLAKriBhubaUFcomId"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6IEMnLAKriBhubaUFcomId",
+        "id": "6IEMnLAKriBhubaUFcomId",
+        "is_local": false,
+        "name": "Man Killer",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6IEMnLAKriBhubaUFcomId"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226693,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07F3PrhWq1rEgTfRuFSAxx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07F3PrhWq1rEgTfRuFSAxx",
+        "id": "07F3PrhWq1rEgTfRuFSAxx",
+        "is_local": false,
+        "name": "Lose Control",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:07F3PrhWq1rEgTfRuFSAxx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239253,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ONJvjPfta7DjjteomcxVO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ONJvjPfta7DjjteomcxVO",
+        "id": "6ONJvjPfta7DjjteomcxVO",
+        "is_local": false,
+        "name": "Alive",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6ONJvjPfta7DjjteomcxVO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6h8IqK31qOVK6xKqyO7Kqn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6h8IqK31qOVK6xKqyO7Kqn",
+        "id": "6h8IqK31qOVK6xKqyO7Kqn",
+        "is_local": false,
+        "name": "Back To Basics",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6h8IqK31qOVK6xKqyO7Kqn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Shas1ACrMl25XHgTrzxeo",
+            "id": "6Shas1ACrMl25XHgTrzxeo",
+            "name": "Hedley",
+            "type": "artist",
+            "uri": "spotify:artist:6Shas1ACrMl25XHgTrzxeo"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0glgQNd6zed82JNfWuosVq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0glgQNd6zed82JNfWuosVq",
+        "id": "0glgQNd6zed82JNfWuosVq",
+        "is_local": false,
+        "name": "The Knife",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0glgQNd6zed82JNfWuosVq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  },
+  "type": "album",
+  "uri": "spotify:album:3fDvm6v6IpwtojRhrq570N"
+}

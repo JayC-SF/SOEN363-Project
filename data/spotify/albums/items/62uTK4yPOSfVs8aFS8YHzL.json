@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+      },
+      "href": "https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF",
+      "id": "6deZN1bslXzeGvOLaLMOIF",
+      "name": "Nickelback",
+      "type": "artist",
+      "uri": "spotify:artist:6deZN1bslXzeGvOLaLMOIF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Nickelback II Productions, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Nickelback II Productions, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547026309"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/62uTK4yPOSfVs8aFS8YHzL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/62uTK4yPOSfVs8aFS8YHzL",
+  "id": "62uTK4yPOSfVs8aFS8YHzL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273208208ae1ff9ed9396d0385f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02208208ae1ff9ed9396d0385f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851208208ae1ff9ed9396d0385f",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "What Are You Waiting For?",
+  "popularity": 0,
+  "release_date": "2014-09-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/62uTK4yPOSfVs8aFS8YHzL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+            },
+            "href": "https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF",
+            "id": "6deZN1bslXzeGvOLaLMOIF",
+            "name": "Nickelback",
+            "type": "artist",
+            "uri": "spotify:artist:6deZN1bslXzeGvOLaLMOIF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jdMig7dESKQXAX5knDyVW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jdMig7dESKQXAX5knDyVW",
+        "id": "4jdMig7dESKQXAX5knDyVW",
+        "is_local": false,
+        "name": "What Are You Waiting For?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4jdMig7dESKQXAX5knDyVW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:62uTK4yPOSfVs8aFS8YHzL"
+}

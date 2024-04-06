@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+      },
+      "href": "https://api.spotify.com/v1/artists/3jNkaOXasoc7RsxdchvEVq",
+      "id": "3jNkaOXasoc7RsxdchvEVq",
+      "name": "Chase & Status",
+      "type": "artist",
+      "uri": "spotify:artist:3jNkaOXasoc7RsxdchvEVq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+      },
+      "href": "https://api.spotify.com/v1/artists/022EiWsch2zvty0qBUksDO",
+      "id": "022EiWsch2zvty0qBUksDO",
+      "name": "Liam Bailey",
+      "type": "artist",
+      "uri": "spotify:artist:022EiWsch2zvty0qBUksDO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2011 Chase & Status under exclusive licence to Mercury Records Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2011 Chase & Status under exclusive licence to Mercury Records Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527605609"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/57kIoF864XO4bnBQ9gU9t8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/57kIoF864XO4bnBQ9gU9t8",
+  "id": "57kIoF864XO4bnBQ9gU9t8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a9bbb7f4e6f24b0b667dd41",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a9bbb7f4e6f24b0b667dd41",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a9bbb7f4e6f24b0b667dd41",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Blind Faith",
+  "popularity": 0,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/57kIoF864XO4bnBQ9gU9t8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jNkaOXasoc7RsxdchvEVq",
+            "id": "3jNkaOXasoc7RsxdchvEVq",
+            "name": "Chase & Status",
+            "type": "artist",
+            "uri": "spotify:artist:3jNkaOXasoc7RsxdchvEVq"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+            },
+            "href": "https://api.spotify.com/v1/artists/022EiWsch2zvty0qBUksDO",
+            "id": "022EiWsch2zvty0qBUksDO",
+            "name": "Liam Bailey",
+            "type": "artist",
+            "uri": "spotify:artist:022EiWsch2zvty0qBUksDO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bdbXNbIRClzywgD6UIPlw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bdbXNbIRClzywgD6UIPlw",
+        "id": "0bdbXNbIRClzywgD6UIPlw",
+        "is_local": false,
+        "name": "Blind Faith",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bdbXNbIRClzywgD6UIPlw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:57kIoF864XO4bnBQ9gU9t8"
+}

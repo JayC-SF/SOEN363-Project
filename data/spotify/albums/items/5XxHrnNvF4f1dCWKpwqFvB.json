@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3M8aD9XWxfel3jZakRbibZ",
+      "id": "3M8aD9XWxfel3jZakRbibZ",
+      "name": "MC Maneirinho",
+      "type": "artist",
+      "uri": "spotify:artist:3M8aD9XWxfel3jZakRbibZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 GR6 MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 GR6 MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193483185040"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5XxHrnNvF4f1dCWKpwqFvB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5XxHrnNvF4f1dCWKpwqFvB",
+  "id": "5XxHrnNvF4f1dCWKpwqFvB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383d0019439b522fe996f21bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283d0019439b522fe996f21bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183d0019439b522fe996f21bb",
+      "width": 64
+    }
+  ],
+  "label": "GR6 MUSIC",
+  "name": "Amiga Fura Olho",
+  "popularity": 0,
+  "release_date": "2018-11-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5XxHrnNvF4f1dCWKpwqFvB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3M8aD9XWxfel3jZakRbibZ",
+            "id": "3M8aD9XWxfel3jZakRbibZ",
+            "name": "MC Maneirinho",
+            "type": "artist",
+            "uri": "spotify:artist:3M8aD9XWxfel3jZakRbibZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sKIOXfCQvssza0Idvl6oQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sKIOXfCQvssza0Idvl6oQ",
+        "id": "4sKIOXfCQvssza0Idvl6oQ",
+        "is_local": false,
+        "name": "Amiga Fura Olho",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4sKIOXfCQvssza0Idvl6oQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5XxHrnNvF4f1dCWKpwqFvB"
+}

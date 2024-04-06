@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+      },
+      "href": "https://api.spotify.com/v1/artists/69fOAbSc6FEOFmvvMzlNgY",
+      "id": "69fOAbSc6FEOFmvvMzlNgY",
+      "name": "Jeremie Albino",
+      "type": "artist",
+      "uri": "spotify:artist:69fOAbSc6FEOFmvvMzlNgY"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Sleepless Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Sleepless Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00858713002091"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Xyg3gE6zPOVlU71JOluCF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Xyg3gE6zPOVlU71JOluCF",
+  "id": "6Xyg3gE6zPOVlU71JOluCF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273709c922995b36e7007c33392",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02709c922995b36e7007c33392",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851709c922995b36e7007c33392",
+      "width": 64
+    }
+  ],
+  "label": "Sleepless Records Inc.",
+  "name": "Last Night",
+  "popularity": 1,
+  "release_date": "2019-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Xyg3gE6zPOVlU71JOluCF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+            },
+            "href": "https://api.spotify.com/v1/artists/69fOAbSc6FEOFmvvMzlNgY",
+            "id": "69fOAbSc6FEOFmvvMzlNgY",
+            "name": "Jeremie Albino",
+            "type": "artist",
+            "uri": "spotify:artist:69fOAbSc6FEOFmvvMzlNgY"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 157280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QCpsKcTgdedccHo1cAaHI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QCpsKcTgdedccHo1cAaHI",
+        "id": "4QCpsKcTgdedccHo1cAaHI",
+        "is_local": false,
+        "name": "Last Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4QCpsKcTgdedccHo1cAaHI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Xyg3gE6zPOVlU71JOluCF"
+}

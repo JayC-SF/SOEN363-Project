@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28b4bSRlEart6N6Cs8qvM1"
+      },
+      "href": "https://api.spotify.com/v1/artists/28b4bSRlEart6N6Cs8qvM1",
+      "id": "28b4bSRlEart6N6Cs8qvM1",
+      "name": "Breezy Official",
+      "type": "artist",
+      "uri": "spotify:artist:28b4bSRlEart6N6Cs8qvM1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Breezy Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Breezy Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195756806546"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3kdzfXFIaZssXgHoZesWtV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3kdzfXFIaZssXgHoZesWtV",
+  "id": "3kdzfXFIaZssXgHoZesWtV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739602a69fa7b6c48776b5b7df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029602a69fa7b6c48776b5b7df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519602a69fa7b6c48776b5b7df",
+      "width": 64
+    }
+  ],
+  "label": "Breezy Records",
+  "name": "To The Side",
+  "popularity": 10,
+  "release_date": "2020-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3kdzfXFIaZssXgHoZesWtV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28b4bSRlEart6N6Cs8qvM1"
+            },
+            "href": "https://api.spotify.com/v1/artists/28b4bSRlEart6N6Cs8qvM1",
+            "id": "28b4bSRlEart6N6Cs8qvM1",
+            "name": "Breezy Official",
+            "type": "artist",
+            "uri": "spotify:artist:28b4bSRlEart6N6Cs8qvM1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 265586,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YupeOi39PvWyknF3AduDo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YupeOi39PvWyknF3AduDo",
+        "id": "4YupeOi39PvWyknF3AduDo",
+        "is_local": false,
+        "name": "To The Side",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4YupeOi39PvWyknF3AduDo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3kdzfXFIaZssXgHoZesWtV"
+}

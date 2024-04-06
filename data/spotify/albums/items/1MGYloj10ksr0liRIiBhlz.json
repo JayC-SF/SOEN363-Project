@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+      },
+      "href": "https://api.spotify.com/v1/artists/7IeovKzVkfcG9mIJGNzTcT",
+      "id": "7IeovKzVkfcG9mIJGNzTcT",
+      "name": "Ran-D",
+      "type": "artist",
+      "uri": "spotify:artist:7IeovKzVkfcG9mIJGNzTcT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Roughstate",
+      "type": "C"
+    },
+    {
+      "text": "2017 Roughstate",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719128498119"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1MGYloj10ksr0liRIiBhlz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1MGYloj10ksr0liRIiBhlz",
+  "id": "1MGYloj10ksr0liRIiBhlz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc0a01f687df10c199fab1fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc0a01f687df10c199fab1fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc0a01f687df10c199fab1fc",
+      "width": 64
+    }
+  ],
+  "label": "Roughstate",
+  "name": "Zombie",
+  "popularity": 0,
+  "release_date": "2017-08-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1MGYloj10ksr0liRIiBhlz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+            },
+            "href": "https://api.spotify.com/v1/artists/7IeovKzVkfcG9mIJGNzTcT",
+            "id": "7IeovKzVkfcG9mIJGNzTcT",
+            "name": "Ran-D",
+            "type": "artist",
+            "uri": "spotify:artist:7IeovKzVkfcG9mIJGNzTcT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 289548,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VjlsvbmJoDmgVCLJI78kL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VjlsvbmJoDmgVCLJI78kL",
+        "id": "4VjlsvbmJoDmgVCLJI78kL",
+        "is_local": false,
+        "name": "Zombie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VjlsvbmJoDmgVCLJI78kL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1MGYloj10ksr0liRIiBhlz"
+}

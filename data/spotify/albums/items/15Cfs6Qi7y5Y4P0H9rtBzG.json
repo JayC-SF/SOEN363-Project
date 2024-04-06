@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Dy7Ex5zlTLgXbsB92rPji",
+      "id": "6Dy7Ex5zlTLgXbsB92rPji",
+      "name": "iSHi",
+      "type": "artist",
+      "uri": "spotify:artist:6Dy7Ex5zlTLgXbsB92rPji"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 PRMD Music",
+      "type": "C"
+    },
+    {
+      "text": "2015 PRMD Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811250021031"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/15Cfs6Qi7y5Y4P0H9rtBzG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/15Cfs6Qi7y5Y4P0H9rtBzG",
+  "id": "15Cfs6Qi7y5Y4P0H9rtBzG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733eb05e075e44f3723263c82b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023eb05e075e44f3723263c82b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513eb05e075e44f3723263c82b",
+      "width": 64
+    }
+  ],
+  "label": "PRMD",
+  "name": "Push It",
+  "popularity": 0,
+  "release_date": "2015-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/15Cfs6Qi7y5Y4P0H9rtBzG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Dy7Ex5zlTLgXbsB92rPji",
+            "id": "6Dy7Ex5zlTLgXbsB92rPji",
+            "name": "iSHi",
+            "type": "artist",
+            "uri": "spotify:artist:6Dy7Ex5zlTLgXbsB92rPji"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229320,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bm3nRCNGrFDINkMxEAGrf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bm3nRCNGrFDINkMxEAGrf",
+        "id": "4bm3nRCNGrFDINkMxEAGrf",
+        "is_local": false,
+        "name": "Push It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4bm3nRCNGrFDINkMxEAGrf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:15Cfs6Qi7y5Y4P0H9rtBzG"
+}

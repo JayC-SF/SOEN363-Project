@@ -1,0 +1,101 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
+      },
+      "href": "https://api.spotify.com/v1/artists/58MLl9nC29IXbE4nEtuoP2",
+      "id": "58MLl9nC29IXbE4nEtuoP2",
+      "name": "Alex & Sierra",
+      "type": "artist",
+      "uri": "spotify:artist:58MLl9nC29IXbE4nEtuoP2"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2014 Simco Limited under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446064710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6BF0jNxz1eqlclO67blYXY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6BF0jNxz1eqlclO67blYXY",
+  "id": "6BF0jNxz1eqlclO67blYXY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273974f447b29dab2d8d7ea3a5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02974f447b29dab2d8d7ea3a5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851974f447b29dab2d8d7ea3a5f",
+      "width": 64
+    }
+  ],
+  "label": "Syco Music/Columbia Records",
+  "name": "Little Do You Know",
+  "popularity": 46,
+  "release_date": "2014",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6BF0jNxz1eqlclO67blYXY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
+            },
+            "href": "https://api.spotify.com/v1/artists/58MLl9nC29IXbE4nEtuoP2",
+            "id": "58MLl9nC29IXbE4nEtuoP2",
+            "name": "Alex & Sierra",
+            "type": "artist",
+            "uri": "spotify:artist:58MLl9nC29IXbE4nEtuoP2"
+          }
+        ],
+        "available_markets": [
+          "GB",
+          "IE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 185200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6soW9pvcXoYrnyVmTC9ErH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6soW9pvcXoYrnyVmTC9ErH",
+        "id": "6soW9pvcXoYrnyVmTC9ErH",
+        "is_local": false,
+        "name": "Little Do You Know",
+        "preview_url": "https://p.scdn.co/mp3-preview/0d543b0bbd911bb479d6c0a533c059cab4921f9c?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6soW9pvcXoYrnyVmTC9ErH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6BF0jNxz1eqlclO67blYXY"
+}

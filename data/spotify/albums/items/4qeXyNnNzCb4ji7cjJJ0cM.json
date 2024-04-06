@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC"
+      },
+      "href": "https://api.spotify.com/v1/artists/31MRCWtkccG67dzEDhBxqC",
+      "id": "31MRCWtkccG67dzEDhBxqC",
+      "name": "Kenteph",
+      "type": "artist",
+      "uri": "spotify:artist:31MRCWtkccG67dzEDhBxqC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 The-Source",
+      "type": "C"
+    },
+    {
+      "text": "2023 The-Source",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197954951028"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4qeXyNnNzCb4ji7cjJJ0cM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4qeXyNnNzCb4ji7cjJJ0cM",
+  "id": "4qeXyNnNzCb4ji7cjJJ0cM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736953d142517b1626f739e3fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026953d142517b1626f739e3fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516953d142517b1626f739e3fa",
+      "width": 64
+    }
+  ],
+  "label": "The-Source",
+  "name": "Pretend",
+  "popularity": 0,
+  "release_date": "2023-07-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4qeXyNnNzCb4ji7cjJJ0cM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC"
+            },
+            "href": "https://api.spotify.com/v1/artists/31MRCWtkccG67dzEDhBxqC",
+            "id": "31MRCWtkccG67dzEDhBxqC",
+            "name": "Kenteph",
+            "type": "artist",
+            "uri": "spotify:artist:31MRCWtkccG67dzEDhBxqC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 359774,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zvg64orb3MBWbCgFR2dgV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zvg64orb3MBWbCgFR2dgV",
+        "id": "2zvg64orb3MBWbCgFR2dgV",
+        "is_local": false,
+        "name": "Pretend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zvg64orb3MBWbCgFR2dgV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4qeXyNnNzCb4ji7cjJJ0cM"
+}

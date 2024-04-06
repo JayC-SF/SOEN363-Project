@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bMSkh10MH7pecuFQIi6EC"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bMSkh10MH7pecuFQIi6EC",
+      "id": "0bMSkh10MH7pecuFQIi6EC",
+      "name": "Azulalp",
+      "type": "artist",
+      "uri": "spotify:artist:0bMSkh10MH7pecuFQIi6EC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Azulalp",
+      "type": "C"
+    },
+    {
+      "text": "2023 Azulalp",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859770125464"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/52uDycUkm0fgAQie9TLWRf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/52uDycUkm0fgAQie9TLWRf",
+  "id": "52uDycUkm0fgAQie9TLWRf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfb44560028e36dc655bc859",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfb44560028e36dc655bc859",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfb44560028e36dc655bc859",
+      "width": 64
+    }
+  ],
+  "label": "Azulalp",
+  "name": "Let Yourself Fall Apart",
+  "popularity": 3,
+  "release_date": "2023-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/52uDycUkm0fgAQie9TLWRf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0bMSkh10MH7pecuFQIi6EC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0bMSkh10MH7pecuFQIi6EC",
+            "id": "0bMSkh10MH7pecuFQIi6EC",
+            "name": "Azulalp",
+            "type": "artist",
+            "uri": "spotify:artist:0bMSkh10MH7pecuFQIi6EC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272404,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lQTO5KOqkMQXw7pPya06p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4lQTO5KOqkMQXw7pPya06p",
+        "id": "4lQTO5KOqkMQXw7pPya06p",
+        "is_local": false,
+        "name": "Let Yourself Fall Apart",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4lQTO5KOqkMQXw7pPya06p"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:52uDycUkm0fgAQie9TLWRf"
+}

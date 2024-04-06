@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BaVKcnadk3QumvcYvszCy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BaVKcnadk3QumvcYvszCy",
+      "id": "5BaVKcnadk3QumvcYvszCy",
+      "name": "Alex Quin",
+      "type": "artist",
+      "uri": "spotify:artist:5BaVKcnadk3QumvcYvszCy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sG7osrc6txjpoApiVgGdm",
+      "id": "3sG7osrc6txjpoApiVgGdm",
+      "name": "Luis Eduardo Ac\u00fastico",
+      "type": "artist",
+      "uri": "spotify:artist:3sG7osrc6txjpoApiVgGdm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Alex Quin",
+      "type": "C"
+    },
+    {
+      "text": "2021 Alex Quin",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283170421"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6bNBbQIC7lF68oXNqT1QLr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6bNBbQIC7lF68oXNqT1QLr",
+  "id": "6bNBbQIC7lF68oXNqT1QLr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b9e2efd9f63ec45790acaae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b9e2efd9f63ec45790acaae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b9e2efd9f63ec45790acaae",
+      "width": 64
+    }
+  ],
+  "label": "Alex Quin",
+  "name": "AKILELE",
+  "popularity": 0,
+  "release_date": "2021-11-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6bNBbQIC7lF68oXNqT1QLr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BaVKcnadk3QumvcYvszCy"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BaVKcnadk3QumvcYvszCy",
+            "id": "5BaVKcnadk3QumvcYvszCy",
+            "name": "Alex Quin",
+            "type": "artist",
+            "uri": "spotify:artist:5BaVKcnadk3QumvcYvszCy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sG7osrc6txjpoApiVgGdm",
+            "id": "3sG7osrc6txjpoApiVgGdm",
+            "name": "Luis Eduardo Ac\u00fastico",
+            "type": "artist",
+            "uri": "spotify:artist:3sG7osrc6txjpoApiVgGdm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193024,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13TE96xbYYfaRbb6M0KHJk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13TE96xbYYfaRbb6M0KHJk",
+        "id": "13TE96xbYYfaRbb6M0KHJk",
+        "is_local": false,
+        "name": "AKILELE",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13TE96xbYYfaRbb6M0KHJk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6bNBbQIC7lF68oXNqT1QLr"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6iwiojh0ap3ta48Y96mIw6"
+      },
+      "href": "https://api.spotify.com/v1/artists/6iwiojh0ap3ta48Y96mIw6",
+      "id": "6iwiojh0ap3ta48Y96mIw6",
+      "name": "Sean&Bobo",
+      "type": "artist",
+      "uri": "spotify:artist:6iwiojh0ap3ta48Y96mIw6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Sean&Bobo",
+      "type": "C"
+    },
+    {
+      "text": "2018 Sean&Bobo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "782752936720"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2h8V6CAHtRSDYxS1wNiFnM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2h8V6CAHtRSDYxS1wNiFnM",
+  "id": "2h8V6CAHtRSDYxS1wNiFnM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d892c11d2398300fcff5b86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d892c11d2398300fcff5b86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d892c11d2398300fcff5b86",
+      "width": 64
+    }
+  ],
+  "label": "Sean&Bobo",
+  "name": "Revolution (Remix)",
+  "popularity": 0,
+  "release_date": "2018-02-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2h8V6CAHtRSDYxS1wNiFnM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6iwiojh0ap3ta48Y96mIw6"
+            },
+            "href": "https://api.spotify.com/v1/artists/6iwiojh0ap3ta48Y96mIw6",
+            "id": "6iwiojh0ap3ta48Y96mIw6",
+            "name": "Sean&Bobo",
+            "type": "artist",
+            "uri": "spotify:artist:6iwiojh0ap3ta48Y96mIw6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235153,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JAGL0wjf2lHoPUJ2oZF7w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7JAGL0wjf2lHoPUJ2oZF7w",
+        "id": "7JAGL0wjf2lHoPUJ2oZF7w",
+        "is_local": false,
+        "name": "Revolution - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7JAGL0wjf2lHoPUJ2oZF7w"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2h8V6CAHtRSDYxS1wNiFnM"
+}

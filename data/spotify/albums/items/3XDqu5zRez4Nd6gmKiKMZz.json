@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+      "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+      "name": "Trueno",
+      "type": "artist",
+      "uri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Club Media Network",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562651551"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3XDqu5zRez4Nd6gmKiKMZz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3XDqu5zRez4Nd6gmKiKMZz",
+  "id": "3XDqu5zRez4Nd6gmKiKMZz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327082d9f0002c51fbf014a4a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227082d9f0002c51fbf014a4a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127082d9f0002c51fbf014a4a",
+      "width": 64
+    }
+  ],
+  "label": "Rain",
+  "name": "Rain",
+  "popularity": 0,
+  "release_date": "2018-06-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3XDqu5zRez4Nd6gmKiKMZz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+            },
+            "href": "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+            "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+            "name": "Trueno",
+            "type": "artist",
+            "uri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182831,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HtNlKUcPHwAHP6Qg7rGh0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HtNlKUcPHwAHP6Qg7rGh0",
+        "id": "5HtNlKUcPHwAHP6Qg7rGh0",
+        "is_local": false,
+        "name": "Rain",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5HtNlKUcPHwAHP6Qg7rGh0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3XDqu5zRez4Nd6gmKiKMZz"
+}

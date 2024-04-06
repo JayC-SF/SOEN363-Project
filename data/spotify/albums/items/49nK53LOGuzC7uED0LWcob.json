@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7nvqXCMUEDgpZL7ztGRl4G"
+      },
+      "href": "https://api.spotify.com/v1/artists/7nvqXCMUEDgpZL7ztGRl4G",
+      "id": "7nvqXCMUEDgpZL7ztGRl4G",
+      "name": "8D Audio Project",
+      "type": "artist",
+      "uri": "spotify:artist:7nvqXCMUEDgpZL7ztGRl4G"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Platinum Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2020 Platinum Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4061798558544"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/49nK53LOGuzC7uED0LWcob"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/49nK53LOGuzC7uED0LWcob",
+  "id": "49nK53LOGuzC7uED0LWcob",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa28c3c90bc8e5a5f46e0667",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa28c3c90bc8e5a5f46e0667",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa28c3c90bc8e5a5f46e0667",
+      "width": 64
+    }
+  ],
+  "label": "Platinum Recordings",
+  "name": "Sweet but Psycho",
+  "popularity": 0,
+  "release_date": "2020-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/49nK53LOGuzC7uED0LWcob/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7nvqXCMUEDgpZL7ztGRl4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/7nvqXCMUEDgpZL7ztGRl4G",
+            "id": "7nvqXCMUEDgpZL7ztGRl4G",
+            "name": "8D Audio Project",
+            "type": "artist",
+            "uri": "spotify:artist:7nvqXCMUEDgpZL7ztGRl4G"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183879,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dPuQfFd6JgaYMu6S5BipV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dPuQfFd6JgaYMu6S5BipV",
+        "id": "4dPuQfFd6JgaYMu6S5BipV",
+        "is_local": false,
+        "name": "Sweet but Psycho - 8D Audio",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4dPuQfFd6JgaYMu6S5BipV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:49nK53LOGuzC7uED0LWcob"
+}

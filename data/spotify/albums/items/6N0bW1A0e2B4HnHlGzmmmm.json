@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JcvZGr50Ud8UKGTaPT6Ac"
+      },
+      "href": "https://api.spotify.com/v1/artists/4JcvZGr50Ud8UKGTaPT6Ac",
+      "id": "4JcvZGr50Ud8UKGTaPT6Ac",
+      "name": "Rucky",
+      "type": "artist",
+      "uri": "spotify:artist:4JcvZGr50Ud8UKGTaPT6Ac"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 OTS",
+      "type": "C"
+    },
+    {
+      "text": "2021 OTS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "689690092344"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6N0bW1A0e2B4HnHlGzmmmm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6N0bW1A0e2B4HnHlGzmmmm",
+  "id": "6N0bW1A0e2B4HnHlGzmmmm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339c25627567802515ee8305f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239c25627567802515ee8305f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139c25627567802515ee8305f",
+      "width": 64
+    }
+  ],
+  "label": "OTS",
+  "name": "OT and Back",
+  "popularity": 0,
+  "release_date": "2021-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6N0bW1A0e2B4HnHlGzmmmm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JcvZGr50Ud8UKGTaPT6Ac"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JcvZGr50Ud8UKGTaPT6Ac",
+            "id": "4JcvZGr50Ud8UKGTaPT6Ac",
+            "name": "Rucky",
+            "type": "artist",
+            "uri": "spotify:artist:4JcvZGr50Ud8UKGTaPT6Ac"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd"
+            },
+            "href": "https://api.spotify.com/v1/artists/7k6kjJwn24BmBPoBpoepcd",
+            "id": "7k6kjJwn24BmBPoBpoepcd",
+            "name": "Smoke Dawg",
+            "type": "artist",
+            "uri": "spotify:artist:7k6kjJwn24BmBPoBpoepcd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204293,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HBki9D4ik0Cc9B4Af0QZA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6HBki9D4ik0Cc9B4Af0QZA",
+        "id": "6HBki9D4ik0Cc9B4Af0QZA",
+        "is_local": false,
+        "name": "OT and Back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6HBki9D4ik0Cc9B4Af0QZA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6N0bW1A0e2B4HnHlGzmmmm"
+}

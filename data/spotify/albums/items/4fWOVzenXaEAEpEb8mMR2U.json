@@ -1,0 +1,127 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+      "id": "5Pwc4xIPtQLFEnJriah9YJ",
+      "name": "OneRepublic",
+      "type": "artist",
+      "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+      "id": "4AVFqumd2ogHFlRbKIjp1t",
+      "name": "Alesso",
+      "type": "artist",
+      "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Mosley Music/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Mosley Music/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537371693"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4fWOVzenXaEAEpEb8mMR2U"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4fWOVzenXaEAEpEb8mMR2U",
+  "id": "4fWOVzenXaEAEpEb8mMR2U",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d035b3d8135797f9bfcf987",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d035b3d8135797f9bfcf987",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d035b3d8135797f9bfcf987",
+      "width": 64
+    }
+  ],
+  "label": "Mosley / Interscope",
+  "name": "If I Lose Myself (Alesso vs OneRepublic)",
+  "popularity": 34,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4fWOVzenXaEAEpEb8mMR2U/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+            "id": "5Pwc4xIPtQLFEnJriah9YJ",
+            "name": "OneRepublic",
+            "type": "artist",
+            "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+            "id": "4AVFqumd2ogHFlRbKIjp1t",
+            "name": "Alesso",
+            "type": "artist",
+            "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 214066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YDJ2f1JuKzYWZpRYiBYHu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1YDJ2f1JuKzYWZpRYiBYHu",
+        "id": "1YDJ2f1JuKzYWZpRYiBYHu",
+        "is_local": false,
+        "name": "If I Lose Myself - Alesso vs OneRepublic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1YDJ2f1JuKzYWZpRYiBYHu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4fWOVzenXaEAEpEb8mMR2U"
+}

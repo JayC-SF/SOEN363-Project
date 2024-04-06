@@ -1,0 +1,177 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6yZgSbQMnAFpQRgv7EMRzZ",
+      "id": "6yZgSbQMnAFpQRgv7EMRzZ",
+      "name": "Caspr",
+      "type": "artist",
+      "uri": "spotify:artist:6yZgSbQMnAFpQRgv7EMRzZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4exLIFE8sISLr28sqG1qNX",
+      "id": "4exLIFE8sISLr28sqG1qNX",
+      "name": "Travis Barker",
+      "type": "artist",
+      "uri": "spotify:artist:4exLIFE8sISLr28sqG1qNX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Atlantic Recording Corporation",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Atlantic Recording Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679771971"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0pePhzWZn37dt3aEcu1WSe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0pePhzWZn37dt3aEcu1WSe",
+  "id": "0pePhzWZn37dt3aEcu1WSe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2d799aef14b8c5837670dd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2d799aef14b8c5837670dd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2d799aef14b8c5837670dd8",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Play Pretend (feat. Travis Barker)",
+  "popularity": 0,
+  "release_date": "2021-08-20",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0pePhzWZn37dt3aEcu1WSe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yZgSbQMnAFpQRgv7EMRzZ",
+            "id": "6yZgSbQMnAFpQRgv7EMRzZ",
+            "name": "Caspr",
+            "type": "artist",
+            "uri": "spotify:artist:6yZgSbQMnAFpQRgv7EMRzZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4exLIFE8sISLr28sqG1qNX",
+            "id": "4exLIFE8sISLr28sqG1qNX",
+            "name": "Travis Barker",
+            "type": "artist",
+            "uri": "spotify:artist:4exLIFE8sISLr28sqG1qNX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162559,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Dn2KgWEzKdmQEyDsOS1GU",
+        "id": "2Dn2KgWEzKdmQEyDsOS1GU",
+        "is_local": false,
+        "name": "Play Pretend (feat. Travis Barker)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Dn2KgWEzKdmQEyDsOS1GU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yZgSbQMnAFpQRgv7EMRzZ",
+            "id": "6yZgSbQMnAFpQRgv7EMRzZ",
+            "name": "Caspr",
+            "type": "artist",
+            "uri": "spotify:artist:6yZgSbQMnAFpQRgv7EMRzZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167799,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eXmrhBAausLfacbpd1IoG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2eXmrhBAausLfacbpd1IoG",
+        "id": "2eXmrhBAausLfacbpd1IoG",
+        "is_local": false,
+        "name": "Duct Tape Lips",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2eXmrhBAausLfacbpd1IoG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yZgSbQMnAFpQRgv7EMRzZ",
+            "id": "6yZgSbQMnAFpQRgv7EMRzZ",
+            "name": "Caspr",
+            "type": "artist",
+            "uri": "spotify:artist:6yZgSbQMnAFpQRgv7EMRzZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164117,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xT57mECGaTFzmSAzvXLaX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xT57mECGaTFzmSAzvXLaX",
+        "id": "2xT57mECGaTFzmSAzvXLaX",
+        "is_local": false,
+        "name": "Coke Nose",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2xT57mECGaTFzmSAzvXLaX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:0pePhzWZn37dt3aEcu1WSe"
+}

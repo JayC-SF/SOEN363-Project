@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+      },
+      "href": "https://api.spotify.com/v1/artists/4qFxP3qN9GsnZDOkAE6x2m",
+      "id": "4qFxP3qN9GsnZDOkAE6x2m",
+      "name": "December Avenue",
+      "type": "artist",
+      "uri": "spotify:artist:4qFxP3qN9GsnZDOkAE6x2m"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Tower of Doom Music",
+      "type": "C"
+    },
+    {
+      "text": "2017 Tower of Doom Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840094016163"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1aUdCxhin4mQevKWVLrtNN",
+  "id": "1aUdCxhin4mQevKWVLrtNN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0a87d41aeddc07c9d6256f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0a87d41aeddc07c9d6256f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0a87d41aeddc07c9d6256f8",
+      "width": 64
+    }
+  ],
+  "label": "Tower of Doom Music",
+  "name": "Kahit Di Mo Alam",
+  "popularity": 14,
+  "release_date": "2017-09-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1aUdCxhin4mQevKWVLrtNN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+            },
+            "href": "https://api.spotify.com/v1/artists/4qFxP3qN9GsnZDOkAE6x2m",
+            "id": "4qFxP3qN9GsnZDOkAE6x2m",
+            "name": "December Avenue",
+            "type": "artist",
+            "uri": "spotify:artist:4qFxP3qN9GsnZDOkAE6x2m"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 282094,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6GIzDc4xBUeYHwubWwTrhC",
+        "id": "6GIzDc4xBUeYHwubWwTrhC",
+        "is_local": false,
+        "name": "Kahit Di Mo Alam",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6GIzDc4xBUeYHwubWwTrhC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1aUdCxhin4mQevKWVLrtNN"
+}

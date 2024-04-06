@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+      },
+      "href": "https://api.spotify.com/v1/artists/4bWHA8fMNjzfGPQqnh5D6y",
+      "id": "4bWHA8fMNjzfGPQqnh5D6y",
+      "name": "Recycled J",
+      "type": "artist",
+      "uri": "spotify:artist:4bWHA8fMNjzfGPQqnh5D6y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1m9WPOccw8sizsVYUhSVjZ",
+      "id": "1m9WPOccw8sizsVYUhSVjZ",
+      "name": "Selecta",
+      "type": "artist",
+      "uri": "spotify:artist:1m9WPOccw8sizsVYUhSVjZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 \u00d8 Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 \u00d8 Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8433391541388"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Lq0ooU9VvXKi8X4t4kIAJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Lq0ooU9VvXKi8X4t4kIAJ",
+  "id": "6Lq0ooU9VvXKi8X4t4kIAJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ae5df944098709659aa73bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ae5df944098709659aa73bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ae5df944098709659aa73bb",
+      "width": 64
+    }
+  ],
+  "label": "\u00d8 Music",
+  "name": "Bambino",
+  "popularity": 0,
+  "release_date": "2018-11-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Lq0ooU9VvXKi8X4t4kIAJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+            },
+            "href": "https://api.spotify.com/v1/artists/4bWHA8fMNjzfGPQqnh5D6y",
+            "id": "4bWHA8fMNjzfGPQqnh5D6y",
+            "name": "Recycled J",
+            "type": "artist",
+            "uri": "spotify:artist:4bWHA8fMNjzfGPQqnh5D6y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1m9WPOccw8sizsVYUhSVjZ",
+            "id": "1m9WPOccw8sizsVYUhSVjZ",
+            "name": "Selecta",
+            "type": "artist",
+            "uri": "spotify:artist:1m9WPOccw8sizsVYUhSVjZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VMMc4Yb50aH9qK2j2M1Ba"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VMMc4Yb50aH9qK2j2M1Ba",
+        "id": "4VMMc4Yb50aH9qK2j2M1Ba",
+        "is_local": false,
+        "name": "Bambino",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VMMc4Yb50aH9qK2j2M1Ba"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Lq0ooU9VvXKi8X4t4kIAJ"
+}

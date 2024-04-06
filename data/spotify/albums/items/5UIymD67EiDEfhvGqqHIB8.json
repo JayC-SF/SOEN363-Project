@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+      },
+      "href": "https://api.spotify.com/v1/artists/70TpT5Yq8mRwav91mSTKQV",
+      "id": "70TpT5Yq8mRwav91mSTKQV",
+      "name": "Kaz Moon",
+      "type": "artist",
+      "uri": "spotify:artist:70TpT5Yq8mRwav91mSTKQV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 Cody Yao",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 Cody Yao",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0193036119331"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5UIymD67EiDEfhvGqqHIB8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5UIymD67EiDEfhvGqqHIB8",
+  "id": "5UIymD67EiDEfhvGqqHIB8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fe7e02f4dfb23539b4ccaa2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fe7e02f4dfb23539b4ccaa2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fe7e02f4dfb23539b4ccaa2",
+      "width": 64
+    }
+  ],
+  "label": "old phones",
+  "name": "Sway",
+  "popularity": 0,
+  "release_date": "2018-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5UIymD67EiDEfhvGqqHIB8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+            },
+            "href": "https://api.spotify.com/v1/artists/70TpT5Yq8mRwav91mSTKQV",
+            "id": "70TpT5Yq8mRwav91mSTKQV",
+            "name": "Kaz Moon",
+            "type": "artist",
+            "uri": "spotify:artist:70TpT5Yq8mRwav91mSTKQV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216377,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79SfYycX4b9mPJvxOSVdXA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79SfYycX4b9mPJvxOSVdXA",
+        "id": "79SfYycX4b9mPJvxOSVdXA",
+        "is_local": false,
+        "name": "Sway",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:79SfYycX4b9mPJvxOSVdXA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5UIymD67EiDEfhvGqqHIB8"
+}

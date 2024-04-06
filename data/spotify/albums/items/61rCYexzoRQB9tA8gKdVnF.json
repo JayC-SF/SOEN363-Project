@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id": "3q7HBObVc0L8jNeTe5Gofh",
+      "name": "50 Cent",
+      "type": "artist",
+      "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2008 Shady Records/Aftermath Records/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2008 Shady Records/Aftermath Records/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602517903029"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/61rCYexzoRQB9tA8gKdVnF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/61rCYexzoRQB9tA8gKdVnF",
+  "id": "61rCYexzoRQB9tA8gKdVnF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273715376ba83ae6c3fb0cff144",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02715376ba83ae6c3fb0cff144",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851715376ba83ae6c3fb0cff144",
+      "width": 64
+    }
+  ],
+  "label": "Interscope",
+  "name": "Get Up",
+  "popularity": 0,
+  "release_date": "2008-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/61rCYexzoRQB9tA8gKdVnF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+            },
+            "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+            "id": "3q7HBObVc0L8jNeTe5Gofh",
+            "name": "50 Cent",
+            "type": "artist",
+            "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195680,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LkjC23inzEkWtsJzs5t2v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LkjC23inzEkWtsJzs5t2v",
+        "id": "4LkjC23inzEkWtsJzs5t2v",
+        "is_local": false,
+        "name": "Get Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4LkjC23inzEkWtsJzs5t2v"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:61rCYexzoRQB9tA8gKdVnF"
+}

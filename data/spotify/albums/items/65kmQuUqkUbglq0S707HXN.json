@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+      },
+      "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+      "id": "7wg1qvie3KqDNQbAkTdbX0",
+      "name": "Louis The Child",
+      "type": "artist",
+      "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Next Wave Records / Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2015 Next Wave Records / Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465668654"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/65kmQuUqkUbglq0S707HXN",
+  "id": "65kmQuUqkUbglq0S707HXN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a95e46b4c41ac8d18bbe67a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a95e46b4c41ac8d18bbe67a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a95e46b4c41ac8d18bbe67a2",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "It's Strange",
+  "popularity": 4,
+  "release_date": "2015-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/65kmQuUqkUbglq0S707HXN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+            "id": "7wg1qvie3KqDNQbAkTdbX0",
+            "name": "Louis The Child",
+            "type": "artist",
+            "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pCNk4D3E2xtszsm6hMsWr",
+            "id": "0pCNk4D3E2xtszsm6hMsWr",
+            "name": "K.Flay",
+            "type": "artist",
+            "uri": "spotify:artist:0pCNk4D3E2xtszsm6hMsWr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245581,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NxHMGOA8vwPD0x8MmXnp7",
+        "id": "0NxHMGOA8vwPD0x8MmXnp7",
+        "is_local": false,
+        "name": "It's Strange",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NxHMGOA8vwPD0x8MmXnp7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:65kmQuUqkUbglq0S707HXN"
+}

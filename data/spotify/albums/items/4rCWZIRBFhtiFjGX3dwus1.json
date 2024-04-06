@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UsPBghReN8eteUODeTFLV"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UsPBghReN8eteUODeTFLV",
+      "id": "1UsPBghReN8eteUODeTFLV",
+      "name": "Rhythm Beater",
+      "type": "artist",
+      "uri": "spotify:artist:1UsPBghReN8eteUODeTFLV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+      },
+      "href": "https://api.spotify.com/v1/artists/602tBNQHNIZL6tsB2RHAV1",
+      "id": "602tBNQHNIZL6tsB2RHAV1",
+      "name": "Benny Page",
+      "type": "artist",
+      "uri": "spotify:artist:602tBNQHNIZL6tsB2RHAV1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Cutterz Choice",
+      "type": "C"
+    },
+    {
+      "text": "2012 Cutterz Choice",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055489230405"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4rCWZIRBFhtiFjGX3dwus1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4rCWZIRBFhtiFjGX3dwus1",
+  "id": "4rCWZIRBFhtiFjGX3dwus1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273daeadf0cecd5c5948330d75c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02daeadf0cecd5c5948330d75c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851daeadf0cecd5c5948330d75c",
+      "width": 64
+    }
+  ],
+  "label": "Cutterz Choice",
+  "name": "Raggamuffin Ting / Crazy Balheads",
+  "popularity": 0,
+  "release_date": "2005-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4rCWZIRBFhtiFjGX3dwus1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UsPBghReN8eteUODeTFLV"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UsPBghReN8eteUODeTFLV",
+            "id": "1UsPBghReN8eteUODeTFLV",
+            "name": "Rhythm Beater",
+            "type": "artist",
+            "uri": "spotify:artist:1UsPBghReN8eteUODeTFLV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 334335,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70zpJ89C5AlsVKGZLV651e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70zpJ89C5AlsVKGZLV651e",
+        "id": "70zpJ89C5AlsVKGZLV651e",
+        "is_local": false,
+        "name": "Raggamuffin Ting",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70zpJ89C5AlsVKGZLV651e"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+            },
+            "href": "https://api.spotify.com/v1/artists/602tBNQHNIZL6tsB2RHAV1",
+            "id": "602tBNQHNIZL6tsB2RHAV1",
+            "name": "Benny Page",
+            "type": "artist",
+            "uri": "spotify:artist:602tBNQHNIZL6tsB2RHAV1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 411062,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JUGCCHPERyJHxbmw6VJPs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JUGCCHPERyJHxbmw6VJPs",
+        "id": "3JUGCCHPERyJHxbmw6VJPs",
+        "is_local": false,
+        "name": "Crazy Balheads",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3JUGCCHPERyJHxbmw6VJPs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4rCWZIRBFhtiFjGX3dwus1"
+}

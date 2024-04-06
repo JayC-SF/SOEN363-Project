@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Lz2Klao37ArvAt73yMqNv",
+      "id": "5Lz2Klao37ArvAt73yMqNv",
+      "name": "CVMILLE",
+      "type": "artist",
+      "uri": "spotify:artist:5Lz2Klao37ArvAt73yMqNv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 CVMILLE",
+      "type": "C"
+    },
+    {
+      "text": "2021 CVMILLE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196283078505"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/30k9pkQ53NcF43bln2PV32"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/30k9pkQ53NcF43bln2PV32",
+  "id": "30k9pkQ53NcF43bln2PV32",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317187d357bb49b90dde590aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217187d357bb49b90dde590aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117187d357bb49b90dde590aa",
+      "width": 64
+    }
+  ],
+  "label": "CVMILLE",
+  "name": "Deseo",
+  "popularity": 0,
+  "release_date": "2021-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/30k9pkQ53NcF43bln2PV32/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Lz2Klao37ArvAt73yMqNv",
+            "id": "5Lz2Klao37ArvAt73yMqNv",
+            "name": "CVMILLE",
+            "type": "artist",
+            "uri": "spotify:artist:5Lz2Klao37ArvAt73yMqNv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184678,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54yKrhdisdyWco1CbKe8cp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54yKrhdisdyWco1CbKe8cp",
+        "id": "54yKrhdisdyWco1CbKe8cp",
+        "is_local": false,
+        "name": "Deseo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:54yKrhdisdyWco1CbKe8cp"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:30k9pkQ53NcF43bln2PV32"
+}

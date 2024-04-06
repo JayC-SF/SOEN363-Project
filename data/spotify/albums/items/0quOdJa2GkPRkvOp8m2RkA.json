@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/79teVaCNOgpm8P42wcwmQv"
+      },
+      "href": "https://api.spotify.com/v1/artists/79teVaCNOgpm8P42wcwmQv",
+      "id": "79teVaCNOgpm8P42wcwmQv",
+      "name": "Unc Buzz",
+      "type": "artist",
+      "uri": "spotify:artist:79teVaCNOgpm8P42wcwmQv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 2296826 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 2296826 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195542785420"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0quOdJa2GkPRkvOp8m2RkA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0quOdJa2GkPRkvOp8m2RkA",
+  "id": "0quOdJa2GkPRkvOp8m2RkA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d56c2dfbe5930c9a1b54adc4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d56c2dfbe5930c9a1b54adc4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d56c2dfbe5930c9a1b54adc4",
+      "width": 64
+    }
+  ],
+  "label": "2296826 Records DK",
+  "name": "Whoa Whoa",
+  "popularity": 0,
+  "release_date": "2020-08-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0quOdJa2GkPRkvOp8m2RkA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/79teVaCNOgpm8P42wcwmQv"
+            },
+            "href": "https://api.spotify.com/v1/artists/79teVaCNOgpm8P42wcwmQv",
+            "id": "79teVaCNOgpm8P42wcwmQv",
+            "name": "Unc Buzz",
+            "type": "artist",
+            "uri": "spotify:artist:79teVaCNOgpm8P42wcwmQv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164545,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2meh6wbh3pb7HWhhiptaes"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2meh6wbh3pb7HWhhiptaes",
+        "id": "2meh6wbh3pb7HWhhiptaes",
+        "is_local": false,
+        "name": "Whoa Whoa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2meh6wbh3pb7HWhhiptaes"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0quOdJa2GkPRkvOp8m2RkA"
+}

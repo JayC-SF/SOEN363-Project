@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23nkUQDzM0ZbotcoS9SAmY"
+      },
+      "href": "https://api.spotify.com/v1/artists/23nkUQDzM0ZbotcoS9SAmY",
+      "id": "23nkUQDzM0ZbotcoS9SAmY",
+      "name": "Yonee",
+      "type": "artist",
+      "uri": "spotify:artist:23nkUQDzM0ZbotcoS9SAmY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Break it Down Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Break it Down Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "018736793844"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wi4A2tXotgV8tQVT00ElN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wi4A2tXotgV8tQVT00ElN",
+  "id": "3wi4A2tXotgV8tQVT00ElN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348f66b6102f5e0b95d7aacbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248f66b6102f5e0b95d7aacbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148f66b6102f5e0b95d7aacbb",
+      "width": 64
+    }
+  ],
+  "label": "Break It Down Music",
+  "name": "One Chance",
+  "popularity": 0,
+  "release_date": "2020-08-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wi4A2tXotgV8tQVT00ElN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23nkUQDzM0ZbotcoS9SAmY"
+            },
+            "href": "https://api.spotify.com/v1/artists/23nkUQDzM0ZbotcoS9SAmY",
+            "id": "23nkUQDzM0ZbotcoS9SAmY",
+            "name": "Yonee",
+            "type": "artist",
+            "uri": "spotify:artist:23nkUQDzM0ZbotcoS9SAmY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129989,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jksyYSuLvil0YK51nTauJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5jksyYSuLvil0YK51nTauJ",
+        "id": "5jksyYSuLvil0YK51nTauJ",
+        "is_local": false,
+        "name": "One Chance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5jksyYSuLvil0YK51nTauJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wi4A2tXotgV8tQVT00ElN"
+}

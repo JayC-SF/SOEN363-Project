@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tususHNaR68xdgLstlGBA",
+      "id": "4tususHNaR68xdgLstlGBA",
+      "name": "Of Mice & Men",
+      "type": "artist",
+      "uri": "spotify:artist:4tususHNaR68xdgLstlGBA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 SHARPTONE",
+      "type": "C"
+    },
+    {
+      "text": "2021 SHARPTONE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4065629632564"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lPt244kh0WjCRgkSLBicz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0lPt244kh0WjCRgkSLBicz",
+  "id": "0lPt244kh0WjCRgkSLBicz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa1b1ec2674b6753bb787503",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa1b1ec2674b6753bb787503",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa1b1ec2674b6753bb787503",
+      "width": 64
+    }
+  ],
+  "label": "SHARPTONE",
+  "name": "Fighting Gravity",
+  "popularity": 0,
+  "release_date": "2021-10-20",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0lPt244kh0WjCRgkSLBicz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tususHNaR68xdgLstlGBA",
+            "id": "4tususHNaR68xdgLstlGBA",
+            "name": "Of Mice & Men",
+            "type": "artist",
+            "uri": "spotify:artist:4tususHNaR68xdgLstlGBA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 296000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4g0mCLGfAuDATAfmTggACN",
+        "id": "4g0mCLGfAuDATAfmTggACN",
+        "is_local": false,
+        "name": "Fighting Gravity",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4g0mCLGfAuDATAfmTggACN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tususHNaR68xdgLstlGBA",
+            "id": "4tususHNaR68xdgLstlGBA",
+            "name": "Of Mice & Men",
+            "type": "artist",
+            "uri": "spotify:artist:4tususHNaR68xdgLstlGBA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kgRWSgf7ZG73FsnYh895Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kgRWSgf7ZG73FsnYh895Y",
+        "id": "0kgRWSgf7ZG73FsnYh895Y",
+        "is_local": false,
+        "name": "Mosaic",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0kgRWSgf7ZG73FsnYh895Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0lPt244kh0WjCRgkSLBicz"
+}

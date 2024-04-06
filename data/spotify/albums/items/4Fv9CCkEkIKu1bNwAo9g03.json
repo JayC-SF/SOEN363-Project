@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VB4TqEl0yfaF88LYHH4wj",
+      "id": "6VB4TqEl0yfaF88LYHH4wj",
+      "name": "The Strike",
+      "type": "artist",
+      "uri": "spotify:artist:6VB4TqEl0yfaF88LYHH4wj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 The Strike",
+      "type": "C"
+    },
+    {
+      "text": "2020 The Strike",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "053000438649"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Fv9CCkEkIKu1bNwAo9g03"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Fv9CCkEkIKu1bNwAo9g03",
+  "id": "4Fv9CCkEkIKu1bNwAo9g03",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311aed249a702d631ab0c3934",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211aed249a702d631ab0c3934",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111aed249a702d631ab0c3934",
+      "width": 64
+    }
+  ],
+  "label": "The Strike",
+  "name": "Nothing New",
+  "popularity": 0,
+  "release_date": "2020-03-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Fv9CCkEkIKu1bNwAo9g03/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VB4TqEl0yfaF88LYHH4wj",
+            "id": "6VB4TqEl0yfaF88LYHH4wj",
+            "name": "The Strike",
+            "type": "artist",
+            "uri": "spotify:artist:6VB4TqEl0yfaF88LYHH4wj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 289408,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MbM25VuEfVv94w8n2EkpC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MbM25VuEfVv94w8n2EkpC",
+        "id": "4MbM25VuEfVv94w8n2EkpC",
+        "is_local": false,
+        "name": "Nothing New",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MbM25VuEfVv94w8n2EkpC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Fv9CCkEkIKu1bNwAo9g03"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+      },
+      "href": "https://api.spotify.com/v1/artists/685XjGzGztyivfR3fAjoxo",
+      "id": "685XjGzGztyivfR3fAjoxo",
+      "name": "Squid",
+      "type": "artist",
+      "uri": "spotify:artist:685XjGzGztyivfR3fAjoxo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Warp Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Warp Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0801061944339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/12ivmI2WMLH18aRitwUxwH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/12ivmI2WMLH18aRitwUxwH",
+  "id": "12ivmI2WMLH18aRitwUxwH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df5a77116091225078f90f82",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df5a77116091225078f90f82",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df5a77116091225078f90f82",
+      "width": 64
+    }
+  ],
+  "label": "Warp Records",
+  "name": "Sludge / Broadcaster",
+  "popularity": 0,
+  "release_date": "2020-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/12ivmI2WMLH18aRitwUxwH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+            },
+            "href": "https://api.spotify.com/v1/artists/685XjGzGztyivfR3fAjoxo",
+            "id": "685XjGzGztyivfR3fAjoxo",
+            "name": "Squid",
+            "type": "artist",
+            "uri": "spotify:artist:685XjGzGztyivfR3fAjoxo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 300820,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Smbyc0hqPb9ZNhqRw9hXN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Smbyc0hqPb9ZNhqRw9hXN",
+        "id": "3Smbyc0hqPb9ZNhqRw9hXN",
+        "is_local": false,
+        "name": "Sludge",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Smbyc0hqPb9ZNhqRw9hXN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+            },
+            "href": "https://api.spotify.com/v1/artists/685XjGzGztyivfR3fAjoxo",
+            "id": "685XjGzGztyivfR3fAjoxo",
+            "name": "Squid",
+            "type": "artist",
+            "uri": "spotify:artist:685XjGzGztyivfR3fAjoxo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 356201,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2p8O1z5GCEIEcDT9UHJVHN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2p8O1z5GCEIEcDT9UHJVHN",
+        "id": "2p8O1z5GCEIEcDT9UHJVHN",
+        "is_local": false,
+        "name": "Broadcaster",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2p8O1z5GCEIEcDT9UHJVHN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:12ivmI2WMLH18aRitwUxwH"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+      "id": "5z1VAFwT35EVvCp1XlZZuL",
+      "name": "Diana Krall",
+      "type": "artist",
+      "uri": "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2004 The Verve Music Group, a Division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2004 The Verve Music Group, a Division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498617571"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/55UGa1OXeUOjIWwJjLFRtr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/55UGa1OXeUOjIWwJjLFRtr",
+  "id": "55UGa1OXeUOjIWwJjLFRtr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5db6a7629f8bf8e6f5c9695",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5db6a7629f8bf8e6f5c9695",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5db6a7629f8bf8e6f5c9695",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music",
+  "name": "Temptation",
+  "popularity": 0,
+  "release_date": "2004-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/55UGa1OXeUOjIWwJjLFRtr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+            "id": "5z1VAFwT35EVvCp1XlZZuL",
+            "name": "Diana Krall",
+            "type": "artist",
+            "uri": "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 268720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U24ORM16aYPKYS0Ct95QJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U24ORM16aYPKYS0Ct95QJ",
+        "id": "4U24ORM16aYPKYS0Ct95QJ",
+        "is_local": false,
+        "name": "Temptation",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4U24ORM16aYPKYS0Ct95QJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+            "id": "5z1VAFwT35EVvCp1XlZZuL",
+            "name": "Diana Krall",
+            "type": "artist",
+            "uri": "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 287986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48iWC6dX9MwpfbrGTIyHX2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48iWC6dX9MwpfbrGTIyHX2",
+        "id": "48iWC6dX9MwpfbrGTIyHX2",
+        "is_local": false,
+        "name": "I'll Never Be The Same",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:48iWC6dX9MwpfbrGTIyHX2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:55UGa1OXeUOjIWwJjLFRtr"
+}

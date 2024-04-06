@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href": "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id": "45eNHdiiabvmbp4erw26rg",
+      "name": "ILLENIUM",
+      "type": "artist",
+      "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Kasaya / Seeking Blue",
+      "type": "C"
+    },
+    {
+      "text": "2017 Kasaya / Seeking Blue",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859719569298"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0r4kwvT0acmAl59N6H4Pjk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0r4kwvT0acmAl59N6H4Pjk",
+  "id": "0r4kwvT0acmAl59N6H4Pjk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329b1e19c8c1304446a3e1afa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229b1e19c8c1304446a3e1afa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129b1e19c8c1304446a3e1afa",
+      "width": 64
+    }
+  ],
+  "label": "Kasaya / Seeking Blue",
+  "name": "Fractures (feat. Nevve)",
+  "popularity": 37,
+  "release_date": "2017-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0r4kwvT0acmAl59N6H4Pjk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+            },
+            "href": "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+            "id": "45eNHdiiabvmbp4erw26rg",
+            "name": "ILLENIUM",
+            "type": "artist",
+            "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+            "id": "3RTklnRcfHgkQJwFpgOq3t",
+            "name": "Nevve",
+            "type": "artist",
+            "uri": "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245250,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6H0zRPEV1ezBHOidNXSt1D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6H0zRPEV1ezBHOidNXSt1D",
+        "id": "6H0zRPEV1ezBHOidNXSt1D",
+        "is_local": false,
+        "name": "Fractures (feat. Nevve)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6H0zRPEV1ezBHOidNXSt1D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0r4kwvT0acmAl59N6H4Pjk"
+}

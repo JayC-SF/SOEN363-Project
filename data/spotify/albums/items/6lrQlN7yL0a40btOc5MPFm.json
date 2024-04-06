@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PVih0Ygfa7Kk2Y2jrf1kZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PVih0Ygfa7Kk2Y2jrf1kZ",
+      "id": "1PVih0Ygfa7Kk2Y2jrf1kZ",
+      "name": "LonelyEve",
+      "type": "artist",
+      "uri": "spotify:artist:1PVih0Ygfa7Kk2Y2jrf1kZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 bulletproof",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840350808570"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lrQlN7yL0a40btOc5MPFm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6lrQlN7yL0a40btOc5MPFm",
+  "id": "6lrQlN7yL0a40btOc5MPFm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fccd5e2c4f2e54cc57197b53",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fccd5e2c4f2e54cc57197b53",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fccd5e2c4f2e54cc57197b53",
+      "width": 64
+    }
+  ],
+  "label": "bulletproof",
+  "name": "The Hills X Creepin X The Color Violet",
+  "popularity": 2,
+  "release_date": "2022-12-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6lrQlN7yL0a40btOc5MPFm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PVih0Ygfa7Kk2Y2jrf1kZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PVih0Ygfa7Kk2Y2jrf1kZ",
+            "id": "1PVih0Ygfa7Kk2Y2jrf1kZ",
+            "name": "LonelyEve",
+            "type": "artist",
+            "uri": "spotify:artist:1PVih0Ygfa7Kk2Y2jrf1kZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 197665,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Zyqy26D6DQ5Mn5gqoUd3W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Zyqy26D6DQ5Mn5gqoUd3W",
+        "id": "4Zyqy26D6DQ5Mn5gqoUd3W",
+        "is_local": false,
+        "name": "The Hills X Creepin X The Color Violet",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Zyqy26D6DQ5Mn5gqoUd3W"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6lrQlN7yL0a40btOc5MPFm"
+}

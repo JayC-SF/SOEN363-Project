@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5V1vRp27m0PLepQehI2tnf",
+      "id": "5V1vRp27m0PLepQehI2tnf",
+      "name": "Ugly (UK)",
+      "type": "artist",
+      "uri": "spotify:artist:5V1vRp27m0PLepQehI2tnf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Ugly (UK)",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ugly (UK)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "055120642678"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6jNVw2FphDY1ldKmfy2Ati"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6jNVw2FphDY1ldKmfy2Ati",
+  "id": "6jNVw2FphDY1ldKmfy2Ati",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732106392e2a672f4af22ab542",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022106392e2a672f4af22ab542",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512106392e2a672f4af22ab542",
+      "width": 64
+    }
+  ],
+  "label": "Ugly (UK)",
+  "name": "The Wheel",
+  "popularity": 13,
+  "release_date": "2023-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6jNVw2FphDY1ldKmfy2Ati/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5V1vRp27m0PLepQehI2tnf",
+            "id": "5V1vRp27m0PLepQehI2tnf",
+            "name": "Ugly (UK)",
+            "type": "artist",
+            "uri": "spotify:artist:5V1vRp27m0PLepQehI2tnf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 445074,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O1jBvkArE1g0a3MfKswFR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0O1jBvkArE1g0a3MfKswFR",
+        "id": "0O1jBvkArE1g0a3MfKswFR",
+        "is_local": false,
+        "name": "The Wheel",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0O1jBvkArE1g0a3MfKswFR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6jNVw2FphDY1ldKmfy2Ati"
+}

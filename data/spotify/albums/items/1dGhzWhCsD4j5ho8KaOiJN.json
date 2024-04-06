@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j",
+      "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+      "name": "George Ezra",
+      "type": "artist",
+      "uri": "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 Sony Music Entertainment UK Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446559278"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1dGhzWhCsD4j5ho8KaOiJN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1dGhzWhCsD4j5ho8KaOiJN",
+  "id": "1dGhzWhCsD4j5ho8KaOiJN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732da2cfddbfbaac9fd4887dc8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022da2cfddbfbaac9fd4887dc8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512da2cfddbfbaac9fd4887dc8",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Don't Matter Now",
+  "popularity": 0,
+  "release_date": "2017-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1dGhzWhCsD4j5ho8KaOiJN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j",
+            "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+            "name": "George Ezra",
+            "type": "artist",
+            "uri": "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eGpQgpepXm1MJ80Zhoipv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eGpQgpepXm1MJ80Zhoipv",
+        "id": "7eGpQgpepXm1MJ80Zhoipv",
+        "is_local": false,
+        "name": "Don't Matter Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7eGpQgpepXm1MJ80Zhoipv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1dGhzWhCsD4j5ho8KaOiJN"
+}

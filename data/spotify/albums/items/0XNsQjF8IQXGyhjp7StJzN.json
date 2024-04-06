@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nauouXmZ571FrS1P7g66Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/3nauouXmZ571FrS1P7g66Y",
+      "id": "3nauouXmZ571FrS1P7g66Y",
+      "name": "G-Girls",
+      "type": "artist",
+      "uri": "spotify:artist:3nauouXmZ571FrS1P7g66Y"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "copyrights": [
+    {
+      "text": "2016 Magic Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Magic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "602557147650"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0XNsQjF8IQXGyhjp7StJzN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0XNsQjF8IQXGyhjp7StJzN",
+  "id": "0XNsQjF8IQXGyhjp7StJzN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9fe8c1c2ee2959f96ab4caa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9fe8c1c2ee2959f96ab4caa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9fe8c1c2ee2959f96ab4caa",
+      "width": 64
+    }
+  ],
+  "label": "Magic Records",
+  "name": "Call The Police",
+  "popularity": 30,
+  "release_date": "2016-08-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0XNsQjF8IQXGyhjp7StJzN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nauouXmZ571FrS1P7g66Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nauouXmZ571FrS1P7g66Y",
+            "id": "3nauouXmZ571FrS1P7g66Y",
+            "name": "G-Girls",
+            "type": "artist",
+            "uri": "spotify:artist:3nauouXmZ571FrS1P7g66Y"
+          }
+        ],
+        "available_markets": [
+          "PL"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uyEPFs3Qd60tnCD6ZAv9t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6uyEPFs3Qd60tnCD6ZAv9t",
+        "id": "6uyEPFs3Qd60tnCD6ZAv9t",
+        "is_local": false,
+        "name": "Call The Police",
+        "preview_url": "https://p.scdn.co/mp3-preview/434fba23930d58b2947ede05303becf7cb39ff71?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6uyEPFs3Qd60tnCD6ZAv9t"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0XNsQjF8IQXGyhjp7StJzN"
+}

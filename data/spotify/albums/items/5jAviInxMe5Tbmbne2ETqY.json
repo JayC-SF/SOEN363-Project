@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3"
+      },
+      "href": "https://api.spotify.com/v1/artists/5dSbMNdPisHKz5waAlBGZ3",
+      "id": "5dSbMNdPisHKz5waAlBGZ3",
+      "name": "Just Lowkey",
+      "type": "artist",
+      "uri": "spotify:artist:5dSbMNdPisHKz5waAlBGZ3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Copyright Control",
+      "type": "C"
+    },
+    {
+      "text": "2022 Copyright Control",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316470732253"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5jAviInxMe5Tbmbne2ETqY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5jAviInxMe5Tbmbne2ETqY",
+  "id": "5jAviInxMe5Tbmbne2ETqY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ce28e84ccdad1a3b4561440",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ce28e84ccdad1a3b4561440",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ce28e84ccdad1a3b4561440",
+      "width": 64
+    }
+  ],
+  "label": "Paragon Music Publishing",
+  "name": "I Was Never There Sped Up",
+  "popularity": 5,
+  "release_date": "2022-12-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5jAviInxMe5Tbmbne2ETqY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3"
+            },
+            "href": "https://api.spotify.com/v1/artists/5dSbMNdPisHKz5waAlBGZ3",
+            "id": "5dSbMNdPisHKz5waAlBGZ3",
+            "name": "Just Lowkey",
+            "type": "artist",
+            "uri": "spotify:artist:5dSbMNdPisHKz5waAlBGZ3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186119,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71Qyy1zgbBBxze4ii0VSPj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71Qyy1zgbBBxze4ii0VSPj",
+        "id": "71Qyy1zgbBBxze4ii0VSPj",
+        "is_local": false,
+        "name": "I Was Never There Sped Up",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:71Qyy1zgbBBxze4ii0VSPj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5jAviInxMe5Tbmbne2ETqY"
+}

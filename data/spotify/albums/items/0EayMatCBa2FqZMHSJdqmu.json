@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4idG41ELGGRKuiHLc3VLc5",
+      "id": "4idG41ELGGRKuiHLc3VLc5",
+      "name": "Vanishing Twin",
+      "type": "artist",
+      "uri": "spotify:artist:4idG41ELGGRKuiHLc3VLc5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Fire Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Fire Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "809236156259"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0EayMatCBa2FqZMHSJdqmu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0EayMatCBa2FqZMHSJdqmu",
+  "id": "0EayMatCBa2FqZMHSJdqmu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d37555d5e7d8f5d4b74162c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d37555d5e7d8f5d4b74162c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d37555d5e7d8f5d4b74162c2",
+      "width": 64
+    }
+  ],
+  "label": "Fire Records",
+  "name": "Magician's Success",
+  "popularity": 0,
+  "release_date": "2019-05-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0EayMatCBa2FqZMHSJdqmu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4idG41ELGGRKuiHLc3VLc5",
+            "id": "4idG41ELGGRKuiHLc3VLc5",
+            "name": "Vanishing Twin",
+            "type": "artist",
+            "uri": "spotify:artist:4idG41ELGGRKuiHLc3VLc5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235968,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vSXiWYvRzOEmo1oVY3aRi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vSXiWYvRzOEmo1oVY3aRi",
+        "id": "3vSXiWYvRzOEmo1oVY3aRi",
+        "is_local": false,
+        "name": "Magician's Success",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3vSXiWYvRzOEmo1oVY3aRi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0EayMatCBa2FqZMHSJdqmu"
+}

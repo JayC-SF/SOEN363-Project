@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/457h0DyM44jTUvm0huHM2l"
+      },
+      "href": "https://api.spotify.com/v1/artists/457h0DyM44jTUvm0huHM2l",
+      "id": "457h0DyM44jTUvm0huHM2l",
+      "name": "The Gardenwall",
+      "type": "artist",
+      "uri": "spotify:artist:457h0DyM44jTUvm0huHM2l"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 The Gardenwall",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 The Gardenwall",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720355404620"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6nLkgotwRQkFRXb4392IKF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6nLkgotwRQkFRXb4392IKF",
+  "id": "6nLkgotwRQkFRXb4392IKF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7ec0c39f69eb08226bd16b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7ec0c39f69eb08226bd16b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7ec0c39f69eb08226bd16b1",
+      "width": 64
+    }
+  ],
+  "label": "Spinnup",
+  "name": "Lonely",
+  "popularity": 0,
+  "release_date": "2021-07-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6nLkgotwRQkFRXb4392IKF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/457h0DyM44jTUvm0huHM2l"
+            },
+            "href": "https://api.spotify.com/v1/artists/457h0DyM44jTUvm0huHM2l",
+            "id": "457h0DyM44jTUvm0huHM2l",
+            "name": "The Gardenwall",
+            "type": "artist",
+            "uri": "spotify:artist:457h0DyM44jTUvm0huHM2l"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 175000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/317rSAWuK7jHAWC7ePm7km"
+        },
+        "href": "https://api.spotify.com/v1/tracks/317rSAWuK7jHAWC7ePm7km",
+        "id": "317rSAWuK7jHAWC7ePm7km",
+        "is_local": false,
+        "name": "Lonely",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:317rSAWuK7jHAWC7ePm7km"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6nLkgotwRQkFRXb4392IKF"
+}

@@ -1,0 +1,130 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ilYV5oF8whllOnm4VZlYR",
+      "id": "6ilYV5oF8whllOnm4VZlYR",
+      "name": "the pillows",
+      "type": "artist",
+      "uri": "spotify:artist:6ilYV5oF8whllOnm4VZlYR"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "avex entertainment inc./(\u682a)\u30d0\u30c3\u30c9\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30b0\u30eb\u30fc\u30d7\u97f3",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4945817416025"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2IViWFuPqIDCq91lauRWvo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2IViWFuPqIDCq91lauRWvo",
+  "id": "2IViWFuPqIDCq91lauRWvo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2ac4bc6f11c432be895c199",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2ac4bc6f11c432be895c199",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2ac4bc6f11c432be895c199",
+      "width": 64
+    }
+  ],
+  "label": "avex trax",
+  "name": "\u96e8\u4e0a\u304c\u308a\u306b\u898b\u305f\u5e7b",
+  "popularity": 3,
+  "release_date": "2009-09-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2IViWFuPqIDCq91lauRWvo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ilYV5oF8whllOnm4VZlYR",
+            "id": "6ilYV5oF8whllOnm4VZlYR",
+            "name": "the pillows",
+            "type": "artist",
+            "uri": "spotify:artist:6ilYV5oF8whllOnm4VZlYR"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 293786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17sLZQxobe18LcBsyo4NpK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17sLZQxobe18LcBsyo4NpK",
+        "id": "17sLZQxobe18LcBsyo4NpK",
+        "is_local": false,
+        "name": "\u96e8\u4e0a\u304c\u308a\u306b\u898b\u305f\u5e7b",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:17sLZQxobe18LcBsyo4NpK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ilYV5oF8whllOnm4VZlYR",
+            "id": "6ilYV5oF8whllOnm4VZlYR",
+            "name": "the pillows",
+            "type": "artist",
+            "uri": "spotify:artist:6ilYV5oF8whllOnm4VZlYR"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r9lCKMEo9gLkmMooslbIC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0r9lCKMEo9gLkmMooslbIC",
+        "id": "0r9lCKMEo9gLkmMooslbIC",
+        "is_local": false,
+        "name": "\u30d5\u30a1\u30a4\u30c6\u30a3\u30f3\u30b0\u30dd\u30fc\u30ba",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0r9lCKMEo9gLkmMooslbIC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2IViWFuPqIDCq91lauRWvo"
+}

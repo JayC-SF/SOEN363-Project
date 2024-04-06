@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uAdjqrXUQeK6QomCNY6UV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2uAdjqrXUQeK6QomCNY6UV",
+      "id": "2uAdjqrXUQeK6QomCNY6UV",
+      "name": "EL Sougias",
+      "type": "artist",
+      "uri": "spotify:artist:2uAdjqrXUQeK6QomCNY6UV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Sougias LLC",
+      "type": "C"
+    },
+    {
+      "text": "2023 Sougias LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197547121494"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2s9S7DiWh3AAd93BO9CBT0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2s9S7DiWh3AAd93BO9CBT0",
+  "id": "2s9S7DiWh3AAd93BO9CBT0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c25467d5992c037dc288cf4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c25467d5992c037dc288cf4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c25467d5992c037dc288cf4",
+      "width": 64
+    }
+  ],
+  "label": "Sougias LLC",
+  "name": "Adore U",
+  "popularity": 0,
+  "release_date": "2022-02-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2s9S7DiWh3AAd93BO9CBT0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uAdjqrXUQeK6QomCNY6UV"
+            },
+            "href": "https://api.spotify.com/v1/artists/2uAdjqrXUQeK6QomCNY6UV",
+            "id": "2uAdjqrXUQeK6QomCNY6UV",
+            "name": "EL Sougias",
+            "type": "artist",
+            "uri": "spotify:artist:2uAdjqrXUQeK6QomCNY6UV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178691,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2n5CkEtbZmhurTRZu0jxrj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2n5CkEtbZmhurTRZu0jxrj",
+        "id": "2n5CkEtbZmhurTRZu0jxrj",
+        "is_local": false,
+        "name": "Adore U",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2n5CkEtbZmhurTRZu0jxrj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2s9S7DiWh3AAd93BO9CBT0"
+}

@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+      },
+      "href": "https://api.spotify.com/v1/artists/0KOSzgkMlkeowt1tgIg6ca",
+      "id": "0KOSzgkMlkeowt1tgIg6ca",
+      "name": "Heijan",
+      "type": "artist",
+      "uri": "spotify:artist:0KOSzgkMlkeowt1tgIg6ca"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+      },
+      "href": "https://api.spotify.com/v1/artists/3NPQ2qMGXAR0g1COJxuZ8r",
+      "id": "3NPQ2qMGXAR0g1COJxuZ8r",
+      "name": "Muti",
+      "type": "artist",
+      "uri": "spotify:artist:3NPQ2qMGXAR0g1COJxuZ8r"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 CHAOS",
+      "type": "C"
+    },
+    {
+      "text": "2022 CHAOS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316470640602"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2QRVglxN2Y0tkhFeqv3zsj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2QRVglxN2Y0tkhFeqv3zsj",
+  "id": "2QRVglxN2Y0tkhFeqv3zsj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310b23250ef5316022a179336",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210b23250ef5316022a179336",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110b23250ef5316022a179336",
+      "width": 64
+    }
+  ],
+  "label": "CHAOS",
+  "name": "Alev Alev",
+  "popularity": 0,
+  "release_date": "2022-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2QRVglxN2Y0tkhFeqv3zsj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+            },
+            "href": "https://api.spotify.com/v1/artists/0KOSzgkMlkeowt1tgIg6ca",
+            "id": "0KOSzgkMlkeowt1tgIg6ca",
+            "name": "Heijan",
+            "type": "artist",
+            "uri": "spotify:artist:0KOSzgkMlkeowt1tgIg6ca"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+            },
+            "href": "https://api.spotify.com/v1/artists/3NPQ2qMGXAR0g1COJxuZ8r",
+            "id": "3NPQ2qMGXAR0g1COJxuZ8r",
+            "name": "Muti",
+            "type": "artist",
+            "uri": "spotify:artist:3NPQ2qMGXAR0g1COJxuZ8r"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150291,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00Zo5CncD75qFMty9HgN7L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00Zo5CncD75qFMty9HgN7L",
+        "id": "00Zo5CncD75qFMty9HgN7L",
+        "is_local": false,
+        "name": "Alev Alev",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:00Zo5CncD75qFMty9HgN7L"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2QRVglxN2Y0tkhFeqv3zsj"
+}

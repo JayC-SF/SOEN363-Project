@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R"
+      },
+      "href": "https://api.spotify.com/v1/artists/4AhmVfS4VIU9vQzElhRu2R",
+      "id": "4AhmVfS4VIU9vQzElhRu2R",
+      "name": "southernwade",
+      "type": "artist",
+      "uri": "spotify:artist:4AhmVfS4VIU9vQzElhRu2R"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Wade Hampton",
+      "type": "C"
+    },
+    {
+      "text": "2021 Wade Hampton",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167140108"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2dj0bLZmleAnuRNRzH7a04"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2dj0bLZmleAnuRNRzH7a04",
+  "id": "2dj0bLZmleAnuRNRzH7a04",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db23d6333c0b5fb56f9955a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db23d6333c0b5fb56f9955a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db23d6333c0b5fb56f9955a4",
+      "width": 64
+    }
+  ],
+  "label": "southernwade",
+  "name": "One More",
+  "popularity": 0,
+  "release_date": "2021-02-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2dj0bLZmleAnuRNRzH7a04/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R"
+            },
+            "href": "https://api.spotify.com/v1/artists/4AhmVfS4VIU9vQzElhRu2R",
+            "id": "4AhmVfS4VIU9vQzElhRu2R",
+            "name": "southernwade",
+            "type": "artist",
+            "uri": "spotify:artist:4AhmVfS4VIU9vQzElhRu2R"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HTnLvSyKpRgRXtiEX4bVZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0HTnLvSyKpRgRXtiEX4bVZ",
+        "id": "0HTnLvSyKpRgRXtiEX4bVZ",
+        "is_local": false,
+        "name": "One More",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0HTnLvSyKpRgRXtiEX4bVZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2dj0bLZmleAnuRNRzH7a04"
+}

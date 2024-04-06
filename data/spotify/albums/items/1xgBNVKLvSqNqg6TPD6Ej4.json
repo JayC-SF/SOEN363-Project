@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4XdBA418InPwEmrGA3iXX7"
+      },
+      "href": "https://api.spotify.com/v1/artists/4XdBA418InPwEmrGA3iXX7",
+      "id": "4XdBA418InPwEmrGA3iXX7",
+      "name": "chacee",
+      "type": "artist",
+      "uri": "spotify:artist:4XdBA418InPwEmrGA3iXX7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 chacee",
+      "type": "C"
+    },
+    {
+      "text": "2023 chacee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063373918216"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1xgBNVKLvSqNqg6TPD6Ej4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1xgBNVKLvSqNqg6TPD6Ej4",
+  "id": "1xgBNVKLvSqNqg6TPD6Ej4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736659c2ddd91eda0e502138b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026659c2ddd91eda0e502138b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516659c2ddd91eda0e502138b8",
+      "width": 64
+    }
+  ],
+  "label": "chacee",
+  "name": "East Coast",
+  "popularity": 0,
+  "release_date": "2023-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1xgBNVKLvSqNqg6TPD6Ej4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XdBA418InPwEmrGA3iXX7"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XdBA418InPwEmrGA3iXX7",
+            "id": "4XdBA418InPwEmrGA3iXX7",
+            "name": "chacee",
+            "type": "artist",
+            "uri": "spotify:artist:4XdBA418InPwEmrGA3iXX7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151045,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HtRIA5VdQ7wtMTaRPgLVK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HtRIA5VdQ7wtMTaRPgLVK",
+        "id": "3HtRIA5VdQ7wtMTaRPgLVK",
+        "is_local": false,
+        "name": "East Coast",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3HtRIA5VdQ7wtMTaRPgLVK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1xgBNVKLvSqNqg6TPD6Ej4"
+}

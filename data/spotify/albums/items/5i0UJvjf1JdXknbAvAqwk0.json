@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh"
+      },
+      "href": "https://api.spotify.com/v1/artists/04hpJHF9uqnRNDpjULw0zh",
+      "id": "04hpJHF9uqnRNDpjULw0zh",
+      "name": "Leah Turner",
+      "type": "artist",
+      "uri": "spotify:artist:04hpJHF9uqnRNDpjULw0zh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 L3 Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2020 L3 Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "713152268418"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5i0UJvjf1JdXknbAvAqwk0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5i0UJvjf1JdXknbAvAqwk0",
+  "id": "5i0UJvjf1JdXknbAvAqwk0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732088f2d73cdcccb172104e2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022088f2d73cdcccb172104e2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512088f2d73cdcccb172104e2e",
+      "width": 64
+    }
+  ],
+  "label": "Leah Turner",
+  "name": "Once Upon a Time in Mexico",
+  "popularity": 0,
+  "release_date": "2020-07-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5i0UJvjf1JdXknbAvAqwk0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh"
+            },
+            "href": "https://api.spotify.com/v1/artists/04hpJHF9uqnRNDpjULw0zh",
+            "id": "04hpJHF9uqnRNDpjULw0zh",
+            "name": "Leah Turner",
+            "type": "artist",
+            "uri": "spotify:artist:04hpJHF9uqnRNDpjULw0zh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 164715,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nftwLYuWTReDIBjXtyTq9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7nftwLYuWTReDIBjXtyTq9",
+        "id": "7nftwLYuWTReDIBjXtyTq9",
+        "is_local": false,
+        "name": "Once Upon a Time in Mexico",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7nftwLYuWTReDIBjXtyTq9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5i0UJvjf1JdXknbAvAqwk0"
+}

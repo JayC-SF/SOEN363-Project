@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2OLKbeDx8WAJfKvc4Wh3k3",
+      "id": "2OLKbeDx8WAJfKvc4Wh3k3",
+      "name": "Adieu Aru",
+      "type": "artist",
+      "uri": "spotify:artist:2OLKbeDx8WAJfKvc4Wh3k3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Adieu Aru",
+      "type": "C"
+    },
+    {
+      "text": "2022 Adieu Aru",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059950837582"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1PhJNrjqTDMcHPp7VBsla3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1PhJNrjqTDMcHPp7VBsla3",
+  "id": "1PhJNrjqTDMcHPp7VBsla3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b0030bf1c25b9657bf14ca6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026b0030bf1c25b9657bf14ca6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516b0030bf1c25b9657bf14ca6",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Release",
+  "popularity": 0,
+  "release_date": "2022-05-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1PhJNrjqTDMcHPp7VBsla3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OLKbeDx8WAJfKvc4Wh3k3",
+            "id": "2OLKbeDx8WAJfKvc4Wh3k3",
+            "name": "Adieu Aru",
+            "type": "artist",
+            "uri": "spotify:artist:2OLKbeDx8WAJfKvc4Wh3k3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XVJx3ZIHAhSsjapF263Ql",
+        "id": "3XVJx3ZIHAhSsjapF263Ql",
+        "is_local": false,
+        "name": "Release",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XVJx3ZIHAhSsjapF263Ql"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1PhJNrjqTDMcHPp7VBsla3"
+}

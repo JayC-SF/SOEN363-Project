@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qIMDyBxQpbwIJIl19Lq2w"
+      },
+      "href": "https://api.spotify.com/v1/artists/4qIMDyBxQpbwIJIl19Lq2w",
+      "id": "4qIMDyBxQpbwIJIl19Lq2w",
+      "name": "Darko Lazic",
+      "type": "artist",
+      "uri": "spotify:artist:4qIMDyBxQpbwIJIl19Lq2w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 IDJTunes",
+      "type": "C"
+    },
+    {
+      "text": "2019 IDJTunes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8600525014500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3pnSM2y2ryb2VAwKEPqp1a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3pnSM2y2ryb2VAwKEPqp1a",
+  "id": "3pnSM2y2ryb2VAwKEPqp1a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e199482a9bbd8818e1fb1049",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e199482a9bbd8818e1fb1049",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e199482a9bbd8818e1fb1049",
+      "width": 64
+    }
+  ],
+  "label": "IDJTunes",
+  "name": "Majko",
+  "popularity": 0,
+  "release_date": "2019-03-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3pnSM2y2ryb2VAwKEPqp1a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qIMDyBxQpbwIJIl19Lq2w"
+            },
+            "href": "https://api.spotify.com/v1/artists/4qIMDyBxQpbwIJIl19Lq2w",
+            "id": "4qIMDyBxQpbwIJIl19Lq2w",
+            "name": "Darko Lazic",
+            "type": "artist",
+            "uri": "spotify:artist:4qIMDyBxQpbwIJIl19Lq2w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224276,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Telts1bK5FEkHaMGrzCBE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Telts1bK5FEkHaMGrzCBE",
+        "id": "4Telts1bK5FEkHaMGrzCBE",
+        "is_local": false,
+        "name": "Majko",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Telts1bK5FEkHaMGrzCBE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3pnSM2y2ryb2VAwKEPqp1a"
+}

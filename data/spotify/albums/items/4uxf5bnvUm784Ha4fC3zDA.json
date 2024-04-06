@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YwqjMyrRfuixi2pbgTGCE",
+      "id": "3YwqjMyrRfuixi2pbgTGCE",
+      "name": "Heuss L'enfoir\u00e9",
+      "type": "artist",
+      "uri": "spotify:artist:3YwqjMyrRfuixi2pbgTGCE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Midi Midi Production/150 Prod",
+      "type": "C"
+    },
+    {
+      "text": "2018 Midi Midi Production/150 Prod",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615936738711"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4uxf5bnvUm784Ha4fC3zDA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4uxf5bnvUm784Ha4fC3zDA",
+  "id": "4uxf5bnvUm784Ha4fC3zDA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c1926509e406a100af90ade0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c1926509e406a100af90ade0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c1926509e406a100af90ade0",
+      "width": 64
+    }
+  ],
+  "label": "AllPoints",
+  "name": "George moula",
+  "popularity": 0,
+  "release_date": "2019-01-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4uxf5bnvUm784Ha4fC3zDA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YwqjMyrRfuixi2pbgTGCE",
+            "id": "3YwqjMyrRfuixi2pbgTGCE",
+            "name": "Heuss L'enfoir\u00e9",
+            "type": "artist",
+            "uri": "spotify:artist:3YwqjMyrRfuixi2pbgTGCE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1q7T9rFQ2a2ukA1PU51fo3",
+            "id": "1q7T9rFQ2a2ukA1PU51fo3",
+            "name": "Koba LaD",
+            "type": "artist",
+            "uri": "spotify:artist:1q7T9rFQ2a2ukA1PU51fo3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 140213,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17RmvdhJ5NmpiVpBEsusy6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17RmvdhJ5NmpiVpBEsusy6",
+        "id": "17RmvdhJ5NmpiVpBEsusy6",
+        "is_local": false,
+        "name": "George moula",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:17RmvdhJ5NmpiVpBEsusy6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4uxf5bnvUm784Ha4fC3zDA"
+}

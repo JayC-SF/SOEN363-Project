@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+      "id": "5FKchcZpQOkqFvXBj1aCvb",
+      "name": "Excision",
+      "type": "artist",
+      "uri": "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+      },
+      "href": "https://api.spotify.com/v1/artists/37PZXblQTqpEWGdjctNcGP",
+      "id": "37PZXblQTqpEWGdjctNcGP",
+      "name": "Space Laces",
+      "type": "artist",
+      "uri": "spotify:artist:37PZXblQTqpEWGdjctNcGP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Destroid Music under exclusive license to AEI Music",
+      "type": "C"
+    },
+    {
+      "text": "2013 Destroid Music under exclusive license to AEI Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199508696"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1AFeIQ10MvhrwRKAooZU2N"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1AFeIQ10MvhrwRKAooZU2N",
+  "id": "1AFeIQ10MvhrwRKAooZU2N",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e80b05ef382a38c863f556e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e80b05ef382a38c863f556e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519e80b05ef382a38c863f556e",
+      "width": 64
+    }
+  ],
+  "label": "Destroid Music",
+  "name": "Get Stupid",
+  "popularity": 0,
+  "release_date": "2013-11-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1AFeIQ10MvhrwRKAooZU2N/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+            "id": "5FKchcZpQOkqFvXBj1aCvb",
+            "name": "Excision",
+            "type": "artist",
+            "uri": "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+            },
+            "href": "https://api.spotify.com/v1/artists/37PZXblQTqpEWGdjctNcGP",
+            "id": "37PZXblQTqpEWGdjctNcGP",
+            "name": "Space Laces",
+            "type": "artist",
+            "uri": "spotify:artist:37PZXblQTqpEWGdjctNcGP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 246976,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7MecMQauMM4F9jTYtPAows"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7MecMQauMM4F9jTYtPAows",
+        "id": "7MecMQauMM4F9jTYtPAows",
+        "is_local": false,
+        "name": "Destroid 11 Get Stupid",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7MecMQauMM4F9jTYtPAows"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1AFeIQ10MvhrwRKAooZU2N"
+}

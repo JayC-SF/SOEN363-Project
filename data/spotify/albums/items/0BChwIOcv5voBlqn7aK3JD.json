@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+      },
+      "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+      "id": "7kAZYW5e5hQHYGQ0XHYhns",
+      "name": "Mustard Service",
+      "type": "artist",
+      "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Zest Pop Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Zest Pop Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194871771210"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0BChwIOcv5voBlqn7aK3JD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0BChwIOcv5voBlqn7aK3JD",
+  "id": "0BChwIOcv5voBlqn7aK3JD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273078aabc8f28e487ee2431315",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02078aabc8f28e487ee2431315",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851078aabc8f28e487ee2431315",
+      "width": 64
+    }
+  ],
+  "label": "Zest Pop Records",
+  "name": "Need",
+  "popularity": 0,
+  "release_date": "2019-11-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0BChwIOcv5voBlqn7aK3JD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+            "id": "7kAZYW5e5hQHYGQ0XHYhns",
+            "name": "Mustard Service",
+            "type": "artist",
+            "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206768,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47m5Xj14v3efVQrNljQzYg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47m5Xj14v3efVQrNljQzYg",
+        "id": "47m5Xj14v3efVQrNljQzYg",
+        "is_local": false,
+        "name": "Need",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:47m5Xj14v3efVQrNljQzYg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0BChwIOcv5voBlqn7aK3JD"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+      },
+      "href": "https://api.spotify.com/v1/artists/521Yl3LUvD7G9dMRO4fpCy",
+      "id": "521Yl3LUvD7G9dMRO4fpCy",
+      "name": "Korpiklaani",
+      "type": "artist",
+      "uri": "spotify:artist:521Yl3LUvD7G9dMRO4fpCy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Nuclear Blast",
+      "type": "C"
+    },
+    {
+      "text": "2016 Nuclear Blast",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "727361387365"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2smLaU6K4jpVqkJX6cjU9i"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2smLaU6K4jpVqkJX6cjU9i",
+  "id": "2smLaU6K4jpVqkJX6cjU9i",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ead966e1ddffe46bbb83524b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ead966e1ddffe46bbb83524b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ead966e1ddffe46bbb83524b",
+      "width": 64
+    }
+  ],
+  "label": "Nuclear Blast",
+  "name": "A Man with a Plan",
+  "popularity": 0,
+  "release_date": "2016-10-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2smLaU6K4jpVqkJX6cjU9i/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+            },
+            "href": "https://api.spotify.com/v1/artists/521Yl3LUvD7G9dMRO4fpCy",
+            "id": "521Yl3LUvD7G9dMRO4fpCy",
+            "name": "Korpiklaani",
+            "type": "artist",
+            "uri": "spotify:artist:521Yl3LUvD7G9dMRO4fpCy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179820,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vSNaRcbwG04syJdiDeNat"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5vSNaRcbwG04syJdiDeNat",
+        "id": "5vSNaRcbwG04syJdiDeNat",
+        "is_local": false,
+        "name": "A Man with a Plan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5vSNaRcbwG04syJdiDeNat"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2smLaU6K4jpVqkJX6cjU9i"
+}

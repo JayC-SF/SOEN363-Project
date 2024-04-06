@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fENlrINIVP0gJOtKxvORt",
+      "id": "5fENlrINIVP0gJOtKxvORt",
+      "name": "Call Me Karizma",
+      "type": "artist",
+      "uri": "spotify:artist:5fENlrINIVP0gJOtKxvORt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Call Me Karizma",
+      "type": "C"
+    },
+    {
+      "text": "2018 Call Me Karizma",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "855230008025"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/20YjYASaKy9VUAvB7ltf03"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/20YjYASaKy9VUAvB7ltf03",
+  "id": "20YjYASaKy9VUAvB7ltf03",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5ed4bbd4e725b2a674924d2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5ed4bbd4e725b2a674924d2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5ed4bbd4e725b2a674924d2",
+      "width": 64
+    }
+  ],
+  "label": "Call Me Karizma",
+  "name": "Rockstar",
+  "popularity": 38,
+  "release_date": "2018-04-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/20YjYASaKy9VUAvB7ltf03/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fENlrINIVP0gJOtKxvORt",
+            "id": "5fENlrINIVP0gJOtKxvORt",
+            "name": "Call Me Karizma",
+            "type": "artist",
+            "uri": "spotify:artist:5fENlrINIVP0gJOtKxvORt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 184285,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z1pAncHr1Y9hf3Cu3G0iR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Z1pAncHr1Y9hf3Cu3G0iR",
+        "id": "0Z1pAncHr1Y9hf3Cu3G0iR",
+        "is_local": false,
+        "name": "Rockstar",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Z1pAncHr1Y9hf3Cu3G0iR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:20YjYASaKy9VUAvB7ltf03"
+}

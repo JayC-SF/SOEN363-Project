@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5S5jGEkiJMWHt6XYasZOLJ",
+      "id": "5S5jGEkiJMWHt6XYasZOLJ",
+      "name": "Chambord",
+      "type": "artist",
+      "uri": "spotify:artist:5S5jGEkiJMWHt6XYasZOLJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 ABRACADABRA",
+      "type": "C"
+    },
+    {
+      "text": "2020 ABRACADABRA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060731224132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/44IIrExEZ2FROFH2d9m500"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/44IIrExEZ2FROFH2d9m500",
+  "id": "44IIrExEZ2FROFH2d9m500",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab811c348a78a3e434038f27",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab811c348a78a3e434038f27",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab811c348a78a3e434038f27",
+      "width": 64
+    }
+  ],
+  "label": "ABRACADABRA Music",
+  "name": "Mamentia",
+  "popularity": 0,
+  "release_date": "2020-02-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/44IIrExEZ2FROFH2d9m500/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5S5jGEkiJMWHt6XYasZOLJ",
+            "id": "5S5jGEkiJMWHt6XYasZOLJ",
+            "name": "Chambord",
+            "type": "artist",
+            "uri": "spotify:artist:5S5jGEkiJMWHt6XYasZOLJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 444396,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rTQ8bW4w8R5SZITv37C2W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rTQ8bW4w8R5SZITv37C2W",
+        "id": "0rTQ8bW4w8R5SZITv37C2W",
+        "is_local": false,
+        "name": "Mamentia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0rTQ8bW4w8R5SZITv37C2W"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5S5jGEkiJMWHt6XYasZOLJ",
+            "id": "5S5jGEkiJMWHt6XYasZOLJ",
+            "name": "Chambord",
+            "type": "artist",
+            "uri": "spotify:artist:5S5jGEkiJMWHt6XYasZOLJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 420899,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/782nSHiAGt4LAFNO2yyxR9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/782nSHiAGt4LAFNO2yyxR9",
+        "id": "782nSHiAGt4LAFNO2yyxR9",
+        "is_local": false,
+        "name": "Voices From Bengalore",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:782nSHiAGt4LAFNO2yyxR9"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:44IIrExEZ2FROFH2d9m500"
+}

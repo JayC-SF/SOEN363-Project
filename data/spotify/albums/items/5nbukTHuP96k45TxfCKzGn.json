@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+      },
+      "href": "https://api.spotify.com/v1/artists/1IgFh9pBdbDBFgaSn91oul",
+      "id": "1IgFh9pBdbDBFgaSn91oul",
+      "name": "Mozart Louis",
+      "type": "artist",
+      "uri": "spotify:artist:1IgFh9pBdbDBFgaSn91oul"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 MADEBYMOZART Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 MADEBYMOZART Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197510402322"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5nbukTHuP96k45TxfCKzGn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5nbukTHuP96k45TxfCKzGn",
+  "id": "5nbukTHuP96k45TxfCKzGn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736aa2ef73a5e402e7601de3f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026aa2ef73a5e402e7601de3f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516aa2ef73a5e402e7601de3f5",
+      "width": 64
+    }
+  ],
+  "label": "MADEBYMOZART Records",
+  "name": "Truth Zouk",
+  "popularity": 0,
+  "release_date": "2017-12-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5nbukTHuP96k45TxfCKzGn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+            },
+            "href": "https://api.spotify.com/v1/artists/1IgFh9pBdbDBFgaSn91oul",
+            "id": "1IgFh9pBdbDBFgaSn91oul",
+            "name": "Mozart Louis",
+            "type": "artist",
+            "uri": "spotify:artist:1IgFh9pBdbDBFgaSn91oul"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210731,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KcCYe0rxVlfdEQD2INJ1S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KcCYe0rxVlfdEQD2INJ1S",
+        "id": "1KcCYe0rxVlfdEQD2INJ1S",
+        "is_local": false,
+        "name": "Truth Zouk",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1KcCYe0rxVlfdEQD2INJ1S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5nbukTHuP96k45TxfCKzGn"
+}

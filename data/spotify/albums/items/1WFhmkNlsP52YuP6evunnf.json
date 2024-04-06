@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+      },
+      "href": "https://api.spotify.com/v1/artists/0MlQeZCQnaFSGv9gRiE1rD",
+      "id": "0MlQeZCQnaFSGv9gRiE1rD",
+      "name": "STRANGEHUMAN",
+      "type": "artist",
+      "uri": "spotify:artist:0MlQeZCQnaFSGv9gRiE1rD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Anthony Sly",
+      "type": "C"
+    },
+    {
+      "text": "2020 Altura Estudios",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162022200"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1WFhmkNlsP52YuP6evunnf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1WFhmkNlsP52YuP6evunnf",
+  "id": "1WFhmkNlsP52YuP6evunnf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389326a43967d980d98e0495e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289326a43967d980d98e0495e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189326a43967d980d98e0495e",
+      "width": 64
+    }
+  ],
+  "label": "Altura Estudio",
+  "name": "Girl",
+  "popularity": 0,
+  "release_date": "2020-02-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1WFhmkNlsP52YuP6evunnf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+            },
+            "href": "https://api.spotify.com/v1/artists/0MlQeZCQnaFSGv9gRiE1rD",
+            "id": "0MlQeZCQnaFSGv9gRiE1rD",
+            "name": "STRANGEHUMAN",
+            "type": "artist",
+            "uri": "spotify:artist:0MlQeZCQnaFSGv9gRiE1rD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UHLOiuxgOXlIjPg36cILv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6UHLOiuxgOXlIjPg36cILv",
+        "id": "6UHLOiuxgOXlIjPg36cILv",
+        "is_local": false,
+        "name": "Girl",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6UHLOiuxgOXlIjPg36cILv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1WFhmkNlsP52YuP6evunnf"
+}

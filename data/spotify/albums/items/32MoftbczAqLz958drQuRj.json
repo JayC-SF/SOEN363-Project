@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bXAdkbZVZOIBnPEQ8hAkO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3bXAdkbZVZOIBnPEQ8hAkO",
+      "id": "3bXAdkbZVZOIBnPEQ8hAkO",
+      "name": "Da Edge",
+      "type": "artist",
+      "uri": "spotify:artist:3bXAdkbZVZOIBnPEQ8hAkO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2001 Next Generation",
+      "type": "C"
+    },
+    {
+      "text": "2001 Next Generation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653005678"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/32MoftbczAqLz958drQuRj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/32MoftbczAqLz958drQuRj",
+  "id": "32MoftbczAqLz958drQuRj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27371a3461bb5dc617cba47103a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0271a3461bb5dc617cba47103a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485171a3461bb5dc617cba47103a",
+      "width": 64
+    }
+  ],
+  "label": "Blatant Beats",
+  "name": "Not Alone / I Believe",
+  "popularity": 0,
+  "release_date": "2001-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/32MoftbczAqLz958drQuRj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bXAdkbZVZOIBnPEQ8hAkO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bXAdkbZVZOIBnPEQ8hAkO",
+            "id": "3bXAdkbZVZOIBnPEQ8hAkO",
+            "name": "Da Edge",
+            "type": "artist",
+            "uri": "spotify:artist:3bXAdkbZVZOIBnPEQ8hAkO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 401735,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xVktMp2cdR0zui7DewR5a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xVktMp2cdR0zui7DewR5a",
+        "id": "1xVktMp2cdR0zui7DewR5a",
+        "is_local": false,
+        "name": "Not Alone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1xVktMp2cdR0zui7DewR5a"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bXAdkbZVZOIBnPEQ8hAkO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3bXAdkbZVZOIBnPEQ8hAkO",
+            "id": "3bXAdkbZVZOIBnPEQ8hAkO",
+            "name": "Da Edge",
+            "type": "artist",
+            "uri": "spotify:artist:3bXAdkbZVZOIBnPEQ8hAkO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 383076,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EWuOTOdozGIwYnUHVOQoA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EWuOTOdozGIwYnUHVOQoA",
+        "id": "1EWuOTOdozGIwYnUHVOQoA",
+        "is_local": false,
+        "name": "I Believe",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1EWuOTOdozGIwYnUHVOQoA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:32MoftbczAqLz958drQuRj"
+}

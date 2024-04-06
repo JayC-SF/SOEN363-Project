@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+      },
+      "href": "https://api.spotify.com/v1/artists/74cb3MG0x0BOnYNW1uXYnM",
+      "id": "74cb3MG0x0BOnYNW1uXYnM",
+      "name": "Hillsong UNITED",
+      "type": "artist",
+      "uri": "spotify:artist:74cb3MG0x0BOnYNW1uXYnM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+      },
+      "href": "https://api.spotify.com/v1/artists/6CK4CBL0n07VdVZmfh40nm",
+      "id": "6CK4CBL0n07VdVZmfh40nm",
+      "name": "Benjamin William Hastings",
+      "type": "artist",
+      "uri": "spotify:artist:6CK4CBL0n07VdVZmfh40nm"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Hillsong Music & Resources LLC, under exclusive license to Capitol CMG, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Hillsong Music & Resources LLC, under exclusive license to Capitol CMG, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602438406937"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rTs1PbPBCoKPC7PWklo5H",
+  "id": "1rTs1PbPBCoKPC7PWklo5H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273825182bc1e411a7a58a63f7c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02825182bc1e411a7a58a63f7c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851825182bc1e411a7a58a63f7c",
+      "width": 64
+    }
+  ],
+  "label": "Hillsong (HIL)",
+  "name": "Know You Will",
+  "popularity": 38,
+  "release_date": "2021-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rTs1PbPBCoKPC7PWklo5H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+            },
+            "href": "https://api.spotify.com/v1/artists/74cb3MG0x0BOnYNW1uXYnM",
+            "id": "74cb3MG0x0BOnYNW1uXYnM",
+            "name": "Hillsong UNITED",
+            "type": "artist",
+            "uri": "spotify:artist:74cb3MG0x0BOnYNW1uXYnM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+            },
+            "href": "https://api.spotify.com/v1/artists/6CK4CBL0n07VdVZmfh40nm",
+            "id": "6CK4CBL0n07VdVZmfh40nm",
+            "name": "Benjamin William Hastings",
+            "type": "artist",
+            "uri": "spotify:artist:6CK4CBL0n07VdVZmfh40nm"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217510,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/758pVpyAPaFWlZQAoB0UYt",
+        "id": "758pVpyAPaFWlZQAoB0UYt",
+        "is_local": false,
+        "name": "Know You Will",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:758pVpyAPaFWlZQAoB0UYt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1rTs1PbPBCoKPC7PWklo5H"
+}

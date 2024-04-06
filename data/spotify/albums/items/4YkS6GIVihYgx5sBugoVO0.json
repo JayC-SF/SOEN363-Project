@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+      },
+      "href": "https://api.spotify.com/v1/artists/10VBp06W8NIgMW4JruLCC4",
+      "id": "10VBp06W8NIgMW4JruLCC4",
+      "name": "Kidd Voodoo",
+      "type": "artist",
+      "uri": "spotify:artist:10VBp06W8NIgMW4JruLCC4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Kidd Voodoo",
+      "type": "C"
+    },
+    {
+      "text": "2022 Kidd Voodoo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "747256957657"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4YkS6GIVihYgx5sBugoVO0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4YkS6GIVihYgx5sBugoVO0",
+  "id": "4YkS6GIVihYgx5sBugoVO0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738602e881eb2afbe5dbb605ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028602e881eb2afbe5dbb605ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518602e881eb2afbe5dbb605ad",
+      "width": 64
+    }
+  ],
+  "label": "Kidd Voodoo",
+  "name": "Pantera",
+  "popularity": 42,
+  "release_date": "2022-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4YkS6GIVihYgx5sBugoVO0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+            },
+            "href": "https://api.spotify.com/v1/artists/10VBp06W8NIgMW4JruLCC4",
+            "id": "10VBp06W8NIgMW4JruLCC4",
+            "name": "Kidd Voodoo",
+            "type": "artist",
+            "uri": "spotify:artist:10VBp06W8NIgMW4JruLCC4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163695,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kx5CEkibdQrPHihzFGul3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kx5CEkibdQrPHihzFGul3",
+        "id": "7kx5CEkibdQrPHihzFGul3",
+        "is_local": false,
+        "name": "Pantera",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7kx5CEkibdQrPHihzFGul3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4YkS6GIVihYgx5sBugoVO0"
+}

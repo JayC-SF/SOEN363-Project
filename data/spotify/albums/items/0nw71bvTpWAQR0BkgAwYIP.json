@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446436937"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0nw71bvTpWAQR0BkgAwYIP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0nw71bvTpWAQR0BkgAwYIP",
+  "id": "0nw71bvTpWAQR0BkgAwYIP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731175f53b11a2efc5e33700c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021175f53b11a2efc5e33700c4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511175f53b11a2efc5e33700c4",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "Privacy",
+  "popularity": 0,
+  "release_date": "2017-03-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0nw71bvTpWAQR0BkgAwYIP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 220963,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Vf2Pflg5rTWSvSCK4qq4A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Vf2Pflg5rTWSvSCK4qq4A",
+        "id": "2Vf2Pflg5rTWSvSCK4qq4A",
+        "is_local": false,
+        "name": "Privacy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Vf2Pflg5rTWSvSCK4qq4A"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0nw71bvTpWAQR0BkgAwYIP"
+}

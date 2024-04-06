@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+      },
+      "href": "https://api.spotify.com/v1/artists/38SKxCyfrmNWqWunb9wGHP",
+      "id": "38SKxCyfrmNWqWunb9wGHP",
+      "name": "Good Kid",
+      "type": "artist",
+      "uri": "spotify:artist:38SKxCyfrmNWqWunb9wGHP"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Good People Record Co.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Good People Record Co.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197187592883"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6U9P30WxFWEtOmj4gfZu8Y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6U9P30WxFWEtOmj4gfZu8Y",
+  "id": "6U9P30WxFWEtOmj4gfZu8Y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc969ece7fc1926204ae180d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc969ece7fc1926204ae180d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc969ece7fc1926204ae180d",
+      "width": 64
+    }
+  ],
+  "label": "Good People Record Co.",
+  "name": "First Rate Town",
+  "popularity": 30,
+  "release_date": "2023-01-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6U9P30WxFWEtOmj4gfZu8Y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+            },
+            "href": "https://api.spotify.com/v1/artists/38SKxCyfrmNWqWunb9wGHP",
+            "id": "38SKxCyfrmNWqWunb9wGHP",
+            "name": "Good Kid",
+            "type": "artist",
+            "uri": "spotify:artist:38SKxCyfrmNWqWunb9wGHP"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 122647,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vN1ik0pHkmZRosF9Op0rc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7vN1ik0pHkmZRosF9Op0rc",
+        "id": "7vN1ik0pHkmZRosF9Op0rc",
+        "is_local": false,
+        "name": "First Rate Town",
+        "preview_url": "https://p.scdn.co/mp3-preview/e1d7aa94702c3343eafd21c956c14d7496eef5cc?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7vN1ik0pHkmZRosF9Op0rc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6U9P30WxFWEtOmj4gfZu8Y"
+}

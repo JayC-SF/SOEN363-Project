@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+      },
+      "href": "https://api.spotify.com/v1/artists/29O9ZebFa65aIEvMaW5pQY",
+      "id": "29O9ZebFa65aIEvMaW5pQY",
+      "name": "Snail's House",
+      "type": "artist",
+      "uri": "spotify:artist:29O9ZebFa65aIEvMaW5pQY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CW3aaY5gtWFStE6Vj6ZHI",
+      "id": "0CW3aaY5gtWFStE6Vj6ZHI",
+      "name": "dark cat",
+      "type": "artist",
+      "uri": "spotify:artist:0CW3aaY5gtWFStE6Vj6ZHI"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2022 Cachettenotes.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 Cachettenotes.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859757846009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6W2czzcXMFoytbi1glvvuX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6W2czzcXMFoytbi1glvvuX",
+  "id": "6W2czzcXMFoytbi1glvvuX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e05fef052c77a3ec01ac96be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e05fef052c77a3ec01ac96be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e05fef052c77a3ec01ac96be",
+      "width": 64
+    }
+  ],
+  "label": "Cachettenotes.",
+  "name": "DREAMY BEACH",
+  "popularity": 9,
+  "release_date": "2022-01-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6W2czzcXMFoytbi1glvvuX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/29O9ZebFa65aIEvMaW5pQY",
+            "id": "29O9ZebFa65aIEvMaW5pQY",
+            "name": "Snail's House",
+            "type": "artist",
+            "uri": "spotify:artist:29O9ZebFa65aIEvMaW5pQY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CW3aaY5gtWFStE6Vj6ZHI",
+            "id": "0CW3aaY5gtWFStE6Vj6ZHI",
+            "name": "dark cat",
+            "type": "artist",
+            "uri": "spotify:artist:0CW3aaY5gtWFStE6Vj6ZHI"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 184951,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iRV0RsjSVFtfYSY4etJJ3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iRV0RsjSVFtfYSY4etJJ3",
+        "id": "2iRV0RsjSVFtfYSY4etJJ3",
+        "is_local": false,
+        "name": "DREAMY BEACH",
+        "preview_url": "https://p.scdn.co/mp3-preview/5d0129b021a24cfaca152ad80a8855f5dd948648?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2iRV0RsjSVFtfYSY4etJJ3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6W2czzcXMFoytbi1glvvuX"
+}

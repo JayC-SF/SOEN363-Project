@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+      },
+      "href": "https://api.spotify.com/v1/artists/5schXx0Ys4N52iU7On2j4c",
+      "id": "5schXx0Ys4N52iU7On2j4c",
+      "name": "Made in M",
+      "type": "artist",
+      "uri": "spotify:artist:5schXx0Ys4N52iU7On2j4c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Guayaba Records",
+      "type": "C"
+    },
+    {
+      "text": "2017 Guayaba Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859741492618"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6XJBROa6p0sfI0p9inVRjm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6XJBROa6p0sfI0p9inVRjm",
+  "id": "6XJBROa6p0sfI0p9inVRjm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737ae316922400900ffb30e7dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027ae316922400900ffb30e7dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517ae316922400900ffb30e7dd",
+      "width": 64
+    }
+  ],
+  "label": "Guayaba Records",
+  "name": "Pero Asi",
+  "popularity": 0,
+  "release_date": "2017-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6XJBROa6p0sfI0p9inVRjm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5schXx0Ys4N52iU7On2j4c",
+            "id": "5schXx0Ys4N52iU7On2j4c",
+            "name": "Made in M",
+            "type": "artist",
+            "uri": "spotify:artist:5schXx0Ys4N52iU7On2j4c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114458,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XL478rzVDOu6IzAAF0d4q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XL478rzVDOu6IzAAF0d4q",
+        "id": "3XL478rzVDOu6IzAAF0d4q",
+        "is_local": false,
+        "name": "Pero Asi",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3XL478rzVDOu6IzAAF0d4q"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6XJBROa6p0sfI0p9inVRjm"
+}

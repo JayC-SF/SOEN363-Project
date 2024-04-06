@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BrODiiMVMyZul2wGMemTR"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BrODiiMVMyZul2wGMemTR",
+      "id": "4BrODiiMVMyZul2wGMemTR",
+      "name": "fwsatoru",
+      "type": "artist",
+      "uri": "spotify:artist:4BrODiiMVMyZul2wGMemTR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4834592 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4834592 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197547787225"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0DDxH3W4pMrHWwXA5yXeaU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0DDxH3W4pMrHWwXA5yXeaU",
+  "id": "0DDxH3W4pMrHWwXA5yXeaU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f44b0194588958e5b5adfc8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f44b0194588958e5b5adfc8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f44b0194588958e5b5adfc8",
+      "width": 64
+    }
+  ],
+  "label": "4834592 Records DK",
+  "name": "the old me would've done it in a heartbeat.",
+  "popularity": 0,
+  "release_date": "2023-01-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0DDxH3W4pMrHWwXA5yXeaU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BrODiiMVMyZul2wGMemTR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BrODiiMVMyZul2wGMemTR",
+            "id": "4BrODiiMVMyZul2wGMemTR",
+            "name": "fwsatoru",
+            "type": "artist",
+            "uri": "spotify:artist:4BrODiiMVMyZul2wGMemTR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 127869,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HCaNW5eA5rWOvsNotBxuJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4HCaNW5eA5rWOvsNotBxuJ",
+        "id": "4HCaNW5eA5rWOvsNotBxuJ",
+        "is_local": false,
+        "name": "the old me would've done it in a heartbeat.",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4HCaNW5eA5rWOvsNotBxuJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0DDxH3W4pMrHWwXA5yXeaU"
+}

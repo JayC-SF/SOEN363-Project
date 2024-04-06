@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+      },
+      "href": "https://api.spotify.com/v1/artists/4u6yL1tRulnmL5LimC64x1",
+      "id": "4u6yL1tRulnmL5LimC64x1",
+      "name": "Cut Off",
+      "type": "artist",
+      "uri": "spotify:artist:4u6yL1tRulnmL5LimC64x1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Ace Kings",
+      "type": "C"
+    },
+    {
+      "text": "2019 Ace Kings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193872428574"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/13z4q3JKoF3p7oySSH7nb8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/13z4q3JKoF3p7oySSH7nb8",
+  "id": "13z4q3JKoF3p7oySSH7nb8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f901a33aa2bfd8e4a3c1fe8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f901a33aa2bfd8e4a3c1fe8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f901a33aa2bfd8e4a3c1fe8f",
+      "width": 64
+    }
+  ],
+  "label": "Ace Kings",
+  "name": "Lonely",
+  "popularity": 12,
+  "release_date": "2019-06-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/13z4q3JKoF3p7oySSH7nb8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+            },
+            "href": "https://api.spotify.com/v1/artists/4u6yL1tRulnmL5LimC64x1",
+            "id": "4u6yL1tRulnmL5LimC64x1",
+            "name": "Cut Off",
+            "type": "artist",
+            "uri": "spotify:artist:4u6yL1tRulnmL5LimC64x1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 282857,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30hKEQLgr25oI91btWLvCi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30hKEQLgr25oI91btWLvCi",
+        "id": "30hKEQLgr25oI91btWLvCi",
+        "is_local": false,
+        "name": "Lonely",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:30hKEQLgr25oI91btWLvCi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:13z4q3JKoF3p7oySSH7nb8"
+}

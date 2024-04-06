@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PANUPmT5KUDGs3Xgkhw3T",
+      "id": "1PANUPmT5KUDGs3Xgkhw3T",
+      "name": "Martinwhite",
+      "type": "artist",
+      "uri": "spotify:artist:1PANUPmT5KUDGs3Xgkhw3T"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Martinwhite",
+      "type": "C"
+    },
+    {
+      "text": "2022 Martinwhite",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "692531615305"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1NYH6nfQS1yuB2PHEHIgtz",
+  "id": "1NYH6nfQS1yuB2PHEHIgtz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9de56e1b28e0ee1db49a53e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9de56e1b28e0ee1db49a53e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9de56e1b28e0ee1db49a53e",
+      "width": 64
+    }
+  ],
+  "label": "Martinwhite",
+  "name": "V16",
+  "popularity": 0,
+  "release_date": "2022-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1NYH6nfQS1yuB2PHEHIgtz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PANUPmT5KUDGs3Xgkhw3T",
+            "id": "1PANUPmT5KUDGs3Xgkhw3T",
+            "name": "Martinwhite",
+            "type": "artist",
+            "uri": "spotify:artist:1PANUPmT5KUDGs3Xgkhw3T"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 119106,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FwZHWFat13A1XookoEtI3",
+        "id": "1FwZHWFat13A1XookoEtI3",
+        "is_local": false,
+        "name": "V16",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1FwZHWFat13A1XookoEtI3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1NYH6nfQS1yuB2PHEHIgtz"
+}

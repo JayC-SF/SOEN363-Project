@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+      },
+      "href": "https://api.spotify.com/v1/artists/1BqIPGrEhdjdLFpUzce2dh",
+      "id": "1BqIPGrEhdjdLFpUzce2dh",
+      "name": "Durante",
+      "type": "artist",
+      "uri": "spotify:artist:1BqIPGrEhdjdLFpUzce2dh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 OPENERS",
+      "type": "C"
+    },
+    {
+      "text": "2019 OPENERS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810762038247"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Dixdn4V9W9XfKZivGKaP5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Dixdn4V9W9XfKZivGKaP5",
+  "id": "1Dixdn4V9W9XfKZivGKaP5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273023f60a82c5038fdcda47fa9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02023f60a82c5038fdcda47fa9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851023f60a82c5038fdcda47fa9",
+      "width": 64
+    }
+  ],
+  "label": "OPENERS",
+  "name": "Maia",
+  "popularity": 0,
+  "release_date": "2019-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Dixdn4V9W9XfKZivGKaP5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1BqIPGrEhdjdLFpUzce2dh",
+            "id": "1BqIPGrEhdjdLFpUzce2dh",
+            "name": "Durante",
+            "type": "artist",
+            "uri": "spotify:artist:1BqIPGrEhdjdLFpUzce2dh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 312069,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ly2df2rqqeSvzC5C2j8wt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ly2df2rqqeSvzC5C2j8wt",
+        "id": "2ly2df2rqqeSvzC5C2j8wt",
+        "is_local": false,
+        "name": "Maia",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ly2df2rqqeSvzC5C2j8wt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Dixdn4V9W9XfKZivGKaP5"
+}

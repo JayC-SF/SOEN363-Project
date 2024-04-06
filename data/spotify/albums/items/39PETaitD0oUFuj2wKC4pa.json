@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+      },
+      "href": "https://api.spotify.com/v1/artists/15iVAtD3s3FsQR4w1v6M0P",
+      "id": "15iVAtD3s3FsQR4w1v6M0P",
+      "name": "Chief Keef",
+      "type": "artist",
+      "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Glo Gang / RBC Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Glo Gang / RBC Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538605747"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/39PETaitD0oUFuj2wKC4pa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/39PETaitD0oUFuj2wKC4pa",
+  "id": "39PETaitD0oUFuj2wKC4pa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735146b1c469be56e44bcb18bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025146b1c469be56e44bcb18bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515146b1c469be56e44bcb18bf",
+      "width": 64
+    }
+  ],
+  "label": "RBC Records",
+  "name": "Faneto",
+  "popularity": 0,
+  "release_date": "2020-02-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/39PETaitD0oUFuj2wKC4pa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+            },
+            "href": "https://api.spotify.com/v1/artists/15iVAtD3s3FsQR4w1v6M0P",
+            "id": "15iVAtD3s3FsQR4w1v6M0P",
+            "name": "Chief Keef",
+            "type": "artist",
+            "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206654,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Jx0msM1tdijgXDLA8MVrt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Jx0msM1tdijgXDLA8MVrt",
+        "id": "6Jx0msM1tdijgXDLA8MVrt",
+        "is_local": false,
+        "name": "Faneto",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Jx0msM1tdijgXDLA8MVrt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:39PETaitD0oUFuj2wKC4pa"
+}

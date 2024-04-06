@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+      },
+      "href": "https://api.spotify.com/v1/artists/6rniTPs9zN26kYnkPdFl1U",
+      "id": "6rniTPs9zN26kYnkPdFl1U",
+      "name": "Sir Chloe",
+      "type": "artist",
+      "uri": "spotify:artist:6rniTPs9zN26kYnkPdFl1U"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 SIR Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 SIR Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193829463481"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/43drmhzXljHHqPaOPwPZMF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/43drmhzXljHHqPaOPwPZMF",
+  "id": "43drmhzXljHHqPaOPwPZMF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354265930cb69973399439d55",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254265930cb69973399439d55",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154265930cb69973399439d55",
+      "width": 64
+    }
+  ],
+  "label": "SIR Records",
+  "name": "Animal",
+  "popularity": 0,
+  "release_date": "2019-02-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/43drmhzXljHHqPaOPwPZMF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+            },
+            "href": "https://api.spotify.com/v1/artists/6rniTPs9zN26kYnkPdFl1U",
+            "id": "6rniTPs9zN26kYnkPdFl1U",
+            "name": "Sir Chloe",
+            "type": "artist",
+            "uri": "spotify:artist:6rniTPs9zN26kYnkPdFl1U"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160518,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YpI4sWbjUhVPdlpwYwCO6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YpI4sWbjUhVPdlpwYwCO6",
+        "id": "6YpI4sWbjUhVPdlpwYwCO6",
+        "is_local": false,
+        "name": "Animal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6YpI4sWbjUhVPdlpwYwCO6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:43drmhzXljHHqPaOPwPZMF"
+}

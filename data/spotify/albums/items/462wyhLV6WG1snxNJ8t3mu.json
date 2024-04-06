@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2JoFDMfRpSCbfeSCm1qdEy"
+      },
+      "href": "https://api.spotify.com/v1/artists/2JoFDMfRpSCbfeSCm1qdEy",
+      "id": "2JoFDMfRpSCbfeSCm1qdEy",
+      "name": "Val Texas",
+      "type": "artist",
+      "uri": "spotify:artist:2JoFDMfRpSCbfeSCm1qdEy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 PLATFORM CULTURE",
+      "type": "C"
+    },
+    {
+      "text": "2023 PLATFORM CULTURE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197547457579"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/462wyhLV6WG1snxNJ8t3mu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/462wyhLV6WG1snxNJ8t3mu",
+  "id": "462wyhLV6WG1snxNJ8t3mu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5b575531f77504efdbb36ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5b575531f77504efdbb36ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5b575531f77504efdbb36ba",
+      "width": 64
+    }
+  ],
+  "label": "PLATFORM CULTURE",
+  "name": "*SOMETIMES",
+  "popularity": 2,
+  "release_date": "2023-02-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/462wyhLV6WG1snxNJ8t3mu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2JoFDMfRpSCbfeSCm1qdEy"
+            },
+            "href": "https://api.spotify.com/v1/artists/2JoFDMfRpSCbfeSCm1qdEy",
+            "id": "2JoFDMfRpSCbfeSCm1qdEy",
+            "name": "Val Texas",
+            "type": "artist",
+            "uri": "spotify:artist:2JoFDMfRpSCbfeSCm1qdEy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170057,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pKgeThakZslLQhbUzh8hS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pKgeThakZslLQhbUzh8hS",
+        "id": "6pKgeThakZslLQhbUzh8hS",
+        "is_local": false,
+        "name": "*SOMETIMES",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6pKgeThakZslLQhbUzh8hS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:462wyhLV6WG1snxNJ8t3mu"
+}

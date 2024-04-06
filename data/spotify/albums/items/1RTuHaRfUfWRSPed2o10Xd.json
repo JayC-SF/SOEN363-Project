@@ -1,0 +1,447 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+      "id": "2ARO60gI5do88ho6azmzab",
+      "name": "Django Django",
+      "type": "artist",
+      "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Ribbon Music, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2015 Ribbon Music, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "887834004066"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1RTuHaRfUfWRSPed2o10Xd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1RTuHaRfUfWRSPed2o10Xd",
+  "id": "1RTuHaRfUfWRSPed2o10Xd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273578730e203038e96b3fc18a3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02578730e203038e96b3fc18a3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851578730e203038e96b3fc18a3",
+      "width": 64
+    }
+  ],
+  "label": "Ribbon Music",
+  "name": "Born Under Saturn",
+  "popularity": 0,
+  "release_date": "2015-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 13,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1RTuHaRfUfWRSPed2o10Xd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 354974,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KpsoTS6D8r1JbWfDBpEYs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KpsoTS6D8r1JbWfDBpEYs",
+        "id": "1KpsoTS6D8r1JbWfDBpEYs",
+        "is_local": false,
+        "name": "Giant",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1KpsoTS6D8r1JbWfDBpEYs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 259216,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nCg93EWyUxlX8gk0u3LcB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2nCg93EWyUxlX8gk0u3LcB",
+        "id": "2nCg93EWyUxlX8gk0u3LcB",
+        "is_local": false,
+        "name": "Shake & Tremble",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2nCg93EWyUxlX8gk0u3LcB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283131,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yWM5vxb32Bd9zHQ6ld4TL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5yWM5vxb32Bd9zHQ6ld4TL",
+        "id": "5yWM5vxb32Bd9zHQ6ld4TL",
+        "is_local": false,
+        "name": "Found You",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5yWM5vxb32Bd9zHQ6ld4TL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 290073,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55Z7x3jC4joFzs2lQ9rGFn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/55Z7x3jC4joFzs2lQ9rGFn",
+        "id": "55Z7x3jC4joFzs2lQ9rGFn",
+        "is_local": false,
+        "name": "First Light",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:55Z7x3jC4joFzs2lQ9rGFn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209821,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4m4teCZ69VuLweC1AFEObH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4m4teCZ69VuLweC1AFEObH",
+        "id": "4m4teCZ69VuLweC1AFEObH",
+        "is_local": false,
+        "name": "Pause Repeat",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4m4teCZ69VuLweC1AFEObH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 260180,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eZloAcPlv9vjW8EHXee74"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4eZloAcPlv9vjW8EHXee74",
+        "id": "4eZloAcPlv9vjW8EHXee74",
+        "is_local": false,
+        "name": "Reflections",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4eZloAcPlv9vjW8EHXee74"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188544,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e3y2ieZGldXcNFu4hAIAP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7e3y2ieZGldXcNFu4hAIAP",
+        "id": "7e3y2ieZGldXcNFu4hAIAP",
+        "is_local": false,
+        "name": "Vibrations",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7e3y2ieZGldXcNFu4hAIAP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309679,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AvKtlKPZ32RiRxdLqeP6n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4AvKtlKPZ32RiRxdLqeP6n",
+        "id": "4AvKtlKPZ32RiRxdLqeP6n",
+        "is_local": false,
+        "name": "Shot Down",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4AvKtlKPZ32RiRxdLqeP6n"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 283371,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MpWJNuSC0NlGfrxOi5Bvg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0MpWJNuSC0NlGfrxOi5Bvg",
+        "id": "0MpWJNuSC0NlGfrxOi5Bvg",
+        "is_local": false,
+        "name": "High Moon",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0MpWJNuSC0NlGfrxOi5Bvg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196311,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Jkv7Os5uYGoidsGiTEeEK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Jkv7Os5uYGoidsGiTEeEK",
+        "id": "6Jkv7Os5uYGoidsGiTEeEK",
+        "is_local": false,
+        "name": "Beginning to Fade",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6Jkv7Os5uYGoidsGiTEeEK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 257423,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FbmBxykQr1VnXrNtSBhRN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FbmBxykQr1VnXrNtSBhRN",
+        "id": "2FbmBxykQr1VnXrNtSBhRN",
+        "is_local": false,
+        "name": "4000 Years",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:2FbmBxykQr1VnXrNtSBhRN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 270638,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ywF9Om8j2so7OgLxnWyse"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ywF9Om8j2so7OgLxnWyse",
+        "id": "3ywF9Om8j2so7OgLxnWyse",
+        "is_local": false,
+        "name": "Break the Glass",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3ywF9Om8j2so7OgLxnWyse"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+            "id": "2ARO60gI5do88ho6azmzab",
+            "name": "Django Django",
+            "type": "artist",
+            "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204498,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lMjrsyfoRDRnj8vgy7Zce"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lMjrsyfoRDRnj8vgy7Zce",
+        "id": "1lMjrsyfoRDRnj8vgy7Zce",
+        "is_local": false,
+        "name": "Life We Know",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1lMjrsyfoRDRnj8vgy7Zce"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  },
+  "type": "album",
+  "uri": "spotify:album:1RTuHaRfUfWRSPed2o10Xd"
+}

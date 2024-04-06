@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Bp2X5t7A5WNxBg3Kdhr6z",
+      "id": "3Bp2X5t7A5WNxBg3Kdhr6z",
+      "name": "BAYZY",
+      "type": "artist",
+      "uri": "spotify:artist:3Bp2X5t7A5WNxBg3Kdhr6z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+      },
+      "href": "https://api.spotify.com/v1/artists/2VhoK5L78oQvoUJIDT4eHY",
+      "id": "2VhoK5L78oQvoUJIDT4eHY",
+      "name": "Oleria",
+      "type": "artist",
+      "uri": "spotify:artist:2VhoK5L78oQvoUJIDT4eHY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dzZpvxEeFBc0eJa5UhVBC"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dzZpvxEeFBc0eJa5UhVBC",
+      "id": "7dzZpvxEeFBc0eJa5UhVBC",
+      "name": "OVERHEAT",
+      "type": "artist",
+      "uri": "spotify:artist:7dzZpvxEeFBc0eJa5UhVBC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Post Malone, Swae Lee",
+      "type": "C"
+    },
+    {
+      "text": "2023 LoudKult",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063212886775"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6oORkxq6LIkVhNOC89Zdm0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6oORkxq6LIkVhNOC89Zdm0",
+  "id": "6oORkxq6LIkVhNOC89Zdm0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a35dba71c91bd7846321bf59",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a35dba71c91bd7846321bf59",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a35dba71c91bd7846321bf59",
+      "width": 64
+    }
+  ],
+  "label": "LoudKult",
+  "name": "Sunflower",
+  "popularity": 12,
+  "release_date": "2023-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6oORkxq6LIkVhNOC89Zdm0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Bp2X5t7A5WNxBg3Kdhr6z",
+            "id": "3Bp2X5t7A5WNxBg3Kdhr6z",
+            "name": "BAYZY",
+            "type": "artist",
+            "uri": "spotify:artist:3Bp2X5t7A5WNxBg3Kdhr6z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2VhoK5L78oQvoUJIDT4eHY",
+            "id": "2VhoK5L78oQvoUJIDT4eHY",
+            "name": "Oleria",
+            "type": "artist",
+            "uri": "spotify:artist:2VhoK5L78oQvoUJIDT4eHY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dzZpvxEeFBc0eJa5UhVBC"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dzZpvxEeFBc0eJa5UhVBC",
+            "id": "7dzZpvxEeFBc0eJa5UhVBC",
+            "name": "OVERHEAT",
+            "type": "artist",
+            "uri": "spotify:artist:7dzZpvxEeFBc0eJa5UhVBC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 122000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zhwo2ZgRSJhDoPP3fS1Di"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zhwo2ZgRSJhDoPP3fS1Di",
+        "id": "5zhwo2ZgRSJhDoPP3fS1Di",
+        "is_local": false,
+        "name": "Sunflower",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zhwo2ZgRSJhDoPP3fS1Di"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6oORkxq6LIkVhNOC89Zdm0"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+      },
+      "href": "https://api.spotify.com/v1/artists/4buk1Dwc5ynSnOGVeMJOON",
+      "id": "4buk1Dwc5ynSnOGVeMJOON",
+      "name": "R Nait",
+      "type": "artist",
+      "uri": "spotify:artist:4buk1Dwc5ynSnOGVeMJOON"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Humble Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Humble Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810063881931"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5l5RHsrSAT6pnjVgVyrPox"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5l5RHsrSAT6pnjVgVyrPox",
+  "id": "5l5RHsrSAT6pnjVgVyrPox",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364692386ae9b96666206b485",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264692386ae9b96666206b485",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164692386ae9b96666206b485",
+      "width": 64
+    }
+  ],
+  "label": "Humble Music",
+  "name": "Chunni",
+  "popularity": 0,
+  "release_date": "2018-06-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5l5RHsrSAT6pnjVgVyrPox/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+            },
+            "href": "https://api.spotify.com/v1/artists/4buk1Dwc5ynSnOGVeMJOON",
+            "id": "4buk1Dwc5ynSnOGVeMJOON",
+            "name": "R Nait",
+            "type": "artist",
+            "uri": "spotify:artist:4buk1Dwc5ynSnOGVeMJOON"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 150514,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gs3PqtD3LGpN98v2vOtTi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0gs3PqtD3LGpN98v2vOtTi",
+        "id": "0gs3PqtD3LGpN98v2vOtTi",
+        "is_local": false,
+        "name": "Chunni",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0gs3PqtD3LGpN98v2vOtTi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5l5RHsrSAT6pnjVgVyrPox"
+}

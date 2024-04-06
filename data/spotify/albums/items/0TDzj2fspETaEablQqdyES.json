@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01pXBAJhJrvGBVZXzN9VjI"
+      },
+      "href": "https://api.spotify.com/v1/artists/01pXBAJhJrvGBVZXzN9VjI",
+      "id": "01pXBAJhJrvGBVZXzN9VjI",
+      "name": "killmykel",
+      "type": "artist",
+      "uri": "spotify:artist:01pXBAJhJrvGBVZXzN9VjI"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 killmykel",
+      "type": "C"
+    },
+    {
+      "text": "2023 killmykel",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063245838390"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0TDzj2fspETaEablQqdyES"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0TDzj2fspETaEablQqdyES",
+  "id": "0TDzj2fspETaEablQqdyES",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4566a935ac3ea1a40c7dfb7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f4566a935ac3ea1a40c7dfb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f4566a935ac3ea1a40c7dfb7",
+      "width": 64
+    }
+  ],
+  "label": "killmykel",
+  "name": "Tune and Trina",
+  "popularity": 0,
+  "release_date": "2023-01-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0TDzj2fspETaEablQqdyES/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01pXBAJhJrvGBVZXzN9VjI"
+            },
+            "href": "https://api.spotify.com/v1/artists/01pXBAJhJrvGBVZXzN9VjI",
+            "id": "01pXBAJhJrvGBVZXzN9VjI",
+            "name": "killmykel",
+            "type": "artist",
+            "uri": "spotify:artist:01pXBAJhJrvGBVZXzN9VjI"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106997,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NvysXbQyVMfMGi3zV5JPk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2NvysXbQyVMfMGi3zV5JPk",
+        "id": "2NvysXbQyVMfMGi3zV5JPk",
+        "is_local": false,
+        "name": "Tune and Trina",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2NvysXbQyVMfMGi3zV5JPk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0TDzj2fspETaEablQqdyES"
+}

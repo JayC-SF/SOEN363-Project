@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni"
+      },
+      "href": "https://api.spotify.com/v1/artists/3pN7a2O9TGJDoqeXVOsRni",
+      "id": "3pN7a2O9TGJDoqeXVOsRni",
+      "name": "Michael Feel & Aleco",
+      "type": "artist",
+      "uri": "spotify:artist:3pN7a2O9TGJDoqeXVOsRni"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 snafu records",
+      "type": "C"
+    },
+    {
+      "text": "2018 snafu records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8719729331457"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3WgIRUmvB6y0r1jNxWPxUR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3WgIRUmvB6y0r1jNxWPxUR",
+  "id": "3WgIRUmvB6y0r1jNxWPxUR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f183d99dfefabf25ea0f9cc3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f183d99dfefabf25ea0f9cc3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f183d99dfefabf25ea0f9cc3",
+      "width": 64
+    }
+  ],
+  "label": "snafu records",
+  "name": "Feels So Good",
+  "popularity": 0,
+  "release_date": "2019-04-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3WgIRUmvB6y0r1jNxWPxUR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pN7a2O9TGJDoqeXVOsRni",
+            "id": "3pN7a2O9TGJDoqeXVOsRni",
+            "name": "Michael Feel & Aleco",
+            "type": "artist",
+            "uri": "spotify:artist:3pN7a2O9TGJDoqeXVOsRni"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181603,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FtIQi5UMA2jY5noXucEUQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3FtIQi5UMA2jY5noXucEUQ",
+        "id": "3FtIQi5UMA2jY5noXucEUQ",
+        "is_local": false,
+        "name": "Feels So Good",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3FtIQi5UMA2jY5noXucEUQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3WgIRUmvB6y0r1jNxWPxUR"
+}

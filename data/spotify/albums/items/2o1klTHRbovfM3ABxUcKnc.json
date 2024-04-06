@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id": "586uxXMyD5ObPuzjtrzO1Q",
+      "name": "Sofi Tukker",
+      "type": "artist",
+      "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }
+  ],
+  "available_markets": [
+    "PR",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2015 Sofi Tukker, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2015 Sofi Tukker, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859715883527"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2o1klTHRbovfM3ABxUcKnc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2o1klTHRbovfM3ABxUcKnc",
+  "id": "2o1klTHRbovfM3ABxUcKnc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a9aa9facf0d119cf604f6c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a9aa9facf0d119cf604f6c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a9aa9facf0d119cf604f6c6",
+      "width": 64
+    }
+  ],
+  "label": "Sofi Tukker, LLC",
+  "name": "Drinkee",
+  "popularity": 44,
+  "release_date": "2015-10-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2o1klTHRbovfM3ABxUcKnc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+            "id": "586uxXMyD5ObPuzjtrzO1Q",
+            "name": "Sofi Tukker",
+            "type": "artist",
+            "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+          }
+        ],
+        "available_markets": [
+          "PR",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 297507,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WE8YTl6GAVHnkfvMfci98",
+        "id": "0WE8YTl6GAVHnkfvMfci98",
+        "is_local": false,
+        "name": "Drinkee",
+        "preview_url": "https://p.scdn.co/mp3-preview/5312bb6dc8301ed2fbdeb803dc883f47eb62b8ef?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0WE8YTl6GAVHnkfvMfci98"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2o1klTHRbovfM3ABxUcKnc"
+}

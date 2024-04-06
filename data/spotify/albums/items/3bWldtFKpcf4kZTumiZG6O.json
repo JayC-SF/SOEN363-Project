@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+      },
+      "href": "https://api.spotify.com/v1/artists/19IsMFpELM7g2UDuwDlZvU",
+      "id": "19IsMFpELM7g2UDuwDlZvU",
+      "name": "Motel",
+      "type": "artist",
+      "uri": "spotify:artist:19IsMFpELM7g2UDuwDlZvU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 Promotodo M\u00e9xico, S.A. de C.V. ( OCESA - Seitrack )",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447530924"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3bWldtFKpcf4kZTumiZG6O"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3bWldtFKpcf4kZTumiZG6O",
+  "id": "3bWldtFKpcf4kZTumiZG6O",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364b64493b97e25f6c00c2f4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264b64493b97e25f6c00c2f4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164b64493b97e25f6c00c2f4f",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "T\u00fa y Yo",
+  "popularity": 0,
+  "release_date": "2019-01-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3bWldtFKpcf4kZTumiZG6O/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+            },
+            "href": "https://api.spotify.com/v1/artists/19IsMFpELM7g2UDuwDlZvU",
+            "id": "19IsMFpELM7g2UDuwDlZvU",
+            "name": "Motel",
+            "type": "artist",
+            "uri": "spotify:artist:19IsMFpELM7g2UDuwDlZvU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 277750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0c2TpEJuuiE9MjILr6pp0D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0c2TpEJuuiE9MjILr6pp0D",
+        "id": "0c2TpEJuuiE9MjILr6pp0D",
+        "is_local": false,
+        "name": "T\u00fa y Yo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0c2TpEJuuiE9MjILr6pp0D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3bWldtFKpcf4kZTumiZG6O"
+}

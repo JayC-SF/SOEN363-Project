@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+      },
+      "href": "https://api.spotify.com/v1/artists/05oH07COxkXKIMt6mIPRee",
+      "id": "05oH07COxkXKIMt6mIPRee",
+      "name": "Brandy",
+      "type": "artist",
+      "uri": "spotify:artist:05oH07COxkXKIMt6mIPRee"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "name": "Daniel Caesar",
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Brand Nu, Inc., Golden Child Recordings & Entertainment One U.S., LP",
+      "type": "C"
+    },
+    {
+      "text": "2019 Brand Nu, Inc., Golden Child Recordings & Entertainment One U.S., LP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164186821"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Dk0fn9d2SJ6yjiSuRTTuT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Dk0fn9d2SJ6yjiSuRTTuT",
+  "id": "3Dk0fn9d2SJ6yjiSuRTTuT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375a4fe3b778f6c86d603b25d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275a4fe3b778f6c86d603b25d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175a4fe3b778f6c86d603b25d",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Love Again",
+  "popularity": 0,
+  "release_date": "2019-07-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Dk0fn9d2SJ6yjiSuRTTuT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+            },
+            "href": "https://api.spotify.com/v1/artists/05oH07COxkXKIMt6mIPRee",
+            "id": "05oH07COxkXKIMt6mIPRee",
+            "name": "Brandy",
+            "type": "artist",
+            "uri": "spotify:artist:05oH07COxkXKIMt6mIPRee"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+            },
+            "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+            "id": "20wkVLutqVOYrc0kxFs7rA",
+            "name": "Daniel Caesar",
+            "type": "artist",
+            "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214277,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29VCeUfeNgOzgWPvEQN9xm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29VCeUfeNgOzgWPvEQN9xm",
+        "id": "29VCeUfeNgOzgWPvEQN9xm",
+        "is_local": false,
+        "name": "Love Again",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:29VCeUfeNgOzgWPvEQN9xm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Dk0fn9d2SJ6yjiSuRTTuT"
+}

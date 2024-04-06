@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0gMC2VZY7SjKtara6lVozW"
+      },
+      "href": "https://api.spotify.com/v1/artists/0gMC2VZY7SjKtara6lVozW",
+      "id": "0gMC2VZY7SjKtara6lVozW",
+      "name": "Karrr",
+      "type": "artist",
+      "uri": "spotify:artist:0gMC2VZY7SjKtara6lVozW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Karrr",
+      "type": "C"
+    },
+    {
+      "text": "2023 Karrr",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197814952288"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3XMo51epjrgAckTdp3LFoN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3XMo51epjrgAckTdp3LFoN",
+  "id": "3XMo51epjrgAckTdp3LFoN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fbd46015a596251308ed1be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fbd46015a596251308ed1be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fbd46015a596251308ed1be",
+      "width": 64
+    }
+  ],
+  "label": "Karrr",
+  "name": "My Fault",
+  "popularity": 0,
+  "release_date": "2000-01-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3XMo51epjrgAckTdp3LFoN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0gMC2VZY7SjKtara6lVozW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0gMC2VZY7SjKtara6lVozW",
+            "id": "0gMC2VZY7SjKtara6lVozW",
+            "name": "Karrr",
+            "type": "artist",
+            "uri": "spotify:artist:0gMC2VZY7SjKtara6lVozW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222641,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SkjqWwV2vcKY6UjQAhnqq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SkjqWwV2vcKY6UjQAhnqq",
+        "id": "2SkjqWwV2vcKY6UjQAhnqq",
+        "is_local": false,
+        "name": "My Fault",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SkjqWwV2vcKY6UjQAhnqq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3XMo51epjrgAckTdp3LFoN"
+}

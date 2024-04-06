@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zViDsu1QEY5DZ4QefVjjD"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zViDsu1QEY5DZ4QefVjjD",
+      "id": "5zViDsu1QEY5DZ4QefVjjD",
+      "name": "Zware Jongens",
+      "type": "artist",
+      "uri": "spotify:artist:5zViDsu1QEY5DZ4QefVjjD"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Berk Music Productions",
+      "type": "C"
+    },
+    {
+      "text": "BME - Songs",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8170670200771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1uqwBm5YRRXoFDtaAUPjMA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1uqwBm5YRRXoFDtaAUPjMA",
+  "id": "1uqwBm5YRRXoFDtaAUPjMA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d917ce86cf80feae66c6b4a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d917ce86cf80feae66c6b4a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d917ce86cf80feae66c6b4a4",
+      "width": 64
+    }
+  ],
+  "label": "Berk Music",
+  "name": "Hoog Is De Zolder",
+  "popularity": 0,
+  "release_date": "2008-01-30",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1uqwBm5YRRXoFDtaAUPjMA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zViDsu1QEY5DZ4QefVjjD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zViDsu1QEY5DZ4QefVjjD",
+            "id": "5zViDsu1QEY5DZ4QefVjjD",
+            "name": "Zware Jongens",
+            "type": "artist",
+            "uri": "spotify:artist:5zViDsu1QEY5DZ4QefVjjD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177972,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4b5myor5NTQ43gr9exhpYb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4b5myor5NTQ43gr9exhpYb",
+        "id": "4b5myor5NTQ43gr9exhpYb",
+        "is_local": false,
+        "name": "Hoog Is De Zolder",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4b5myor5NTQ43gr9exhpYb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zViDsu1QEY5DZ4QefVjjD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zViDsu1QEY5DZ4QefVjjD",
+            "id": "5zViDsu1QEY5DZ4QefVjjD",
+            "name": "Zware Jongens",
+            "type": "artist",
+            "uri": "spotify:artist:5zViDsu1QEY5DZ4QefVjjD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 163709,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6veqXMTTc3o7GtmkgQ6j2q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6veqXMTTc3o7GtmkgQ6j2q",
+        "id": "6veqXMTTc3o7GtmkgQ6j2q",
+        "is_local": false,
+        "name": "De La La Jump",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6veqXMTTc3o7GtmkgQ6j2q"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1uqwBm5YRRXoFDtaAUPjMA"
+}

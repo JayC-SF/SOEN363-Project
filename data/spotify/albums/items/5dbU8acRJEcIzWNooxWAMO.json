@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MAQkqKFUih9TG5yfURgK0"
+      },
+      "href": "https://api.spotify.com/v1/artists/3MAQkqKFUih9TG5yfURgK0",
+      "id": "3MAQkqKFUih9TG5yfURgK0",
+      "name": "sktlevo",
+      "type": "artist",
+      "uri": "spotify:artist:3MAQkqKFUih9TG5yfURgK0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 4572462 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 4572462 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197272302564"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dbU8acRJEcIzWNooxWAMO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5dbU8acRJEcIzWNooxWAMO",
+  "id": "5dbU8acRJEcIzWNooxWAMO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a85e66956d58c548c01fceb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a85e66956d58c548c01fceb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a85e66956d58c548c01fceb5",
+      "width": 64
+    }
+  ],
+  "label": "4572462 Records DK",
+  "name": "Meance",
+  "popularity": 0,
+  "release_date": "2022-11-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5dbU8acRJEcIzWNooxWAMO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MAQkqKFUih9TG5yfURgK0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MAQkqKFUih9TG5yfURgK0",
+            "id": "3MAQkqKFUih9TG5yfURgK0",
+            "name": "sktlevo",
+            "type": "artist",
+            "uri": "spotify:artist:3MAQkqKFUih9TG5yfURgK0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135407,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43qETxAuIPhcPusxqYOBzv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43qETxAuIPhcPusxqYOBzv",
+        "id": "43qETxAuIPhcPusxqYOBzv",
+        "is_local": false,
+        "name": "Meance",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:43qETxAuIPhcPusxqYOBzv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5dbU8acRJEcIzWNooxWAMO"
+}

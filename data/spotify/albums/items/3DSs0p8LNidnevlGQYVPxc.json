@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BFLElxtBEdsdwGA1kHTsx",
+      "id": "4BFLElxtBEdsdwGA1kHTsx",
+      "name": "ElGrandeToto",
+      "type": "artist",
+      "uri": "spotify:artist:4BFLElxtBEdsdwGA1kHTsx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Chbk",
+      "type": "C"
+    },
+    {
+      "text": "2020 ElGrandeToto",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5283023924873"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3DSs0p8LNidnevlGQYVPxc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3DSs0p8LNidnevlGQYVPxc",
+  "id": "3DSs0p8LNidnevlGQYVPxc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd58d95e31c0687ff5b5c9f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd58d95e31c0687ff5b5c9f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd58d95e31c0687ff5b5c9f8",
+      "width": 64
+    }
+  ],
+  "label": "Elgrande-toto",
+  "name": "VitamineDZ",
+  "popularity": 0,
+  "release_date": "2020-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3DSs0p8LNidnevlGQYVPxc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4BFLElxtBEdsdwGA1kHTsx",
+            "id": "4BFLElxtBEdsdwGA1kHTsx",
+            "name": "ElGrandeToto",
+            "type": "artist",
+            "uri": "spotify:artist:4BFLElxtBEdsdwGA1kHTsx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 107461,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52X7AoBCW2cOweH2wDF2V7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52X7AoBCW2cOweH2wDF2V7",
+        "id": "52X7AoBCW2cOweH2wDF2V7",
+        "is_local": false,
+        "name": "VitamineDZ",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:52X7AoBCW2cOweH2wDF2V7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3DSs0p8LNidnevlGQYVPxc"
+}

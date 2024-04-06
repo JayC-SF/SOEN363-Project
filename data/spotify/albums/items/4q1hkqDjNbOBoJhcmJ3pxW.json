@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ct46r2TLbnm4Hw3jGQEok"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ct46r2TLbnm4Hw3jGQEok",
+      "id": "4ct46r2TLbnm4Hw3jGQEok",
+      "name": "DJ DimixeR",
+      "type": "artist",
+      "uri": "spotify:artist:4ct46r2TLbnm4Hw3jGQEok"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FTXwgjHR8LAr13cnjWp7m",
+      "id": "1FTXwgjHR8LAr13cnjWp7m",
+      "name": "FAVIA",
+      "type": "artist",
+      "uri": "spotify:artist:1FTXwgjHR8LAr13cnjWp7m"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Joan Osborne",
+      "type": "C"
+    },
+    {
+      "text": "2023 Soave Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063440288167"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4q1hkqDjNbOBoJhcmJ3pxW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4q1hkqDjNbOBoJhcmJ3pxW",
+  "id": "4q1hkqDjNbOBoJhcmJ3pxW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a025740a94ea5a33b02e6cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a025740a94ea5a33b02e6cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a025740a94ea5a33b02e6cc",
+      "width": 64
+    }
+  ],
+  "label": "Soave Records",
+  "name": "One Of Us",
+  "popularity": 17,
+  "release_date": "2024-01-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4q1hkqDjNbOBoJhcmJ3pxW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ct46r2TLbnm4Hw3jGQEok"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ct46r2TLbnm4Hw3jGQEok",
+            "id": "4ct46r2TLbnm4Hw3jGQEok",
+            "name": "DJ DimixeR",
+            "type": "artist",
+            "uri": "spotify:artist:4ct46r2TLbnm4Hw3jGQEok"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FTXwgjHR8LAr13cnjWp7m",
+            "id": "1FTXwgjHR8LAr13cnjWp7m",
+            "name": "FAVIA",
+            "type": "artist",
+            "uri": "spotify:artist:1FTXwgjHR8LAr13cnjWp7m"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CE5etFNUOgEFaiSxdttUo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0CE5etFNUOgEFaiSxdttUo",
+        "id": "0CE5etFNUOgEFaiSxdttUo",
+        "is_local": false,
+        "name": "One Of Us",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0CE5etFNUOgEFaiSxdttUo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4q1hkqDjNbOBoJhcmJ3pxW"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+      },
+      "href": "https://api.spotify.com/v1/artists/6dKYo2aegt1Cpez6tyd2ai",
+      "id": "6dKYo2aegt1Cpez6tyd2ai",
+      "name": "Lorenz B\u00fcffel",
+      "type": "artist",
+      "uri": "spotify:artist:6dKYo2aegt1Cpez6tyd2ai"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Summerfield Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Summerfield Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4260149076830"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3HNF4SBnLxEeJcpEwSs70j"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3HNF4SBnLxEeJcpEwSs70j",
+  "id": "3HNF4SBnLxEeJcpEwSs70j",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d3cc0ee88419e1f4b577224",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d3cc0ee88419e1f4b577224",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d3cc0ee88419e1f4b577224",
+      "width": 64
+    }
+  ],
+  "label": "Summerfield Records",
+  "name": "Doppelhorn",
+  "popularity": 18,
+  "release_date": "2020-06-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3HNF4SBnLxEeJcpEwSs70j/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+            },
+            "href": "https://api.spotify.com/v1/artists/6dKYo2aegt1Cpez6tyd2ai",
+            "id": "6dKYo2aegt1Cpez6tyd2ai",
+            "name": "Lorenz B\u00fcffel",
+            "type": "artist",
+            "uri": "spotify:artist:6dKYo2aegt1Cpez6tyd2ai"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199815,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lMgbeMYL1ilon5jtPM0lc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lMgbeMYL1ilon5jtPM0lc",
+        "id": "1lMgbeMYL1ilon5jtPM0lc",
+        "is_local": false,
+        "name": "Doppelhorn",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1lMgbeMYL1ilon5jtPM0lc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3HNF4SBnLxEeJcpEwSs70j"
+}

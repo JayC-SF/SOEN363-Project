@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+      },
+      "href": "https://api.spotify.com/v1/artists/7cNNNhdJDrt3vgQjwSavNf",
+      "id": "7cNNNhdJDrt3vgQjwSavNf",
+      "name": "Memphis May Fire",
+      "type": "artist",
+      "uri": "spotify:artist:7cNNNhdJDrt3vgQjwSavNf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 Rise Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 Rise Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538312027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/608S2NU54jQt2mhVISLAs1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/608S2NU54jQt2mhVISLAs1",
+  "id": "608S2NU54jQt2mhVISLAs1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737906ffd2c4575e7de37185ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027906ffd2c4575e7de37185ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517906ffd2c4575e7de37185ab",
+      "width": 64
+    }
+  ],
+  "label": "Rise Records",
+  "name": "Virus",
+  "popularity": 0,
+  "release_date": "2017-06-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/608S2NU54jQt2mhVISLAs1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+            },
+            "href": "https://api.spotify.com/v1/artists/7cNNNhdJDrt3vgQjwSavNf",
+            "id": "7cNNNhdJDrt3vgQjwSavNf",
+            "name": "Memphis May Fire",
+            "type": "artist",
+            "uri": "spotify:artist:7cNNNhdJDrt3vgQjwSavNf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182424,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vV7hKi3prsHYFl7Pauip1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vV7hKi3prsHYFl7Pauip1",
+        "id": "4vV7hKi3prsHYFl7Pauip1",
+        "is_local": false,
+        "name": "Virus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4vV7hKi3prsHYFl7Pauip1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:608S2NU54jQt2mhVISLAs1"
+}

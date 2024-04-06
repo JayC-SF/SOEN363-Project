@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0kmovylAP20DMJhS3BE2CO",
+      "id": "0kmovylAP20DMJhS3BE2CO",
+      "name": "Billy Gillies",
+      "type": "artist",
+      "uri": "spotify:artist:0kmovylAP20DMJhS3BE2CO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+      },
+      "href": "https://api.spotify.com/v1/artists/6otgz5gkB40UnWFwTy0VDh",
+      "id": "6otgz5gkB40UnWFwTy0VDh",
+      "name": "Madison Avenue",
+      "type": "artist",
+      "uri": "spotify:artist:6otgz5gkB40UnWFwTy0VDh"
+    }
+  ],
+  "available_markets": [
+    "GB",
+    "IE"
+  ],
+  "copyrights": [
+    {
+      "text": "Under licence to Warner Music UK Limited. An Asylum Records UK release, \u00a9 2023 Vicious Recordings Pty Ltd",
+      "type": "C"
+    },
+    {
+      "text": "Under licence to Warner Music UK Limited. An Asylum Records UK release, \u2117 2023 Vicious Recordings Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054197665547"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4IV5ABvvLEZKTNG6WJ44Tu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4IV5ABvvLEZKTNG6WJ44Tu",
+  "id": "4IV5ABvvLEZKTNG6WJ44Tu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc6c95b6a249da8455434429",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc6c95b6a249da8455434429",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc6c95b6a249da8455434429",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records UK",
+  "name": "Don't Call Me Baby",
+  "popularity": 47,
+  "release_date": "2023-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4IV5ABvvLEZKTNG6WJ44Tu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kmovylAP20DMJhS3BE2CO",
+            "id": "0kmovylAP20DMJhS3BE2CO",
+            "name": "Billy Gillies",
+            "type": "artist",
+            "uri": "spotify:artist:0kmovylAP20DMJhS3BE2CO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+            },
+            "href": "https://api.spotify.com/v1/artists/6otgz5gkB40UnWFwTy0VDh",
+            "id": "6otgz5gkB40UnWFwTy0VDh",
+            "name": "Madison Avenue",
+            "type": "artist",
+            "uri": "spotify:artist:6otgz5gkB40UnWFwTy0VDh"
+          }
+        ],
+        "available_markets": [
+          "GB",
+          "IE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 187755,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uQzyvEzpJvGxeJF8lUNHu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2uQzyvEzpJvGxeJF8lUNHu",
+        "id": "2uQzyvEzpJvGxeJF8lUNHu",
+        "is_local": false,
+        "name": "Don't Call Me Baby",
+        "preview_url": "https://p.scdn.co/mp3-preview/c47074b3973e301ad3c942f52ed0c11e887cb159?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2uQzyvEzpJvGxeJF8lUNHu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4IV5ABvvLEZKTNG6WJ44Tu"
+}

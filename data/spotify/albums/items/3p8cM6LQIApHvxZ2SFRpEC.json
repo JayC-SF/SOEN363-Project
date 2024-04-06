@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jiNgevJy1dwcPpgf34BVy"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jiNgevJy1dwcPpgf34BVy",
+      "id": "6jiNgevJy1dwcPpgf34BVy",
+      "name": "fflockk",
+      "type": "artist",
+      "uri": "spotify:artist:6jiNgevJy1dwcPpgf34BVy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 fflockk",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "659783275039"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3p8cM6LQIApHvxZ2SFRpEC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3p8cM6LQIApHvxZ2SFRpEC",
+  "id": "3p8cM6LQIApHvxZ2SFRpEC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b86667b176197534d390d4cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b86667b176197534d390d4cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b86667b176197534d390d4cb",
+      "width": 64
+    }
+  ],
+  "label": "fflockk",
+  "name": "Keep It",
+  "popularity": 0,
+  "release_date": "2023-02-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3p8cM6LQIApHvxZ2SFRpEC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jiNgevJy1dwcPpgf34BVy"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jiNgevJy1dwcPpgf34BVy",
+            "id": "6jiNgevJy1dwcPpgf34BVy",
+            "name": "fflockk",
+            "type": "artist",
+            "uri": "spotify:artist:6jiNgevJy1dwcPpgf34BVy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172117,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rJijkRPuaFsFeC2Lot4EB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rJijkRPuaFsFeC2Lot4EB",
+        "id": "5rJijkRPuaFsFeC2Lot4EB",
+        "is_local": false,
+        "name": "Keep It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5rJijkRPuaFsFeC2Lot4EB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3p8cM6LQIApHvxZ2SFRpEC"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+      },
+      "href": "https://api.spotify.com/v1/artists/3wkaDi2HJV3eCaBJ4iH6om",
+      "id": "3wkaDi2HJV3eCaBJ4iH6om",
+      "name": "ANNA",
+      "type": "artist",
+      "uri": "spotify:artist:3wkaDi2HJV3eCaBJ4iH6om"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Turbo Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2016 Turbo Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4012957884332"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6BgW2DvqONDxV99HWmAqTZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6BgW2DvqONDxV99HWmAqTZ",
+  "id": "6BgW2DvqONDxV99HWmAqTZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325cc6954c1e70538a39a7ddb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225cc6954c1e70538a39a7ddb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125cc6954c1e70538a39a7ddb",
+      "width": 64
+    }
+  ],
+  "label": "Turbo Recordings",
+  "name": "Artha",
+  "popularity": 0,
+  "release_date": "2016-09-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6BgW2DvqONDxV99HWmAqTZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+            },
+            "href": "https://api.spotify.com/v1/artists/3wkaDi2HJV3eCaBJ4iH6om",
+            "id": "3wkaDi2HJV3eCaBJ4iH6om",
+            "name": "ANNA",
+            "type": "artist",
+            "uri": "spotify:artist:3wkaDi2HJV3eCaBJ4iH6om"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 491951,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mUaK4YprB5ZybyQm8fIjC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mUaK4YprB5ZybyQm8fIjC",
+        "id": "3mUaK4YprB5ZybyQm8fIjC",
+        "is_local": false,
+        "name": "Artha",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3mUaK4YprB5ZybyQm8fIjC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+            },
+            "href": "https://api.spotify.com/v1/artists/3wkaDi2HJV3eCaBJ4iH6om",
+            "id": "3wkaDi2HJV3eCaBJ4iH6om",
+            "name": "ANNA",
+            "type": "artist",
+            "uri": "spotify:artist:3wkaDi2HJV3eCaBJ4iH6om"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 438080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kPYk9vGJn46zRQHNXsHoQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6kPYk9vGJn46zRQHNXsHoQ",
+        "id": "6kPYk9vGJn46zRQHNXsHoQ",
+        "is_local": false,
+        "name": "When It Rains",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6kPYk9vGJn46zRQHNXsHoQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6BgW2DvqONDxV99HWmAqTZ"
+}

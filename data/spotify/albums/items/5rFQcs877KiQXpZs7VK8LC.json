@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6EL3aYO8KiOUBMlxhBNTHC"
+      },
+      "href": "https://api.spotify.com/v1/artists/6EL3aYO8KiOUBMlxhBNTHC",
+      "id": "6EL3aYO8KiOUBMlxhBNTHC",
+      "name": "Bxn",
+      "type": "artist",
+      "uri": "spotify:artist:6EL3aYO8KiOUBMlxhBNTHC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7z73kDwAN2PkZOU4SLvA9o"
+      },
+      "href": "https://api.spotify.com/v1/artists/7z73kDwAN2PkZOU4SLvA9o",
+      "id": "7z73kDwAN2PkZOU4SLvA9o",
+      "name": "Mxrcus",
+      "type": "artist",
+      "uri": "spotify:artist:7z73kDwAN2PkZOU4SLvA9o"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Bxn",
+      "type": "C"
+    },
+    {
+      "text": "2022 Bxn",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7316214904144"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5rFQcs877KiQXpZs7VK8LC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5rFQcs877KiQXpZs7VK8LC",
+  "id": "5rFQcs877KiQXpZs7VK8LC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae1f0689bacbec01606f434f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae1f0689bacbec01606f434f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae1f0689bacbec01606f434f",
+      "width": 64
+    }
+  ],
+  "label": "Bxn",
+  "name": "24",
+  "popularity": 0,
+  "release_date": "2022-05-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5rFQcs877KiQXpZs7VK8LC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6EL3aYO8KiOUBMlxhBNTHC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6EL3aYO8KiOUBMlxhBNTHC",
+            "id": "6EL3aYO8KiOUBMlxhBNTHC",
+            "name": "Bxn",
+            "type": "artist",
+            "uri": "spotify:artist:6EL3aYO8KiOUBMlxhBNTHC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7z73kDwAN2PkZOU4SLvA9o"
+            },
+            "href": "https://api.spotify.com/v1/artists/7z73kDwAN2PkZOU4SLvA9o",
+            "id": "7z73kDwAN2PkZOU4SLvA9o",
+            "name": "Mxrcus",
+            "type": "artist",
+            "uri": "spotify:artist:7z73kDwAN2PkZOU4SLvA9o"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 448740,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60E3fzeumjNZnYWMfkldLX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60E3fzeumjNZnYWMfkldLX",
+        "id": "60E3fzeumjNZnYWMfkldLX",
+        "is_local": false,
+        "name": "24",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:60E3fzeumjNZnYWMfkldLX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5rFQcs877KiQXpZs7VK8LC"
+}

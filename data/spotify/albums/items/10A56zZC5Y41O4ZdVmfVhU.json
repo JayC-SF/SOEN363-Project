@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+      },
+      "href": "https://api.spotify.com/v1/artists/5H4yInM5zmHqpKIoMNAx4r",
+      "id": "5H4yInM5zmHqpKIoMNAx4r",
+      "name": "Central Cee",
+      "type": "artist",
+      "uri": "spotify:artist:5H4yInM5zmHqpKIoMNAx4r"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Central Cee",
+      "type": "C"
+    },
+    {
+      "text": "2020 Central Cee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "784998962181"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10A56zZC5Y41O4ZdVmfVhU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10A56zZC5Y41O4ZdVmfVhU",
+  "id": "10A56zZC5Y41O4ZdVmfVhU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379099afec1f1d2b7c0dac2d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279099afec1f1d2b7c0dac2d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179099afec1f1d2b7c0dac2d1",
+      "width": 64
+    }
+  ],
+  "label": "Central Cee",
+  "name": "Day in the Life",
+  "popularity": 0,
+  "release_date": "2020-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10A56zZC5Y41O4ZdVmfVhU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+            },
+            "href": "https://api.spotify.com/v1/artists/5H4yInM5zmHqpKIoMNAx4r",
+            "id": "5H4yInM5zmHqpKIoMNAx4r",
+            "name": "Central Cee",
+            "type": "artist",
+            "uri": "spotify:artist:5H4yInM5zmHqpKIoMNAx4r"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188689,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qSSfVh97cz3Wqp6NB9Y4d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qSSfVh97cz3Wqp6NB9Y4d",
+        "id": "0qSSfVh97cz3Wqp6NB9Y4d",
+        "is_local": false,
+        "name": "Day in the Life",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0qSSfVh97cz3Wqp6NB9Y4d"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10A56zZC5Y41O4ZdVmfVhU"
+}

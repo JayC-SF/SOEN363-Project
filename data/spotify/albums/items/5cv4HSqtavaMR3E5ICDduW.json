@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+      },
+      "href": "https://api.spotify.com/v1/artists/2THPifY3pg9crvJrg9yOzr",
+      "id": "2THPifY3pg9crvJrg9yOzr",
+      "name": "Dthang",
+      "type": "artist",
+      "uri": "spotify:artist:2THPifY3pg9crvJrg9yOzr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Coke Boys Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197084359077"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5cv4HSqtavaMR3E5ICDduW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5cv4HSqtavaMR3E5ICDduW",
+  "id": "5cv4HSqtavaMR3E5ICDduW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c3bd8b9696f833cc204a3d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c3bd8b9696f833cc204a3d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c3bd8b9696f833cc204a3d8",
+      "width": 64
+    }
+  ],
+  "label": "Coke Boys Records",
+  "name": "Love Dthang",
+  "popularity": 28,
+  "release_date": "2021-11-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5cv4HSqtavaMR3E5ICDduW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+            },
+            "href": "https://api.spotify.com/v1/artists/2THPifY3pg9crvJrg9yOzr",
+            "id": "2THPifY3pg9crvJrg9yOzr",
+            "name": "Dthang",
+            "type": "artist",
+            "uri": "spotify:artist:2THPifY3pg9crvJrg9yOzr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139366,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yjEpxGcw0I4IqjmUWYWiu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0yjEpxGcw0I4IqjmUWYWiu",
+        "id": "0yjEpxGcw0I4IqjmUWYWiu",
+        "is_local": false,
+        "name": "Love Dthang",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0yjEpxGcw0I4IqjmUWYWiu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5cv4HSqtavaMR3E5ICDduW"
+}

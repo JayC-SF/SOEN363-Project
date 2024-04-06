@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+      },
+      "href": "https://api.spotify.com/v1/artists/5t28BP42x2axFnqOOMg3CM",
+      "id": "5t28BP42x2axFnqOOMg3CM",
+      "name": "Five Finger Death Punch",
+      "type": "artist",
+      "uri": "spotify:artist:5t28BP42x2axFnqOOMg3CM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Prospect Park",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810067010726"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1C61fBlB2DkMdtOfFiBAXt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1C61fBlB2DkMdtOfFiBAXt",
+  "id": "1C61fBlB2DkMdtOfFiBAXt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b03785b27c4e469cb16ec229",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b03785b27c4e469cb16ec229",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b03785b27c4e469cb16ec229",
+      "width": 64
+    }
+  ],
+  "label": "Prospect Park",
+  "name": "Wrong Side of Heaven (Acoustic)",
+  "popularity": 0,
+  "release_date": "2020-09-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1C61fBlB2DkMdtOfFiBAXt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5t28BP42x2axFnqOOMg3CM",
+            "id": "5t28BP42x2axFnqOOMg3CM",
+            "name": "Five Finger Death Punch",
+            "type": "artist",
+            "uri": "spotify:artist:5t28BP42x2axFnqOOMg3CM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 269787,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rU3FLuXTBSuSrJ2ky9py6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rU3FLuXTBSuSrJ2ky9py6",
+        "id": "1rU3FLuXTBSuSrJ2ky9py6",
+        "is_local": false,
+        "name": "Wrong Side of Heaven (Acoustic)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1rU3FLuXTBSuSrJ2ky9py6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1C61fBlB2DkMdtOfFiBAXt"
+}

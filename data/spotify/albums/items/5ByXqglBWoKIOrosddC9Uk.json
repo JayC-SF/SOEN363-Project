@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+      },
+      "href": "https://api.spotify.com/v1/artists/5fENlrINIVP0gJOtKxvORt",
+      "id": "5fENlrINIVP0gJOtKxvORt",
+      "name": "Call Me Karizma",
+      "type": "artist",
+      "uri": "spotify:artist:5fENlrINIVP0gJOtKxvORt"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Thriller Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Thriller Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296540486"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ByXqglBWoKIOrosddC9Uk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ByXqglBWoKIOrosddC9Uk",
+  "id": "5ByXqglBWoKIOrosddC9Uk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735e10ca22d6bf5eb8df93c3df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025e10ca22d6bf5eb8df93c3df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515e10ca22d6bf5eb8df93c3df",
+      "width": 64
+    }
+  ],
+  "label": "Thriller Records",
+  "name": "Black Leather",
+  "popularity": 0,
+  "release_date": "2021-09-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ByXqglBWoKIOrosddC9Uk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+            },
+            "href": "https://api.spotify.com/v1/artists/5fENlrINIVP0gJOtKxvORt",
+            "id": "5fENlrINIVP0gJOtKxvORt",
+            "name": "Call Me Karizma",
+            "type": "artist",
+            "uri": "spotify:artist:5fENlrINIVP0gJOtKxvORt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 170625,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2e96RRtIrC2yBye5QwebHF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2e96RRtIrC2yBye5QwebHF",
+        "id": "2e96RRtIrC2yBye5QwebHF",
+        "is_local": false,
+        "name": "Black Leather",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2e96RRtIrC2yBye5QwebHF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ByXqglBWoKIOrosddC9Uk"
+}

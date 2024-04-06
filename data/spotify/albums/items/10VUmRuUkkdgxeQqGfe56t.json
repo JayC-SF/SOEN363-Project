@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC"
+      },
+      "href": "https://api.spotify.com/v1/artists/4SDZGbRR9IjhHG5i3cZEQC",
+      "id": "4SDZGbRR9IjhHG5i3cZEQC",
+      "name": "conscience",
+      "type": "artist",
+      "uri": "spotify:artist:4SDZGbRR9IjhHG5i3cZEQC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0aoTIxQJvGyH2vLza8yOe5",
+      "id": "0aoTIxQJvGyH2vLza8yOe5",
+      "name": "Syndrome",
+      "type": "artist",
+      "uri": "spotify:artist:0aoTIxQJvGyH2vLza8yOe5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 noc under exclusive licence to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2020 noc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0195395721316"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10VUmRuUkkdgxeQqGfe56t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10VUmRuUkkdgxeQqGfe56t",
+  "id": "10VUmRuUkkdgxeQqGfe56t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ebc4ddf276f12afa35018c33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ebc4ddf276f12afa35018c33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ebc4ddf276f12afa35018c33",
+      "width": 64
+    }
+  ],
+  "label": "frtyfve",
+  "name": "Hasty",
+  "popularity": 0,
+  "release_date": "2020-06-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10VUmRuUkkdgxeQqGfe56t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC"
+            },
+            "href": "https://api.spotify.com/v1/artists/4SDZGbRR9IjhHG5i3cZEQC",
+            "id": "4SDZGbRR9IjhHG5i3cZEQC",
+            "name": "conscience",
+            "type": "artist",
+            "uri": "spotify:artist:4SDZGbRR9IjhHG5i3cZEQC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aoTIxQJvGyH2vLza8yOe5",
+            "id": "0aoTIxQJvGyH2vLza8yOe5",
+            "name": "Syndrome",
+            "type": "artist",
+            "uri": "spotify:artist:0aoTIxQJvGyH2vLza8yOe5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135728,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nKG9dtAvAxFOP4eMHUkjO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nKG9dtAvAxFOP4eMHUkjO",
+        "id": "6nKG9dtAvAxFOP4eMHUkjO",
+        "is_local": false,
+        "name": "Hasty",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6nKG9dtAvAxFOP4eMHUkjO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10VUmRuUkkdgxeQqGfe56t"
+}

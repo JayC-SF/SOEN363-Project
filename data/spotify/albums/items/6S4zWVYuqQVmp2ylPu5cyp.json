@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gUYXL3Aeop7d8Tdl3i6TC"
+      },
+      "href": "https://api.spotify.com/v1/artists/6gUYXL3Aeop7d8Tdl3i6TC",
+      "id": "6gUYXL3Aeop7d8Tdl3i6TC",
+      "name": "AMP",
+      "type": "artist",
+      "uri": "spotify:artist:6gUYXL3Aeop7d8Tdl3i6TC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 3361699 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 3361699 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196399099784"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6S4zWVYuqQVmp2ylPu5cyp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6S4zWVYuqQVmp2ylPu5cyp",
+  "id": "6S4zWVYuqQVmp2ylPu5cyp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356ee390f614ec26d8affc1ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256ee390f614ec26d8affc1ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156ee390f614ec26d8affc1ba",
+      "width": 64
+    }
+  ],
+  "label": "3361699 Records DK",
+  "name": "Freshman",
+  "popularity": 1,
+  "release_date": "2021-10-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6S4zWVYuqQVmp2ylPu5cyp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gUYXL3Aeop7d8Tdl3i6TC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gUYXL3Aeop7d8Tdl3i6TC",
+            "id": "6gUYXL3Aeop7d8Tdl3i6TC",
+            "name": "AMP",
+            "type": "artist",
+            "uri": "spotify:artist:6gUYXL3Aeop7d8Tdl3i6TC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 158015,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3t61KJp1bZYkGcy9Bv7ab3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3t61KJp1bZYkGcy9Bv7ab3",
+        "id": "3t61KJp1bZYkGcy9Bv7ab3",
+        "is_local": false,
+        "name": "Freshman, Pt. 1",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3t61KJp1bZYkGcy9Bv7ab3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gUYXL3Aeop7d8Tdl3i6TC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6gUYXL3Aeop7d8Tdl3i6TC",
+            "id": "6gUYXL3Aeop7d8Tdl3i6TC",
+            "name": "AMP",
+            "type": "artist",
+            "uri": "spotify:artist:6gUYXL3Aeop7d8Tdl3i6TC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 98012,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KDqbEIOfO2X5xyFvCUnfl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KDqbEIOfO2X5xyFvCUnfl",
+        "id": "7KDqbEIOfO2X5xyFvCUnfl",
+        "is_local": false,
+        "name": "Freshman, Pt. 2",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7KDqbEIOfO2X5xyFvCUnfl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6S4zWVYuqQVmp2ylPu5cyp"
+}

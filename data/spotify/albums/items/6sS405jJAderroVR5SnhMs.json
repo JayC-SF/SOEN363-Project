@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+      },
+      "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+      "id": "2R21vXR83lH98kGeO99Y66",
+      "name": "Anuel AA",
+      "type": "artist",
+      "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 High Society",
+      "type": "C"
+    },
+    {
+      "text": "2016 High Society",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7705553912390"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6sS405jJAderroVR5SnhMs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6sS405jJAderroVR5SnhMs",
+  "id": "6sS405jJAderroVR5SnhMs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfb63b67c5812521be672c6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfb63b67c5812521be672c6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfb63b67c5812521be672c6b",
+      "width": 64
+    }
+  ],
+  "label": "High Society",
+  "name": "La Otra",
+  "popularity": 0,
+  "release_date": "2016-05-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6sS405jJAderroVR5SnhMs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+            },
+            "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+            "id": "2R21vXR83lH98kGeO99Y66",
+            "name": "Anuel AA",
+            "type": "artist",
+            "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RIxVZCcKFVwuzN2W9B38W"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RIxVZCcKFVwuzN2W9B38W",
+            "id": "2RIxVZCcKFVwuzN2W9B38W",
+            "name": "Dioni",
+            "type": "artist",
+            "uri": "spotify:artist:2RIxVZCcKFVwuzN2W9B38W"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 167235,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gYHxuHX8WOGXH6qm2xftZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6gYHxuHX8WOGXH6qm2xftZ",
+        "id": "6gYHxuHX8WOGXH6qm2xftZ",
+        "is_local": false,
+        "name": "La Otra",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6gYHxuHX8WOGXH6qm2xftZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6sS405jJAderroVR5SnhMs"
+}

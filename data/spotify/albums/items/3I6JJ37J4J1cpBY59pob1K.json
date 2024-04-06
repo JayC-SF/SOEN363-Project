@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+      },
+      "href": "https://api.spotify.com/v1/artists/0PK0Dx3s9et0Uf4XbdFpiW",
+      "id": "0PK0Dx3s9et0Uf4XbdFpiW",
+      "name": "Sons of Zion",
+      "type": "artist",
+      "uri": "spotify:artist:0PK0Dx3s9et0Uf4XbdFpiW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 No Filter Ltd",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 No Filter Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447009628"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3I6JJ37J4J1cpBY59pob1K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3I6JJ37J4J1cpBY59pob1K",
+  "id": "3I6JJ37J4J1cpBY59pob1K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fec1a9dd2d3ce3830a777074",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fec1a9dd2d3ce3830a777074",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fec1a9dd2d3ce3830a777074",
+      "width": 64
+    }
+  ],
+  "label": "No Filter Ltd",
+  "name": "Drift Away",
+  "popularity": 0,
+  "release_date": "2018-03-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3I6JJ37J4J1cpBY59pob1K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PK0Dx3s9et0Uf4XbdFpiW",
+            "id": "0PK0Dx3s9et0Uf4XbdFpiW",
+            "name": "Sons of Zion",
+            "type": "artist",
+            "uri": "spotify:artist:0PK0Dx3s9et0Uf4XbdFpiW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4l4dW1br6X5I8PiuoKWQ4H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4l4dW1br6X5I8PiuoKWQ4H",
+        "id": "4l4dW1br6X5I8PiuoKWQ4H",
+        "is_local": false,
+        "name": "Drift Away",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4l4dW1br6X5I8PiuoKWQ4H"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3I6JJ37J4J1cpBY59pob1K"
+}

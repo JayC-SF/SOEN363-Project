@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+      "id": "5ypxebeHEIXjMtJb17uJlI",
+      "name": "Jet",
+      "type": "artist",
+      "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+      },
+      "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+      "id": "0QJKELJZZuLAjqLOOixJm5",
+      "name": "The Bloody Beetroots",
+      "type": "artist",
+      "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Last Gang Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2017 Last Gang Records Inc. / eOne Music Canada",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634164981822"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1EUxphrH2pkGLZa4Mnzdl9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1EUxphrH2pkGLZa4Mnzdl9",
+  "id": "1EUxphrH2pkGLZa4Mnzdl9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273510436913978a3271b490c41",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02510436913978a3271b490c41",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851510436913978a3271b490c41",
+      "width": 64
+    }
+  ],
+  "label": "Last Gang",
+  "name": "My Name Is Thunder",
+  "popularity": 0,
+  "release_date": "2017-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1EUxphrH2pkGLZa4Mnzdl9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+            "id": "5ypxebeHEIXjMtJb17uJlI",
+            "name": "Jet",
+            "type": "artist",
+            "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0QJKELJZZuLAjqLOOixJm5",
+            "id": "0QJKELJZZuLAjqLOOixJm5",
+            "name": "The Bloody Beetroots",
+            "type": "artist",
+            "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RqGMRYDdHmG4t54DueHAM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3RqGMRYDdHmG4t54DueHAM",
+        "id": "3RqGMRYDdHmG4t54DueHAM",
+        "is_local": false,
+        "name": "My Name Is Thunder",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3RqGMRYDdHmG4t54DueHAM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1EUxphrH2pkGLZa4Mnzdl9"
+}

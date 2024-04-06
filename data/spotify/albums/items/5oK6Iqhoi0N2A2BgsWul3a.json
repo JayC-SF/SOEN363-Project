@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qPOPRRZCrcNQtq4Ce44L5",
+      "id": "6qPOPRRZCrcNQtq4Ce44L5",
+      "name": "Sojabrat",
+      "type": "artist",
+      "uri": "spotify:artist:6qPOPRRZCrcNQtq4Ce44L5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2729969 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 2729969 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196051969059"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5oK6Iqhoi0N2A2BgsWul3a"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5oK6Iqhoi0N2A2BgsWul3a",
+  "id": "5oK6Iqhoi0N2A2BgsWul3a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cadae00f42fc8ce5b5a35968",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cadae00f42fc8ce5b5a35968",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cadae00f42fc8ce5b5a35968",
+      "width": 64
+    }
+  ],
+  "label": "2729969 Records DK",
+  "name": "HAHA!",
+  "popularity": 0,
+  "release_date": "2021-02-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5oK6Iqhoi0N2A2BgsWul3a/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qPOPRRZCrcNQtq4Ce44L5",
+            "id": "6qPOPRRZCrcNQtq4Ce44L5",
+            "name": "Sojabrat",
+            "type": "artist",
+            "uri": "spotify:artist:6qPOPRRZCrcNQtq4Ce44L5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 98429,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gVz0USdONbNQJFTb59QaW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gVz0USdONbNQJFTb59QaW",
+        "id": "5gVz0USdONbNQJFTb59QaW",
+        "is_local": false,
+        "name": "HAHA!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5gVz0USdONbNQJFTb59QaW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5oK6Iqhoi0N2A2BgsWul3a"
+}

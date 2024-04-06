@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5DD5GZd4ElmQTy9NleMvKJ",
+      "id": "5DD5GZd4ElmQTy9NleMvKJ",
+      "name": "Tessa Violet",
+      "type": "artist",
+      "uri": "spotify:artist:5DD5GZd4ElmQTy9NleMvKJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 T\u2206G Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 T\u2206G Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "018736358876"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6YCCXSCAnh4Ppzs8Hv3xXd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6YCCXSCAnh4Ppzs8Hv3xXd",
+  "id": "6YCCXSCAnh4Ppzs8Hv3xXd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e538dac22f7e959be6da222",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e538dac22f7e959be6da222",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e538dac22f7e959be6da222",
+      "width": 64
+    }
+  ],
+  "label": "T\u2206G Music",
+  "name": "Crush",
+  "popularity": 0,
+  "release_date": "2018-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6YCCXSCAnh4Ppzs8Hv3xXd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5DD5GZd4ElmQTy9NleMvKJ",
+            "id": "5DD5GZd4ElmQTy9NleMvKJ",
+            "name": "Tessa Violet",
+            "type": "artist",
+            "uri": "spotify:artist:5DD5GZd4ElmQTy9NleMvKJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6q7Tz67loOULIPEXo941hk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6q7Tz67loOULIPEXo941hk",
+        "id": "6q7Tz67loOULIPEXo941hk",
+        "is_local": false,
+        "name": "Crush",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6q7Tz67loOULIPEXo941hk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6YCCXSCAnh4Ppzs8Hv3xXd"
+}

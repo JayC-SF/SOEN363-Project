@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+      },
+      "href": "https://api.spotify.com/v1/artists/0BXnfQpsxFevtKePq6eX4y",
+      "id": "0BXnfQpsxFevtKePq6eX4y",
+      "name": "Chenayder",
+      "type": "artist",
+      "uri": "spotify:artist:0BXnfQpsxFevtKePq6eX4y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 chenayders",
+      "type": "C"
+    },
+    {
+      "text": "2022 chenayders",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196778447717"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ZGeox8SnKTCGMVkhiXKve"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ZGeox8SnKTCGMVkhiXKve",
+  "id": "4ZGeox8SnKTCGMVkhiXKve",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db295936fc41f295198d575e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db295936fc41f295198d575e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db295936fc41f295198d575e",
+      "width": 64
+    }
+  ],
+  "label": "chenayders",
+  "name": "Fall",
+  "popularity": 0,
+  "release_date": "2022-03-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ZGeox8SnKTCGMVkhiXKve/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+            },
+            "href": "https://api.spotify.com/v1/artists/0BXnfQpsxFevtKePq6eX4y",
+            "id": "0BXnfQpsxFevtKePq6eX4y",
+            "name": "Chenayder",
+            "type": "artist",
+            "uri": "spotify:artist:0BXnfQpsxFevtKePq6eX4y"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eTX9GAv6tH1LmGdJBB5xq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eTX9GAv6tH1LmGdJBB5xq",
+            "id": "7eTX9GAv6tH1LmGdJBB5xq",
+            "name": "StainedTapes",
+            "type": "artist",
+            "uri": "spotify:artist:7eTX9GAv6tH1LmGdJBB5xq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110859,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tPtmcjUNJ1DC98vAmUAgz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tPtmcjUNJ1DC98vAmUAgz",
+        "id": "7tPtmcjUNJ1DC98vAmUAgz",
+        "is_local": false,
+        "name": "Fall",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7tPtmcjUNJ1DC98vAmUAgz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ZGeox8SnKTCGMVkhiXKve"
+}

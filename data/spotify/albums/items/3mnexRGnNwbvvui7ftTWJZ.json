@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+      },
+      "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+      "id": "41Cl8BZQehtPU2JV30fVrn",
+      "name": "80Degrees",
+      "type": "artist",
+      "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197632143271"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3mnexRGnNwbvvui7ftTWJZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3mnexRGnNwbvvui7ftTWJZ",
+  "id": "3mnexRGnNwbvvui7ftTWJZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735eb355179d95ae028aa2c28d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025eb355179d95ae028aa2c28d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515eb355179d95ae028aa2c28d",
+      "width": 64
+    }
+  ],
+  "label": "4839152 Records DK",
+  "name": "myway",
+  "popularity": 0,
+  "release_date": "2023-02-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3mnexRGnNwbvvui7ftTWJZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+            },
+            "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+            "id": "41Cl8BZQehtPU2JV30fVrn",
+            "name": "80Degrees",
+            "type": "artist",
+            "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 116889,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eppGL88479dliQ5zRbGnG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eppGL88479dliQ5zRbGnG",
+        "id": "7eppGL88479dliQ5zRbGnG",
+        "is_local": false,
+        "name": "myway",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7eppGL88479dliQ5zRbGnG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3mnexRGnNwbvvui7ftTWJZ"
+}

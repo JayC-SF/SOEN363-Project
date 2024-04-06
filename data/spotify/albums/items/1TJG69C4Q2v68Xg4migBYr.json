@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/39GPChnC74DiR82lgTzx3o"
+      },
+      "href": "https://api.spotify.com/v1/artists/39GPChnC74DiR82lgTzx3o",
+      "id": "39GPChnC74DiR82lgTzx3o",
+      "name": "John Dreamer",
+      "type": "artist",
+      "uri": "spotify:artist:39GPChnC74DiR82lgTzx3o"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 John Dreamer",
+      "type": "C"
+    },
+    {
+      "text": "2012 John Dreamer",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859708695229"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TJG69C4Q2v68Xg4migBYr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1TJG69C4Q2v68Xg4migBYr",
+  "id": "1TJG69C4Q2v68Xg4migBYr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739683f8274ddf448f60f43450",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029683f8274ddf448f60f43450",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519683f8274ddf448f60f43450",
+      "width": 64
+    }
+  ],
+  "label": "John Dreamer",
+  "name": "Becoming a Legend",
+  "popularity": 0,
+  "release_date": "2012-08-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1TJG69C4Q2v68Xg4migBYr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39GPChnC74DiR82lgTzx3o"
+            },
+            "href": "https://api.spotify.com/v1/artists/39GPChnC74DiR82lgTzx3o",
+            "id": "39GPChnC74DiR82lgTzx3o",
+            "name": "John Dreamer",
+            "type": "artist",
+            "uri": "spotify:artist:39GPChnC74DiR82lgTzx3o"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lzqFs6RCw4cqjPvx197Cq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6lzqFs6RCw4cqjPvx197Cq",
+        "id": "6lzqFs6RCw4cqjPvx197Cq",
+        "is_local": false,
+        "name": "Becoming a Legend",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6lzqFs6RCw4cqjPvx197Cq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1TJG69C4Q2v68Xg4migBYr"
+}

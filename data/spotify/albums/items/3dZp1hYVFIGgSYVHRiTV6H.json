@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Gk9udEVydWQ94pRvk7sKV",
+      "id": "0Gk9udEVydWQ94pRvk7sKV",
+      "name": "Tyler Corbin",
+      "type": "artist",
+      "uri": "spotify:artist:0Gk9udEVydWQ94pRvk7sKV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Jewel City Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Jewel City Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197746401847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3dZp1hYVFIGgSYVHRiTV6H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3dZp1hYVFIGgSYVHRiTV6H",
+  "id": "3dZp1hYVFIGgSYVHRiTV6H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273974b60de41a09699f194313b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02974b60de41a09699f194313b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851974b60de41a09699f194313b",
+      "width": 64
+    }
+  ],
+  "label": "Jewel City Records",
+  "name": "Toil",
+  "popularity": 0,
+  "release_date": "2023-04-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3dZp1hYVFIGgSYVHRiTV6H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Gk9udEVydWQ94pRvk7sKV",
+            "id": "0Gk9udEVydWQ94pRvk7sKV",
+            "name": "Tyler Corbin",
+            "type": "artist",
+            "uri": "spotify:artist:0Gk9udEVydWQ94pRvk7sKV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jcNaffhPgpwTOeMMNTWzc"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jcNaffhPgpwTOeMMNTWzc",
+            "id": "1jcNaffhPgpwTOeMMNTWzc",
+            "name": "Rachael Hayes",
+            "type": "artist",
+            "uri": "spotify:artist:1jcNaffhPgpwTOeMMNTWzc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 291079,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25P0h5ohSHwj2X8vuSE7bi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25P0h5ohSHwj2X8vuSE7bi",
+        "id": "25P0h5ohSHwj2X8vuSE7bi",
+        "is_local": false,
+        "name": "Toil",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:25P0h5ohSHwj2X8vuSE7bi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3dZp1hYVFIGgSYVHRiTV6H"
+}

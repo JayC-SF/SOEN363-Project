@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BQ7bBC8UjUtOkAmUxTx24"
+      },
+      "href": "https://api.spotify.com/v1/artists/1BQ7bBC8UjUtOkAmUxTx24",
+      "id": "1BQ7bBC8UjUtOkAmUxTx24",
+      "name": "Annie Murphy",
+      "type": "artist",
+      "uri": "spotify:artist:1BQ7bBC8UjUtOkAmUxTx24"
+    }
+  ],
+  "available_markets": [
+    "CA"
+  ],
+  "copyrights": [
+    {
+      "text": "2019 Not A Real Holding Company Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2019 Not A Real Holding Company Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859730823683"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5z9LrTbCG44ZB9KEIZVTD4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5z9LrTbCG44ZB9KEIZVTD4",
+  "id": "5z9LrTbCG44ZB9KEIZVTD4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc60e74fbf82091222befcdd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc60e74fbf82091222befcdd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc60e74fbf82091222befcdd",
+      "width": 64
+    }
+  ],
+  "label": "Not A Real Holding Company Inc.",
+  "name": "A Little Bit Alexis (From Schitt's Creek)",
+  "popularity": 18,
+  "release_date": "2019-02-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5z9LrTbCG44ZB9KEIZVTD4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQ7bBC8UjUtOkAmUxTx24"
+            },
+            "href": "https://api.spotify.com/v1/artists/1BQ7bBC8UjUtOkAmUxTx24",
+            "id": "1BQ7bBC8UjUtOkAmUxTx24",
+            "name": "Annie Murphy",
+            "type": "artist",
+            "uri": "spotify:artist:1BQ7bBC8UjUtOkAmUxTx24"
+          }
+        ],
+        "available_markets": [
+          "CA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206899,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C3EZlTGB3p6KKFwGneag6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3C3EZlTGB3p6KKFwGneag6",
+        "id": "3C3EZlTGB3p6KKFwGneag6",
+        "is_local": false,
+        "name": "A Little Bit Alexis (From Schitt's Creek)",
+        "preview_url": "https://p.scdn.co/mp3-preview/6502ab58e58794013fabe3eca405e4aac65af965?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3C3EZlTGB3p6KKFwGneag6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5z9LrTbCG44ZB9KEIZVTD4"
+}

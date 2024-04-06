@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5npjQfErTRx8rKGrZX2LEE"
+      },
+      "href": "https://api.spotify.com/v1/artists/5npjQfErTRx8rKGrZX2LEE",
+      "id": "5npjQfErTRx8rKGrZX2LEE",
+      "name": "T. Scott",
+      "type": "artist",
+      "uri": "spotify:artist:5npjQfErTRx8rKGrZX2LEE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 T. Scott",
+      "type": "C"
+    },
+    {
+      "text": "2019 T. Scott",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859733409464"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3VLGciJptc3impHoxZDC6W"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3VLGciJptc3impHoxZDC6W",
+  "id": "3VLGciJptc3impHoxZDC6W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321a9a4d8a92946ca1e2484bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221a9a4d8a92946ca1e2484bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121a9a4d8a92946ca1e2484bd",
+      "width": 64
+    }
+  ],
+  "label": "T. Scott",
+  "name": "Drugs You Should Try It",
+  "popularity": 0,
+  "release_date": "2019-07-11",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3VLGciJptc3impHoxZDC6W/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5npjQfErTRx8rKGrZX2LEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/5npjQfErTRx8rKGrZX2LEE",
+            "id": "5npjQfErTRx8rKGrZX2LEE",
+            "name": "T. Scott",
+            "type": "artist",
+            "uri": "spotify:artist:5npjQfErTRx8rKGrZX2LEE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yu6IwLS6u9lqGhqDbZUtO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Yu6IwLS6u9lqGhqDbZUtO",
+        "id": "0Yu6IwLS6u9lqGhqDbZUtO",
+        "is_local": false,
+        "name": "Drugs You Should Try It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Yu6IwLS6u9lqGhqDbZUtO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3VLGciJptc3impHoxZDC6W"
+}

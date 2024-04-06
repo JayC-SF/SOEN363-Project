@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1L8lUy3lsKiJ7Ogomq3o44"
+      },
+      "href": "https://api.spotify.com/v1/artists/1L8lUy3lsKiJ7Ogomq3o44",
+      "id": "1L8lUy3lsKiJ7Ogomq3o44",
+      "name": "Nazda",
+      "type": "artist",
+      "uri": "spotify:artist:1L8lUy3lsKiJ7Ogomq3o44"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Nazda",
+      "type": "C"
+    },
+    {
+      "text": "2022 Nazda",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4099885337802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6p4CbWVQWH3Xg2Kbn6CY8G"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6p4CbWVQWH3Xg2Kbn6CY8G",
+  "id": "6p4CbWVQWH3Xg2Kbn6CY8G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6fb5ad98c338669d8ad9d46",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6fb5ad98c338669d8ad9d46",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6fb5ad98c338669d8ad9d46",
+      "width": 64
+    }
+  ],
+  "label": "recordJet",
+  "name": "Outer Space",
+  "popularity": 0,
+  "release_date": "2022-12-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6p4CbWVQWH3Xg2Kbn6CY8G/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1L8lUy3lsKiJ7Ogomq3o44"
+            },
+            "href": "https://api.spotify.com/v1/artists/1L8lUy3lsKiJ7Ogomq3o44",
+            "id": "1L8lUy3lsKiJ7Ogomq3o44",
+            "name": "Nazda",
+            "type": "artist",
+            "uri": "spotify:artist:1L8lUy3lsKiJ7Ogomq3o44"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233894,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ezk7VoE1jRkX2d78HgUfJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ezk7VoE1jRkX2d78HgUfJ",
+        "id": "5Ezk7VoE1jRkX2d78HgUfJ",
+        "is_local": false,
+        "name": "Outer Space",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Ezk7VoE1jRkX2d78HgUfJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6p4CbWVQWH3Xg2Kbn6CY8G"
+}

@@ -1,0 +1,129 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id": "1KpCi9BOfviCVhmpI4G2sY",
+      "name": "Tchami",
+      "type": "artist",
+      "uri": "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+      },
+      "href": "https://api.spotify.com/v1/artists/3IHsD0sttucHrX8b32Vcab",
+      "id": "3IHsD0sttucHrX8b32Vcab",
+      "name": "BROHUG",
+      "type": "artist",
+      "uri": "spotify:artist:3IHsD0sttucHrX8b32Vcab"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Confession",
+      "type": "C"
+    },
+    {
+      "text": "2020 Confession",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "808391038400"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1t2JfCLBwlJZiFKllOFxjD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1t2JfCLBwlJZiFKllOFxjD",
+  "id": "1t2JfCLBwlJZiFKllOFxjD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d31b30103d69d84c20508f4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d31b30103d69d84c20508f4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d31b30103d69d84c20508f4d",
+      "width": 64
+    }
+  ],
+  "label": "Confession",
+  "name": "My Place",
+  "popularity": 0,
+  "release_date": "2018-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1t2JfCLBwlJZiFKllOFxjD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+            "id": "1KpCi9BOfviCVhmpI4G2sY",
+            "name": "Tchami",
+            "type": "artist",
+            "uri": "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+            },
+            "href": "https://api.spotify.com/v1/artists/3IHsD0sttucHrX8b32Vcab",
+            "id": "3IHsD0sttucHrX8b32Vcab",
+            "name": "BROHUG",
+            "type": "artist",
+            "uri": "spotify:artist:3IHsD0sttucHrX8b32Vcab"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL"
+            },
+            "href": "https://api.spotify.com/v1/artists/0znYdSCG2n7myCQ8BRsJqL",
+            "id": "0znYdSCG2n7myCQ8BRsJqL",
+            "name": "Reece",
+            "type": "artist",
+            "uri": "spotify:artist:0znYdSCG2n7myCQ8BRsJqL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256661,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eZfGuAo4H2iTKtQhxcdLD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eZfGuAo4H2iTKtQhxcdLD",
+        "id": "0eZfGuAo4H2iTKtQhxcdLD",
+        "is_local": false,
+        "name": "My Place",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0eZfGuAo4H2iTKtQhxcdLD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1t2JfCLBwlJZiFKllOFxjD"
+}

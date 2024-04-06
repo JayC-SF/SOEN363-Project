@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+      },
+      "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+      "id": "718COspgdWOnwOFpJHRZHS",
+      "name": "Luke Combs",
+      "type": "artist",
+      "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+      },
+      "href": "https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz",
+      "id": "0XKOBt59crntr7HQXXO8Yz",
+      "name": "Brooks & Dunn",
+      "type": "artist",
+      "uri": "spotify:artist:0XKOBt59crntr7HQXXO8Yz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2019 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447918517"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Vhpj39fiR6IC6YgBTuAxL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2Vhpj39fiR6IC6YgBTuAxL",
+  "id": "2Vhpj39fiR6IC6YgBTuAxL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273599303fb833e8e4ccb5cac02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02599303fb833e8e4ccb5cac02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851599303fb833e8e4ccb5cac02",
+      "width": 64
+    }
+  ],
+  "label": "River House Artists/Columbia Nashville",
+  "name": "1, 2 Many",
+  "popularity": 0,
+  "release_date": "2019-09-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Vhpj39fiR6IC6YgBTuAxL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+            },
+            "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+            "id": "718COspgdWOnwOFpJHRZHS",
+            "name": "Luke Combs",
+            "type": "artist",
+            "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+            },
+            "href": "https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz",
+            "id": "0XKOBt59crntr7HQXXO8Yz",
+            "name": "Brooks & Dunn",
+            "type": "artist",
+            "uri": "spotify:artist:0XKOBt59crntr7HQXXO8Yz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OlBux2r07KoOtfomcade6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4OlBux2r07KoOtfomcade6",
+        "id": "4OlBux2r07KoOtfomcade6",
+        "is_local": false,
+        "name": "1, 2 Many",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4OlBux2r07KoOtfomcade6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2Vhpj39fiR6IC6YgBTuAxL"
+}

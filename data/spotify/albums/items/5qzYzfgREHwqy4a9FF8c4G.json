@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0w4xMjggr1TBiQbbOHOS8x"
+      },
+      "href": "https://api.spotify.com/v1/artists/0w4xMjggr1TBiQbbOHOS8x",
+      "id": "0w4xMjggr1TBiQbbOHOS8x",
+      "name": "Fearless Soul",
+      "type": "artist",
+      "uri": "spotify:artist:0w4xMjggr1TBiQbbOHOS8x"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Fearless Soul",
+      "type": "C"
+    },
+    {
+      "text": "2020 Fearless Soul",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194152509426"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5qzYzfgREHwqy4a9FF8c4G"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5qzYzfgREHwqy4a9FF8c4G",
+  "id": "5qzYzfgREHwqy4a9FF8c4G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dadfe1e66b0be1d4badecd63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dadfe1e66b0be1d4badecd63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dadfe1e66b0be1d4badecd63",
+      "width": 64
+    }
+  ],
+  "label": "Fearless Soul",
+  "name": "Fix You",
+  "popularity": 0,
+  "release_date": "2021-06-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5qzYzfgREHwqy4a9FF8c4G/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0w4xMjggr1TBiQbbOHOS8x"
+            },
+            "href": "https://api.spotify.com/v1/artists/0w4xMjggr1TBiQbbOHOS8x",
+            "id": "0w4xMjggr1TBiQbbOHOS8x",
+            "name": "Fearless Soul",
+            "type": "artist",
+            "uri": "spotify:artist:0w4xMjggr1TBiQbbOHOS8x"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266674,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28adRiQeQlNMLStTG6mkgZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28adRiQeQlNMLStTG6mkgZ",
+        "id": "28adRiQeQlNMLStTG6mkgZ",
+        "is_local": false,
+        "name": "Fix You",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:28adRiQeQlNMLStTG6mkgZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5qzYzfgREHwqy4a9FF8c4G"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+      },
+      "href": "https://api.spotify.com/v1/artists/4zmZ8lVLzGc84S4v2B1rLx",
+      "id": "4zmZ8lVLzGc84S4v2B1rLx",
+      "name": "Seyi Vibez",
+      "type": "artist",
+      "uri": "spotify:artist:4zmZ8lVLzGc84S4v2B1rLx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Seyi Vibez / Dvpper Music",
+      "type": "C"
+    },
+    {
+      "text": "2022 Seyi Vibez / Dvpper Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0766214755647"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/54lhfBEN75YmKP7vaeENMk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/54lhfBEN75YmKP7vaeENMk",
+  "id": "54lhfBEN75YmKP7vaeENMk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1ade585a0acd2227cea3674",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1ade585a0acd2227cea3674",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1ade585a0acd2227cea3674",
+      "width": 64
+    }
+  ],
+  "label": "Seyi Vibez / Dvpper Music",
+  "name": "C Major",
+  "popularity": 1,
+  "release_date": "2022-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/54lhfBEN75YmKP7vaeENMk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zmZ8lVLzGc84S4v2B1rLx",
+            "id": "4zmZ8lVLzGc84S4v2B1rLx",
+            "name": "Seyi Vibez",
+            "type": "artist",
+            "uri": "spotify:artist:4zmZ8lVLzGc84S4v2B1rLx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149775,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QDyeFaQeOHLCsI6Dtglyd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QDyeFaQeOHLCsI6Dtglyd",
+        "id": "6QDyeFaQeOHLCsI6Dtglyd",
+        "is_local": false,
+        "name": "C Major",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6QDyeFaQeOHLCsI6Dtglyd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:54lhfBEN75YmKP7vaeENMk"
+}

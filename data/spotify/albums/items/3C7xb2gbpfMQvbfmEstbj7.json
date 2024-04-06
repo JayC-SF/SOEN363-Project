@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+      },
+      "href": "https://api.spotify.com/v1/artists/4FSHCrSzZlOrwOMmEInVwf",
+      "id": "4FSHCrSzZlOrwOMmEInVwf",
+      "name": "Stormerz",
+      "type": "artist",
+      "uri": "spotify:artist:4FSHCrSzZlOrwOMmEInVwf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Stormerz",
+      "type": "C"
+    },
+    {
+      "text": "2020 Stormerz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195268170500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3C7xb2gbpfMQvbfmEstbj7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3C7xb2gbpfMQvbfmEstbj7",
+  "id": "3C7xb2gbpfMQvbfmEstbj7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab36f9e65bf4158e47de9a7c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab36f9e65bf4158e47de9a7c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab36f9e65bf4158e47de9a7c",
+      "width": 64
+    }
+  ],
+  "label": "Stormerz",
+  "name": "Summer Is Magic",
+  "popularity": 0,
+  "release_date": "2020-04-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3C7xb2gbpfMQvbfmEstbj7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+            },
+            "href": "https://api.spotify.com/v1/artists/4FSHCrSzZlOrwOMmEInVwf",
+            "id": "4FSHCrSzZlOrwOMmEInVwf",
+            "name": "Stormerz",
+            "type": "artist",
+            "uri": "spotify:artist:4FSHCrSzZlOrwOMmEInVwf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172821,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jcvNDsGEw6OmYNcG5oWQI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jcvNDsGEw6OmYNcG5oWQI",
+        "id": "4jcvNDsGEw6OmYNcG5oWQI",
+        "is_local": false,
+        "name": "Summer Is Magic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4jcvNDsGEw6OmYNcG5oWQI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3C7xb2gbpfMQvbfmEstbj7"
+}

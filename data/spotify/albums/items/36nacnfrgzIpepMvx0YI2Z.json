@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2mmsV4pFGW3DsdKlkk1D6V"
+      },
+      "href": "https://api.spotify.com/v1/artists/2mmsV4pFGW3DsdKlkk1D6V",
+      "id": "2mmsV4pFGW3DsdKlkk1D6V",
+      "name": "The Nuts",
+      "type": "artist",
+      "uri": "spotify:artist:2mmsV4pFGW3DsdKlkk1D6V"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 The Nuts",
+      "type": "C"
+    },
+    {
+      "text": "2013 The Nuts",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055489256009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36nacnfrgzIpepMvx0YI2Z"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/36nacnfrgzIpepMvx0YI2Z",
+  "id": "36nacnfrgzIpepMvx0YI2Z",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d00a8df2f5314e48bc2abba3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d00a8df2f5314e48bc2abba3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d00a8df2f5314e48bc2abba3",
+      "width": 64
+    }
+  ],
+  "label": "The Nuts",
+  "name": "Angelina Jolie",
+  "popularity": 0,
+  "release_date": "2013-01-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/36nacnfrgzIpepMvx0YI2Z/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mmsV4pFGW3DsdKlkk1D6V"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mmsV4pFGW3DsdKlkk1D6V",
+            "id": "2mmsV4pFGW3DsdKlkk1D6V",
+            "name": "The Nuts",
+            "type": "artist",
+            "uri": "spotify:artist:2mmsV4pFGW3DsdKlkk1D6V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0C7jNN7adaqk7DwKZigIgN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0C7jNN7adaqk7DwKZigIgN",
+        "id": "0C7jNN7adaqk7DwKZigIgN",
+        "is_local": false,
+        "name": "Angelina Jolie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0C7jNN7adaqk7DwKZigIgN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mmsV4pFGW3DsdKlkk1D6V"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mmsV4pFGW3DsdKlkk1D6V",
+            "id": "2mmsV4pFGW3DsdKlkk1D6V",
+            "name": "The Nuts",
+            "type": "artist",
+            "uri": "spotify:artist:2mmsV4pFGW3DsdKlkk1D6V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PZc4BorsalN11ryZaZ8Ju"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6PZc4BorsalN11ryZaZ8Ju",
+        "id": "6PZc4BorsalN11ryZaZ8Ju",
+        "is_local": false,
+        "name": "Polish Girls",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6PZc4BorsalN11ryZaZ8Ju"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:36nacnfrgzIpepMvx0YI2Z"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ChF3i92IPZHduM7jN3dpg",
+      "id": "5ChF3i92IPZHduM7jN3dpg",
+      "name": "Nicky Romero",
+      "type": "artist",
+      "uri": "spotify:artist:5ChF3i92IPZHduM7jN3dpg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2011 SpinninRecords.nl",
+      "type": "C"
+    },
+    {
+      "text": "2011 SpinninRecords.nl",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944430165"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6FypcAZhJmCJJB8yEajt71"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6FypcAZhJmCJJB8yEajt71",
+  "id": "6FypcAZhJmCJJB8yEajt71",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c6e442582a660e4aa410de0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c6e442582a660e4aa410de0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c6e442582a660e4aa410de0",
+      "width": 64
+    }
+  ],
+  "label": "Spinnin' Records",
+  "name": "Toulouse",
+  "popularity": 0,
+  "release_date": "2012-01-02",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6FypcAZhJmCJJB8yEajt71/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ChF3i92IPZHduM7jN3dpg",
+            "id": "5ChF3i92IPZHduM7jN3dpg",
+            "name": "Nicky Romero",
+            "type": "artist",
+            "uri": "spotify:artist:5ChF3i92IPZHduM7jN3dpg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 365625,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sCIdsYQ8Nxoj6TjB1Eb7P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7sCIdsYQ8Nxoj6TjB1Eb7P",
+        "id": "7sCIdsYQ8Nxoj6TjB1Eb7P",
+        "is_local": false,
+        "name": "Toulouse - Original Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7sCIdsYQ8Nxoj6TjB1Eb7P"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6FypcAZhJmCJJB8yEajt71"
+}

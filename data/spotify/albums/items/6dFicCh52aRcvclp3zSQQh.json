@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+      "id": "3YJDqtTSjydvUpTvU1fJ6O",
+      "name": "CG5",
+      "type": "artist",
+      "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 632903 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2017 632903 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840095022873"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6dFicCh52aRcvclp3zSQQh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6dFicCh52aRcvclp3zSQQh",
+  "id": "6dFicCh52aRcvclp3zSQQh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363f765ecc47e86a311394389",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263f765ecc47e86a311394389",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163f765ecc47e86a311394389",
+      "width": 64
+    }
+  ],
+  "label": "632903 Records DK",
+  "name": "Amen",
+  "popularity": 0,
+  "release_date": "2017-05-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6dFicCh52aRcvclp3zSQQh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+            "id": "3YJDqtTSjydvUpTvU1fJ6O",
+            "name": "CG5",
+            "type": "artist",
+            "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67GoKR5fq3uVmyzZQjmGwr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/67GoKR5fq3uVmyzZQjmGwr",
+        "id": "67GoKR5fq3uVmyzZQjmGwr",
+        "is_local": false,
+        "name": "Amen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:67GoKR5fq3uVmyzZQjmGwr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6dFicCh52aRcvclp3zSQQh"
+}

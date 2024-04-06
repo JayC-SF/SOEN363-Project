@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+      },
+      "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+      "id": "512ryQI6aOrN662xL2g1C9",
+      "name": "Joe Worker",
+      "type": "artist",
+      "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 2206, LLC.",
+      "type": "C"
+    },
+    {
+      "text": "2023 2206, LLC.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "734167835433"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4XUR2eXfmTuanth32gmfK5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4XUR2eXfmTuanth32gmfK5",
+  "id": "4XUR2eXfmTuanth32gmfK5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395cabf328cb541f5e1820f8a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295cabf328cb541f5e1820f8a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195cabf328cb541f5e1820f8a",
+      "width": 64
+    }
+  ],
+  "label": "2206, LLC.",
+  "name": "Young OG",
+  "popularity": 0,
+  "release_date": "2023-05-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4XUR2eXfmTuanth32gmfK5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+            },
+            "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+            "id": "512ryQI6aOrN662xL2g1C9",
+            "name": "Joe Worker",
+            "type": "artist",
+            "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155016,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xB7Zn0TwQajMOt7UM6Hfl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xB7Zn0TwQajMOt7UM6Hfl",
+        "id": "0xB7Zn0TwQajMOt7UM6Hfl",
+        "is_local": false,
+        "name": "Young OG",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xB7Zn0TwQajMOt7UM6Hfl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4XUR2eXfmTuanth32gmfK5"
+}

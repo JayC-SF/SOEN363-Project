@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+      },
+      "href": "https://api.spotify.com/v1/artists/41X1TR6hrK8Q2ZCpp2EqCz",
+      "id": "41X1TR6hrK8Q2ZCpp2EqCz",
+      "name": "bbno$",
+      "type": "artist",
+      "uri": "spotify:artist:41X1TR6hrK8Q2ZCpp2EqCz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 bbno$",
+      "type": "C"
+    },
+    {
+      "text": "2021 bbno$",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "653738610623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5fkoeeumL7hJ91pqy3XBYc",
+  "id": "5fkoeeumL7hJ91pqy3XBYc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e82a389117772d7198cf0596",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e82a389117772d7198cf0596",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e82a389117772d7198cf0596",
+      "width": 64
+    }
+  ],
+  "label": "bbno$",
+  "name": "i remember",
+  "popularity": 5,
+  "release_date": "2021-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5fkoeeumL7hJ91pqy3XBYc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+            },
+            "href": "https://api.spotify.com/v1/artists/41X1TR6hrK8Q2ZCpp2EqCz",
+            "id": "41X1TR6hrK8Q2ZCpp2EqCz",
+            "name": "bbno$",
+            "type": "artist",
+            "uri": "spotify:artist:41X1TR6hrK8Q2ZCpp2EqCz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MWFPLrhkekG6gcix2l3vJ",
+        "id": "4MWFPLrhkekG6gcix2l3vJ",
+        "is_local": false,
+        "name": "i remember",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4MWFPLrhkekG6gcix2l3vJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5fkoeeumL7hJ91pqy3XBYc"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+      "id": "6Tyzp9KzpiZ04DABQoedps",
+      "name": "Little Dragon",
+      "type": "artist",
+      "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Peacefrog Holdings Ltd. This label copy information is the subject of copyright protection. All rights reserved. (C) 2012 Parlophone Records Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2012 The copyright in this sound recording is owned by Peacefrog Holdings Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060100743639"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2QKEtBkuGiG4QQFXfbFEe5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2QKEtBkuGiG4QQFXfbFEe5",
+  "id": "2QKEtBkuGiG4QQFXfbFEe5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c2dd8d8ab41d2da0156b8a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c2dd8d8ab41d2da0156b8a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c2dd8d8ab41d2da0156b8a0",
+      "width": 64
+    }
+  ],
+  "label": "Peacefrog",
+  "name": "Sunshine",
+  "popularity": 0,
+  "release_date": "2012-06-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2QKEtBkuGiG4QQFXfbFEe5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+            "id": "6Tyzp9KzpiZ04DABQoedps",
+            "name": "Little Dragon",
+            "type": "artist",
+            "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209345,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SxGYFjKKMv1GaUyhw6if7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SxGYFjKKMv1GaUyhw6if7",
+        "id": "3SxGYFjKKMv1GaUyhw6if7",
+        "is_local": false,
+        "name": "Sunshine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SxGYFjKKMv1GaUyhw6if7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2QKEtBkuGiG4QQFXfbFEe5"
+}

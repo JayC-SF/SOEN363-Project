@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+      },
+      "href": "https://api.spotify.com/v1/artists/5schXx0Ys4N52iU7On2j4c",
+      "id": "5schXx0Ys4N52iU7On2j4c",
+      "name": "Made in M",
+      "type": "artist",
+      "uri": "spotify:artist:5schXx0Ys4N52iU7On2j4c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Okocha Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Okocha Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939455309"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4gn3EDwvCo89NblFiTQj31"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4gn3EDwvCo89NblFiTQj31",
+  "id": "4gn3EDwvCo89NblFiTQj31",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc1ea184113909285d366e9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc1ea184113909285d366e9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc1ea184113909285d366e9c",
+      "width": 64
+    }
+  ],
+  "label": "Okocha Records",
+  "name": "Semana / Deep Blue",
+  "popularity": 0,
+  "release_date": "2021-03-11",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4gn3EDwvCo89NblFiTQj31/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5schXx0Ys4N52iU7On2j4c",
+            "id": "5schXx0Ys4N52iU7On2j4c",
+            "name": "Made in M",
+            "type": "artist",
+            "uri": "spotify:artist:5schXx0Ys4N52iU7On2j4c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 98812,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OZoEwBNFlIP9YNdzTEtzM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2OZoEwBNFlIP9YNdzTEtzM",
+        "id": "2OZoEwBNFlIP9YNdzTEtzM",
+        "is_local": false,
+        "name": "Semana",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2OZoEwBNFlIP9YNdzTEtzM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5schXx0Ys4N52iU7On2j4c",
+            "id": "5schXx0Ys4N52iU7On2j4c",
+            "name": "Made in M",
+            "type": "artist",
+            "uri": "spotify:artist:5schXx0Ys4N52iU7On2j4c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 106062,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/302BJCCUiipYnTYwJcbZID"
+        },
+        "href": "https://api.spotify.com/v1/tracks/302BJCCUiipYnTYwJcbZID",
+        "id": "302BJCCUiipYnTYwJcbZID",
+        "is_local": false,
+        "name": "Deep Blue",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:302BJCCUiipYnTYwJcbZID"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4gn3EDwvCo89NblFiTQj31"
+}

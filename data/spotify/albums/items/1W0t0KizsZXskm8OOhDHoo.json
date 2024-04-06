@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0GCgnG9YEbz5i9ASbvZNTP",
+      "id": "0GCgnG9YEbz5i9ASbvZNTP",
+      "name": "Balloranking",
+      "type": "artist",
+      "uri": "spotify:artist:0GCgnG9YEbz5i9ASbvZNTP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Zero Panic / Dvpper Music",
+      "type": "C"
+    },
+    {
+      "text": "2023 Zero Panic / Dvpper Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0766214740339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1W0t0KizsZXskm8OOhDHoo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1W0t0KizsZXskm8OOhDHoo",
+  "id": "1W0t0KizsZXskm8OOhDHoo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d215206ad2ed180ecd9938c3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d215206ad2ed180ecd9938c3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d215206ad2ed180ecd9938c3",
+      "width": 64
+    }
+  ],
+  "label": "Zero Panic / Dvpper Music",
+  "name": "Brand New",
+  "popularity": 0,
+  "release_date": "2023-07-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1W0t0KizsZXskm8OOhDHoo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GCgnG9YEbz5i9ASbvZNTP",
+            "id": "0GCgnG9YEbz5i9ASbvZNTP",
+            "name": "Balloranking",
+            "type": "artist",
+            "uri": "spotify:artist:0GCgnG9YEbz5i9ASbvZNTP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 109333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZcUBDNxHYm4U8WNjBjVoS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ZcUBDNxHYm4U8WNjBjVoS",
+        "id": "5ZcUBDNxHYm4U8WNjBjVoS",
+        "is_local": false,
+        "name": "Brand New",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ZcUBDNxHYm4U8WNjBjVoS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GCgnG9YEbz5i9ASbvZNTP",
+            "id": "0GCgnG9YEbz5i9ASbvZNTP",
+            "name": "Balloranking",
+            "type": "artist",
+            "uri": "spotify:artist:0GCgnG9YEbz5i9ASbvZNTP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 84694,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aDP2wCCK8Ogvdfpj2MzgF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aDP2wCCK8Ogvdfpj2MzgF",
+        "id": "3aDP2wCCK8Ogvdfpj2MzgF",
+        "is_local": false,
+        "name": "Brand New (sped up)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3aDP2wCCK8Ogvdfpj2MzgF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1W0t0KizsZXskm8OOhDHoo"
+}

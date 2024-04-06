@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
+      },
+      "href": "https://api.spotify.com/v1/artists/0t84CBqmvihsUVFme33TLd",
+      "id": "0t84CBqmvihsUVFme33TLd",
+      "name": "GReeeN",
+      "type": "artist",
+      "uri": "spotify:artist:0t84CBqmvihsUVFme33TLd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 GReeeN",
+      "type": "C"
+    },
+    {
+      "text": "2021 GReeeN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9180006830014"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2qmC5ZRrU4vm7kwArm4n7O"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2qmC5ZRrU4vm7kwArm4n7O",
+  "id": "2qmC5ZRrU4vm7kwArm4n7O",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cefff755b88c2e452885a94e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cefff755b88c2e452885a94e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cefff755b88c2e452885a94e",
+      "width": 64
+    }
+  ],
+  "label": "recordJet",
+  "name": "Bin f\u00fcr dich da",
+  "popularity": 0,
+  "release_date": "2021-11-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2qmC5ZRrU4vm7kwArm4n7O/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
+            },
+            "href": "https://api.spotify.com/v1/artists/0t84CBqmvihsUVFme33TLd",
+            "id": "0t84CBqmvihsUVFme33TLd",
+            "name": "GReeeN",
+            "type": "artist",
+            "uri": "spotify:artist:0t84CBqmvihsUVFme33TLd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196399,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6n6vx9XGUs9wJWhBwuGVBO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6n6vx9XGUs9wJWhBwuGVBO",
+        "id": "6n6vx9XGUs9wJWhBwuGVBO",
+        "is_local": false,
+        "name": "Bin f\u00fcr dich da",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6n6vx9XGUs9wJWhBwuGVBO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2qmC5ZRrU4vm7kwArm4n7O"
+}

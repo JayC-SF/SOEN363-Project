@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+      },
+      "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+      "id": "2R21vXR83lH98kGeO99Y66",
+      "name": "Anuel AA",
+      "type": "artist",
+      "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "name": "Bad Bunny",
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Real Hasta La Muerte",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "191773076597"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/69298o2PRuTZF9qX3CLojO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/69298o2PRuTZF9qX3CLojO",
+  "id": "69298o2PRuTZF9qX3CLojO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273222b4387a4867fec245dd09e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02222b4387a4867fec245dd09e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851222b4387a4867fec245dd09e",
+      "width": 64
+    }
+  ],
+  "label": "2017 Real Hasta La Muerte",
+  "name": "La \u00daltima Vez",
+  "popularity": 0,
+  "release_date": "2017-05-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/69298o2PRuTZF9qX3CLojO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+            },
+            "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+            "id": "2R21vXR83lH98kGeO99Y66",
+            "name": "Anuel AA",
+            "type": "artist",
+            "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "type": "artist",
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 306804,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4J1e3hbf0e5YUZjkxyJWD3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4J1e3hbf0e5YUZjkxyJWD3",
+        "id": "4J1e3hbf0e5YUZjkxyJWD3",
+        "is_local": false,
+        "name": "La \u00daltima Vez",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4J1e3hbf0e5YUZjkxyJWD3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:69298o2PRuTZF9qX3CLojO"
+}

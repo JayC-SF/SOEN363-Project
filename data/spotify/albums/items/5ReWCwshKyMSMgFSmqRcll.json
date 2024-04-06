@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1peoXq0RPx7czVoFjloeDQ",
+      "id": "1peoXq0RPx7czVoFjloeDQ",
+      "name": "MAVI",
+      "type": "artist",
+      "uri": "spotify:artist:1peoXq0RPx7czVoFjloeDQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 mavi",
+      "type": "C"
+    },
+    {
+      "text": "2019 mavi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191998425859"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ReWCwshKyMSMgFSmqRcll"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ReWCwshKyMSMgFSmqRcll",
+  "id": "5ReWCwshKyMSMgFSmqRcll",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730965e1f9b1d3c98ed81fdff8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020965e1f9b1d3c98ed81fdff8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510965e1f9b1d3c98ed81fdff8",
+      "width": 64
+    }
+  ],
+  "label": "mavi",
+  "name": "five minutes writing from the bottom",
+  "popularity": 33,
+  "release_date": "2019-07-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ReWCwshKyMSMgFSmqRcll/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1peoXq0RPx7czVoFjloeDQ",
+            "id": "1peoXq0RPx7czVoFjloeDQ",
+            "name": "MAVI",
+            "type": "artist",
+            "uri": "spotify:artist:1peoXq0RPx7czVoFjloeDQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138086,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pK5EVdEv4OlPUsWL3TxD1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pK5EVdEv4OlPUsWL3TxD1",
+        "id": "7pK5EVdEv4OlPUsWL3TxD1",
+        "is_local": false,
+        "name": "five minutes writing from the bottom",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7pK5EVdEv4OlPUsWL3TxD1"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ReWCwshKyMSMgFSmqRcll"
+}

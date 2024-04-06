@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0crE9aXHwlwRFTjfZiy7lj"
+      },
+      "href": "https://api.spotify.com/v1/artists/0crE9aXHwlwRFTjfZiy7lj",
+      "id": "0crE9aXHwlwRFTjfZiy7lj",
+      "name": "Joe Hedourix",
+      "type": "artist",
+      "uri": "spotify:artist:0crE9aXHwlwRFTjfZiy7lj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3914753 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3914753 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196863831056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4sGB0GV7ufD4sooAaRpCHA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4sGB0GV7ufD4sooAaRpCHA",
+  "id": "4sGB0GV7ufD4sooAaRpCHA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398f8afb2cbd1ccc4cd5b163f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298f8afb2cbd1ccc4cd5b163f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198f8afb2cbd1ccc4cd5b163f",
+      "width": 64
+    }
+  ],
+  "label": "3914753 Records DK",
+  "name": "Party Tonight",
+  "popularity": 1,
+  "release_date": "2022-05-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4sGB0GV7ufD4sooAaRpCHA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0crE9aXHwlwRFTjfZiy7lj"
+            },
+            "href": "https://api.spotify.com/v1/artists/0crE9aXHwlwRFTjfZiy7lj",
+            "id": "0crE9aXHwlwRFTjfZiy7lj",
+            "name": "Joe Hedourix",
+            "type": "artist",
+            "uri": "spotify:artist:0crE9aXHwlwRFTjfZiy7lj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189033,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74FHi3NEpBILVHKccWMstM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74FHi3NEpBILVHKccWMstM",
+        "id": "74FHi3NEpBILVHKccWMstM",
+        "is_local": false,
+        "name": "Party Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74FHi3NEpBILVHKccWMstM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4sGB0GV7ufD4sooAaRpCHA"
+}

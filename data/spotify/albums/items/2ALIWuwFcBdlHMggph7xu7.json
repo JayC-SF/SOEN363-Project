@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+      },
+      "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+      "id": "2KaW48xlLnXC2v8tvyhWsa",
+      "name": "Amaranthe",
+      "type": "artist",
+      "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2012 Spin-Farm Oy",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2012 Spin-Farm Oy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537046959"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ALIWuwFcBdlHMggph7xu7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ALIWuwFcBdlHMggph7xu7",
+  "id": "2ALIWuwFcBdlHMggph7xu7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273985e3e29065030c5f782dc1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02985e3e29065030c5f782dc1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851985e3e29065030c5f782dc1c",
+      "width": 64
+    }
+  ],
+  "label": "Spin-Farm Oy",
+  "name": "1.000.000 Lightyears",
+  "popularity": 0,
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ALIWuwFcBdlHMggph7xu7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+            "id": "2KaW48xlLnXC2v8tvyhWsa",
+            "name": "Amaranthe",
+            "type": "artist",
+            "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ynUrJ67XLB9Y03fk0YxyK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ynUrJ67XLB9Y03fk0YxyK",
+        "id": "3ynUrJ67XLB9Y03fk0YxyK",
+        "is_local": false,
+        "name": "1.000.000 Lightyears",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ynUrJ67XLB9Y03fk0YxyK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2KaW48xlLnXC2v8tvyhWsa",
+            "id": "2KaW48xlLnXC2v8tvyhWsa",
+            "name": "Amaranthe",
+            "type": "artist",
+            "uri": "spotify:artist:2KaW48xlLnXC2v8tvyhWsa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bFt8tv1jUexhq8r0QJlkO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3bFt8tv1jUexhq8r0QJlkO",
+        "id": "3bFt8tv1jUexhq8r0QJlkO",
+        "is_local": false,
+        "name": "1.000.000 Lightyears - Elektro Remix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3bFt8tv1jUexhq8r0QJlkO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2ALIWuwFcBdlHMggph7xu7"
+}

@@ -1,0 +1,133 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3rGuJQSYUjpHjWVhE1NgdQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3rGuJQSYUjpHjWVhE1NgdQ",
+      "id": "3rGuJQSYUjpHjWVhE1NgdQ",
+      "name": "Shyam",
+      "type": "artist",
+      "uri": "spotify:artist:3rGuJQSYUjpHjWVhE1NgdQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xLhn0Pjced0oiBuLUISr3",
+      "id": "5xLhn0Pjced0oiBuLUISr3",
+      "name": "Deepak Dev",
+      "type": "artist",
+      "uri": "spotify:artist:5xLhn0Pjced0oiBuLUISr3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mlJ1JpUKU9Zo83Khz5S8G"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mlJ1JpUKU9Zo83Khz5S8G",
+      "id": "7mlJ1JpUKU9Zo83Khz5S8G",
+      "name": "Bichu Thirumala",
+      "type": "artist",
+      "uri": "spotify:artist:7mlJ1JpUKU9Zo83Khz5S8G"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "2011 Saregama India Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2011 Saregama India Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "98907210142662"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3sBPjfNKtliaceyuvCdula"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3sBPjfNKtliaceyuvCdula",
+  "id": "3sBPjfNKtliaceyuvCdula",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3dc339a42560dbf56fc4436",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3dc339a42560dbf56fc4436",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3dc339a42560dbf56fc4436",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Tejabhai And Family",
+  "popularity": 43,
+  "release_date": "2011-08-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3sBPjfNKtliaceyuvCdula/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0aUQnP4HhUQXcurZl9GJIA",
+            "id": "0aUQnP4HhUQXcurZl9GJIA",
+            "name": "Vijay Yesudas",
+            "type": "artist",
+            "uri": "spotify:artist:0aUQnP4HhUQXcurZl9GJIA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+            },
+            "href": "https://api.spotify.com/v1/artists/42k1aOQmLqy5YQmqJ2zq8s",
+            "id": "42k1aOQmLqy5YQmqJ2zq8s",
+            "name": "Shaan Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:42k1aOQmLqy5YQmqJ2zq8s"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 291805,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YnJO31KxZUelyWtIVAtX2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YnJO31KxZUelyWtIVAtX2",
+        "id": "2YnJO31KxZUelyWtIVAtX2",
+        "is_local": false,
+        "name": "Oru Madhura Kinavin - Retro Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/2c56506837c7064fe1127d0bbe68de8617275da0?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2YnJO31KxZUelyWtIVAtX2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3sBPjfNKtliaceyuvCdula"
+}

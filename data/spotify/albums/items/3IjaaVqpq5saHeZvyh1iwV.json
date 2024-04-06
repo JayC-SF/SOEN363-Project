@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6YsltkujF8WzkCRM9S5vy5",
+      "id": "6YsltkujF8WzkCRM9S5vy5",
+      "name": "NIKI DEMAR",
+      "type": "artist",
+      "uri": "spotify:artist:6YsltkujF8WzkCRM9S5vy5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 NIKI DEMAR",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436223034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3IjaaVqpq5saHeZvyh1iwV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3IjaaVqpq5saHeZvyh1iwV",
+  "id": "3IjaaVqpq5saHeZvyh1iwV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1eda4159519f1155aeaa6e5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1eda4159519f1155aeaa6e5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1eda4159519f1155aeaa6e5",
+      "width": 64
+    }
+  ],
+  "label": "NIKI DEMAR",
+  "name": "Alone in My Car",
+  "popularity": 0,
+  "release_date": "2020-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3IjaaVqpq5saHeZvyh1iwV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6YsltkujF8WzkCRM9S5vy5",
+            "id": "6YsltkujF8WzkCRM9S5vy5",
+            "name": "NIKI DEMAR",
+            "type": "artist",
+            "uri": "spotify:artist:6YsltkujF8WzkCRM9S5vy5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ccIKJVuEGjF4sbaG3afgd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ccIKJVuEGjF4sbaG3afgd",
+        "id": "5ccIKJVuEGjF4sbaG3afgd",
+        "is_local": false,
+        "name": "Alone in My Car",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ccIKJVuEGjF4sbaG3afgd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3IjaaVqpq5saHeZvyh1iwV"
+}

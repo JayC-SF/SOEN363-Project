@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CQBR6e6pkUE32JVtMYj3f"
+      },
+      "href": "https://api.spotify.com/v1/artists/7CQBR6e6pkUE32JVtMYj3f",
+      "id": "7CQBR6e6pkUE32JVtMYj3f",
+      "name": "metel!",
+      "type": "artist",
+      "uri": "spotify:artist:7CQBR6e6pkUE32JVtMYj3f"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 metel!",
+      "type": "C"
+    },
+    {
+      "text": "2024 metel!",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063373656996"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5IIWK8APDTOgcfRSqss7th"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5IIWK8APDTOgcfRSqss7th",
+  "id": "5IIWK8APDTOgcfRSqss7th",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273614be63dd5e84530e43a2529",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02614be63dd5e84530e43a2529",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851614be63dd5e84530e43a2529",
+      "width": 64
+    }
+  ],
+  "label": "metel!",
+  "name": "Archive*",
+  "popularity": 5,
+  "release_date": "2023-09-15",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5IIWK8APDTOgcfRSqss7th/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CQBR6e6pkUE32JVtMYj3f"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CQBR6e6pkUE32JVtMYj3f",
+            "id": "7CQBR6e6pkUE32JVtMYj3f",
+            "name": "metel!",
+            "type": "artist",
+            "uri": "spotify:artist:7CQBR6e6pkUE32JVtMYj3f"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126673,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fDzE77pmYqCXOFOtV3T1C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0fDzE77pmYqCXOFOtV3T1C",
+        "id": "0fDzE77pmYqCXOFOtV3T1C",
+        "is_local": false,
+        "name": "Ysl Cheetah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0fDzE77pmYqCXOFOtV3T1C"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CQBR6e6pkUE32JVtMYj3f"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CQBR6e6pkUE32JVtMYj3f",
+            "id": "7CQBR6e6pkUE32JVtMYj3f",
+            "name": "metel!",
+            "type": "artist",
+            "uri": "spotify:artist:7CQBR6e6pkUE32JVtMYj3f"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193225,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00kbn4xKVlg0x7Zebe9Utb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00kbn4xKVlg0x7Zebe9Utb",
+        "id": "00kbn4xKVlg0x7Zebe9Utb",
+        "is_local": false,
+        "name": "Rockstar Shit",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:00kbn4xKVlg0x7Zebe9Utb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5IIWK8APDTOgcfRSqss7th"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena"
+      },
+      "href": "https://api.spotify.com/v1/artists/1wzBqAvtFexgKHjt7i3ena",
+      "id": "1wzBqAvtFexgKHjt7i3ena",
+      "name": "Fred V & Grafix",
+      "type": "artist",
+      "uri": "spotify:artist:1wzBqAvtFexgKHjt7i3ena"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Hospital Records Limited",
+      "type": "C"
+    },
+    {
+      "text": "2018 Hospital Records Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060514962282"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/05KP7vRiZvXvwZnefQaF1o"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/05KP7vRiZvXvwZnefQaF1o",
+  "id": "05KP7vRiZvXvwZnefQaF1o",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734113c2259ce333b1f50c58f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024113c2259ce333b1f50c58f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514113c2259ce333b1f50c58f2",
+      "width": 64
+    }
+  ],
+  "label": "Hospital Records",
+  "name": "Auckland Sunrise",
+  "popularity": 0,
+  "release_date": "2018-10-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/05KP7vRiZvXvwZnefQaF1o/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wzBqAvtFexgKHjt7i3ena",
+            "id": "1wzBqAvtFexgKHjt7i3ena",
+            "name": "Fred V & Grafix",
+            "type": "artist",
+            "uri": "spotify:artist:1wzBqAvtFexgKHjt7i3ena"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222872,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1n8LLZscaI7E1qG6EXYMNy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1n8LLZscaI7E1qG6EXYMNy",
+        "id": "1n8LLZscaI7E1qG6EXYMNy",
+        "is_local": false,
+        "name": "Auckland Sunrise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1n8LLZscaI7E1qG6EXYMNy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:05KP7vRiZvXvwZnefQaF1o"
+}

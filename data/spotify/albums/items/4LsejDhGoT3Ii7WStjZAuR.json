@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Ib0Di9b3kMxw9yD0DAyAC",
+      "id": "6Ib0Di9b3kMxw9yD0DAyAC",
+      "name": "Victor Internet",
+      "type": "artist",
+      "uri": "spotify:artist:6Ib0Di9b3kMxw9yD0DAyAC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Victor Internet",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192378494540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4LsejDhGoT3Ii7WStjZAuR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4LsejDhGoT3Ii7WStjZAuR",
+  "id": "4LsejDhGoT3Ii7WStjZAuR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c2ad015b53fcbe20aa8b1fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c2ad015b53fcbe20aa8b1fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c2ad015b53fcbe20aa8b1fc",
+      "width": 64
+    }
+  ],
+  "label": "Victor Internet",
+  "name": "Reason",
+  "popularity": 0,
+  "release_date": "2017-11-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4LsejDhGoT3Ii7WStjZAuR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Ib0Di9b3kMxw9yD0DAyAC",
+            "id": "6Ib0Di9b3kMxw9yD0DAyAC",
+            "name": "Victor Internet",
+            "type": "artist",
+            "uri": "spotify:artist:6Ib0Di9b3kMxw9yD0DAyAC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 181395,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yo6XnDYY7U5BeXabzTeKm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Yo6XnDYY7U5BeXabzTeKm",
+        "id": "0Yo6XnDYY7U5BeXabzTeKm",
+        "is_local": false,
+        "name": "Reason",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Yo6XnDYY7U5BeXabzTeKm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4LsejDhGoT3Ii7WStjZAuR"
+}

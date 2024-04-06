@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Ws5zFS1keQh8yfCbYhW7A"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Ws5zFS1keQh8yfCbYhW7A",
+      "id": "4Ws5zFS1keQh8yfCbYhW7A",
+      "name": "MC Magrella",
+      "type": "artist",
+      "uri": "spotify:artist:4Ws5zFS1keQh8yfCbYhW7A"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Lucas Produtor",
+      "type": "C"
+    },
+    {
+      "text": "2021 Lucas Produtor",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196165613657"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Zs47vF8NTx83QqWchhSiq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Zs47vF8NTx83QqWchhSiq",
+  "id": "6Zs47vF8NTx83QqWchhSiq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c41b27afdbd9e913a6de67cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c41b27afdbd9e913a6de67cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c41b27afdbd9e913a6de67cf",
+      "width": 64
+    }
+  ],
+  "label": "Lucas Produtor",
+  "name": "Paty Trem Barbie",
+  "popularity": 0,
+  "release_date": "2021-04-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Zs47vF8NTx83QqWchhSiq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ws5zFS1keQh8yfCbYhW7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ws5zFS1keQh8yfCbYhW7A",
+            "id": "4Ws5zFS1keQh8yfCbYhW7A",
+            "name": "MC Magrella",
+            "type": "artist",
+            "uri": "spotify:artist:4Ws5zFS1keQh8yfCbYhW7A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ja6pvYptps6ke3ZWvw9z1"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ja6pvYptps6ke3ZWvw9z1",
+            "id": "2ja6pvYptps6ke3ZWvw9z1",
+            "name": "Dj Anderson do Paraiso",
+            "type": "artist",
+            "uri": "spotify:artist:2ja6pvYptps6ke3ZWvw9z1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114461,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3woa0ekqNnhx4etwchLZDk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3woa0ekqNnhx4etwchLZDk",
+        "id": "3woa0ekqNnhx4etwchLZDk",
+        "is_local": false,
+        "name": "Paty Trem Barbie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3woa0ekqNnhx4etwchLZDk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Zs47vF8NTx83QqWchhSiq"
+}

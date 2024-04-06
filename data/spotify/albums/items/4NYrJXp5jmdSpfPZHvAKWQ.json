@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5qQTwkRWNaZngwkU1CPmYJ",
+      "id": "5qQTwkRWNaZngwkU1CPmYJ",
+      "name": "Syzz",
+      "type": "artist",
+      "uri": "spotify:artist:5qQTwkRWNaZngwkU1CPmYJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Lowly",
+      "type": "C"
+    },
+    {
+      "text": "2020 Lowly",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526599239"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4NYrJXp5jmdSpfPZHvAKWQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4NYrJXp5jmdSpfPZHvAKWQ",
+  "id": "4NYrJXp5jmdSpfPZHvAKWQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347bdf7d8026c96f9fa5c613e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247bdf7d8026c96f9fa5c613e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147bdf7d8026c96f9fa5c613e",
+      "width": 64
+    }
+  ],
+  "label": "Lowly",
+  "name": "Gimme Gimme Gimme (a man after midnight)",
+  "popularity": 0,
+  "release_date": "2020-02-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4NYrJXp5jmdSpfPZHvAKWQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qQTwkRWNaZngwkU1CPmYJ",
+            "id": "5qQTwkRWNaZngwkU1CPmYJ",
+            "name": "Syzz",
+            "type": "artist",
+            "uri": "spotify:artist:5qQTwkRWNaZngwkU1CPmYJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 152682,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kpxST4KeexaqjgiSqwLgM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kpxST4KeexaqjgiSqwLgM",
+        "id": "4kpxST4KeexaqjgiSqwLgM",
+        "is_local": false,
+        "name": "Gimme Gimme Gimme (a man after midnight)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4kpxST4KeexaqjgiSqwLgM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4NYrJXp5jmdSpfPZHvAKWQ"
+}

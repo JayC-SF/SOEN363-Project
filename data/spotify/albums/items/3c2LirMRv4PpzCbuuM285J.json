@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+      "id": "3YJDqtTSjydvUpTvU1fJ6O",
+      "name": "CG5",
+      "type": "artist",
+      "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 CG5",
+      "type": "C"
+    },
+    {
+      "text": "2020 CG5",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395714080"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3c2LirMRv4PpzCbuuM285J"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3c2LirMRv4PpzCbuuM285J",
+  "id": "3c2LirMRv4PpzCbuuM285J",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306bbe77427767bfce9d13153",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206bbe77427767bfce9d13153",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106bbe77427767bfce9d13153",
+      "width": 64
+    }
+  ],
+  "label": "CG5",
+  "name": "Father's Day",
+  "popularity": 0,
+  "release_date": "2020-06-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3c2LirMRv4PpzCbuuM285J/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YJDqtTSjydvUpTvU1fJ6O",
+            "id": "3YJDqtTSjydvUpTvU1fJ6O",
+            "name": "CG5",
+            "type": "artist",
+            "uri": "spotify:artist:3YJDqtTSjydvUpTvU1fJ6O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 289511,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23QLQZHxKvixoUdU3Tzmh2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/23QLQZHxKvixoUdU3Tzmh2",
+        "id": "23QLQZHxKvixoUdU3Tzmh2",
+        "is_local": false,
+        "name": "Father's Day",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:23QLQZHxKvixoUdU3Tzmh2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3c2LirMRv4PpzCbuuM285J"
+}

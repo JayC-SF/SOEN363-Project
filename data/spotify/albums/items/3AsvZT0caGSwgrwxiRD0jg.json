@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+      },
+      "href": "https://api.spotify.com/v1/artists/7aB2KbM3pphL9mU3dXbyh2",
+      "id": "7aB2KbM3pphL9mU3dXbyh2",
+      "name": "Far Out",
+      "type": "artist",
+      "uri": "spotify:artist:7aB2KbM3pphL9mU3dXbyh2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+      },
+      "href": "https://api.spotify.com/v1/artists/24CzPFC4y3bM4AkUnZfuAU",
+      "id": "24CzPFC4y3bM4AkUnZfuAU",
+      "name": "Karra",
+      "type": "artist",
+      "uri": "spotify:artist:24CzPFC4y3bM4AkUnZfuAU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Lowly Palace",
+      "type": "C"
+    },
+    {
+      "text": "2018 Lowly Palace",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0843357156897"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3AsvZT0caGSwgrwxiRD0jg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3AsvZT0caGSwgrwxiRD0jg",
+  "id": "3AsvZT0caGSwgrwxiRD0jg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273260a616827640a56fb6a20b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02260a616827640a56fb6a20b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851260a616827640a56fb6a20b6",
+      "width": 64
+    }
+  ],
+  "label": "Lowly Palace LLC",
+  "name": "On My Own",
+  "popularity": 0,
+  "release_date": "2018-06-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3AsvZT0caGSwgrwxiRD0jg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aB2KbM3pphL9mU3dXbyh2",
+            "id": "7aB2KbM3pphL9mU3dXbyh2",
+            "name": "Far Out",
+            "type": "artist",
+            "uri": "spotify:artist:7aB2KbM3pphL9mU3dXbyh2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+            },
+            "href": "https://api.spotify.com/v1/artists/24CzPFC4y3bM4AkUnZfuAU",
+            "id": "24CzPFC4y3bM4AkUnZfuAU",
+            "name": "Karra",
+            "type": "artist",
+            "uri": "spotify:artist:24CzPFC4y3bM4AkUnZfuAU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 270224,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73eIguwwgu2C7jBz89b7SX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73eIguwwgu2C7jBz89b7SX",
+        "id": "73eIguwwgu2C7jBz89b7SX",
+        "is_local": false,
+        "name": "On My Own",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:73eIguwwgu2C7jBz89b7SX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3AsvZT0caGSwgrwxiRD0jg"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5XQWXnMwsvuvCPMneXUbsy",
+      "id": "5XQWXnMwsvuvCPMneXUbsy",
+      "name": "Marcianeke",
+      "type": "artist",
+      "uri": "spotify:artist:5XQWXnMwsvuvCPMneXUbsy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 1607751 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2021 1607751 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196052079269"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2E50wlbLL2tjP3lb1WKDRv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2E50wlbLL2tjP3lb1WKDRv",
+  "id": "2E50wlbLL2tjP3lb1WKDRv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273499b00d04eb1df9e817871bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02499b00d04eb1df9e817871bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851499b00d04eb1df9e817871bb",
+      "width": 64
+    }
+  ],
+  "label": "1607751 Records DK",
+  "name": "Pistolas Con Chip",
+  "popularity": 0,
+  "release_date": "2021-04-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2E50wlbLL2tjP3lb1WKDRv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+            },
+            "href": "https://api.spotify.com/v1/artists/5XQWXnMwsvuvCPMneXUbsy",
+            "id": "5XQWXnMwsvuvCPMneXUbsy",
+            "name": "Marcianeke",
+            "type": "artist",
+            "uri": "spotify:artist:5XQWXnMwsvuvCPMneXUbsy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172368,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DBIgoTbNKohMj9vLlgMOK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DBIgoTbNKohMj9vLlgMOK",
+        "id": "2DBIgoTbNKohMj9vLlgMOK",
+        "is_local": false,
+        "name": "Pistolas Con Chip",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2DBIgoTbNKohMj9vLlgMOK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2E50wlbLL2tjP3lb1WKDRv"
+}

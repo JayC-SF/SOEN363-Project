@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v"
+      },
+      "href": "https://api.spotify.com/v1/artists/68eVkVxfqdv4S4NqNyPP3v",
+      "id": "68eVkVxfqdv4S4NqNyPP3v",
+      "name": "jos",
+      "type": "artist",
+      "uri": "spotify:artist:68eVkVxfqdv4S4NqNyPP3v"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 2850220 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 2850220 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197930225297"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0bfHOykqF5wPpR8JukQ4qO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0bfHOykqF5wPpR8JukQ4qO",
+  "id": "0bfHOykqF5wPpR8JukQ4qO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d82bb0d769a810338a901586",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d82bb0d769a810338a901586",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d82bb0d769a810338a901586",
+      "width": 64
+    }
+  ],
+  "label": "2850220 Records DK",
+  "name": "tie me down",
+  "popularity": 0,
+  "release_date": "2023-07-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0bfHOykqF5wPpR8JukQ4qO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v"
+            },
+            "href": "https://api.spotify.com/v1/artists/68eVkVxfqdv4S4NqNyPP3v",
+            "id": "68eVkVxfqdv4S4NqNyPP3v",
+            "name": "jos",
+            "type": "artist",
+            "uri": "spotify:artist:68eVkVxfqdv4S4NqNyPP3v"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 156525,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MrojWT2DWnf59pQOGTExS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0MrojWT2DWnf59pQOGTExS",
+        "id": "0MrojWT2DWnf59pQOGTExS",
+        "is_local": false,
+        "name": "tie me down",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0MrojWT2DWnf59pQOGTExS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0bfHOykqF5wPpR8JukQ4qO"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997"
+      },
+      "href": "https://api.spotify.com/v1/artists/6nlHpSAfPX5rJCuRKF2997",
+      "id": "6nlHpSAfPX5rJCuRKF2997",
+      "name": "Chavo",
+      "type": "artist",
+      "uri": "spotify:artist:6nlHpSAfPX5rJCuRKF2997"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Sosshouse Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Sosshouse Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395359069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6QxBVB1IL2GIvF8jqHiBBl"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6QxBVB1IL2GIvF8jqHiBBl",
+  "id": "6QxBVB1IL2GIvF8jqHiBBl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273020bc4c509ed9cc804d2ca35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02020bc4c509ed9cc804d2ca35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851020bc4c509ed9cc804d2ca35",
+      "width": 64
+    }
+  ],
+  "label": "Sosshouse Records",
+  "name": "Michigan",
+  "popularity": 1,
+  "release_date": "2020-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6QxBVB1IL2GIvF8jqHiBBl/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nlHpSAfPX5rJCuRKF2997",
+            "id": "6nlHpSAfPX5rJCuRKF2997",
+            "name": "Chavo",
+            "type": "artist",
+            "uri": "spotify:artist:6nlHpSAfPX5rJCuRKF2997"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149446,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7o2Ttn5aFdrBON1zfdzJfg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7o2Ttn5aFdrBON1zfdzJfg",
+        "id": "7o2Ttn5aFdrBON1zfdzJfg",
+        "is_local": false,
+        "name": "Michigan",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7o2Ttn5aFdrBON1zfdzJfg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6QxBVB1IL2GIvF8jqHiBBl"
+}

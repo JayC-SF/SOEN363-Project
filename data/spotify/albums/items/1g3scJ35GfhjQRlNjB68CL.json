@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Iwn7mwI12WYQtlVoi4GAg",
+      "id": "7Iwn7mwI12WYQtlVoi4GAg",
+      "name": "Kiabits",
+      "type": "artist",
+      "uri": "spotify:artist:7Iwn7mwI12WYQtlVoi4GAg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Vinyl Digital GmbH",
+      "type": "C"
+    },
+    {
+      "text": "2020 Vinyl Digital GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939407827"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1g3scJ35GfhjQRlNjB68CL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1g3scJ35GfhjQRlNjB68CL",
+  "id": "1g3scJ35GfhjQRlNjB68CL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d5246a8146d8f7261c7e29a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d5246a8146d8f7261c7e29a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d5246a8146d8f7261c7e29a",
+      "width": 64
+    }
+  ],
+  "label": "VinDig",
+  "name": "Back to exercise",
+  "popularity": 0,
+  "release_date": "2020-12-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1g3scJ35GfhjQRlNjB68CL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Iwn7mwI12WYQtlVoi4GAg",
+            "id": "7Iwn7mwI12WYQtlVoi4GAg",
+            "name": "Kiabits",
+            "type": "artist",
+            "uri": "spotify:artist:7Iwn7mwI12WYQtlVoi4GAg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BhMmKTiR2cWzwnx37J2MJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BhMmKTiR2cWzwnx37J2MJ",
+        "id": "3BhMmKTiR2cWzwnx37J2MJ",
+        "is_local": false,
+        "name": "Back to exercise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3BhMmKTiR2cWzwnx37J2MJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1g3scJ35GfhjQRlNjB68CL"
+}

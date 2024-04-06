@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Sp2Gl518kklU7pflvyI3d"
+      },
+      "href": "https://api.spotify.com/v1/artists/3Sp2Gl518kklU7pflvyI3d",
+      "id": "3Sp2Gl518kklU7pflvyI3d",
+      "name": "brkee",
+      "type": "artist",
+      "uri": "spotify:artist:3Sp2Gl518kklU7pflvyI3d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 brkee",
+      "type": "C"
+    },
+    {
+      "text": "2022 brkee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859764179138"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/10kE8VEAU3wZaKXmZkmxyN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/10kE8VEAU3wZaKXmZkmxyN",
+  "id": "10kE8VEAU3wZaKXmZkmxyN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730da3e3403e269bc3271464db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020da3e3403e269bc3271464db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510da3e3403e269bc3271464db",
+      "width": 64
+    }
+  ],
+  "label": "brkee",
+  "name": "Rodman Dennis",
+  "popularity": 0,
+  "release_date": "2022-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/10kE8VEAU3wZaKXmZkmxyN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Sp2Gl518kklU7pflvyI3d"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Sp2Gl518kklU7pflvyI3d",
+            "id": "3Sp2Gl518kklU7pflvyI3d",
+            "name": "brkee",
+            "type": "artist",
+            "uri": "spotify:artist:3Sp2Gl518kklU7pflvyI3d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159791,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EII9KqKm0tgOV9WPXmpuT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4EII9KqKm0tgOV9WPXmpuT",
+        "id": "4EII9KqKm0tgOV9WPXmpuT",
+        "is_local": false,
+        "name": "Rodman Dennis",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4EII9KqKm0tgOV9WPXmpuT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:10kE8VEAU3wZaKXmZkmxyN"
+}

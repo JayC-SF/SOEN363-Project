@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1olb97DNlYXqItxaR3qfxC",
+      "id": "1olb97DNlYXqItxaR3qfxC",
+      "name": "Nandita",
+      "type": "artist",
+      "uri": "spotify:artist:1olb97DNlYXqItxaR3qfxC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2xrY7gs1NSWrsnEOexKCDs"
+      },
+      "href": "https://api.spotify.com/v1/artists/2xrY7gs1NSWrsnEOexKCDs",
+      "id": "2xrY7gs1NSWrsnEOexKCDs",
+      "name": "Ishaan",
+      "type": "artist",
+      "uri": "spotify:artist:2xrY7gs1NSWrsnEOexKCDs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Coca-Cola Bangladesh",
+      "type": "C"
+    },
+    {
+      "text": "2023 Coca-Cola Bangladesh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445888564794"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0w876U1Vfo0HDFNb0UaMS2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0w876U1Vfo0HDFNb0UaMS2",
+  "id": "0w876U1Vfo0HDFNb0UaMS2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb9c6961f4106a2821efebb1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb9c6961f4106a2821efebb1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb9c6961f4106a2821efebb1",
+      "width": 64
+    }
+  ],
+  "label": "Coca-Cola Bangladesh",
+  "name": "Darale Duaarey",
+  "popularity": 3,
+  "release_date": "2023-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0w876U1Vfo0HDFNb0UaMS2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC"
+            },
+            "href": "https://api.spotify.com/v1/artists/1olb97DNlYXqItxaR3qfxC",
+            "id": "1olb97DNlYXqItxaR3qfxC",
+            "name": "Nandita",
+            "type": "artist",
+            "uri": "spotify:artist:1olb97DNlYXqItxaR3qfxC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xrY7gs1NSWrsnEOexKCDs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xrY7gs1NSWrsnEOexKCDs",
+            "id": "2xrY7gs1NSWrsnEOexKCDs",
+            "name": "Ishaan",
+            "type": "artist",
+            "uri": "spotify:artist:2xrY7gs1NSWrsnEOexKCDs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 378260,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11Qcn54MQARwivnVEHqsT4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11Qcn54MQARwivnVEHqsT4",
+        "id": "11Qcn54MQARwivnVEHqsT4",
+        "is_local": false,
+        "name": "Darale Duaarey",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11Qcn54MQARwivnVEHqsT4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0w876U1Vfo0HDFNb0UaMS2"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+      "id": "75dQReiBOHN37fQgWQrIAJ",
+      "name": "Local Natives",
+      "type": "artist",
+      "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Infectious Music Ltd., a BMG Company",
+      "type": "C"
+    },
+    {
+      "text": "2017 Infectious Music Ltd., a BMG Company",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538288254"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2rzQYhW5EUv0xXivUD9erJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2rzQYhW5EUv0xXivUD9erJ",
+  "id": "2rzQYhW5EUv0xXivUD9erJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273636801f33b063572e9a8091d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02636801f33b063572e9a8091d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851636801f33b063572e9a8091d",
+      "width": 64
+    }
+  ],
+  "label": "Infectious",
+  "name": "I Saw You Close Your Eyes",
+  "popularity": 0,
+  "release_date": "2017-03-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2rzQYhW5EUv0xXivUD9erJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+            "id": "75dQReiBOHN37fQgWQrIAJ",
+            "name": "Local Natives",
+            "type": "artist",
+            "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uWMqVkEh7Beb6LXHIKDWS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4uWMqVkEh7Beb6LXHIKDWS",
+        "id": "4uWMqVkEh7Beb6LXHIKDWS",
+        "is_local": false,
+        "name": "I Saw You Close Your Eyes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4uWMqVkEh7Beb6LXHIKDWS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2rzQYhW5EUv0xXivUD9erJ"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+      },
+      "href": "https://api.spotify.com/v1/artists/5d7hcYqz8bVY6Kt3bhjd3d",
+      "id": "5d7hcYqz8bVY6Kt3bhjd3d",
+      "name": "Dungen",
+      "type": "artist",
+      "uri": "spotify:artist:5d7hcYqz8bVY6Kt3bhjd3d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Smalltown Supersound",
+      "type": "C"
+    },
+    {
+      "text": "2015 Smalltown Supersound",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5053760018063"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ZWdzRGp2kBvmf1rVbiP0I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ZWdzRGp2kBvmf1rVbiP0I",
+  "id": "2ZWdzRGp2kBvmf1rVbiP0I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365e267fedf036e1eec7771cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265e267fedf036e1eec7771cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165e267fedf036e1eec7771cf",
+      "width": 64
+    }
+  ],
+  "label": "Smalltown Supersound",
+  "name": "Franks Kaktus",
+  "popularity": 0,
+  "release_date": "2015-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ZWdzRGp2kBvmf1rVbiP0I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+            },
+            "href": "https://api.spotify.com/v1/artists/5d7hcYqz8bVY6Kt3bhjd3d",
+            "id": "5d7hcYqz8bVY6Kt3bhjd3d",
+            "name": "Dungen",
+            "type": "artist",
+            "uri": "spotify:artist:5d7hcYqz8bVY6Kt3bhjd3d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 339513,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hZes1feDaZhMV0C4NGVyD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hZes1feDaZhMV0C4NGVyD",
+        "id": "7hZes1feDaZhMV0C4NGVyD",
+        "is_local": false,
+        "name": "Franks Kaktus",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7hZes1feDaZhMV0C4NGVyD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2ZWdzRGp2kBvmf1rVbiP0I"
+}

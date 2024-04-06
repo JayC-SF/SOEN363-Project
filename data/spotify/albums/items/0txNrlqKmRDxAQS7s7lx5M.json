@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BcW1s0y3WDnZiSmhS334j"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BcW1s0y3WDnZiSmhS334j",
+      "id": "5BcW1s0y3WDnZiSmhS334j",
+      "name": "Rock the Sexy",
+      "type": "artist",
+      "uri": "spotify:artist:5BcW1s0y3WDnZiSmhS334j"
+    }
+  ],
+  "available_markets": [
+    "PL"
+  ],
+  "copyrights": [
+    {
+      "text": "2012 Nu Age Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0000178238847"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0txNrlqKmRDxAQS7s7lx5M"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0txNrlqKmRDxAQS7s7lx5M",
+  "id": "0txNrlqKmRDxAQS7s7lx5M",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389b19c7dae6899f2bc639580",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289b19c7dae6899f2bc639580",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189b19c7dae6899f2bc639580",
+      "width": 64
+    }
+  ],
+  "label": "Nu Age Music",
+  "name": "Dirty Disco Freak (Radio Edit)",
+  "popularity": 1,
+  "release_date": "2012-05-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0txNrlqKmRDxAQS7s7lx5M/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BcW1s0y3WDnZiSmhS334j"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BcW1s0y3WDnZiSmhS334j",
+            "id": "5BcW1s0y3WDnZiSmhS334j",
+            "name": "Rock the Sexy",
+            "type": "artist",
+            "uri": "spotify:artist:5BcW1s0y3WDnZiSmhS334j"
+          }
+        ],
+        "available_markets": [
+          "PL"
+        ],
+        "disc_number": 1,
+        "duration_ms": 192392,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72PiQ9QICqk18fMHM6qNqt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72PiQ9QICqk18fMHM6qNqt",
+        "id": "72PiQ9QICqk18fMHM6qNqt",
+        "is_local": false,
+        "name": "Dirty Disco Freak - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/4f07d8e89a983ab4d41feb25cd613d2b86460a18?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:72PiQ9QICqk18fMHM6qNqt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0txNrlqKmRDxAQS7s7lx5M"
+}

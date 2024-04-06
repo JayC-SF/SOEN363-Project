@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7L1pAcbJMH8yoY8N22iYmS"
+      },
+      "href": "https://api.spotify.com/v1/artists/7L1pAcbJMH8yoY8N22iYmS",
+      "id": "7L1pAcbJMH8yoY8N22iYmS",
+      "name": "Trixxy",
+      "type": "artist",
+      "uri": "spotify:artist:7L1pAcbJMH8yoY8N22iYmS"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1999 Next Generation",
+      "type": "C"
+    },
+    {
+      "text": "1999 Next Generation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653005487"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4P086AgflVwmzQXKQAsLoz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4P086AgflVwmzQXKQAsLoz",
+  "id": "4P086AgflVwmzQXKQAsLoz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ddda6174b19788a32dedb4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ddda6174b19788a32dedb4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ddda6174b19788a32dedb4f",
+      "width": 64
+    }
+  ],
+  "label": "Blatant Beats",
+  "name": "Sunrise / Hold On",
+  "popularity": 0,
+  "release_date": "1999-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4P086AgflVwmzQXKQAsLoz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7L1pAcbJMH8yoY8N22iYmS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7L1pAcbJMH8yoY8N22iYmS",
+            "id": "7L1pAcbJMH8yoY8N22iYmS",
+            "name": "Trixxy",
+            "type": "artist",
+            "uri": "spotify:artist:7L1pAcbJMH8yoY8N22iYmS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 417930,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Um5b6TmyJtt5iQoQWTyjt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Um5b6TmyJtt5iQoQWTyjt",
+        "id": "0Um5b6TmyJtt5iQoQWTyjt",
+        "is_local": false,
+        "name": "Sunrise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Um5b6TmyJtt5iQoQWTyjt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7L1pAcbJMH8yoY8N22iYmS"
+            },
+            "href": "https://api.spotify.com/v1/artists/7L1pAcbJMH8yoY8N22iYmS",
+            "id": "7L1pAcbJMH8yoY8N22iYmS",
+            "name": "Trixxy",
+            "type": "artist",
+            "uri": "spotify:artist:7L1pAcbJMH8yoY8N22iYmS"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 319170,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7maXeY7kt2Ldkdqn4KowZP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7maXeY7kt2Ldkdqn4KowZP",
+        "id": "7maXeY7kt2Ldkdqn4KowZP",
+        "is_local": false,
+        "name": "Hold On",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7maXeY7kt2Ldkdqn4KowZP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4P086AgflVwmzQXKQAsLoz"
+}

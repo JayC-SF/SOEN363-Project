@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id": "0CbeG1224FS58EUx4tPevZ",
+      "name": "Timmy Trumpet",
+      "type": "artist",
+      "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1GbrJTB56Xs4XQGlmVbaCf",
+      "id": "1GbrJTB56Xs4XQGlmVbaCf",
+      "name": "Savage",
+      "type": "artist",
+      "uri": "spotify:artist:1GbrJTB56Xs4XQGlmVbaCf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 PM Recordings, licensed courtesy of Ministry of Sound Australia Pty Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2014 PM Recordings, licensed courtesy of Ministry of Sound Australia Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857004400"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TFlW2mhGc0dJV3mITARMI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1TFlW2mhGc0dJV3mITARMI",
+  "id": "1TFlW2mhGc0dJV3mITARMI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734df403e0b47ef86cab505fa2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024df403e0b47ef86cab505fa2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514df403e0b47ef86cab505fa2",
+      "width": 64
+    }
+  ],
+  "label": "PM Recordings",
+  "name": "Freaks",
+  "popularity": 0,
+  "release_date": "2014-11-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1TFlW2mhGc0dJV3mITARMI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+            "id": "0CbeG1224FS58EUx4tPevZ",
+            "name": "Timmy Trumpet",
+            "type": "artist",
+            "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GbrJTB56Xs4XQGlmVbaCf",
+            "id": "1GbrJTB56Xs4XQGlmVbaCf",
+            "name": "Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1GbrJTB56Xs4XQGlmVbaCf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mMHQFYhY952sa2dOrC1Vu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mMHQFYhY952sa2dOrC1Vu",
+        "id": "0mMHQFYhY952sa2dOrC1Vu",
+        "is_local": false,
+        "name": "Freaks - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0mMHQFYhY952sa2dOrC1Vu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+            "id": "0CbeG1224FS58EUx4tPevZ",
+            "name": "Timmy Trumpet",
+            "type": "artist",
+            "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 274327,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dOkBApyRz2iwbORdngN1S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dOkBApyRz2iwbORdngN1S",
+        "id": "5dOkBApyRz2iwbORdngN1S",
+        "is_local": false,
+        "name": "Freaks - Original Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5dOkBApyRz2iwbORdngN1S"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1TFlW2mhGc0dJV3mITARMI"
+}

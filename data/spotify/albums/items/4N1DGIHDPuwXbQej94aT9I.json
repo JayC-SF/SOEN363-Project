@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+      },
+      "href": "https://api.spotify.com/v1/artists/5vdjF79d5d2m12FOkJhxHB",
+      "id": "5vdjF79d5d2m12FOkJhxHB",
+      "name": "Jeremy Olander",
+      "type": "artist",
+      "uri": "spotify:artist:5vdjF79d5d2m12FOkJhxHB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Vivrant \u2122 2016",
+      "type": "C"
+    },
+    {
+      "text": "Warner / Chappell Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054282942393"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4N1DGIHDPuwXbQej94aT9I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4N1DGIHDPuwXbQej94aT9I",
+  "id": "4N1DGIHDPuwXbQej94aT9I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d3ef0ea478feceab12c1fe72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d3ef0ea478feceab12c1fe72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d3ef0ea478feceab12c1fe72",
+      "width": 64
+    }
+  ],
+  "label": "Vivrant",
+  "name": "Damon EP",
+  "popularity": 0,
+  "release_date": "2017-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4N1DGIHDPuwXbQej94aT9I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vdjF79d5d2m12FOkJhxHB",
+            "id": "5vdjF79d5d2m12FOkJhxHB",
+            "name": "Jeremy Olander",
+            "type": "artist",
+            "uri": "spotify:artist:5vdjF79d5d2m12FOkJhxHB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 429677,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60v9rzxIR1CmWPm1IWtsu6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60v9rzxIR1CmWPm1IWtsu6",
+        "id": "60v9rzxIR1CmWPm1IWtsu6",
+        "is_local": false,
+        "name": "Damon",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:60v9rzxIR1CmWPm1IWtsu6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vdjF79d5d2m12FOkJhxHB",
+            "id": "5vdjF79d5d2m12FOkJhxHB",
+            "name": "Jeremy Olander",
+            "type": "artist",
+            "uri": "spotify:artist:5vdjF79d5d2m12FOkJhxHB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 456585,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6B2jQL05apmJlDZtPIxD3R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6B2jQL05apmJlDZtPIxD3R",
+        "id": "6B2jQL05apmJlDZtPIxD3R",
+        "is_local": false,
+        "name": "Billinghurst",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6B2jQL05apmJlDZtPIxD3R"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4N1DGIHDPuwXbQej94aT9I"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tah9odm37BdwRzsEpo3pL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tah9odm37BdwRzsEpo3pL",
+      "id": "4tah9odm37BdwRzsEpo3pL",
+      "name": "rareslit",
+      "type": "artist",
+      "uri": "spotify:artist:4tah9odm37BdwRzsEpo3pL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 rareslit",
+      "type": "C"
+    },
+    {
+      "text": "2021 rareslit",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062994527723"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3aFN5T7Q7XKj9Mqf2WvnS2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3aFN5T7Q7XKj9Mqf2WvnS2",
+  "id": "3aFN5T7Q7XKj9Mqf2WvnS2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfed591f1e4bd37cb23f7ed7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfed591f1e4bd37cb23f7ed7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfed591f1e4bd37cb23f7ed7",
+      "width": 64
+    }
+  ],
+  "label": "rareslit",
+  "name": "riri",
+  "popularity": 0,
+  "release_date": "2021-03-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3aFN5T7Q7XKj9Mqf2WvnS2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tah9odm37BdwRzsEpo3pL"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tah9odm37BdwRzsEpo3pL",
+            "id": "4tah9odm37BdwRzsEpo3pL",
+            "name": "rareslit",
+            "type": "artist",
+            "uri": "spotify:artist:4tah9odm37BdwRzsEpo3pL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195735,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bIZ577vErUbPEaet0rgM8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6bIZ577vErUbPEaet0rgM8",
+        "id": "6bIZ577vErUbPEaet0rgM8",
+        "is_local": false,
+        "name": "riri",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6bIZ577vErUbPEaet0rgM8"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3aFN5T7Q7XKj9Mqf2WvnS2"
+}

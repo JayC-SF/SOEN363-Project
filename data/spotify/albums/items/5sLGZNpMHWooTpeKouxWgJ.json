@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gfmyrsN7YZUx0QSiGZ6mg"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gfmyrsN7YZUx0QSiGZ6mg",
+      "id": "1gfmyrsN7YZUx0QSiGZ6mg",
+      "name": "SMR21",
+      "type": "artist",
+      "uri": "spotify:artist:1gfmyrsN7YZUx0QSiGZ6mg"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 SMR21",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840350823993"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5sLGZNpMHWooTpeKouxWgJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5sLGZNpMHWooTpeKouxWgJ",
+  "id": "5sLGZNpMHWooTpeKouxWgJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d43ec763cd0a7d3e30b2b0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d43ec763cd0a7d3e30b2b0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d43ec763cd0a7d3e30b2b0e",
+      "width": 64
+    }
+  ],
+  "label": "SMR21",
+  "name": "Battle Scars",
+  "popularity": 0,
+  "release_date": "2016-10-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5sLGZNpMHWooTpeKouxWgJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gfmyrsN7YZUx0QSiGZ6mg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gfmyrsN7YZUx0QSiGZ6mg",
+            "id": "1gfmyrsN7YZUx0QSiGZ6mg",
+            "name": "SMR21",
+            "type": "artist",
+            "uri": "spotify:artist:1gfmyrsN7YZUx0QSiGZ6mg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141871,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EgqNAqRP1xn3D74nWzFko"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4EgqNAqRP1xn3D74nWzFko",
+        "id": "4EgqNAqRP1xn3D74nWzFko",
+        "is_local": false,
+        "name": "Battle Scars",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4EgqNAqRP1xn3D74nWzFko"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5sLGZNpMHWooTpeKouxWgJ"
+}

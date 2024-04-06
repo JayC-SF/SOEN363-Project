@@ -1,0 +1,134 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+      "id": "1tcgfoMTT1szjUeaikxRjA",
+      "name": "Ryuichi Sakamoto",
+      "type": "artist",
+      "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2004 WARNER MUSIC JAPAN",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2004 WARNER MUSIC JAPAN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295816339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5oUvRbJeHWc1G7u7vlq3w3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5oUvRbJeHWc1G7u7vlq3w3",
+  "id": "5oUvRbJeHWc1G7u7vlq3w3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733381fb8c5a7100d4831748f7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023381fb8c5a7100d4831748f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513381fb8c5a7100d4831748f7",
+      "width": 64
+    }
+  ],
+  "label": "WM Japan",
+  "name": "undercooled",
+  "popularity": 9,
+  "release_date": "2004-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5oUvRbJeHWc1G7u7vlq3w3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+            "id": "1tcgfoMTT1szjUeaikxRjA",
+            "name": "Ryuichi Sakamoto",
+            "type": "artist",
+            "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 272333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5E3j6OyiHVXOuRocNG9xPh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5E3j6OyiHVXOuRocNG9xPh",
+        "id": "5E3j6OyiHVXOuRocNG9xPh",
+        "is_local": false,
+        "name": "undercooled",
+        "preview_url": "https://p.scdn.co/mp3-preview/2222c9868129fbff4aa0a7816587a1dd622925ec?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5E3j6OyiHVXOuRocNG9xPh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+            "id": "1tcgfoMTT1szjUeaikxRjA",
+            "name": "Ryuichi Sakamoto",
+            "type": "artist",
+            "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 283200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ihpBFDxOsd3DBVFgYJSaj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ihpBFDxOsd3DBVFgYJSaj",
+        "id": "0ihpBFDxOsd3DBVFgYJSaj",
+        "is_local": false,
+        "name": "Ngo",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0ihpBFDxOsd3DBVFgYJSaj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5oUvRbJeHWc1G7u7vlq3w3"
+}

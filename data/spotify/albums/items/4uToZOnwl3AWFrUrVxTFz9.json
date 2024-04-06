@@ -1,0 +1,987 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+      },
+      "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+      "id": "4WWNNgB0VUh7xYkldxV74W",
+      "name": "Erick Escobar",
+      "type": "artist",
+      "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+      },
+      "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+      "id": "3VJqPtgfD62abRloZW1xWO",
+      "name": "Nayo Quintero",
+      "type": "artist",
+      "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+    }
+  ],
+  "available_markets": [
+    "AG",
+    "AR",
+    "BB",
+    "BO",
+    "BR",
+    "BS",
+    "BZ",
+    "CL",
+    "CO",
+    "CR",
+    "DM",
+    "DO",
+    "EC",
+    "GD",
+    "GT",
+    "GY",
+    "HN",
+    "HT",
+    "JM",
+    "KN",
+    "LC",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "SR",
+    "SV",
+    "TT",
+    "UY",
+    "VC",
+    "VE"
+  ],
+  "copyrights": [
+    {
+      "text": "2015 Discos Fuentes Edim\u00fasica S.A",
+      "type": "C"
+    },
+    {
+      "text": "2015 Discos Fuentes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "780381013959"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4uToZOnwl3AWFrUrVxTFz9",
+  "id": "4uToZOnwl3AWFrUrVxTFz9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730258cf45d4fa8fb50473afdb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020258cf45d4fa8fb50473afdb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510258cf45d4fa8fb50473afdb",
+      "width": 64
+    }
+  ],
+  "label": "Discos Fuentes",
+  "name": "Mis Nuevos Cantares",
+  "popularity": 56,
+  "release_date": "2015-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 12,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4uToZOnwl3AWFrUrVxTFz9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 235235,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13DlPBOKn753WqIu4qgq4Y",
+        "id": "13DlPBOKn753WqIu4qgq4Y",
+        "is_local": false,
+        "name": "No Pude Quitarte las Espinas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13DlPBOKn753WqIu4qgq4Y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233073,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tHUJaT29KIgvcO5PGIcoM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tHUJaT29KIgvcO5PGIcoM",
+        "id": "0tHUJaT29KIgvcO5PGIcoM",
+        "is_local": false,
+        "name": "Eras Diferente",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0tHUJaT29KIgvcO5PGIcoM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 295093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RYcqjVF0DfsnEk1PWUT1V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RYcqjVF0DfsnEk1PWUT1V",
+        "id": "6RYcqjVF0DfsnEk1PWUT1V",
+        "is_local": false,
+        "name": "Puedes Hacerme Feliz",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6RYcqjVF0DfsnEk1PWUT1V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 305653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29miFcW0RVAQqHa5v7K1xs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29miFcW0RVAQqHa5v7K1xs",
+        "id": "29miFcW0RVAQqHa5v7K1xs",
+        "is_local": false,
+        "name": "Eres Lo Contrario",
+        "preview_url": "https://p.scdn.co/mp3-preview/23f417c9cf2fd712125019503e43905d08481528?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:29miFcW0RVAQqHa5v7K1xs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 306922,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7L1q9hhr987puonhxaFlhN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7L1q9hhr987puonhxaFlhN",
+        "id": "7L1q9hhr987puonhxaFlhN",
+        "is_local": false,
+        "name": "De Larin Laran",
+        "preview_url": "https://p.scdn.co/mp3-preview/75b49daf9845b75322b03d047586b3fda8077f2e?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7L1q9hhr987puonhxaFlhN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304932,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PZr2aew7G4D5F7ZlXOWQb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PZr2aew7G4D5F7ZlXOWQb",
+        "id": "5PZr2aew7G4D5F7ZlXOWQb",
+        "is_local": false,
+        "name": "Trofeo de Navidad",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5PZr2aew7G4D5F7ZlXOWQb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 287884,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uSS0YeyByf58wtxyUkq5E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uSS0YeyByf58wtxyUkq5E",
+        "id": "3uSS0YeyByf58wtxyUkq5E",
+        "is_local": false,
+        "name": "No Me Dejes de Amar",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3uSS0YeyByf58wtxyUkq5E"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 314064,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gQgXAszTaOfSvtCYz7K4W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6gQgXAszTaOfSvtCYz7K4W",
+        "id": "6gQgXAszTaOfSvtCYz7K4W",
+        "is_local": false,
+        "name": "Quisiera Vivir Contigo",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6gQgXAszTaOfSvtCYz7K4W"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 292000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78Ucm1f3pHI4qOzmzgilTj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78Ucm1f3pHI4qOzmzgilTj",
+        "id": "78Ucm1f3pHI4qOzmzgilTj",
+        "is_local": false,
+        "name": "Aqu\u00ed Te Espero",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:78Ucm1f3pHI4qOzmzgilTj"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 274264,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GF8VHINzcyBYP9OsbqSs3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GF8VHINzcyBYP9OsbqSs3",
+        "id": "2GF8VHINzcyBYP9OsbqSs3",
+        "is_local": false,
+        "name": "La Fiesta de la Patrona",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2GF8VHINzcyBYP9OsbqSs3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
+            },
+            "href": "https://api.spotify.com/v1/artists/2nq9fv5SnxhXMiRrS3zPSC",
+            "id": "2nq9fv5SnxhXMiRrS3zPSC",
+            "name": "La Decision Vallenata",
+            "type": "artist",
+            "uri": "spotify:artist:2nq9fv5SnxhXMiRrS3zPSC"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 283591,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63sVY38OlZ5LBQNPlVLmdl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/63sVY38OlZ5LBQNPlVLmdl",
+        "id": "63sVY38OlZ5LBQNPlVLmdl",
+        "is_local": false,
+        "name": "Amor Sin Fronteras",
+        "preview_url": "https://p.scdn.co/mp3-preview/b3d77dc2d45d773f07fc316aa918759069ee8390?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:63sVY38OlZ5LBQNPlVLmdl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WWNNgB0VUh7xYkldxV74W",
+            "id": "4WWNNgB0VUh7xYkldxV74W",
+            "name": "Erick Escobar",
+            "type": "artist",
+            "uri": "spotify:artist:4WWNNgB0VUh7xYkldxV74W"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VJqPtgfD62abRloZW1xWO",
+            "id": "3VJqPtgfD62abRloZW1xWO",
+            "name": "Nayo Quintero",
+            "type": "artist",
+            "uri": "spotify:artist:3VJqPtgfD62abRloZW1xWO"
+          }
+        ],
+        "available_markets": [
+          "AG",
+          "AR",
+          "BB",
+          "BO",
+          "BR",
+          "BS",
+          "BZ",
+          "CL",
+          "CO",
+          "CR",
+          "DM",
+          "DO",
+          "EC",
+          "GD",
+          "GT",
+          "GY",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SR",
+          "SV",
+          "TT",
+          "UY",
+          "VC",
+          "VE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210944,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jDGMUbvwBAbwhHiE794Ux"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5jDGMUbvwBAbwhHiE794Ux",
+        "id": "5jDGMUbvwBAbwhHiE794Ux",
+        "is_local": false,
+        "name": "Recuerdos de Navidad",
+        "preview_url": "https://p.scdn.co/mp3-preview/21c00363ae4755e21d25cf5b2f96c1d1c1c9c8b6?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5jDGMUbvwBAbwhHiE794Ux"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  },
+  "type": "album",
+  "uri": "spotify:album:4uToZOnwl3AWFrUrVxTFz9"
+}

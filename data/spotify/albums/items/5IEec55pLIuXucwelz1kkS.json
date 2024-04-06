@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Rxn7Im3LGfyRkY2FlHhWi",
+      "id": "4Rxn7Im3LGfyRkY2FlHhWi",
+      "name": "Nick Jonas",
+      "type": "artist",
+      "uri": "spotify:artist:4Rxn7Im3LGfyRkY2FlHhWi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Island Records, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Island Records, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602435881744"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5IEec55pLIuXucwelz1kkS"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5IEec55pLIuXucwelz1kkS",
+  "id": "5IEec55pLIuXucwelz1kkS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f695f4ca747341408287092",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f695f4ca747341408287092",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f695f4ca747341408287092",
+      "width": 64
+    }
+  ],
+  "label": "Island Records",
+  "name": "Spaceman",
+  "popularity": 0,
+  "release_date": "2021-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5IEec55pLIuXucwelz1kkS/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Rxn7Im3LGfyRkY2FlHhWi",
+            "id": "4Rxn7Im3LGfyRkY2FlHhWi",
+            "name": "Nick Jonas",
+            "type": "artist",
+            "uri": "spotify:artist:4Rxn7Im3LGfyRkY2FlHhWi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196999,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TG88ES1Z5sMfuondaDZXV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TG88ES1Z5sMfuondaDZXV",
+        "id": "3TG88ES1Z5sMfuondaDZXV",
+        "is_local": false,
+        "name": "Spaceman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3TG88ES1Z5sMfuondaDZXV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5IEec55pLIuXucwelz1kkS"
+}

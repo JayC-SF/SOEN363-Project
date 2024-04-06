@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+      },
+      "href": "https://api.spotify.com/v1/artists/2y246nnP9pQT0E6v3ZMMOO",
+      "id": "2y246nnP9pQT0E6v3ZMMOO",
+      "name": "Night Lovell",
+      "type": "artist",
+      "uri": "spotify:artist:2y246nnP9pQT0E6v3ZMMOO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 SCPP",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 SCPP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00842812136634"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2maX4LyB1EfbKvUp6SXYRP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2maX4LyB1EfbKvUp6SXYRP",
+  "id": "2maX4LyB1EfbKvUp6SXYRP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273957bcc9b3b1a944865d8e98f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02957bcc9b3b1a944865d8e98f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851957bcc9b3b1a944865d8e98f",
+      "width": 64
+    }
+  ],
+  "label": "SCPP",
+  "name": "Alone",
+  "popularity": 0,
+  "release_date": "2020-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2maX4LyB1EfbKvUp6SXYRP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+            },
+            "href": "https://api.spotify.com/v1/artists/2y246nnP9pQT0E6v3ZMMOO",
+            "id": "2y246nnP9pQT0E6v3ZMMOO",
+            "name": "Night Lovell",
+            "type": "artist",
+            "uri": "spotify:artist:2y246nnP9pQT0E6v3ZMMOO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 130000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CwPDvjGUUyPSJK8HudIlO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CwPDvjGUUyPSJK8HudIlO",
+        "id": "7CwPDvjGUUyPSJK8HudIlO",
+        "is_local": false,
+        "name": "Alone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7CwPDvjGUUyPSJK8HudIlO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2maX4LyB1EfbKvUp6SXYRP"
+}

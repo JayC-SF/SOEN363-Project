@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+      },
+      "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3",
+      "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "name": "Willie Nelson",
+      "type": "artist",
+      "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2023 Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871338035"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6HYgWWKVD2fxDY8f9vHa8K",
+  "id": "6HYgWWKVD2fxDY8f9vHa8K",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340ad6146c618161457995af2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240ad6146c618161457995af2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140ad6146c618161457995af2",
+      "width": 64
+    }
+  ],
+  "label": "Legacy Recordings",
+  "name": "A Good Hearted Woman",
+  "popularity": 0,
+  "release_date": "2023-09-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6HYgWWKVD2fxDY8f9vHa8K/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3",
+            "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+            "name": "Willie Nelson",
+            "type": "artist",
+            "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 298866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Za6LTepYPw8X903BdTS90",
+        "id": "5Za6LTepYPw8X903BdTS90",
+        "is_local": false,
+        "name": "A Good Hearted Woman",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Za6LTepYPw8X903BdTS90"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6HYgWWKVD2fxDY8f9vHa8K"
+}

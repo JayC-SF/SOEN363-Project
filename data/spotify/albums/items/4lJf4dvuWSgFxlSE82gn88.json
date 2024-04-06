@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ZgWstqn9X5w1c63hOna7L"
+      },
+      "href": "https://api.spotify.com/v1/artists/1ZgWstqn9X5w1c63hOna7L",
+      "id": "1ZgWstqn9X5w1c63hOna7L",
+      "name": "Vuk Mob",
+      "type": "artist",
+      "uri": "spotify:artist:1ZgWstqn9X5w1c63hOna7L"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 IDJTunes",
+      "type": "C"
+    },
+    {
+      "text": "2018 IDJTunes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8600525008172"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4lJf4dvuWSgFxlSE82gn88"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4lJf4dvuWSgFxlSE82gn88",
+  "id": "4lJf4dvuWSgFxlSE82gn88",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6a22be3b8c7f07ec512bd03",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6a22be3b8c7f07ec512bd03",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6a22be3b8c7f07ec512bd03",
+      "width": 64
+    }
+  ],
+  "label": "IDJTunes",
+  "name": "Gang Bebo",
+  "popularity": 0,
+  "release_date": "2018-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4lJf4dvuWSgFxlSE82gn88/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZgWstqn9X5w1c63hOna7L"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ZgWstqn9X5w1c63hOna7L",
+            "id": "1ZgWstqn9X5w1c63hOna7L",
+            "name": "Vuk Mob",
+            "type": "artist",
+            "uri": "spotify:artist:1ZgWstqn9X5w1c63hOna7L"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RIeUaI0QuQjbcB1vPWg3Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4RIeUaI0QuQjbcB1vPWg3Y",
+        "id": "4RIeUaI0QuQjbcB1vPWg3Y",
+        "is_local": false,
+        "name": "Gang Bebo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4RIeUaI0QuQjbcB1vPWg3Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4lJf4dvuWSgFxlSE82gn88"
+}

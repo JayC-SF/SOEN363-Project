@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Q73wiY36HDHHvxE9fAI95",
+      "id": "0Q73wiY36HDHHvxE9fAI95",
+      "name": "DODO",
+      "type": "artist",
+      "uri": "spotify:artist:0Q73wiY36HDHHvxE9fAI95"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6j2HGKxQpvoTFC5UCDq5mb"
+      },
+      "href": "https://api.spotify.com/v1/artists/6j2HGKxQpvoTFC5UCDq5mb",
+      "id": "6j2HGKxQpvoTFC5UCDq5mb",
+      "name": "Kosso",
+      "type": "artist",
+      "uri": "spotify:artist:6j2HGKxQpvoTFC5UCDq5mb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2020 TRIFECTA",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448275831"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3UXnQKlzUE10kmFV2FTDxy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3UXnQKlzUE10kmFV2FTDxy",
+  "id": "3UXnQKlzUE10kmFV2FTDxy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273550478a1bf72b1613c172f06",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02550478a1bf72b1613c172f06",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851550478a1bf72b1613c172f06",
+      "width": 64
+    }
+  ],
+  "label": "Rotterdam Airlines",
+  "name": "DODO vs KOSSO",
+  "popularity": 0,
+  "release_date": "2020-02-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3UXnQKlzUE10kmFV2FTDxy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Q73wiY36HDHHvxE9fAI95",
+            "id": "0Q73wiY36HDHHvxE9fAI95",
+            "name": "DODO",
+            "type": "artist",
+            "uri": "spotify:artist:0Q73wiY36HDHHvxE9fAI95"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6j2HGKxQpvoTFC5UCDq5mb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6j2HGKxQpvoTFC5UCDq5mb",
+            "id": "6j2HGKxQpvoTFC5UCDq5mb",
+            "name": "Kosso",
+            "type": "artist",
+            "uri": "spotify:artist:6j2HGKxQpvoTFC5UCDq5mb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 130497,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GuPVgByTSSbOEoJOcURQY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4GuPVgByTSSbOEoJOcURQY",
+        "id": "4GuPVgByTSSbOEoJOcURQY",
+        "is_local": false,
+        "name": "DODO vs KOSSO",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4GuPVgByTSSbOEoJOcURQY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3UXnQKlzUE10kmFV2FTDxy"
+}

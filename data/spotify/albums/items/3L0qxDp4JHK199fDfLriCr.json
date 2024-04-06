@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2z6JjrrJKNLilqlx8mlxcc",
+      "id": "2z6JjrrJKNLilqlx8mlxcc",
+      "name": "Litany",
+      "type": "artist",
+      "uri": "spotify:artist:2z6JjrrJKNLilqlx8mlxcc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Litany",
+      "type": "C"
+    },
+    {
+      "text": "2018 Litany",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526346192"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3L0qxDp4JHK199fDfLriCr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3L0qxDp4JHK199fDfLriCr",
+  "id": "3L0qxDp4JHK199fDfLriCr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad74f68285ec73142b10ebab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad74f68285ec73142b10ebab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad74f68285ec73142b10ebab",
+      "width": 64
+    }
+  ],
+  "label": "Litany",
+  "name": "Call On Me",
+  "popularity": 0,
+  "release_date": "2018-07-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3L0qxDp4JHK199fDfLriCr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2z6JjrrJKNLilqlx8mlxcc",
+            "id": "2z6JjrrJKNLilqlx8mlxcc",
+            "name": "Litany",
+            "type": "artist",
+            "uri": "spotify:artist:2z6JjrrJKNLilqlx8mlxcc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222807,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qbYw78uTbZDU98qpRXG0c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qbYw78uTbZDU98qpRXG0c",
+        "id": "4qbYw78uTbZDU98qpRXG0c",
+        "is_local": false,
+        "name": "Call On Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qbYw78uTbZDU98qpRXG0c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3L0qxDp4JHK199fDfLriCr"
+}

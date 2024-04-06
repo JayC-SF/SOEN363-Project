@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+      },
+      "href": "https://api.spotify.com/v1/artists/78tkEnghpGYk8stmKlkxbv",
+      "id": "78tkEnghpGYk8stmKlkxbv",
+      "name": "Chakra",
+      "type": "artist",
+      "uri": "spotify:artist:78tkEnghpGYk8stmKlkxbv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 blessed worldwide",
+      "type": "C"
+    },
+    {
+      "text": "2020 blessed worldwide",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859742294044"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2lF4mVZrnvCXBAJkzr3PvI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2lF4mVZrnvCXBAJkzr3PvI",
+  "id": "2lF4mVZrnvCXBAJkzr3PvI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d45283a4217c83d86aab3d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d45283a4217c83d86aab3d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d45283a4217c83d86aab3d8",
+      "width": 64
+    }
+  ],
+  "label": "blessed worldwide",
+  "name": "FNCL",
+  "popularity": 0,
+  "release_date": "2020-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2lF4mVZrnvCXBAJkzr3PvI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+            },
+            "href": "https://api.spotify.com/v1/artists/78tkEnghpGYk8stmKlkxbv",
+            "id": "78tkEnghpGYk8stmKlkxbv",
+            "name": "Chakra",
+            "type": "artist",
+            "uri": "spotify:artist:78tkEnghpGYk8stmKlkxbv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168311,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Nl96eomBaxsjKNTqnvDPj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Nl96eomBaxsjKNTqnvDPj",
+        "id": "2Nl96eomBaxsjKNTqnvDPj",
+        "is_local": false,
+        "name": "FNCL",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Nl96eomBaxsjKNTqnvDPj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2lF4mVZrnvCXBAJkzr3PvI"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DkCHfBJDYolHvKJrpZ4JC"
+      },
+      "href": "https://api.spotify.com/v1/artists/1DkCHfBJDYolHvKJrpZ4JC",
+      "id": "1DkCHfBJDYolHvKJrpZ4JC",
+      "name": "G.FiT",
+      "type": "artist",
+      "uri": "spotify:artist:1DkCHfBJDYolHvKJrpZ4JC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 50503",
+      "type": "C"
+    },
+    {
+      "text": "2020 50503",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4064832216561"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11G02gxE5xvlndPJoDOen6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11G02gxE5xvlndPJoDOen6",
+  "id": "11G02gxE5xvlndPJoDOen6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3c9d1b0645a98c9d7c2dc6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3c9d1b0645a98c9d7c2dc6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3c9d1b0645a98c9d7c2dc6d",
+      "width": 64
+    }
+  ],
+  "label": "recordJet",
+  "name": "Trainingsanzug",
+  "popularity": 0,
+  "release_date": "2020-10-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11G02gxE5xvlndPJoDOen6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DkCHfBJDYolHvKJrpZ4JC"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DkCHfBJDYolHvKJrpZ4JC",
+            "id": "1DkCHfBJDYolHvKJrpZ4JC",
+            "name": "G.FiT",
+            "type": "artist",
+            "uri": "spotify:artist:1DkCHfBJDYolHvKJrpZ4JC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179125,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0L3Uic8e64ShnjzWZliDxC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0L3Uic8e64ShnjzWZliDxC",
+        "id": "0L3Uic8e64ShnjzWZliDxC",
+        "is_local": false,
+        "name": "Trainingsanzug",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0L3Uic8e64ShnjzWZliDxC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11G02gxE5xvlndPJoDOen6"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+      },
+      "href": "https://api.spotify.com/v1/artists/4bQCZKbtYa0W0hzA7JrpC4",
+      "id": "4bQCZKbtYa0W0hzA7JrpC4",
+      "name": "tiffi",
+      "type": "artist",
+      "uri": "spotify:artist:4bQCZKbtYa0W0hzA7JrpC4"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 tiffi",
+      "type": "C"
+    },
+    {
+      "text": "2021 tiffi",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0840093876645"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1RhlexY9ksD6JX4UsoYDIQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1RhlexY9ksD6JX4UsoYDIQ",
+  "id": "1RhlexY9ksD6JX4UsoYDIQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364ffcbb9bb8148cf4c9006f7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264ffcbb9bb8148cf4c9006f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164ffcbb9bb8148cf4c9006f7",
+      "width": 64
+    }
+  ],
+  "label": "tiffi",
+  "name": "Peppermint Smiles",
+  "popularity": 1,
+  "release_date": "2017-12-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1RhlexY9ksD6JX4UsoYDIQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+            },
+            "href": "https://api.spotify.com/v1/artists/4bQCZKbtYa0W0hzA7JrpC4",
+            "id": "4bQCZKbtYa0W0hzA7JrpC4",
+            "name": "tiffi",
+            "type": "artist",
+            "uri": "spotify:artist:4bQCZKbtYa0W0hzA7JrpC4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203174,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14sRVBY52ezzuk6dXx3RTA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14sRVBY52ezzuk6dXx3RTA",
+        "id": "14sRVBY52ezzuk6dXx3RTA",
+        "is_local": false,
+        "name": "Peppermint Smiles",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:14sRVBY52ezzuk6dXx3RTA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1RhlexY9ksD6JX4UsoYDIQ"
+}

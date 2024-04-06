@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5t8tQRTRMQFxAPCiYMR694"
+      },
+      "href": "https://api.spotify.com/v1/artists/5t8tQRTRMQFxAPCiYMR694",
+      "id": "5t8tQRTRMQFxAPCiYMR694",
+      "name": "SUMR CAMP",
+      "type": "artist",
+      "uri": "spotify:artist:5t8tQRTRMQFxAPCiYMR694"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 SUMR CAMP",
+      "type": "C"
+    },
+    {
+      "text": "2018 SUMR CAMP",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859728730627"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1HH8gBVRL8WjSiSEt9yg71"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1HH8gBVRL8WjSiSEt9yg71",
+  "id": "1HH8gBVRL8WjSiSEt9yg71",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322bfdbd4db61d18aab8818f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222bfdbd4db61d18aab8818f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122bfdbd4db61d18aab8818f9",
+      "width": 64
+    }
+  ],
+  "label": "SUMR CAMP",
+  "name": "Do That",
+  "popularity": 0,
+  "release_date": "2018-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1HH8gBVRL8WjSiSEt9yg71/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5t8tQRTRMQFxAPCiYMR694"
+            },
+            "href": "https://api.spotify.com/v1/artists/5t8tQRTRMQFxAPCiYMR694",
+            "id": "5t8tQRTRMQFxAPCiYMR694",
+            "name": "SUMR CAMP",
+            "type": "artist",
+            "uri": "spotify:artist:5t8tQRTRMQFxAPCiYMR694"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 238053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WtOFIQFTFxTByujXuoctI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WtOFIQFTFxTByujXuoctI",
+        "id": "6WtOFIQFTFxTByujXuoctI",
+        "is_local": false,
+        "name": "Do That",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6WtOFIQFTFxTByujXuoctI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1HH8gBVRL8WjSiSEt9yg71"
+}

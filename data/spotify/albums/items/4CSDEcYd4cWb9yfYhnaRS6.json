@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+      },
+      "href": "https://api.spotify.com/v1/artists/4buk1Dwc5ynSnOGVeMJOON",
+      "id": "4buk1Dwc5ynSnOGVeMJOON",
+      "name": "R Nait",
+      "type": "artist",
+      "uri": "spotify:artist:4buk1Dwc5ynSnOGVeMJOON"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Humble Music",
+      "type": "C"
+    },
+    {
+      "text": "2018 Humble Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810063882235"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4CSDEcYd4cWb9yfYhnaRS6"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4CSDEcYd4cWb9yfYhnaRS6",
+  "id": "4CSDEcYd4cWb9yfYhnaRS6",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7b4b05049d133affce389bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7b4b05049d133affce389bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7b4b05049d133affce389bc",
+      "width": 64
+    }
+  ],
+  "label": "Humble Music",
+  "name": "Tera Pind",
+  "popularity": 0,
+  "release_date": "2018-01-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4CSDEcYd4cWb9yfYhnaRS6/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+            },
+            "href": "https://api.spotify.com/v1/artists/4buk1Dwc5ynSnOGVeMJOON",
+            "id": "4buk1Dwc5ynSnOGVeMJOON",
+            "name": "R Nait",
+            "type": "artist",
+            "uri": "spotify:artist:4buk1Dwc5ynSnOGVeMJOON"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209941,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lJvqjCqqx5Hb5DYUFizHf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lJvqjCqqx5Hb5DYUFizHf",
+        "id": "3lJvqjCqqx5Hb5DYUFizHf",
+        "is_local": false,
+        "name": "Tera Pind",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3lJvqjCqqx5Hb5DYUFizHf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4CSDEcYd4cWb9yfYhnaRS6"
+}

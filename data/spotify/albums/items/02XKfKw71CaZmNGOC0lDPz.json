@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+      },
+      "href": "https://api.spotify.com/v1/artists/10VBp06W8NIgMW4JruLCC4",
+      "id": "10VBp06W8NIgMW4JruLCC4",
+      "name": "Kidd Voodoo",
+      "type": "artist",
+      "uri": "spotify:artist:10VBp06W8NIgMW4JruLCC4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+      },
+      "href": "https://api.spotify.com/v1/artists/4xEDJHMQ8PN1U2pEldwI6O",
+      "id": "4xEDJHMQ8PN1U2pEldwI6O",
+      "name": "Easykid",
+      "type": "artist",
+      "uri": "spotify:artist:4xEDJHMQ8PN1U2pEldwI6O"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Kidd Voodoo",
+      "type": "C"
+    },
+    {
+      "text": "2023 Kidd Voodoo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "744553798624"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/02XKfKw71CaZmNGOC0lDPz",
+  "id": "02XKfKw71CaZmNGOC0lDPz",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5377d8f219bdd75532bfcb0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5377d8f219bdd75532bfcb0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5377d8f219bdd75532bfcb0",
+      "width": 64
+    }
+  ],
+  "label": "Kidd Voodoo",
+  "name": "Mal Mal Mal",
+  "popularity": 59,
+  "release_date": "2023-06-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/02XKfKw71CaZmNGOC0lDPz/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+            },
+            "href": "https://api.spotify.com/v1/artists/10VBp06W8NIgMW4JruLCC4",
+            "id": "10VBp06W8NIgMW4JruLCC4",
+            "name": "Kidd Voodoo",
+            "type": "artist",
+            "uri": "spotify:artist:10VBp06W8NIgMW4JruLCC4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xEDJHMQ8PN1U2pEldwI6O",
+            "id": "4xEDJHMQ8PN1U2pEldwI6O",
+            "name": "Easykid",
+            "type": "artist",
+            "uri": "spotify:artist:4xEDJHMQ8PN1U2pEldwI6O"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190397,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BTYZkMCqYWLqrxfub1NmE",
+        "id": "3BTYZkMCqYWLqrxfub1NmE",
+        "is_local": false,
+        "name": "Mal Mal Mal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3BTYZkMCqYWLqrxfub1NmE"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:02XKfKw71CaZmNGOC0lDPz"
+}

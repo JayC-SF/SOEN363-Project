@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
+      },
+      "href": "https://api.spotify.com/v1/artists/44GRwsM3LDG7zZqTUVbp60",
+      "id": "44GRwsM3LDG7zZqTUVbp60",
+      "name": "f. fin",
+      "type": "artist",
+      "uri": "spotify:artist:44GRwsM3LDG7zZqTUVbp60"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Tidemusic",
+      "type": "C"
+    },
+    {
+      "text": "2021 Tidemusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196623170869"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2vSqzygyaoKyCzuJWhemSq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2vSqzygyaoKyCzuJWhemSq",
+  "id": "2vSqzygyaoKyCzuJWhemSq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bcfe5b50841c65727249a6d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bcfe5b50841c65727249a6d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bcfe5b50841c65727249a6d9",
+      "width": 64
+    }
+  ],
+  "label": "Tidemusic",
+  "name": "you are, you are (demo)",
+  "popularity": 0,
+  "release_date": "2021-12-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2vSqzygyaoKyCzuJWhemSq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
+            },
+            "href": "https://api.spotify.com/v1/artists/44GRwsM3LDG7zZqTUVbp60",
+            "id": "44GRwsM3LDG7zZqTUVbp60",
+            "name": "f. fin",
+            "type": "artist",
+            "uri": "spotify:artist:44GRwsM3LDG7zZqTUVbp60"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 137142,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2P3waYYVNz1MVeV0NlFJj5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2P3waYYVNz1MVeV0NlFJj5",
+        "id": "2P3waYYVNz1MVeV0NlFJj5",
+        "is_local": false,
+        "name": "you are, you are - demo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2P3waYYVNz1MVeV0NlFJj5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2vSqzygyaoKyCzuJWhemSq"
+}

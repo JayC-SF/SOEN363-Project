@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+      },
+      "href": "https://api.spotify.com/v1/artists/4sewbfr40so8t6Zfh9tmoK",
+      "id": "4sewbfr40so8t6Zfh9tmoK",
+      "name": "Used",
+      "type": "artist",
+      "uri": "spotify:artist:4sewbfr40so8t6Zfh9tmoK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Used under exclusive licence to frtyfve",
+      "type": "C"
+    },
+    {
+      "text": "2019 Used",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4062994008093"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0MV8IXy29BA0dOVRnnIWHn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0MV8IXy29BA0dOVRnnIWHn",
+  "id": "0MV8IXy29BA0dOVRnnIWHn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5d94c428fa32ce032b39703",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5d94c428fa32ce032b39703",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5d94c428fa32ce032b39703",
+      "width": 64
+    }
+  ],
+  "label": "frtyfve",
+  "name": "Mistakes",
+  "popularity": 0,
+  "release_date": "2019-02-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0MV8IXy29BA0dOVRnnIWHn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sewbfr40so8t6Zfh9tmoK",
+            "id": "4sewbfr40so8t6Zfh9tmoK",
+            "name": "Used",
+            "type": "artist",
+            "uri": "spotify:artist:4sewbfr40so8t6Zfh9tmoK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 285257,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sgc0MAh3TPt00HVvkzv1O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sgc0MAh3TPt00HVvkzv1O",
+        "id": "6sgc0MAh3TPt00HVvkzv1O",
+        "is_local": false,
+        "name": "Mistakes",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6sgc0MAh3TPt00HVvkzv1O"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0MV8IXy29BA0dOVRnnIWHn"
+}

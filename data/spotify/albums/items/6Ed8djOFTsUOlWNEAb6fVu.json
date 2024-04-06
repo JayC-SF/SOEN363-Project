@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+      },
+      "href": "https://api.spotify.com/v1/artists/7dvG18F378r7HRxmiHn3ti",
+      "id": "7dvG18F378r7HRxmiHn3ti",
+      "name": "Valiant",
+      "type": "artist",
+      "uri": "spotify:artist:7dvG18F378r7HRxmiHn3ti"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Zimi Ent",
+      "type": "C"
+    },
+    {
+      "text": "2023 Zimi Ent",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "717332833298"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Ed8djOFTsUOlWNEAb6fVu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Ed8djOFTsUOlWNEAb6fVu",
+  "id": "6Ed8djOFTsUOlWNEAb6fVu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732bb7ed2153eb0c2543ba0740",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022bb7ed2153eb0c2543ba0740",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512bb7ed2153eb0c2543ba0740",
+      "width": 64
+    }
+  ],
+  "label": "ZimiRecords / NowOrNever",
+  "name": "Mad Out",
+  "popularity": 10,
+  "release_date": "2023-07-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Ed8djOFTsUOlWNEAb6fVu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dvG18F378r7HRxmiHn3ti",
+            "id": "7dvG18F378r7HRxmiHn3ti",
+            "name": "Valiant",
+            "type": "artist",
+            "uri": "spotify:artist:7dvG18F378r7HRxmiHn3ti"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153040,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sKFGFRXf9vLhO0f36FPIH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3sKFGFRXf9vLhO0f36FPIH",
+        "id": "3sKFGFRXf9vLhO0f36FPIH",
+        "is_local": false,
+        "name": "Mad Out",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3sKFGFRXf9vLhO0f36FPIH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6Ed8djOFTsUOlWNEAb6fVu"
+}

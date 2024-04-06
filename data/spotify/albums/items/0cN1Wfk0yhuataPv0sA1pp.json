@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GkgjfpYIkFVA1OkGIy7jh"
+      },
+      "href": "https://api.spotify.com/v1/artists/7GkgjfpYIkFVA1OkGIy7jh",
+      "id": "7GkgjfpYIkFVA1OkGIy7jh",
+      "name": "Johnny Oz",
+      "type": "artist",
+      "uri": "spotify:artist:7GkgjfpYIkFVA1OkGIy7jh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Loud Pack Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2019 Loud Pack Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194838859425"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0cN1Wfk0yhuataPv0sA1pp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0cN1Wfk0yhuataPv0sA1pp",
+  "id": "0cN1Wfk0yhuataPv0sA1pp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27376fc9747096e295c9a25cb4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276fc9747096e295c9a25cb4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485176fc9747096e295c9a25cb4c",
+      "width": 64
+    }
+  ],
+  "label": "Loud Pack Entertainment",
+  "name": "Beast in the Night",
+  "popularity": 0,
+  "release_date": "2019-10-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0cN1Wfk0yhuataPv0sA1pp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GkgjfpYIkFVA1OkGIy7jh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GkgjfpYIkFVA1OkGIy7jh",
+            "id": "7GkgjfpYIkFVA1OkGIy7jh",
+            "name": "Johnny Oz",
+            "type": "artist",
+            "uri": "spotify:artist:7GkgjfpYIkFVA1OkGIy7jh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 128467,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xXVGwzPzzXzM8H1WRhew6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xXVGwzPzzXzM8H1WRhew6",
+        "id": "5xXVGwzPzzXzM8H1WRhew6",
+        "is_local": false,
+        "name": "Beast in the Night",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5xXVGwzPzzXzM8H1WRhew6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0cN1Wfk0yhuataPv0sA1pp"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RAYYG4VK6BOZSrt5VtSB0"
+      },
+      "href": "https://api.spotify.com/v1/artists/4RAYYG4VK6BOZSrt5VtSB0",
+      "id": "4RAYYG4VK6BOZSrt5VtSB0",
+      "name": "Saigo",
+      "type": "artist",
+      "uri": "spotify:artist:4RAYYG4VK6BOZSrt5VtSB0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Beigo Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Beigo Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "698142268589"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5hVaYabOyUB0jGZhs2uBwZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5hVaYabOyUB0jGZhs2uBwZ",
+  "id": "5hVaYabOyUB0jGZhs2uBwZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27331e0dfcc64768baa42a3fd6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0231e0dfcc64768baa42a3fd6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485131e0dfcc64768baa42a3fd6e",
+      "width": 64
+    }
+  ],
+  "label": "Beigo Records",
+  "name": "Despedida",
+  "popularity": 6,
+  "release_date": "2022-06-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5hVaYabOyUB0jGZhs2uBwZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RAYYG4VK6BOZSrt5VtSB0"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RAYYG4VK6BOZSrt5VtSB0",
+            "id": "4RAYYG4VK6BOZSrt5VtSB0",
+            "name": "Saigo",
+            "type": "artist",
+            "uri": "spotify:artist:4RAYYG4VK6BOZSrt5VtSB0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 288902,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VGHfjNnoPC0UWINRlbnub"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VGHfjNnoPC0UWINRlbnub",
+        "id": "6VGHfjNnoPC0UWINRlbnub",
+        "is_local": false,
+        "name": "Despedida - Remix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VGHfjNnoPC0UWINRlbnub"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5hVaYabOyUB0jGZhs2uBwZ"
+}

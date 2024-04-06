@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+      },
+      "href": "https://api.spotify.com/v1/artists/0zCrrgklotTrkkJDNUAury",
+      "id": "0zCrrgklotTrkkJDNUAury",
+      "name": "ZAND",
+      "type": "artist",
+      "uri": "spotify:artist:0zCrrgklotTrkkJDNUAury"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2019 ZAND",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2019 ZAND",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526561533"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xGGTvzXQtKN9R9wbXLrPM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5xGGTvzXQtKN9R9wbXLrPM",
+  "id": "5xGGTvzXQtKN9R9wbXLrPM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273075904a2a3cdf6cfffc32b0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02075904a2a3cdf6cfffc32b0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851075904a2a3cdf6cfffc32b0d",
+      "width": 64
+    }
+  ],
+  "label": "ZAND",
+  "name": "Freak",
+  "popularity": 0,
+  "release_date": "2019-12-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5xGGTvzXQtKN9R9wbXLrPM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+            },
+            "href": "https://api.spotify.com/v1/artists/0zCrrgklotTrkkJDNUAury",
+            "id": "0zCrrgklotTrkkJDNUAury",
+            "name": "ZAND",
+            "type": "artist",
+            "uri": "spotify:artist:0zCrrgklotTrkkJDNUAury"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234428,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16Z28C2Oxjw4h7nieeQcCs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16Z28C2Oxjw4h7nieeQcCs",
+        "id": "16Z28C2Oxjw4h7nieeQcCs",
+        "is_local": false,
+        "name": "Freak",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16Z28C2Oxjw4h7nieeQcCs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5xGGTvzXQtKN9R9wbXLrPM"
+}

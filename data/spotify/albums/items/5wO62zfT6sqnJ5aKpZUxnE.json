@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+      },
+      "href": "https://api.spotify.com/v1/artists/0X3nsc84A9qlFilmlWNwQb",
+      "id": "0X3nsc84A9qlFilmlWNwQb",
+      "name": "Scorey",
+      "type": "artist",
+      "uri": "spotify:artist:0X3nsc84A9qlFilmlWNwQb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2021 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449261567"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5wO62zfT6sqnJ5aKpZUxnE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5wO62zfT6sqnJ5aKpZUxnE",
+  "id": "5wO62zfT6sqnJ5aKpZUxnE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733dab6641a5e46bc317b47478",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023dab6641a5e46bc317b47478",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513dab6641a5e46bc317b47478",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Rock N Roll",
+  "popularity": 0,
+  "release_date": "2021-05-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5wO62zfT6sqnJ5aKpZUxnE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X3nsc84A9qlFilmlWNwQb",
+            "id": "0X3nsc84A9qlFilmlWNwQb",
+            "name": "Scorey",
+            "type": "artist",
+            "uri": "spotify:artist:0X3nsc84A9qlFilmlWNwQb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111769,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zb2Qicw1hoIaQ6Lg7BqjK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4zb2Qicw1hoIaQ6Lg7BqjK",
+        "id": "4zb2Qicw1hoIaQ6Lg7BqjK",
+        "is_local": false,
+        "name": "Rock N Roll",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4zb2Qicw1hoIaQ6Lg7BqjK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X3nsc84A9qlFilmlWNwQb",
+            "id": "0X3nsc84A9qlFilmlWNwQb",
+            "name": "Scorey",
+            "type": "artist",
+            "uri": "spotify:artist:0X3nsc84A9qlFilmlWNwQb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 112422,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0A0Lt6LzKSzBa4eKGFi7Sm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0A0Lt6LzKSzBa4eKGFi7Sm",
+        "id": "0A0Lt6LzKSzBa4eKGFi7Sm",
+        "is_local": false,
+        "name": "Dior You",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0A0Lt6LzKSzBa4eKGFi7Sm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5wO62zfT6sqnJ5aKpZUxnE"
+}

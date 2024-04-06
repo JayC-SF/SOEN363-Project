@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+      },
+      "href": "https://api.spotify.com/v1/artists/157L8iTHgbdrKVxdQEXluh",
+      "id": "157L8iTHgbdrKVxdQEXluh",
+      "name": "Lost Sky",
+      "type": "artist",
+      "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HQ26IHQ1Nu0Tq7EE7DV6y",
+      "id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+      "name": "Sara Skinner",
+      "type": "artist",
+      "uri": "spotify:artist:1HQ26IHQ1Nu0Tq7EE7DV6y"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2018 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199525488"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3T9xfxcHKA1tXjPVULySWq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3T9xfxcHKA1tXjPVULySWq",
+  "id": "3T9xfxcHKA1tXjPVULySWq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e111b7f23f55574d7d7eb1c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e111b7f23f55574d7d7eb1c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e111b7f23f55574d7d7eb1c0",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Dreams pt. II",
+  "popularity": 0,
+  "release_date": "2018-12-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3T9xfxcHKA1tXjPVULySWq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+            },
+            "href": "https://api.spotify.com/v1/artists/157L8iTHgbdrKVxdQEXluh",
+            "id": "157L8iTHgbdrKVxdQEXluh",
+            "name": "Lost Sky",
+            "type": "artist",
+            "uri": "spotify:artist:157L8iTHgbdrKVxdQEXluh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HQ26IHQ1Nu0Tq7EE7DV6y",
+            "id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+            "name": "Sara Skinner",
+            "type": "artist",
+            "uri": "spotify:artist:1HQ26IHQ1Nu0Tq7EE7DV6y"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 215196,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hwF25W29VOWw1nZ76EAXY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hwF25W29VOWw1nZ76EAXY",
+        "id": "6hwF25W29VOWw1nZ76EAXY",
+        "is_local": false,
+        "name": "Dreams pt. II",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6hwF25W29VOWw1nZ76EAXY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3T9xfxcHKA1tXjPVULySWq"
+}

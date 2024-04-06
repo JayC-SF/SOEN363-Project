@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VxCmtR7S3yz4vnzsJqhSV",
+      "id": "6VxCmtR7S3yz4vnzsJqhSV",
+      "name": "Sheppard",
+      "type": "artist",
+      "uri": "spotify:artist:6VxCmtR7S3yz4vnzsJqhSV"
+    }
+  ],
+  "available_markets": [
+    "AU",
+    "NZ"
+  ],
+  "copyrights": [
+    {
+      "text": "2024 Empire of Song",
+      "type": "C"
+    },
+    {
+      "text": "2024 Empire of Song",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9324690396320"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3PHJMSEQo2QpIxFBKywekJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3PHJMSEQo2QpIxFBKywekJ",
+  "id": "3PHJMSEQo2QpIxFBKywekJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fce87939f1c77ada74f7130b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fce87939f1c77ada74f7130b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fce87939f1c77ada74f7130b",
+      "width": 64
+    }
+  ],
+  "label": "Empire Of Song",
+  "name": "Edge Of The Earth",
+  "popularity": 34,
+  "release_date": "2024-03-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3PHJMSEQo2QpIxFBKywekJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VxCmtR7S3yz4vnzsJqhSV",
+            "id": "6VxCmtR7S3yz4vnzsJqhSV",
+            "name": "Sheppard",
+            "type": "artist",
+            "uri": "spotify:artist:6VxCmtR7S3yz4vnzsJqhSV"
+          }
+        ],
+        "available_markets": [
+          "AU",
+          "NZ"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216296,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7twT9jW5HrS8RQaUUCSzah"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7twT9jW5HrS8RQaUUCSzah",
+        "id": "7twT9jW5HrS8RQaUUCSzah",
+        "is_local": false,
+        "name": "Edge Of The Earth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7twT9jW5HrS8RQaUUCSzah"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3PHJMSEQo2QpIxFBKywekJ"
+}

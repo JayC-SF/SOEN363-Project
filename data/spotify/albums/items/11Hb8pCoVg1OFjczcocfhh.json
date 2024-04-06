@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZXcXnwzP9Ej9NbuR14Lra"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZXcXnwzP9Ej9NbuR14Lra",
+      "id": "5ZXcXnwzP9Ej9NbuR14Lra",
+      "name": "Len Sander",
+      "type": "artist",
+      "uri": "spotify:artist:5ZXcXnwzP9Ej9NbuR14Lra"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Mouthwatering Records",
+      "type": "C"
+    },
+    {
+      "text": "Mouthwatering Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7640167380619"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11Hb8pCoVg1OFjczcocfhh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11Hb8pCoVg1OFjczcocfhh",
+  "id": "11Hb8pCoVg1OFjczcocfhh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d19878aa8f9c75a92997c17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d19878aa8f9c75a92997c17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d19878aa8f9c75a92997c17",
+      "width": 64
+    }
+  ],
+  "label": "Mouthwatering Records",
+  "name": "Places",
+  "popularity": 0,
+  "release_date": "2015",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11Hb8pCoVg1OFjczcocfhh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZXcXnwzP9Ej9NbuR14Lra"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZXcXnwzP9Ej9NbuR14Lra",
+            "id": "5ZXcXnwzP9Ej9NbuR14Lra",
+            "name": "Len Sander",
+            "type": "artist",
+            "uri": "spotify:artist:5ZXcXnwzP9Ej9NbuR14Lra"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 258371,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qqOO9cJZnuQtTeHEkkS7k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qqOO9cJZnuQtTeHEkkS7k",
+        "id": "4qqOO9cJZnuQtTeHEkkS7k",
+        "is_local": false,
+        "name": "Places",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qqOO9cJZnuQtTeHEkkS7k"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11Hb8pCoVg1OFjczcocfhh"
+}

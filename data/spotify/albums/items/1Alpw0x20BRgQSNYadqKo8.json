@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+      },
+      "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+      "id": "2R21vXR83lH98kGeO99Y66",
+      "name": "Anuel AA",
+      "type": "artist",
+      "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Vida Music",
+      "type": "C"
+    },
+    {
+      "text": "2015 Vida Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7705553922214"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Alpw0x20BRgQSNYadqKo8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Alpw0x20BRgQSNYadqKo8",
+  "id": "1Alpw0x20BRgQSNYadqKo8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e94b97bf2b883c8d6eaaf47c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e94b97bf2b883c8d6eaaf47c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e94b97bf2b883c8d6eaaf47c",
+      "width": 64
+    }
+  ],
+  "label": "Vida Music",
+  "name": "50 Cosos",
+  "popularity": 0,
+  "release_date": "2015-07-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Alpw0x20BRgQSNYadqKo8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+            },
+            "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+            "id": "2R21vXR83lH98kGeO99Y66",
+            "name": "Anuel AA",
+            "type": "artist",
+            "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+            },
+            "href": "https://api.spotify.com/v1/artists/1pf0MPKfKdvS8J779mS1Ay",
+            "id": "1pf0MPKfKdvS8J779mS1Ay",
+            "name": "Miky Woodz",
+            "type": "artist",
+            "uri": "spotify:artist:1pf0MPKfKdvS8J779mS1Ay"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 320106,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JgIreHQj8fs7Qlso3TEGt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JgIreHQj8fs7Qlso3TEGt",
+        "id": "3JgIreHQj8fs7Qlso3TEGt",
+        "is_local": false,
+        "name": "50 Cosos",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3JgIreHQj8fs7Qlso3TEGt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1Alpw0x20BRgQSNYadqKo8"
+}

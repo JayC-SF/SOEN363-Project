@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "name": "Arctic Monkeys",
+      "type": "artist",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Domino Recording Company Ltd",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Domino Recording Company Ltd, under exclusive licence to EMI Recorded Music Australia Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537661404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/65BmqqOqnLLoIWm3Guj1G0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/65BmqqOqnLLoIWm3Guj1G0",
+  "id": "65BmqqOqnLLoIWm3Guj1G0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa7ac6bc0587bb819f9bccff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa7ac6bc0587bb819f9bccff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa7ac6bc0587bb819f9bccff",
+      "width": 64
+    }
+  ],
+  "label": "Domino",
+  "name": "One For The Road",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/65BmqqOqnLLoIWm3Guj1G0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+            "id": "7Ln80lUS6He07XvHI8qqHH",
+            "name": "Arctic Monkeys",
+            "type": "artist",
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206051,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Embi9CFZp9mDjB6I0Taq6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Embi9CFZp9mDjB6I0Taq6",
+        "id": "4Embi9CFZp9mDjB6I0Taq6",
+        "is_local": false,
+        "name": "One For The Road",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Embi9CFZp9mDjB6I0Taq6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+            "id": "7Ln80lUS6He07XvHI8qqHH",
+            "name": "Arctic Monkeys",
+            "type": "artist",
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182751,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1go7dWxLl1q4m7kyuifwRG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1go7dWxLl1q4m7kyuifwRG",
+        "id": "1go7dWxLl1q4m7kyuifwRG",
+        "is_local": false,
+        "name": "You're So Dark",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1go7dWxLl1q4m7kyuifwRG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:65BmqqOqnLLoIWm3Guj1G0"
+}

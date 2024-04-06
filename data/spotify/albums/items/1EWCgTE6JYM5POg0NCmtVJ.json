@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Mn5HNY6bJSqK31cRa0uiv",
+      "id": "6Mn5HNY6bJSqK31cRa0uiv",
+      "name": "JONES",
+      "type": "artist",
+      "uri": "spotify:artist:6Mn5HNY6bJSqK31cRa0uiv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2015 37 Adventures",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2015 37 Adventures",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445438550"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1EWCgTE6JYM5POg0NCmtVJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1EWCgTE6JYM5POg0NCmtVJ",
+  "id": "1EWCgTE6JYM5POg0NCmtVJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fdb1ceea6d9b7bffd36853a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fdb1ceea6d9b7bffd36853a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fdb1ceea6d9b7bffd36853a4",
+      "width": 64
+    }
+  ],
+  "label": "PIAS America",
+  "name": "Indulge",
+  "popularity": 0,
+  "release_date": "2015-08-28",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1EWCgTE6JYM5POg0NCmtVJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Mn5HNY6bJSqK31cRa0uiv",
+            "id": "6Mn5HNY6bJSqK31cRa0uiv",
+            "name": "JONES",
+            "type": "artist",
+            "uri": "spotify:artist:6Mn5HNY6bJSqK31cRa0uiv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195699,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Q7f5sxa2PaoUrJuUJPUhH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Q7f5sxa2PaoUrJuUJPUhH",
+        "id": "6Q7f5sxa2PaoUrJuUJPUhH",
+        "is_local": false,
+        "name": "Indulge / Acoustic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Q7f5sxa2PaoUrJuUJPUhH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Mn5HNY6bJSqK31cRa0uiv",
+            "id": "6Mn5HNY6bJSqK31cRa0uiv",
+            "name": "JONES",
+            "type": "artist",
+            "uri": "spotify:artist:6Mn5HNY6bJSqK31cRa0uiv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199609,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KKAd8b4eGDiGML9LgvxQy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KKAd8b4eGDiGML9LgvxQy",
+        "id": "5KKAd8b4eGDiGML9LgvxQy",
+        "is_local": false,
+        "name": "Deep / Acoustic",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5KKAd8b4eGDiGML9LgvxQy"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1EWCgTE6JYM5POg0NCmtVJ"
+}

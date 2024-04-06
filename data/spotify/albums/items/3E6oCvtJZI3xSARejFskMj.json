@@ -1,0 +1,139 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+      },
+      "href": "https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw",
+      "id": "7qG3b048QCHVRO5Pv1T5lw",
+      "name": "Enrique Iglesias",
+      "type": "artist",
+      "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+      },
+      "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
+      "id": "23zg3TcAtWQy7J6upgbUnj",
+      "name": "USHER",
+      "type": "artist",
+      "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id": "55Aa2cqylxrFIXC767Z865",
+      "name": "Lil Wayne",
+      "type": "artist",
+      "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2011 Universal International Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2011 Universal International Music B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602527736792"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3E6oCvtJZI3xSARejFskMj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3E6oCvtJZI3xSARejFskMj",
+  "id": "3E6oCvtJZI3xSARejFskMj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c429294f2ae18088ab4374a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c429294f2ae18088ab4374a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c429294f2ae18088ab4374a8",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Dirty Dancer",
+  "popularity": 0,
+  "release_date": "2011-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3E6oCvtJZI3xSARejFskMj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw",
+            "id": "7qG3b048QCHVRO5Pv1T5lw",
+            "name": "Enrique Iglesias",
+            "type": "artist",
+            "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+            },
+            "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
+            "id": "23zg3TcAtWQy7J6upgbUnj",
+            "name": "USHER",
+            "type": "artist",
+            "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 245000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Hq5hZT4L2SO2bV80tcKZH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Hq5hZT4L2SO2bV80tcKZH",
+        "id": "3Hq5hZT4L2SO2bV80tcKZH",
+        "is_local": false,
+        "name": "Dirty Dancer",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Hq5hZT4L2SO2bV80tcKZH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3E6oCvtJZI3xSARejFskMj"
+}

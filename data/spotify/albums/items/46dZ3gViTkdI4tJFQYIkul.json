@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ZgGFg9kFshmpMnayjb1Nk",
+      "id": "3ZgGFg9kFshmpMnayjb1Nk",
+      "name": "Piece Wise",
+      "type": "artist",
+      "uri": "spotify:artist:3ZgGFg9kFshmpMnayjb1Nk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3fN5sNv6BOuzPD6r95XVNJ",
+      "id": "3fN5sNv6BOuzPD6r95XVNJ",
+      "name": "Eloi El",
+      "type": "artist",
+      "uri": "spotify:artist:3fN5sNv6BOuzPD6r95XVNJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Setting Sail Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Setting Sail Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063212516078"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/46dZ3gViTkdI4tJFQYIkul",
+  "id": "46dZ3gViTkdI4tJFQYIkul",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365b91378e1ec70e42f9452fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265b91378e1ec70e42f9452fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165b91378e1ec70e42f9452fc",
+      "width": 64
+    }
+  ],
+  "label": "Setting Sail Records",
+  "name": "Rest Of My Life",
+  "popularity": 3,
+  "release_date": "2023-04-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/46dZ3gViTkdI4tJFQYIkul/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ZgGFg9kFshmpMnayjb1Nk",
+            "id": "3ZgGFg9kFshmpMnayjb1Nk",
+            "name": "Piece Wise",
+            "type": "artist",
+            "uri": "spotify:artist:3ZgGFg9kFshmpMnayjb1Nk"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fN5sNv6BOuzPD6r95XVNJ",
+            "id": "3fN5sNv6BOuzPD6r95XVNJ",
+            "name": "Eloi El",
+            "type": "artist",
+            "uri": "spotify:artist:3fN5sNv6BOuzPD6r95XVNJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 139010,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03TeqvF26mItybhh9k3wPA",
+        "id": "03TeqvF26mItybhh9k3wPA",
+        "is_local": false,
+        "name": "Rest Of My Life",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:03TeqvF26mItybhh9k3wPA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:46dZ3gViTkdI4tJFQYIkul"
+}

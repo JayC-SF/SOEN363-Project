@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3xMh6oNDDIQsWsQI31cUbV"
+      },
+      "href": "https://api.spotify.com/v1/artists/3xMh6oNDDIQsWsQI31cUbV",
+      "id": "3xMh6oNDDIQsWsQI31cUbV",
+      "name": "BlackOnBlack",
+      "type": "artist",
+      "uri": "spotify:artist:3xMh6oNDDIQsWsQI31cUbV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Opium Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Indiefy",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7503042287192"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Q4D9o0lwTffHhcx9MfxO7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Q4D9o0lwTffHhcx9MfxO7",
+  "id": "0Q4D9o0lwTffHhcx9MfxO7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d16335b02ffef3b4dfaa7dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d16335b02ffef3b4dfaa7dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d16335b02ffef3b4dfaa7dc",
+      "width": 64
+    }
+  ],
+  "label": "Indiefy",
+  "name": "Front To The Back",
+  "popularity": 10,
+  "release_date": "2023-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Q4D9o0lwTffHhcx9MfxO7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3xMh6oNDDIQsWsQI31cUbV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3xMh6oNDDIQsWsQI31cUbV",
+            "id": "3xMh6oNDDIQsWsQI31cUbV",
+            "name": "BlackOnBlack",
+            "type": "artist",
+            "uri": "spotify:artist:3xMh6oNDDIQsWsQI31cUbV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154543,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Kpmf0GXJzhnGtUmIDTvdT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Kpmf0GXJzhnGtUmIDTvdT",
+        "id": "0Kpmf0GXJzhnGtUmIDTvdT",
+        "is_local": false,
+        "name": "Front To The Back",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Kpmf0GXJzhnGtUmIDTvdT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0Q4D9o0lwTffHhcx9MfxO7"
+}

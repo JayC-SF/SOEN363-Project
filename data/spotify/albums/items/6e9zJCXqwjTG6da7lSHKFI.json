@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+      },
+      "href": "https://api.spotify.com/v1/artists/1nzgtKYFckznkcVMR3Gg4z",
+      "id": "1nzgtKYFckznkcVMR3Gg4z",
+      "name": "KSI",
+      "type": "artist",
+      "uri": "spotify:artist:1nzgtKYFckznkcVMR3Gg4z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017",
+      "type": "C"
+    },
+    {
+      "text": "2017 KSIOlajidebt LTD",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "1827849345609"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6e9zJCXqwjTG6da7lSHKFI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6e9zJCXqwjTG6da7lSHKFI",
+  "id": "6e9zJCXqwjTG6da7lSHKFI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e5754f1aa6175d9036be717",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e5754f1aa6175d9036be717",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519e5754f1aa6175d9036be717",
+      "width": 64
+    }
+  ],
+  "label": "KSIOlajidebt LTD",
+  "name": "Creature",
+  "popularity": 0,
+  "release_date": "2017-06-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6e9zJCXqwjTG6da7lSHKFI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+            },
+            "href": "https://api.spotify.com/v1/artists/1nzgtKYFckznkcVMR3Gg4z",
+            "id": "1nzgtKYFckznkcVMR3Gg4z",
+            "name": "KSI",
+            "type": "artist",
+            "uri": "spotify:artist:1nzgtKYFckznkcVMR3Gg4z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bzssi2eITqFX81J0fKCun"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bzssi2eITqFX81J0fKCun",
+        "id": "0bzssi2eITqFX81J0fKCun",
+        "is_local": false,
+        "name": "Creature",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bzssi2eITqFX81J0fKCun"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6e9zJCXqwjTG6da7lSHKFI"
+}

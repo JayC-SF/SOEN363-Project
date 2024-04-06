@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hBOguBu3xMBQzVEAzUeym",
+      "id": "1hBOguBu3xMBQzVEAzUeym",
+      "name": "Annie Bosko",
+      "type": "artist",
+      "uri": "spotify:artist:1hBOguBu3xMBQzVEAzUeym"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Brown Sellers Brown, LLC d/b/a Stone Country Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 Brown Sellers Brown, LLC d/b/a Stone Country Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "728204526354"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1wEjzKyHfBVPAFNqSTRyLk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1wEjzKyHfBVPAFNqSTRyLk",
+  "id": "1wEjzKyHfBVPAFNqSTRyLk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357d198c1d7b151809d7d490a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257d198c1d7b151809d7d490a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157d198c1d7b151809d7d490a",
+      "width": 64
+    }
+  ],
+  "label": "Stone Country Records",
+  "name": "Boots On",
+  "popularity": 29,
+  "release_date": "2023-10-06",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1wEjzKyHfBVPAFNqSTRyLk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hBOguBu3xMBQzVEAzUeym",
+            "id": "1hBOguBu3xMBQzVEAzUeym",
+            "name": "Annie Bosko",
+            "type": "artist",
+            "uri": "spotify:artist:1hBOguBu3xMBQzVEAzUeym"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qAux0wVOw8P9Rr2FpKuQp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qAux0wVOw8P9Rr2FpKuQp",
+        "id": "5qAux0wVOw8P9Rr2FpKuQp",
+        "is_local": false,
+        "name": "Boots On",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5qAux0wVOw8P9Rr2FpKuQp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hBOguBu3xMBQzVEAzUeym",
+            "id": "1hBOguBu3xMBQzVEAzUeym",
+            "name": "Annie Bosko",
+            "type": "artist",
+            "uri": "spotify:artist:1hBOguBu3xMBQzVEAzUeym"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IvwEUE0iznUH3jHPxB8Fi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IvwEUE0iznUH3jHPxB8Fi",
+        "id": "3IvwEUE0iznUH3jHPxB8Fi",
+        "is_local": false,
+        "name": "Neon Baby",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3IvwEUE0iznUH3jHPxB8Fi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1wEjzKyHfBVPAFNqSTRyLk"
+}

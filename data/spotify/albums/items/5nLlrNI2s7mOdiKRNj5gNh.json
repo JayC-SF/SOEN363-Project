@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ANeFdhioipksT9lqg0Ay6",
+      "id": "7ANeFdhioipksT9lqg0Ay6",
+      "name": "Ego Ella May",
+      "type": "artist",
+      "uri": "spotify:artist:7ANeFdhioipksT9lqg0Ay6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 UpperRoom Records",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 UpperRoom Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195081494449"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5nLlrNI2s7mOdiKRNj5gNh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5nLlrNI2s7mOdiKRNj5gNh",
+  "id": "5nLlrNI2s7mOdiKRNj5gNh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739cabb9aaae7201e7de29bb07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029cabb9aaae7201e7de29bb07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519cabb9aaae7201e7de29bb07",
+      "width": 64
+    }
+  ],
+  "label": "UpperRoom Records",
+  "name": "Give A Little",
+  "popularity": 0,
+  "release_date": "2020-05-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5nLlrNI2s7mOdiKRNj5gNh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ANeFdhioipksT9lqg0Ay6",
+            "id": "7ANeFdhioipksT9lqg0Ay6",
+            "name": "Ego Ella May",
+            "type": "artist",
+            "uri": "spotify:artist:7ANeFdhioipksT9lqg0Ay6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206823,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31A1fe7Wc7KaG9WDURhvZW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31A1fe7Wc7KaG9WDURhvZW",
+        "id": "31A1fe7Wc7KaG9WDURhvZW",
+        "is_local": false,
+        "name": "Give A Little",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:31A1fe7Wc7KaG9WDURhvZW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5nLlrNI2s7mOdiKRNj5gNh"
+}

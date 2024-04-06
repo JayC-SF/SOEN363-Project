@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa",
+      "id": "3TOqt5oJwL9BE2NG9MEwDa",
+      "name": "Disturbed",
+      "type": "artist",
+      "uri": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Reprise Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Reprise Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391947802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/67M222X6auwQy70w3DbTV4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/67M222X6auwQy70w3DbTV4",
+  "id": "67M222X6auwQy70w3DbTV4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356ecb2739e2ebe873cc01f84",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256ecb2739e2ebe873cc01f84",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156ecb2739e2ebe873cc01f84",
+      "width": 64
+    }
+  ],
+  "label": "Reprise",
+  "name": "A Reason to Fight / Are You Ready",
+  "popularity": 0,
+  "release_date": "2018-09-21",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/67M222X6auwQy70w3DbTV4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa",
+            "id": "3TOqt5oJwL9BE2NG9MEwDa",
+            "name": "Disturbed",
+            "type": "artist",
+            "uri": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 284293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ff2CBFamBE7C9VBohAJ0K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ff2CBFamBE7C9VBohAJ0K",
+        "id": "2Ff2CBFamBE7C9VBohAJ0K",
+        "is_local": false,
+        "name": "A Reason to Fight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Ff2CBFamBE7C9VBohAJ0K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa",
+            "id": "3TOqt5oJwL9BE2NG9MEwDa",
+            "name": "Disturbed",
+            "type": "artist",
+            "uri": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zs4NYDiHkshl8hxW6jaAT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0zs4NYDiHkshl8hxW6jaAT",
+        "id": "0zs4NYDiHkshl8hxW6jaAT",
+        "is_local": false,
+        "name": "Are You Ready",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0zs4NYDiHkshl8hxW6jaAT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:67M222X6auwQy70w3DbTV4"
+}

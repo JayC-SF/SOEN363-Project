@@ -1,0 +1,666 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+      "id": "5xmgC1jISe31QZSp8gqKUJ",
+      "name": "Peps Persson",
+      "type": "artist",
+      "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+    }
+  ],
+  "available_markets": [
+    "CZ",
+    "DE",
+    "EE",
+    "FI",
+    "HU",
+    "IS",
+    "JP",
+    "LT",
+    "LV",
+    "NO",
+    "PK",
+    "PT",
+    "SE",
+    "SG",
+    "SK"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2004 Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "This Compilation \u2117 2004 Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602498687734"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1pIYOXNx3EJIX8c3zoZZGN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1pIYOXNx3EJIX8c3zoZZGN",
+  "id": "1pIYOXNx3EJIX8c3zoZZGN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273526fbed31942217ef35d019b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02526fbed31942217ef35d019b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851526fbed31942217ef35d019b",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music AB",
+  "name": "B\u00e4sta",
+  "popularity": 41,
+  "release_date": "2004-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 17,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1pIYOXNx3EJIX8c3zoZZGN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+            "id": "5xmgC1jISe31QZSp8gqKUJ",
+            "name": "Peps Persson",
+            "type": "artist",
+            "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+          }
+        ],
+        "available_markets": [
+          "CZ",
+          "DE",
+          "EE",
+          "FI",
+          "HU",
+          "IS",
+          "JP",
+          "LT",
+          "LV",
+          "NO",
+          "PK",
+          "PT",
+          "SE",
+          "SG",
+          "SK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 243026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OwH2YXbDrU5HOIyZDRFtg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OwH2YXbDrU5HOIyZDRFtg",
+        "id": "5OwH2YXbDrU5HOIyZDRFtg",
+        "is_local": false,
+        "name": "Oh boy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5OwH2YXbDrU5HOIyZDRFtg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jbihM9MC8C7MF0rmvb5Ik"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jbihM9MC8C7MF0rmvb5Ik",
+        "id": "0jbihM9MC8C7MF0rmvb5Ik",
+        "is_local": false,
+        "name": "F\u00f6r livet",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0jbihM9MC8C7MF0rmvb5Ik"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 324666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZjMrANNsrEfKgIc8iyVrw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ZjMrANNsrEfKgIc8iyVrw",
+        "id": "5ZjMrANNsrEfKgIc8iyVrw",
+        "is_local": false,
+        "name": "Lived p\u00e5 lanned",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5ZjMrANNsrEfKgIc8iyVrw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+            "id": "5xmgC1jISe31QZSp8gqKUJ",
+            "name": "Peps Persson",
+            "type": "artist",
+            "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oOAwUE7iK3Jyp8aAmqLeM"
+            },
+            "href": "https://api.spotify.com/v1/artists/0oOAwUE7iK3Jyp8aAmqLeM",
+            "id": "0oOAwUE7iK3Jyp8aAmqLeM",
+            "name": "Downhome Bluesband",
+            "type": "artist",
+            "uri": "spotify:artist:0oOAwUE7iK3Jyp8aAmqLeM"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2T9LlmvnZsF5bDW6Zetuyu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2T9LlmvnZsF5bDW6Zetuyu",
+        "id": "2T9LlmvnZsF5bDW6Zetuyu",
+        "is_local": false,
+        "name": "Min trollmoj funkar",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2T9LlmvnZsF5bDW6Zetuyu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+            "id": "5xmgC1jISe31QZSp8gqKUJ",
+            "name": "Peps Persson",
+            "type": "artist",
+            "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 185133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KRntWArAaaWgUUopZ1e97"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KRntWArAaaWgUUopZ1e97",
+        "id": "0KRntWArAaaWgUUopZ1e97",
+        "is_local": false,
+        "name": "Sicket el\u00e4nde",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0KRntWArAaaWgUUopZ1e97"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+            "id": "5xmgC1jISe31QZSp8gqKUJ",
+            "name": "Peps Persson",
+            "type": "artist",
+            "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 264866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dEwGAL1wSB5eXiHr0EJcX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dEwGAL1wSB5eXiHr0EJcX",
+        "id": "4dEwGAL1wSB5eXiHr0EJcX",
+        "is_local": false,
+        "name": "Illa",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4dEwGAL1wSB5eXiHr0EJcX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+            "id": "5xmgC1jISe31QZSp8gqKUJ",
+            "name": "Peps Persson",
+            "type": "artist",
+            "uri": "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+          }
+        ],
+        "available_markets": [
+          "CZ",
+          "DE",
+          "EE",
+          "FI",
+          "HU",
+          "IS",
+          "JP",
+          "LT",
+          "LV",
+          "NO",
+          "PK",
+          "PT",
+          "SE",
+          "SG",
+          "SK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 253400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dYnBAp6HZXz6AV4it29gH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dYnBAp6HZXz6AV4it29gH",
+        "id": "6dYnBAp6HZXz6AV4it29gH",
+        "is_local": false,
+        "name": "Rotrock",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6dYnBAp6HZXz6AV4it29gH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46Q2QWrN9LCiQVYHyrJRfw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/46Q2QWrN9LCiQVYHyrJRfw",
+        "id": "46Q2QWrN9LCiQVYHyrJRfw",
+        "is_local": false,
+        "name": "Hyreskasern",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:46Q2QWrN9LCiQVYHyrJRfw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FVuKQDB89Ny6EWXjtXw4P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FVuKQDB89Ny6EWXjtXw4P",
+        "id": "5FVuKQDB89Ny6EWXjtXw4P",
+        "is_local": false,
+        "name": "Persson ifr\u00e5n stan",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5FVuKQDB89Ny6EWXjtXw4P"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 315333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gwgOgbaXaJy39tRTthCGg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gwgOgbaXaJy39tRTthCGg",
+        "id": "3gwgOgbaXaJy39tRTthCGg",
+        "is_local": false,
+        "name": "H\u00f6g standard",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3gwgOgbaXaJy39tRTthCGg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 262506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7w8KDHsHh1pminb1zTCKxi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7w8KDHsHh1pminb1zTCKxi",
+        "id": "7w8KDHsHh1pminb1zTCKxi",
+        "is_local": false,
+        "name": "Vilddjurets tecken",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7w8KDHsHh1pminb1zTCKxi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 433560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3deFjLUiksRcfNotOc15Jm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3deFjLUiksRcfNotOc15Jm",
+        "id": "3deFjLUiksRcfNotOc15Jm",
+        "is_local": false,
+        "name": "On\u00e5dens \u00e5r",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3deFjLUiksRcfNotOc15Jm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 202840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mXJbArIHSsPCXAWG76YPt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mXJbArIHSsPCXAWG76YPt",
+        "id": "0mXJbArIHSsPCXAWG76YPt",
+        "is_local": false,
+        "name": "Falsk matematik",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0mXJbArIHSsPCXAWG76YPt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5i7F1g3EucZqHUrIaHqXLI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5i7F1g3EucZqHUrIaHqXLI",
+        "id": "5i7F1g3EucZqHUrIaHqXLI",
+        "is_local": false,
+        "name": "Sp\u00e5r",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5i7F1g3EucZqHUrIaHqXLI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2bPLiveI12bMjosCPwhPo2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2bPLiveI12bMjosCPwhPo2",
+            "id": "2bPLiveI12bMjosCPwhPo2",
+            "name": "Pellepepsperssons kapell",
+            "type": "artist",
+            "uri": "spotify:artist:2bPLiveI12bMjosCPwhPo2"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 283560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LonpWsvsotnsEwMc2BWu4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LonpWsvsotnsEwMc2BWu4",
+        "id": "7LonpWsvsotnsEwMc2BWu4",
+        "is_local": false,
+        "name": "Lite grann fr\u00e5n ovan",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:7LonpWsvsotnsEwMc2BWu4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+            },
+            "href": "https://api.spotify.com/v1/artists/16qbt9c47JP8oKWOSAycMD",
+            "id": "16qbt9c47JP8oKWOSAycMD",
+            "name": "Peps Blodsband",
+            "type": "artist",
+            "uri": "spotify:artist:16qbt9c47JP8oKWOSAycMD"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 330733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17mFMRbtqfFqEIv98hohiw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17mFMRbtqfFqEIv98hohiw",
+        "id": "17mFMRbtqfFqEIv98hohiw",
+        "is_local": false,
+        "name": "Liden s\u00e5g",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:17mFMRbtqfFqEIv98hohiw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0vo1dT4cRZ6piFACR3qOTf"
+            },
+            "href": "https://api.spotify.com/v1/artists/0vo1dT4cRZ6piFACR3qOTf",
+            "id": "0vo1dT4cRZ6piFACR3qOTf",
+            "name": "Pelleperssons Kapell",
+            "type": "artist",
+            "uri": "spotify:artist:0vo1dT4cRZ6piFACR3qOTf"
+          }
+        ],
+        "available_markets": [
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zKtoHxpV9aYw3iIi6yNNY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zKtoHxpV9aYw3iIi6yNNY",
+        "id": "5zKtoHxpV9aYw3iIi6yNNY",
+        "is_local": false,
+        "name": "Auktionsvisa",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:5zKtoHxpV9aYw3iIi6yNNY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 17
+  },
+  "type": "album",
+  "uri": "spotify:album:1pIYOXNx3EJIX8c3zoZZGN"
+}

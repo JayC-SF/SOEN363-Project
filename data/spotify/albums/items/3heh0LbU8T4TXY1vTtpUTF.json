@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jOIIfExZ8ulNCOya86xme"
+      },
+      "href": "https://api.spotify.com/v1/artists/1jOIIfExZ8ulNCOya86xme",
+      "id": "1jOIIfExZ8ulNCOya86xme",
+      "name": "Owen King",
+      "type": "artist",
+      "uri": "spotify:artist:1jOIIfExZ8ulNCOya86xme"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Owen King",
+      "type": "C"
+    },
+    {
+      "text": "2020 Owen King",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059435339990"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3heh0LbU8T4TXY1vTtpUTF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3heh0LbU8T4TXY1vTtpUTF",
+  "id": "3heh0LbU8T4TXY1vTtpUTF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad32fa8a9ee2efb64d3e219a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad32fa8a9ee2efb64d3e219a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad32fa8a9ee2efb64d3e219a",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "Cradles",
+  "popularity": 0,
+  "release_date": "2020-03-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3heh0LbU8T4TXY1vTtpUTF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jOIIfExZ8ulNCOya86xme"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jOIIfExZ8ulNCOya86xme",
+            "id": "1jOIIfExZ8ulNCOya86xme",
+            "name": "Owen King",
+            "type": "artist",
+            "uri": "spotify:artist:1jOIIfExZ8ulNCOya86xme"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 209449,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1itIYPAICsDRZ9wxwOdqAO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1itIYPAICsDRZ9wxwOdqAO",
+        "id": "1itIYPAICsDRZ9wxwOdqAO",
+        "is_local": false,
+        "name": "Cradles",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1itIYPAICsDRZ9wxwOdqAO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3heh0LbU8T4TXY1vTtpUTF"
+}

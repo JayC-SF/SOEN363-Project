@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+      },
+      "href": "https://api.spotify.com/v1/artists/3YxkGgMvqCQA75aFpy6524",
+      "id": "3YxkGgMvqCQA75aFpy6524",
+      "name": "G\u00e5te",
+      "type": "artist",
+      "uri": "spotify:artist:3YxkGgMvqCQA75aFpy6524"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2024 Indie Recordings",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2024 Indie Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197190602708"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/55SbqoLhR1YAZ99wEKNLlB",
+  "id": "55SbqoLhR1YAZ99wEKNLlB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5aaa95012874ec6141469b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5aaa95012874ec6141469b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5aaa95012874ec6141469b6",
+      "width": 64
+    }
+  ],
+  "label": "Indie Recordings",
+  "name": "Ulveham",
+  "popularity": 30,
+  "release_date": "2024-01-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/55SbqoLhR1YAZ99wEKNLlB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YxkGgMvqCQA75aFpy6524",
+            "id": "3YxkGgMvqCQA75aFpy6524",
+            "name": "G\u00e5te",
+            "type": "artist",
+            "uri": "spotify:artist:3YxkGgMvqCQA75aFpy6524"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182346,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1We5Dzlzbqq0mLjBVOP7om",
+        "id": "1We5Dzlzbqq0mLjBVOP7om",
+        "is_local": false,
+        "name": "Ulveham",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1We5Dzlzbqq0mLjBVOP7om"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:55SbqoLhR1YAZ99wEKNLlB"
+}

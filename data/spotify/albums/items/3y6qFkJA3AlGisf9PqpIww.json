@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eGgbPwTTb03wQfPprxoOO"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eGgbPwTTb03wQfPprxoOO",
+      "id": "6eGgbPwTTb03wQfPprxoOO",
+      "name": "Seum Dero",
+      "type": "artist",
+      "uri": "spotify:artist:6eGgbPwTTb03wQfPprxoOO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 NCU Project",
+      "type": "C"
+    },
+    {
+      "text": "2019 NCU Project",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "735119162584"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3y6qFkJA3AlGisf9PqpIww"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3y6qFkJA3AlGisf9PqpIww",
+  "id": "3y6qFkJA3AlGisf9PqpIww",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a31bc28882ccc8c0a85c36e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a31bc28882ccc8c0a85c36e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a31bc28882ccc8c0a85c36e",
+      "width": 64
+    }
+  ],
+  "label": "NCU Project",
+  "name": "Machine",
+  "popularity": 0,
+  "release_date": "2019-08-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3y6qFkJA3AlGisf9PqpIww/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eGgbPwTTb03wQfPprxoOO"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eGgbPwTTb03wQfPprxoOO",
+            "id": "6eGgbPwTTb03wQfPprxoOO",
+            "name": "Seum Dero",
+            "type": "artist",
+            "uri": "spotify:artist:6eGgbPwTTb03wQfPprxoOO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 198020,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gkTfjFCf6D4Z5Yoyze2fL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gkTfjFCf6D4Z5Yoyze2fL",
+        "id": "4gkTfjFCf6D4Z5Yoyze2fL",
+        "is_local": false,
+        "name": "Machine",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4gkTfjFCf6D4Z5Yoyze2fL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3y6qFkJA3AlGisf9PqpIww"
+}

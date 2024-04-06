@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id": "0CbeG1224FS58EUx4tPevZ",
+      "name": "Timmy Trumpet",
+      "type": "artist",
+      "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2014 Hussle Recordings",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2014 Hussle Recordings, a division of Ministry of Sound Australia Pty Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537790265"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3yQrTTbgjA1gQUfv7G447H"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3yQrTTbgjA1gQUfv7G447H",
+  "id": "3yQrTTbgjA1gQUfv7G447H",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2c48fbe6e85d57113439875",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2c48fbe6e85d57113439875",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2c48fbe6e85d57113439875",
+      "width": 64
+    }
+  ],
+  "label": "Hussle",
+  "name": "Freaks",
+  "popularity": 0,
+  "release_date": "2014-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3yQrTTbgjA1gQUfv7G447H/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+            "id": "0CbeG1224FS58EUx4tPevZ",
+            "name": "Timmy Trumpet",
+            "type": "artist",
+            "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GbrJTB56Xs4XQGlmVbaCf",
+            "id": "1GbrJTB56Xs4XQGlmVbaCf",
+            "name": "Savage",
+            "type": "artist",
+            "uri": "spotify:artist:1GbrJTB56Xs4XQGlmVbaCf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 274327,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FdXUvs0TJ8RvIaSvWDi3n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FdXUvs0TJ8RvIaSvWDi3n",
+        "id": "5FdXUvs0TJ8RvIaSvWDi3n",
+        "is_local": false,
+        "name": "Freaks",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5FdXUvs0TJ8RvIaSvWDi3n"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3yQrTTbgjA1gQUfv7G447H"
+}

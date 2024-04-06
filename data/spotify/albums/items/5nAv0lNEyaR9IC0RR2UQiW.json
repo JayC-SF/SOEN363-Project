@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+      },
+      "href": "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+      "id": "3gIRvgZssIb9aiirIg0nI3",
+      "name": "Jeremy Zucker",
+      "type": "artist",
+      "uri": "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id": "5JMLG56F1X5mFmWNmS0iAp",
+      "name": "Chelsea Cutler",
+      "type": "artist",
+      "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Republic Records, a division of UMG Recordings, Inc. and CC Ventures LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Republic Records, a division of UMG Recordings, Inc. and CC Ventures LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602435683829"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5nAv0lNEyaR9IC0RR2UQiW",
+  "id": "5nAv0lNEyaR9IC0RR2UQiW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dccb079c492cf99e02e3255b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dccb079c492cf99e02e3255b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dccb079c492cf99e02e3255b",
+      "width": 64
+    }
+  ],
+  "label": "Republic Records",
+  "name": "this is how you fall in love",
+  "popularity": 0,
+  "release_date": "2021-01-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5nAv0lNEyaR9IC0RR2UQiW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+            "id": "3gIRvgZssIb9aiirIg0nI3",
+            "name": "Jeremy Zucker",
+            "type": "artist",
+            "uri": "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+            "id": "5JMLG56F1X5mFmWNmS0iAp",
+            "name": "Chelsea Cutler",
+            "type": "artist",
+            "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0742PcMPo2Akmo4vHC29VZ",
+        "id": "0742PcMPo2Akmo4vHC29VZ",
+        "is_local": false,
+        "name": "this is how you fall in love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0742PcMPo2Akmo4vHC29VZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5nAv0lNEyaR9IC0RR2UQiW"
+}

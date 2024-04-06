@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oEXworvhegyK83rZwVyWL",
+      "id": "4oEXworvhegyK83rZwVyWL",
+      "name": "GSoul",
+      "type": "artist",
+      "uri": "spotify:artist:4oEXworvhegyK83rZwVyWL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 H1GHR MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 H1GHR MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8809534466281"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5LT2wrwER2yxzJ9KSPH4zk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5LT2wrwER2yxzJ9KSPH4zk",
+  "id": "5LT2wrwER2yxzJ9KSPH4zk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736faef19a8c7d3026c6d2a426",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026faef19a8c7d3026c6d2a426",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516faef19a8c7d3026c6d2a426",
+      "width": 64
+    }
+  ],
+  "label": "H1GHR MUSIC",
+  "name": "Bad Habit",
+  "popularity": 0,
+  "release_date": "2017-07-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5LT2wrwER2yxzJ9KSPH4zk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oEXworvhegyK83rZwVyWL",
+            "id": "4oEXworvhegyK83rZwVyWL",
+            "name": "GSoul",
+            "type": "artist",
+            "uri": "spotify:artist:4oEXworvhegyK83rZwVyWL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oTdsBJmsEzK55Xzl8QYxn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6oTdsBJmsEzK55Xzl8QYxn",
+        "id": "6oTdsBJmsEzK55Xzl8QYxn",
+        "is_local": false,
+        "name": "bad habit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6oTdsBJmsEzK55Xzl8QYxn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5LT2wrwER2yxzJ9KSPH4zk"
+}

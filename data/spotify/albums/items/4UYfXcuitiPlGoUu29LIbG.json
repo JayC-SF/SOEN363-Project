@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1p9OoczbKsdQ4UEyRcWLNJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1p9OoczbKsdQ4UEyRcWLNJ",
+      "id": "1p9OoczbKsdQ4UEyRcWLNJ",
+      "name": "Inreload",
+      "type": "artist",
+      "uri": "spotify:artist:1p9OoczbKsdQ4UEyRcWLNJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Dream Relaxation",
+      "type": "C"
+    },
+    {
+      "text": "2021 Dream Relaxation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859743716521"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4UYfXcuitiPlGoUu29LIbG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4UYfXcuitiPlGoUu29LIbG",
+  "id": "4UYfXcuitiPlGoUu29LIbG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27304e1b270cd186c8d65645ee5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0204e1b270cd186c8d65645ee5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485104e1b270cd186c8d65645ee5",
+      "width": 64
+    }
+  ],
+  "label": "Dream Relaxation",
+  "name": "Hope",
+  "popularity": 0,
+  "release_date": "2021-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4UYfXcuitiPlGoUu29LIbG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1p9OoczbKsdQ4UEyRcWLNJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1p9OoczbKsdQ4UEyRcWLNJ",
+            "id": "1p9OoczbKsdQ4UEyRcWLNJ",
+            "name": "Inreload",
+            "type": "artist",
+            "uri": "spotify:artist:1p9OoczbKsdQ4UEyRcWLNJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 148000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ODwXE6Jh6JRZjXGLkvKlu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ODwXE6Jh6JRZjXGLkvKlu",
+        "id": "3ODwXE6Jh6JRZjXGLkvKlu",
+        "is_local": false,
+        "name": "Hope",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ODwXE6Jh6JRZjXGLkvKlu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4UYfXcuitiPlGoUu29LIbG"
+}

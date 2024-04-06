@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3cek8utFIn6QOYxVo6jqtV"
+      },
+      "href": "https://api.spotify.com/v1/artists/3cek8utFIn6QOYxVo6jqtV",
+      "id": "3cek8utFIn6QOYxVo6jqtV",
+      "name": "Meow Skulls",
+      "type": "artist",
+      "uri": "spotify:artist:3cek8utFIn6QOYxVo6jqtV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Meow Skulls",
+      "type": "C"
+    },
+    {
+      "text": "2023 Meow Skulls",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7333475245151"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bEyjmctt2zJBYqix9NhiP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1bEyjmctt2zJBYqix9NhiP",
+  "id": "1bEyjmctt2zJBYqix9NhiP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730cc86f6a6e5906b1f445960c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020cc86f6a6e5906b1f445960c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510cc86f6a6e5906b1f445960c",
+      "width": 64
+    }
+  ],
+  "label": "Meow Skulls",
+  "name": "You don't know me",
+  "popularity": 21,
+  "release_date": "2023-12-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bEyjmctt2zJBYqix9NhiP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3cek8utFIn6QOYxVo6jqtV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3cek8utFIn6QOYxVo6jqtV",
+            "id": "3cek8utFIn6QOYxVo6jqtV",
+            "name": "Meow Skulls",
+            "type": "artist",
+            "uri": "spotify:artist:3cek8utFIn6QOYxVo6jqtV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179687,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jwaooKEJNpSu1918zVeBg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jwaooKEJNpSu1918zVeBg",
+        "id": "0jwaooKEJNpSu1918zVeBg",
+        "is_local": false,
+        "name": "You don't know me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jwaooKEJNpSu1918zVeBg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1bEyjmctt2zJBYqix9NhiP"
+}

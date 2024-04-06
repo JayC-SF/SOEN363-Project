@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+      },
+      "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+      "id": "41Cl8BZQehtPU2JV30fVrn",
+      "name": "80Degrees",
+      "type": "artist",
+      "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197631647343"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0uQcb3Gb2orVj4a6qMOrrM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0uQcb3Gb2orVj4a6qMOrrM",
+  "id": "0uQcb3Gb2orVj4a6qMOrrM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734cb3202d6962bc20b79370c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024cb3202d6962bc20b79370c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514cb3202d6962bc20b79370c9",
+      "width": 64
+    }
+  ],
+  "label": "4839152 Records DK",
+  "name": "pedal",
+  "popularity": 0,
+  "release_date": "2023-02-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0uQcb3Gb2orVj4a6qMOrrM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+            },
+            "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+            "id": "41Cl8BZQehtPU2JV30fVrn",
+            "name": "80Degrees",
+            "type": "artist",
+            "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 148003,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CBEC2pm8GdQ77wYim2tVn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2CBEC2pm8GdQ77wYim2tVn",
+        "id": "2CBEC2pm8GdQ77wYim2tVn",
+        "is_local": false,
+        "name": "pedal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2CBEC2pm8GdQ77wYim2tVn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0uQcb3Gb2orVj4a6qMOrrM"
+}

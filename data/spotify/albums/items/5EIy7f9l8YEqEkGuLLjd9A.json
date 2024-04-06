@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VXPJC0PNpJbzB10A39G8E",
+      "id": "5VXPJC0PNpJbzB10A39G8E",
+      "name": "Janji",
+      "type": "artist",
+      "uri": "spotify:artist:5VXPJC0PNpJbzB10A39G8E"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
+      },
+      "href": "https://api.spotify.com/v1/artists/1yPdXrLhRc50YbwiwCr1uN",
+      "id": "1yPdXrLhRc50YbwiwCr1uN",
+      "name": "Johnning",
+      "type": "artist",
+      "uri": "spotify:artist:1yPdXrLhRc50YbwiwCr1uN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2015 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199513034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5EIy7f9l8YEqEkGuLLjd9A"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5EIy7f9l8YEqEkGuLLjd9A",
+  "id": "5EIy7f9l8YEqEkGuLLjd9A",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739b07b787123fe99fffc9c789",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029b07b787123fe99fffc9c789",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519b07b787123fe99fffc9c789",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "Heroes Tonight",
+  "popularity": 1,
+  "release_date": "2015-06-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5EIy7f9l8YEqEkGuLLjd9A/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
+            },
+            "href": "https://api.spotify.com/v1/artists/5VXPJC0PNpJbzB10A39G8E",
+            "id": "5VXPJC0PNpJbzB10A39G8E",
+            "name": "Janji",
+            "type": "artist",
+            "uri": "spotify:artist:5VXPJC0PNpJbzB10A39G8E"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yPdXrLhRc50YbwiwCr1uN",
+            "id": "1yPdXrLhRc50YbwiwCr1uN",
+            "name": "Johnning",
+            "type": "artist",
+            "uri": "spotify:artist:1yPdXrLhRc50YbwiwCr1uN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 208139,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SipFlNddvL0XNZRLXvdZD",
+        "id": "3SipFlNddvL0XNZRLXvdZD",
+        "is_local": false,
+        "name": "Heroes Tonight",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SipFlNddvL0XNZRLXvdZD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5EIy7f9l8YEqEkGuLLjd9A"
+}

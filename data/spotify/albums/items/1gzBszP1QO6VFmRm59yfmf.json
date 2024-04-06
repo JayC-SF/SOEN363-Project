@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49AG5IHkJj7M5faSOVGVAW"
+      },
+      "href": "https://api.spotify.com/v1/artists/49AG5IHkJj7M5faSOVGVAW",
+      "id": "49AG5IHkJj7M5faSOVGVAW",
+      "name": "Finatticz",
+      "type": "artist",
+      "uri": "spotify:artist:49AG5IHkJj7M5faSOVGVAW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Entertainment One Music",
+      "type": "C"
+    },
+    {
+      "text": "2012 Entertainment One Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "099923018124"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1gzBszP1QO6VFmRm59yfmf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1gzBszP1QO6VFmRm59yfmf",
+  "id": "1gzBszP1QO6VFmRm59yfmf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273967dbdf13b53fccdabe493ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02967dbdf13b53fccdabe493ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851967dbdf13b53fccdabe493ae",
+      "width": 64
+    }
+  ],
+  "label": "eOne Music",
+  "name": "Don't Drop That Thun Thun",
+  "popularity": 0,
+  "release_date": "2012-05-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1gzBszP1QO6VFmRm59yfmf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49AG5IHkJj7M5faSOVGVAW"
+            },
+            "href": "https://api.spotify.com/v1/artists/49AG5IHkJj7M5faSOVGVAW",
+            "id": "49AG5IHkJj7M5faSOVGVAW",
+            "name": "Finatticz",
+            "type": "artist",
+            "uri": "spotify:artist:49AG5IHkJj7M5faSOVGVAW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202199,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77doqkS2s213W6AKgPC6Xj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77doqkS2s213W6AKgPC6Xj",
+        "id": "77doqkS2s213W6AKgPC6Xj",
+        "is_local": false,
+        "name": "Don\u2019t Drop That Thun Thun",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77doqkS2s213W6AKgPC6Xj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1gzBszP1QO6VFmRm59yfmf"
+}

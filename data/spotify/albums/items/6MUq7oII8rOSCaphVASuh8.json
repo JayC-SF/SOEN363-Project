@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RhVihxqFGSR3bDu32i9B2",
+      "id": "2RhVihxqFGSR3bDu32i9B2",
+      "name": "bennytheghost",
+      "type": "artist",
+      "uri": "spotify:artist:2RhVihxqFGSR3bDu32i9B2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 30SF",
+      "type": "C"
+    },
+    {
+      "text": "2021 30SF",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495392446"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MUq7oII8rOSCaphVASuh8",
+  "id": "6MUq7oII8rOSCaphVASuh8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393d556936fca98f2ee6a11fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293d556936fca98f2ee6a11fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193d556936fca98f2ee6a11fc",
+      "width": 64
+    }
+  ],
+  "label": "30SF",
+  "name": "Supersonic",
+  "popularity": 0,
+  "release_date": "2021-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MUq7oII8rOSCaphVASuh8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RhVihxqFGSR3bDu32i9B2",
+            "id": "2RhVihxqFGSR3bDu32i9B2",
+            "name": "bennytheghost",
+            "type": "artist",
+            "uri": "spotify:artist:2RhVihxqFGSR3bDu32i9B2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 149173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5a1Frxln2IsaBlzPfzEaRD",
+        "id": "5a1Frxln2IsaBlzPfzEaRD",
+        "is_local": false,
+        "name": "Supersonic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5a1Frxln2IsaBlzPfzEaRD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MUq7oII8rOSCaphVASuh8"
+}

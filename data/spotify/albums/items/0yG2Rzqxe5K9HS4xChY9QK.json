@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+      },
+      "href": "https://api.spotify.com/v1/artists/6MtptleIGJ3C7lOpGf9Hxc",
+      "id": "6MtptleIGJ3C7lOpGf9Hxc",
+      "name": "Pengz",
+      "type": "artist",
+      "uri": "spotify:artist:6MtptleIGJ3C7lOpGf9Hxc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 More Real",
+      "type": "C"
+    },
+    {
+      "text": "2017 More Real",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859739188721"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0yG2Rzqxe5K9HS4xChY9QK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0yG2Rzqxe5K9HS4xChY9QK",
+  "id": "0yG2Rzqxe5K9HS4xChY9QK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd707153925c6a1e8f91b1ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd707153925c6a1e8f91b1ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd707153925c6a1e8f91b1ea",
+      "width": 64
+    }
+  ],
+  "label": "More Real",
+  "name": "Griselda Blanco",
+  "popularity": 0,
+  "release_date": "2017-08-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0yG2Rzqxe5K9HS4xChY9QK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MtptleIGJ3C7lOpGf9Hxc",
+            "id": "6MtptleIGJ3C7lOpGf9Hxc",
+            "name": "Pengz",
+            "type": "artist",
+            "uri": "spotify:artist:6MtptleIGJ3C7lOpGf9Hxc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3H6Mld9y4gFvW3LDEJUUoQ",
+            "id": "3H6Mld9y4gFvW3LDEJUUoQ",
+            "name": "TwoTwo",
+            "type": "artist",
+            "uri": "spotify:artist:3H6Mld9y4gFvW3LDEJUUoQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207386,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iGNlvw7XfmRSkUbTytNFG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4iGNlvw7XfmRSkUbTytNFG",
+        "id": "4iGNlvw7XfmRSkUbTytNFG",
+        "is_local": false,
+        "name": "Griselda Blanco",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4iGNlvw7XfmRSkUbTytNFG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0yG2Rzqxe5K9HS4xChY9QK"
+}

@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1fbHTsZxovk9lmbTOH6VVL"
+      },
+      "href": "https://api.spotify.com/v1/artists/1fbHTsZxovk9lmbTOH6VVL",
+      "id": "1fbHTsZxovk9lmbTOH6VVL",
+      "name": "The Jiants",
+      "type": "artist",
+      "uri": "spotify:artist:1fbHTsZxovk9lmbTOH6VVL"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Numero Group",
+      "type": "C"
+    },
+    {
+      "text": "2017 Numero Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "825764541831"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wQu8RNFWlbXrOL9JuglLy"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wQu8RNFWlbXrOL9JuglLy",
+  "id": "3wQu8RNFWlbXrOL9JuglLy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f9ebab5b2674154b3f0dd7c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f9ebab5b2674154b3f0dd7c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f9ebab5b2674154b3f0dd7c",
+      "width": 64
+    }
+  ],
+  "label": "Numero Group",
+  "name": "\"Tornado\" b/w \"She's My Woman\"",
+  "popularity": 0,
+  "release_date": "1959-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wQu8RNFWlbXrOL9JuglLy/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fbHTsZxovk9lmbTOH6VVL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fbHTsZxovk9lmbTOH6VVL",
+            "id": "1fbHTsZxovk9lmbTOH6VVL",
+            "name": "The Jiants",
+            "type": "artist",
+            "uri": "spotify:artist:1fbHTsZxovk9lmbTOH6VVL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 111614,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Bb3HzZ0hxyAxpuGs5qABp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Bb3HzZ0hxyAxpuGs5qABp",
+        "id": "3Bb3HzZ0hxyAxpuGs5qABp",
+        "is_local": false,
+        "name": "Tornado",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Bb3HzZ0hxyAxpuGs5qABp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1fbHTsZxovk9lmbTOH6VVL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1fbHTsZxovk9lmbTOH6VVL",
+            "id": "1fbHTsZxovk9lmbTOH6VVL",
+            "name": "The Jiants",
+            "type": "artist",
+            "uri": "spotify:artist:1fbHTsZxovk9lmbTOH6VVL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 104525,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ENmOmW68xC5e3XKGnKb89"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ENmOmW68xC5e3XKGnKb89",
+        "id": "0ENmOmW68xC5e3XKGnKb89",
+        "is_local": false,
+        "name": "She's My Woman",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0ENmOmW68xC5e3XKGnKb89"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3wQu8RNFWlbXrOL9JuglLy"
+}

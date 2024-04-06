@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NqMyARV61IbZLn8a8zF5S"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NqMyARV61IbZLn8a8zF5S",
+      "id": "0NqMyARV61IbZLn8a8zF5S",
+      "name": "Pcam",
+      "type": "artist",
+      "uri": "spotify:artist:0NqMyARV61IbZLn8a8zF5S"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 1122263 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 1122263 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195396673003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/22u395kNjDZAqyr4dVZBwY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/22u395kNjDZAqyr4dVZBwY",
+  "id": "22u395kNjDZAqyr4dVZBwY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cdbb559317e2c6d3fedc6d9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cdbb559317e2c6d3fedc6d9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cdbb559317e2c6d3fedc6d9b",
+      "width": 64
+    }
+  ],
+  "label": "1122263 Records DK",
+  "name": "Will You Remember Me?",
+  "popularity": 0,
+  "release_date": "2020-06-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/22u395kNjDZAqyr4dVZBwY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NqMyARV61IbZLn8a8zF5S"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NqMyARV61IbZLn8a8zF5S",
+            "id": "0NqMyARV61IbZLn8a8zF5S",
+            "name": "Pcam",
+            "type": "artist",
+            "uri": "spotify:artist:0NqMyARV61IbZLn8a8zF5S"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225075,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UpjxjYY1DbxMaabqMk7UJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UpjxjYY1DbxMaabqMk7UJ",
+        "id": "2UpjxjYY1DbxMaabqMk7UJ",
+        "is_local": false,
+        "name": "Will You Remember Me?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2UpjxjYY1DbxMaabqMk7UJ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:22u395kNjDZAqyr4dVZBwY"
+}

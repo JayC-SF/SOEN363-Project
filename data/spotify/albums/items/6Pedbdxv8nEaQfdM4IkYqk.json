@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zSQQxDwEPGOXIcjdbuhWz",
+      "id": "5zSQQxDwEPGOXIcjdbuhWz",
+      "name": "The Others",
+      "type": "artist",
+      "uri": "spotify:artist:5zSQQxDwEPGOXIcjdbuhWz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1998 Sundazed Music",
+      "type": "C"
+    },
+    {
+      "text": "1998 Sundazed Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "090771713711"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6Pedbdxv8nEaQfdM4IkYqk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6Pedbdxv8nEaQfdM4IkYqk",
+  "id": "6Pedbdxv8nEaQfdM4IkYqk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731892cf70175f63daace252f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021892cf70175f63daace252f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511892cf70175f63daace252f5",
+      "width": 64
+    }
+  ],
+  "label": "Sundazed Music / Modern Harmonic",
+  "name": "Revenge / I'm in Need",
+  "popularity": 0,
+  "release_date": "1998-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6Pedbdxv8nEaQfdM4IkYqk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zSQQxDwEPGOXIcjdbuhWz",
+            "id": "5zSQQxDwEPGOXIcjdbuhWz",
+            "name": "The Others",
+            "type": "artist",
+            "uri": "spotify:artist:5zSQQxDwEPGOXIcjdbuhWz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120253,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5M3RDLWElgOJY1DC5KBrdY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5M3RDLWElgOJY1DC5KBrdY",
+        "id": "5M3RDLWElgOJY1DC5KBrdY",
+        "is_local": false,
+        "name": "Revenge",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5M3RDLWElgOJY1DC5KBrdY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zSQQxDwEPGOXIcjdbuhWz",
+            "id": "5zSQQxDwEPGOXIcjdbuhWz",
+            "name": "The Others",
+            "type": "artist",
+            "uri": "spotify:artist:5zSQQxDwEPGOXIcjdbuhWz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SUtfbCmW6bH2LoGS5c5Gd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6SUtfbCmW6bH2LoGS5c5Gd",
+        "id": "6SUtfbCmW6bH2LoGS5c5Gd",
+        "is_local": false,
+        "name": "I'm in Need",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6SUtfbCmW6bH2LoGS5c5Gd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6Pedbdxv8nEaQfdM4IkYqk"
+}

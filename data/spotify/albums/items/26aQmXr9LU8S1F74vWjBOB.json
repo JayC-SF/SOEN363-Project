@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+      },
+      "href": "https://api.spotify.com/v1/artists/7ypPN35cJ9wfF2Zs7aYS33",
+      "id": "7ypPN35cJ9wfF2Zs7aYS33",
+      "name": "Dillistone",
+      "type": "artist",
+      "uri": "spotify:artist:7ypPN35cJ9wfF2Zs7aYS33"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 No3 / One Seven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871183109"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/26aQmXr9LU8S1F74vWjBOB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/26aQmXr9LU8S1F74vWjBOB",
+  "id": "26aQmXr9LU8S1F74vWjBOB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737033518bc73a63c307618b64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027033518bc73a63c307618b64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517033518bc73a63c307618b64",
+      "width": 64
+    }
+  ],
+  "label": "No3",
+  "name": "Lost",
+  "popularity": 27,
+  "release_date": "2023-06-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/26aQmXr9LU8S1F74vWjBOB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+            },
+            "href": "https://api.spotify.com/v1/artists/7ypPN35cJ9wfF2Zs7aYS33",
+            "id": "7ypPN35cJ9wfF2Zs7aYS33",
+            "name": "Dillistone",
+            "type": "artist",
+            "uri": "spotify:artist:7ypPN35cJ9wfF2Zs7aYS33"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194730,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ihVBzv0Gz10R2OnyBDuEk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ihVBzv0Gz10R2OnyBDuEk",
+        "id": "7ihVBzv0Gz10R2OnyBDuEk",
+        "is_local": false,
+        "name": "Lost",
+        "preview_url": "https://p.scdn.co/mp3-preview/6e66a971ca476456b10dc2b3a08d558079065082?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ihVBzv0Gz10R2OnyBDuEk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:26aQmXr9LU8S1F74vWjBOB"
+}

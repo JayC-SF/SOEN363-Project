@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pyvattHQ2U0TfSG6TjwrU"
+      },
+      "href": "https://api.spotify.com/v1/artists/7pyvattHQ2U0TfSG6TjwrU",
+      "id": "7pyvattHQ2U0TfSG6TjwrU",
+      "name": "Sided",
+      "type": "artist",
+      "uri": "spotify:artist:7pyvattHQ2U0TfSG6TjwrU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 2Family",
+      "type": "C"
+    },
+    {
+      "text": "2021 2Family",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8720366037473"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6a1BypkIuiKqGcgN8w0FBb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6a1BypkIuiKqGcgN8w0FBb",
+  "id": "6a1BypkIuiKqGcgN8w0FBb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355549bf2419ddf9789701b8b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255549bf2419ddf9789701b8b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155549bf2419ddf9789701b8b",
+      "width": 64
+    }
+  ],
+  "label": "2Family",
+  "name": "Meh",
+  "popularity": 0,
+  "release_date": "2021-11-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6a1BypkIuiKqGcgN8w0FBb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pyvattHQ2U0TfSG6TjwrU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pyvattHQ2U0TfSG6TjwrU",
+            "id": "7pyvattHQ2U0TfSG6TjwrU",
+            "name": "Sided",
+            "type": "artist",
+            "uri": "spotify:artist:7pyvattHQ2U0TfSG6TjwrU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165024,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03v6ezbFAipTjUVarFiqcX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03v6ezbFAipTjUVarFiqcX",
+        "id": "03v6ezbFAipTjUVarFiqcX",
+        "is_local": false,
+        "name": "Meh",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:03v6ezbFAipTjUVarFiqcX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6a1BypkIuiKqGcgN8w0FBb"
+}

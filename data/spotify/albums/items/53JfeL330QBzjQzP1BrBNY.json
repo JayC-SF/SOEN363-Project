@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+      },
+      "href": "https://api.spotify.com/v1/artists/1MicVtcHS3vuNVCrd1un7s",
+      "id": "1MicVtcHS3vuNVCrd1un7s",
+      "name": "Nikos Oikonomopoulos",
+      "type": "artist",
+      "uri": "spotify:artist:1MicVtcHS3vuNVCrd1un7s"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Heaven Music",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Heaven Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497451050"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53JfeL330QBzjQzP1BrBNY"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53JfeL330QBzjQzP1BrBNY",
+  "id": "53JfeL330QBzjQzP1BrBNY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4a750962ce000ef732cf763",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4a750962ce000ef732cf763",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4a750962ce000ef732cf763",
+      "width": 64
+    }
+  ],
+  "label": "Heaven Music",
+  "name": "Emena Na Akous",
+  "popularity": 0,
+  "release_date": "2020-11-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53JfeL330QBzjQzP1BrBNY/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+            },
+            "href": "https://api.spotify.com/v1/artists/1MicVtcHS3vuNVCrd1un7s",
+            "id": "1MicVtcHS3vuNVCrd1un7s",
+            "name": "Nikos Oikonomopoulos",
+            "type": "artist",
+            "uri": "spotify:artist:1MicVtcHS3vuNVCrd1un7s"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188292,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QzEdiRXQj7sskK0KHyBhP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QzEdiRXQj7sskK0KHyBhP",
+        "id": "1QzEdiRXQj7sskK0KHyBhP",
+        "is_local": false,
+        "name": "Emena Na Akous",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1QzEdiRXQj7sskK0KHyBhP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:53JfeL330QBzjQzP1BrBNY"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+      },
+      "href": "https://api.spotify.com/v1/artists/0PPCPsuv0iOAYKGR2SkFal",
+      "id": "0PPCPsuv0iOAYKGR2SkFal",
+      "name": "VOLO",
+      "type": "artist",
+      "uri": "spotify:artist:0PPCPsuv0iOAYKGR2SkFal"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Mahalle Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 Mahalle Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616557241437"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51DixeTqDmiGUGgUmtmgKp"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/51DixeTqDmiGUGgUmtmgKp",
+  "id": "51DixeTqDmiGUGgUmtmgKp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322c9715141f8c1b7115e32cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222c9715141f8c1b7115e32cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122c9715141f8c1b7115e32cd",
+      "width": 64
+    }
+  ],
+  "label": "Mahalle Music",
+  "name": "PARA",
+  "popularity": 0,
+  "release_date": "2021-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51DixeTqDmiGUGgUmtmgKp/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PPCPsuv0iOAYKGR2SkFal",
+            "id": "0PPCPsuv0iOAYKGR2SkFal",
+            "name": "VOLO",
+            "type": "artist",
+            "uri": "spotify:artist:0PPCPsuv0iOAYKGR2SkFal"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cnsykb8EItICO41UNyQfW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cnsykb8EItICO41UNyQfW",
+        "id": "6cnsykb8EItICO41UNyQfW",
+        "is_local": false,
+        "name": "PARA",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6cnsykb8EItICO41UNyQfW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:51DixeTqDmiGUGgUmtmgKp"
+}

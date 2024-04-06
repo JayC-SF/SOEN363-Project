@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+      },
+      "href": "https://api.spotify.com/v1/artists/0H4t3GcGse8cqfL222mfbv",
+      "id": "0H4t3GcGse8cqfL222mfbv",
+      "name": "Downtown Binary",
+      "type": "artist",
+      "uri": "spotify:artist:0H4t3GcGse8cqfL222mfbv"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 DBS Recordings",
+      "type": "C"
+    },
+    {
+      "text": "2020 DBS Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195542640583"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ANBlHvC7szQpwyTrfEtRw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4ANBlHvC7szQpwyTrfEtRw",
+  "id": "4ANBlHvC7szQpwyTrfEtRw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273367a596d1ff50bb1a2d07724",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02367a596d1ff50bb1a2d07724",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851367a596d1ff50bb1a2d07724",
+      "width": 64
+    }
+  ],
+  "label": "DBS Recordings",
+  "name": "Light Cycles",
+  "popularity": 0,
+  "release_date": "2020-09-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4ANBlHvC7szQpwyTrfEtRw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+            },
+            "href": "https://api.spotify.com/v1/artists/0H4t3GcGse8cqfL222mfbv",
+            "id": "0H4t3GcGse8cqfL222mfbv",
+            "name": "Downtown Binary",
+            "type": "artist",
+            "uri": "spotify:artist:0H4t3GcGse8cqfL222mfbv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 336111,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Jff0P3A89m9zg0PfDHTct"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Jff0P3A89m9zg0PfDHTct",
+        "id": "6Jff0P3A89m9zg0PfDHTct",
+        "is_local": false,
+        "name": "Light Cycles",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Jff0P3A89m9zg0PfDHTct"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4ANBlHvC7szQpwyTrfEtRw"
+}

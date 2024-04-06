@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qW2MCeqjNlMwiLl0JPbuZ",
+      "id": "6qW2MCeqjNlMwiLl0JPbuZ",
+      "name": "framed",
+      "type": "artist",
+      "uri": "spotify:artist:6qW2MCeqjNlMwiLl0JPbuZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 3801693 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2022 3801693 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196835447872"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ufgUVQLJwhV6uLZ6cH5az"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ufgUVQLJwhV6uLZ6cH5az",
+  "id": "0ufgUVQLJwhV6uLZ6cH5az",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bdb638933230aea47fb3df2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025bdb638933230aea47fb3df2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515bdb638933230aea47fb3df2",
+      "width": 64
+    }
+  ],
+  "label": "3801693 Records DK",
+  "name": "Dr4co",
+  "popularity": 0,
+  "release_date": "2022-03-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ufgUVQLJwhV6uLZ6cH5az/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qW2MCeqjNlMwiLl0JPbuZ",
+            "id": "6qW2MCeqjNlMwiLl0JPbuZ",
+            "name": "framed",
+            "type": "artist",
+            "uri": "spotify:artist:6qW2MCeqjNlMwiLl0JPbuZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 127570,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MdRhMMOMLo3EaVYgNrm2c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MdRhMMOMLo3EaVYgNrm2c",
+        "id": "1MdRhMMOMLo3EaVYgNrm2c",
+        "is_local": false,
+        "name": "Dr4co",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1MdRhMMOMLo3EaVYgNrm2c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ufgUVQLJwhV6uLZ6cH5az"
+}

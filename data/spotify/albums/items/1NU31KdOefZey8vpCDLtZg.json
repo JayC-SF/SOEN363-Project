@@ -1,0 +1,138 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Ye4nfYAA91T1X56gnlXAA",
+      "id": "0Ye4nfYAA91T1X56gnlXAA",
+      "name": "Mako",
+      "type": "artist",
+      "uri": "spotify:artist:0Ye4nfYAA91T1X56gnlXAA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Revealed Recordings, under exclusive license to Cloud 9 Music B.V.",
+      "type": "C"
+    },
+    {
+      "text": "2013 Revealed Recordings, under exclusive license to Cloud 9 Music B.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718521021955"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NU31KdOefZey8vpCDLtZg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1NU31KdOefZey8vpCDLtZg",
+  "id": "1NU31KdOefZey8vpCDLtZg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a18962334480f5e9721a05f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a18962334480f5e9721a05f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a18962334480f5e9721a05f",
+      "width": 64
+    }
+  ],
+  "label": "Revealed Recordings",
+  "name": "Beam (Dannic Mix)",
+  "popularity": 0,
+  "release_date": "2013-12-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1NU31KdOefZey8vpCDLtZg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Ye4nfYAA91T1X56gnlXAA",
+            "id": "0Ye4nfYAA91T1X56gnlXAA",
+            "name": "Mako",
+            "type": "artist",
+            "uri": "spotify:artist:0Ye4nfYAA91T1X56gnlXAA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+            },
+            "href": "https://api.spotify.com/v1/artists/1PFc84GHTYPL0G12JHh9Mc",
+            "id": "1PFc84GHTYPL0G12JHh9Mc",
+            "name": "Dannic",
+            "type": "artist",
+            "uri": "spotify:artist:1PFc84GHTYPL0G12JHh9Mc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 363750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bkcBiTMt3HT3FlNRM5ao8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bkcBiTMt3HT3FlNRM5ao8",
+        "id": "5bkcBiTMt3HT3FlNRM5ao8",
+        "is_local": false,
+        "name": "Beam - Dannic Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5bkcBiTMt3HT3FlNRM5ao8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Ye4nfYAA91T1X56gnlXAA",
+            "id": "0Ye4nfYAA91T1X56gnlXAA",
+            "name": "Mako",
+            "type": "artist",
+            "uri": "spotify:artist:0Ye4nfYAA91T1X56gnlXAA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168838,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19y84L32oSIuYeVtxfGHUA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/19y84L32oSIuYeVtxfGHUA",
+        "id": "19y84L32oSIuYeVtxfGHUA",
+        "is_local": false,
+        "name": "Beam - Dannic Radio Mix",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:19y84L32oSIuYeVtxfGHUA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1NU31KdOefZey8vpCDLtZg"
+}

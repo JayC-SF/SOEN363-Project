@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5qQTwkRWNaZngwkU1CPmYJ",
+      "id": "5qQTwkRWNaZngwkU1CPmYJ",
+      "name": "Syzz",
+      "type": "artist",
+      "uri": "spotify:artist:5qQTwkRWNaZngwkU1CPmYJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Lowly",
+      "type": "C"
+    },
+    {
+      "text": "2020 Lowly",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526148819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0CMyjqVp277emlxX43fHHQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0CMyjqVp277emlxX43fHHQ",
+  "id": "0CMyjqVp277emlxX43fHHQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d36dfea38d125124c3b09805",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d36dfea38d125124c3b09805",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d36dfea38d125124c3b09805",
+      "width": 64
+    }
+  ],
+  "label": "Lowly",
+  "name": "Gimme Gimme Gimme (a man after midnight) [Club Mix]",
+  "popularity": 0,
+  "release_date": "2020-06-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0CMyjqVp277emlxX43fHHQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qQTwkRWNaZngwkU1CPmYJ",
+            "id": "5qQTwkRWNaZngwkU1CPmYJ",
+            "name": "Syzz",
+            "type": "artist",
+            "uri": "spotify:artist:5qQTwkRWNaZngwkU1CPmYJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HnMViOtSLFKr7KI8846Ek"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6HnMViOtSLFKr7KI8846Ek",
+        "id": "6HnMViOtSLFKr7KI8846Ek",
+        "is_local": false,
+        "name": "Gimme Gimme Gimme (a man after midnight) - Club Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6HnMViOtSLFKr7KI8846Ek"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0CMyjqVp277emlxX43fHHQ"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+      "id": "6VD4UEUPvtsemqD3mmTqCR",
+      "name": "Deorro",
+      "type": "artist",
+      "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 LE7ELS Distributed by PRMD Music LLC",
+      "type": "C"
+    },
+    {
+      "text": "2014 LE7ELS Distributed by PRMD Music LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811250020201"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2lACXQqRe0mSYCJxPvrbmV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2lACXQqRe0mSYCJxPvrbmV",
+  "id": "2lACXQqRe0mSYCJxPvrbmV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3cd678622c5057c2e08973c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3cd678622c5057c2e08973c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3cd678622c5057c2e08973c",
+      "width": 64
+    }
+  ],
+  "label": "LE7ELS",
+  "name": "Five Hours",
+  "popularity": 0,
+  "release_date": "2014-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2lACXQqRe0mSYCJxPvrbmV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+            "id": "6VD4UEUPvtsemqD3mmTqCR",
+            "name": "Deorro",
+            "type": "artist",
+            "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 326887,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HRlmZxRIxSKUEiTtMUhsj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HRlmZxRIxSKUEiTtMUhsj",
+        "id": "3HRlmZxRIxSKUEiTtMUhsj",
+        "is_local": false,
+        "name": "Five Hours",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3HRlmZxRIxSKUEiTtMUhsj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2lACXQqRe0mSYCJxPvrbmV"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0vpFNyHReL2ASeI97LlvAK"
+      },
+      "href": "https://api.spotify.com/v1/artists/0vpFNyHReL2ASeI97LlvAK",
+      "id": "0vpFNyHReL2ASeI97LlvAK",
+      "name": "1600j",
+      "type": "artist",
+      "uri": "spotify:artist:0vpFNyHReL2ASeI97LlvAK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 10K Projects",
+      "type": "C"
+    },
+    {
+      "text": "2023 10K Projects",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197931593678"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11tIpRGLYfD5RZw3gD1UBK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11tIpRGLYfD5RZw3gD1UBK",
+  "id": "11tIpRGLYfD5RZw3gD1UBK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338480a5a55b91b358fa308d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238480a5a55b91b358fa308d4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138480a5a55b91b358fa308d4",
+      "width": 64
+    }
+  ],
+  "label": "10K Projects",
+  "name": "Like That (Slowed)",
+  "popularity": 36,
+  "release_date": "2023-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11tIpRGLYfD5RZw3gD1UBK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0vpFNyHReL2ASeI97LlvAK"
+            },
+            "href": "https://api.spotify.com/v1/artists/0vpFNyHReL2ASeI97LlvAK",
+            "id": "0vpFNyHReL2ASeI97LlvAK",
+            "name": "1600j",
+            "type": "artist",
+            "uri": "spotify:artist:0vpFNyHReL2ASeI97LlvAK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 183046,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5v6XJrpjQg3jLqEY8xsvIA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5v6XJrpjQg3jLqEY8xsvIA",
+        "id": "5v6XJrpjQg3jLqEY8xsvIA",
+        "is_local": false,
+        "name": "Like That - Slowed",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5v6XJrpjQg3jLqEY8xsvIA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11tIpRGLYfD5RZw3gD1UBK"
+}

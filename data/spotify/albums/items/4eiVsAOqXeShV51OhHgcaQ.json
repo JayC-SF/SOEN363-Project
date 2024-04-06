@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ZZiDxjlriIvH5WQtzFMVk"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ZZiDxjlriIvH5WQtzFMVk",
+      "id": "4ZZiDxjlriIvH5WQtzFMVk",
+      "name": "Ghetto Gecko",
+      "type": "artist",
+      "uri": "spotify:artist:4ZZiDxjlriIvH5WQtzFMVk"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Gusimann Ent.",
+      "type": "C"
+    },
+    {
+      "text": "2023 Gusimann Ent.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197546003616"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4eiVsAOqXeShV51OhHgcaQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4eiVsAOqXeShV51OhHgcaQ",
+  "id": "4eiVsAOqXeShV51OhHgcaQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273717a6bfdb04eaa917c2760e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02717a6bfdb04eaa917c2760e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851717a6bfdb04eaa917c2760e7",
+      "width": 64
+    }
+  ],
+  "label": "Gusimann Ent.",
+  "name": "Man!",
+  "popularity": 31,
+  "release_date": "2021-09-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4eiVsAOqXeShV51OhHgcaQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ZZiDxjlriIvH5WQtzFMVk"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ZZiDxjlriIvH5WQtzFMVk",
+            "id": "4ZZiDxjlriIvH5WQtzFMVk",
+            "name": "Ghetto Gecko",
+            "type": "artist",
+            "uri": "spotify:artist:4ZZiDxjlriIvH5WQtzFMVk"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172827,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zlNr33KEVM6HtNsdDWpzr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zlNr33KEVM6HtNsdDWpzr",
+        "id": "2zlNr33KEVM6HtNsdDWpzr",
+        "is_local": false,
+        "name": "Man!",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2zlNr33KEVM6HtNsdDWpzr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4eiVsAOqXeShV51OhHgcaQ"
+}

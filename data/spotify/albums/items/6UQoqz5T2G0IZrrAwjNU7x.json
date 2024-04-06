@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
+      },
+      "href": "https://api.spotify.com/v1/artists/3tJELJoPZ4VTKmL0vppqLj",
+      "id": "3tJELJoPZ4VTKmL0vppqLj",
+      "name": "Contra",
+      "type": "artist",
+      "uri": "spotify:artist:3tJELJoPZ4VTKmL0vppqLj"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 ContravoltaMusic",
+      "type": "C"
+    },
+    {
+      "text": "2018 ContravoltaMusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "019307886064"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6UQoqz5T2G0IZrrAwjNU7x"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6UQoqz5T2G0IZrrAwjNU7x",
+  "id": "6UQoqz5T2G0IZrrAwjNU7x",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273282b09fd243f43fcf41772b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02282b09fd243f43fcf41772b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851282b09fd243f43fcf41772b4",
+      "width": 64
+    }
+  ],
+  "label": "ContravoltaMusic",
+  "name": "Kibir",
+  "popularity": 0,
+  "release_date": "2018-05-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6UQoqz5T2G0IZrrAwjNU7x/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
+            },
+            "href": "https://api.spotify.com/v1/artists/3tJELJoPZ4VTKmL0vppqLj",
+            "id": "3tJELJoPZ4VTKmL0vppqLj",
+            "name": "Contra",
+            "type": "artist",
+            "uri": "spotify:artist:3tJELJoPZ4VTKmL0vppqLj"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 153700,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EzaGJdyyvIekeLFdWA7iY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5EzaGJdyyvIekeLFdWA7iY",
+        "id": "5EzaGJdyyvIekeLFdWA7iY",
+        "is_local": false,
+        "name": "Kibir",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5EzaGJdyyvIekeLFdWA7iY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6UQoqz5T2G0IZrrAwjNU7x"
+}

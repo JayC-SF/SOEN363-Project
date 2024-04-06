@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6NpalmYFGVeVOQP3Xa1MJ8"
+      },
+      "href": "https://api.spotify.com/v1/artists/6NpalmYFGVeVOQP3Xa1MJ8",
+      "id": "6NpalmYFGVeVOQP3Xa1MJ8",
+      "name": "WorkRate",
+      "type": "artist",
+      "uri": "spotify:artist:6NpalmYFGVeVOQP3Xa1MJ8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 AJ",
+      "type": "C"
+    },
+    {
+      "text": "2023 AJ",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063015245939"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/093yuxWHKL0nH2lQ1jZM6j"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/093yuxWHKL0nH2lQ1jZM6j",
+  "id": "093yuxWHKL0nH2lQ1jZM6j",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac6760a15352b811458ef039",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac6760a15352b811458ef039",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac6760a15352b811458ef039",
+      "width": 64
+    }
+  ],
+  "label": "AJ",
+  "name": "Topic",
+  "popularity": 0,
+  "release_date": "2022-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/093yuxWHKL0nH2lQ1jZM6j/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6NpalmYFGVeVOQP3Xa1MJ8"
+            },
+            "href": "https://api.spotify.com/v1/artists/6NpalmYFGVeVOQP3Xa1MJ8",
+            "id": "6NpalmYFGVeVOQP3Xa1MJ8",
+            "name": "WorkRate",
+            "type": "artist",
+            "uri": "spotify:artist:6NpalmYFGVeVOQP3Xa1MJ8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151370,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41QYf09H6xDnxIAYFUa151"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41QYf09H6xDnxIAYFUa151",
+        "id": "41QYf09H6xDnxIAYFUa151",
+        "is_local": false,
+        "name": "Topic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:41QYf09H6xDnxIAYFUa151"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:093yuxWHKL0nH2lQ1jZM6j"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+      },
+      "href": "https://api.spotify.com/v1/artists/6VTvaLJ9arNmKi8e1ekOwW",
+      "id": "6VTvaLJ9arNmKi8e1ekOwW",
+      "name": "cleopatrick",
+      "type": "artist",
+      "uri": "spotify:artist:6VTvaLJ9arNmKi8e1ekOwW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2018 cleopatrick",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2018 cleopatrick",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "829982194947"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6U8uJIwsT7fBB8gsShkDcr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6U8uJIwsT7fBB8gsShkDcr",
+  "id": "6U8uJIwsT7fBB8gsShkDcr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb94952623074e208e9e144e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb94952623074e208e9e144e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb94952623074e208e9e144e",
+      "width": 64
+    }
+  ],
+  "label": "Independent",
+  "name": "youth",
+  "popularity": 0,
+  "release_date": "2018-06-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6U8uJIwsT7fBB8gsShkDcr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6VTvaLJ9arNmKi8e1ekOwW",
+            "id": "6VTvaLJ9arNmKi8e1ekOwW",
+            "name": "cleopatrick",
+            "type": "artist",
+            "uri": "spotify:artist:6VTvaLJ9arNmKi8e1ekOwW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243157,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4x7F3UewxPL6tEz3kBFF6e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4x7F3UewxPL6tEz3kBFF6e",
+        "id": "4x7F3UewxPL6tEz3kBFF6e",
+        "is_local": false,
+        "name": "youth",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4x7F3UewxPL6tEz3kBFF6e"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6U8uJIwsT7fBB8gsShkDcr"
+}

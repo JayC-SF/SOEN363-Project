@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3cxdsMDGKccNG6J9CbaYaZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/3cxdsMDGKccNG6J9CbaYaZ",
+      "id": "3cxdsMDGKccNG6J9CbaYaZ",
+      "name": "AtinPiano",
+      "type": "artist",
+      "uri": "spotify:artist:3cxdsMDGKccNG6J9CbaYaZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 AtinPiano",
+      "type": "C"
+    },
+    {
+      "text": "2020 AtinPiano",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195162135445"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04CfopFeLguDehBpTLmObB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04CfopFeLguDehBpTLmObB",
+  "id": "04CfopFeLguDehBpTLmObB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307d9efaee9983ff3516db860",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207d9efaee9983ff3516db860",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107d9efaee9983ff3516db860",
+      "width": 64
+    }
+  ],
+  "label": "AtinPiano",
+  "name": "Order 66",
+  "popularity": 0,
+  "release_date": "2020-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04CfopFeLguDehBpTLmObB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3cxdsMDGKccNG6J9CbaYaZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3cxdsMDGKccNG6J9CbaYaZ",
+            "id": "3cxdsMDGKccNG6J9CbaYaZ",
+            "name": "AtinPiano",
+            "type": "artist",
+            "uri": "spotify:artist:3cxdsMDGKccNG6J9CbaYaZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206316,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MVpbgfwAM8qQmKnFvI93c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MVpbgfwAM8qQmKnFvI93c",
+        "id": "1MVpbgfwAM8qQmKnFvI93c",
+        "is_local": false,
+        "name": "Order 66",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1MVpbgfwAM8qQmKnFvI93c"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04CfopFeLguDehBpTLmObB"
+}

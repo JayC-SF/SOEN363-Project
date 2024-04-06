@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/40XATLSaDbBNjITVxPIsIo"
+      },
+      "href": "https://api.spotify.com/v1/artists/40XATLSaDbBNjITVxPIsIo",
+      "id": "40XATLSaDbBNjITVxPIsIo",
+      "name": "Maclaous",
+      "type": "artist",
+      "uri": "spotify:artist:40XATLSaDbBNjITVxPIsIo"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 maclaous",
+      "type": "C"
+    },
+    {
+      "text": "2023 maclaous",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063245459366"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0nlG8SjApX2u6iH9Ms6RQg"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0nlG8SjApX2u6iH9Ms6RQg",
+  "id": "0nlG8SjApX2u6iH9Ms6RQg",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739fa800fd0af6ca5cd42738a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029fa800fd0af6ca5cd42738a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519fa800fd0af6ca5cd42738a1",
+      "width": 64
+    }
+  ],
+  "label": "maclaous",
+  "name": "Tears",
+  "popularity": 0,
+  "release_date": "2023-03-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0nlG8SjApX2u6iH9Ms6RQg/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40XATLSaDbBNjITVxPIsIo"
+            },
+            "href": "https://api.spotify.com/v1/artists/40XATLSaDbBNjITVxPIsIo",
+            "id": "40XATLSaDbBNjITVxPIsIo",
+            "name": "Maclaous",
+            "type": "artist",
+            "uri": "spotify:artist:40XATLSaDbBNjITVxPIsIo"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192428,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1C2qWLemSOQOUtA3Iolrri"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1C2qWLemSOQOUtA3Iolrri",
+        "id": "1C2qWLemSOQOUtA3Iolrri",
+        "is_local": false,
+        "name": "Tears",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1C2qWLemSOQOUtA3Iolrri"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0nlG8SjApX2u6iH9Ms6RQg"
+}

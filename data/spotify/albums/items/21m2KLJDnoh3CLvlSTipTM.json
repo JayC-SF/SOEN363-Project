@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Hl6TEQAFgH0XrZq4f8okX",
+      "id": "4Hl6TEQAFgH0XrZq4f8okX",
+      "name": "Session Victim",
+      "type": "artist",
+      "uri": "spotify:artist:4Hl6TEQAFgH0XrZq4f8okX"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Toy Tonics",
+      "type": "C"
+    },
+    {
+      "text": "2021 Toy Tonics",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0880655512253"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21m2KLJDnoh3CLvlSTipTM",
+  "id": "21m2KLJDnoh3CLvlSTipTM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e3c51952a5490254ccad75a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e3c51952a5490254ccad75a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e3c51952a5490254ccad75a",
+      "width": 64
+    }
+  ],
+  "label": "Toy Tonics",
+  "name": "Hide and Seek",
+  "popularity": 0,
+  "release_date": "2021-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21m2KLJDnoh3CLvlSTipTM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hl6TEQAFgH0XrZq4f8okX",
+            "id": "4Hl6TEQAFgH0XrZq4f8okX",
+            "name": "Session Victim",
+            "type": "artist",
+            "uri": "spotify:artist:4Hl6TEQAFgH0XrZq4f8okX"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309574,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dtObPFRUZ4eKsZZCp9ddZ",
+        "id": "6dtObPFRUZ4eKsZZCp9ddZ",
+        "is_local": false,
+        "name": "Hide and Seek",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6dtObPFRUZ4eKsZZCp9ddZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21m2KLJDnoh3CLvlSTipTM"
+}

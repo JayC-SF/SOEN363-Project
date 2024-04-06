@@ -1,0 +1,424 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+      "id": "3FUY2gzHeIiaesXtOAdB7A",
+      "name": "Train",
+      "type": "artist",
+      "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2011, 2012 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443421578"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4tHNFM2544qzsLlfWJ7yWD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4tHNFM2544qzsLlfWJ7yWD",
+  "id": "4tHNFM2544qzsLlfWJ7yWD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f588d5905014dcae00ee3c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f588d5905014dcae00ee3c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f588d5905014dcae00ee3c6",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "California 37",
+  "popularity": 0,
+  "release_date": "2012-04-17",
+  "release_date_precision": "day",
+  "total_tracks": 12,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4tHNFM2544qzsLlfWJ7yWD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 210053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16ug6eopPlGD1BpXDNE3ed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16ug6eopPlGD1BpXDNE3ed",
+        "id": "16ug6eopPlGD1BpXDNE3ed",
+        "is_local": false,
+        "name": "This'll Be My Year",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:16ug6eopPlGD1BpXDNE3ed"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zWj09xkFgA9tcV6YhfU6q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zWj09xkFgA9tcV6YhfU6q",
+        "id": "7zWj09xkFgA9tcV6YhfU6q",
+        "is_local": false,
+        "name": "Drive By",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7zWj09xkFgA9tcV6YhfU6q"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eWqYDrIKXcgeR3H91vsnY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2eWqYDrIKXcgeR3H91vsnY",
+        "id": "2eWqYDrIKXcgeR3H91vsnY",
+        "is_local": false,
+        "name": "Feels Good at First",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2eWqYDrIKXcgeR3H91vsnY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+            },
+            "href": "https://api.spotify.com/v1/artists/37BiX28I6pF104F92U1hDP",
+            "id": "37BiX28I6pF104F92U1hDP",
+            "name": "Ashley Monroe",
+            "type": "artist",
+            "uri": "spotify:artist:37BiX28I6pF104F92U1hDP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kMJ7aNXaPjEZVaAk8eEId"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5kMJ7aNXaPjEZVaAk8eEId",
+        "id": "5kMJ7aNXaPjEZVaAk8eEId",
+        "is_local": false,
+        "name": "Bruises",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5kMJ7aNXaPjEZVaAk8eEId"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bQXIksOCU5MUqcddOan3K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bQXIksOCU5MUqcddOan3K",
+        "id": "0bQXIksOCU5MUqcddOan3K",
+        "is_local": false,
+        "name": "50 Ways to Say Goodbye",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0bQXIksOCU5MUqcddOan3K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 280053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XACtpO5URJBYwpN2HIaXV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XACtpO5URJBYwpN2HIaXV",
+        "id": "1XACtpO5URJBYwpN2HIaXV",
+        "is_local": false,
+        "name": "You Can Finally Meet My Mom",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1XACtpO5URJBYwpN2HIaXV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03O2ixwugadGElD2qjF7rd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/03O2ixwugadGElD2qjF7rd",
+        "id": "03O2ixwugadGElD2qjF7rd",
+        "is_local": false,
+        "name": "Sing Together",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:03O2ixwugadGElD2qjF7rd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 196933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23QvUEVePFN0v7MWsI59O4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/23QvUEVePFN0v7MWsI59O4",
+        "id": "23QvUEVePFN0v7MWsI59O4",
+        "is_local": false,
+        "name": "Mermaid",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:23QvUEVePFN0v7MWsI59O4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2b6rwloLyCyeG3IY1MIiO6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2b6rwloLyCyeG3IY1MIiO6",
+        "id": "2b6rwloLyCyeG3IY1MIiO6",
+        "is_local": false,
+        "name": "California 37",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2b6rwloLyCyeG3IY1MIiO6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wPyOMdmxr9kQi6KkVzEEB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wPyOMdmxr9kQi6KkVzEEB",
+        "id": "4wPyOMdmxr9kQi6KkVzEEB",
+        "is_local": false,
+        "name": "We Were Made for This",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4wPyOMdmxr9kQi6KkVzEEB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 261106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qadQsSPf1Rh2ZOoV5kQdx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qadQsSPf1Rh2ZOoV5kQdx",
+        "id": "0qadQsSPf1Rh2ZOoV5kQdx",
+        "is_local": false,
+        "name": "When the Fog Rolls In",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0qadQsSPf1Rh2ZOoV5kQdx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+            "id": "3FUY2gzHeIiaesXtOAdB7A",
+            "name": "Train",
+            "type": "artist",
+            "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LWFvBP2FHUgYi6g1dMJUN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0LWFvBP2FHUgYi6g1dMJUN",
+        "id": "0LWFvBP2FHUgYi6g1dMJUN",
+        "is_local": false,
+        "name": "To Be Loved",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0LWFvBP2FHUgYi6g1dMJUN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  },
+  "type": "album",
+  "uri": "spotify:album:4tHNFM2544qzsLlfWJ7yWD"
+}

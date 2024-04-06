@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+      },
+      "href": "https://api.spotify.com/v1/artists/5zwFj25Ky9akUZjQHuaDDa",
+      "id": "5zwFj25Ky9akUZjQHuaDDa",
+      "name": "Quickdrop",
+      "type": "artist",
+      "uri": "spotify:artist:5zwFj25Ky9akUZjQHuaDDa"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7IsaK7BFw1u03GmjOVN18v"
+      },
+      "href": "https://api.spotify.com/v1/artists/7IsaK7BFw1u03GmjOVN18v",
+      "id": "7IsaK7BFw1u03GmjOVN18v",
+      "name": "Thomas Petersen",
+      "type": "artist",
+      "uri": "spotify:artist:7IsaK7BFw1u03GmjOVN18v"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 Wuze",
+      "type": "C"
+    },
+    {
+      "text": "2024 Wuze",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4067248336038"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zpcK81Vdzgh9e8gljCFfM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1zpcK81Vdzgh9e8gljCFfM",
+  "id": "1zpcK81Vdzgh9e8gljCFfM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273718839256816c6317abd5d78",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02718839256816c6317abd5d78",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851718839256816c6317abd5d78",
+      "width": 64
+    }
+  ],
+  "label": "Wuze",
+  "name": "Alone",
+  "popularity": 24,
+  "release_date": "2024-02-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1zpcK81Vdzgh9e8gljCFfM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5zwFj25Ky9akUZjQHuaDDa",
+            "id": "5zwFj25Ky9akUZjQHuaDDa",
+            "name": "Quickdrop",
+            "type": "artist",
+            "uri": "spotify:artist:5zwFj25Ky9akUZjQHuaDDa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7IsaK7BFw1u03GmjOVN18v"
+            },
+            "href": "https://api.spotify.com/v1/artists/7IsaK7BFw1u03GmjOVN18v",
+            "id": "7IsaK7BFw1u03GmjOVN18v",
+            "name": "Thomas Petersen",
+            "type": "artist",
+            "uri": "spotify:artist:7IsaK7BFw1u03GmjOVN18v"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205939,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NToO34vA9pHUsaaGx6pZh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NToO34vA9pHUsaaGx6pZh",
+        "id": "4NToO34vA9pHUsaaGx6pZh",
+        "is_local": false,
+        "name": "Alone",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4NToO34vA9pHUsaaGx6pZh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1zpcK81Vdzgh9e8gljCFfM"
+}

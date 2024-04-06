@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6vj36dINepZ0nmpbZhak5c"
+      },
+      "href": "https://api.spotify.com/v1/artists/6vj36dINepZ0nmpbZhak5c",
+      "id": "6vj36dINepZ0nmpbZhak5c",
+      "name": "Eduard Romanyuta",
+      "type": "artist",
+      "uri": "spotify:artist:6vj36dINepZ0nmpbZhak5c"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Eduard Romanyuta",
+      "type": "C"
+    },
+    {
+      "text": "2014 Eduard Romanyuta",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055834154356"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Xnro8mPsmVzfaZvuJLtkG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3Xnro8mPsmVzfaZvuJLtkG",
+  "id": "3Xnro8mPsmVzfaZvuJLtkG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273791879caddc4a94c457a0438",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02791879caddc4a94c457a0438",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851791879caddc4a94c457a0438",
+      "width": 64
+    }
+  ],
+  "label": "Eduard Romanyuta",
+  "name": "I Want Your Love",
+  "popularity": 0,
+  "release_date": "2015-03-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3Xnro8mPsmVzfaZvuJLtkG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vj36dINepZ0nmpbZhak5c"
+            },
+            "href": "https://api.spotify.com/v1/artists/6vj36dINepZ0nmpbZhak5c",
+            "id": "6vj36dINepZ0nmpbZhak5c",
+            "name": "Eduard Romanyuta",
+            "type": "artist",
+            "uri": "spotify:artist:6vj36dINepZ0nmpbZhak5c"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180871,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NcwcSoymgNM126a6WwbZX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NcwcSoymgNM126a6WwbZX",
+        "id": "6NcwcSoymgNM126a6WwbZX",
+        "is_local": false,
+        "name": "I Want Your Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6NcwcSoymgNM126a6WwbZX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3Xnro8mPsmVzfaZvuJLtkG"
+}

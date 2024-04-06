@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+      },
+      "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+      "id": "512ryQI6aOrN662xL2g1C9",
+      "name": "Joe Worker",
+      "type": "artist",
+      "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Joe Worker",
+      "type": "C"
+    },
+    {
+      "text": "2023 Joe Worker",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "696168081816"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0PxhTlZGaXvUFej0rzz81u"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0PxhTlZGaXvUFej0rzz81u",
+  "id": "0PxhTlZGaXvUFej0rzz81u",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314f9259f28f5566fd3fa099e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214f9259f28f5566fd3fa099e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114f9259f28f5566fd3fa099e",
+      "width": 64
+    }
+  ],
+  "label": "2206, LLC.",
+  "name": "headshots",
+  "popularity": 4,
+  "release_date": "2023-11-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0PxhTlZGaXvUFej0rzz81u/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9"
+            },
+            "href": "https://api.spotify.com/v1/artists/512ryQI6aOrN662xL2g1C9",
+            "id": "512ryQI6aOrN662xL2g1C9",
+            "name": "Joe Worker",
+            "type": "artist",
+            "uri": "spotify:artist:512ryQI6aOrN662xL2g1C9"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 126804,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jwtV7vEMMG8oWjZ8PDc2u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jwtV7vEMMG8oWjZ8PDc2u",
+        "id": "2jwtV7vEMMG8oWjZ8PDc2u",
+        "is_local": false,
+        "name": "headshots",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2jwtV7vEMMG8oWjZ8PDc2u"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0PxhTlZGaXvUFej0rzz81u"
+}

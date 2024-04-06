@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/75hUPjA5uZlIvYDcaBdCKi"
+      },
+      "href": "https://api.spotify.com/v1/artists/75hUPjA5uZlIvYDcaBdCKi",
+      "id": "75hUPjA5uZlIvYDcaBdCKi",
+      "name": "Frank Sartain",
+      "type": "artist",
+      "uri": "spotify:artist:75hUPjA5uZlIvYDcaBdCKi"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Frank Sartain",
+      "type": "C"
+    },
+    {
+      "text": "2023 Frank Sartain",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059487502953"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GoLFWrIVwwMafnD8Yf6Uu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1GoLFWrIVwwMafnD8Yf6Uu",
+  "id": "1GoLFWrIVwwMafnD8Yf6Uu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f550e2ab5fa999c09bd1f4a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f550e2ab5fa999c09bd1f4a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f550e2ab5fa999c09bd1f4a2",
+      "width": 64
+    }
+  ],
+  "label": "Frank Sartain",
+  "name": "The Little Flower",
+  "popularity": 0,
+  "release_date": "2020-07-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1GoLFWrIVwwMafnD8Yf6Uu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75hUPjA5uZlIvYDcaBdCKi"
+            },
+            "href": "https://api.spotify.com/v1/artists/75hUPjA5uZlIvYDcaBdCKi",
+            "id": "75hUPjA5uZlIvYDcaBdCKi",
+            "name": "Frank Sartain",
+            "type": "artist",
+            "uri": "spotify:artist:75hUPjA5uZlIvYDcaBdCKi"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179304,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jg5FwwZ4AT6qeuA053Rdq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jg5FwwZ4AT6qeuA053Rdq",
+        "id": "0jg5FwwZ4AT6qeuA053Rdq",
+        "is_local": false,
+        "name": "The Little Flower",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jg5FwwZ4AT6qeuA053Rdq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1GoLFWrIVwwMafnD8Yf6Uu"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+      },
+      "href": "https://api.spotify.com/v1/artists/25pd339V2rRJo84USlcSRP",
+      "id": "25pd339V2rRJo84USlcSRP",
+      "name": "JAWNY",
+      "type": "artist",
+      "uri": "spotify:artist:25pd339V2rRJo84USlcSRP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Johnny Utah",
+      "type": "C"
+    },
+    {
+      "text": "2019 Johnny Utah",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526091306"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3JMNN9Fv4kbEZqt4tFwHFZ",
+  "id": "3JMNN9Fv4kbEZqt4tFwHFZ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734524ec375266b3ed68586f5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024524ec375266b3ed68586f5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514524ec375266b3ed68586f5f",
+      "width": 64
+    }
+  ],
+  "label": "Johnny Utah",
+  "name": "Honeypie",
+  "popularity": 0,
+  "release_date": "2019-04-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3JMNN9Fv4kbEZqt4tFwHFZ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+            },
+            "href": "https://api.spotify.com/v1/artists/25pd339V2rRJo84USlcSRP",
+            "id": "25pd339V2rRJo84USlcSRP",
+            "name": "JAWNY",
+            "type": "artist",
+            "uri": "spotify:artist:25pd339V2rRJo84USlcSRP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135521,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JqYhSdTE4WbQrMXxPH5cD",
+        "id": "6JqYhSdTE4WbQrMXxPH5cD",
+        "is_local": false,
+        "name": "Honeypie",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JqYhSdTE4WbQrMXxPH5cD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3JMNN9Fv4kbEZqt4tFwHFZ"
+}

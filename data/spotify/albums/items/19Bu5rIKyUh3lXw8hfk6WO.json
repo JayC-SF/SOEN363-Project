@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446684703"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/19Bu5rIKyUh3lXw8hfk6WO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/19Bu5rIKyUh3lXw8hfk6WO",
+  "id": "19Bu5rIKyUh3lXw8hfk6WO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df5b4bb2ee00999c60ce05b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df5b4bb2ee00999c60ce05b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df5b4bb2ee00999c60ce05b7",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label",
+  "name": "Questions",
+  "popularity": 0,
+  "release_date": "2017-08-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/19Bu5rIKyUh3lXw8hfk6WO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 129477,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XQMr19TL7Mfksq9zihbOu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XQMr19TL7Mfksq9zihbOu",
+        "id": "5XQMr19TL7Mfksq9zihbOu",
+        "is_local": false,
+        "name": "Questions",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5XQMr19TL7Mfksq9zihbOu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:19Bu5rIKyUh3lXw8hfk6WO"
+}

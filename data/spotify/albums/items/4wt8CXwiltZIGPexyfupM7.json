@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+      },
+      "href": "https://api.spotify.com/v1/artists/56chSp36PsMhpQvUn1kdR3",
+      "id": "56chSp36PsMhpQvUn1kdR3",
+      "name": "Marwan Pablo",
+      "type": "artist",
+      "uri": "spotify:artist:56chSp36PsMhpQvUn1kdR3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 1388060 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2019 1388060 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "194616633179"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4wt8CXwiltZIGPexyfupM7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4wt8CXwiltZIGPexyfupM7",
+  "id": "4wt8CXwiltZIGPexyfupM7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f553dddcf98d82d73725ce8a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f553dddcf98d82d73725ce8a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f553dddcf98d82d73725ce8a",
+      "width": 64
+    }
+  ],
+  "label": "1388060 Records DK",
+  "name": "Sindbad",
+  "popularity": 0,
+  "release_date": "2019-02-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4wt8CXwiltZIGPexyfupM7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+            },
+            "href": "https://api.spotify.com/v1/artists/56chSp36PsMhpQvUn1kdR3",
+            "id": "56chSp36PsMhpQvUn1kdR3",
+            "name": "Marwan Pablo",
+            "type": "artist",
+            "uri": "spotify:artist:56chSp36PsMhpQvUn1kdR3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 218666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4D3RKT8L0njyGA4aq3KQoW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4D3RKT8L0njyGA4aq3KQoW",
+        "id": "4D3RKT8L0njyGA4aq3KQoW",
+        "is_local": false,
+        "name": "Sindbad",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4D3RKT8L0njyGA4aq3KQoW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4wt8CXwiltZIGPexyfupM7"
+}

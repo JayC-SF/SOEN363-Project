@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0"
+      },
+      "href": "https://api.spotify.com/v1/artists/2bdcBjvuI9worc472GbeU0",
+      "id": "2bdcBjvuI9worc472GbeU0",
+      "name": "Samuel Kim",
+      "type": "artist",
+      "uri": "spotify:artist:2bdcBjvuI9worc472GbeU0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Samuel Kim Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 Samuel Kim Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196513001723"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mNaua7BB413HdDSXkL77k"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6mNaua7BB413HdDSXkL77k",
+  "id": "6mNaua7BB413HdDSXkL77k",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273042b0c773f2c26f19ba431cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02042b0c773f2c26f19ba431cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851042b0c773f2c26f19ba431cf",
+      "width": 64
+    }
+  ],
+  "label": "Samuel Kim Music",
+  "name": "Enemy - Epic Version (from Arcane League of Legends)",
+  "popularity": 0,
+  "release_date": "2021-11-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6mNaua7BB413HdDSXkL77k/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2bdcBjvuI9worc472GbeU0",
+            "id": "2bdcBjvuI9worc472GbeU0",
+            "name": "Samuel Kim",
+            "type": "artist",
+            "uri": "spotify:artist:2bdcBjvuI9worc472GbeU0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 116476,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WYDaSAGpAqleq0FKu0a3m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WYDaSAGpAqleq0FKu0a3m",
+        "id": "1WYDaSAGpAqleq0FKu0a3m",
+        "is_local": false,
+        "name": "Enemy - Epic Version (from Arcane League of Legends)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1WYDaSAGpAqleq0FKu0a3m"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6mNaua7BB413HdDSXkL77k"
+}

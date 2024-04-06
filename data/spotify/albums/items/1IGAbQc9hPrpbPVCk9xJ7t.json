@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+      "id": "5iQNy7hQGe1suvNOQz19Jz",
+      "name": "AMBKOR",
+      "type": "artist",
+      "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+      },
+      "href": "https://api.spotify.com/v1/artists/66ArjpKRgw8vYBf9yhktto",
+      "id": "66ArjpKRgw8vYBf9yhktto",
+      "name": "Nach",
+      "type": "artist",
+      "uri": "spotify:artist:66ArjpKRgw8vYBf9yhktto"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 The Music Republic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 The Music Republic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162821742"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1IGAbQc9hPrpbPVCk9xJ7t"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1IGAbQc9hPrpbPVCk9xJ7t",
+  "id": "1IGAbQc9hPrpbPVCk9xJ7t",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338f2a4c52d864bf8f77b09d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238f2a4c52d864bf8f77b09d4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138f2a4c52d864bf8f77b09d4",
+      "width": 64
+    }
+  ],
+  "label": "The Music Republic Records",
+  "name": "Dime",
+  "popularity": 34,
+  "release_date": "2023-01-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1IGAbQc9hPrpbPVCk9xJ7t/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+            "id": "5iQNy7hQGe1suvNOQz19Jz",
+            "name": "AMBKOR",
+            "type": "artist",
+            "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+            },
+            "href": "https://api.spotify.com/v1/artists/66ArjpKRgw8vYBf9yhktto",
+            "id": "66ArjpKRgw8vYBf9yhktto",
+            "name": "Nach",
+            "type": "artist",
+            "uri": "spotify:artist:66ArjpKRgw8vYBf9yhktto"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 247585,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77MNmN0XGvKtlUVyddGrv6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77MNmN0XGvKtlUVyddGrv6",
+        "id": "77MNmN0XGvKtlUVyddGrv6",
+        "is_local": false,
+        "name": "Dime",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77MNmN0XGvKtlUVyddGrv6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1IGAbQc9hPrpbPVCk9xJ7t"
+}

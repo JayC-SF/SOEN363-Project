@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5uLkZ7FWMTBUg1corQqdkR",
+      "id": "5uLkZ7FWMTBUg1corQqdkR",
+      "name": "Lund",
+      "type": "artist",
+      "uri": "spotify:artist:5uLkZ7FWMTBUg1corQqdkR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Repost Network",
+      "type": "C"
+    },
+    {
+      "text": "2016 Repost Network",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "018736821905"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2tBVH9mca2Da8rVmLGJO4p"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2tBVH9mca2Da8rVmLGJO4p",
+  "id": "2tBVH9mca2Da8rVmLGJO4p",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bed555b96b4fa5a99358fcca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bed555b96b4fa5a99358fcca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bed555b96b4fa5a99358fcca",
+      "width": 64
+    }
+  ],
+  "label": "Repost Network",
+  "name": "Broken",
+  "popularity": 0,
+  "release_date": "2016-10-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2tBVH9mca2Da8rVmLGJO4p/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uLkZ7FWMTBUg1corQqdkR",
+            "id": "5uLkZ7FWMTBUg1corQqdkR",
+            "name": "Lund",
+            "type": "artist",
+            "uri": "spotify:artist:5uLkZ7FWMTBUg1corQqdkR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200627,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BmCen4Ww7ps0EBbobxWsH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BmCen4Ww7ps0EBbobxWsH",
+        "id": "2BmCen4Ww7ps0EBbobxWsH",
+        "is_local": false,
+        "name": "Broken",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2BmCen4Ww7ps0EBbobxWsH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2tBVH9mca2Da8rVmLGJO4p"
+}

@@ -1,0 +1,105 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QTKaCHDYYKOCVFKH0RQVJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6QTKaCHDYYKOCVFKH0RQVJ",
+      "id": "6QTKaCHDYYKOCVFKH0RQVJ",
+      "name": "XL",
+      "type": "artist",
+      "uri": "spotify:artist:6QTKaCHDYYKOCVFKH0RQVJ"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "2008 SPG Music",
+      "type": "C"
+    },
+    {
+      "text": "2008 SPG Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "773848025527"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2u7Dijv2cCTT4VkwfZZRhO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2u7Dijv2cCTT4VkwfZZRhO",
+  "id": "2u7Dijv2cCTT4VkwfZZRhO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f0a5c5dbd6812bc811619a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f0a5c5dbd6812bc811619a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f0a5c5dbd6812bc811619a2",
+      "width": 64
+    }
+  ],
+  "label": "SPG Music",
+  "name": "Fluxland",
+  "popularity": 16,
+  "release_date": "2008-07-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2u7Dijv2cCTT4VkwfZZRhO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QTKaCHDYYKOCVFKH0RQVJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6QTKaCHDYYKOCVFKH0RQVJ",
+            "id": "6QTKaCHDYYKOCVFKH0RQVJ",
+            "name": "XL",
+            "type": "artist",
+            "uri": "spotify:artist:6QTKaCHDYYKOCVFKH0RQVJ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tPLhsL0bbkA5qtBRz8T96"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tPLhsL0bbkA5qtBRz8T96",
+        "id": "3tPLhsL0bbkA5qtBRz8T96",
+        "is_local": false,
+        "name": "Fluxland - Original",
+        "preview_url": "https://p.scdn.co/mp3-preview/47ebc76e18727054965da068c96e79b219fa5c08?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3tPLhsL0bbkA5qtBRz8T96"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2u7Dijv2cCTT4VkwfZZRhO"
+}

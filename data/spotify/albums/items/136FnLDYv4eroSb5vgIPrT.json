@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0"
+      },
+      "href": "https://api.spotify.com/v1/artists/30yc7uS58qGpzBNc3fPpi0",
+      "id": "30yc7uS58qGpzBNc3fPpi0",
+      "name": "Them Two",
+      "type": "artist",
+      "uri": "spotify:artist:30yc7uS58qGpzBNc3fPpi0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Numero Group",
+      "type": "C"
+    },
+    {
+      "text": "2016 Numero Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "825764705738"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/136FnLDYv4eroSb5vgIPrT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/136FnLDYv4eroSb5vgIPrT",
+  "id": "136FnLDYv4eroSb5vgIPrT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1de2aa7db44a32ac69126a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1de2aa7db44a32ac69126a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1de2aa7db44a32ac69126a5",
+      "width": 64
+    }
+  ],
+  "label": "Numero Group",
+  "name": "Am I a Good Man b/w Love Has Taken Wings",
+  "popularity": 0,
+  "release_date": "1967",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/136FnLDYv4eroSb5vgIPrT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0"
+            },
+            "href": "https://api.spotify.com/v1/artists/30yc7uS58qGpzBNc3fPpi0",
+            "id": "30yc7uS58qGpzBNc3fPpi0",
+            "name": "Them Two",
+            "type": "artist",
+            "uri": "spotify:artist:30yc7uS58qGpzBNc3fPpi0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uUitmrrG3Z9RpT5g6RUlk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uUitmrrG3Z9RpT5g6RUlk",
+        "id": "1uUitmrrG3Z9RpT5g6RUlk",
+        "is_local": false,
+        "name": "Am I a Good Man",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1uUitmrrG3Z9RpT5g6RUlk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0"
+            },
+            "href": "https://api.spotify.com/v1/artists/30yc7uS58qGpzBNc3fPpi0",
+            "id": "30yc7uS58qGpzBNc3fPpi0",
+            "name": "Them Two",
+            "type": "artist",
+            "uri": "spotify:artist:30yc7uS58qGpzBNc3fPpi0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1God6iUOtP6B8UmHUfpood"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1God6iUOtP6B8UmHUfpood",
+        "id": "1God6iUOtP6B8UmHUfpood",
+        "is_local": false,
+        "name": "Love Has Taken Wings",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1God6iUOtP6B8UmHUfpood"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:136FnLDYv4eroSb5vgIPrT"
+}

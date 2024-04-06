@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yIte3BU0tBOAl72Cnrvzh"
+      },
+      "href": "https://api.spotify.com/v1/artists/6yIte3BU0tBOAl72Cnrvzh",
+      "id": "6yIte3BU0tBOAl72Cnrvzh",
+      "name": "Mistical",
+      "type": "artist",
+      "uri": "spotify:artist:6yIte3BU0tBOAl72Cnrvzh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2004 Soul:r Records",
+      "type": "C"
+    },
+    {
+      "text": "2004 Soul:r Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055317233264"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3PFphGqMIymZv4ZGID0vNd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3PFphGqMIymZv4ZGID0vNd",
+  "id": "3PFphGqMIymZv4ZGID0vNd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de4e9a1264eb289634024e5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de4e9a1264eb289634024e5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de4e9a1264eb289634024e5f",
+      "width": 64
+    }
+  ],
+  "label": "Soul:R",
+  "name": "Just a Little Herb / Memory Jog",
+  "popularity": 0,
+  "release_date": "2004-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3PFphGqMIymZv4ZGID0vNd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yIte3BU0tBOAl72Cnrvzh"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yIte3BU0tBOAl72Cnrvzh",
+            "id": "6yIte3BU0tBOAl72Cnrvzh",
+            "name": "Mistical",
+            "type": "artist",
+            "uri": "spotify:artist:6yIte3BU0tBOAl72Cnrvzh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 369306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zNPXaK8H6hmXjSqCr2GWq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zNPXaK8H6hmXjSqCr2GWq",
+        "id": "1zNPXaK8H6hmXjSqCr2GWq",
+        "is_local": false,
+        "name": "Just a Little Herb",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1zNPXaK8H6hmXjSqCr2GWq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yIte3BU0tBOAl72Cnrvzh"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yIte3BU0tBOAl72Cnrvzh",
+            "id": "6yIte3BU0tBOAl72Cnrvzh",
+            "name": "Mistical",
+            "type": "artist",
+            "uri": "spotify:artist:6yIte3BU0tBOAl72Cnrvzh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 454399,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ozF3oFnZBLYR6cOHn6kCL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ozF3oFnZBLYR6cOHn6kCL",
+        "id": "0ozF3oFnZBLYR6cOHn6kCL",
+        "is_local": false,
+        "name": "Memory Jog",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0ozF3oFnZBLYR6cOHn6kCL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3PFphGqMIymZv4ZGID0vNd"
+}

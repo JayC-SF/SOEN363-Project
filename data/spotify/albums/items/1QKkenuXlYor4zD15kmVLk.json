@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+      },
+      "href": "https://api.spotify.com/v1/artists/72OZwUYL9lvmwBvvsstpIV",
+      "id": "72OZwUYL9lvmwBvvsstpIV",
+      "name": "ZEP",
+      "type": "artist",
+      "uri": "spotify:artist:72OZwUYL9lvmwBvvsstpIV"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2024 whatszep",
+      "type": "C"
+    },
+    {
+      "text": "2024 whatszep",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "019307160485"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QKkenuXlYor4zD15kmVLk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QKkenuXlYor4zD15kmVLk",
+  "id": "1QKkenuXlYor4zD15kmVLk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273004cd90cb5ac7e1f023c6a6a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02004cd90cb5ac7e1f023c6a6a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851004cd90cb5ac7e1f023c6a6a",
+      "width": 64
+    }
+  ],
+  "label": "whatszep",
+  "name": "TUBED",
+  "popularity": 13,
+  "release_date": "2024-02-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QKkenuXlYor4zD15kmVLk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+            },
+            "href": "https://api.spotify.com/v1/artists/72OZwUYL9lvmwBvvsstpIV",
+            "id": "72OZwUYL9lvmwBvvsstpIV",
+            "name": "ZEP",
+            "type": "artist",
+            "uri": "spotify:artist:72OZwUYL9lvmwBvvsstpIV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 155862,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EDCxDJivMdqWPsYqv4WUo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EDCxDJivMdqWPsYqv4WUo",
+        "id": "6EDCxDJivMdqWPsYqv4WUo",
+        "is_local": false,
+        "name": "TUBED",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6EDCxDJivMdqWPsYqv4WUo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QKkenuXlYor4zD15kmVLk"
+}

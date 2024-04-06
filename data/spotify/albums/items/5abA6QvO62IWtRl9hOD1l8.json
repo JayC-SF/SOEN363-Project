@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KUXfWDNjqQ0SVVbb0zJBx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0KUXfWDNjqQ0SVVbb0zJBx",
+      "id": "0KUXfWDNjqQ0SVVbb0zJBx",
+      "name": "Triple01s",
+      "type": "artist",
+      "uri": "spotify:artist:0KUXfWDNjqQ0SVVbb0zJBx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Triple01s",
+      "type": "C"
+    },
+    {
+      "text": "2022 Triple01s",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196777275250"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5abA6QvO62IWtRl9hOD1l8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5abA6QvO62IWtRl9hOD1l8",
+  "id": "5abA6QvO62IWtRl9hOD1l8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b39a96846540217ae50048b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b39a96846540217ae50048b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b39a96846540217ae50048b",
+      "width": 64
+    }
+  ],
+  "label": "Triple01s",
+  "name": "LIVID",
+  "popularity": 0,
+  "release_date": "2022-02-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5abA6QvO62IWtRl9hOD1l8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0KUXfWDNjqQ0SVVbb0zJBx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0KUXfWDNjqQ0SVVbb0zJBx",
+            "id": "0KUXfWDNjqQ0SVVbb0zJBx",
+            "name": "Triple01s",
+            "type": "artist",
+            "uri": "spotify:artist:0KUXfWDNjqQ0SVVbb0zJBx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160829,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aqMgEuAIOYAEQpcJJm7au"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aqMgEuAIOYAEQpcJJm7au",
+        "id": "5aqMgEuAIOYAEQpcJJm7au",
+        "is_local": false,
+        "name": "LIVID",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5aqMgEuAIOYAEQpcJJm7au"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5abA6QvO62IWtRl9hOD1l8"
+}

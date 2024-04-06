@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+      },
+      "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+      "id": "41Cl8BZQehtPU2JV30fVrn",
+      "name": "80Degrees",
+      "type": "artist",
+      "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197632142540"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1coyFgLHB2CIXahfAmNSaN"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1coyFgLHB2CIXahfAmNSaN",
+  "id": "1coyFgLHB2CIXahfAmNSaN",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739509f23bae285a90b0f2112f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029509f23bae285a90b0f2112f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519509f23bae285a90b0f2112f",
+      "width": 64
+    }
+  ],
+  "label": "4839152 Records DK",
+  "name": "prove me right",
+  "popularity": 0,
+  "release_date": "2023-02-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1coyFgLHB2CIXahfAmNSaN/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+            },
+            "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+            "id": "41Cl8BZQehtPU2JV30fVrn",
+            "name": "80Degrees",
+            "type": "artist",
+            "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110898,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FdmPLiwFTO5nmIt09QKWd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FdmPLiwFTO5nmIt09QKWd",
+        "id": "0FdmPLiwFTO5nmIt09QKWd",
+        "is_local": false,
+        "name": "prove me right",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0FdmPLiwFTO5nmIt09QKWd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1coyFgLHB2CIXahfAmNSaN"
+}

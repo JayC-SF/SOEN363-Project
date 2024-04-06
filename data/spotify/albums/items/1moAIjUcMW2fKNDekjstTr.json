@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aAOelgFI17nNY6SbUrSJU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aAOelgFI17nNY6SbUrSJU",
+      "id": "4aAOelgFI17nNY6SbUrSJU",
+      "name": "Mup",
+      "type": "artist",
+      "uri": "spotify:artist:4aAOelgFI17nNY6SbUrSJU"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Erapssd",
+      "type": "C"
+    },
+    {
+      "text": "2021 Erapssd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "697067020968"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1moAIjUcMW2fKNDekjstTr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1moAIjUcMW2fKNDekjstTr",
+  "id": "1moAIjUcMW2fKNDekjstTr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea41dbf3cb9839cbcce95e70",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea41dbf3cb9839cbcce95e70",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea41dbf3cb9839cbcce95e70",
+      "width": 64
+    }
+  ],
+  "label": "Erapssd",
+  "name": "It was nice while it lasted",
+  "popularity": 0,
+  "release_date": "2021-07-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1moAIjUcMW2fKNDekjstTr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aAOelgFI17nNY6SbUrSJU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aAOelgFI17nNY6SbUrSJU",
+            "id": "4aAOelgFI17nNY6SbUrSJU",
+            "name": "Mup",
+            "type": "artist",
+            "uri": "spotify:artist:4aAOelgFI17nNY6SbUrSJU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 121635,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2emWQWo5lOX3Kj6GfhfKVm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2emWQWo5lOX3Kj6GfhfKVm",
+        "id": "2emWQWo5lOX3Kj6GfhfKVm",
+        "is_local": false,
+        "name": "It was nice while it lasted",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2emWQWo5lOX3Kj6GfhfKVm"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1moAIjUcMW2fKNDekjstTr"
+}

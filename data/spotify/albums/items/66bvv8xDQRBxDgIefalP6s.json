@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gRzrQ5rC506eSMw7cLpk7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gRzrQ5rC506eSMw7cLpk7",
+      "id": "1gRzrQ5rC506eSMw7cLpk7",
+      "name": "Lil Tim",
+      "type": "artist",
+      "uri": "spotify:artist:1gRzrQ5rC506eSMw7cLpk7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Lil Tim",
+      "type": "C"
+    },
+    {
+      "text": "2023 Lil Tim",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197743225842"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/66bvv8xDQRBxDgIefalP6s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/66bvv8xDQRBxDgIefalP6s",
+  "id": "66bvv8xDQRBxDgIefalP6s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e998a3019a7d453225a61d38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e998a3019a7d453225a61d38",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e998a3019a7d453225a61d38",
+      "width": 64
+    }
+  ],
+  "label": "Lil Tim",
+  "name": "BLOODY SUMMER",
+  "popularity": 8,
+  "release_date": "2023-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/66bvv8xDQRBxDgIefalP6s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gRzrQ5rC506eSMw7cLpk7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gRzrQ5rC506eSMw7cLpk7",
+            "id": "1gRzrQ5rC506eSMw7cLpk7",
+            "name": "Lil Tim",
+            "type": "artist",
+            "uri": "spotify:artist:1gRzrQ5rC506eSMw7cLpk7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 124128,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WHcz9lrzCupC6uJcPrspF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WHcz9lrzCupC6uJcPrspF",
+        "id": "2WHcz9lrzCupC6uJcPrspF",
+        "is_local": false,
+        "name": "BLOODY SUMMER",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2WHcz9lrzCupC6uJcPrspF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:66bvv8xDQRBxDgIefalP6s"
+}

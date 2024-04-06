@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5QZzLwLdKYrIu4hnPAUECf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5QZzLwLdKYrIu4hnPAUECf",
+      "id": "5QZzLwLdKYrIu4hnPAUECf",
+      "name": "Kimode",
+      "type": "artist",
+      "uri": "spotify:artist:5QZzLwLdKYrIu4hnPAUECf"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023, Kimode",
+      "type": "C"
+    },
+    {
+      "text": "2023, Kimode",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195712315938"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3emOmrCxpxRLjYHpytl571"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3emOmrCxpxRLjYHpytl571",
+  "id": "3emOmrCxpxRLjYHpytl571",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273938e57608326706980376e8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02938e57608326706980376e8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851938e57608326706980376e8f",
+      "width": 64
+    }
+  ],
+  "label": "Kimode",
+  "name": "Starfire Interlude",
+  "popularity": 28,
+  "release_date": "2023-03-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3emOmrCxpxRLjYHpytl571/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QZzLwLdKYrIu4hnPAUECf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QZzLwLdKYrIu4hnPAUECf",
+            "id": "5QZzLwLdKYrIu4hnPAUECf",
+            "name": "Kimode",
+            "type": "artist",
+            "uri": "spotify:artist:5QZzLwLdKYrIu4hnPAUECf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192052,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hpWSWFQ9cS2vUeeJDYL4z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hpWSWFQ9cS2vUeeJDYL4z",
+        "id": "6hpWSWFQ9cS2vUeeJDYL4z",
+        "is_local": false,
+        "name": "Starfire Interlude",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6hpWSWFQ9cS2vUeeJDYL4z"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3emOmrCxpxRLjYHpytl571"
+}

@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+      },
+      "href": "https://api.spotify.com/v1/artists/5A0Bu9azuFEnud3q7t0V2r",
+      "id": "5A0Bu9azuFEnud3q7t0V2r",
+      "name": "Petter",
+      "type": "artist",
+      "uri": "spotify:artist:5A0Bu9azuFEnud3q7t0V2r"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2010 Bananrepubliken, Under exclusive license to Universal Music AB",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2010 Bananrepubliken, Under exclusive license to Universal Music AB",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "07320470136713"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1BV7vWXomV2UGKynnZqBRd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1BV7vWXomV2UGKynnZqBRd",
+  "id": "1BV7vWXomV2UGKynnZqBRd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273648dfc30c10d7af6071ab184",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02648dfc30c10d7af6071ab184",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851648dfc30c10d7af6071ab184",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "L\u00e4ngesen",
+  "popularity": 0,
+  "release_date": "2010-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1BV7vWXomV2UGKynnZqBRd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+            },
+            "href": "https://api.spotify.com/v1/artists/5A0Bu9azuFEnud3q7t0V2r",
+            "id": "5A0Bu9azuFEnud3q7t0V2r",
+            "name": "Petter",
+            "type": "artist",
+            "uri": "spotify:artist:5A0Bu9azuFEnud3q7t0V2r"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OIWxN9xUhgUHkeUCWCaNs",
+            "id": "2OIWxN9xUhgUHkeUCWCaNs",
+            "name": "Veronica Maggio",
+            "type": "artist",
+            "uri": "spotify:artist:2OIWxN9xUhgUHkeUCWCaNs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 273906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70OYqWcYDDm2SJIRFmz3wo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70OYqWcYDDm2SJIRFmz3wo",
+        "id": "70OYqWcYDDm2SJIRFmz3wo",
+        "is_local": false,
+        "name": "L\u00e4ngesen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70OYqWcYDDm2SJIRFmz3wo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1BV7vWXomV2UGKynnZqBRd"
+}

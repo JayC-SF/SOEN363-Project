@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nBrq5WZyZk1t88my2lqXc"
+      },
+      "href": "https://api.spotify.com/v1/artists/3nBrq5WZyZk1t88my2lqXc",
+      "id": "3nBrq5WZyZk1t88my2lqXc",
+      "name": "Jtbazz",
+      "type": "artist",
+      "uri": "spotify:artist:3nBrq5WZyZk1t88my2lqXc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 3254149 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 3254149 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810482098125"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KpunzLExwGlZfelRc7ySH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4KpunzLExwGlZfelRc7ySH",
+  "id": "4KpunzLExwGlZfelRc7ySH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3aa26216c9bee0f58cf9a26",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3aa26216c9bee0f58cf9a26",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3aa26216c9bee0f58cf9a26",
+      "width": 64
+    }
+  ],
+  "label": "3254149 Records DK",
+  "name": "Love on me",
+  "popularity": 20,
+  "release_date": "2023-12-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4KpunzLExwGlZfelRc7ySH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nBrq5WZyZk1t88my2lqXc"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nBrq5WZyZk1t88my2lqXc",
+            "id": "3nBrq5WZyZk1t88my2lqXc",
+            "name": "Jtbazz",
+            "type": "artist",
+            "uri": "spotify:artist:3nBrq5WZyZk1t88my2lqXc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 89426,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KFttc7UTWhgpSHspvdpZg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3KFttc7UTWhgpSHspvdpZg",
+        "id": "3KFttc7UTWhgpSHspvdpZg",
+        "is_local": false,
+        "name": "Love on me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3KFttc7UTWhgpSHspvdpZg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4KpunzLExwGlZfelRc7ySH"
+}

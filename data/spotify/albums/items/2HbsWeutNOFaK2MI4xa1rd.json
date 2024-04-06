@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+      },
+      "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+      "id": "41Cl8BZQehtPU2JV30fVrn",
+      "name": "80Degrees",
+      "type": "artist",
+      "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2023 4839152 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197813373596"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2HbsWeutNOFaK2MI4xa1rd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2HbsWeutNOFaK2MI4xa1rd",
+  "id": "2HbsWeutNOFaK2MI4xa1rd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3da8738fc8df2a5417d856b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3da8738fc8df2a5417d856b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3da8738fc8df2a5417d856b",
+      "width": 64
+    }
+  ],
+  "label": "4839152 Records DK",
+  "name": "2 me",
+  "popularity": 0,
+  "release_date": "2023-05-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2HbsWeutNOFaK2MI4xa1rd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41Cl8BZQehtPU2JV30fVrn"
+            },
+            "href": "https://api.spotify.com/v1/artists/41Cl8BZQehtPU2JV30fVrn",
+            "id": "41Cl8BZQehtPU2JV30fVrn",
+            "name": "80Degrees",
+            "type": "artist",
+            "uri": "spotify:artist:41Cl8BZQehtPU2JV30fVrn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 110463,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31YTf52PgGE5uq2yAiBT5h"
+        },
+        "href": "https://api.spotify.com/v1/tracks/31YTf52PgGE5uq2yAiBT5h",
+        "id": "31YTf52PgGE5uq2yAiBT5h",
+        "is_local": false,
+        "name": "2 me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:31YTf52PgGE5uq2yAiBT5h"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2HbsWeutNOFaK2MI4xa1rd"
+}

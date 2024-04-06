@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+      },
+      "href": "https://api.spotify.com/v1/artists/7K1kHQsB2m87TMVcDbZAfW",
+      "id": "7K1kHQsB2m87TMVcDbZAfW",
+      "name": "Matty",
+      "type": "artist",
+      "uri": "spotify:artist:7K1kHQsB2m87TMVcDbZAfW"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Matty Unlimited",
+      "type": "C"
+    },
+    {
+      "text": "2018 Matty Unlimited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056167107040"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0HRBmKyeF29CQXmZYJgwAw"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0HRBmKyeF29CQXmZYJgwAw",
+  "id": "0HRBmKyeF29CQXmZYJgwAw",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4528689a17d032e74184233",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4528689a17d032e74184233",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4528689a17d032e74184233",
+      "width": 64
+    }
+  ],
+  "label": "Matty Unlimited",
+  "name": "Clear",
+  "popularity": 0,
+  "release_date": "2018-05-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0HRBmKyeF29CQXmZYJgwAw/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+            },
+            "href": "https://api.spotify.com/v1/artists/7K1kHQsB2m87TMVcDbZAfW",
+            "id": "7K1kHQsB2m87TMVcDbZAfW",
+            "name": "Matty",
+            "type": "artist",
+            "uri": "spotify:artist:7K1kHQsB2m87TMVcDbZAfW"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6P7Oj48MpnXEB6ZfKgqepg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6P7Oj48MpnXEB6ZfKgqepg",
+        "id": "6P7Oj48MpnXEB6ZfKgqepg",
+        "is_local": false,
+        "name": "Clear",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6P7Oj48MpnXEB6ZfKgqepg"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0HRBmKyeF29CQXmZYJgwAw"
+}

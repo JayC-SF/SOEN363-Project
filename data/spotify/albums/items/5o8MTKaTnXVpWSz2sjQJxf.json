@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
+      },
+      "href": "https://api.spotify.com/v1/artists/7l66fxCnEL8pBlzI5QwGBe",
+      "id": "7l66fxCnEL8pBlzI5QwGBe",
+      "name": "Erthlings",
+      "type": "artist",
+      "uri": "spotify:artist:7l66fxCnEL8pBlzI5QwGBe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Future Classic",
+      "type": "C"
+    },
+    {
+      "text": "2018 Future Classic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0044003202344"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5o8MTKaTnXVpWSz2sjQJxf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5o8MTKaTnXVpWSz2sjQJxf",
+  "id": "5o8MTKaTnXVpWSz2sjQJxf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273148baaecc5a6779732eae69a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02148baaecc5a6779732eae69a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851148baaecc5a6779732eae69a",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "Cuts & Bruises",
+  "popularity": 0,
+  "release_date": "2018-11-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5o8MTKaTnXVpWSz2sjQJxf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
+            },
+            "href": "https://api.spotify.com/v1/artists/7l66fxCnEL8pBlzI5QwGBe",
+            "id": "7l66fxCnEL8pBlzI5QwGBe",
+            "name": "Erthlings",
+            "type": "artist",
+            "uri": "spotify:artist:7l66fxCnEL8pBlzI5QwGBe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225487,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4yXLu2OXOYhb3ghTqgpk4o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4yXLu2OXOYhb3ghTqgpk4o",
+        "id": "4yXLu2OXOYhb3ghTqgpk4o",
+        "is_local": false,
+        "name": "Cuts & Bruises",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4yXLu2OXOYhb3ghTqgpk4o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5o8MTKaTnXVpWSz2sjQJxf"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wSSIFN74ATKyZdkpaaMpe"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wSSIFN74ATKyZdkpaaMpe",
+      "id": "2wSSIFN74ATKyZdkpaaMpe",
+      "name": "Doni Gameo",
+      "type": "artist",
+      "uri": "spotify:artist:2wSSIFN74ATKyZdkpaaMpe"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 DGM BSMNT",
+      "type": "C"
+    },
+    {
+      "text": "2023 DGM BSMNT",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197744115500"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Y41RYRdBKhbrWbNgjq0od"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4Y41RYRdBKhbrWbNgjq0od",
+  "id": "4Y41RYRdBKhbrWbNgjq0od",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ef6e67da81e786dda70792c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ef6e67da81e786dda70792c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ef6e67da81e786dda70792c",
+      "width": 64
+    }
+  ],
+  "label": "DGM BSMNT",
+  "name": "Ransomware",
+  "popularity": 0,
+  "release_date": "2023-04-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4Y41RYRdBKhbrWbNgjq0od/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wSSIFN74ATKyZdkpaaMpe"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wSSIFN74ATKyZdkpaaMpe",
+            "id": "2wSSIFN74ATKyZdkpaaMpe",
+            "name": "Doni Gameo",
+            "type": "artist",
+            "uri": "spotify:artist:2wSSIFN74ATKyZdkpaaMpe"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 144614,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ScXIKen9QwpayaFRYUMBS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ScXIKen9QwpayaFRYUMBS",
+        "id": "5ScXIKen9QwpayaFRYUMBS",
+        "is_local": false,
+        "name": "Ransomware",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ScXIKen9QwpayaFRYUMBS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4Y41RYRdBKhbrWbNgjq0od"
+}

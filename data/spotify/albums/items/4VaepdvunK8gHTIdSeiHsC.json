@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
+      "id": "5Rl15oVamLq7FbSb0NNBNy",
+      "name": "5 Seconds of Summer",
+      "type": "artist",
+      "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+    }
+  ],
+  "available_markets": [
+    "KR"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 5 Seconds of Summer, under exclusive license to Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 5 Seconds of Summer, under exclusive license to Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602508734793"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4VaepdvunK8gHTIdSeiHsC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4VaepdvunK8gHTIdSeiHsC",
+  "id": "4VaepdvunK8gHTIdSeiHsC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc021ac0ea63eb152e8151d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc021ac0ea63eb152e8151d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc021ac0ea63eb152e8151d8",
+      "width": 64
+    }
+  ],
+  "label": "5 Seconds of Summer/Interscope Records",
+  "name": "Old Me",
+  "popularity": 3,
+  "release_date": "2020-02-21",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4VaepdvunK8gHTIdSeiHsC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
+            "id": "5Rl15oVamLq7FbSb0NNBNy",
+            "name": "5 Seconds of Summer",
+            "type": "artist",
+            "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+          }
+        ],
+        "available_markets": [
+          "KR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 184666,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RUUkFNqH3GRKHg1xjprOb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RUUkFNqH3GRKHg1xjprOb",
+        "id": "5RUUkFNqH3GRKHg1xjprOb",
+        "is_local": false,
+        "name": "Old Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5RUUkFNqH3GRKHg1xjprOb"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4VaepdvunK8gHTIdSeiHsC"
+}

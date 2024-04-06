@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IWnCVYva2DgyJicGzVP7I"
+      },
+      "href": "https://api.spotify.com/v1/artists/6IWnCVYva2DgyJicGzVP7I",
+      "id": "6IWnCVYva2DgyJicGzVP7I",
+      "name": "nappy 01'",
+      "type": "artist",
+      "uri": "spotify:artist:6IWnCVYva2DgyJicGzVP7I"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 localhot* neilaworld*",
+      "type": "C"
+    },
+    {
+      "text": "2018 localhot* neilaworld*",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "053000383635"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5mnELO0NFSixNtat5pcecM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5mnELO0NFSixNtat5pcecM",
+  "id": "5mnELO0NFSixNtat5pcecM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa1a1f748d2c376452800eab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa1a1f748d2c376452800eab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa1a1f748d2c376452800eab",
+      "width": 64
+    }
+  ],
+  "label": "01\u2019 forever",
+  "name": "no love",
+  "popularity": 0,
+  "release_date": "2018-12-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5mnELO0NFSixNtat5pcecM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6IWnCVYva2DgyJicGzVP7I"
+            },
+            "href": "https://api.spotify.com/v1/artists/6IWnCVYva2DgyJicGzVP7I",
+            "id": "6IWnCVYva2DgyJicGzVP7I",
+            "name": "nappy 01'",
+            "type": "artist",
+            "uri": "spotify:artist:6IWnCVYva2DgyJicGzVP7I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 114776,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4701LPdVzvmUyzqTQrfRj2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4701LPdVzvmUyzqTQrfRj2",
+        "id": "4701LPdVzvmUyzqTQrfRj2",
+        "is_local": false,
+        "name": "no love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4701LPdVzvmUyzqTQrfRj2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5mnELO0NFSixNtat5pcecM"
+}

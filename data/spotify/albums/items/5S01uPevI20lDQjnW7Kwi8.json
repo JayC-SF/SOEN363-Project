@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IjzQBz1eSjEiop2L4omdu"
+      },
+      "href": "https://api.spotify.com/v1/artists/2IjzQBz1eSjEiop2L4omdu",
+      "id": "2IjzQBz1eSjEiop2L4omdu",
+      "name": "Irkenc Hyka",
+      "type": "artist",
+      "uri": "spotify:artist:2IjzQBz1eSjEiop2L4omdu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Unix Production",
+      "type": "C"
+    },
+    {
+      "text": "2020 Onima",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616550588089"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5S01uPevI20lDQjnW7Kwi8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5S01uPevI20lDQjnW7Kwi8",
+  "id": "5S01uPevI20lDQjnW7Kwi8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ffcf95d908748a4d0f00a75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ffcf95d908748a4d0f00a75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ffcf95d908748a4d0f00a75",
+      "width": 64
+    }
+  ],
+  "label": "Unix Production",
+  "name": "Asaj",
+  "popularity": 6,
+  "release_date": "2020-11-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5S01uPevI20lDQjnW7Kwi8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2IjzQBz1eSjEiop2L4omdu"
+            },
+            "href": "https://api.spotify.com/v1/artists/2IjzQBz1eSjEiop2L4omdu",
+            "id": "2IjzQBz1eSjEiop2L4omdu",
+            "name": "Irkenc Hyka",
+            "type": "artist",
+            "uri": "spotify:artist:2IjzQBz1eSjEiop2L4omdu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151331,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72t25pLdjoUPtgz3Eseh6M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72t25pLdjoUPtgz3Eseh6M",
+        "id": "72t25pLdjoUPtgz3Eseh6M",
+        "is_local": false,
+        "name": "Asaj",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:72t25pLdjoUPtgz3Eseh6M"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5S01uPevI20lDQjnW7Kwi8"
+}

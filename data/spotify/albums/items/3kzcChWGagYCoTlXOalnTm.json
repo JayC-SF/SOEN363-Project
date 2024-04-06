@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DeHMjvYP73Pycy8va8RKY"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DeHMjvYP73Pycy8va8RKY",
+      "id": "3DeHMjvYP73Pycy8va8RKY",
+      "name": "Arnob",
+      "type": "artist",
+      "uri": "spotify:artist:3DeHMjvYP73Pycy8va8RKY"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Coca-Cola Bangladesh",
+      "type": "C"
+    },
+    {
+      "text": "2022 Coca-Cola Bangladesh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197207703329"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3kzcChWGagYCoTlXOalnTm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3kzcChWGagYCoTlXOalnTm",
+  "id": "3kzcChWGagYCoTlXOalnTm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314e1b0220de84b45f9ea6c11",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214e1b0220de84b45f9ea6c11",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114e1b0220de84b45f9ea6c11",
+      "width": 64
+    }
+  ],
+  "label": "Coca-Cola Bangladesh",
+  "name": "Ekla Cholo",
+  "popularity": 2,
+  "release_date": "2022-02-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3kzcChWGagYCoTlXOalnTm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DeHMjvYP73Pycy8va8RKY"
+            },
+            "href": "https://api.spotify.com/v1/artists/3DeHMjvYP73Pycy8va8RKY",
+            "id": "3DeHMjvYP73Pycy8va8RKY",
+            "name": "Arnob",
+            "type": "artist",
+            "uri": "spotify:artist:3DeHMjvYP73Pycy8va8RKY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 300000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2o2bTmYECLsUHwedJSo8pV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2o2bTmYECLsUHwedJSo8pV",
+        "id": "2o2bTmYECLsUHwedJSo8pV",
+        "is_local": false,
+        "name": "Ekla Cholo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2o2bTmYECLsUHwedJSo8pV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3kzcChWGagYCoTlXOalnTm"
+}

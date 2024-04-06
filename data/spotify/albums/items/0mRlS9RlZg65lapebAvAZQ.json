@@ -1,0 +1,90 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Ld3ajH4r4DZd5Ey4zLk5X"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Ld3ajH4r4DZd5Ey4zLk5X",
+      "id": "1Ld3ajH4r4DZd5Ey4zLk5X",
+      "name": "Majk",
+      "type": "artist",
+      "uri": "spotify:artist:1Ld3ajH4r4DZd5Ey4zLk5X"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [],
+  "external_ids": {
+    "upc": "889580089090"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0mRlS9RlZg65lapebAvAZQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0mRlS9RlZg65lapebAvAZQ",
+  "id": "0mRlS9RlZg65lapebAvAZQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e9e964c2d775f08898740ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e9e964c2d775f08898740ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e9e964c2d775f08898740ca",
+      "width": 64
+    }
+  ],
+  "label": "Acromax Media",
+  "name": "Dashni",
+  "popularity": 0,
+  "release_date": "2023-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0mRlS9RlZg65lapebAvAZQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ld3ajH4r4DZd5Ey4zLk5X"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Ld3ajH4r4DZd5Ey4zLk5X",
+            "id": "1Ld3ajH4r4DZd5Ey4zLk5X",
+            "name": "Majk",
+            "type": "artist",
+            "uri": "spotify:artist:1Ld3ajH4r4DZd5Ey4zLk5X"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 228136,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jFC6LvoyIqatLDLlT6a98"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jFC6LvoyIqatLDLlT6a98",
+        "id": "0jFC6LvoyIqatLDLlT6a98",
+        "is_local": false,
+        "name": "Dashni",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jFC6LvoyIqatLDLlT6a98"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0mRlS9RlZg65lapebAvAZQ"
+}

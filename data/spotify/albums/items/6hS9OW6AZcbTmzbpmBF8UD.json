@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1p9OoczbKsdQ4UEyRcWLNJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1p9OoczbKsdQ4UEyRcWLNJ",
+      "id": "1p9OoczbKsdQ4UEyRcWLNJ",
+      "name": "Inreload",
+      "type": "artist",
+      "uri": "spotify:artist:1p9OoczbKsdQ4UEyRcWLNJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Dream Relaxation",
+      "type": "C"
+    },
+    {
+      "text": "2020 Dream Relaxation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859742377778"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6hS9OW6AZcbTmzbpmBF8UD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6hS9OW6AZcbTmzbpmBF8UD",
+  "id": "6hS9OW6AZcbTmzbpmBF8UD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec34a89327108afa40ebc90c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec34a89327108afa40ebc90c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec34a89327108afa40ebc90c",
+      "width": 64
+    }
+  ],
+  "label": "Dream Relaxation",
+  "name": "Home",
+  "popularity": 0,
+  "release_date": "2020-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6hS9OW6AZcbTmzbpmBF8UD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1p9OoczbKsdQ4UEyRcWLNJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1p9OoczbKsdQ4UEyRcWLNJ",
+            "id": "1p9OoczbKsdQ4UEyRcWLNJ",
+            "name": "Inreload",
+            "type": "artist",
+            "uri": "spotify:artist:1p9OoczbKsdQ4UEyRcWLNJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190056,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71S3DVdLwEtaFX6tnXWvlU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71S3DVdLwEtaFX6tnXWvlU",
+        "id": "71S3DVdLwEtaFX6tnXWvlU",
+        "is_local": false,
+        "name": "Home",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:71S3DVdLwEtaFX6tnXWvlU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6hS9OW6AZcbTmzbpmBF8UD"
+}

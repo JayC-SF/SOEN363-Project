@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+      },
+      "href": "https://api.spotify.com/v1/artists/29O9ZebFa65aIEvMaW5pQY",
+      "id": "29O9ZebFa65aIEvMaW5pQY",
+      "name": "Snail's House",
+      "type": "artist",
+      "uri": "spotify:artist:29O9ZebFa65aIEvMaW5pQY"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Cachettenotes.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Cachettenotes.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859755803417"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ZejAyIhKadA6t7gsvTSl8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ZejAyIhKadA6t7gsvTSl8",
+  "id": "3ZejAyIhKadA6t7gsvTSl8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bf17eb724c18176b0f318df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025bf17eb724c18176b0f318df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515bf17eb724c18176b0f318df",
+      "width": 64
+    }
+  ],
+  "label": "Cachettenotes.",
+  "name": "Twinklestar",
+  "popularity": 12,
+  "release_date": "2020-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ZejAyIhKadA6t7gsvTSl8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/29O9ZebFa65aIEvMaW5pQY",
+            "id": "29O9ZebFa65aIEvMaW5pQY",
+            "name": "Snail's House",
+            "type": "artist",
+            "uri": "spotify:artist:29O9ZebFa65aIEvMaW5pQY"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 203792,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62QPhhoCMcT2KlzINrFnd7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62QPhhoCMcT2KlzINrFnd7",
+        "id": "62QPhhoCMcT2KlzINrFnd7",
+        "is_local": false,
+        "name": "Twinklestar",
+        "preview_url": "https://p.scdn.co/mp3-preview/c28efe7b261741549f645ab53dc0ed23fe16b3b7?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:62QPhhoCMcT2KlzINrFnd7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3ZejAyIhKadA6t7gsvTSl8"
+}

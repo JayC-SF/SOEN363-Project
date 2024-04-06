@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+      "id": "2AM4ilv6UzW0uMRuqKtDgN",
+      "name": "ZZ Top",
+      "type": "artist",
+      "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 1983 Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 1983 Warner Records Inc., a Warner Music Group Company.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "603497957170"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6rAYf15vvpea1zO0YAL3yi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6rAYf15vvpea1zO0YAL3yi",
+  "id": "6rAYf15vvpea1zO0YAL3yi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f0127bafd1d7b02dbfbc09a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f0127bafd1d7b02dbfbc09a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f0127bafd1d7b02dbfbc09a",
+      "width": 64
+    }
+  ],
+  "label": "Rhino/Warner Records",
+  "name": "Legs / Bad Girl",
+  "popularity": 11,
+  "release_date": "1983",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6rAYf15vvpea1zO0YAL3yi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "name": "ZZ Top",
+            "type": "artist",
+            "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54bP8tFfGqwcZlSEgtICfd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54bP8tFfGqwcZlSEgtICfd",
+        "id": "54bP8tFfGqwcZlSEgtICfd",
+        "is_local": false,
+        "name": "Legs",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:54bP8tFfGqwcZlSEgtICfd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "name": "ZZ Top",
+            "type": "artist",
+            "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gEnhNY5orbBW8eeMmf6gS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0gEnhNY5orbBW8eeMmf6gS",
+        "id": "0gEnhNY5orbBW8eeMmf6gS",
+        "is_local": false,
+        "name": "Bad Girl",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0gEnhNY5orbBW8eeMmf6gS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:6rAYf15vvpea1zO0YAL3yi"
+}

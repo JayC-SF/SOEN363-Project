@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/70M1ekuH535oqoIOQCqJfT"
+      },
+      "href": "https://api.spotify.com/v1/artists/70M1ekuH535oqoIOQCqJfT",
+      "id": "70M1ekuH535oqoIOQCqJfT",
+      "name": "Yippes",
+      "type": "artist",
+      "uri": "spotify:artist:70M1ekuH535oqoIOQCqJfT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Yippes",
+      "type": "C"
+    },
+    {
+      "text": "2023 Yippes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197851292576"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2iKKHKEDmiLrjuLkEzfmDq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2iKKHKEDmiLrjuLkEzfmDq",
+  "id": "2iKKHKEDmiLrjuLkEzfmDq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b0e2745d951db5eafe38fd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b0e2745d951db5eafe38fd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b0e2745d951db5eafe38fd2",
+      "width": 64
+    }
+  ],
+  "label": "Yippes",
+  "name": "Ur Final Message",
+  "popularity": 3,
+  "release_date": "2023-05-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2iKKHKEDmiLrjuLkEzfmDq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70M1ekuH535oqoIOQCqJfT"
+            },
+            "href": "https://api.spotify.com/v1/artists/70M1ekuH535oqoIOQCqJfT",
+            "id": "70M1ekuH535oqoIOQCqJfT",
+            "name": "Yippes",
+            "type": "artist",
+            "uri": "spotify:artist:70M1ekuH535oqoIOQCqJfT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 93884,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ruM5Yhze5M38UgngeTj05"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ruM5Yhze5M38UgngeTj05",
+        "id": "7ruM5Yhze5M38UgngeTj05",
+        "is_local": false,
+        "name": "Ur Final Message",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ruM5Yhze5M38UgngeTj05"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2iKKHKEDmiLrjuLkEzfmDq"
+}

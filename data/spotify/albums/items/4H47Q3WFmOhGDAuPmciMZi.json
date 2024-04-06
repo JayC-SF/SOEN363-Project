@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+      },
+      "href": "https://api.spotify.com/v1/artists/61HlkUsczjBP7IODEMFtrB",
+      "id": "61HlkUsczjBP7IODEMFtrB",
+      "name": "Lil Vada",
+      "type": "artist",
+      "uri": "spotify:artist:61HlkUsczjBP7IODEMFtrB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 F Cancer Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 F Cancer Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197209725404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4H47Q3WFmOhGDAuPmciMZi",
+  "id": "4H47Q3WFmOhGDAuPmciMZi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c41157b46e69361bcfb7ef6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c41157b46e69361bcfb7ef6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c41157b46e69361bcfb7ef6",
+      "width": 64
+    }
+  ],
+  "label": "F Cancer Records",
+  "name": "Wop It",
+  "popularity": 2,
+  "release_date": "2022-09-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4H47Q3WFmOhGDAuPmciMZi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+            },
+            "href": "https://api.spotify.com/v1/artists/61HlkUsczjBP7IODEMFtrB",
+            "id": "61HlkUsczjBP7IODEMFtrB",
+            "name": "Lil Vada",
+            "type": "artist",
+            "uri": "spotify:artist:61HlkUsczjBP7IODEMFtrB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 112953,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qiN1G9Q5CLzuWJUKnkLxo",
+        "id": "6qiN1G9Q5CLzuWJUKnkLxo",
+        "is_local": false,
+        "name": "Wop It",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6qiN1G9Q5CLzuWJUKnkLxo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4H47Q3WFmOhGDAuPmciMZi"
+}

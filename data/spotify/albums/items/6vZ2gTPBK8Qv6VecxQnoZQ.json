@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Q0MyH5YMI5HPQjFjlq5g3",
+      "id": "2Q0MyH5YMI5HPQjFjlq5g3",
+      "name": "Nick Murphy",
+      "type": "artist",
+      "uri": "spotify:artist:2Q0MyH5YMI5HPQjFjlq5g3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Future Classic / Opulent under exclusive license to [PIAS]",
+      "type": "C"
+    },
+    {
+      "text": "2019 Future Classic / Opulent under exclusive license to [PIAS]",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5400863010140"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6vZ2gTPBK8Qv6VecxQnoZQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6vZ2gTPBK8Qv6VecxQnoZQ",
+  "id": "6vZ2gTPBK8Qv6VecxQnoZQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366361def5210ea9463a5642b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0266361def5210ea9463a5642b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485166361def5210ea9463a5642b",
+      "width": 64
+    }
+  ],
+  "label": "Future Classic",
+  "name": "Sanity",
+  "popularity": 0,
+  "release_date": "2019-03-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6vZ2gTPBK8Qv6VecxQnoZQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Q0MyH5YMI5HPQjFjlq5g3",
+            "id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "name": "Nick Murphy",
+            "type": "artist",
+            "uri": "spotify:artist:2Q0MyH5YMI5HPQjFjlq5g3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 214476,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Jh07XnpZKK1jTemAoNSbU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Jh07XnpZKK1jTemAoNSbU",
+        "id": "6Jh07XnpZKK1jTemAoNSbU",
+        "is_local": false,
+        "name": "Sanity",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Jh07XnpZKK1jTemAoNSbU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6vZ2gTPBK8Qv6VecxQnoZQ"
+}

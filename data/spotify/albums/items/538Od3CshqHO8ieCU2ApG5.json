@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+      },
+      "href": "https://api.spotify.com/v1/artists/28VbaiiRmV4vk9O5ykVvCh",
+      "id": "28VbaiiRmV4vk9O5ykVvCh",
+      "name": "Jordy Chandra",
+      "type": "artist",
+      "uri": "spotify:artist:28VbaiiRmV4vk9O5ykVvCh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Dream Relaxation",
+      "type": "C"
+    },
+    {
+      "text": "2020 Dream Relaxation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859743715999"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/538Od3CshqHO8ieCU2ApG5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/538Od3CshqHO8ieCU2ApG5",
+  "id": "538Od3CshqHO8ieCU2ApG5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313804f162f5a2b89126b236c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213804f162f5a2b89126b236c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113804f162f5a2b89126b236c",
+      "width": 64
+    }
+  ],
+  "label": "Dream Relaxation",
+  "name": "A Love Returned in Full",
+  "popularity": 0,
+  "release_date": "2020-12-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/538Od3CshqHO8ieCU2ApG5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+            },
+            "href": "https://api.spotify.com/v1/artists/28VbaiiRmV4vk9O5ykVvCh",
+            "id": "28VbaiiRmV4vk9O5ykVvCh",
+            "name": "Jordy Chandra",
+            "type": "artist",
+            "uri": "spotify:artist:28VbaiiRmV4vk9O5ykVvCh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 109959,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cpHcm83PFOcU1pyzt3c5i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0cpHcm83PFOcU1pyzt3c5i",
+        "id": "0cpHcm83PFOcU1pyzt3c5i",
+        "is_local": false,
+        "name": "A Love Returned in Full",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0cpHcm83PFOcU1pyzt3c5i"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:538Od3CshqHO8ieCU2ApG5"
+}

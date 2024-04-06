@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2WEClD172tRWxTvB81VfdA"
+      },
+      "href": "https://api.spotify.com/v1/artists/2WEClD172tRWxTvB81VfdA",
+      "id": "2WEClD172tRWxTvB81VfdA",
+      "name": "Kaveh",
+      "type": "artist",
+      "uri": "spotify:artist:2WEClD172tRWxTvB81VfdA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2013 Mer Musikk, distributed by Universal Music AS, Norway",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2013 Mer Musikk, distributed by Universal Music AS, Norway",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537687992"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/64sHlNrGVMGFy1sczOEfT1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/64sHlNrGVMGFy1sczOEfT1",
+  "id": "64sHlNrGVMGFy1sczOEfT1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ac976c6592778879a0ca85d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ac976c6592778879a0ca85d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ac976c6592778879a0ca85d",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Ltd.",
+  "name": "Snufs",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/64sHlNrGVMGFy1sczOEfT1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WEClD172tRWxTvB81VfdA"
+            },
+            "href": "https://api.spotify.com/v1/artists/2WEClD172tRWxTvB81VfdA",
+            "id": "2WEClD172tRWxTvB81VfdA",
+            "name": "Kaveh",
+            "type": "artist",
+            "uri": "spotify:artist:2WEClD172tRWxTvB81VfdA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GUyb3aEJHskmBRrhckLa6",
+            "id": "7GUyb3aEJHskmBRrhckLa6",
+            "name": "OnklP",
+            "type": "artist",
+            "uri": "spotify:artist:7GUyb3aEJHskmBRrhckLa6"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 234306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y4th7i3YGtYzEkT3EsfmN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Y4th7i3YGtYzEkT3EsfmN",
+        "id": "1Y4th7i3YGtYzEkT3EsfmN",
+        "is_local": false,
+        "name": "Snufs",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Y4th7i3YGtYzEkT3EsfmN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:64sHlNrGVMGFy1sczOEfT1"
+}

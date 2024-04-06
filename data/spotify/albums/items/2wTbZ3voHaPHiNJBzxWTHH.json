@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Dc9FlL6znNOM7854ghaRp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5Dc9FlL6znNOM7854ghaRp",
+      "id": "5Dc9FlL6znNOM7854ghaRp",
+      "name": "Urban Heat",
+      "type": "artist",
+      "uri": "spotify:artist:5Dc9FlL6znNOM7854ghaRp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Urban Heat",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "659783406273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2wTbZ3voHaPHiNJBzxWTHH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2wTbZ3voHaPHiNJBzxWTHH",
+  "id": "2wTbZ3voHaPHiNJBzxWTHH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333ab4bf8f8007b10c70ca0e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233ab4bf8f8007b10c70ca0e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133ab4bf8f8007b10c70ca0e4",
+      "width": 64
+    }
+  ],
+  "label": "Spaceflight Records",
+  "name": "Goodbye Horses",
+  "popularity": 0,
+  "release_date": "2023-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2wTbZ3voHaPHiNJBzxWTHH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Dc9FlL6znNOM7854ghaRp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Dc9FlL6znNOM7854ghaRp",
+            "id": "5Dc9FlL6znNOM7854ghaRp",
+            "name": "Urban Heat",
+            "type": "artist",
+            "uri": "spotify:artist:5Dc9FlL6znNOM7854ghaRp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 224009,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YucJB4G5NAXX66DCwWTRV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YucJB4G5NAXX66DCwWTRV",
+        "id": "3YucJB4G5NAXX66DCwWTRV",
+        "is_local": false,
+        "name": "Goodbye Horses",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3YucJB4G5NAXX66DCwWTRV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Dc9FlL6znNOM7854ghaRp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Dc9FlL6znNOM7854ghaRp",
+            "id": "5Dc9FlL6znNOM7854ghaRp",
+            "name": "Urban Heat",
+            "type": "artist",
+            "uri": "spotify:artist:5Dc9FlL6znNOM7854ghaRp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 229717,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EPPTuEmtAONJlZ0p2N9sf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EPPTuEmtAONJlZ0p2N9sf",
+        "id": "7EPPTuEmtAONJlZ0p2N9sf",
+        "is_local": false,
+        "name": "Blissful Neighbor",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7EPPTuEmtAONJlZ0p2N9sf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2wTbZ3voHaPHiNJBzxWTHH"
+}

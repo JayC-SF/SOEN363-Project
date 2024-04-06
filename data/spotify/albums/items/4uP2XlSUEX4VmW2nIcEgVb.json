@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id": "5JMLG56F1X5mFmWNmS0iAp",
+      "name": "Chelsea Cutler",
+      "type": "artist",
+      "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 Ultra Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2017 Ultra Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465845857"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4uP2XlSUEX4VmW2nIcEgVb",
+  "id": "4uP2XlSUEX4VmW2nIcEgVb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394bd50447700c46305e369b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294bd50447700c46305e369b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194bd50447700c46305e369b6",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "Your Shirt",
+  "popularity": 9,
+  "release_date": "2017-02-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4uP2XlSUEX4VmW2nIcEgVb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+            "id": "5JMLG56F1X5mFmWNmS0iAp",
+            "name": "Chelsea Cutler",
+            "type": "artist",
+            "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6zdg9ovHEPx9EblJcc7FGf",
+        "id": "6zdg9ovHEPx9EblJcc7FGf",
+        "is_local": false,
+        "name": "Your Shirt",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6zdg9ovHEPx9EblJcc7FGf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4uP2XlSUEX4VmW2nIcEgVb"
+}

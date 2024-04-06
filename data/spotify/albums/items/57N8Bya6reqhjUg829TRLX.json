@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+      },
+      "href": "https://api.spotify.com/v1/artists/0qraFJK6boYSp4ZMMX4PzG",
+      "id": "0qraFJK6boYSp4ZMMX4PzG",
+      "name": "Los Retros",
+      "type": "artist",
+      "uri": "spotify:artist:0qraFJK6boYSp4ZMMX4PzG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Stones Throw Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 Stones Throw Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0659457240653"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/57N8Bya6reqhjUg829TRLX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/57N8Bya6reqhjUg829TRLX",
+  "id": "57N8Bya6reqhjUg829TRLX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273267893e31836ea1e01bf988f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02267893e31836ea1e01bf988f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851267893e31836ea1e01bf988f",
+      "width": 64
+    }
+  ],
+  "label": "Stones Throw",
+  "name": "Friends",
+  "popularity": 0,
+  "release_date": "2019-05-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/57N8Bya6reqhjUg829TRLX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+            },
+            "href": "https://api.spotify.com/v1/artists/0qraFJK6boYSp4ZMMX4PzG",
+            "id": "0qraFJK6boYSp4ZMMX4PzG",
+            "name": "Los Retros",
+            "type": "artist",
+            "uri": "spotify:artist:0qraFJK6boYSp4ZMMX4PzG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 159533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4corFrATOQxvXRrc7fytmO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4corFrATOQxvXRrc7fytmO",
+        "id": "4corFrATOQxvXRrc7fytmO",
+        "is_local": false,
+        "name": "Friends",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4corFrATOQxvXRrc7fytmO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:57N8Bya6reqhjUg829TRLX"
+}

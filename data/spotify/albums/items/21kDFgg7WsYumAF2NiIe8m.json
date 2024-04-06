@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+      },
+      "href": "https://api.spotify.com/v1/artists/7HXBbxW6YwU8lvgBew2p2A",
+      "id": "7HXBbxW6YwU8lvgBew2p2A",
+      "name": "Matt Johnson",
+      "type": "artist",
+      "uri": "spotify:artist:7HXBbxW6YwU8lvgBew2p2A"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+      },
+      "href": "https://api.spotify.com/v1/artists/2Y4125mDrgQyPD7dt76Rtm",
+      "id": "2Y4125mDrgQyPD7dt76Rtm",
+      "name": "Colin & Caroline",
+      "type": "artist",
+      "uri": "spotify:artist:2Y4125mDrgQyPD7dt76Rtm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Tristar Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Tristar Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056124645530"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21kDFgg7WsYumAF2NiIe8m"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/21kDFgg7WsYumAF2NiIe8m",
+  "id": "21kDFgg7WsYumAF2NiIe8m",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731bfaa659ac7ceefae678ec33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021bfaa659ac7ceefae678ec33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511bfaa659ac7ceefae678ec33",
+      "width": 64
+    }
+  ],
+  "label": "Tristar Records",
+  "name": "Ain't No Mountain High Enough (Acoustic)",
+  "popularity": 0,
+  "release_date": "2018-03-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21kDFgg7WsYumAF2NiIe8m/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+            },
+            "href": "https://api.spotify.com/v1/artists/7HXBbxW6YwU8lvgBew2p2A",
+            "id": "7HXBbxW6YwU8lvgBew2p2A",
+            "name": "Matt Johnson",
+            "type": "artist",
+            "uri": "spotify:artist:7HXBbxW6YwU8lvgBew2p2A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Y4125mDrgQyPD7dt76Rtm",
+            "id": "2Y4125mDrgQyPD7dt76Rtm",
+            "name": "Colin & Caroline",
+            "type": "artist",
+            "uri": "spotify:artist:2Y4125mDrgQyPD7dt76Rtm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154975,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YjsqLro7nYeSAVZ6zKSOP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YjsqLro7nYeSAVZ6zKSOP",
+        "id": "3YjsqLro7nYeSAVZ6zKSOP",
+        "is_local": false,
+        "name": "Ain't No Mountain High Enough - Acoustic",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3YjsqLro7nYeSAVZ6zKSOP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:21kDFgg7WsYumAF2NiIe8m"
+}

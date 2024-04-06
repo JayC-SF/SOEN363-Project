@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+      },
+      "href": "https://api.spotify.com/v1/artists/4sADZZMvbgQIsCCkmqUYF8",
+      "id": "4sADZZMvbgQIsCCkmqUYF8",
+      "name": "Seon",
+      "type": "artist",
+      "uri": "spotify:artist:4sADZZMvbgQIsCCkmqUYF8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 1016469 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2019 1016469 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193664620056"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/677mfwVgGVIDI7udXuhxJ7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/677mfwVgGVIDI7udXuhxJ7",
+  "id": "677mfwVgGVIDI7udXuhxJ7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273edb45d4ff33558127e60d534",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02edb45d4ff33558127e60d534",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851edb45d4ff33558127e60d534",
+      "width": 64
+    }
+  ],
+  "label": "1016469 Records DK",
+  "name": "Never Be Alright",
+  "popularity": 0,
+  "release_date": "2019-01-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/677mfwVgGVIDI7udXuhxJ7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sADZZMvbgQIsCCkmqUYF8",
+            "id": "4sADZZMvbgQIsCCkmqUYF8",
+            "name": "Seon",
+            "type": "artist",
+            "uri": "spotify:artist:4sADZZMvbgQIsCCkmqUYF8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 168280,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zJffE1wHyAu5WwNYwt0VI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6zJffE1wHyAu5WwNYwt0VI",
+        "id": "6zJffE1wHyAu5WwNYwt0VI",
+        "is_local": false,
+        "name": "Never Be Alright",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6zJffE1wHyAu5WwNYwt0VI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:677mfwVgGVIDI7udXuhxJ7"
+}

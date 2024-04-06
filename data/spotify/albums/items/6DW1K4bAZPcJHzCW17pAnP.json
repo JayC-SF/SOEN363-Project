@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "name": "Bruno Major",
+      "type": "artist",
+      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Harbour Artists & Music under exclusive license to AWAL Recordings America, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Harbour Artists & Music under exclusive license to AWAL Recordings America, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197188802677"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6DW1K4bAZPcJHzCW17pAnP",
+  "id": "6DW1K4bAZPcJHzCW17pAnP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398cfa344cd8476d2ace72695",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298cfa344cd8476d2ace72695",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198cfa344cd8476d2ace72695",
+      "width": 64
+    }
+  ],
+  "label": "Bruno Major",
+  "name": "Columbo",
+  "popularity": 0,
+  "release_date": "2023-05-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6DW1K4bAZPcJHzCW17pAnP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213316,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y26ehF7JqHVHqb2Fik0uG",
+        "id": "0y26ehF7JqHVHqb2Fik0uG",
+        "is_local": false,
+        "name": "Columbo",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0y26ehF7JqHVHqb2Fik0uG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6DW1K4bAZPcJHzCW17pAnP"
+}

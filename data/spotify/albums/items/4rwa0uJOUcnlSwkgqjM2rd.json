@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+      },
+      "href": "https://api.spotify.com/v1/artists/1n2pb9Tsfe4SwAjmUac6YT",
+      "id": "1n2pb9Tsfe4SwAjmUac6YT",
+      "name": "Jake Owen",
+      "type": "artist",
+      "uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2016 Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445753776"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4rwa0uJOUcnlSwkgqjM2rd"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4rwa0uJOUcnlSwkgqjM2rd",
+  "id": "4rwa0uJOUcnlSwkgqjM2rd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ff7ca63b7c2ec5992aa63888",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ff7ca63b7c2ec5992aa63888",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ff7ca63b7c2ec5992aa63888",
+      "width": 64
+    }
+  ],
+  "label": "RCA Records Label Nashville",
+  "name": "American Country Love Song",
+  "popularity": 0,
+  "release_date": "2016-03-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4rwa0uJOUcnlSwkgqjM2rd/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+            },
+            "href": "https://api.spotify.com/v1/artists/1n2pb9Tsfe4SwAjmUac6YT",
+            "id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "name": "Jake Owen",
+            "type": "artist",
+            "uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3eGH1kOyOjq19khdfYg5R7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3eGH1kOyOjq19khdfYg5R7",
+        "id": "3eGH1kOyOjq19khdfYg5R7",
+        "is_local": false,
+        "name": "American Country Love Song",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3eGH1kOyOjq19khdfYg5R7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4rwa0uJOUcnlSwkgqjM2rd"
+}

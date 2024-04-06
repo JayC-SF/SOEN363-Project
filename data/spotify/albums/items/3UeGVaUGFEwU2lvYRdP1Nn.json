@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+      },
+      "href": "https://api.spotify.com/v1/artists/7CvTknweLr9feJtRGrpDBy",
+      "id": "7CvTknweLr9feJtRGrpDBy",
+      "name": "FloyyMenor",
+      "type": "artist",
+      "uri": "spotify:artist:7CvTknweLr9feJtRGrpDBy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Floyymenor",
+      "type": "C"
+    },
+    {
+      "text": "2023 Floyymenor",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "9360098233133"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3UeGVaUGFEwU2lvYRdP1Nn",
+  "id": "3UeGVaUGFEwU2lvYRdP1Nn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273920d41890701e24431d345b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02920d41890701e24431d345b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851920d41890701e24431d345b0",
+      "width": 64
+    }
+  ],
+  "label": "Floyymenor",
+  "name": "Pa La Europa",
+  "popularity": 0,
+  "release_date": "2023-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3UeGVaUGFEwU2lvYRdP1Nn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CvTknweLr9feJtRGrpDBy",
+            "id": "7CvTknweLr9feJtRGrpDBy",
+            "name": "FloyyMenor",
+            "type": "artist",
+            "uri": "spotify:artist:7CvTknweLr9feJtRGrpDBy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219753,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79Ias0x3ygL9ZQcQ7rAvbG",
+        "id": "79Ias0x3ygL9ZQcQ7rAvbG",
+        "is_local": false,
+        "name": "Pa La Europa",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:79Ias0x3ygL9ZQcQ7rAvbG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3UeGVaUGFEwU2lvYRdP1Nn"
+}

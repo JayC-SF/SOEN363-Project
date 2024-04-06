@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+      },
+      "href": "https://api.spotify.com/v1/artists/3sJQwG0SsGRyv5C5kh4o9a",
+      "id": "3sJQwG0SsGRyv5C5kh4o9a",
+      "name": "Shay Lia",
+      "type": "artist",
+      "uri": "spotify:artist:3sJQwG0SsGRyv5C5kh4o9a"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Shay Lia",
+      "type": "C"
+    },
+    {
+      "text": "2018 Shay Lia",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054526205796"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1WklZZRCVoqJCKGoYmeJfr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1WklZZRCVoqJCKGoYmeJfr",
+  "id": "1WklZZRCVoqJCKGoYmeJfr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c22bf96c29d85509e2614a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c22bf96c29d85509e2614a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c22bf96c29d85509e2614a4",
+      "width": 64
+    }
+  ],
+  "label": "N.O.T.E",
+  "name": "Funky Thang",
+  "popularity": 0,
+  "release_date": "2018-08-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1WklZZRCVoqJCKGoYmeJfr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sJQwG0SsGRyv5C5kh4o9a",
+            "id": "3sJQwG0SsGRyv5C5kh4o9a",
+            "name": "Shay Lia",
+            "type": "artist",
+            "uri": "spotify:artist:3sJQwG0SsGRyv5C5kh4o9a"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 160780,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zVB1UcrO52SUONu7h7F7U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zVB1UcrO52SUONu7h7F7U",
+        "id": "5zVB1UcrO52SUONu7h7F7U",
+        "is_local": false,
+        "name": "Funky Thang",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zVB1UcrO52SUONu7h7F7U"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1WklZZRCVoqJCKGoYmeJfr"
+}

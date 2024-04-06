@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ynzbXwyCzxicMKHBoOkSH",
+      "id": "0ynzbXwyCzxicMKHBoOkSH",
+      "name": "EKKSTACY",
+      "type": "artist",
+      "uri": "spotify:artist:0ynzbXwyCzxicMKHBoOkSH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 EKKSTACY",
+      "type": "C"
+    },
+    {
+      "text": "2021 EKKSTACY",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196193871425"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/04Bw04Jn3OaL4FCWhZCJDm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/04Bw04Jn3OaL4FCWhZCJDm",
+  "id": "04Bw04Jn3OaL4FCWhZCJDm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d46a4c175de4ebcca9d60f65",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d46a4c175de4ebcca9d60f65",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d46a4c175de4ebcca9d60f65",
+      "width": 64
+    }
+  ],
+  "label": "Ekkstacy",
+  "name": "stupid kids",
+  "popularity": 40,
+  "release_date": "2020-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/04Bw04Jn3OaL4FCWhZCJDm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ynzbXwyCzxicMKHBoOkSH",
+            "id": "0ynzbXwyCzxicMKHBoOkSH",
+            "name": "EKKSTACY",
+            "type": "artist",
+            "uri": "spotify:artist:0ynzbXwyCzxicMKHBoOkSH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 118861,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2q8bamk2WT0mU3ZSqS55sw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2q8bamk2WT0mU3ZSqS55sw",
+        "id": "2q8bamk2WT0mU3ZSqS55sw",
+        "is_local": false,
+        "name": "stupid kids",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2q8bamk2WT0mU3ZSqS55sw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:04Bw04Jn3OaL4FCWhZCJDm"
+}

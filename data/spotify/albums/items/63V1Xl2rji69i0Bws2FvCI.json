@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+      },
+      "href": "https://api.spotify.com/v1/artists/0PPCPsuv0iOAYKGR2SkFal",
+      "id": "0PPCPsuv0iOAYKGR2SkFal",
+      "name": "VOLO",
+      "type": "artist",
+      "uri": "spotify:artist:0PPCPsuv0iOAYKGR2SkFal"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+      },
+      "href": "https://api.spotify.com/v1/artists/6ynopZPMBXcIGBI9M02Un5",
+      "id": "6ynopZPMBXcIGBI9M02Un5",
+      "name": "Haftbefehl",
+      "type": "artist",
+      "uri": "spotify:artist:6ynopZPMBXcIGBI9M02Un5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Mahalle Music",
+      "type": "C"
+    },
+    {
+      "text": "2021 Mahalle Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616841687699"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/63V1Xl2rji69i0Bws2FvCI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/63V1Xl2rji69i0Bws2FvCI",
+  "id": "63V1Xl2rji69i0Bws2FvCI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361f91974dfe03925e5cafdb7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261f91974dfe03925e5cafdb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161f91974dfe03925e5cafdb7",
+      "width": 64
+    }
+  ],
+  "label": "Mahalle Music",
+  "name": "DU KENNST DIE BABOS",
+  "popularity": 0,
+  "release_date": "2021-11-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/63V1Xl2rji69i0Bws2FvCI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PPCPsuv0iOAYKGR2SkFal",
+            "id": "0PPCPsuv0iOAYKGR2SkFal",
+            "name": "VOLO",
+            "type": "artist",
+            "uri": "spotify:artist:0PPCPsuv0iOAYKGR2SkFal"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ynopZPMBXcIGBI9M02Un5",
+            "id": "6ynopZPMBXcIGBI9M02Un5",
+            "name": "Haftbefehl",
+            "type": "artist",
+            "uri": "spotify:artist:6ynopZPMBXcIGBI9M02Un5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 135953,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QZKWyjIJvgVdsfeqagqoI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QZKWyjIJvgVdsfeqagqoI",
+        "id": "2QZKWyjIJvgVdsfeqagqoI",
+        "is_local": false,
+        "name": "DU KENNST DIE BABOS",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2QZKWyjIJvgVdsfeqagqoI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:63V1Xl2rji69i0Bws2FvCI"
+}

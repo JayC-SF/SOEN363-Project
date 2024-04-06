@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+      },
+      "href": "https://api.spotify.com/v1/artists/4iaDWP59Z3e62DW7YWDbIE",
+      "id": "4iaDWP59Z3e62DW7YWDbIE",
+      "name": "Post Animal",
+      "type": "artist",
+      "uri": "spotify:artist:4iaDWP59Z3e62DW7YWDbIE"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Polyvinyl Record Co.",
+      "type": "C"
+    },
+    {
+      "text": "2018 Polyvinyl Record Co.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "644110035158"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5erOZLB1Md9HylUkGjZwvR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5erOZLB1Md9HylUkGjZwvR",
+  "id": "5erOZLB1Md9HylUkGjZwvR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c00d5e9dcf05b70eeedeb7d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c00d5e9dcf05b70eeedeb7d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c00d5e9dcf05b70eeedeb7d1",
+      "width": 64
+    }
+  ],
+  "label": "Polyvinyl Records",
+  "name": "Gelatin Mode",
+  "popularity": 0,
+  "release_date": "2018-03-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5erOZLB1Md9HylUkGjZwvR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4iaDWP59Z3e62DW7YWDbIE",
+            "id": "4iaDWP59Z3e62DW7YWDbIE",
+            "name": "Post Animal",
+            "type": "artist",
+            "uri": "spotify:artist:4iaDWP59Z3e62DW7YWDbIE"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 347973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pEDJ91Czg5TJUcLsb1sZC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pEDJ91Czg5TJUcLsb1sZC",
+        "id": "7pEDJ91Czg5TJUcLsb1sZC",
+        "is_local": false,
+        "name": "Gelatin Mode",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7pEDJ91Czg5TJUcLsb1sZC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5erOZLB1Md9HylUkGjZwvR"
+}

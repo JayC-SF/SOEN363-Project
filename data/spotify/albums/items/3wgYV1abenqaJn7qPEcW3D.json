@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+      },
+      "href": "https://api.spotify.com/v1/artists/0MGJHTThvyAyqKuEAgPqDr",
+      "id": "0MGJHTThvyAyqKuEAgPqDr",
+      "name": "phem",
+      "type": "artist",
+      "uri": "spotify:artist:0MGJHTThvyAyqKuEAgPqDr"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 nvr giv up",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 nvr giv up",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00842812137051"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3wgYV1abenqaJn7qPEcW3D"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3wgYV1abenqaJn7qPEcW3D",
+  "id": "3wgYV1abenqaJn7qPEcW3D",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f30babdc06238fd4124642fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f30babdc06238fd4124642fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f30babdc06238fd4124642fd",
+      "width": 64
+    }
+  ],
+  "label": "nvr giv up",
+  "name": "stfu",
+  "popularity": 9,
+  "release_date": "2020-09-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3wgYV1abenqaJn7qPEcW3D/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0MGJHTThvyAyqKuEAgPqDr",
+            "id": "0MGJHTThvyAyqKuEAgPqDr",
+            "name": "phem",
+            "type": "artist",
+            "uri": "spotify:artist:0MGJHTThvyAyqKuEAgPqDr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 125000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dMLc8SWH8UGz9W6cUztRq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dMLc8SWH8UGz9W6cUztRq",
+        "id": "4dMLc8SWH8UGz9W6cUztRq",
+        "is_local": false,
+        "name": "stfu",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4dMLc8SWH8UGz9W6cUztRq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3wgYV1abenqaJn7qPEcW3D"
+}

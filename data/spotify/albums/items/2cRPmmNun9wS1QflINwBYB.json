@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+      },
+      "href": "https://api.spotify.com/v1/artists/4vZBqD3QXrKiE3mZ6zHr22",
+      "id": "4vZBqD3QXrKiE3mZ6zHr22",
+      "name": "duendita",
+      "type": "artist",
+      "uri": "spotify:artist:4vZBqD3QXrKiE3mZ6zHr22"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 duendita",
+      "type": "C"
+    },
+    {
+      "text": "2016 duendita",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718161561"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2cRPmmNun9wS1QflINwBYB"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2cRPmmNun9wS1QflINwBYB",
+  "id": "2cRPmmNun9wS1QflINwBYB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c6b97527631286dfa228fa7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c6b97527631286dfa228fa7e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c6b97527631286dfa228fa7e",
+      "width": 64
+    }
+  ],
+  "label": "duendita",
+  "name": "Open Wide",
+  "popularity": 0,
+  "release_date": "2016-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2cRPmmNun9wS1QflINwBYB/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+            },
+            "href": "https://api.spotify.com/v1/artists/4vZBqD3QXrKiE3mZ6zHr22",
+            "id": "4vZBqD3QXrKiE3mZ6zHr22",
+            "name": "duendita",
+            "type": "artist",
+            "uri": "spotify:artist:4vZBqD3QXrKiE3mZ6zHr22"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 264290,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59oKLVGRj5QkFo4f5uFyD6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59oKLVGRj5QkFo4f5uFyD6",
+        "id": "59oKLVGRj5QkFo4f5uFyD6",
+        "is_local": false,
+        "name": "Open Wide",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:59oKLVGRj5QkFo4f5uFyD6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2cRPmmNun9wS1QflINwBYB"
+}

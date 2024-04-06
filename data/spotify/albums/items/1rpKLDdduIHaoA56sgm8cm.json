@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4DuSBVCmI9rMlrIHlS7buZ",
+      "id": "4DuSBVCmI9rMlrIHlS7buZ",
+      "name": "Abe",
+      "type": "artist",
+      "uri": "spotify:artist:4DuSBVCmI9rMlrIHlS7buZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 Dancecode SARL",
+      "type": "C"
+    },
+    {
+      "text": "2019 Dancecode SARL",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4018939367824"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1rpKLDdduIHaoA56sgm8cm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1rpKLDdduIHaoA56sgm8cm",
+  "id": "1rpKLDdduIHaoA56sgm8cm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d134fcb4a733e3bad96a10e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d134fcb4a733e3bad96a10e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d134fcb4a733e3bad96a10e8",
+      "width": 64
+    }
+  ],
+  "label": "Sinners",
+  "name": "Across the Storm",
+  "popularity": 0,
+  "release_date": "2019-05-17",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1rpKLDdduIHaoA56sgm8cm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DuSBVCmI9rMlrIHlS7buZ",
+            "id": "4DuSBVCmI9rMlrIHlS7buZ",
+            "name": "Abe",
+            "type": "artist",
+            "uri": "spotify:artist:4DuSBVCmI9rMlrIHlS7buZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 387676,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36h8d2f8q35BTBVRR99QGE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36h8d2f8q35BTBVRR99QGE",
+        "id": "36h8d2f8q35BTBVRR99QGE",
+        "is_local": false,
+        "name": "Across the Storm",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:36h8d2f8q35BTBVRR99QGE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4DuSBVCmI9rMlrIHlS7buZ",
+            "id": "4DuSBVCmI9rMlrIHlS7buZ",
+            "name": "Abe",
+            "type": "artist",
+            "uri": "spotify:artist:4DuSBVCmI9rMlrIHlS7buZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 431426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pzWzk7IuGVG7L7ll5bR3g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pzWzk7IuGVG7L7ll5bR3g",
+        "id": "7pzWzk7IuGVG7L7ll5bR3g",
+        "is_local": false,
+        "name": "Gravity Field",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7pzWzk7IuGVG7L7ll5bR3g"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:1rpKLDdduIHaoA56sgm8cm"
+}

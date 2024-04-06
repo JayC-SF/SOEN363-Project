@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13GLgU9xMri6eZwkTy63zy"
+      },
+      "href": "https://api.spotify.com/v1/artists/13GLgU9xMri6eZwkTy63zy",
+      "id": "13GLgU9xMri6eZwkTy63zy",
+      "name": "Fairooz Nazifa",
+      "type": "artist",
+      "uri": "spotify:artist:13GLgU9xMri6eZwkTy63zy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Coca-Cola Bangladesh",
+      "type": "C"
+    },
+    {
+      "text": "2023 Coca-Cola Bangladesh",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0197930460568"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QfnlXHlsgNwhZPDqkcUL2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QfnlXHlsgNwhZPDqkcUL2",
+  "id": "1QfnlXHlsgNwhZPDqkcUL2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734593aa46bb7e7a02fc39bcf8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024593aa46bb7e7a02fc39bcf8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514593aa46bb7e7a02fc39bcf8",
+      "width": 64
+    }
+  ],
+  "label": "Coca-Cola Bangladesh",
+  "name": "Ghum Ghum",
+  "popularity": 1,
+  "release_date": "2023-07-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QfnlXHlsgNwhZPDqkcUL2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13GLgU9xMri6eZwkTy63zy"
+            },
+            "href": "https://api.spotify.com/v1/artists/13GLgU9xMri6eZwkTy63zy",
+            "id": "13GLgU9xMri6eZwkTy63zy",
+            "name": "Fairooz Nazifa",
+            "type": "artist",
+            "uri": "spotify:artist:13GLgU9xMri6eZwkTy63zy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JbyhMHHan36Ep5vGuxqp6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JbyhMHHan36Ep5vGuxqp6",
+        "id": "6JbyhMHHan36Ep5vGuxqp6",
+        "is_local": false,
+        "name": "Ghum Ghum",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JbyhMHHan36Ep5vGuxqp6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QfnlXHlsgNwhZPDqkcUL2"
+}

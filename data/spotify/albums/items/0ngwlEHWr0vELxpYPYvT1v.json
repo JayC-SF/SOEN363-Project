@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rcqQIRS4rtGpCyUVWTSxl"
+      },
+      "href": "https://api.spotify.com/v1/artists/2rcqQIRS4rtGpCyUVWTSxl",
+      "id": "2rcqQIRS4rtGpCyUVWTSxl",
+      "name": "Mister Scoops",
+      "type": "artist",
+      "uri": "spotify:artist:2rcqQIRS4rtGpCyUVWTSxl"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Mister Scoops",
+      "type": "C"
+    },
+    {
+      "text": "2013 Mister Scoops",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056271695822"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ngwlEHWr0vELxpYPYvT1v"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ngwlEHWr0vELxpYPYvT1v",
+  "id": "0ngwlEHWr0vELxpYPYvT1v",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f4aafa19cc2aaebac7f8cc6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f4aafa19cc2aaebac7f8cc6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f4aafa19cc2aaebac7f8cc6",
+      "width": 64
+    }
+  ],
+  "label": "Mister Scoops",
+  "name": "Something Has to Happen",
+  "popularity": 0,
+  "release_date": "2013-04-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ngwlEHWr0vELxpYPYvT1v/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rcqQIRS4rtGpCyUVWTSxl"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rcqQIRS4rtGpCyUVWTSxl",
+            "id": "2rcqQIRS4rtGpCyUVWTSxl",
+            "name": "Mister Scoops",
+            "type": "artist",
+            "uri": "spotify:artist:2rcqQIRS4rtGpCyUVWTSxl"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1T7epSDp0Z11xrbBQ74M8U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1T7epSDp0Z11xrbBQ74M8U",
+        "id": "1T7epSDp0Z11xrbBQ74M8U",
+        "is_local": false,
+        "name": "Something Has to Happen",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1T7epSDp0Z11xrbBQ74M8U"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0ngwlEHWr0vELxpYPYvT1v"
+}

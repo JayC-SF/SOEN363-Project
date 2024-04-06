@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IVSIh1lrxBjXZdovPbSdN"
+      },
+      "href": "https://api.spotify.com/v1/artists/6IVSIh1lrxBjXZdovPbSdN",
+      "id": "6IVSIh1lrxBjXZdovPbSdN",
+      "name": "Maraaya",
+      "type": "artist",
+      "uri": "spotify:artist:6IVSIh1lrxBjXZdovPbSdN"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Danceandlove Srl",
+      "type": "C"
+    },
+    {
+      "text": "Danceandlove Srl",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8051418692075"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5QrungDpn6zvLQgElRUGVq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5QrungDpn6zvLQgElRUGVq",
+  "id": "5QrungDpn6zvLQgElRUGVq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a99202f1cc43e42cada1c22d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a99202f1cc43e42cada1c22d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a99202f1cc43e42cada1c22d",
+      "width": 64
+    }
+  ],
+  "label": "Danceandlove",
+  "name": "Here for You (Radio Edit)",
+  "popularity": 0,
+  "release_date": "2015-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5QrungDpn6zvLQgElRUGVq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6IVSIh1lrxBjXZdovPbSdN"
+            },
+            "href": "https://api.spotify.com/v1/artists/6IVSIh1lrxBjXZdovPbSdN",
+            "id": "6IVSIh1lrxBjXZdovPbSdN",
+            "name": "Maraaya",
+            "type": "artist",
+            "uri": "spotify:artist:6IVSIh1lrxBjXZdovPbSdN"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 204209,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Es5TMIKrTH3bLf0wk0sut"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Es5TMIKrTH3bLf0wk0sut",
+        "id": "0Es5TMIKrTH3bLf0wk0sut",
+        "is_local": false,
+        "name": "Here for You - Radio Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Es5TMIKrTH3bLf0wk0sut"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5QrungDpn6zvLQgElRUGVq"
+}

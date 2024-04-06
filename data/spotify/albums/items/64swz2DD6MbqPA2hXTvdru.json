@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Q5MS10mWfrDyiXVeAAzVd",
+      "id": "4Q5MS10mWfrDyiXVeAAzVd",
+      "name": "T2",
+      "type": "artist",
+      "uri": "spotify:artist:4Q5MS10mWfrDyiXVeAAzVd"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2017 All Around The World Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2017 All Around The World Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "05037128224150"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/64swz2DD6MbqPA2hXTvdru",
+  "id": "64swz2DD6MbqPA2hXTvdru",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5cffc6f44bdabbb6fff387f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5cffc6f44bdabbb6fff387f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5cffc6f44bdabbb6fff387f",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Group",
+  "name": "Heartbroken",
+  "popularity": 0,
+  "release_date": "2017-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/64swz2DD6MbqPA2hXTvdru/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Q5MS10mWfrDyiXVeAAzVd",
+            "id": "4Q5MS10mWfrDyiXVeAAzVd",
+            "name": "T2",
+            "type": "artist",
+            "uri": "spotify:artist:4Q5MS10mWfrDyiXVeAAzVd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 178613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dhzZ068rKh2fRB2uitX18",
+        "id": "3dhzZ068rKh2fRB2uitX18",
+        "is_local": false,
+        "name": "Heartbroken - Edit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3dhzZ068rKh2fRB2uitX18"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Q5MS10mWfrDyiXVeAAzVd",
+            "id": "4Q5MS10mWfrDyiXVeAAzVd",
+            "name": "T2",
+            "type": "artist",
+            "uri": "spotify:artist:4Q5MS10mWfrDyiXVeAAzVd"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 288873,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/367XSQs9TXPJzgvq0k5uxn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/367XSQs9TXPJzgvq0k5uxn",
+        "id": "367XSQs9TXPJzgvq0k5uxn",
+        "is_local": false,
+        "name": "Heartbroken",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:367XSQs9TXPJzgvq0k5uxn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:64swz2DD6MbqPA2hXTvdru"
+}

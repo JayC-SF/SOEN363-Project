@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href": "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id": "10exVja0key0uqUkk6LJRT",
+      "name": "Vance Joy",
+      "type": "artist",
+      "uri": "spotify:artist:10exVja0key0uqUkk6LJRT"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States excluding Australia and New Zealand.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States excluding Australia and New Zealand.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679923882"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/43rJ1FSQHJEJB8cNiby5fM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/43rJ1FSQHJEJB8cNiby5fM",
+  "id": "43rJ1FSQHJEJB8cNiby5fM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273691eafb5a40b94b71ebfd99f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02691eafb5a40b94b71ebfd99f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851691eafb5a40b94b71ebfd99f",
+      "width": 64
+    }
+  ],
+  "label": "Atlantic Records",
+  "name": "Wasted Time (Lost Kings Remix)",
+  "popularity": 21,
+  "release_date": "2015-05-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/43rJ1FSQHJEJB8cNiby5fM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+            },
+            "href": "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+            "id": "10exVja0key0uqUkk6LJRT",
+            "name": "Vance Joy",
+            "type": "artist",
+            "uri": "spotify:artist:10exVja0key0uqUkk6LJRT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hyEbRtp617pNCuuQjyOmc",
+            "id": "3hyEbRtp617pNCuuQjyOmc",
+            "name": "Lost Kings",
+            "type": "artist",
+            "uri": "spotify:artist:3hyEbRtp617pNCuuQjyOmc"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bZQbORthYZpDnIddIDCcT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7bZQbORthYZpDnIddIDCcT",
+        "id": "7bZQbORthYZpDnIddIDCcT",
+        "is_local": false,
+        "name": "Wasted Time - Lost Kings Remix",
+        "preview_url": "https://p.scdn.co/mp3-preview/6d1939e749491911b9b70ebc932e6b5b9a136dc7?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7bZQbORthYZpDnIddIDCcT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:43rJ1FSQHJEJB8cNiby5fM"
+}

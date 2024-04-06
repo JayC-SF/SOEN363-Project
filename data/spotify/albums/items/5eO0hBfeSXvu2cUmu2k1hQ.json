@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1JG8nsd3YNDOMUAv7EHXvK"
+      },
+      "href": "https://api.spotify.com/v1/artists/1JG8nsd3YNDOMUAv7EHXvK",
+      "id": "1JG8nsd3YNDOMUAv7EHXvK",
+      "name": "Bill $Aber",
+      "type": "artist",
+      "uri": "spotify:artist:1JG8nsd3YNDOMUAv7EHXvK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Bill $aber",
+      "type": "C"
+    },
+    {
+      "text": "2018 Bill $aber",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859729333704"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eO0hBfeSXvu2cUmu2k1hQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5eO0hBfeSXvu2cUmu2k1hQ",
+  "id": "5eO0hBfeSXvu2cUmu2k1hQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335b41aa5ad332a6c02501033",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235b41aa5ad332a6c02501033",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135b41aa5ad332a6c02501033",
+      "width": 64
+    }
+  ],
+  "label": "Bill $aber",
+  "name": "Dyin Slowly",
+  "popularity": 0,
+  "release_date": "2018-10-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5eO0hBfeSXvu2cUmu2k1hQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JG8nsd3YNDOMUAv7EHXvK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1JG8nsd3YNDOMUAv7EHXvK",
+            "id": "1JG8nsd3YNDOMUAv7EHXvK",
+            "name": "Bill $Aber",
+            "type": "artist",
+            "uri": "spotify:artist:1JG8nsd3YNDOMUAv7EHXvK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 124369,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VGGUt2yqHqrEnEeKrIkJM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VGGUt2yqHqrEnEeKrIkJM",
+        "id": "6VGGUt2yqHqrEnEeKrIkJM",
+        "is_local": false,
+        "name": "Dyin Slowly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6VGGUt2yqHqrEnEeKrIkJM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5eO0hBfeSXvu2cUmu2k1hQ"
+}

@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+      },
+      "href": "https://api.spotify.com/v1/artists/3RqBeV12Tt7A8xH3zBDDUF",
+      "id": "3RqBeV12Tt7A8xH3zBDDUF",
+      "name": "Kelsea Ballerini",
+      "type": "artist",
+      "uri": "spotify:artist:3RqBeV12Tt7A8xH3zBDDUF"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Black River Entertainment LLC",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446552101"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3G8EJnYyzkWwAVmNccRvF5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3G8EJnYyzkWwAVmNccRvF5",
+  "id": "3G8EJnYyzkWwAVmNccRvF5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cafabca8f47727a40fa241ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cafabca8f47727a40fa241ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cafabca8f47727a40fa241ef",
+      "width": 64
+    }
+  ],
+  "label": "Black River Entertainment",
+  "name": "Legends",
+  "popularity": 0,
+  "release_date": "2017-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3G8EJnYyzkWwAVmNccRvF5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3RqBeV12Tt7A8xH3zBDDUF",
+            "id": "3RqBeV12Tt7A8xH3zBDDUF",
+            "name": "Kelsea Ballerini",
+            "type": "artist",
+            "uri": "spotify:artist:3RqBeV12Tt7A8xH3zBDDUF"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 237461,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6caDnpIOivsjLRXqlJJxCD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6caDnpIOivsjLRXqlJJxCD",
+        "id": "6caDnpIOivsjLRXqlJJxCD",
+        "is_local": false,
+        "name": "Legends",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6caDnpIOivsjLRXqlJJxCD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3G8EJnYyzkWwAVmNccRvF5"
+}

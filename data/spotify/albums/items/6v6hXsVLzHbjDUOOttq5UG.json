@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+      },
+      "href": "https://api.spotify.com/v1/artists/0wOej91SVqB1zcYkW6xUtA",
+      "id": "0wOej91SVqB1zcYkW6xUtA",
+      "name": "Pale Waves",
+      "type": "artist",
+      "uri": "spotify:artist:0wOej91SVqB1zcYkW6xUtA"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Dirty Hit",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Dirty Hit",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641093548"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6v6hXsVLzHbjDUOOttq5UG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6v6hXsVLzHbjDUOOttq5UG",
+  "id": "6v6hXsVLzHbjDUOOttq5UG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340aff28e628c72c6a4de8ce7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240aff28e628c72c6a4de8ce7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140aff28e628c72c6a4de8ce7",
+      "width": 64
+    }
+  ],
+  "label": "Dirty Hit",
+  "name": "Kiss",
+  "popularity": 0,
+  "release_date": "2018-05-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6v6hXsVLzHbjDUOOttq5UG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+            },
+            "href": "https://api.spotify.com/v1/artists/0wOej91SVqB1zcYkW6xUtA",
+            "id": "0wOej91SVqB1zcYkW6xUtA",
+            "name": "Pale Waves",
+            "type": "artist",
+            "uri": "spotify:artist:0wOej91SVqB1zcYkW6xUtA"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190489,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0096G7Pq9xiMdeKUyQUoZw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0096G7Pq9xiMdeKUyQUoZw",
+        "id": "0096G7Pq9xiMdeKUyQUoZw",
+        "is_local": false,
+        "name": "Kiss",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0096G7Pq9xiMdeKUyQUoZw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6v6hXsVLzHbjDUOOttq5UG"
+}

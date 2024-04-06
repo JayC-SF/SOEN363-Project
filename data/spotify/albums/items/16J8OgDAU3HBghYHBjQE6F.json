@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+      },
+      "href": "https://api.spotify.com/v1/artists/4FCzCS0KEgb0rgySWINItO",
+      "id": "4FCzCS0KEgb0rgySWINItO",
+      "name": "CID",
+      "type": "artist",
+      "uri": "spotify:artist:4FCzCS0KEgb0rgySWINItO"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 HEXAGON / Spinnin' Records BV",
+      "type": "C"
+    },
+    {
+      "text": "2017 HEXAGON / Spinnin' Records BV",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944578270"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/16J8OgDAU3HBghYHBjQE6F"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/16J8OgDAU3HBghYHBjQE6F",
+  "id": "16J8OgDAU3HBghYHBjQE6F",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0aba50949f26ce7517588cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0aba50949f26ce7517588cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0aba50949f26ce7517588cc",
+      "width": 64
+    }
+  ],
+  "label": "HEXAGON",
+  "name": "Creepin'",
+  "popularity": 0,
+  "release_date": "2017-09-29",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/16J8OgDAU3HBghYHBjQE6F/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+            },
+            "href": "https://api.spotify.com/v1/artists/4FCzCS0KEgb0rgySWINItO",
+            "id": "4FCzCS0KEgb0rgySWINItO",
+            "name": "CID",
+            "type": "artist",
+            "uri": "spotify:artist:4FCzCS0KEgb0rgySWINItO"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186964,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Cl2gCk2ILziZmllKGDcDl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Cl2gCk2ILziZmllKGDcDl",
+        "id": "0Cl2gCk2ILziZmllKGDcDl",
+        "is_local": false,
+        "name": "Creepin'",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Cl2gCk2ILziZmllKGDcDl"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:16J8OgDAU3HBghYHBjQE6F"
+}

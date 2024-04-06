@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
+      },
+      "href": "https://api.spotify.com/v1/artists/53vx7sCjX8Ll1I0H59ZDr2",
+      "id": "53vx7sCjX8Ll1I0H59ZDr2",
+      "name": "Preet Bandre",
+      "type": "artist",
+      "uri": "spotify:artist:53vx7sCjX8Ll1I0H59ZDr2"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Studio Ninety Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Studio Ninety Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195335481195"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6D08oUl0QNqFjI0mFgzXGH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6D08oUl0QNqFjI0mFgzXGH",
+  "id": "6D08oUl0QNqFjI0mFgzXGH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273000b7008c3445c8e8cb99200",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02000b7008c3445c8e8cb99200",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851000b7008c3445c8e8cb99200",
+      "width": 64
+    }
+  ],
+  "label": "Studio Ninety Music",
+  "name": "Dev Malhari",
+  "popularity": 16,
+  "release_date": "2020-05-24",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6D08oUl0QNqFjI0mFgzXGH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
+            },
+            "href": "https://api.spotify.com/v1/artists/53vx7sCjX8Ll1I0H59ZDr2",
+            "id": "53vx7sCjX8Ll1I0H59ZDr2",
+            "name": "Preet Bandre",
+            "type": "artist",
+            "uri": "spotify:artist:53vx7sCjX8Ll1I0H59ZDr2"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233901,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0K59SDR43GdPpSyOSLvbeB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0K59SDR43GdPpSyOSLvbeB",
+        "id": "0K59SDR43GdPpSyOSLvbeB",
+        "is_local": false,
+        "name": "Dev Malhari",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0K59SDR43GdPpSyOSLvbeB"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6D08oUl0QNqFjI0mFgzXGH"
+}

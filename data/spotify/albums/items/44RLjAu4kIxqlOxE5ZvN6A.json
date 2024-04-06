@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+      },
+      "href": "https://api.spotify.com/v1/artists/675tsBPpaZtqyiBwEf3ZEP",
+      "id": "675tsBPpaZtqyiBwEf3ZEP",
+      "name": "Watchhouse",
+      "type": "artist",
+      "uri": "spotify:artist:675tsBPpaZtqyiBwEf3ZEP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Yep Roc Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Yep Roc Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "634457460751"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/44RLjAu4kIxqlOxE5ZvN6A",
+  "id": "44RLjAu4kIxqlOxE5ZvN6A",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273986acd2113ed3379f5aaf26b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02986acd2113ed3379f5aaf26b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851986acd2113ed3379f5aaf26b",
+      "width": 64
+    }
+  ],
+  "label": "Yep Roc Records",
+  "name": "Wildfire",
+  "popularity": 0,
+  "release_date": "2016-07-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/44RLjAu4kIxqlOxE5ZvN6A/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+            },
+            "href": "https://api.spotify.com/v1/artists/675tsBPpaZtqyiBwEf3ZEP",
+            "id": "675tsBPpaZtqyiBwEf3ZEP",
+            "name": "Watchhouse",
+            "type": "artist",
+            "uri": "spotify:artist:675tsBPpaZtqyiBwEf3ZEP"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 329893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eMuquGvl8dWNWwISPOmQd",
+        "id": "7eMuquGvl8dWNWwISPOmQd",
+        "is_local": false,
+        "name": "Wildfire",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7eMuquGvl8dWNWwISPOmQd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:44RLjAu4kIxqlOxE5ZvN6A"
+}

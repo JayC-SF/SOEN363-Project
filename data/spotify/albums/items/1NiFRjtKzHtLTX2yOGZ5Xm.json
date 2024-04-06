@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+      },
+      "href": "https://api.spotify.com/v1/artists/0CbJ7vhSBVagdeLhNcf9v1",
+      "id": "0CbJ7vhSBVagdeLhNcf9v1",
+      "name": "Reptaliens",
+      "type": "artist",
+      "uri": "spotify:artist:0CbJ7vhSBVagdeLhNcf9v1"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Captured Tracks",
+      "type": "C"
+    },
+    {
+      "text": "2018 Captured Tracks",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "817949016784"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NiFRjtKzHtLTX2yOGZ5Xm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1NiFRjtKzHtLTX2yOGZ5Xm",
+  "id": "1NiFRjtKzHtLTX2yOGZ5Xm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273937251693c206be53e0ceccf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02937251693c206be53e0ceccf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851937251693c206be53e0ceccf",
+      "width": 64
+    }
+  ],
+  "label": "Captured Tracks",
+  "name": "Echo Park",
+  "popularity": 0,
+  "release_date": "2018-10-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1NiFRjtKzHtLTX2yOGZ5Xm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1"
+            },
+            "href": "https://api.spotify.com/v1/artists/0CbJ7vhSBVagdeLhNcf9v1",
+            "id": "0CbJ7vhSBVagdeLhNcf9v1",
+            "name": "Reptaliens",
+            "type": "artist",
+            "uri": "spotify:artist:0CbJ7vhSBVagdeLhNcf9v1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 195194,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vEIzJE4xGmfmufxa5QVGr",
+        "id": "3vEIzJE4xGmfmufxa5QVGr",
+        "is_local": false,
+        "name": "Echo Park",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3vEIzJE4xGmfmufxa5QVGr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1NiFRjtKzHtLTX2yOGZ5Xm"
+}

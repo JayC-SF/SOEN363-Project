@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+      },
+      "href": "https://api.spotify.com/v1/artists/6YCM9JwkqdEFQSzztmh4Kb",
+      "id": "6YCM9JwkqdEFQSzztmh4Kb",
+      "name": "Navos",
+      "type": "artist",
+      "uri": "spotify:artist:6YCM9JwkqdEFQSzztmh4Kb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 2335592 Records DK",
+      "type": "C"
+    },
+    {
+      "text": "2020 2335592 Records DK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195757883003"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4mlGGX4nWnncL59c8QoY4Q"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4mlGGX4nWnncL59c8QoY4Q",
+  "id": "4mlGGX4nWnncL59c8QoY4Q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef07a220be519983b5b4273b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef07a220be519983b5b4273b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef07a220be519983b5b4273b",
+      "width": 64
+    }
+  ],
+  "label": "2335592 Records DK",
+  "name": "Believe Me",
+  "popularity": 0,
+  "release_date": "2020-11-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4mlGGX4nWnncL59c8QoY4Q/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+            },
+            "href": "https://api.spotify.com/v1/artists/6YCM9JwkqdEFQSzztmh4Kb",
+            "id": "6YCM9JwkqdEFQSzztmh4Kb",
+            "name": "Navos",
+            "type": "artist",
+            "uri": "spotify:artist:6YCM9JwkqdEFQSzztmh4Kb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 188160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kZl72xpSg8bVdE2XNYz7T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kZl72xpSg8bVdE2XNYz7T",
+        "id": "3kZl72xpSg8bVdE2XNYz7T",
+        "is_local": false,
+        "name": "Believe Me",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3kZl72xpSg8bVdE2XNYz7T"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4mlGGX4nWnncL59c8QoY4Q"
+}

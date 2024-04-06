@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+      "id": "2wOqMjp9TyABvtHdOSOTUS",
+      "name": "Ludwig van Beethoven",
+      "type": "artist",
+      "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YbXD1KavOmag8jE2Jesvn"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YbXD1KavOmag8jE2Jesvn",
+      "id": "2YbXD1KavOmag8jE2Jesvn",
+      "name": "Beethoven Orchestra London",
+      "type": "artist",
+      "uri": "spotify:artist:2YbXD1KavOmag8jE2Jesvn"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Dharma Records",
+      "type": "C"
+    },
+    {
+      "text": "2012 Dharma Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0741360794139"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2WMuXNCDWEWM29jTXXt6KD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2WMuXNCDWEWM29jTXXt6KD",
+  "id": "2WMuXNCDWEWM29jTXXt6KD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c3a29eed700b3fcc692a1e62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c3a29eed700b3fcc692a1e62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c3a29eed700b3fcc692a1e62",
+      "width": 64
+    }
+  ],
+  "label": "Dharma Records",
+  "name": "F\u00fcr Elise",
+  "popularity": 0,
+  "release_date": "2012-05-19",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2WMuXNCDWEWM29jTXXt6KD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+            "id": "2wOqMjp9TyABvtHdOSOTUS",
+            "name": "Ludwig van Beethoven",
+            "type": "artist",
+            "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YbXD1KavOmag8jE2Jesvn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YbXD1KavOmag8jE2Jesvn",
+            "id": "2YbXD1KavOmag8jE2Jesvn",
+            "name": "Beethoven Orchestra London",
+            "type": "artist",
+            "uri": "spotify:artist:2YbXD1KavOmag8jE2Jesvn"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165395,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1boA8zmowWEOWM6F8lPPTt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1boA8zmowWEOWM6F8lPPTt",
+        "id": "1boA8zmowWEOWM6F8lPPTt",
+        "is_local": false,
+        "name": "F\u00fcr Elise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1boA8zmowWEOWM6F8lPPTt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2WMuXNCDWEWM29jTXXt6KD"
+}

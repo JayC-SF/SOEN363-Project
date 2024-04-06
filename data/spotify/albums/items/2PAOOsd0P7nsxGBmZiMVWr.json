@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id": "0SCbttzoZTnLFebDYmAWCm",
+      "name": "Glee Cast",
+      "type": "artist",
+      "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2011 Twentieth Century Fox Film Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886443288775"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2PAOOsd0P7nsxGBmZiMVWr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2PAOOsd0P7nsxGBmZiMVWr",
+  "id": "2PAOOsd0P7nsxGBmZiMVWr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d9e8294c2903fe29941f2132",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d9e8294c2903fe29941f2132",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d9e8294c2903fe29941f2132",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Hit Me With Your Best Shot / One Way Or Another (Glee Cast Version)",
+  "popularity": 0,
+  "release_date": "2011-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2PAOOsd0P7nsxGBmZiMVWr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 151946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xO86b70NTyLm6C9nKA9IH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6xO86b70NTyLm6C9nKA9IH",
+        "id": "6xO86b70NTyLm6C9nKA9IH",
+        "is_local": false,
+        "name": "Hit Me With Your Best Shot / One Way Or Another (Glee Cast Version)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6xO86b70NTyLm6C9nKA9IH"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2PAOOsd0P7nsxGBmZiMVWr"
+}

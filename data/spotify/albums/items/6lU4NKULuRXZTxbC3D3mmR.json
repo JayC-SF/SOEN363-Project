@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+      },
+      "href": "https://api.spotify.com/v1/artists/340PS4ZcZ4UCBgyrXzEjcp",
+      "id": "340PS4ZcZ4UCBgyrXzEjcp",
+      "name": "Max McNown",
+      "type": "artist",
+      "uri": "spotify:artist:340PS4ZcZ4UCBgyrXzEjcp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2023 Fugitive Recordings",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Fugitive Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "851636005392"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lU4NKULuRXZTxbC3D3mmR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6lU4NKULuRXZTxbC3D3mmR",
+  "id": "6lU4NKULuRXZTxbC3D3mmR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a426b57524df898e736ea930",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a426b57524df898e736ea930",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a426b57524df898e736ea930",
+      "width": 64
+    }
+  ],
+  "label": "Fugitive Recordings",
+  "name": "You and the Pines",
+  "popularity": 0,
+  "release_date": "2023-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6lU4NKULuRXZTxbC3D3mmR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+            },
+            "href": "https://api.spotify.com/v1/artists/340PS4ZcZ4UCBgyrXzEjcp",
+            "id": "340PS4ZcZ4UCBgyrXzEjcp",
+            "name": "Max McNown",
+            "type": "artist",
+            "uri": "spotify:artist:340PS4ZcZ4UCBgyrXzEjcp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 176306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cy1Xyz2sfDfHEIEKwlub7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0cy1Xyz2sfDfHEIEKwlub7",
+        "id": "0cy1Xyz2sfDfHEIEKwlub7",
+        "is_local": false,
+        "name": "You and the Pines",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0cy1Xyz2sfDfHEIEKwlub7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6lU4NKULuRXZTxbC3D3mmR"
+}

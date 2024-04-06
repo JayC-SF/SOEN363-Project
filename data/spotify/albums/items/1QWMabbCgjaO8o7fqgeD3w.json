@@ -1,0 +1,123 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+      },
+      "href": "https://api.spotify.com/v1/artists/0eAgLEZjRTeUe2UqQhH9YC",
+      "id": "0eAgLEZjRTeUe2UqQhH9YC",
+      "name": "pho",
+      "type": "artist",
+      "uri": "spotify:artist:0eAgLEZjRTeUe2UqQhH9YC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4oluNv7Wba9L5uGIIrXWKG",
+      "id": "4oluNv7Wba9L5uGIIrXWKG",
+      "name": "Mr. Doss",
+      "type": "artist",
+      "uri": "spotify:artist:4oluNv7Wba9L5uGIIrXWKG"
+    }
+  ],
+  "available_markets": [
+    "IN"
+  ],
+  "copyrights": [
+    {
+      "text": "\u2117 2023 Times Music",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Times Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8902633350984"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1QWMabbCgjaO8o7fqgeD3w",
+  "id": "1QWMabbCgjaO8o7fqgeD3w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734190b7a2a7ad26bdc1a8ca30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024190b7a2a7ad26bdc1a8ca30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514190b7a2a7ad26bdc1a8ca30",
+      "width": 64
+    }
+  ],
+  "label": "Times Music",
+  "name": "Kabhi Kabhi",
+  "popularity": 43,
+  "release_date": "2024-01-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1QWMabbCgjaO8o7fqgeD3w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0eAgLEZjRTeUe2UqQhH9YC",
+            "id": "0eAgLEZjRTeUe2UqQhH9YC",
+            "name": "pho",
+            "type": "artist",
+            "uri": "spotify:artist:0eAgLEZjRTeUe2UqQhH9YC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4oluNv7Wba9L5uGIIrXWKG",
+            "id": "4oluNv7Wba9L5uGIIrXWKG",
+            "name": "Mr. Doss",
+            "type": "artist",
+            "uri": "spotify:artist:4oluNv7Wba9L5uGIIrXWKG"
+          }
+        ],
+        "available_markets": [
+          "IN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1t3ypW6DYHtxdvR5lPWn8f",
+        "id": "1t3ypW6DYHtxdvR5lPWn8f",
+        "is_local": false,
+        "name": "Kabhi Kabhi",
+        "preview_url": "https://p.scdn.co/mp3-preview/a52531635517da0a271304c87632603a70df63eb?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1t3ypW6DYHtxdvR5lPWn8f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1QWMabbCgjaO8o7fqgeD3w"
+}

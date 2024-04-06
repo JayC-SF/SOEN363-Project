@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44"
+      },
+      "href": "https://api.spotify.com/v1/artists/2DpITTpb4v5SQtB3iA4A44",
+      "id": "2DpITTpb4v5SQtB3iA4A44",
+      "name": "Rishi Rich",
+      "type": "artist",
+      "uri": "spotify:artist:2DpITTpb4v5SQtB3iA4A44"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2017 Saregama India Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2017 Saregama India Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192562036990"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/11GaPs95YnqNvXEwHngqGK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/11GaPs95YnqNvXEwHngqGK",
+  "id": "11GaPs95YnqNvXEwHngqGK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b177e2643f2965960ec8dde2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b177e2643f2965960ec8dde2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b177e2643f2965960ec8dde2",
+      "width": 64
+    }
+  ],
+  "label": "Saregama",
+  "name": "Nai Jeena Nai Jeena - Single",
+  "popularity": 0,
+  "release_date": "2003-04-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/11GaPs95YnqNvXEwHngqGK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DpITTpb4v5SQtB3iA4A44",
+            "id": "2DpITTpb4v5SQtB3iA4A44",
+            "name": "Rishi Rich",
+            "type": "artist",
+            "uri": "spotify:artist:2DpITTpb4v5SQtB3iA4A44"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4o4ruXs3uoxZd8ra0ss7DO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4o4ruXs3uoxZd8ra0ss7DO",
+        "id": "4o4ruXs3uoxZd8ra0ss7DO",
+        "is_local": false,
+        "name": "Nai Jeena Nai Jeena",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4o4ruXs3uoxZd8ra0ss7DO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:11GaPs95YnqNvXEwHngqGK"
+}

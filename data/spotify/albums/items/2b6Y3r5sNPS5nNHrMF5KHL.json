@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1VTqcwo2gWop75nRqyCGJw",
+      "id": "1VTqcwo2gWop75nRqyCGJw",
+      "name": "Sam Airey",
+      "type": "artist",
+      "uri": "spotify:artist:1VTqcwo2gWop75nRqyCGJw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 Hide & Seek Records",
+      "type": "C"
+    },
+    {
+      "text": "2014 Hide & Seek Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054227028328"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2b6Y3r5sNPS5nNHrMF5KHL",
+  "id": "2b6Y3r5sNPS5nNHrMF5KHL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343d36f054603e74f2fb1e5cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243d36f054603e74f2fb1e5cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143d36f054603e74f2fb1e5cb",
+      "width": 64
+    }
+  ],
+  "label": "Hide & Seek Records",
+  "name": "Station Approach",
+  "popularity": 0,
+  "release_date": "2014-06-23",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2b6Y3r5sNPS5nNHrMF5KHL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VTqcwo2gWop75nRqyCGJw",
+            "id": "1VTqcwo2gWop75nRqyCGJw",
+            "name": "Sam Airey",
+            "type": "artist",
+            "uri": "spotify:artist:1VTqcwo2gWop75nRqyCGJw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 286933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KG8YYtKazCOOpB63WNhoD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2KG8YYtKazCOOpB63WNhoD",
+        "id": "2KG8YYtKazCOOpB63WNhoD",
+        "is_local": false,
+        "name": "Station Approach",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2KG8YYtKazCOOpB63WNhoD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1VTqcwo2gWop75nRqyCGJw",
+            "id": "1VTqcwo2gWop75nRqyCGJw",
+            "name": "Sam Airey",
+            "type": "artist",
+            "uri": "spotify:artist:1VTqcwo2gWop75nRqyCGJw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 321057,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7sqMo5ZnWfr1IdGoiwzm9Y",
+        "id": "7sqMo5ZnWfr1IdGoiwzm9Y",
+        "is_local": false,
+        "name": "Stars",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7sqMo5ZnWfr1IdGoiwzm9Y"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2b6Y3r5sNPS5nNHrMF5KHL"
+}

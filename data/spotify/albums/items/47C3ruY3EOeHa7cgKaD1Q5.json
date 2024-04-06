@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7uLE8EGJa7mY8HPxBEmayq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7uLE8EGJa7mY8HPxBEmayq",
+      "id": "7uLE8EGJa7mY8HPxBEmayq",
+      "name": "Bruce",
+      "type": "artist",
+      "uri": "spotify:artist:7uLE8EGJa7mY8HPxBEmayq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Wayne Enterprises\u2122",
+      "type": "C"
+    },
+    {
+      "text": "2022 Wayne Enterprises\u2122",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197272160461"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/47C3ruY3EOeHa7cgKaD1Q5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/47C3ruY3EOeHa7cgKaD1Q5",
+  "id": "47C3ruY3EOeHa7cgKaD1Q5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e01eae0766f66719e2a9a81",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e01eae0766f66719e2a9a81",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e01eae0766f66719e2a9a81",
+      "width": 64
+    }
+  ],
+  "label": "Wayne Enterprises\u2122",
+  "name": "GHOSTS",
+  "popularity": 0,
+  "release_date": "2000-06-07",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/47C3ruY3EOeHa7cgKaD1Q5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7uLE8EGJa7mY8HPxBEmayq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7uLE8EGJa7mY8HPxBEmayq",
+            "id": "7uLE8EGJa7mY8HPxBEmayq",
+            "name": "Bruce",
+            "type": "artist",
+            "uri": "spotify:artist:7uLE8EGJa7mY8HPxBEmayq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 146634,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UYgkSk8rFgs91BOqgac42"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UYgkSk8rFgs91BOqgac42",
+        "id": "5UYgkSk8rFgs91BOqgac42",
+        "is_local": false,
+        "name": "Ghosts",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UYgkSk8rFgs91BOqgac42"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7uLE8EGJa7mY8HPxBEmayq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7uLE8EGJa7mY8HPxBEmayq",
+            "id": "7uLE8EGJa7mY8HPxBEmayq",
+            "name": "Bruce",
+            "type": "artist",
+            "uri": "spotify:artist:7uLE8EGJa7mY8HPxBEmayq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 288531,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qjEkjKfNvgX8Ud0TbkRcn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qjEkjKfNvgX8Ud0TbkRcn",
+        "id": "0qjEkjKfNvgX8Ud0TbkRcn",
+        "is_local": false,
+        "name": "In The Way",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0qjEkjKfNvgX8Ud0TbkRcn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:47C3ruY3EOeHa7cgKaD1Q5"
+}

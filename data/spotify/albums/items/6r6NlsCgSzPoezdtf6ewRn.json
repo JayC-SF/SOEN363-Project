@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+      },
+      "href": "https://api.spotify.com/v1/artists/1AOsohWDEAkuaJElJnHfkx",
+      "id": "1AOsohWDEAkuaJElJnHfkx",
+      "name": "DavZ",
+      "type": "artist",
+      "uri": "spotify:artist:1AOsohWDEAkuaJElJnHfkx"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 DavZ",
+      "type": "C"
+    },
+    {
+      "text": "2021 DavZ",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196623921294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6r6NlsCgSzPoezdtf6ewRn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6r6NlsCgSzPoezdtf6ewRn",
+  "id": "6r6NlsCgSzPoezdtf6ewRn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273207f2843d1021f22c3155f39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02207f2843d1021f22c3155f39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851207f2843d1021f22c3155f39",
+      "width": 64
+    }
+  ],
+  "label": "DavZ",
+  "name": "Mindless",
+  "popularity": 0,
+  "release_date": "2021-12-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6r6NlsCgSzPoezdtf6ewRn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1AOsohWDEAkuaJElJnHfkx",
+            "id": "1AOsohWDEAkuaJElJnHfkx",
+            "name": "DavZ",
+            "type": "artist",
+            "uri": "spotify:artist:1AOsohWDEAkuaJElJnHfkx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 342774,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ekoq0CgZr9UIUNCxwZq2x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Ekoq0CgZr9UIUNCxwZq2x",
+        "id": "3Ekoq0CgZr9UIUNCxwZq2x",
+        "is_local": false,
+        "name": "Mindless",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Ekoq0CgZr9UIUNCxwZq2x"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6r6NlsCgSzPoezdtf6ewRn"
+}

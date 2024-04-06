@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+      },
+      "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+      "id": "3WGpXCj9YhhfX11TToZcXP",
+      "name": "Troye Sivan",
+      "type": "artist",
+      "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2016 Universal Music Australia Pty Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2016 Universal Music Australia Pty Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602557111897"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uc62oRP4Mah2mUMfRseHC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3uc62oRP4Mah2mUMfRseHC",
+  "id": "3uc62oRP4Mah2mUMfRseHC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1c37fb476178d99650dbb28",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1c37fb476178d99650dbb28",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1c37fb476178d99650dbb28",
+      "width": 64
+    }
+  ],
+  "label": "EMI",
+  "name": "WILD (feat. Alessia Cara)",
+  "popularity": 0,
+  "release_date": "2016-06-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3uc62oRP4Mah2mUMfRseHC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
+            "id": "3WGpXCj9YhhfX11TToZcXP",
+            "name": "Troye Sivan",
+            "type": "artist",
+            "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR",
+            "id": "2wUjUUtkb5lvLKcGKsKqsR",
+            "name": "Alessia Cara",
+            "type": "artist",
+            "uri": "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219491,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JNUJnLRj5vkfnV5CcVnLu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6JNUJnLRj5vkfnV5CcVnLu",
+        "id": "6JNUJnLRj5vkfnV5CcVnLu",
+        "is_local": false,
+        "name": "WILD",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6JNUJnLRj5vkfnV5CcVnLu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3uc62oRP4Mah2mUMfRseHC"
+}

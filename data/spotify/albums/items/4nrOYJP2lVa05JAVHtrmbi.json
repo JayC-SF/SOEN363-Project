@@ -1,0 +1,90 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BfteHf26B6NSsNmF1o0Z0"
+      },
+      "href": "https://api.spotify.com/v1/artists/1BfteHf26B6NSsNmF1o0Z0",
+      "id": "1BfteHf26B6NSsNmF1o0Z0",
+      "name": "Majk, Gjiko",
+      "type": "artist",
+      "uri": "spotify:artist:1BfteHf26B6NSsNmF1o0Z0"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [],
+  "external_ids": {
+    "upc": "194460811112"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4nrOYJP2lVa05JAVHtrmbi"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4nrOYJP2lVa05JAVHtrmbi",
+  "id": "4nrOYJP2lVa05JAVHtrmbi",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e6709b3f5276e147e9a4e16",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e6709b3f5276e147e9a4e16",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e6709b3f5276e147e9a4e16",
+      "width": 64
+    }
+  ],
+  "label": "Acromax Media",
+  "name": "Kce Kce",
+  "popularity": 0,
+  "release_date": "2023-10-05",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4nrOYJP2lVa05JAVHtrmbi/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BfteHf26B6NSsNmF1o0Z0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1BfteHf26B6NSsNmF1o0Z0",
+            "id": "1BfteHf26B6NSsNmF1o0Z0",
+            "name": "Majk, Gjiko",
+            "type": "artist",
+            "uri": "spotify:artist:1BfteHf26B6NSsNmF1o0Z0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172638,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zbuyLlYiYyq7vIHyXdgKI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zbuyLlYiYyq7vIHyXdgKI",
+        "id": "7zbuyLlYiYyq7vIHyXdgKI",
+        "is_local": false,
+        "name": "Kce Kce",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7zbuyLlYiYyq7vIHyXdgKI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4nrOYJP2lVa05JAVHtrmbi"
+}

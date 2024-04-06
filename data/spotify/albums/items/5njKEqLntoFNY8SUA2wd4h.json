@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Kvyn7F1okGNpIYBPt9mZq",
+      "id": "1Kvyn7F1okGNpIYBPt9mZq",
+      "name": "BLESSED",
+      "type": "artist",
+      "uri": "spotify:artist:1Kvyn7F1okGNpIYBPt9mZq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 BLESSED",
+      "type": "C"
+    },
+    {
+      "text": "2018 BLESSED",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191998021716"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5njKEqLntoFNY8SUA2wd4h"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5njKEqLntoFNY8SUA2wd4h",
+  "id": "5njKEqLntoFNY8SUA2wd4h",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273797d01ace6b33950fd5d9203",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02797d01ace6b33950fd5d9203",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851797d01ace6b33950fd5d9203",
+      "width": 64
+    }
+  ],
+  "label": "BLESSED",
+  "name": "Superfly",
+  "popularity": 1,
+  "release_date": "2018-03-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5njKEqLntoFNY8SUA2wd4h/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Kvyn7F1okGNpIYBPt9mZq",
+            "id": "1Kvyn7F1okGNpIYBPt9mZq",
+            "name": "BLESSED",
+            "type": "artist",
+            "uri": "spotify:artist:1Kvyn7F1okGNpIYBPt9mZq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 213638,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PruaeQTm3A34LMyekq6ij"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PruaeQTm3A34LMyekq6ij",
+        "id": "1PruaeQTm3A34LMyekq6ij",
+        "is_local": false,
+        "name": "Superfly",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1PruaeQTm3A34LMyekq6ij"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5njKEqLntoFNY8SUA2wd4h"
+}

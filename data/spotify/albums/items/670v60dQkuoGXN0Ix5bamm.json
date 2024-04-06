@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+      },
+      "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+      "id": "5iQNy7hQGe1suvNOQz19Jz",
+      "name": "AMBKOR",
+      "type": "artist",
+      "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 The Music Republic Records",
+      "type": "C"
+    },
+    {
+      "text": "2023 The Music Republic Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8445162859974"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/670v60dQkuoGXN0Ix5bamm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/670v60dQkuoGXN0Ix5bamm",
+  "id": "670v60dQkuoGXN0Ix5bamm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d3cdb3dd05d31c518dc74f04",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d3cdb3dd05d31c518dc74f04",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d3cdb3dd05d31c518dc74f04",
+      "width": 64
+    }
+  ],
+  "label": "The Music Republic Records",
+  "name": "De vuelta",
+  "popularity": 30,
+  "release_date": "2023-03-20",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/670v60dQkuoGXN0Ix5bamm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5iQNy7hQGe1suvNOQz19Jz",
+            "id": "5iQNy7hQGe1suvNOQz19Jz",
+            "name": "AMBKOR",
+            "type": "artist",
+            "uri": "spotify:artist:5iQNy7hQGe1suvNOQz19Jz"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 194754,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tNKV1fFvn7fy3mwUHzeTd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tNKV1fFvn7fy3mwUHzeTd",
+        "id": "6tNKV1fFvn7fy3mwUHzeTd",
+        "is_local": false,
+        "name": "De vuelta",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6tNKV1fFvn7fy3mwUHzeTd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:670v60dQkuoGXN0Ix5bamm"
+}

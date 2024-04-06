@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sdlToH5s9fhGrMRSTmFcZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sdlToH5s9fhGrMRSTmFcZ",
+      "id": "6sdlToH5s9fhGrMRSTmFcZ",
+      "name": "KayGreenz",
+      "type": "artist",
+      "uri": "spotify:artist:6sdlToH5s9fhGrMRSTmFcZ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 KayGreenz",
+      "type": "C"
+    },
+    {
+      "text": "2023 KayGreenz",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "725336938284"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0a3CtxNOBK1tcjZbQHETUo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0a3CtxNOBK1tcjZbQHETUo",
+  "id": "0a3CtxNOBK1tcjZbQHETUo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384f58639c46296334fe803a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284f58639c46296334fe803a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184f58639c46296334fe803a6",
+      "width": 64
+    }
+  ],
+  "label": "KayGreenz",
+  "name": "Demise",
+  "popularity": 0,
+  "release_date": "2023-02-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0a3CtxNOBK1tcjZbQHETUo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sdlToH5s9fhGrMRSTmFcZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sdlToH5s9fhGrMRSTmFcZ",
+            "id": "6sdlToH5s9fhGrMRSTmFcZ",
+            "name": "KayGreenz",
+            "type": "artist",
+            "uri": "spotify:artist:6sdlToH5s9fhGrMRSTmFcZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172248,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ea8ERa51RT1Mr4M9x9830"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Ea8ERa51RT1Mr4M9x9830",
+        "id": "0Ea8ERa51RT1Mr4M9x9830",
+        "is_local": false,
+        "name": "Demise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Ea8ERa51RT1Mr4M9x9830"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0a3CtxNOBK1tcjZbQHETUo"
+}

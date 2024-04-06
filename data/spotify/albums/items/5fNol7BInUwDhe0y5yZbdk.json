@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+      },
+      "href": "https://api.spotify.com/v1/artists/7iczgrgAFILjQVGzLsUzbG",
+      "id": "7iczgrgAFILjQVGzLsUzbG",
+      "name": "Danny Byrd",
+      "type": "artist",
+      "uri": "spotify:artist:7iczgrgAFILjQVGzLsUzbG"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2000 Hospital Records Limited",
+      "type": "C"
+    },
+    {
+      "text": "2000 Hospital Records Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5060208847642"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5fNol7BInUwDhe0y5yZbdk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5fNol7BInUwDhe0y5yZbdk",
+  "id": "5fNol7BInUwDhe0y5yZbdk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db30f028a22e11e4dfb8a957",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db30f028a22e11e4dfb8a957",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db30f028a22e11e4dfb8a957",
+      "width": 64
+    }
+  ],
+  "label": "Hospital Records",
+  "name": "Do It Again",
+  "popularity": 0,
+  "release_date": "2000-09-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5fNol7BInUwDhe0y5yZbdk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iczgrgAFILjQVGzLsUzbG",
+            "id": "7iczgrgAFILjQVGzLsUzbG",
+            "name": "Danny Byrd",
+            "type": "artist",
+            "uri": "spotify:artist:7iczgrgAFILjQVGzLsUzbG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 403173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fwdVXPlYuWCreGU0LGLFP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fwdVXPlYuWCreGU0LGLFP",
+        "id": "1fwdVXPlYuWCreGU0LGLFP",
+        "is_local": false,
+        "name": "Do It Again",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1fwdVXPlYuWCreGU0LGLFP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iczgrgAFILjQVGzLsUzbG",
+            "id": "7iczgrgAFILjQVGzLsUzbG",
+            "name": "Danny Byrd",
+            "type": "artist",
+            "uri": "spotify:artist:7iczgrgAFILjQVGzLsUzbG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 401960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VHIDASaVrqsZKR3L1IuZv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VHIDASaVrqsZKR3L1IuZv",
+        "id": "3VHIDASaVrqsZKR3L1IuZv",
+        "is_local": false,
+        "name": "Dub It Again",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3VHIDASaVrqsZKR3L1IuZv"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:5fNol7BInUwDhe0y5yZbdk"
+}

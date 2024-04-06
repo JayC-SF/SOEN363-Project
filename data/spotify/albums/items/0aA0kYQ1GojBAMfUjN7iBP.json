@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gPDTVfW1a5XTcCNnQhnxs"
+      },
+      "href": "https://api.spotify.com/v1/artists/2gPDTVfW1a5XTcCNnQhnxs",
+      "id": "2gPDTVfW1a5XTcCNnQhnxs",
+      "name": "Double Dutch",
+      "type": "artist",
+      "uri": "spotify:artist:2gPDTVfW1a5XTcCNnQhnxs"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2003 Next Generation",
+      "type": "C"
+    },
+    {
+      "text": "2003 Next Generation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653005746"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0aA0kYQ1GojBAMfUjN7iBP"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0aA0kYQ1GojBAMfUjN7iBP",
+  "id": "0aA0kYQ1GojBAMfUjN7iBP",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358dd984a965f2a129a8193f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258dd984a965f2a129a8193f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158dd984a965f2a129a8193f2",
+      "width": 64
+    }
+  ],
+  "label": "Blatant Beats",
+  "name": "Here Comes The Noise / Droptop",
+  "popularity": 0,
+  "release_date": "2003-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0aA0kYQ1GojBAMfUjN7iBP/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gPDTVfW1a5XTcCNnQhnxs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gPDTVfW1a5XTcCNnQhnxs",
+            "id": "2gPDTVfW1a5XTcCNnQhnxs",
+            "name": "Double Dutch",
+            "type": "artist",
+            "uri": "spotify:artist:2gPDTVfW1a5XTcCNnQhnxs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 442000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7j7WOvy16T2IbIPkS8NEUV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7j7WOvy16T2IbIPkS8NEUV",
+        "id": "7j7WOvy16T2IbIPkS8NEUV",
+        "is_local": false,
+        "name": "Here Comes The Noise",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7j7WOvy16T2IbIPkS8NEUV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gPDTVfW1a5XTcCNnQhnxs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gPDTVfW1a5XTcCNnQhnxs",
+            "id": "2gPDTVfW1a5XTcCNnQhnxs",
+            "name": "Double Dutch",
+            "type": "artist",
+            "uri": "spotify:artist:2gPDTVfW1a5XTcCNnQhnxs"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 432400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oUJMBZRE1du2DUyQq0G9s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oUJMBZRE1du2DUyQq0G9s",
+        "id": "1oUJMBZRE1du2DUyQq0G9s",
+        "is_local": false,
+        "name": "Droptop",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1oUJMBZRE1du2DUyQq0G9s"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0aA0kYQ1GojBAMfUjN7iBP"
+}

@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GypDshVVcsZEHRM2L8W8C"
+      },
+      "href": "https://api.spotify.com/v1/artists/5GypDshVVcsZEHRM2L8W8C",
+      "id": "5GypDshVVcsZEHRM2L8W8C",
+      "name": "Smokingskul",
+      "type": "artist",
+      "uri": "spotify:artist:5GypDshVVcsZEHRM2L8W8C"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 YGE",
+      "type": "C"
+    },
+    {
+      "text": "2021 YGE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195940016447"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5tKpfbtu6yjw96ccB5ULLU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5tKpfbtu6yjw96ccB5ULLU",
+  "id": "5tKpfbtu6yjw96ccB5ULLU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aee66dbf69f62d78ae7e83e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aee66dbf69f62d78ae7e83e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aee66dbf69f62d78ae7e83e4",
+      "width": 64
+    }
+  ],
+  "label": "YGE",
+  "name": "dior",
+  "popularity": 0,
+  "release_date": "2021-02-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5tKpfbtu6yjw96ccB5ULLU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GypDshVVcsZEHRM2L8W8C"
+            },
+            "href": "https://api.spotify.com/v1/artists/5GypDshVVcsZEHRM2L8W8C",
+            "id": "5GypDshVVcsZEHRM2L8W8C",
+            "name": "Smokingskul",
+            "type": "artist",
+            "uri": "spotify:artist:5GypDshVVcsZEHRM2L8W8C"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 94711,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1aSLdD24JnAKJAx6bUeEgN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1aSLdD24JnAKJAx6bUeEgN",
+        "id": "1aSLdD24JnAKJAx6bUeEgN",
+        "is_local": false,
+        "name": "dior",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1aSLdD24JnAKJAx6bUeEgN"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5tKpfbtu6yjw96ccB5ULLU"
+}

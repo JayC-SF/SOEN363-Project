@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+      },
+      "href": "https://api.spotify.com/v1/artists/2c2wuveILva0R8OYac7lwc",
+      "id": "2c2wuveILva0R8OYac7lwc",
+      "name": "Pisk",
+      "type": "artist",
+      "uri": "spotify:artist:2c2wuveILva0R8OYac7lwc"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "Freshly Squeezed",
+      "type": "C"
+    },
+    {
+      "text": "Freshly Squeezed",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614975828803"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/362P93ppWVG1rcis6elz45"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/362P93ppWVG1rcis6elz45",
+  "id": "362P93ppWVG1rcis6elz45",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf1023bfbc19f0aa45a3a0bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf1023bfbc19f0aa45a3a0bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf1023bfbc19f0aa45a3a0bb",
+      "width": 64
+    }
+  ],
+  "label": "Freshly Squeezed Music",
+  "name": "Minnie The Moocher",
+  "popularity": 0,
+  "release_date": "2017-06-16",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/362P93ppWVG1rcis6elz45/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2c2wuveILva0R8OYac7lwc",
+            "id": "2c2wuveILva0R8OYac7lwc",
+            "name": "Pisk",
+            "type": "artist",
+            "uri": "spotify:artist:2c2wuveILva0R8OYac7lwc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221058,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jiYVW6Lg1yH1SNA68M8zR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jiYVW6Lg1yH1SNA68M8zR",
+        "id": "2jiYVW6Lg1yH1SNA68M8zR",
+        "is_local": false,
+        "name": "Minnie The Moocher",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2jiYVW6Lg1yH1SNA68M8zR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2c2wuveILva0R8OYac7lwc",
+            "id": "2c2wuveILva0R8OYac7lwc",
+            "name": "Pisk",
+            "type": "artist",
+            "uri": "spotify:artist:2c2wuveILva0R8OYac7lwc"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179799,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4S45rqSbzl69uHV2LZyjb2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4S45rqSbzl69uHV2LZyjb2",
+        "id": "4S45rqSbzl69uHV2LZyjb2",
+        "is_local": false,
+        "name": "Jungle Swing",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4S45rqSbzl69uHV2LZyjb2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:362P93ppWVG1rcis6elz45"
+}

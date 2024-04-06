@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w"
+      },
+      "href": "https://api.spotify.com/v1/artists/57kVlVXJYheaFNXA91qP4w",
+      "id": "57kVlVXJYheaFNXA91qP4w",
+      "name": "Prznt",
+      "type": "artist",
+      "uri": "spotify:artist:57kVlVXJYheaFNXA91qP4w"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 1k",
+      "type": "C"
+    },
+    {
+      "text": "2018 1k",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "840090960132"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4HPH5p0gEUyX2FY1EhElAU"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4HPH5p0gEUyX2FY1EhElAU",
+  "id": "4HPH5p0gEUyX2FY1EhElAU",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e29df56b89ff0d609280faf8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e29df56b89ff0d609280faf8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e29df56b89ff0d609280faf8",
+      "width": 64
+    }
+  ],
+  "label": "1k",
+  "name": "Laudy Daudy",
+  "popularity": 0,
+  "release_date": "2018-07-30",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4HPH5p0gEUyX2FY1EhElAU/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w"
+            },
+            "href": "https://api.spotify.com/v1/artists/57kVlVXJYheaFNXA91qP4w",
+            "id": "57kVlVXJYheaFNXA91qP4w",
+            "name": "Prznt",
+            "type": "artist",
+            "uri": "spotify:artist:57kVlVXJYheaFNXA91qP4w"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 260495,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YPdqu3RMZnFwzcjerbXsA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YPdqu3RMZnFwzcjerbXsA",
+        "id": "5YPdqu3RMZnFwzcjerbXsA",
+        "is_local": false,
+        "name": "Laudy Daudy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5YPdqu3RMZnFwzcjerbXsA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4HPH5p0gEUyX2FY1EhElAU"
+}

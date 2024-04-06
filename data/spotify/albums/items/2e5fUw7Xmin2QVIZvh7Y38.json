@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3555XYL1w4K1WGVjbtiVz7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3555XYL1w4K1WGVjbtiVz7",
+      "id": "3555XYL1w4K1WGVjbtiVz7",
+      "name": "Future City",
+      "type": "artist",
+      "uri": "spotify:artist:3555XYL1w4K1WGVjbtiVz7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "1995 Hitpool (104pro Media)",
+      "type": "C"
+    },
+    {
+      "text": "1995 Hitpool (104pro Media)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614594251648"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2e5fUw7Xmin2QVIZvh7Y38"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2e5fUw7Xmin2QVIZvh7Y38",
+  "id": "2e5fUw7Xmin2QVIZvh7Y38",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e5cd39ce895ab7f962a6db3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e5cd39ce895ab7f962a6db3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e5cd39ce895ab7f962a6db3",
+      "width": 64
+    }
+  ],
+  "label": "Hitpool (104pro Media)",
+  "name": "Only Love",
+  "popularity": 0,
+  "release_date": "1995",
+  "release_date_precision": "year",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2e5fUw7Xmin2QVIZvh7Y38/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3555XYL1w4K1WGVjbtiVz7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3555XYL1w4K1WGVjbtiVz7",
+            "id": "3555XYL1w4K1WGVjbtiVz7",
+            "name": "Future City",
+            "type": "artist",
+            "uri": "spotify:artist:3555XYL1w4K1WGVjbtiVz7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 425528,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FCYwROYDqiI8KUxxg72UT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FCYwROYDqiI8KUxxg72UT",
+        "id": "1FCYwROYDqiI8KUxxg72UT",
+        "is_local": false,
+        "name": "Only Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1FCYwROYDqiI8KUxxg72UT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2e5fUw7Xmin2QVIZvh7Y38"
+}

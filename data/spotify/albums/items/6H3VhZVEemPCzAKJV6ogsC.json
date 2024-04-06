@@ -1,0 +1,95 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZD4VhNTUEnEBTlWQPeyzq",
+      "id": "5ZD4VhNTUEnEBTlWQPeyzq",
+      "name": "M1llionz",
+      "type": "artist",
+      "uri": "spotify:artist:5ZD4VhNTUEnEBTlWQPeyzq"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 M1llionz under exclusive licence to Promised Land Recordings",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448612360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6H3VhZVEemPCzAKJV6ogsC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6H3VhZVEemPCzAKJV6ogsC",
+  "id": "6H3VhZVEemPCzAKJV6ogsC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346f8f87d43a146c3614a7832",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246f8f87d43a146c3614a7832",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146f8f87d43a146c3614a7832",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "B1llionz",
+  "popularity": 18,
+  "release_date": "2020-07-09",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6H3VhZVEemPCzAKJV6ogsC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZD4VhNTUEnEBTlWQPeyzq",
+            "id": "5ZD4VhNTUEnEBTlWQPeyzq",
+            "name": "M1llionz",
+            "type": "artist",
+            "uri": "spotify:artist:5ZD4VhNTUEnEBTlWQPeyzq"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219297,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nUwolJufgmbOqAGjhE16b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nUwolJufgmbOqAGjhE16b",
+        "id": "0nUwolJufgmbOqAGjhE16b",
+        "is_local": false,
+        "name": "B1llionz",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0nUwolJufgmbOqAGjhE16b"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6H3VhZVEemPCzAKJV6ogsC"
+}

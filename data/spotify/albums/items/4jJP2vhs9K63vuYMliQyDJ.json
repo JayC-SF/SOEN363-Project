@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+      },
+      "href": "https://api.spotify.com/v1/artists/1w7GLktHE8w0aEhhaZ0QKB",
+      "id": "1w7GLktHE8w0aEhhaZ0QKB",
+      "name": "Shakewell",
+      "type": "artist",
+      "uri": "spotify:artist:1w7GLktHE8w0aEhhaZ0QKB"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Buffet Boys Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Buffet Boys Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718078296"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4jJP2vhs9K63vuYMliQyDJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4jJP2vhs9K63vuYMliQyDJ",
+  "id": "4jJP2vhs9K63vuYMliQyDJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5a6000da07f466c62432da3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5a6000da07f466c62432da3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5a6000da07f466c62432da3",
+      "width": 64
+    }
+  ],
+  "label": "Buffet Boys Records",
+  "name": "Sleeping Bag",
+  "popularity": 0,
+  "release_date": "2016-08-17",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4jJP2vhs9K63vuYMliQyDJ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+            },
+            "href": "https://api.spotify.com/v1/artists/1w7GLktHE8w0aEhhaZ0QKB",
+            "id": "1w7GLktHE8w0aEhhaZ0QKB",
+            "name": "Shakewell",
+            "type": "artist",
+            "uri": "spotify:artist:1w7GLktHE8w0aEhhaZ0QKB"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 123000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2os38o5E7NoO4B2cx42h5V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2os38o5E7NoO4B2cx42h5V",
+        "id": "2os38o5E7NoO4B2cx42h5V",
+        "is_local": false,
+        "name": "Sleeping Bag",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2os38o5E7NoO4B2cx42h5V"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:4jJP2vhs9K63vuYMliQyDJ"
+}

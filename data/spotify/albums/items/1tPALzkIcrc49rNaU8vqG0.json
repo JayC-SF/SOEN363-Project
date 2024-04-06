@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/569amGgQuXREunUmCxxdV5"
+      },
+      "href": "https://api.spotify.com/v1/artists/569amGgQuXREunUmCxxdV5",
+      "id": "569amGgQuXREunUmCxxdV5",
+      "name": "Nahuu Remix",
+      "type": "artist",
+      "uri": "spotify:artist:569amGgQuXREunUmCxxdV5"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2019 AS Records",
+      "type": "C"
+    },
+    {
+      "text": "2019 AS Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859732951308"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1tPALzkIcrc49rNaU8vqG0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1tPALzkIcrc49rNaU8vqG0",
+  "id": "1tPALzkIcrc49rNaU8vqG0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273717882814279e6c987300cac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02717882814279e6c987300cac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851717882814279e6c987300cac",
+      "width": 64
+    }
+  ],
+  "label": "AS Records",
+  "name": "Ella Es Callaita",
+  "popularity": 0,
+  "release_date": "2019-06-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1tPALzkIcrc49rNaU8vqG0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/569amGgQuXREunUmCxxdV5"
+            },
+            "href": "https://api.spotify.com/v1/artists/569amGgQuXREunUmCxxdV5",
+            "id": "569amGgQuXREunUmCxxdV5",
+            "name": "Nahuu Remix",
+            "type": "artist",
+            "uri": "spotify:artist:569amGgQuXREunUmCxxdV5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185939,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V2TNB5V9WPkYPRU9WOxaA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5V2TNB5V9WPkYPRU9WOxaA",
+        "id": "5V2TNB5V9WPkYPRU9WOxaA",
+        "is_local": false,
+        "name": "Ella Es Callaita",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5V2TNB5V9WPkYPRU9WOxaA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1tPALzkIcrc49rNaU8vqG0"
+}

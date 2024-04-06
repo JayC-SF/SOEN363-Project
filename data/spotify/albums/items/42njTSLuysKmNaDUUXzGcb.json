@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/17AQsa7DW5ANQdRTV83cEJ",
+      "id": "17AQsa7DW5ANQdRTV83cEJ",
+      "name": "Can7",
+      "type": "artist",
+      "uri": "spotify:artist:17AQsa7DW5ANQdRTV83cEJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Can7",
+      "type": "C"
+    },
+    {
+      "text": "2022 Can7",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196990422738"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/42njTSLuysKmNaDUUXzGcb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/42njTSLuysKmNaDUUXzGcb",
+  "id": "42njTSLuysKmNaDUUXzGcb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4c8aa140b61a9f8c300c6c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4c8aa140b61a9f8c300c6c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4c8aa140b61a9f8c300c6c7",
+      "width": 64
+    }
+  ],
+  "label": "Can7",
+  "name": "Yallah",
+  "popularity": 0,
+  "release_date": "2022-06-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/42njTSLuysKmNaDUUXzGcb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/17AQsa7DW5ANQdRTV83cEJ",
+            "id": "17AQsa7DW5ANQdRTV83cEJ",
+            "name": "Can7",
+            "type": "artist",
+            "uri": "spotify:artist:17AQsa7DW5ANQdRTV83cEJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 120000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/365K3L0nFvjPj1NlgamI4x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/365K3L0nFvjPj1NlgamI4x",
+        "id": "365K3L0nFvjPj1NlgamI4x",
+        "is_local": false,
+        "name": "Yallah",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:365K3L0nFvjPj1NlgamI4x"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:42njTSLuysKmNaDUUXzGcb"
+}

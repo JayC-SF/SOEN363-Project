@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+      },
+      "href": "https://api.spotify.com/v1/artists/69761NObDw2KwmmFgZmxzC",
+      "id": "69761NObDw2KwmmFgZmxzC",
+      "name": "Lexi Jayde",
+      "type": "artist",
+      "uri": "spotify:artist:69761NObDw2KwmmFgZmxzC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Artist Partner Group, Inc",
+      "type": "C"
+    },
+    {
+      "text": "2022 Artist Partner Group, Inc",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196429083141"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6EFy6eC5CF3XUUMx2cwwAG",
+  "id": "6EFy6eC5CF3XUUMx2cwwAG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1b2801a34c26281cd2f8aa3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1b2801a34c26281cd2f8aa3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1b2801a34c26281cd2f8aa3",
+      "width": 64
+    }
+  ],
+  "label": "Artist Partner Group, Inc",
+  "name": "hate to be you",
+  "popularity": 0,
+  "release_date": "2022-03-10",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6EFy6eC5CF3XUUMx2cwwAG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+            },
+            "href": "https://api.spotify.com/v1/artists/69761NObDw2KwmmFgZmxzC",
+            "id": "69761NObDw2KwmmFgZmxzC",
+            "name": "Lexi Jayde",
+            "type": "artist",
+            "uri": "spotify:artist:69761NObDw2KwmmFgZmxzC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 182946,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7wDIcTm9EQiKxH60Z28jRU",
+        "id": "7wDIcTm9EQiKxH60Z28jRU",
+        "is_local": false,
+        "name": "hate to be you",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7wDIcTm9EQiKxH60Z28jRU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6EFy6eC5CF3XUUMx2cwwAG"
+}

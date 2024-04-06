@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+      },
+      "href": "https://api.spotify.com/v1/artists/60gmlHZmT16wiO9GiXKYK9",
+      "id": "60gmlHZmT16wiO9GiXKYK9",
+      "name": "Chris Janson",
+      "type": "artist",
+      "uri": "spotify:artist:60gmlHZmT16wiO9GiXKYK9"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Warner Music Nashville LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Warner Music Nashville LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "054391946461"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6eC1yisEI9vTlYLsPhCett",
+  "id": "6eC1yisEI9vTlYLsPhCett",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348b02f8d28f7c39c4cbd2de8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248b02f8d28f7c39c4cbd2de8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148b02f8d28f7c39c4cbd2de8",
+      "width": 64
+    }
+  ],
+  "label": "Warner Records",
+  "name": "Good Vibes",
+  "popularity": 44,
+  "release_date": "2019-02-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6eC1yisEI9vTlYLsPhCett/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+            },
+            "href": "https://api.spotify.com/v1/artists/60gmlHZmT16wiO9GiXKYK9",
+            "id": "60gmlHZmT16wiO9GiXKYK9",
+            "name": "Chris Janson",
+            "type": "artist",
+            "uri": "spotify:artist:60gmlHZmT16wiO9GiXKYK9"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 165586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49oBFP6ZHPtd6t33LFTD3E",
+        "id": "49oBFP6ZHPtd6t33LFTD3E",
+        "is_local": false,
+        "name": "Good Vibes",
+        "preview_url": "https://p.scdn.co/mp3-preview/e9fb9bf7a1c0be50d05858d607d34be4f9c6546b?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:49oBFP6ZHPtd6t33LFTD3E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6eC1yisEI9vTlYLsPhCett"
+}

@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+      },
+      "href": "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+      "id": "3ApUX1o6oSz321MMECyIYd",
+      "name": "Quinn XCII",
+      "type": "artist",
+      "uri": "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id": "5JMLG56F1X5mFmWNmS0iAp",
+      "name": "Chelsea Cutler",
+      "type": "artist",
+      "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2020 Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448874294"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2z5swLenXPUPG79UfLU51I",
+  "id": "2z5swLenXPUPG79UfLU51I",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d80d594bf86c43bdff98903",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d80d594bf86c43bdff98903",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d80d594bf86c43bdff98903",
+      "width": 64
+    }
+  ],
+  "label": "Columbia",
+  "name": "Stay Next To Me (with Chelsea Cutler)",
+  "popularity": 0,
+  "release_date": "2020-12-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2z5swLenXPUPG79UfLU51I/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+            "id": "3ApUX1o6oSz321MMECyIYd",
+            "name": "Quinn XCII",
+            "type": "artist",
+            "uri": "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+            },
+            "href": "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+            "id": "5JMLG56F1X5mFmWNmS0iAp",
+            "name": "Chelsea Cutler",
+            "type": "artist",
+            "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 206045,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6SGG5AxHShqSYiV9fCWpZz",
+        "id": "6SGG5AxHShqSYiV9fCWpZz",
+        "is_local": false,
+        "name": "Stay Next To Me (with Chelsea Cutler)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6SGG5AxHShqSYiV9fCWpZz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2z5swLenXPUPG79UfLU51I"
+}

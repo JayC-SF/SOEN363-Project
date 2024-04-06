@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UdQqCUR7RwB9YYJONwbdM",
+      "id": "1UdQqCUR7RwB9YYJONwbdM",
+      "name": "Trapt",
+      "type": "artist",
+      "uri": "spotify:artist:1UdQqCUR7RwB9YYJONwbdM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2021 Crash Collide",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2021 Crash Collide",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "192641686412"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2hMVKk0yEDNmPAzQxzwpaA"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2hMVKk0yEDNmPAzQxzwpaA",
+  "id": "2hMVKk0yEDNmPAzQxzwpaA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314b20bd93d3b8addd75f492d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214b20bd93d3b8addd75f492d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114b20bd93d3b8addd75f492d",
+      "width": 64
+    }
+  ],
+  "label": "The Label Group",
+  "name": "Come Together",
+  "popularity": 0,
+  "release_date": "2021-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2hMVKk0yEDNmPAzQxzwpaA/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UdQqCUR7RwB9YYJONwbdM",
+            "id": "1UdQqCUR7RwB9YYJONwbdM",
+            "name": "Trapt",
+            "type": "artist",
+            "uri": "spotify:artist:1UdQqCUR7RwB9YYJONwbdM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7i9L9EAcbxFQgViNo5LW7I"
+            },
+            "href": "https://api.spotify.com/v1/artists/7i9L9EAcbxFQgViNo5LW7I",
+            "id": "7i9L9EAcbxFQgViNo5LW7I",
+            "name": "An0maly",
+            "type": "artist",
+            "uri": "spotify:artist:7i9L9EAcbxFQgViNo5LW7I"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233582,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BvhiysifziCaKnQtFSf5X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BvhiysifziCaKnQtFSf5X",
+        "id": "0BvhiysifziCaKnQtFSf5X",
+        "is_local": false,
+        "name": "Come Together",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BvhiysifziCaKnQtFSf5X"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2hMVKk0yEDNmPAzQxzwpaA"
+}

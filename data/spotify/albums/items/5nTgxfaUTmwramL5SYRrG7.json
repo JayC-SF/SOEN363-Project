@@ -1,0 +1,107 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Jr5ULT8PKTOiBhTUZR9RQ",
+      "id": "4Jr5ULT8PKTOiBhTUZR9RQ",
+      "name": "Low Blow",
+      "type": "artist",
+      "uri": "spotify:artist:4Jr5ULT8PKTOiBhTUZR9RQ"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2023 Heartfeldt Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871078009"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5nTgxfaUTmwramL5SYRrG7"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5nTgxfaUTmwramL5SYRrG7",
+  "id": "5nTgxfaUTmwramL5SYRrG7",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273550a611f801e27c70b09daae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02550a611f801e27c70b09daae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851550a611f801e27c70b09daae",
+      "width": 64
+    }
+  ],
+  "label": "Heartfeldt Records",
+  "name": "Consumers",
+  "popularity": 13,
+  "release_date": "2023-05-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5nTgxfaUTmwramL5SYRrG7/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Jr5ULT8PKTOiBhTUZR9RQ",
+            "id": "4Jr5ULT8PKTOiBhTUZR9RQ",
+            "name": "Low Blow",
+            "type": "artist",
+            "uri": "spotify:artist:4Jr5ULT8PKTOiBhTUZR9RQ"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "IS",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 179520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3J9tou6tbZLBJ9MrvIA0EK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3J9tou6tbZLBJ9MrvIA0EK",
+        "id": "3J9tou6tbZLBJ9MrvIA0EK",
+        "is_local": false,
+        "name": "Consumers",
+        "preview_url": "https://p.scdn.co/mp3-preview/0a97d1f1a8f7bac411d55a2a01a98d0162540a21?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3J9tou6tbZLBJ9MrvIA0EK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5nTgxfaUTmwramL5SYRrG7"
+}

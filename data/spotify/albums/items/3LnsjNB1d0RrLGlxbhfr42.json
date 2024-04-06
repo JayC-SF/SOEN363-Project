@@ -1,0 +1,128 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17fiEsU1WyGedYJ7NGKrxJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/17fiEsU1WyGedYJ7NGKrxJ",
+      "id": "17fiEsU1WyGedYJ7NGKrxJ",
+      "name": "DJ Ham",
+      "type": "artist",
+      "uri": "spotify:artist:17fiEsU1WyGedYJ7NGKrxJ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2002 Next Generation",
+      "type": "C"
+    },
+    {
+      "text": "2002 Next Generation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5052653006989"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3LnsjNB1d0RrLGlxbhfr42"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3LnsjNB1d0RrLGlxbhfr42",
+  "id": "3LnsjNB1d0RrLGlxbhfr42",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9cb986db18888b5d5a6588c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9cb986db18888b5d5a6588c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9cb986db18888b5d5a6588c",
+      "width": 64
+    }
+  ],
+  "label": "Next Generation",
+  "name": "There's A Heaven / Good In Da Neighbourhood",
+  "popularity": 0,
+  "release_date": "2002-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3LnsjNB1d0RrLGlxbhfr42/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17fiEsU1WyGedYJ7NGKrxJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/17fiEsU1WyGedYJ7NGKrxJ",
+            "id": "17fiEsU1WyGedYJ7NGKrxJ",
+            "name": "DJ Ham",
+            "type": "artist",
+            "uri": "spotify:artist:17fiEsU1WyGedYJ7NGKrxJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 460242,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Gz82MQYfcTCkw2zKqdSzE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Gz82MQYfcTCkw2zKqdSzE",
+        "id": "7Gz82MQYfcTCkw2zKqdSzE",
+        "is_local": false,
+        "name": "There's A Heaven",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7Gz82MQYfcTCkw2zKqdSzE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17fiEsU1WyGedYJ7NGKrxJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/17fiEsU1WyGedYJ7NGKrxJ",
+            "id": "17fiEsU1WyGedYJ7NGKrxJ",
+            "name": "DJ Ham",
+            "type": "artist",
+            "uri": "spotify:artist:17fiEsU1WyGedYJ7NGKrxJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 335347,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0b25LxjQ0h8Qcelg30X9HQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0b25LxjQ0h8Qcelg30X9HQ",
+        "id": "0b25LxjQ0h8Qcelg30X9HQ",
+        "is_local": false,
+        "name": "Good In Da Neighbourhood",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0b25LxjQ0h8Qcelg30X9HQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3LnsjNB1d0RrLGlxbhfr42"
+}

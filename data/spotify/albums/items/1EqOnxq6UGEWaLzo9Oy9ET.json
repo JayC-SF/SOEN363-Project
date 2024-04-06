@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+      },
+      "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+      "id": "2S5hlvw4CMtMGswFtfdK15",
+      "name": "Royal Blood",
+      "type": "artist",
+      "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2013 Black Mammoth Records",
+      "type": "C"
+    },
+    {
+      "text": "2013 Black Mammoth Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055489292182"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1EqOnxq6UGEWaLzo9Oy9ET"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1EqOnxq6UGEWaLzo9Oy9ET",
+  "id": "1EqOnxq6UGEWaLzo9Oy9ET",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273adb9e0ab746a172dd0393674",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02adb9e0ab746a172dd0393674",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851adb9e0ab746a172dd0393674",
+      "width": 64
+    }
+  ],
+  "label": "Black Mammoth Records",
+  "name": "Out of the Black",
+  "popularity": 0,
+  "release_date": "2013-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1EqOnxq6UGEWaLzo9Oy9ET/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+            },
+            "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+            "id": "2S5hlvw4CMtMGswFtfdK15",
+            "name": "Royal Blood",
+            "type": "artist",
+            "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 240572,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12NjSwoyYGPDYSSCMK4qbs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12NjSwoyYGPDYSSCMK4qbs",
+        "id": "12NjSwoyYGPDYSSCMK4qbs",
+        "is_local": false,
+        "name": "Out of the Black",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:12NjSwoyYGPDYSSCMK4qbs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1EqOnxq6UGEWaLzo9Oy9ET"
+}

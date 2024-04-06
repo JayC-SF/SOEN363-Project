@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z"
+      },
+      "href": "https://api.spotify.com/v1/artists/41QQgOKrnE3i6AQXKqOG1z",
+      "id": "41QQgOKrnE3i6AQXKqOG1z",
+      "name": "Ca$hline",
+      "type": "artist",
+      "uri": "spotify:artist:41QQgOKrnE3i6AQXKqOG1z"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Ca$hline",
+      "type": "C"
+    },
+    {
+      "text": "2023 Ca$hline",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "752503516853"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6MtLhPGKlHRkLkjKDr6xqC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6MtLhPGKlHRkLkjKDr6xqC",
+  "id": "6MtLhPGKlHRkLkjKDr6xqC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738964dd83ab54133af3bfc5f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028964dd83ab54133af3bfc5f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518964dd83ab54133af3bfc5f5",
+      "width": 64
+    }
+  ],
+  "label": "Ca$hline",
+  "name": "C\u00e9u Cinza",
+  "popularity": 1,
+  "release_date": "2023-07-12",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6MtLhPGKlHRkLkjKDr6xqC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z"
+            },
+            "href": "https://api.spotify.com/v1/artists/41QQgOKrnE3i6AQXKqOG1z",
+            "id": "41QQgOKrnE3i6AQXKqOG1z",
+            "name": "Ca$hline",
+            "type": "artist",
+            "uri": "spotify:artist:41QQgOKrnE3i6AQXKqOG1z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0eAY7JwBUiFi2sNfiZm3ID"
+            },
+            "href": "https://api.spotify.com/v1/artists/0eAY7JwBUiFi2sNfiZm3ID",
+            "id": "0eAY7JwBUiFi2sNfiZm3ID",
+            "name": "O' LIMA 021",
+            "type": "artist",
+            "uri": "spotify:artist:0eAY7JwBUiFi2sNfiZm3ID"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 154814,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pbaU1ViToY8mbSh11Y5DK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pbaU1ViToY8mbSh11Y5DK",
+        "id": "4pbaU1ViToY8mbSh11Y5DK",
+        "is_local": false,
+        "name": "C\u00e9u Cinza",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4pbaU1ViToY8mbSh11Y5DK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6MtLhPGKlHRkLkjKDr6xqC"
+}

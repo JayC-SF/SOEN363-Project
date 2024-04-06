@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+      },
+      "href": "https://api.spotify.com/v1/artists/5KWOCu1saEHAhPiLKlOLIy",
+      "id": "5KWOCu1saEHAhPiLKlOLIy",
+      "name": "Leo",
+      "type": "artist",
+      "uri": "spotify:artist:5KWOCu1saEHAhPiLKlOLIy"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2016 Leo",
+      "type": "C"
+    },
+    {
+      "text": "2016 Leo",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "841234195977"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2R8fpG7av02KvgwuhIAmai"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2R8fpG7av02KvgwuhIAmai",
+  "id": "2R8fpG7av02KvgwuhIAmai",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d144749ec7d234f72593a6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d144749ec7d234f72593a6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d144749ec7d234f72593a6b",
+      "width": 64
+    }
+  ],
+  "label": "Leo",
+  "name": "Barbie Girl (Metal Cover)",
+  "popularity": 0,
+  "release_date": "2015-11-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2R8fpG7av02KvgwuhIAmai/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KWOCu1saEHAhPiLKlOLIy",
+            "id": "5KWOCu1saEHAhPiLKlOLIy",
+            "name": "Leo",
+            "type": "artist",
+            "uri": "spotify:artist:5KWOCu1saEHAhPiLKlOLIy"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219671,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nAYigO37PKLtDWShwtxzn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nAYigO37PKLtDWShwtxzn",
+        "id": "5nAYigO37PKLtDWShwtxzn",
+        "is_local": false,
+        "name": "Barbie Girl (Metal Cover)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5nAYigO37PKLtDWShwtxzn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2R8fpG7av02KvgwuhIAmai"
+}

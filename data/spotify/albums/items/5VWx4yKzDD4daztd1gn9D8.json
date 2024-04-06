@@ -1,0 +1,115 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+      },
+      "href": "https://api.spotify.com/v1/artists/12trz2INGglrKMzLmg0y2C",
+      "id": "12trz2INGglrKMzLmg0y2C",
+      "name": "Emotional Oranges",
+      "type": "artist",
+      "uri": "spotify:artist:12trz2INGglrKMzLmg0y2C"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+      },
+      "href": "https://api.spotify.com/v1/artists/1kMPdZQVdUhMDKDWOJM5iK",
+      "id": "1kMPdZQVdUhMDKDWOJM5iK",
+      "name": "Tkay Maidza",
+      "type": "artist",
+      "uri": "spotify:artist:1kMPdZQVdUhMDKDWOJM5iK"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2023 Avant Garden",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "193436327503"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5VWx4yKzDD4daztd1gn9D8",
+  "id": "5VWx4yKzDD4daztd1gn9D8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dcda013950cfcb174305b987",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dcda013950cfcb174305b987",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dcda013950cfcb174305b987",
+      "width": 64
+    }
+  ],
+  "label": "Avant Garden",
+  "name": "Be Somebody (feat. Tkay Maidza)",
+  "popularity": 1,
+  "release_date": "2023-04-07",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5VWx4yKzDD4daztd1gn9D8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+            },
+            "href": "https://api.spotify.com/v1/artists/12trz2INGglrKMzLmg0y2C",
+            "id": "12trz2INGglrKMzLmg0y2C",
+            "name": "Emotional Oranges",
+            "type": "artist",
+            "uri": "spotify:artist:12trz2INGglrKMzLmg0y2C"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kMPdZQVdUhMDKDWOJM5iK",
+            "id": "1kMPdZQVdUhMDKDWOJM5iK",
+            "name": "Tkay Maidza",
+            "type": "artist",
+            "uri": "spotify:artist:1kMPdZQVdUhMDKDWOJM5iK"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141780,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zN4tWrJ4oGSSCichizR6D",
+        "id": "1zN4tWrJ4oGSSCichizR6D",
+        "is_local": false,
+        "name": "Be Somebody (feat. Tkay Maidza)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1zN4tWrJ4oGSSCichizR6D"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5VWx4yKzDD4daztd1gn9D8"
+}

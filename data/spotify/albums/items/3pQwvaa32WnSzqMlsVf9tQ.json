@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM"
+      },
+      "href": "https://api.spotify.com/v1/artists/1zzlu7Aj6Dx6hFhS5sehOM",
+      "id": "1zzlu7Aj6Dx6hFhS5sehOM",
+      "name": "3rd Prototype",
+      "type": "artist",
+      "uri": "spotify:artist:1zzlu7Aj6Dx6hFhS5sehOM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 NCS",
+      "type": "C"
+    },
+    {
+      "text": "2018 NCS",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199524771"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3pQwvaa32WnSzqMlsVf9tQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3pQwvaa32WnSzqMlsVf9tQ",
+  "id": "3pQwvaa32WnSzqMlsVf9tQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a63d11707dd85f5e59f9cbd5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a63d11707dd85f5e59f9cbd5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a63d11707dd85f5e59f9cbd5",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "I Know",
+  "popularity": 0,
+  "release_date": "2018-10-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3pQwvaa32WnSzqMlsVf9tQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zzlu7Aj6Dx6hFhS5sehOM",
+            "id": "1zzlu7Aj6Dx6hFhS5sehOM",
+            "name": "3rd Prototype",
+            "type": "artist",
+            "uri": "spotify:artist:1zzlu7Aj6Dx6hFhS5sehOM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232968,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ywx0zy4Nj7aQ9jXZL3Mlh",
+        "id": "2ywx0zy4Nj7aQ9jXZL3Mlh",
+        "is_local": false,
+        "name": "I Know",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ywx0zy4Nj7aQ9jXZL3Mlh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3pQwvaa32WnSzqMlsVf9tQ"
+}

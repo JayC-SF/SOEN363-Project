@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+      },
+      "href": "https://api.spotify.com/v1/artists/5qjnPRE33rMgYAxIjGUrI7",
+      "id": "5qjnPRE33rMgYAxIjGUrI7",
+      "name": "Ralphie Choo",
+      "type": "artist",
+      "uri": "spotify:artist:5qjnPRE33rMgYAxIjGUrI7"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2020 Goblins",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2020 Goblins",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195497691852"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1vo75fDu4dQ8NYUnSOYN8P"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1vo75fDu4dQ8NYUnSOYN8P",
+  "id": "1vo75fDu4dQ8NYUnSOYN8P",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb215956f59bf69c750a95da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb215956f59bf69c750a95da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb215956f59bf69c750a95da",
+      "width": 64
+    }
+  ],
+  "label": "Goblins",
+  "name": "lamento de una supernova",
+  "popularity": 0,
+  "release_date": "2020-12-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1vo75fDu4dQ8NYUnSOYN8P/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/5qjnPRE33rMgYAxIjGUrI7",
+            "id": "5qjnPRE33rMgYAxIjGUrI7",
+            "name": "Ralphie Choo",
+            "type": "artist",
+            "uri": "spotify:artist:5qjnPRE33rMgYAxIjGUrI7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 147533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ywEg4HD0NOK51AsYtteaa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ywEg4HD0NOK51AsYtteaa",
+        "id": "0ywEg4HD0NOK51AsYtteaa",
+        "is_local": false,
+        "name": "lamento de una supernova",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ywEg4HD0NOK51AsYtteaa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1vo75fDu4dQ8NYUnSOYN8P"
+}

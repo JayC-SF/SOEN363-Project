@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M6pyt8k3EjvbFo1pZFS75",
+      "id": "6M6pyt8k3EjvbFo1pZFS75",
+      "name": "El negro tecla",
+      "type": "artist",
+      "uri": "spotify:artist:6M6pyt8k3EjvbFo1pZFS75"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 El Negro Tecla",
+      "type": "C"
+    },
+    {
+      "text": "2022 El Negro Tecla",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5063112240684"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5ybMTJVzd04KY78eELDC8X",
+  "id": "5ybMTJVzd04KY78eELDC8X",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fabf1ef4a3aa7dedf6c57732",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fabf1ef4a3aa7dedf6c57732",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fabf1ef4a3aa7dedf6c57732",
+      "width": 64
+    }
+  ],
+  "label": "El Negro Tecla",
+  "name": "Rompe",
+  "popularity": 0,
+  "release_date": "2022-07-26",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5ybMTJVzd04KY78eELDC8X/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+            },
+            "href": "https://api.spotify.com/v1/artists/6M6pyt8k3EjvbFo1pZFS75",
+            "id": "6M6pyt8k3EjvbFo1pZFS75",
+            "name": "El negro tecla",
+            "type": "artist",
+            "uri": "spotify:artist:6M6pyt8k3EjvbFo1pZFS75"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 141954,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nYyGlTP5L2R6SEd1xG8Xs",
+        "id": "6nYyGlTP5L2R6SEd1xG8Xs",
+        "is_local": false,
+        "name": "Rompe",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6nYyGlTP5L2R6SEd1xG8Xs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5ybMTJVzd04KY78eELDC8X"
+}

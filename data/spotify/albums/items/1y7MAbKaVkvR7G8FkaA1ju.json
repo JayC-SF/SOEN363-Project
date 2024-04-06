@@ -1,0 +1,125 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+      },
+      "href": "https://api.spotify.com/v1/artists/7hdCH3dJ27WvUbo00gAMwE",
+      "id": "7hdCH3dJ27WvUbo00gAMwE",
+      "name": "Metejoor",
+      "type": "artist",
+      "uri": "spotify:artist:7hdCH3dJ27WvUbo00gAMwE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+      },
+      "href": "https://api.spotify.com/v1/artists/5oNWzcU0mYK1zDUxBGHIaG",
+      "id": "5oNWzcU0mYK1zDUxBGHIaG",
+      "name": "Hannah Mae",
+      "type": "artist",
+      "uri": "spotify:artist:5oNWzcU0mYK1zDUxBGHIaG"
+    }
+  ],
+  "available_markets": [
+    "CW",
+    "NL"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2022 Spark Records B.V., distributed Universal Music, a division of Universal International Music B.V. / FruityLabel licensed to CNR Music Belgium N.V.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2022 Spark Records B.V., distributed Universal Music, a division of Universal International Music B.V. / FruityLabel licensed to CNR Music Belgium N.V.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602448822871"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1y7MAbKaVkvR7G8FkaA1ju",
+  "id": "1y7MAbKaVkvR7G8FkaA1ju",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310031f6434792ca243fd19ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210031f6434792ca243fd19ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110031f6434792ca243fd19ad",
+      "width": 64
+    }
+  ],
+  "label": "Spark Records B.V.",
+  "name": "Wat Wil Je Van Mij",
+  "popularity": 52,
+  "release_date": "2022-11-16",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1y7MAbKaVkvR7G8FkaA1ju/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hdCH3dJ27WvUbo00gAMwE",
+            "id": "7hdCH3dJ27WvUbo00gAMwE",
+            "name": "Metejoor",
+            "type": "artist",
+            "uri": "spotify:artist:7hdCH3dJ27WvUbo00gAMwE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oNWzcU0mYK1zDUxBGHIaG",
+            "id": "5oNWzcU0mYK1zDUxBGHIaG",
+            "name": "Hannah Mae",
+            "type": "artist",
+            "uri": "spotify:artist:5oNWzcU0mYK1zDUxBGHIaG"
+          }
+        ],
+        "available_markets": [
+          "CW",
+          "NL"
+        ],
+        "disc_number": 1,
+        "duration_ms": 199433,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Gzz44FpTbZu0DNVVZjwPs",
+        "id": "7Gzz44FpTbZu0DNVVZjwPs",
+        "is_local": false,
+        "name": "Wat Wil Je Van Mij",
+        "preview_url": "https://p.scdn.co/mp3-preview/407ad036bbffbd1742499b999960a78a33aafc60?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7Gzz44FpTbZu0DNVVZjwPs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1y7MAbKaVkvR7G8FkaA1ju"
+}

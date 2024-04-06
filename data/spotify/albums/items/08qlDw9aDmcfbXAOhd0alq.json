@@ -1,0 +1,109 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+      },
+      "href": "https://api.spotify.com/v1/artists/3VVLqeEqQQqTgT8YhfY9Z6",
+      "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+      "name": "Emmit Fenn",
+      "type": "artist",
+      "uri": "spotify:artist:3VVLqeEqQQqTgT8YhfY9Z6"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 TH3RD BRAIN",
+      "type": "C"
+    },
+    {
+      "text": "2017 TH3RD BRAIN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859719842261"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/08qlDw9aDmcfbXAOhd0alq"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/08qlDw9aDmcfbXAOhd0alq",
+  "id": "08qlDw9aDmcfbXAOhd0alq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f4609fc1bc8cc78bb2742ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f4609fc1bc8cc78bb2742ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f4609fc1bc8cc78bb2742ec",
+      "width": 64
+    }
+  ],
+  "label": "TH3RD BRAIN",
+  "name": "Modern Flame (feat. Yuna)",
+  "popularity": 0,
+  "release_date": "2017-03-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/08qlDw9aDmcfbXAOhd0alq/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VVLqeEqQQqTgT8YhfY9Z6",
+            "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+            "name": "Emmit Fenn",
+            "type": "artist",
+            "uri": "spotify:artist:3VVLqeEqQQqTgT8YhfY9Z6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kHVioJpVxlazAAKQ64pC1",
+            "id": "3kHVioJpVxlazAAKQ64pC1",
+            "name": "Yuna",
+            "type": "artist",
+            "uri": "spotify:artist:3kHVioJpVxlazAAKQ64pC1"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185088,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DFmtkp1AEmQxQK9DjNvWc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DFmtkp1AEmQxQK9DjNvWc",
+        "id": "3DFmtkp1AEmQxQK9DjNvWc",
+        "is_local": false,
+        "name": "Modern Flame (feat. Yuna)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3DFmtkp1AEmQxQK9DjNvWc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:08qlDw9aDmcfbXAOhd0alq"
+}

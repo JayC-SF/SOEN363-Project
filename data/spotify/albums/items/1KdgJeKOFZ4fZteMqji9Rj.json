@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "id": "2kxP07DLgs4xlWz8YHlvfh",
+      "name": "NIKI",
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 88rising Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 88rising Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190296866531"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1KdgJeKOFZ4fZteMqji9Rj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1KdgJeKOFZ4fZteMqji9Rj",
+  "id": "1KdgJeKOFZ4fZteMqji9Rj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f49c104e639dd7297602d5f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f49c104e639dd7297602d5f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f49c104e639dd7297602d5f2",
+      "width": 64
+    }
+  ],
+  "label": "88rising Music",
+  "name": "Sugarplum Elegy",
+  "popularity": 15,
+  "release_date": "2019-12-06",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1KdgJeKOFZ4fZteMqji9Rj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 207045,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mng4eWKNqNtIqvBgm1LnR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mng4eWKNqNtIqvBgm1LnR",
+        "id": "6mng4eWKNqNtIqvBgm1LnR",
+        "is_local": false,
+        "name": "Sugarplum Elegy",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6mng4eWKNqNtIqvBgm1LnR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1KdgJeKOFZ4fZteMqji9Rj"
+}

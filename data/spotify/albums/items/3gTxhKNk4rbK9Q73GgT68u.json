@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+      },
+      "href": "https://api.spotify.com/v1/artists/1KNafMiV5Y3OhOr1A5tWwb",
+      "id": "1KNafMiV5Y3OhOr1A5tWwb",
+      "name": "JYYE",
+      "type": "artist",
+      "uri": "spotify:artist:1KNafMiV5Y3OhOr1A5tWwb"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 ChillYourMind",
+      "type": "C"
+    },
+    {
+      "text": "2020 ChillYourMind",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5059504922368"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gTxhKNk4rbK9Q73GgT68u"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3gTxhKNk4rbK9Q73GgT68u",
+  "id": "3gTxhKNk4rbK9Q73GgT68u",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed3bb674f98d1dcf6186907a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed3bb674f98d1dcf6186907a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed3bb674f98d1dcf6186907a",
+      "width": 64
+    }
+  ],
+  "label": "ChillYourMind",
+  "name": "Rush",
+  "popularity": 0,
+  "release_date": "2020-03-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3gTxhKNk4rbK9Q73GgT68u/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KNafMiV5Y3OhOr1A5tWwb",
+            "id": "1KNafMiV5Y3OhOr1A5tWwb",
+            "name": "JYYE",
+            "type": "artist",
+            "uri": "spotify:artist:1KNafMiV5Y3OhOr1A5tWwb"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 169566,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Kn26vlhEyCUw4QNXxJr4e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Kn26vlhEyCUw4QNXxJr4e",
+        "id": "1Kn26vlhEyCUw4QNXxJr4e",
+        "is_local": false,
+        "name": "Rush",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Kn26vlhEyCUw4QNXxJr4e"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3gTxhKNk4rbK9Q73GgT68u"
+}

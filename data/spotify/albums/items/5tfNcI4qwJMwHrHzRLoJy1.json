@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+      },
+      "href": "https://api.spotify.com/v1/artists/2e4uIDIIBXR0MmZe0AJGhR",
+      "id": "2e4uIDIIBXR0MmZe0AJGhR",
+      "name": "Bosse",
+      "type": "artist",
+      "uri": "spotify:artist:2e4uIDIIBXR0MmZe0AJGhR"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Universal Music Domestic Rock/Urban, a division of Universal Music GmbH",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Axel Bosse, under exclusive license to Universal Music Domestic Rock/Urban, a division of Universal Music GmbH",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537299898"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5tfNcI4qwJMwHrHzRLoJy1"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5tfNcI4qwJMwHrHzRLoJy1",
+  "id": "5tfNcI4qwJMwHrHzRLoJy1",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a74971d284051ebbdf5c8e3e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a74971d284051ebbdf5c8e3e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a74971d284051ebbdf5c8e3e",
+      "width": 64
+    }
+  ],
+  "label": "Vertigo Berlin",
+  "name": "Sch\u00f6nste Zeit",
+  "popularity": 0,
+  "release_date": "2013-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5tfNcI4qwJMwHrHzRLoJy1/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+            },
+            "href": "https://api.spotify.com/v1/artists/2e4uIDIIBXR0MmZe0AJGhR",
+            "id": "2e4uIDIIBXR0MmZe0AJGhR",
+            "name": "Bosse",
+            "type": "artist",
+            "uri": "spotify:artist:2e4uIDIIBXR0MmZe0AJGhR"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2toXFMUY2drm8KRillUHpA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2toXFMUY2drm8KRillUHpA",
+        "id": "2toXFMUY2drm8KRillUHpA",
+        "is_local": false,
+        "name": "Sch\u00f6nste Zeit",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2toXFMUY2drm8KRillUHpA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5tfNcI4qwJMwHrHzRLoJy1"
+}

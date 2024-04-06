@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+      },
+      "href": "https://api.spotify.com/v1/artists/2zEASt0PHuI24e3JlAe17d",
+      "id": "2zEASt0PHuI24e3JlAe17d",
+      "name": "Kate McGill",
+      "type": "artist",
+      "uri": "spotify:artist:2zEASt0PHuI24e3JlAe17d"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 KLM Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 KLM Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195395441962"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0nWjKAEvqrQGbk9U2MzeHo",
+  "id": "0nWjKAEvqrQGbk9U2MzeHo",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d5108d5f6688dcd6185ce74",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d5108d5f6688dcd6185ce74",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d5108d5f6688dcd6185ce74",
+      "width": 64
+    }
+  ],
+  "label": "KLM Records",
+  "name": "Chiquitita",
+  "popularity": 0,
+  "release_date": "2020-06-22",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0nWjKAEvqrQGbk9U2MzeHo/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zEASt0PHuI24e3JlAe17d",
+            "id": "2zEASt0PHuI24e3JlAe17d",
+            "name": "Kate McGill",
+            "type": "artist",
+            "uri": "spotify:artist:2zEASt0PHuI24e3JlAe17d"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 299280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UkFTPgZ9ggQijLh1CbSrF",
+        "id": "5UkFTPgZ9ggQijLh1CbSrF",
+        "is_local": false,
+        "name": "Chiquitita",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UkFTPgZ9ggQijLh1CbSrF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0nWjKAEvqrQGbk9U2MzeHo"
+}

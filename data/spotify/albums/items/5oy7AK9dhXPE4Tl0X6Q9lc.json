@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ygQsC5td2maGmglpzd7tp",
+      "id": "0ygQsC5td2maGmglpzd7tp",
+      "name": "Rossa",
+      "type": "artist",
+      "uri": "spotify:artist:0ygQsC5td2maGmglpzd7tp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2020 Inspire Music",
+      "type": "C"
+    },
+    {
+      "text": "2020 Inspire Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3616403998027"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5oy7AK9dhXPE4Tl0X6Q9lc"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5oy7AK9dhXPE4Tl0X6Q9lc",
+  "id": "5oy7AK9dhXPE4Tl0X6Q9lc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387d1ed1a1681979dcb83d3a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287d1ed1a1681979dcb83d3a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187d1ed1a1681979dcb83d3a6",
+      "width": 64
+    }
+  ],
+  "label": "Inspire Music",
+  "name": "Masih",
+  "popularity": 0,
+  "release_date": "2020-03-04",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5oy7AK9dhXPE4Tl0X6Q9lc/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ygQsC5td2maGmglpzd7tp",
+            "id": "0ygQsC5td2maGmglpzd7tp",
+            "name": "Rossa",
+            "type": "artist",
+            "uri": "spotify:artist:0ygQsC5td2maGmglpzd7tp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 212476,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X3SjXtga1hRUopyX7IDWO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2X3SjXtga1hRUopyX7IDWO",
+        "id": "2X3SjXtga1hRUopyX7IDWO",
+        "is_local": false,
+        "name": "Masih",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2X3SjXtga1hRUopyX7IDWO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:5oy7AK9dhXPE4Tl0X6Q9lc"
+}

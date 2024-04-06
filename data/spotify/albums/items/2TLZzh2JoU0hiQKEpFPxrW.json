@@ -1,0 +1,117 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+      },
+      "href": "https://api.spotify.com/v1/artists/20gsENnposVs2I4rQ5kvrf",
+      "id": "20gsENnposVs2I4rQ5kvrf",
+      "name": "Sam Feldt",
+      "type": "artist",
+      "uri": "spotify:artist:20gsENnposVs2I4rQ5kvrf"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Spinnin Records B.V., under exclusive licence to Polydor Records (a division of Universal Music Operations Limited)",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Spinnin Records B.V., under exclusive licence to Polydor Records (a division of Universal Music Operations Limited)",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602547361394"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2TLZzh2JoU0hiQKEpFPxrW",
+  "id": "2TLZzh2JoU0hiQKEpFPxrW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730dc783d8db00f63359d8cafe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020dc783d8db00f63359d8cafe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510dc783d8db00f63359d8cafe",
+      "width": 64
+    }
+  ],
+  "label": "Polydor Records",
+  "name": "Show Me Love",
+  "popularity": 36,
+  "release_date": "2015-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2TLZzh2JoU0hiQKEpFPxrW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+            },
+            "href": "https://api.spotify.com/v1/artists/20gsENnposVs2I4rQ5kvrf",
+            "id": "20gsENnposVs2I4rQ5kvrf",
+            "name": "Sam Feldt",
+            "type": "artist",
+            "uri": "spotify:artist:20gsENnposVs2I4rQ5kvrf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3dfslm6CkJXlsvGSQxGgxt",
+            "id": "3dfslm6CkJXlsvGSQxGgxt",
+            "name": "Kimberly Anne",
+            "type": "artist",
+            "uri": "spotify:artist:3dfslm6CkJXlsvGSQxGgxt"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 181855,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UsnjLHBKPaaRjZiWYUCpj",
+        "id": "2UsnjLHBKPaaRjZiWYUCpj",
+        "is_local": false,
+        "name": "Show Me Love",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2UsnjLHBKPaaRjZiWYUCpj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2TLZzh2JoU0hiQKEpFPxrW"
+}

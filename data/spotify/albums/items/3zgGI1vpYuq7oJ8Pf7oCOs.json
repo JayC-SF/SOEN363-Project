@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+      },
+      "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+      "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "name": "Ti\u00ebsto",
+      "type": "artist",
+      "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id": "69GGBxA162lTqCwzJG5jLp",
+      "name": "The Chainsmokers",
+      "type": "artist",
+      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Musical Freedom Label Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2015 Musical Freedom Label Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8712944486360"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3zgGI1vpYuq7oJ8Pf7oCOs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3zgGI1vpYuq7oJ8Pf7oCOs",
+  "id": "3zgGI1vpYuq7oJ8Pf7oCOs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ebdfc63f8a27ced0c4c4aac1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ebdfc63f8a27ced0c4c4aac1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ebdfc63f8a27ced0c4c4aac1",
+      "width": 64
+    }
+  ],
+  "label": "Musical Freedom",
+  "name": "Split (Only U)",
+  "popularity": 0,
+  "release_date": "2015-09-14",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3zgGI1vpYuq7oJ8Pf7oCOs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+            "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "name": "Ti\u00ebsto",
+            "type": "artist",
+            "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 256640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zwBmW0IbXpIA84cVHDGhe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zwBmW0IbXpIA84cVHDGhe",
+        "id": "5zwBmW0IbXpIA84cVHDGhe",
+        "is_local": false,
+        "name": "Split (Only U)",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5zwBmW0IbXpIA84cVHDGhe"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3zgGI1vpYuq7oJ8Pf7oCOs"
+}

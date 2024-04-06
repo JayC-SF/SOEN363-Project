@@ -1,0 +1,124 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+      "id": "3FfvYsEGaIb52QPXhg4DcH",
+      "name": "Jason Aldean",
+      "type": "artist",
+      "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(P) 2017 Macon Music, LLC under exclusive license to Broken Bow Records. All Rights Reserved.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446599489"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4wEdL5MJYDGgytZqNN6p4e",
+  "id": "4wEdL5MJYDGgytZqNN6p4e",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f12bb4efbda6d326f094c106",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f12bb4efbda6d326f094c106",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f12bb4efbda6d326f094c106",
+      "width": 64
+    }
+  ],
+  "label": "Broken Bow Records",
+  "name": "Spotify Singles",
+  "popularity": 0,
+  "release_date": "2017-07-05",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4wEdL5MJYDGgytZqNN6p4e/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+            "id": "3FfvYsEGaIb52QPXhg4DcH",
+            "name": "Jason Aldean",
+            "type": "artist",
+            "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200515,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5fghXy9xCMweLOu6kQgAul",
+        "id": "5fghXy9xCMweLOu6kQgAul",
+        "is_local": false,
+        "name": "Any Ol' Barstool - Recorded at Spotify Studios NYC",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5fghXy9xCMweLOu6kQgAul"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+            "id": "3FfvYsEGaIb52QPXhg4DcH",
+            "name": "Jason Aldean",
+            "type": "artist",
+            "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157025,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wZrc1KD0oKVec9hpTtOD3",
+        "id": "2wZrc1KD0oKVec9hpTtOD3",
+        "is_local": false,
+        "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2wZrc1KD0oKVec9hpTtOD3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4wEdL5MJYDGgytZqNN6p4e"
+}

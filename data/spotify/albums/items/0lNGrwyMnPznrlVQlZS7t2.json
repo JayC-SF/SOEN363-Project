@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+      },
+      "href": "https://api.spotify.com/v1/artists/3luonLzvSOxdU8ytCaEIK8",
+      "id": "3luonLzvSOxdU8ytCaEIK8",
+      "name": "IC3PEAK",
+      "type": "artist",
+      "uri": "spotify:artist:3luonLzvSOxdU8ytCaEIK8"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2022 IC3PEAK",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2022 IC3PEAK",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196626684653"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lNGrwyMnPznrlVQlZS7t2"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0lNGrwyMnPznrlVQlZS7t2",
+  "id": "0lNGrwyMnPznrlVQlZS7t2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdfbf0dc4d516996d9f7f866",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdfbf0dc4d516996d9f7f866",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdfbf0dc4d516996d9f7f866",
+      "width": 64
+    }
+  ],
+  "label": "IC3PEAK",
+  "name": "Dead But Pretty",
+  "popularity": 0,
+  "release_date": "2022-03-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0lNGrwyMnPznrlVQlZS7t2/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+            },
+            "href": "https://api.spotify.com/v1/artists/3luonLzvSOxdU8ytCaEIK8",
+            "id": "3luonLzvSOxdU8ytCaEIK8",
+            "name": "IC3PEAK",
+            "type": "artist",
+            "uri": "spotify:artist:3luonLzvSOxdU8ytCaEIK8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 165574,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rwCc7m5PtW3AokesJ4K7P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rwCc7m5PtW3AokesJ4K7P",
+        "id": "3rwCc7m5PtW3AokesJ4K7P",
+        "is_local": false,
+        "name": "Dead But Pretty",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3rwCc7m5PtW3AokesJ4K7P"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0lNGrwyMnPznrlVQlZS7t2"
+}

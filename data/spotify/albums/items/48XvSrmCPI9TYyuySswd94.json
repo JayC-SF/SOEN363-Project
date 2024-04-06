@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+      },
+      "href": "https://api.spotify.com/v1/artists/4WqXqPmUuenMIr4QaFrZXN",
+      "id": "4WqXqPmUuenMIr4QaFrZXN",
+      "name": "Saucy Dog",
+      "type": "artist",
+      "uri": "spotify:artist:4WqXqPmUuenMIr4QaFrZXN"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2020 A-Sketch Inc./MASH A&R",
+      "type": "C"
+    },
+    {
+      "text": "2020 A-Sketch Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4580684123449"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/48XvSrmCPI9TYyuySswd94"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/48XvSrmCPI9TYyuySswd94",
+  "id": "48XvSrmCPI9TYyuySswd94",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bddf04d7bb459cc6cfd6230",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bddf04d7bb459cc6cfd6230",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bddf04d7bb459cc6cfd6230",
+      "width": 64
+    }
+  ],
+  "label": "A-Sketch",
+  "name": "\u7d50",
+  "popularity": 45,
+  "release_date": "2020-03-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/48XvSrmCPI9TYyuySswd94/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WqXqPmUuenMIr4QaFrZXN",
+            "id": "4WqXqPmUuenMIr4QaFrZXN",
+            "name": "Saucy Dog",
+            "type": "artist",
+            "uri": "spotify:artist:4WqXqPmUuenMIr4QaFrZXN"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265043,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Js8mAXoDvL4GiUJGYCRw7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Js8mAXoDvL4GiUJGYCRw7",
+        "id": "4Js8mAXoDvL4GiUJGYCRw7",
+        "is_local": false,
+        "name": "\u7d50",
+        "preview_url": "https://p.scdn.co/mp3-preview/75b01497fe3819c3983cc2b8e0bf4554589f302a?cid=7c8232144d564f669c1de3297fc772eb",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Js8mAXoDvL4GiUJGYCRw7"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:48XvSrmCPI9TYyuySswd94"
+}

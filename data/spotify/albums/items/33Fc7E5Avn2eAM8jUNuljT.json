@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0pCGA9tdtbWwo1pKIs0CFx",
+      "id": "0pCGA9tdtbWwo1pKIs0CFx",
+      "name": "Different Heaven",
+      "type": "artist",
+      "uri": "spotify:artist:0pCGA9tdtbWwo1pKIs0CFx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EkJy0Tz2PYa8ohGWOnqkw",
+      "id": "1EkJy0Tz2PYa8ohGWOnqkw",
+      "name": "EH!DE",
+      "type": "artist",
+      "uri": "spotify:artist:1EkJy0Tz2PYa8ohGWOnqkw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2014 NCS Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5055199510897"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33Fc7E5Avn2eAM8jUNuljT",
+  "id": "33Fc7E5Avn2eAM8jUNuljT",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e2945eb90688e0c45a06936",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e2945eb90688e0c45a06936",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e2945eb90688e0c45a06936",
+      "width": 64
+    }
+  ],
+  "label": "NCS",
+  "name": "My Heart",
+  "popularity": 0,
+  "release_date": "2014-11-13",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33Fc7E5Avn2eAM8jUNuljT/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pCGA9tdtbWwo1pKIs0CFx",
+            "id": "0pCGA9tdtbWwo1pKIs0CFx",
+            "name": "Different Heaven",
+            "type": "artist",
+            "uri": "spotify:artist:0pCGA9tdtbWwo1pKIs0CFx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EkJy0Tz2PYa8ohGWOnqkw",
+            "id": "1EkJy0Tz2PYa8ohGWOnqkw",
+            "name": "EH!DE",
+            "type": "artist",
+            "uri": "spotify:artist:1EkJy0Tz2PYa8ohGWOnqkw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 266900,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08z6EsebfUH0Q6J0Wf3eWf",
+        "id": "08z6EsebfUH0Q6J0Wf3eWf",
+        "is_local": false,
+        "name": "My Heart",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:08z6EsebfUH0Q6J0Wf3eWf"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:33Fc7E5Avn2eAM8jUNuljT"
+}

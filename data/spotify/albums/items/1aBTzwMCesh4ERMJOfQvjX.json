@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7r1VJ53RGn5jqR98Sgpe9l"
+      },
+      "href": "https://api.spotify.com/v1/artists/7r1VJ53RGn5jqR98Sgpe9l",
+      "id": "7r1VJ53RGn5jqR98Sgpe9l",
+      "name": "Elli Eli",
+      "type": "artist",
+      "uri": "spotify:artist:7r1VJ53RGn5jqR98Sgpe9l"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2015 Elli Eli",
+      "type": "C"
+    },
+    {
+      "text": "2015 Elli Eli",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7908533263387"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1aBTzwMCesh4ERMJOfQvjX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1aBTzwMCesh4ERMJOfQvjX",
+  "id": "1aBTzwMCesh4ERMJOfQvjX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f60ba8c27535fcd16829da82",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f60ba8c27535fcd16829da82",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f60ba8c27535fcd16829da82",
+      "width": 64
+    }
+  ],
+  "label": "Elli Eli",
+  "name": "I Got Summer On My Mind",
+  "popularity": 0,
+  "release_date": "2015-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1aBTzwMCesh4ERMJOfQvjX/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7r1VJ53RGn5jqR98Sgpe9l"
+            },
+            "href": "https://api.spotify.com/v1/artists/7r1VJ53RGn5jqR98Sgpe9l",
+            "id": "7r1VJ53RGn5jqR98Sgpe9l",
+            "name": "Elli Eli",
+            "type": "artist",
+            "uri": "spotify:artist:7r1VJ53RGn5jqR98Sgpe9l"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 205055,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vQ5HpRpn8S2qlrZbLsaFr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vQ5HpRpn8S2qlrZbLsaFr",
+        "id": "2vQ5HpRpn8S2qlrZbLsaFr",
+        "is_local": false,
+        "name": "I Got Summer on My Mind",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2vQ5HpRpn8S2qlrZbLsaFr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:1aBTzwMCesh4ERMJOfQvjX"
+}

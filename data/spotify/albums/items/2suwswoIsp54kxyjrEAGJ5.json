@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hyUZZUXjxznTGBAgqTR7V"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hyUZZUXjxznTGBAgqTR7V",
+      "id": "2hyUZZUXjxznTGBAgqTR7V",
+      "name": "ORYL",
+      "type": "artist",
+      "uri": "spotify:artist:2hyUZZUXjxznTGBAgqTR7V"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 XEN MUSIC",
+      "type": "C"
+    },
+    {
+      "text": "2022 XEN MUSIC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196700030598"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2suwswoIsp54kxyjrEAGJ5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2suwswoIsp54kxyjrEAGJ5",
+  "id": "2suwswoIsp54kxyjrEAGJ5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c85b94d4f7f2a2b9ab8e5e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c85b94d4f7f2a2b9ab8e5e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c85b94d4f7f2a2b9ab8e5e3",
+      "width": 64
+    }
+  ],
+  "label": "XEN MUSIC",
+  "name": "Where Is My Mind?",
+  "popularity": 0,
+  "release_date": "2022-02-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2suwswoIsp54kxyjrEAGJ5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hyUZZUXjxznTGBAgqTR7V"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hyUZZUXjxznTGBAgqTR7V",
+            "id": "2hyUZZUXjxznTGBAgqTR7V",
+            "name": "ORYL",
+            "type": "artist",
+            "uri": "spotify:artist:2hyUZZUXjxznTGBAgqTR7V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 138750,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0h3S6zaZj4dBWmHjCOY0l6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0h3S6zaZj4dBWmHjCOY0l6",
+        "id": "0h3S6zaZj4dBWmHjCOY0l6",
+        "is_local": false,
+        "name": "Where Is My Mind?",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0h3S6zaZj4dBWmHjCOY0l6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2suwswoIsp54kxyjrEAGJ5"
+}

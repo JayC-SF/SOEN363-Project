@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+      },
+      "href": "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+      "id": "5X4LWwbUFNzPkEas04uU82",
+      "name": "DVBBS",
+      "type": "artist",
+      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+      },
+      "href": "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+      "id": "2cFrymmkijnjDg9SS92EPM",
+      "name": "blackbear",
+      "type": "artist",
+      "uri": "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2018 Ultra Records, LLC / Kanary Music, Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "2018 Ultra Records, LLC / Kanary Music, Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0617465957154"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2s24NH0jQkr9bAWtQUbS49"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2s24NH0jQkr9bAWtQUbS49",
+  "id": "2s24NH0jQkr9bAWtQUbS49",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273008a348f45c5bbd681dc643c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02008a348f45c5bbd681dc643c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851008a348f45c5bbd681dc643c",
+      "width": 64
+    }
+  ],
+  "label": "Ultra Records",
+  "name": "IDWK",
+  "popularity": 3,
+  "release_date": "2018-06-01",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2s24NH0jQkr9bAWtQUbS49/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+            },
+            "href": "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+            "id": "5X4LWwbUFNzPkEas04uU82",
+            "name": "DVBBS",
+            "type": "artist",
+            "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+            },
+            "href": "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+            "id": "2cFrymmkijnjDg9SS92EPM",
+            "name": "blackbear",
+            "type": "artist",
+            "uri": "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 179999,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BLRlpMYsxeMMOjrcWRhIs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BLRlpMYsxeMMOjrcWRhIs",
+        "id": "5BLRlpMYsxeMMOjrcWRhIs",
+        "is_local": false,
+        "name": "IDWK",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5BLRlpMYsxeMMOjrcWRhIs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:2s24NH0jQkr9bAWtQUbS49"
+}

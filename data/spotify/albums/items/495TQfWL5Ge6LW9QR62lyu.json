@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
+      },
+      "href": "https://api.spotify.com/v1/artists/44GRwsM3LDG7zZqTUVbp60",
+      "id": "44GRwsM3LDG7zZqTUVbp60",
+      "name": "f. fin",
+      "type": "artist",
+      "uri": "spotify:artist:44GRwsM3LDG7zZqTUVbp60"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 Tidemusic",
+      "type": "C"
+    },
+    {
+      "text": "2022 Tidemusic",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196862632623"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/495TQfWL5Ge6LW9QR62lyu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/495TQfWL5Ge6LW9QR62lyu",
+  "id": "495TQfWL5Ge6LW9QR62lyu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736db7c6b092449af33565d386",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026db7c6b092449af33565d386",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516db7c6b092449af33565d386",
+      "width": 64
+    }
+  ],
+  "label": "Tidemusic",
+  "name": "a song, about you",
+  "popularity": 0,
+  "release_date": "2022-04-28",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/495TQfWL5Ge6LW9QR62lyu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
+            },
+            "href": "https://api.spotify.com/v1/artists/44GRwsM3LDG7zZqTUVbp60",
+            "id": "44GRwsM3LDG7zZqTUVbp60",
+            "name": "f. fin",
+            "type": "artist",
+            "uri": "spotify:artist:44GRwsM3LDG7zZqTUVbp60"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 131478,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1toPfZOtGZNUBQXByrr3NQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1toPfZOtGZNUBQXByrr3NQ",
+        "id": "1toPfZOtGZNUBQXByrr3NQ",
+        "is_local": false,
+        "name": "a song, about you",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1toPfZOtGZNUBQXByrr3NQ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:495TQfWL5Ge6LW9QR62lyu"
+}

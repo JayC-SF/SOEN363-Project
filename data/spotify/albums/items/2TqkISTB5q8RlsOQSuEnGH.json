@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HvKzBgj4yphQfBJjBJrhL",
+      "id": "5HvKzBgj4yphQfBJjBJrhL",
+      "name": "Alice Longyu Gao",
+      "type": "artist",
+      "uri": "spotify:artist:5HvKzBgj4yphQfBJjBJrhL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+      },
+      "href": "https://api.spotify.com/v1/artists/4ukk0IyB7vL97QirpOcNr3",
+      "id": "4ukk0IyB7vL97QirpOcNr3",
+      "name": "Alice Glass",
+      "type": "artist",
+      "uri": "spotify:artist:4ukk0IyB7vL97QirpOcNr3"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2021 Alice Longyu Gao",
+      "type": "C"
+    },
+    {
+      "text": "2021 Alice Longyu Gao",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5056495194347"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2TqkISTB5q8RlsOQSuEnGH",
+  "id": "2TqkISTB5q8RlsOQSuEnGH",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273018e1060d4aa61ea91eae556",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02018e1060d4aa61ea91eae556",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851018e1060d4aa61ea91eae556",
+      "width": 64
+    }
+  ],
+  "label": "Alice Longyu Gao",
+  "name": "LEGEND",
+  "popularity": 0,
+  "release_date": "2021-05-27",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2TqkISTB5q8RlsOQSuEnGH/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HvKzBgj4yphQfBJjBJrhL",
+            "id": "5HvKzBgj4yphQfBJjBJrhL",
+            "name": "Alice Longyu Gao",
+            "type": "artist",
+            "uri": "spotify:artist:5HvKzBgj4yphQfBJjBJrhL"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 113518,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20rFX8zQxCp8QPemaecnXi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/20rFX8zQxCp8QPemaecnXi",
+        "id": "20rFX8zQxCp8QPemaecnXi",
+        "is_local": false,
+        "name": "LEGEND - Alg Mix",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:20rFX8zQxCp8QPemaecnXi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HvKzBgj4yphQfBJjBJrhL",
+            "id": "5HvKzBgj4yphQfBJjBJrhL",
+            "name": "Alice Longyu Gao",
+            "type": "artist",
+            "uri": "spotify:artist:5HvKzBgj4yphQfBJjBJrhL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+            },
+            "href": "https://api.spotify.com/v1/artists/4ukk0IyB7vL97QirpOcNr3",
+            "id": "4ukk0IyB7vL97QirpOcNr3",
+            "name": "Alice Glass",
+            "type": "artist",
+            "uri": "spotify:artist:4ukk0IyB7vL97QirpOcNr3"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 157752,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YG6LyULsmNIwxNOTTdTTu",
+        "id": "5YG6LyULsmNIwxNOTTdTTu",
+        "is_local": false,
+        "name": "LEGEND",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5YG6LyULsmNIwxNOTTdTTu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2TqkISTB5q8RlsOQSuEnGH"
+}

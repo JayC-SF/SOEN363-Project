@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+      },
+      "href": "https://api.spotify.com/v1/artists/15QTZYWWbRmiII0wpKIAmu",
+      "id": "15QTZYWWbRmiII0wpKIAmu",
+      "name": "HOHYUN",
+      "type": "artist",
+      "uri": "spotify:artist:15QTZYWWbRmiII0wpKIAmu"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2022 HOHYUN",
+      "type": "C"
+    },
+    {
+      "text": "2022 HOHYUN",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196778912802"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/67XZ4LiSKpvyrK8BLtHyTM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/67XZ4LiSKpvyrK8BLtHyTM",
+  "id": "67XZ4LiSKpvyrK8BLtHyTM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329be628cbc9ae8d9251a6e8b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229be628cbc9ae8d9251a6e8b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129be628cbc9ae8d9251a6e8b",
+      "width": 64
+    }
+  ],
+  "label": "HOHYUN",
+  "name": "SUNSET BOULEVARD",
+  "popularity": 0,
+  "release_date": "2022-03-31",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/67XZ4LiSKpvyrK8BLtHyTM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+            },
+            "href": "https://api.spotify.com/v1/artists/15QTZYWWbRmiII0wpKIAmu",
+            "id": "15QTZYWWbRmiII0wpKIAmu",
+            "name": "HOHYUN",
+            "type": "artist",
+            "uri": "spotify:artist:15QTZYWWbRmiII0wpKIAmu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 190000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YmMihUKJLlR9dTb1TBRpV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YmMihUKJLlR9dTb1TBRpV",
+        "id": "2YmMihUKJLlR9dTb1TBRpV",
+        "is_local": false,
+        "name": "SUNSET BOULEVARD",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2YmMihUKJLlR9dTb1TBRpV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:67XZ4LiSKpvyrK8BLtHyTM"
+}

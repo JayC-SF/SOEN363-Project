@@ -1,0 +1,148 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+      },
+      "href": "https://api.spotify.com/v1/artists/7d41HV53Mpqmn3DBacKaEd",
+      "id": "7d41HV53Mpqmn3DBacKaEd",
+      "name": "Drupatee",
+      "type": "artist",
+      "uri": "spotify:artist:7d41HV53Mpqmn3DBacKaEd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+      "id": "6wxP7SSzfvi21Cnl8JicdQ",
+      "name": "Machel Montano",
+      "type": "artist",
+      "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "(C) 2014 FOX FUSE",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2014 FOX FUSE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889326422754"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2XwOXmK2KAUVSXulFIqymD",
+  "id": "2XwOXmK2KAUVSXulFIqymD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ce6c01bc78856fd070f0bc7a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ce6c01bc78856fd070f0bc7a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ce6c01bc78856fd070f0bc7a",
+      "width": 64
+    }
+  ],
+  "label": "Fox Fuse",
+  "name": "Indian Gyal",
+  "popularity": 0,
+  "release_date": "2015-11-13",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2XwOXmK2KAUVSXulFIqymD/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+            },
+            "href": "https://api.spotify.com/v1/artists/7d41HV53Mpqmn3DBacKaEd",
+            "id": "7d41HV53Mpqmn3DBacKaEd",
+            "name": "Drupatee",
+            "type": "artist",
+            "uri": "spotify:artist:7d41HV53Mpqmn3DBacKaEd"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+            "id": "6wxP7SSzfvi21Cnl8JicdQ",
+            "name": "Machel Montano",
+            "type": "artist",
+            "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 202080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Gwrr6kSMTbKoDhyNZPgY0",
+        "id": "0Gwrr6kSMTbKoDhyNZPgY0",
+        "is_local": false,
+        "name": "Indian Gyal",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Gwrr6kSMTbKoDhyNZPgY0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0weJcPqIUS5vpzteC8OMKZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0weJcPqIUS5vpzteC8OMKZ",
+            "id": "0weJcPqIUS5vpzteC8OMKZ",
+            "name": "MillBeatz Entertainment",
+            "type": "artist",
+            "uri": "spotify:artist:0weJcPqIUS5vpzteC8OMKZ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0A773eeSYU6soYW5DED3je"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0A773eeSYU6soYW5DED3je",
+        "id": "0A773eeSYU6soYW5DED3je",
+        "is_local": false,
+        "name": "Indian Gyal (Instrumental)",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0A773eeSYU6soYW5DED3je"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2XwOXmK2KAUVSXulFIqymD"
+}

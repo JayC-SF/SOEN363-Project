@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+      "id": "4yiQZ8tQPux8cPriYMWUFP",
+      "name": "Gwen Stefani",
+      "type": "artist",
+      "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+      "id": "1UTPBmNbXNTittyMJrNkvw",
+      "name": "Blake Shelton",
+      "type": "artist",
+      "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 BMG Rights Management (US) LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 BMG Rights Management (US) LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4050538964110"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6crsCEK6qj2PmK00pETlAK",
+  "id": "6crsCEK6qj2PmK00pETlAK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736585ca4d2fc553a0c159a670",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026585ca4d2fc553a0c159a670",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516585ca4d2fc553a0c159a670",
+      "width": 64
+    }
+  ],
+  "label": "Broken Bow Records",
+  "name": "Love Is Alive",
+  "popularity": 2,
+  "release_date": "2023-08-18",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6crsCEK6qj2PmK00pETlAK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+            },
+            "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+            "id": "4yiQZ8tQPux8cPriYMWUFP",
+            "name": "Gwen Stefani",
+            "type": "artist",
+            "uri": "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+            "id": "1UTPBmNbXNTittyMJrNkvw",
+            "name": "Blake Shelton",
+            "type": "artist",
+            "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 232056,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65Tyq0mmbLzayumvoK6Ixw",
+        "id": "65Tyq0mmbLzayumvoK6Ixw",
+        "is_local": false,
+        "name": "Love Is Alive",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65Tyq0mmbLzayumvoK6Ixw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:6crsCEK6qj2PmK00pETlAK"
+}

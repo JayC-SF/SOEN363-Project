@@ -1,0 +1,119 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hFufgCsz7uNPvymOJ4gUz"
+      },
+      "href": "https://api.spotify.com/v1/artists/2hFufgCsz7uNPvymOJ4gUz",
+      "id": "2hFufgCsz7uNPvymOJ4gUz",
+      "name": "THCF",
+      "type": "artist",
+      "uri": "spotify:artist:2hFufgCsz7uNPvymOJ4gUz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F"
+      },
+      "href": "https://api.spotify.com/v1/artists/6Qc96byIWUrGk7BHxfvK4F",
+      "id": "6Qc96byIWUrGk7BHxfvK4F",
+      "name": "Coby",
+      "type": "artist",
+      "uri": "spotify:artist:6Qc96byIWUrGk7BHxfvK4F"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2017 IDJTunes",
+      "type": "C"
+    },
+    {
+      "text": "2017 IDJTunes",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8606017476542"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/34skM7mS3q4IU8aQNMs9ud"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/34skM7mS3q4IU8aQNMs9ud",
+  "id": "34skM7mS3q4IU8aQNMs9ud",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe95d91376a9923fc9afd1cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe95d91376a9923fc9afd1cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe95d91376a9923fc9afd1cf",
+      "width": 64
+    }
+  ],
+  "label": "IDJTunes",
+  "name": "Ekipa Najjaca",
+  "popularity": 0,
+  "release_date": "2017-11-15",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/34skM7mS3q4IU8aQNMs9ud/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hFufgCsz7uNPvymOJ4gUz"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hFufgCsz7uNPvymOJ4gUz",
+            "id": "2hFufgCsz7uNPvymOJ4gUz",
+            "name": "THCF",
+            "type": "artist",
+            "uri": "spotify:artist:2hFufgCsz7uNPvymOJ4gUz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Qc96byIWUrGk7BHxfvK4F",
+            "id": "6Qc96byIWUrGk7BHxfvK4F",
+            "name": "Coby",
+            "type": "artist",
+            "uri": "spotify:artist:6Qc96byIWUrGk7BHxfvK4F"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 235622,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74brJtCTGdfYuRPoqFSV0K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74brJtCTGdfYuRPoqFSV0K",
+        "id": "74brJtCTGdfYuRPoqFSV0K",
+        "is_local": false,
+        "name": "Ekipa Najjaca",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:74brJtCTGdfYuRPoqFSV0K"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:34skM7mS3q4IU8aQNMs9ud"
+}

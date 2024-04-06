@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+      "id": "3836OTICMPjhTMMcpPw4EC",
+      "name": "Broiler",
+      "type": "artist",
+      "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+    }
+  ],
+  "available_markets": [],
+  "copyrights": [
+    {
+      "text": "2012 Sky Music",
+      "type": "C"
+    },
+    {
+      "text": "2012 Sky Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "7071676116985"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0jVEYsmx7LuU86aruZfqUQ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0jVEYsmx7LuU86aruZfqUQ",
+  "id": "0jVEYsmx7LuU86aruZfqUQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed2d05bc00f9aaf394c6e4d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed2d05bc00f9aaf394c6e4d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed2d05bc00f9aaf394c6e4d5",
+      "width": 64
+    }
+  ],
+  "label": "Sky Music",
+  "name": "Keegas",
+  "popularity": 0,
+  "release_date": "2012-11-25",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0jVEYsmx7LuU86aruZfqUQ/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+            },
+            "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+            "id": "3836OTICMPjhTMMcpPw4EC",
+            "name": "Broiler",
+            "type": "artist",
+            "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243441,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ICBeexevS9rYGOYBZvrMz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ICBeexevS9rYGOYBZvrMz",
+        "id": "7ICBeexevS9rYGOYBZvrMz",
+        "is_local": false,
+        "name": "Keegas",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ICBeexevS9rYGOYBZvrMz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:0jVEYsmx7LuU86aruZfqUQ"
+}
